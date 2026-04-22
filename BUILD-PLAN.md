@@ -46,8 +46,9 @@
 
 ## Remaining Stages
 
-### Stage 2G — Event Security Silo (15 P1 cities)
-- [ ] Event security pages for: Lagos, Nairobi, Johannesburg, Bogota, Mexico City, Istanbul, Riyadh, Dubai, Mumbai, Moscow, Sao Paulo, Manila, Karachi, Bangkok, Jakarta
+### Stage 2G — Event Security Silo (16 conference cities)
+- [x] Event security pages built: Lagos, Nairobi, Johannesburg, Bogota, Mexico City, Istanbul, Dubai, Mumbai, Moscow, Bangkok, London, New York, Paris, Singapore, Sydney, Tokyo
+- **NOTE:** 5 P1 cities NOT covered: Riyadh, Sao Paulo, Manila, Karachi, Jakarta. Previous session chose 16 major conference cities over strict P1 list. To be addressed in a supplementary pass if required.
 
 ### Stage 2H — Travel Safety Guides Batch 1
 - [ ] 15 travel safety guide pages for P1 cities
@@ -77,3 +78,5 @@
 | Date | Stage | Pages Added | Total Pages | Notes |
 |------|-------|-------------|-------------|-------|
 | Pre-migration | 2A-2F | 121 | 121 | Migrated to standalone VS Code instance |
+| 22 Apr 2026 | 2G | 16 | 143 | Event security silo: 16 conference cities via generate_event_security_pages.py. Hugo: 143 pages, 0 errors. Deployed. |
+| 22 Apr 2026 | Setup | 0 | 143 | New chat session initiated. Build plan synced. BUILD-PLAN.md updated. Next: Stage 2H. |
