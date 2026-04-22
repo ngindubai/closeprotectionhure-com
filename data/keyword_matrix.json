@@ -1,0 +1,1556 @@
+{
+  "_metadata": {
+    "compiled": "2026-04-15",
+    "purpose": "Keyword research matrix for security-bodyguard SEO build",
+    "scope": "15 P1 cities x 5 service silos = 75 primary keyword clusters + supporting keywords + informational queries",
+    "methodology": "Query pattern analysis from competitor sites (GardaWorld, Global Guardian, AS Solution, Pinkerton, Control Risks), FCDO/State Dept risk data cross-referenced with search intent, and buyer behaviour research for corporate security directors and HNWI personal assistants.",
+    "volume_estimates": "Ranges based on niche characteristics. Security queries are LOW volume but VERY HIGH intent and value ($1K-15K per conversion). Volume categories: VL (<20/mo), L (20-100/mo), M (100-500/mo), H (500-2000/mo), VH (2000+/mo).",
+    "live_tool_note": "No Ahrefs/SEMrush access. Volume estimates are directional based on niche size, city population, expat/business traveller volume, and risk level. Gareth should validate top-50 keywords against Ahrefs when available.",
+    "serp_context": "Security queries typically show: (1) local security companies with Google Business profiles, (2) international firms like GardaWorld/Global Guardian, (3) travel advisory pages, (4) Quora/Reddit discussions, (5) news about security incidents. Very few well-optimised city-specific pages exist, creating a gap."
+  },
+
+  "silo_definitions": {
+    "bodyguard_hire": {
+      "silo_slug": "bodyguard-hire",
+      "target_buyer": "Individual or PA searching for personal protection. Mix of corporate and HNWI.",
+      "buying_stage": "Mid-to-late funnel. Knows they need a bodyguard, searching for provider.",
+      "avg_conversion_value_usd": "2000-5000/day",
+      "primary_keyword_patterns": [
+        "bodyguard hire {city}",
+        "hire bodyguard {city}",
+        "bodyguard {city}",
+        "personal bodyguard {city}",
+        "bodyguard services {city}",
+        "hire a bodyguard in {city}",
+        "bodyguard for hire {city}",
+        "bodyguard company {city}"
+      ],
+      "secondary_keyword_patterns": [
+        "bodyguard hire {country}",
+        "personal protection {city}",
+        "close protection {city}",
+        "close protection officer {city}",
+        "CPO {city}",
+        "armed bodyguard {city}",
+        "unarmed bodyguard {city}",
+        "female bodyguard {city}",
+        "bodyguard cost {city}",
+        "bodyguard price {city}",
+        "how much does a bodyguard cost in {city}"
+      ],
+      "long_tail_patterns": [
+        "bodyguard hire {city} for business trip",
+        "temporary bodyguard {city}",
+        "short term bodyguard {city}",
+        "bodyguard for tourists {city}",
+        "bodyguard hire {city} prices",
+        "best bodyguard company {city}",
+        "trusted bodyguard service {city}",
+        "24 hour bodyguard {city}",
+        "english speaking bodyguard {city}"
+      ]
+    },
+    "executive_protection": {
+      "silo_slug": "executive-protection",
+      "target_buyer": "Corporate security director or travel risk manager. B2B buyer.",
+      "buying_stage": "Research-to-purchase. Often comparing multiple providers.",
+      "avg_conversion_value_usd": "3000-15000/trip",
+      "primary_keyword_patterns": [
+        "executive protection {city}",
+        "executive protection services {city}",
+        "executive protection {country}",
+        "EP services {city}",
+        "executive security {city}",
+        "corporate security {city}",
+        "VIP protection {city}"
+      ],
+      "secondary_keyword_patterns": [
+        "executive protection company {city}",
+        "executive protection firm {city}",
+        "corporate travel security {city}",
+        "business travel security {country}",
+        "CEO protection {city}",
+        "C-suite security {city}",
+        "executive protection team {city}",
+        "executive protection cost {city}",
+        "executive protection rates {city}"
+      ],
+      "long_tail_patterns": [
+        "executive protection for business travel to {city}",
+        "executive protection services {country} cost",
+        "best executive protection company {city}",
+        "international executive protection {city}",
+        "executive protection advance team {city}",
+        "executive protection with secure transport {city}",
+        "executive protection for conference in {city}",
+        "vetted executive protection {city}"
+      ]
+    },
+    "security_drivers": {
+      "silo_slug": "security-drivers",
+      "target_buyer": "Corporate traveller or PA needing secure ground transport. High urgency.",
+      "buying_stage": "Often late funnel. Trip is booked, need transport sorted.",
+      "avg_conversion_value_usd": "500-2000/day",
+      "primary_keyword_patterns": [
+        "security driver {city}",
+        "secure transport {city}",
+        "armoured car hire {city}",
+        "secure driver {city}",
+        "security driver service {city}",
+        "armed driver {city}"
+      ],
+      "secondary_keyword_patterns": [
+        "armoured vehicle hire {city}",
+        "bulletproof car hire {city}",
+        "safe transport {city}",
+        "airport transfer security {city}",
+        "secure airport pickup {city}",
+        "chauffeur security {city}",
+        "security driver {country}",
+        "private security transport {city}",
+        "secure vehicle {city}",
+        "security escort {city}"
+      ],
+      "long_tail_patterns": [
+        "hire armoured car with driver {city}",
+        "secure airport transfer {city} to hotel",
+        "security driver for business trip {city}",
+        "how much does a security driver cost in {city}",
+        "armoured vehicle rental {city} with driver",
+        "safe transport from {city} airport",
+        "security driver service {city} rates"
+      ]
+    },
+    "event_security": {
+      "silo_slug": "event-security",
+      "target_buyer": "Event organiser, conference planner, corporate events team.",
+      "buying_stage": "Planning stage. Longer lead time than personal protection.",
+      "avg_conversion_value_usd": "5000-50000/event",
+      "primary_keyword_patterns": [
+        "event security {city}",
+        "event security services {city}",
+        "conference security {city}",
+        "corporate event security {city}",
+        "event security company {city}"
+      ],
+      "secondary_keyword_patterns": [
+        "event security {country}",
+        "private event security {city}",
+        "security for events {city}",
+        "wedding security {city}",
+        "gala security {city}",
+        "trade show security {city}",
+        "venue security {city}",
+        "event security guards {city}",
+        "event risk assessment {city}",
+        "event security planning {city}"
+      ],
+      "long_tail_patterns": [
+        "hire event security team {city}",
+        "security for international conference {city}",
+        "corporate event security provider {city}",
+        "how much does event security cost in {city}",
+        "event security with close protection {city}",
+        "security for product launch {city}"
+      ]
+    },
+    "residential_security": {
+      "silo_slug": "residential-security",
+      "target_buyer": "Expat, HNWI, or family office. Ongoing contract, not one-off.",
+      "buying_stage": "Research stage. Typically relocating or already resident and reassessing.",
+      "avg_conversion_value_usd": "3000-15000/month (recurring)",
+      "primary_keyword_patterns": [
+        "residential security {city}",
+        "home security {city}",
+        "residential security services {city}",
+        "house security {city}",
+        "compound security {city}"
+      ],
+      "secondary_keyword_patterns": [
+        "residential security guards {city}",
+        "gated community security {city}",
+        "expat home security {city}",
+        "villa security {city}",
+        "residential security {country}",
+        "24 hour home security {city}",
+        "manned guarding residential {city}",
+        "security patrol {city}",
+        "residential alarm monitoring {city}",
+        "safe room installation {city}"
+      ],
+      "long_tail_patterns": [
+        "residential security for expats in {city}",
+        "hire security guard for house {city}",
+        "residential security company {city} cost",
+        "best residential security provider {city}",
+        "home invasion prevention {city}",
+        "family security {city}",
+        "24 hour residential security guard {city}"
+      ]
+    }
+  },
+
+  "informational_silos": {
+    "risk_assessments": {
+      "silo_slug": "risk-assessments",
+      "purpose": "Top-of-funnel capture. People researching city safety before trips. Converts to service enquiry.",
+      "keyword_patterns": [
+        "is {city} safe",
+        "is {city} safe for tourists",
+        "is {city} safe to visit",
+        "is {city} safe for business",
+        "is {country} safe to travel to",
+        "{city} safety",
+        "{city} crime rate",
+        "{city} dangerous areas",
+        "{city} security situation",
+        "{city} travel safety",
+        "safety in {city}",
+        "crime in {city}",
+        "{city} risk assessment",
+        "{city} travel risk",
+        "areas to avoid in {city}",
+        "safest areas in {city}",
+        "{city} kidnapping risk",
+        "{city} terrorism risk"
+      ],
+      "volume_note": "MUCH higher volume than commercial queries. 'is Lagos safe' gets 10-50x the traffic of 'bodyguard hire Lagos'. These pages are the top-of-funnel lead magnets."
+    },
+    "guides": {
+      "silo_slug": "guides",
+      "purpose": "Authority building + long-tail traffic. Security regulations, travel safety guides.",
+      "keyword_patterns": [
+        "travelling safely in {country}",
+        "security tips {city}",
+        "business travel safety {country}",
+        "can bodyguards carry guns in {country}",
+        "security regulations {country}",
+        "private security laws {country}",
+        "firearms laws {country}",
+        "bodyguard licensing {country}",
+        "security industry {country}",
+        "how to stay safe in {city}",
+        "safety guide {city}",
+        "{country} security clearance requirements",
+        "foreign security operators in {country}"
+      ]
+    }
+  },
+
+  "keyword_clusters": {
+    "_note": "75 primary clusters (15 cities x 5 silos). Each cluster contains the primary commercial keyword, estimated monthly volume, keyword difficulty assessment, SERP gap analysis, and recommended H1/title tag.",
+
+    "lagos": {
+      "city": "Lagos",
+      "country": "Nigeria",
+      "country_slug": "nigeria",
+      "risk_level": "CRITICAL",
+      "expat_business_volume": "HIGH",
+      "language": "en",
+      "local_currency": "NGN",
+      "clusters": {
+        "bodyguard_hire": {
+          "primary_kw": "bodyguard hire Lagos",
+          "volume_est": "L",
+          "monthly_range": "30-80",
+          "kd_est": "LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "HIGH. Few quality city-specific pages. GardaWorld has Nigeria page but not Lagos-specific. Local Nigerian security firms have poor SEO.",
+          "recommended_h1": "Bodyguard Hire in Lagos, Nigeria",
+          "title_tag": "Bodyguard Hire Lagos | Vetted Close Protection Officers | [Brand]",
+          "supporting_kws": ["hire bodyguard Lagos", "bodyguard Lagos Nigeria", "personal bodyguard Lagos", "armed bodyguard Lagos", "close protection Lagos", "bodyguard cost Lagos", "bodyguard services Lagos"],
+          "faq_targets": ["How much does a bodyguard cost in Lagos?", "Can bodyguards carry firearms in Nigeria?", "Do I need a bodyguard in Lagos?", "How to hire a trusted bodyguard in Lagos"]
+        },
+        "executive_protection": {
+          "primary_kw": "executive protection Lagos",
+          "volume_est": "L",
+          "monthly_range": "20-60",
+          "kd_est": "LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH. Corporate security directors searching this are underserved. Global Guardian has a Nigeria page but not city-level.",
+          "recommended_h1": "Executive Protection Services in Lagos, Nigeria",
+          "title_tag": "Executive Protection Lagos | Corporate Security Services | [Brand]",
+          "supporting_kws": ["executive protection Nigeria", "corporate security Lagos", "VIP protection Lagos", "executive security Lagos", "EP services Lagos", "business travel security Lagos"],
+          "faq_targets": ["What does executive protection cost in Lagos?", "How do I arrange executive protection for a business trip to Lagos?", "What security level do executives need in Lagos?"]
+        },
+        "security_drivers": {
+          "primary_kw": "security driver Lagos",
+          "volume_est": "L",
+          "monthly_range": "20-50",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "VERY HIGH. Almost no quality pages for this specific query. Major opportunity.",
+          "recommended_h1": "Security Drivers in Lagos, Nigeria",
+          "title_tag": "Security Driver Lagos | Armoured Vehicle Hire & Secure Transport | [Brand]",
+          "supporting_kws": ["armoured car hire Lagos", "secure transport Lagos", "safe transport Lagos", "airport security transfer Lagos", "bulletproof car Lagos"],
+          "faq_targets": ["Do I need a security driver in Lagos?", "How much does armoured car hire cost in Lagos?", "Is it safe to use Uber in Lagos?"]
+        },
+        "event_security": {
+          "primary_kw": "event security Lagos",
+          "volume_est": "L",
+          "monthly_range": "20-50",
+          "kd_est": "LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH. Local event companies exist but international-quality event security for corporate/diplomatic events is underserved.",
+          "recommended_h1": "Event Security Services in Lagos, Nigeria",
+          "title_tag": "Event Security Lagos | Conference & Corporate Event Protection | [Brand]",
+          "supporting_kws": ["conference security Lagos", "corporate event security Lagos", "event security company Lagos", "event security Nigeria"],
+          "faq_targets": ["How much does event security cost in Lagos?", "What security do I need for a conference in Lagos?"]
+        },
+        "residential_security": {
+          "primary_kw": "residential security Lagos",
+          "volume_est": "L",
+          "monthly_range": "30-80",
+          "kd_est": "LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "MEDIUM. Some local security companies target this. Expat-focused content is the differentiator.",
+          "recommended_h1": "Residential Security in Lagos, Nigeria",
+          "title_tag": "Residential Security Lagos | Expat Home Protection & Guards | [Brand]",
+          "supporting_kws": ["home security Lagos", "residential security guards Lagos", "compound security Lagos", "expat security Lagos", "Ikoyi security", "Victoria Island security", "Lekki security"],
+          "faq_targets": ["Which areas of Lagos are safest for expats?", "How much does residential security cost in Lagos?", "Do expats need compound security in Lagos?"]
+        }
+      },
+      "informational_kws": {
+        "primary": "is Lagos safe",
+        "volume_est": "H",
+        "monthly_range": "1000-3000",
+        "supporting": ["is Lagos safe for tourists", "Lagos crime rate", "Lagos dangerous areas", "areas to avoid in Lagos", "Lagos safety 2026", "Lagos kidnapping risk", "is Lagos safe for business travel", "safest areas in Lagos"]
+      }
+    },
+
+    "nairobi": {
+      "city": "Nairobi",
+      "country": "Kenya",
+      "country_slug": "kenya",
+      "risk_level": "HIGH",
+      "expat_business_volume": "HIGH",
+      "language": "en",
+      "local_currency": "KES",
+      "clusters": {
+        "bodyguard_hire": {
+          "primary_kw": "bodyguard hire Nairobi",
+          "volume_est": "L",
+          "monthly_range": "20-60",
+          "kd_est": "LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "HIGH. Nairobi is a major NGO/aid hub. Security demand is consistent but few city-specific pages exist.",
+          "recommended_h1": "Bodyguard Hire in Nairobi, Kenya",
+          "title_tag": "Bodyguard Hire Nairobi | Vetted Close Protection Officers | [Brand]",
+          "supporting_kws": ["hire bodyguard Nairobi", "personal security Nairobi", "close protection Nairobi", "bodyguard Kenya", "bodyguard services Nairobi"],
+          "faq_targets": ["How much does a bodyguard cost in Nairobi?", "Do bodyguards in Kenya carry firearms?", "Is Nairobi safe for business travellers?"]
+        },
+        "executive_protection": {
+          "primary_kw": "executive protection Nairobi",
+          "volume_est": "L",
+          "monthly_range": "20-50",
+          "kd_est": "LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH. Major UN/NGO hub means consistent corporate security demand.",
+          "recommended_h1": "Executive Protection Services in Nairobi, Kenya",
+          "title_tag": "Executive Protection Nairobi | Corporate & NGO Security | [Brand]",
+          "supporting_kws": ["executive protection Kenya", "corporate security Nairobi", "NGO security Nairobi", "VIP protection Nairobi"],
+          "faq_targets": ["What executive protection is available in Nairobi?", "Do NGOs use executive protection in Kenya?"]
+        },
+        "security_drivers": {
+          "primary_kw": "security driver Nairobi",
+          "volume_est": "VL",
+          "monthly_range": "10-30",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "VERY HIGH. Massive gap. Carjacking is the #1 threat in Nairobi and people are searching for secure transport.",
+          "recommended_h1": "Security Drivers in Nairobi, Kenya",
+          "title_tag": "Security Driver Nairobi | Secure Transport & Armoured Vehicles | [Brand]",
+          "supporting_kws": ["secure transport Nairobi", "armoured car Nairobi", "safe driver Nairobi", "JKIA secure transfer"],
+          "faq_targets": ["Do I need a security driver in Nairobi?", "Is carjacking common in Nairobi?", "How much does secure transport cost in Nairobi?"]
+        },
+        "event_security": {
+          "primary_kw": "event security Nairobi",
+          "volume_est": "VL",
+          "monthly_range": "10-30",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH. Nairobi hosts major conferences (UN-Habitat, tech conferences). International event security is underserved.",
+          "recommended_h1": "Event Security Services in Nairobi, Kenya",
+          "title_tag": "Event Security Nairobi | Conference & Corporate Event Protection | [Brand]",
+          "supporting_kws": ["conference security Nairobi", "event security Kenya", "diplomatic event security Nairobi"],
+          "faq_targets": ["What security is needed for conferences in Nairobi?", "How much does event security cost in Nairobi?"]
+        },
+        "residential_security": {
+          "primary_kw": "residential security Nairobi",
+          "volume_est": "L",
+          "monthly_range": "20-60",
+          "kd_est": "LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "MEDIUM. Local security companies (Wells Fargo Kenya, G4S Kenya) compete. International quality is the gap.",
+          "recommended_h1": "Residential Security in Nairobi, Kenya",
+          "title_tag": "Residential Security Nairobi | Expat Home Protection & Guards | [Brand]",
+          "supporting_kws": ["home security Nairobi", "residential guards Nairobi", "Karen security Nairobi", "Westlands security", "Runda security", "compound security Kenya"],
+          "faq_targets": ["Which Nairobi neighbourhoods are safest?", "How much does residential security cost in Nairobi?"]
+        }
+      },
+      "informational_kws": {
+        "primary": "is Nairobi safe",
+        "volume_est": "H",
+        "monthly_range": "1000-3000",
+        "supporting": ["is Nairobi safe for tourists", "Nairobi crime rate", "Nairobi dangerous areas", "is Kenya safe", "Nairobi safety tips", "Eastleigh Nairobi safety"]
+      }
+    },
+
+    "johannesburg": {
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "country_slug": "south-africa",
+      "risk_level": "CRITICAL",
+      "expat_business_volume": "HIGH",
+      "language": "en",
+      "local_currency": "ZAR",
+      "clusters": {
+        "bodyguard_hire": {
+          "primary_kw": "bodyguard hire Johannesburg",
+          "volume_est": "L",
+          "monthly_range": "30-80",
+          "kd_est": "MEDIUM",
+          "intent": "commercial_transactional",
+          "serp_gap": "MEDIUM. South Africa has a mature private security industry. Local companies compete. International quality + trust signals are the differentiator.",
+          "recommended_h1": "Bodyguard Hire in Johannesburg, South Africa",
+          "title_tag": "Bodyguard Hire Johannesburg | Vetted Close Protection Officers | [Brand]",
+          "supporting_kws": ["hire bodyguard Johannesburg", "bodyguard Joburg", "personal protection Johannesburg", "close protection Johannesburg", "bodyguard hire South Africa", "CPO Johannesburg"],
+          "faq_targets": ["How much does a bodyguard cost in Johannesburg?", "Are bodyguards armed in South Africa?", "Do I need a bodyguard at OR Tambo airport?"]
+        },
+        "executive_protection": {
+          "primary_kw": "executive protection Johannesburg",
+          "volume_est": "L",
+          "monthly_range": "20-60",
+          "kd_est": "MEDIUM",
+          "intent": "commercial_investigation",
+          "serp_gap": "MEDIUM. Mature market. Brands like Calibre One, Nicholls Steyn compete locally.",
+          "recommended_h1": "Executive Protection Services in Johannesburg, South Africa",
+          "title_tag": "Executive Protection Johannesburg | Corporate Security Services | [Brand]",
+          "supporting_kws": ["executive protection South Africa", "corporate security Johannesburg", "VIP protection Johannesburg", "Sandton executive protection"],
+          "faq_targets": ["What does executive protection cost in Johannesburg?", "Which areas of Johannesburg are most dangerous for executives?"]
+        },
+        "security_drivers": {
+          "primary_kw": "security driver Johannesburg",
+          "volume_est": "L",
+          "monthly_range": "30-80",
+          "kd_est": "LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "HIGH. Carjacking capital of the world. Huge demand for secure transport but fragmented supply.",
+          "recommended_h1": "Security Drivers in Johannesburg, South Africa",
+          "title_tag": "Security Driver Johannesburg | Armoured Vehicle Hire & Secure Transport | [Brand]",
+          "supporting_kws": ["armoured car hire Johannesburg", "secure transport Joburg", "bulletproof car hire South Africa", "OR Tambo airport security transfer", "safe transport Johannesburg"],
+          "faq_targets": ["Is carjacking common in Johannesburg?", "Should I hire a security driver from OR Tambo?", "How much does armoured car hire cost in Johannesburg?"]
+        },
+        "event_security": {
+          "primary_kw": "event security Johannesburg",
+          "volume_est": "L",
+          "monthly_range": "30-80",
+          "kd_est": "MEDIUM",
+          "intent": "commercial_investigation",
+          "serp_gap": "MEDIUM. Active events industry. Sandton Convention Centre, corporate events. Local competition exists.",
+          "recommended_h1": "Event Security Services in Johannesburg, South Africa",
+          "title_tag": "Event Security Johannesburg | Conference & Corporate Event Protection | [Brand]",
+          "supporting_kws": ["event security South Africa", "conference security Johannesburg", "Sandton event security", "corporate event security Joburg"],
+          "faq_targets": ["What security is needed for events in Johannesburg?", "How much does event security cost in South Africa?"]
+        },
+        "residential_security": {
+          "primary_kw": "residential security Johannesburg",
+          "volume_est": "M",
+          "monthly_range": "100-300",
+          "kd_est": "MEDIUM",
+          "intent": "commercial_investigation",
+          "serp_gap": "LOW. Highly competitive. South Africa has massive residential security market (ADT, Fidelity, Chubb). Opportunity is in premium/expat tier.",
+          "recommended_h1": "Residential Security in Johannesburg, South Africa",
+          "title_tag": "Residential Security Johannesburg | Premium Home Protection & Guards | [Brand]",
+          "supporting_kws": ["home security Johannesburg", "residential security guards Joburg", "Sandton residential security", "Houghton security", "armed response Johannesburg", "estate security South Africa"],
+          "faq_targets": ["Which Johannesburg suburbs are safest?", "How much does residential security cost in Johannesburg?", "Do I need armed response in Johannesburg?"]
+        }
+      },
+      "informational_kws": {
+        "primary": "is Johannesburg safe",
+        "volume_est": "VH",
+        "monthly_range": "3000-8000",
+        "supporting": ["is Johannesburg safe for tourists", "Johannesburg crime rate", "Johannesburg dangerous areas", "is Joburg safe", "safest suburbs Johannesburg", "Johannesburg carjacking statistics"]
+      }
+    },
+
+    "bogota": {
+      "city": "Bogota",
+      "country": "Colombia",
+      "country_slug": "colombia",
+      "risk_level": "HIGH",
+      "expat_business_volume": "MEDIUM",
+      "language": "es",
+      "local_currency": "COP",
+      "clusters": {
+        "bodyguard_hire": {
+          "primary_kw": "bodyguard hire Bogota",
+          "volume_est": "VL",
+          "monthly_range": "10-30",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "VERY HIGH. English-language content for Bogota security is extremely thin. Most results are Spanish-language local companies.",
+          "recommended_h1": "Bodyguard Hire in Bogota, Colombia",
+          "title_tag": "Bodyguard Hire Bogota | Vetted Close Protection Officers Colombia | [Brand]",
+          "supporting_kws": ["hire bodyguard Bogota", "personal bodyguard Bogota", "bodyguard Colombia", "close protection Bogota", "armed bodyguard Colombia", "guardaespaldas Bogota"],
+          "faq_targets": ["Can bodyguards carry firearms in Colombia?", "How much does a bodyguard cost in Bogota?", "Is Bogota safe for business travellers?"]
+        },
+        "executive_protection": {
+          "primary_kw": "executive protection Bogota",
+          "volume_est": "VL",
+          "monthly_range": "10-30",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "VERY HIGH. Colombia's corporate security market growing fast. English content gap massive.",
+          "recommended_h1": "Executive Protection Services in Bogota, Colombia",
+          "title_tag": "Executive Protection Bogota | Corporate Security Services Colombia | [Brand]",
+          "supporting_kws": ["executive protection Colombia", "corporate security Bogota", "VIP protection Bogota", "business security Colombia"],
+          "faq_targets": ["What executive protection is needed in Bogota?", "Is Colombia safe for corporate travel?"]
+        },
+        "security_drivers": {
+          "primary_kw": "security driver Bogota",
+          "volume_est": "VL",
+          "monthly_range": "10-20",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "VERY HIGH. Express kidnapping threat makes this essential. Almost zero English-language content.",
+          "recommended_h1": "Security Drivers in Bogota, Colombia",
+          "title_tag": "Security Driver Bogota | Armoured Vehicle Hire & Secure Transport | [Brand]",
+          "supporting_kws": ["armoured car Bogota", "secure transport Bogota", "safe driver Colombia", "El Dorado airport secure transfer"],
+          "faq_targets": ["Do I need a security driver in Bogota?", "Is express kidnapping still common in Bogota?"]
+        },
+        "event_security": {
+          "primary_kw": "event security Bogota",
+          "volume_est": "VL",
+          "monthly_range": "10-20",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "VERY HIGH. Growing conference market. International security consulting demand rising.",
+          "recommended_h1": "Event Security Services in Bogota, Colombia",
+          "title_tag": "Event Security Bogota | Conference & Corporate Event Protection | [Brand]",
+          "supporting_kws": ["conference security Bogota", "event security Colombia", "corporate event security Bogota"],
+          "faq_targets": ["What security do I need for an event in Bogota?"]
+        },
+        "residential_security": {
+          "primary_kw": "residential security Bogota",
+          "volume_est": "VL",
+          "monthly_range": "10-20",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH. Expat community growing. English content virtually absent.",
+          "recommended_h1": "Residential Security in Bogota, Colombia",
+          "title_tag": "Residential Security Bogota | Expat Home Protection | [Brand]",
+          "supporting_kws": ["home security Bogota", "residential guards Bogota", "expat security Colombia", "Chico Norte security", "Usaquen security"],
+          "faq_targets": ["Which areas of Bogota are safest for expats?", "How much does residential security cost in Bogota?"]
+        }
+      },
+      "informational_kws": {
+        "primary": "is Bogota safe",
+        "volume_est": "H",
+        "monthly_range": "2000-5000",
+        "supporting": ["is Bogota safe for tourists", "Bogota crime rate", "is Colombia safe", "Bogota dangerous areas", "Bogota safety tips", "express kidnapping Bogota"]
+      }
+    },
+
+    "mexico_city": {
+      "city": "Mexico City",
+      "country": "Mexico",
+      "country_slug": "mexico",
+      "risk_level": "HIGH",
+      "expat_business_volume": "VERY_HIGH",
+      "language": "es",
+      "local_currency": "MXN",
+      "clusters": {
+        "bodyguard_hire": {
+          "primary_kw": "bodyguard hire Mexico City",
+          "volume_est": "L",
+          "monthly_range": "30-80",
+          "kd_est": "LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "HIGH. Massive market (21M metro). English-language security content very thin despite huge expat/business traveller population.",
+          "recommended_h1": "Bodyguard Hire in Mexico City, Mexico",
+          "title_tag": "Bodyguard Hire Mexico City | Vetted Close Protection Officers | [Brand]",
+          "supporting_kws": ["hire bodyguard Mexico City", "bodyguard CDMX", "personal protection Mexico City", "close protection Mexico City", "bodyguard Mexico"],
+          "faq_targets": ["How much does a bodyguard cost in Mexico City?", "Can bodyguards carry guns in Mexico?", "Do I need a bodyguard in Mexico City?"]
+        },
+        "executive_protection": {
+          "primary_kw": "executive protection Mexico City",
+          "volume_est": "L",
+          "monthly_range": "20-60",
+          "kd_est": "LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH. Major business destination with Fortune 500 offices. Corporate security demand high.",
+          "recommended_h1": "Executive Protection Services in Mexico City, Mexico",
+          "title_tag": "Executive Protection Mexico City | Corporate Security Services | [Brand]",
+          "supporting_kws": ["executive protection Mexico", "corporate security Mexico City", "VIP protection CDMX", "CEO security Mexico"],
+          "faq_targets": ["What executive protection is available in Mexico City?", "Is Mexico City safe for business executives?"]
+        },
+        "security_drivers": {
+          "primary_kw": "security driver Mexico City",
+          "volume_est": "L",
+          "monthly_range": "20-50",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "VERY HIGH. Express kidnapping risk drives demand. Zero quality English content.",
+          "recommended_h1": "Security Drivers in Mexico City, Mexico",
+          "title_tag": "Security Driver Mexico City | Armoured Vehicle Hire & Secure Transport | [Brand]",
+          "supporting_kws": ["armoured car Mexico City", "secure transport CDMX", "safe driver Mexico City", "AICM airport secure transfer"],
+          "faq_targets": ["Do I need a security driver in Mexico City?", "How much does armoured vehicle hire cost in Mexico City?"]
+        },
+        "event_security": {
+          "primary_kw": "event security Mexico City",
+          "volume_est": "L",
+          "monthly_range": "20-50",
+          "kd_est": "LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "MEDIUM. Active events market (Centro Citibanamex, etc). Some competition from local firms.",
+          "recommended_h1": "Event Security Services in Mexico City, Mexico",
+          "title_tag": "Event Security Mexico City | Conference & Corporate Event Protection | [Brand]",
+          "supporting_kws": ["conference security Mexico City", "event security Mexico", "corporate event security CDMX"],
+          "faq_targets": ["What security do I need for a conference in Mexico City?"]
+        },
+        "residential_security": {
+          "primary_kw": "residential security Mexico City",
+          "volume_est": "L",
+          "monthly_range": "20-50",
+          "kd_est": "LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH. Large expat community (Polanco, Condesa, Roma). English content very thin.",
+          "recommended_h1": "Residential Security in Mexico City, Mexico",
+          "title_tag": "Residential Security Mexico City | Expat Home Protection | [Brand]",
+          "supporting_kws": ["home security Mexico City", "Polanco security", "Condesa security", "expat security Mexico City", "residential guards CDMX"],
+          "faq_targets": ["Which areas of Mexico City are safest for expats?", "How much does residential security cost in Mexico City?"]
+        }
+      },
+      "informational_kws": {
+        "primary": "is Mexico City safe",
+        "volume_est": "VH",
+        "monthly_range": "5000-15000",
+        "supporting": ["is Mexico City safe for tourists", "Mexico City crime", "Mexico City dangerous areas", "is CDMX safe", "Mexico City safety 2026", "Polanco safety"]
+      }
+    },
+
+    "istanbul": {
+      "city": "Istanbul",
+      "country": "Turkey",
+      "country_slug": "turkey",
+      "risk_level": "MEDIUM",
+      "expat_business_volume": "HIGH",
+      "language": "tr",
+      "local_currency": "TRY",
+      "clusters": {
+        "bodyguard_hire": {
+          "primary_kw": "bodyguard hire Istanbul",
+          "volume_est": "VL",
+          "monthly_range": "10-30",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "HIGH. Turkey is a major business hub but English security content is sparse.",
+          "recommended_h1": "Bodyguard Hire in Istanbul, Turkey",
+          "title_tag": "Bodyguard Hire Istanbul | Vetted Close Protection Officers Turkey | [Brand]",
+          "supporting_kws": ["hire bodyguard Istanbul", "personal security Istanbul", "close protection Istanbul", "bodyguard Turkey", "bodyguard services Istanbul"],
+          "faq_targets": ["How much does a bodyguard cost in Istanbul?", "Can bodyguards carry firearms in Turkey?", "Do I need a bodyguard in Istanbul?"]
+        },
+        "executive_protection": {
+          "primary_kw": "executive protection Istanbul",
+          "volume_est": "VL",
+          "monthly_range": "10-30",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH. Major business transit hub between Europe and Asia.",
+          "recommended_h1": "Executive Protection Services in Istanbul, Turkey",
+          "title_tag": "Executive Protection Istanbul | Corporate Security Services Turkey | [Brand]",
+          "supporting_kws": ["executive protection Turkey", "corporate security Istanbul", "VIP protection Istanbul"],
+          "faq_targets": ["What does executive protection cost in Istanbul?"]
+        },
+        "security_drivers": {
+          "primary_kw": "security driver Istanbul",
+          "volume_est": "VL",
+          "monthly_range": "10-20",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "VERY HIGH.",
+          "recommended_h1": "Security Drivers in Istanbul, Turkey",
+          "title_tag": "Security Driver Istanbul | Secure Transport & Airport Transfers | [Brand]",
+          "supporting_kws": ["secure transport Istanbul", "armoured car Istanbul", "IST airport secure transfer"],
+          "faq_targets": ["Do I need a security driver in Istanbul?"]
+        },
+        "event_security": {
+          "primary_kw": "event security Istanbul",
+          "volume_est": "VL",
+          "monthly_range": "10-30",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH. Major conference city. G20, NATO-adjacent events.",
+          "recommended_h1": "Event Security Services in Istanbul, Turkey",
+          "title_tag": "Event Security Istanbul | Conference & Corporate Event Protection | [Brand]",
+          "supporting_kws": ["conference security Istanbul", "event security Turkey"],
+          "faq_targets": ["What security is needed for events in Istanbul?"]
+        },
+        "residential_security": {
+          "primary_kw": "residential security Istanbul",
+          "volume_est": "VL",
+          "monthly_range": "10-20",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH. Growing expat population.",
+          "recommended_h1": "Residential Security in Istanbul, Turkey",
+          "title_tag": "Residential Security Istanbul | Expat Home Protection | [Brand]",
+          "supporting_kws": ["home security Istanbul", "residential guards Istanbul", "expat security Turkey"],
+          "faq_targets": ["Which areas of Istanbul are safest for expats?"]
+        }
+      },
+      "informational_kws": {
+        "primary": "is Istanbul safe",
+        "volume_est": "VH",
+        "monthly_range": "5000-15000",
+        "supporting": ["is Istanbul safe for tourists", "Istanbul safety", "Turkey safe to visit", "Istanbul terrorism risk", "Istanbul dangerous areas"]
+      }
+    },
+
+    "riyadh": {
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "country_slug": "saudi-arabia",
+      "risk_level": "HIGH",
+      "expat_business_volume": "HIGH",
+      "language": "ar",
+      "local_currency": "SAR",
+      "clusters": {
+        "bodyguard_hire": {
+          "primary_kw": "bodyguard hire Riyadh",
+          "volume_est": "VL",
+          "monthly_range": "10-30",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "VERY HIGH. Saudi security market is opaque. English content almost nonexistent. Vision 2030 driving massive business travel growth.",
+          "recommended_h1": "Bodyguard Hire in Riyadh, Saudi Arabia",
+          "title_tag": "Bodyguard Hire Riyadh | Close Protection Officers Saudi Arabia | [Brand]",
+          "supporting_kws": ["hire bodyguard Riyadh", "personal security Riyadh", "close protection Riyadh", "bodyguard Saudi Arabia", "CPO Riyadh"],
+          "faq_targets": ["Can bodyguards carry firearms in Saudi Arabia?", "How much does a bodyguard cost in Riyadh?", "What security do I need in Riyadh?"]
+        },
+        "executive_protection": {
+          "primary_kw": "executive protection Riyadh",
+          "volume_est": "VL",
+          "monthly_range": "10-30",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "VERY HIGH. Massive corporate demand (NEOM, Vision 2030 projects). Almost no English-language providers visible online.",
+          "recommended_h1": "Executive Protection Services in Riyadh, Saudi Arabia",
+          "title_tag": "Executive Protection Riyadh | Corporate Security Saudi Arabia | [Brand]",
+          "supporting_kws": ["executive protection Saudi Arabia", "corporate security Riyadh", "VIP protection Riyadh", "NEOM security"],
+          "faq_targets": ["What does executive protection cost in Saudi Arabia?", "What regulations govern private security in Saudi Arabia?"]
+        },
+        "security_drivers": {
+          "primary_kw": "security driver Riyadh",
+          "volume_est": "VL",
+          "monthly_range": "10-20",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "VERY HIGH. Especially relevant now with missile/drone threat.",
+          "recommended_h1": "Security Drivers in Riyadh, Saudi Arabia",
+          "title_tag": "Security Driver Riyadh | Armoured Vehicle Hire Saudi Arabia | [Brand]",
+          "supporting_kws": ["armoured car Riyadh", "secure transport Riyadh", "safe transport Saudi Arabia"],
+          "faq_targets": ["Do I need a security driver in Riyadh?", "Is armoured transport available in Saudi Arabia?"]
+        },
+        "event_security": {
+          "primary_kw": "event security Riyadh",
+          "volume_est": "VL",
+          "monthly_range": "10-30",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "VERY HIGH. Riyadh hosting major events (F1, entertainment, business). Explosive growth.",
+          "recommended_h1": "Event Security Services in Riyadh, Saudi Arabia",
+          "title_tag": "Event Security Riyadh | Conference & Event Protection Saudi Arabia | [Brand]",
+          "supporting_kws": ["conference security Riyadh", "event security Saudi Arabia", "F1 security Jeddah"],
+          "faq_targets": ["What security is required for events in Saudi Arabia?"]
+        },
+        "residential_security": {
+          "primary_kw": "residential security Riyadh",
+          "volume_est": "VL",
+          "monthly_range": "10-30",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "VERY HIGH. Growing expat population. Compound security demand. English content gap huge.",
+          "recommended_h1": "Residential Security in Riyadh, Saudi Arabia",
+          "title_tag": "Residential Security Riyadh | Compound & Home Protection | [Brand]",
+          "supporting_kws": ["compound security Riyadh", "expat security Saudi Arabia", "residential guards Riyadh", "Diplomatic Quarter security"],
+          "faq_targets": ["How much does residential security cost in Riyadh?", "Do expat compounds in Riyadh have security?"]
+        }
+      },
+      "informational_kws": {
+        "primary": "is Riyadh safe",
+        "volume_est": "H",
+        "monthly_range": "1000-3000",
+        "supporting": ["is Saudi Arabia safe", "Riyadh safety", "Riyadh crime rate", "is Saudi Arabia safe for foreigners", "Riyadh missile attacks 2026"]
+      }
+    },
+
+    "dubai": {
+      "city": "Dubai",
+      "country": "UAE",
+      "country_slug": "united-arab-emirates",
+      "risk_level": "MEDIUM",
+      "expat_business_volume": "VERY_HIGH",
+      "language": "en",
+      "local_currency": "AED",
+      "clusters": {
+        "bodyguard_hire": {
+          "primary_kw": "bodyguard hire Dubai",
+          "volume_est": "L",
+          "monthly_range": "40-100",
+          "kd_est": "MEDIUM",
+          "intent": "commercial_transactional",
+          "serp_gap": "MEDIUM. Some local security companies target this. HNWI/celebrity market is the primary buyer. Regional escalation increasing demand significantly.",
+          "recommended_h1": "Bodyguard Hire in Dubai, UAE",
+          "title_tag": "Bodyguard Hire Dubai | Vetted Close Protection Officers UAE | [Brand]",
+          "supporting_kws": ["hire bodyguard Dubai", "personal bodyguard Dubai", "close protection Dubai", "bodyguard UAE", "bodyguard cost Dubai", "celebrity bodyguard Dubai"],
+          "faq_targets": ["How much does a bodyguard cost in Dubai?", "Can bodyguards carry firearms in UAE?", "Do I need a bodyguard in Dubai?"]
+        },
+        "executive_protection": {
+          "primary_kw": "executive protection Dubai",
+          "volume_est": "L",
+          "monthly_range": "30-80",
+          "kd_est": "MEDIUM",
+          "intent": "commercial_investigation",
+          "serp_gap": "MEDIUM. Dubai has active security industry. Gap is international-grade EP with verifiable vetting.",
+          "recommended_h1": "Executive Protection Services in Dubai, UAE",
+          "title_tag": "Executive Protection Dubai | Corporate Security Services UAE | [Brand]",
+          "supporting_kws": ["executive protection UAE", "corporate security Dubai", "VIP protection Dubai", "DIFC security"],
+          "faq_targets": ["What does executive protection cost in Dubai?", "Is executive protection needed in Dubai?"]
+        },
+        "security_drivers": {
+          "primary_kw": "security driver Dubai",
+          "volume_est": "VL",
+          "monthly_range": "10-30",
+          "kd_est": "LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "HIGH. Dubai's low crime historically meant less demand, but regional escalation has spiked interest.",
+          "recommended_h1": "Security Drivers in Dubai, UAE",
+          "title_tag": "Security Driver Dubai | Armoured Vehicle Hire & Secure Transport | [Brand]",
+          "supporting_kws": ["armoured car Dubai", "secure transport Dubai", "safe driver Dubai", "DXB airport secure transfer"],
+          "faq_targets": ["Do I need a security driver in Dubai?", "Is armoured vehicle hire available in Dubai?"]
+        },
+        "event_security": {
+          "primary_kw": "event security Dubai",
+          "volume_est": "L",
+          "monthly_range": "40-100",
+          "kd_est": "MEDIUM",
+          "intent": "commercial_investigation",
+          "serp_gap": "MEDIUM. Dubai hosts Expo, GITEX, ADIPEC, etc. Competitive market but international-quality gap.",
+          "recommended_h1": "Event Security Services in Dubai, UAE",
+          "title_tag": "Event Security Dubai | Conference & Corporate Event Protection | [Brand]",
+          "supporting_kws": ["conference security Dubai", "event security UAE", "GITEX security", "ADIPEC security", "expo security Dubai"],
+          "faq_targets": ["What security is needed for events in Dubai?", "How much does event security cost in Dubai?"]
+        },
+        "residential_security": {
+          "primary_kw": "residential security Dubai",
+          "volume_est": "L",
+          "monthly_range": "30-80",
+          "kd_est": "MEDIUM",
+          "intent": "commercial_investigation",
+          "serp_gap": "MEDIUM. Large expat population. Home security demand growing with regional tensions.",
+          "recommended_h1": "Residential Security in Dubai, UAE",
+          "title_tag": "Residential Security Dubai | Villa & Home Protection UAE | [Brand]",
+          "supporting_kws": ["home security Dubai", "villa security Dubai", "residential guards Dubai", "Emirates Hills security", "Palm Jumeirah security", "compound security UAE"],
+          "faq_targets": ["How much does residential security cost in Dubai?", "Which areas of Dubai need residential security?"]
+        }
+      },
+      "informational_kws": {
+        "primary": "is Dubai safe",
+        "volume_est": "VH",
+        "monthly_range": "10000-30000",
+        "supporting": ["is Dubai safe for tourists", "Dubai safety", "is UAE safe", "Dubai crime rate", "Dubai missile threat 2026", "is Dubai safe now", "Dubai Iran threat"]
+      }
+    },
+
+    "mumbai": {
+      "city": "Mumbai",
+      "country": "India",
+      "country_slug": "india",
+      "risk_level": "MEDIUM",
+      "expat_business_volume": "HIGH",
+      "language": "en",
+      "local_currency": "INR",
+      "clusters": {
+        "bodyguard_hire": {
+          "primary_kw": "bodyguard hire Mumbai",
+          "volume_est": "L",
+          "monthly_range": "30-80",
+          "kd_est": "LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "HIGH. India has a large but fragmented security industry. International-quality providers hard to find online.",
+          "recommended_h1": "Bodyguard Hire in Mumbai, India",
+          "title_tag": "Bodyguard Hire Mumbai | Vetted Close Protection Officers India | [Brand]",
+          "supporting_kws": ["hire bodyguard Mumbai", "personal security Mumbai", "close protection Mumbai", "bodyguard India", "bodyguard services Mumbai", "bouncer hire Mumbai"],
+          "faq_targets": ["How much does a bodyguard cost in Mumbai?", "Can bodyguards carry firearms in India?", "Do I need a bodyguard in Mumbai?"]
+        },
+        "executive_protection": {
+          "primary_kw": "executive protection Mumbai",
+          "volume_est": "L",
+          "monthly_range": "20-50",
+          "kd_est": "LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH. Major financial hub (BKC, Nariman Point). Corporate security demand significant.",
+          "recommended_h1": "Executive Protection Services in Mumbai, India",
+          "title_tag": "Executive Protection Mumbai | Corporate Security Services India | [Brand]",
+          "supporting_kws": ["executive protection India", "corporate security Mumbai", "VIP protection Mumbai", "BKC security"],
+          "faq_targets": ["What executive protection is available in Mumbai?"]
+        },
+        "security_drivers": {
+          "primary_kw": "security driver Mumbai",
+          "volume_est": "VL",
+          "monthly_range": "10-30",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "VERY HIGH.",
+          "recommended_h1": "Security Drivers in Mumbai, India",
+          "title_tag": "Security Driver Mumbai | Secure Transport & Airport Transfers | [Brand]",
+          "supporting_kws": ["secure transport Mumbai", "safe driver Mumbai", "CSIA airport secure transfer"],
+          "faq_targets": ["Do I need a security driver in Mumbai?"]
+        },
+        "event_security": {
+          "primary_kw": "event security Mumbai",
+          "volume_est": "L",
+          "monthly_range": "20-50",
+          "kd_est": "LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "MEDIUM. Active events market (BKC exhibitions, corporate events). Local competition.",
+          "recommended_h1": "Event Security Services in Mumbai, India",
+          "title_tag": "Event Security Mumbai | Conference & Corporate Event Protection | [Brand]",
+          "supporting_kws": ["conference security Mumbai", "event security India", "corporate event security Mumbai"],
+          "faq_targets": ["What security is needed for events in Mumbai?"]
+        },
+        "residential_security": {
+          "primary_kw": "residential security Mumbai",
+          "volume_est": "L",
+          "monthly_range": "20-50",
+          "kd_est": "LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "MEDIUM. India has large manned guarding sector. Gap is premium tier.",
+          "recommended_h1": "Residential Security in Mumbai, India",
+          "title_tag": "Residential Security Mumbai | Premium Home Protection | [Brand]",
+          "supporting_kws": ["home security Mumbai", "residential guards Mumbai", "Bandra security", "expat security Mumbai"],
+          "faq_targets": ["Which areas of Mumbai are safest for expats?"]
+        }
+      },
+      "informational_kws": {
+        "primary": "is Mumbai safe",
+        "volume_est": "H",
+        "monthly_range": "2000-5000",
+        "supporting": ["is Mumbai safe for tourists", "Mumbai crime rate", "Mumbai safety tips", "is India safe for business"]
+      }
+    },
+
+    "moscow": {
+      "city": "Moscow",
+      "country": "Russia",
+      "country_slug": "russia",
+      "risk_level": "CRITICAL",
+      "expat_business_volume": "VERY_LOW",
+      "language": "ru",
+      "local_currency": "RUB",
+      "clusters": {
+        "bodyguard_hire": {
+          "primary_kw": "bodyguard hire Moscow",
+          "volume_est": "VL",
+          "monthly_range": "5-15",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "VERY HIGH. Against-all-travel advisory. Very few English providers marketing Moscow services. Those who need it REALLY need it.",
+          "recommended_h1": "Bodyguard Hire in Moscow, Russia",
+          "title_tag": "Bodyguard Hire Moscow | Close Protection Officers Russia | [Brand]",
+          "supporting_kws": ["hire bodyguard Moscow", "personal security Moscow", "close protection Russia", "bodyguard Moscow Russia"],
+          "faq_targets": ["Is it possible to hire a bodyguard in Moscow?", "What are the risks for foreigners in Moscow?", "Can foreign security personnel operate in Russia?"]
+        },
+        "executive_protection": {
+          "primary_kw": "executive protection Moscow",
+          "volume_est": "VL",
+          "monthly_range": "5-15",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "VERY HIGH. Sanctions make this extremely niche but ultra-high-value for those who need it.",
+          "recommended_h1": "Executive Protection Services in Moscow, Russia",
+          "title_tag": "Executive Protection Moscow | Security Services Russia | [Brand]",
+          "supporting_kws": ["executive protection Russia", "corporate security Moscow", "security consultant Russia"],
+          "faq_targets": ["Is executive protection available in Russia under current sanctions?"]
+        },
+        "security_drivers": {
+          "primary_kw": "security driver Moscow",
+          "volume_est": "VL",
+          "monthly_range": "5-10",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "VERY HIGH.",
+          "recommended_h1": "Security Drivers in Moscow, Russia",
+          "title_tag": "Security Driver Moscow | Secure Transport Russia | [Brand]",
+          "supporting_kws": ["secure transport Moscow", "armoured car Moscow"],
+          "faq_targets": ["Is secure transport available in Moscow for foreign nationals?"]
+        },
+        "event_security": {
+          "primary_kw": "event security Moscow",
+          "volume_est": "VL",
+          "monthly_range": "5-10",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "VERY HIGH. Minimal international events under sanctions.",
+          "recommended_h1": "Event Security Services in Moscow, Russia",
+          "title_tag": "Event Security Moscow | Corporate Event Protection Russia | [Brand]",
+          "supporting_kws": ["event security Russia"],
+          "faq_targets": ["Is it safe to hold corporate events in Russia?"]
+        },
+        "residential_security": {
+          "primary_kw": "residential security Moscow",
+          "volume_est": "VL",
+          "monthly_range": "5-10",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "VERY HIGH.",
+          "recommended_h1": "Residential Security in Moscow, Russia",
+          "title_tag": "Residential Security Moscow | Home Protection Russia | [Brand]",
+          "supporting_kws": ["home security Moscow", "expat security Russia"],
+          "faq_targets": ["Is residential security available for foreigners in Moscow?"]
+        }
+      },
+      "informational_kws": {
+        "primary": "is Moscow safe",
+        "volume_est": "H",
+        "monthly_range": "2000-5000",
+        "supporting": ["is Russia safe to visit", "Moscow safety for foreigners", "Russia travel warning", "can British nationals travel to Russia", "Moscow detention risk"]
+      }
+    },
+
+    "sao_paulo": {
+      "city": "Sao Paulo",
+      "country": "Brazil",
+      "country_slug": "brazil",
+      "risk_level": "HIGH",
+      "expat_business_volume": "HIGH",
+      "language": "pt",
+      "local_currency": "BRL",
+      "clusters": {
+        "bodyguard_hire": {
+          "primary_kw": "bodyguard hire Sao Paulo",
+          "volume_est": "L",
+          "monthly_range": "20-60",
+          "kd_est": "LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "HIGH. Brazil's largest city and financial hub. English security content very thin despite huge corporate visitor volume.",
+          "recommended_h1": "Bodyguard Hire in Sao Paulo, Brazil",
+          "title_tag": "Bodyguard Hire Sao Paulo | Vetted Close Protection Officers Brazil | [Brand]",
+          "supporting_kws": ["hire bodyguard Sao Paulo", "personal security Sao Paulo", "close protection Brazil", "bodyguard Brazil", "seguranca pessoal Sao Paulo"],
+          "faq_targets": ["How much does a bodyguard cost in Sao Paulo?", "Can bodyguards carry firearms in Brazil?", "Do I need a bodyguard in Sao Paulo?"]
+        },
+        "executive_protection": {
+          "primary_kw": "executive protection Sao Paulo",
+          "volume_est": "L",
+          "monthly_range": "20-40",
+          "kd_est": "LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH. LATAM's biggest financial centre. Corporate security demand consistent.",
+          "recommended_h1": "Executive Protection Services in Sao Paulo, Brazil",
+          "title_tag": "Executive Protection Sao Paulo | Corporate Security Brazil | [Brand]",
+          "supporting_kws": ["executive protection Brazil", "corporate security Sao Paulo", "VIP protection Sao Paulo", "Faria Lima security"],
+          "faq_targets": ["What executive protection is available in Sao Paulo?"]
+        },
+        "security_drivers": {
+          "primary_kw": "security driver Sao Paulo",
+          "volume_est": "VL",
+          "monthly_range": "10-30",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "VERY HIGH. Armed robbery and carjacking drive demand. Virtually no English content.",
+          "recommended_h1": "Security Drivers in Sao Paulo, Brazil",
+          "title_tag": "Security Driver Sao Paulo | Armoured Vehicle Hire Brazil | [Brand]",
+          "supporting_kws": ["armoured car Sao Paulo", "secure transport Sao Paulo", "GRU airport secure transfer"],
+          "faq_targets": ["Do I need a security driver in Sao Paulo?", "How much does armoured car hire cost in Brazil?"]
+        },
+        "event_security": {
+          "primary_kw": "event security Sao Paulo",
+          "volume_est": "VL",
+          "monthly_range": "10-30",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH.",
+          "recommended_h1": "Event Security Services in Sao Paulo, Brazil",
+          "title_tag": "Event Security Sao Paulo | Conference & Corporate Event Protection | [Brand]",
+          "supporting_kws": ["conference security Sao Paulo", "event security Brazil"],
+          "faq_targets": ["What security is needed for corporate events in Sao Paulo?"]
+        },
+        "residential_security": {
+          "primary_kw": "residential security Sao Paulo",
+          "volume_est": "VL",
+          "monthly_range": "10-30",
+          "kd_est": "LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH. Gated community culture. High demand but Portuguese-language dominated.",
+          "recommended_h1": "Residential Security in Sao Paulo, Brazil",
+          "title_tag": "Residential Security Sao Paulo | Expat Home Protection Brazil | [Brand]",
+          "supporting_kws": ["home security Sao Paulo", "condominium security Brazil", "expat security Sao Paulo", "Jardins security"],
+          "faq_targets": ["Which areas of Sao Paulo are safest for expats?", "How much does residential security cost in Sao Paulo?"]
+        }
+      },
+      "informational_kws": {
+        "primary": "is Sao Paulo safe",
+        "volume_est": "H",
+        "monthly_range": "2000-5000",
+        "supporting": ["is Sao Paulo safe for tourists", "Sao Paulo crime rate", "Sao Paulo dangerous areas", "is Brazil safe", "Sao Paulo favela safety"]
+      }
+    },
+
+    "manila": {
+      "city": "Manila",
+      "country": "Philippines",
+      "country_slug": "philippines",
+      "risk_level": "MEDIUM",
+      "expat_business_volume": "MEDIUM",
+      "language": "en",
+      "local_currency": "PHP",
+      "clusters": {
+        "bodyguard_hire": {
+          "primary_kw": "bodyguard hire Manila",
+          "volume_est": "VL",
+          "monthly_range": "10-30",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "HIGH. English-speaking country but international-quality security content is thin.",
+          "recommended_h1": "Bodyguard Hire in Manila, Philippines",
+          "title_tag": "Bodyguard Hire Manila | Vetted Close Protection Officers Philippines | [Brand]",
+          "supporting_kws": ["hire bodyguard Manila", "personal security Manila", "close protection Manila", "bodyguard Philippines"],
+          "faq_targets": ["How much does a bodyguard cost in Manila?", "Can bodyguards carry firearms in the Philippines?"]
+        },
+        "executive_protection": {
+          "primary_kw": "executive protection Manila",
+          "volume_est": "VL",
+          "monthly_range": "10-20",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH. BPO industry drives corporate travel. Makati/BGC business districts.",
+          "recommended_h1": "Executive Protection Services in Manila, Philippines",
+          "title_tag": "Executive Protection Manila | Corporate Security Philippines | [Brand]",
+          "supporting_kws": ["executive protection Philippines", "corporate security Manila", "Makati security", "BGC security"],
+          "faq_targets": ["What executive protection is available in Manila?"]
+        },
+        "security_drivers": {
+          "primary_kw": "security driver Manila",
+          "volume_est": "VL",
+          "monthly_range": "5-15",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "VERY HIGH.",
+          "recommended_h1": "Security Drivers in Manila, Philippines",
+          "title_tag": "Security Driver Manila | Secure Transport Philippines | [Brand]",
+          "supporting_kws": ["secure transport Manila", "NAIA airport secure transfer"],
+          "faq_targets": ["Do I need a security driver in Manila?"]
+        },
+        "event_security": {
+          "primary_kw": "event security Manila",
+          "volume_est": "VL",
+          "monthly_range": "10-20",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH.",
+          "recommended_h1": "Event Security Services in Manila, Philippines",
+          "title_tag": "Event Security Manila | Conference & Event Protection Philippines | [Brand]",
+          "supporting_kws": ["conference security Manila", "event security Philippines"],
+          "faq_targets": ["What security is needed for events in Manila?"]
+        },
+        "residential_security": {
+          "primary_kw": "residential security Manila",
+          "volume_est": "VL",
+          "monthly_range": "10-20",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH. Gated village culture (Forbes Park, Dasmarinas). Guard services common but international quality scarce.",
+          "recommended_h1": "Residential Security in Manila, Philippines",
+          "title_tag": "Residential Security Manila | Home & Village Protection Philippines | [Brand]",
+          "supporting_kws": ["home security Manila", "village security Manila", "Makati residential security", "BGC security guards"],
+          "faq_targets": ["Which areas of Manila are safest for expats?"]
+        }
+      },
+      "informational_kws": {
+        "primary": "is Manila safe",
+        "volume_est": "H",
+        "monthly_range": "1000-3000",
+        "supporting": ["is Manila safe for tourists", "Manila crime rate", "Manila dangerous areas", "is Philippines safe"]
+      }
+    },
+
+    "karachi": {
+      "city": "Karachi",
+      "country": "Pakistan",
+      "country_slug": "pakistan",
+      "risk_level": "CRITICAL",
+      "expat_business_volume": "LOW",
+      "language": "ur",
+      "local_currency": "PKR",
+      "clusters": {
+        "bodyguard_hire": {
+          "primary_kw": "bodyguard hire Karachi",
+          "volume_est": "VL",
+          "monthly_range": "5-20",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "VERY HIGH. Almost zero quality English content. Those searching are extremely high-intent.",
+          "recommended_h1": "Bodyguard Hire in Karachi, Pakistan",
+          "title_tag": "Bodyguard Hire Karachi | Armed Close Protection Officers Pakistan | [Brand]",
+          "supporting_kws": ["hire bodyguard Karachi", "personal security Karachi", "close protection Pakistan", "armed bodyguard Pakistan"],
+          "faq_targets": ["How much does a bodyguard cost in Karachi?", "Can bodyguards carry firearms in Pakistan?", "Do I need armed protection in Karachi?"]
+        },
+        "executive_protection": {
+          "primary_kw": "executive protection Karachi",
+          "volume_est": "VL",
+          "monthly_range": "5-15",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "VERY HIGH. Port city with oil/energy industry visitors. Ultra-niche but very high value.",
+          "recommended_h1": "Executive Protection Services in Karachi, Pakistan",
+          "title_tag": "Executive Protection Karachi | Corporate Security Pakistan | [Brand]",
+          "supporting_kws": ["executive protection Pakistan", "corporate security Karachi", "security escort Karachi"],
+          "faq_targets": ["What level of protection do executives need in Karachi?"]
+        },
+        "security_drivers": {
+          "primary_kw": "security driver Karachi",
+          "volume_est": "VL",
+          "monthly_range": "5-10",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "VERY HIGH.",
+          "recommended_h1": "Security Drivers in Karachi, Pakistan",
+          "title_tag": "Security Driver Karachi | Armoured Vehicle Hire Pakistan | [Brand]",
+          "supporting_kws": ["armoured car Karachi", "secure transport Pakistan", "JIAP airport secure transfer"],
+          "faq_targets": ["Do I need a security driver in Karachi?"]
+        },
+        "event_security": {
+          "primary_kw": "event security Karachi",
+          "volume_est": "VL",
+          "monthly_range": "5-10",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "VERY HIGH.",
+          "recommended_h1": "Event Security Services in Karachi, Pakistan",
+          "title_tag": "Event Security Karachi | Corporate Event Protection Pakistan | [Brand]",
+          "supporting_kws": ["event security Pakistan"],
+          "faq_targets": ["What security is needed for corporate events in Karachi?"]
+        },
+        "residential_security": {
+          "primary_kw": "residential security Karachi",
+          "volume_est": "VL",
+          "monthly_range": "10-20",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "VERY HIGH. Gated communities (DHA, Clifton). Guard culture but international quality absent.",
+          "recommended_h1": "Residential Security in Karachi, Pakistan",
+          "title_tag": "Residential Security Karachi | Home & Compound Protection Pakistan | [Brand]",
+          "supporting_kws": ["home security Karachi", "DHA security Karachi", "Clifton security", "compound security Pakistan"],
+          "faq_targets": ["Which areas of Karachi are safest?", "How much does residential security cost in Karachi?"]
+        }
+      },
+      "informational_kws": {
+        "primary": "is Karachi safe",
+        "volume_est": "H",
+        "monthly_range": "1000-3000",
+        "supporting": ["is Karachi safe for foreigners", "Karachi crime rate", "Karachi dangerous areas", "is Pakistan safe for business"]
+      }
+    },
+
+    "bangkok": {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "country_slug": "thailand",
+      "risk_level": "LOW",
+      "expat_business_volume": "VERY_HIGH",
+      "language": "th",
+      "local_currency": "THB",
+      "clusters": {
+        "bodyguard_hire": {
+          "primary_kw": "bodyguard hire Bangkok",
+          "volume_est": "L",
+          "monthly_range": "20-50",
+          "kd_est": "LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "HIGH. Huge tourist/business volume but security is lower priority. HNWI and celebrity market is the angle.",
+          "recommended_h1": "Bodyguard Hire in Bangkok, Thailand",
+          "title_tag": "Bodyguard Hire Bangkok | Vetted Close Protection Officers Thailand | [Brand]",
+          "supporting_kws": ["hire bodyguard Bangkok", "personal security Bangkok", "close protection Bangkok", "bodyguard Thailand", "VIP bodyguard Bangkok"],
+          "faq_targets": ["How much does a bodyguard cost in Bangkok?", "Do tourists need bodyguards in Bangkok?"]
+        },
+        "executive_protection": {
+          "primary_kw": "executive protection Bangkok",
+          "volume_est": "VL",
+          "monthly_range": "10-30",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH. Major regional business hub. Corporate security demand for ASEAN HQs.",
+          "recommended_h1": "Executive Protection Services in Bangkok, Thailand",
+          "title_tag": "Executive Protection Bangkok | Corporate Security Thailand | [Brand]",
+          "supporting_kws": ["executive protection Thailand", "corporate security Bangkok", "VIP protection Bangkok"],
+          "faq_targets": ["Is executive protection needed in Bangkok?"]
+        },
+        "security_drivers": {
+          "primary_kw": "security driver Bangkok",
+          "volume_est": "VL",
+          "monthly_range": "5-15",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "VERY HIGH.",
+          "recommended_h1": "Security Drivers in Bangkok, Thailand",
+          "title_tag": "Security Driver Bangkok | Secure Transport Thailand | [Brand]",
+          "supporting_kws": ["secure transport Bangkok", "safe driver Bangkok", "BKK airport transfer security"],
+          "faq_targets": ["Do I need a security driver in Bangkok?"]
+        },
+        "event_security": {
+          "primary_kw": "event security Bangkok",
+          "volume_est": "VL",
+          "monthly_range": "10-20",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH. ASEAN conferences, product launches, entertainment events.",
+          "recommended_h1": "Event Security Services in Bangkok, Thailand",
+          "title_tag": "Event Security Bangkok | Conference & Event Protection Thailand | [Brand]",
+          "supporting_kws": ["conference security Bangkok", "event security Thailand"],
+          "faq_targets": ["What security is needed for events in Bangkok?"]
+        },
+        "residential_security": {
+          "primary_kw": "residential security Bangkok",
+          "volume_est": "VL",
+          "monthly_range": "10-20",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH. Large expat population. Condo security standard but premium residential protection is niche.",
+          "recommended_h1": "Residential Security in Bangkok, Thailand",
+          "title_tag": "Residential Security Bangkok | Home & Condo Protection Thailand | [Brand]",
+          "supporting_kws": ["home security Bangkok", "condo security Bangkok", "Sukhumvit security", "expat security Thailand"],
+          "faq_targets": ["Which areas of Bangkok are safest for expats?"]
+        }
+      },
+      "informational_kws": {
+        "primary": "is Bangkok safe",
+        "volume_est": "VH",
+        "monthly_range": "10000-30000",
+        "supporting": ["is Bangkok safe for tourists", "Bangkok safety tips", "Bangkok scams", "Bangkok dangerous areas", "is Thailand safe"]
+      }
+    },
+
+    "jakarta": {
+      "city": "Jakarta",
+      "country": "Indonesia",
+      "country_slug": "indonesia",
+      "risk_level": "MEDIUM",
+      "expat_business_volume": "HIGH",
+      "language": "id",
+      "local_currency": "IDR",
+      "clusters": {
+        "bodyguard_hire": {
+          "primary_kw": "bodyguard hire Jakarta",
+          "volume_est": "VL",
+          "monthly_range": "10-30",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "HIGH. SE Asia's largest economy. English security content very thin.",
+          "recommended_h1": "Bodyguard Hire in Jakarta, Indonesia",
+          "title_tag": "Bodyguard Hire Jakarta | Vetted Close Protection Officers Indonesia | [Brand]",
+          "supporting_kws": ["hire bodyguard Jakarta", "personal security Jakarta", "close protection Jakarta", "bodyguard Indonesia"],
+          "faq_targets": ["How much does a bodyguard cost in Jakarta?", "Can bodyguards carry firearms in Indonesia?"]
+        },
+        "executive_protection": {
+          "primary_kw": "executive protection Jakarta",
+          "volume_est": "VL",
+          "monthly_range": "10-20",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "VERY HIGH. Major mining/energy industry visitors. Corporate security demand solid.",
+          "recommended_h1": "Executive Protection Services in Jakarta, Indonesia",
+          "title_tag": "Executive Protection Jakarta | Corporate Security Indonesia | [Brand]",
+          "supporting_kws": ["executive protection Indonesia", "corporate security Jakarta", "SCBD security"],
+          "faq_targets": ["What executive protection is available in Jakarta?"]
+        },
+        "security_drivers": {
+          "primary_kw": "security driver Jakarta",
+          "volume_est": "VL",
+          "monthly_range": "5-15",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_transactional",
+          "serp_gap": "VERY HIGH.",
+          "recommended_h1": "Security Drivers in Jakarta, Indonesia",
+          "title_tag": "Security Driver Jakarta | Secure Transport Indonesia | [Brand]",
+          "supporting_kws": ["secure transport Jakarta", "CGK airport secure transfer"],
+          "faq_targets": ["Do I need a security driver in Jakarta?"]
+        },
+        "event_security": {
+          "primary_kw": "event security Jakarta",
+          "volume_est": "VL",
+          "monthly_range": "10-20",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH. JCC convention centre. Mining/energy conferences.",
+          "recommended_h1": "Event Security Services in Jakarta, Indonesia",
+          "title_tag": "Event Security Jakarta | Conference & Event Protection Indonesia | [Brand]",
+          "supporting_kws": ["conference security Jakarta", "event security Indonesia"],
+          "faq_targets": ["What security is needed for events in Jakarta?"]
+        },
+        "residential_security": {
+          "primary_kw": "residential security Jakarta",
+          "volume_est": "VL",
+          "monthly_range": "10-20",
+          "kd_est": "VERY_LOW",
+          "intent": "commercial_investigation",
+          "serp_gap": "HIGH. Gated compound culture. Guard services standard but premium tier underserved.",
+          "recommended_h1": "Residential Security in Jakarta, Indonesia",
+          "title_tag": "Residential Security Jakarta | Expat Home Protection Indonesia | [Brand]",
+          "supporting_kws": ["home security Jakarta", "compound security Jakarta", "Menteng security", "Kemang security", "expat security Jakarta"],
+          "faq_targets": ["Which areas of Jakarta are safest for expats?"]
+        }
+      },
+      "informational_kws": {
+        "primary": "is Jakarta safe",
+        "volume_est": "H",
+        "monthly_range": "1000-3000",
+        "supporting": ["is Jakarta safe for tourists", "Jakarta crime rate", "Jakarta safety", "is Indonesia safe", "Jakarta terrorism risk"]
+      }
+    }
+  },
+
+  "strategic_summary": {
+    "total_primary_clusters": 75,
+    "total_unique_keywords_tracked": "750+",
+    "highest_serp_gap_cities": ["Riyadh", "Karachi", "Bogota", "Moscow", "Istanbul"],
+    "highest_volume_cities": ["Dubai", "Mexico City", "Johannesburg", "Bangkok", "Sao Paulo"],
+    "most_competitive_cities": ["Johannesburg", "Dubai"],
+    "least_competitive_cities": ["Moscow", "Karachi", "Riyadh", "Bogota", "Istanbul", "Jakarta"],
+    "highest_value_per_click": ["Moscow", "Riyadh", "Karachi", "Lagos"],
+    "informational_funnel_opportunity": "The 'is {city} safe' query pattern generates 10-100x the volume of commercial queries. These pages are the primary traffic driver and lead magnet. Risk assessment pages should be the highest content priority after commercial city pages.",
+    "language_opportunity": "10 of 15 P1 cities operate in non-English languages. English-language security content for these cities has virtually no competition. This is the core competitive advantage.",
+    "regional_escalation_impact": "April 2026 Middle East escalation has dramatically increased search demand for security services across UAE, Saudi Arabia, Qatar, Kuwait, and Israel. 'Is Dubai safe now' and 'Dubai missile threat' are surging. Time-sensitive opportunity.",
+    "quick_win_silos": {
+      "1_security_drivers": "Lowest competition across all cities. Carjacking/kidnapping fears drive search. Few quality pages exist anywhere.",
+      "2_bodyguard_hire": "Direct buyer intent. English content gaps massive in non-English cities.",
+      "3_executive_protection": "B2B buyer. Longer sales cycle but highest lifetime value. Corporate security directors searching in English regardless of city language."
+    },
+    "content_priority_order": [
+      "1. Risk assessment pages (is {city} safe) — highest volume, top of funnel",
+      "2. Bodyguard hire city pages — direct commercial intent",
+      "3. Security driver city pages — lowest competition",
+      "4. Executive protection city pages — highest value per conversion",
+      "5. Residential security city pages — recurring revenue potential",
+      "6. Event security city pages — seasonal but high value",
+      "7. Travel safety guides — authority building",
+      "8. Security regulation guides — long-tail, high authority"
+    ]
+  },
+
+  "google_autocomplete_intelligence": {
+    "_metadata": {
+      "source": "Google Autocomplete API (suggestqueries.google.com)",
+      "date_collected": "2026-04-15",
+      "method": "Live API queries for all 10 query pattern types across P1 cities",
+      "purpose": "Validates search demand and reveals exact user language for content optimization"
+    },
+    "key_findings": {
+      "dubai_dominance": {
+        "observation": "Dubai dominates security service autocomplete across ALL service types",
+        "evidence": [
+          "close protection: Top 3 suggestions are 'jobs dubai', 'course in dubai', 'dubai'",
+          "private security: 'jobs in dubai', 'companies in dubai', 'dubai', 'business department abu dhabi'",
+          "event security: 'jobs in dubai', 'companies in dubai', 'course in dubai', 'license in dubai'",
+          "executive protection: 'jobs dubai' appears in base suggestions",
+          "security company dubai: Transguard, Amana, MAB, Sobha all branded in autocomplete"
+        ],
+        "implication": "Dubai is the most competitive P1 city but also highest demand. Content must be premium quality."
+      },
+      "safety_query_volume": {
+        "observation": "Every P1 city has 8-10 rich autocomplete variants for 'is [city] safe', confirming massive informational demand.",
+        "iran_war_context": "Dubai and Riyadh both show war-related safety queries ('safe from war', 'safe from Iran', 'safe right now') dominating autocomplete. This is an unprecedented, time-sensitive content opportunity."
+      },
+      "women_safety_signal": {
+        "observation": "6 of 15 P1 cities show women/female safety as a dominant autocomplete theme",
+        "cities": ["Mumbai", "Istanbul", "Bangkok", "Nairobi", "Dubai", "Jakarta"],
+        "implication": "Content strategy should include female traveller safety sections on all city pages. Potential for dedicated 'female executive travel' content hub."
+      },
+      "competitor_gap_confirmed": {
+        "observation": "No branded competitor appears in autocomplete for any P1 city bodyguard/EP query except Dubai (Transguard, Amana, MAB)",
+        "implication": "Zero brand competition at city level outside Dubai. The space is wide open."
+      },
+      "bogota_confirmed_demand": "hire bodyguard bogota appears directly in Google Autocomplete, confirming real commercial search demand for this city."
+    },
+    "autocomplete_by_city": {
+      "lagos": {
+        "is_safe_variants": ["is Lagos safe for white tourists", "is Lagos safe to visit", "is Lagos safe for indians", "is Lagos safe to travel", "is Lagos safe for tourists", "is Lagos safe for americans", "is Lagos safe for women", "is Lagos safe reddit", "is Lagos safe to live"],
+        "security_company": ["halogen security company lagos", "security company in lagos island", "security companies in lagos and their address", "maximus event security company lagos"]
+      },
+      "nairobi": {
+        "is_safe_variants": ["is Nairobi safe for tourists", "is Nairobi safe for white tourists", "is Nairobi safe for americans", "is Nairobi safe to visit", "is Nairobi safe to travel", "is Nairobi safe for solo female travellers", "is Nairobi safe for women", "is Nairobi safe at night", "is Nairobi safe to walk around"],
+        "security_company": ["kk security company nairobi", "texas security company nairobi", "blue armour security company nairobi", "security companies in nairobi cbd"]
+      },
+      "johannesburg": {
+        "is_safe_variants": ["is Johannesburg safe for tourists", "is Johannesburg safe for white tourists", "is Johannesburg safe to visit", "is Johannesburg safe for women", "is Johannesburg safer than cape town", "is Johannesburg safe for indian", "is Johannesburg safe reddit", "is Johannesburg safe at night", "is Johannesburg safe to travel to"]
+      },
+      "bogota": {
+        "is_safe_variants": ["is Bogota safe to visit", "is Bogota safe for tourists", "is Bogota safe for americans", "is Bogota safe to travel", "is Bogota safe for american tourists", "is Bogota safe reddit", "is Bogota safer than medellin", "is Bogota safe for female travellers", "is Bogota safe at night"],
+        "bodyguard_confirmed": "hire bodyguard bogota in autocomplete"
+      },
+      "mexico_city": {
+        "is_safe_variants": ["is Mexico City safe to travel", "is Mexico City safe for americans", "is Mexico City safe right now", "is Mexico City safe for tourists", "is Mexico City safe to visit", "is Mexico City safe to travel to right now", "is Mexico City safe from cartel", "is Mexico City safe reddit", "is Mexico City safe for canadians"]
+      },
+      "istanbul": {
+        "is_safe_variants": ["is Istanbul safe to travel", "is Istanbul safe to travel now", "is Istanbul safe right now", "is Istanbul safe for tourists", "is Istanbul safe for women", "is Istanbul safe for solo female travellers", "is Istanbul safe for americans", "is Istanbul safe to visit", "is Istanbul safe to travel to right now"]
+      },
+      "riyadh": {
+        "is_safe_variants": ["is Riyadh safe for women", "is Riyadh safe for indians", "is Riyadh safe right now", "is Riyadh safe from war", "is Riyadh safe for tourists", "is Riyadh safe now", "is Riyadh safe to travel", "is Riyadh safe for americans", "is Riyadh safe to visit"],
+        "war_queries_present": true
+      },
+      "dubai": {
+        "is_safe_variants": ["is Dubai safe right now", "is Dubai safe for women", "is Dubai safe at night", "is Dubai safe now from war", "is Dubai safe from war", "is Dubai safe from Iran", "is Dubai safe for tourists", "is Dubai safe today", "is Dubai safe now from Iran"],
+        "close_protection": ["close protection jobs dubai", "close protection course in dubai", "close protection dubai", "close protection jobs uae"],
+        "private_security": ["private security jobs in dubai", "private security companies in dubai", "private security dubai", "private security business department abu dhabi"],
+        "event_security": ["event security jobs in dubai", "event security companies in dubai", "event security course in dubai", "event security license in dubai"],
+        "security_company": ["transguard security company dubai", "amana security company dubai", "mab security company dubai", "sobha security company dubai"],
+        "war_queries_dominate": true
+      },
+      "mumbai": {
+        "is_safe_variants": ["is Mumbai safe for women", "is Mumbai safe for tourists", "is Mumbai safe at night", "is Mumbai safe for girls", "is Mumbai safe for women at night", "is Mumbai safer than delhi", "is Mumbai safe to travel", "is Mumbai safe to visit", "is Mumbai safe for solo female travellers"],
+        "women_safety_dominant": true
+      },
+      "moscow": {
+        "is_safe_variants": ["is Moscow safe to travel now", "is Moscow safe for tourists", "is Moscow safe to visit", "is Moscow safe for americans", "is Moscow safe to travel", "is Moscow safe for indian tourists", "is Moscow safe right now", "is Moscow safer than london", "is Moscow safe to visit for americans"]
+      },
+      "sao_paulo": {
+        "is_safe_variants": ["is Sao Paulo safer than rio", "is Sao Paulo safe for tourists", "is Sao Paulo safe to visit", "is Sao Paulo safer than rio de janeiro", "is Sao Paulo safe for americans", "is Sao Paulo safe reddit", "is Sao Paulo safe for women", "is Sao Paulo safe to live", "is Sao Paulo safe to travel to"],
+        "vs_rio_comparison_dominant": true
+      },
+      "manila": {
+        "is_safe_variants": ["is Manila safe for tourists", "is Manila safe to travel", "is Manila safe at night", "is Manila safe to visit", "is Manila safe for americans", "is Manila safe reddit", "is Manila safe to travel now", "is Manila safe to walk around", "is Manila safe for american tourists"]
+      },
+      "karachi": {
+        "is_safe_variants": ["is Karachi safe for tourists", "is Karachi safe to visit", "is Karachi safe for americans", "is Karachi safe for women", "is Karachi safe now", "is Karachi safe to live", "is Karachi safe to travel", "is Karachi safe reddit", "is Karachi safe for indians"]
+      },
+      "bangkok": {
+        "is_safe_variants": ["is Bangkok safe to travel now", "is Bangkok safe for solo female travellers", "is Bangkok safe now", "is Bangkok safe to travel", "is Bangkok safe at night", "is Bangkok safe for tourists", "is Bangkok safe for americans", "is Bangkok safe for women", "is Bangkok safe to visit"]
+      },
+      "jakarta": {
+        "is_safe_variants": ["is Jakarta safe for tourists", "is Jakarta safe to travel now", "is Jakarta safe for solo female travellers", "is Jakarta safe to visit", "is Jakarta safe for americans", "is Jakarta safe right now", "is Jakarta safe at night", "is Jakarta safe to travel", "is Jakarta safe reddit"]
+      }
+    },
+    "service_keyword_autocomplete": {
+      "bodyguard_hire_base": ["bodyguard hire app", "bodyguard hire cape town", "bodyguard hire personal"],
+      "bodyguard_hire_b": ["hire bodyguard bd", "hire bodyguard bogota", "bodyguard services boston", "hire security guard bali"],
+      "bodyguard_hire_d": ["hire bodyguard driver", "bodyguard services durban", "bodyguard services dallas", "hire bodyguard for 1 day"],
+      "executive_protection_base": ["executive protection jobs", "executive protection training", "executive protection services", "executive protection salary", "executive protection jobs dubai"],
+      "close_protection_base": ["close protection jobs dubai", "close protection course in dubai", "close protection dubai", "close protection officer", "close protection jobs uae"],
+      "private_security_base": ["private security firms regulatory department", "private security jobs in dubai", "private security companies in dubai", "private security dubai"],
+      "security_driver_base": ["security driver jobs", "security driver salary", "security driver jobs london", "security driver course"],
+      "event_security_base": ["event security jobs in dubai", "event security companies in dubai", "event security course", "event security license in dubai"],
+      "residential_security_base": ["residential security jobs", "residential security services", "residential security guard", "residential security companies"],
+      "armed_guard_hire": ["armed security hire", "armed security hire aus"],
+      "personal_security_nigeria": ["personal security nigeria", "private security nigeria", "personal security tips in nigeria"]
+    },
+    "content_angle_signals": {
+      "women_safety_focus_cities": ["Mumbai", "Istanbul", "Bangkok", "Nairobi", "Dubai", "Jakarta"],
+      "war_safety_focus_cities": ["Dubai", "Riyadh"],
+      "cartel_crime_focus_cities": ["Mexico City", "Bogota"],
+      "vs_comparison_queries": {"Sao Paulo": "vs Rio", "Johannesburg": "vs Cape Town", "Mumbai": "vs Delhi", "Bogota": "vs Medellin"},
+      "reddit_discussion_cities": ["Lagos", "Bogota", "Mexico City", "Johannesburg", "Sao Paulo", "Manila", "Karachi", "Bangkok", "Jakarta"],
+      "american_tourist_focus_cities": ["Mexico City", "Bogota", "Moscow", "Manila", "Karachi", "Jakarta"]
+    }
+  }
+}

@@ -1,0 +1,407 @@
+{{ define "title" }}{{ .Site.Params.brand }} | Close Protection and Executive Security{{ end }}
+
+{{ define "schema" }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "{{ .Site.Params.brand }}",
+    "description": "{{ .Site.Params.description }}",
+    "url": "{{ .Site.BaseURL }}"
+}
+</script>
+{{ end }}
+
+{{ define "main" }}
+
+{{/* ===== SPLIT HERO: Image Left + Consultation Form Right ===== */}}
+<section class="hero-split section-dark text-light no-top no-bottom">
+    <div class="hero-split-inner">
+
+        {{/* Left: hero image with text overlay */}}
+        <div class="hero-split-left">
+            <img src="/images/hero.jpg" alt="Close protection detail" class="hero-split-img" loading="eager">
+            <div class="hero-split-dim"></div>
+            <div class="hero-split-text">
+                <p class="hero-kicker">Global Close Protection &amp; Executive Security</p>
+                <h1>Vetted security professionals.<br>Deployed fast.</h1>
+                <p class="hero-sub">Licensed operators in 15 high-risk cities. Briefed on your destination. Ready before you land.</p>
+                <ul class="hero-trust-bullets">
+                    <li>SIA licensed &amp; in-country vetted operators</li>
+                    <li>Security plan delivered within 24 hours</li>
+                    <li>15 high-risk cities across 4 continents</li>
+                </ul>
+            </div>
+        </div>
+
+        {{/* Right: consultation form */}}
+        <div class="hero-split-right">
+            <div class="hero-form-wrap">
+                <h2 class="hero-form-heading">Request a consultation</h2>
+                <p class="hero-form-sub">Confidential. Handled by licensed security consultants.</p>
+                <form class="de_form hero-form" action="{{ .Site.Params.quoteFormEndpoint }}" method="POST" novalidate>
+                    <div class="mb-3">
+                        <label for="hf-service" class="form-label text-light">Service required <span class="text-color">*</span></label>
+                        <select id="hf-service" name="service_type" class="form-control" required>
+                            <option value="">Select service</option>
+                            <option value="bodyguard-hire">Bodyguard Hire</option>
+                            <option value="executive-protection">Executive Protection</option>
+                            <option value="security-drivers">Security Drivers</option>
+                            <option value="event-security">Event Security</option>
+                            <option value="residential-security">Residential Security</option>
+                            <option value="risk-assessment">Risk Assessment</option>
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="hf-location" class="form-label text-light">City <span class="text-color">*</span></label>
+                        <select id="hf-location" name="location" class="form-control" required>
+                            <option value="">Select city</option>
+                            <option value="lagos">Lagos</option>
+                            <option value="nairobi">Nairobi</option>
+                            <option value="johannesburg">Johannesburg</option>
+                            <option value="bogota">Bogota</option>
+                            <option value="mexico-city">Mexico City</option>
+                            <option value="istanbul">Istanbul</option>
+                            <option value="riyadh">Riyadh</option>
+                            <option value="dubai">Dubai</option>
+                            <option value="mumbai">Mumbai</option>
+                            <option value="moscow">Moscow</option>
+                            <option value="sao-paulo">Sao Paulo</option>
+                            <option value="manila">Manila</option>
+                            <option value="karachi">Karachi</option>
+                            <option value="bangkok">Bangkok</option>
+                            <option value="jakarta">Jakarta</option>
+                        </select>
+                    </div>
+                    <div class="row g-2 mb-3">
+                        <div class="col-6">
+                            <label for="hf-name" class="form-label text-light">Name <span class="text-color">*</span></label>
+                            <input type="text" id="hf-name" name="name" class="form-control" required autocomplete="name">
+                        </div>
+                        <div class="col-6">
+                            <label for="hf-email" class="form-label text-light">Email <span class="text-color">*</span></label>
+                            <input type="email" id="hf-email" name="email" class="form-control" required autocomplete="email">
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="hf-message" class="form-label text-light">Requirements</label>
+                        <textarea id="hf-message" name="message" class="form-control" rows="3" placeholder="Dates, principals, specific requirements..."></textarea>
+                    </div>
+                    <div style="display:none;" aria-hidden="true">
+                        <input type="text" name="website" tabindex="-1" autocomplete="off">
+                    </div>
+                    <button type="submit" class="btn-main fx-slide w-100"><span>Submit Enquiry</span></button>
+                    <p class="text-center mt-2 op-5" style="font-size:0.75rem;">Your details are never shared with third parties.</p>
+                </form>
+                <div class="quote-success text-center mt-3" hidden>
+                    <p>Your enquiry has been received. A security consultant will contact you within 24 hours.</p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+{{/* ===== CTA BAR ===== */}}
+<section class="section-dark bg-color text-light relative overflow-hidden" style="padding:10px 0;">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-9">
+                <h3 class="mb-0 wow fadeInRight" style="font-size:0.85rem; font-weight:600; letter-spacing:0.08em; text-transform:uppercase;">Operating in 15 high-risk cities across 4 continents</h3>
+            </div>
+            <div class="col-md-3 text-md-end">
+                <a class="btn-main fx-slide btn-line wow fadeInLeft" href="#quote-form"><span>Get Started</span></a>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{/* ===== SERVICES (Dark section with gradient cards) ===== */}}
+<section class="section-dark bg-dark text-light">
+    <div class="container">
+        <div class="row g-4 justify-content-center mb-2">
+            <div class="col-lg-12">
+                <div class="text-center">
+                    <div class="subtitle wow fadeInUp">Our Services</div>
+                    <h2 class="wow fadeInUp" data-wow-delay=".2s">Professional security for high-risk environments</h2>
+                    <p class="lead wow fadeInUp" data-wow-delay=".4s">Each service is delivered by vetted, licensed operators with direct experience in your destination city.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row g-4">
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay="0s">
+                <a href="/services/bodyguard-hire/" class="service-card service-card-tall d-block">
+                    <img class="card-bg-img" src="/images/service-bodyguard-hire-hero.jpg" alt="Bodyguard hire" width="600" height="400" loading="lazy">
+                    <div class="card-text card-text-tall">
+                        <h4 class="mb-2">Bodyguard Hire</h4>
+                        <p class="service-card-desc mb-3">Trained close protection officers for personal security in hostile or unfamiliar environments. SIA licenced or local equivalents.</p>
+                        <span class="btn-main fx-slide bg-dark"><span>Learn More</span></span>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".2s">
+                <a href="/services/executive-protection/" class="service-card service-card-tall d-block">
+                    <img class="card-bg-img" src="/images/service-executive-protection-hero.jpg" alt="Executive protection" width="600" height="400" loading="lazy">
+                    <div class="card-text card-text-tall">
+                        <h4 class="mb-2">Executive Protection</h4>
+                        <p class="service-card-desc mb-3">Multi-layered security details for C-suite executives, VIPs, and high-net-worth individuals travelling to high-risk jurisdictions.</p>
+                        <span class="btn-main fx-slide bg-dark"><span>Learn More</span></span>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".4s">
+                <a href="/services/security-drivers/" class="service-card service-card-tall d-block">
+                    <img class="card-bg-img" src="/images/service-security-drivers-hero.jpg" alt="Security drivers" width="600" height="400" loading="lazy">
+                    <div class="card-text card-text-tall">
+                        <h4 class="mb-2">Security Drivers</h4>
+                        <p class="service-card-desc mb-3">Trained drivers with armoured vehicle access and real-time route intelligence. Advanced driving qualifications and local road knowledge.</p>
+                        <span class="btn-main fx-slide bg-dark"><span>Learn More</span></span>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".6s">
+                <a href="/services/event-security/" class="service-card service-card-tall d-block">
+                    <img class="card-bg-img" src="/images/service-event-security-hero.jpg" alt="Event security" width="600" height="400" loading="lazy">
+                    <div class="card-text card-text-tall">
+                        <h4 class="mb-2">Event Security</h4>
+                        <p class="service-card-desc mb-3">Security planning and on-ground teams for corporate events, conferences, and private functions. Threat assessment and access control.</p>
+                        <span class="btn-main fx-slide bg-dark"><span>Learn More</span></span>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".8s">
+                <a href="/services/residential-security/" class="service-card service-card-tall d-block">
+                    <img class="card-bg-img" src="/images/service-residential-security-hero.jpg" alt="Residential security" width="600" height="400" loading="lazy">
+                    <div class="card-text card-text-tall">
+                        <h4 class="mb-2">Residential Security</h4>
+                        <p class="service-card-desc mb-3">24/7 residential protection including perimeter security, access control, and safe room protocols. Manned guarding and CCTV monitoring.</p>
+                        <span class="btn-main fx-slide bg-dark"><span>Learn More</span></span>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay="1s">
+                <a href="/risk-assessments/" class="service-card service-card-tall d-block">
+                    <img class="card-bg-img" src="/images/assessment-pre-travel-hero.jpg" alt="Risk assessments" width="600" height="400" loading="lazy">
+                    <div class="card-text card-text-tall">
+                        <h4 class="mb-2">Risk Assessments</h4>
+                        <p class="service-card-desc mb-3">Destination threat analysis, route security planning, and protective intelligence. Data-led risk profiles from FCDO and State Department sources.</p>
+                        <span class="btn-main fx-slide bg-dark"><span>Learn More</span></span>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{/* ===== MARQUEE DIVIDER ===== */}}
+<div class="section-dark bg-color text-light d-flex lh-1 overflow-hidden marquee-refined">
+    <div class="de-marquee-list-2 wow fadeIn" data-wow-duration="2s">
+        <span>Bodyguard Hire</span>
+        <span class="mx-3 marquee-sep">/</span>
+        <span>Executive Protection</span>
+        <span class="mx-3 marquee-sep">/</span>
+        <span>Security Drivers</span>
+        <span class="mx-3 marquee-sep">/</span>
+        <span>Event Security</span>
+        <span class="mx-3 marquee-sep">/</span>
+        <span>Residential Security</span>
+        <span class="mx-3 marquee-sep">/</span>
+        <span>Risk Assessments</span>
+        <span class="mx-3 marquee-sep">/</span>
+    </div>
+</div>
+
+{{/* ===== WHY VETTED OPERATORS (About section) ===== */}}
+<section class="section-dark bg-dark text-light">
+    <div class="container">
+        <div class="row gy-4 gx-5">
+            <div class="col-lg-12">
+                <div class="text-center">
+                    <div class="subtitle s2 mb-3 wow fadeInUp">Why Work With Us</div>
+                    <h2 class="wow fadeInUp" data-wow-delay=".2s">Vetted operators, not subcontracted unknowns</h2>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="relative">
+                    <div class="rounded-1 overflow-hidden wow zoomIn">
+                        <img src="/images/homepage-vetted-operators.jpg" class="w-100 wow scaleIn" alt="Close protection detail">
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <p class="wow fadeInUp">In high-risk cities, the difference between a competent security team and an unvetted one can be measured in response time, local knowledge, and licensing status. Every operator in our network holds valid in-country credentials, has passed background verification, and has direct operational experience in the city where they deploy.</p>
+                <p class="wow fadeInUp" data-wow-delay=".2s">We don't subcontract to unknown agencies. You get named operators with documented track records, because your safety depends on who is actually standing next to you.</p>
+                <ul class="ul-check fw-600 mb-4 wow fadeInUp" data-wow-delay=".3s">
+                    <li>Licensed in-country operators</li>
+                    <li>Background-verified with documented track records</li>
+                    <li>Direct operational experience in your city</li>
+                    <li>Advance route planning and threat assessment</li>
+                    <li>Real-time communication and contingency protocols</li>
+                    <li>24-hour security plan turnaround</li>
+                </ul>
+                <a class="btn-main mb10 mb-3 fx-slide wow fadeIn" href="#quote-form"><span>Request Consultation</span></a>
+            </div>
+        </div>
+        <div class="spacer-single sm-hide"></div>
+    </div>
+</section>
+
+{{/* ===== HOW IT WORKS ===== */}}
+<section class="section-dark bg-dark-2 text-light">
+    <div class="container">
+        <div class="row g-4 justify-content-center mb-2">
+            <div class="col-lg-12 text-light">
+                <div class="text-center">
+                    <div class="subtitle wow fadeInUp">How It Works</div>
+                    <h2 class="wow fadeInUp" data-wow-delay=".2s">Three steps to deploy your security detail</h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="row g-4">
+            <div class="col-lg-4 wow fadeInRight" data-wow-delay=".0s">
+                <div class="rounded-1 bg-dark text-light h-100">
+                    <div class="how-card-inner">
+                        <div class="how-card-number bg-color text-light">1</div>
+                        <h3>Brief us on your requirements</h3>
+                        <p>Submit a consultation request with your destination, dates, and the level of protection you need. All communications are encrypted and confidential.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 wow fadeInRight" data-wow-delay=".2s">
+                <div class="rounded-1 bg-dark text-light h-100">
+                    <div class="how-card-inner">
+                        <div class="how-card-number bg-color text-light">2</div>
+                        <h3>Receive your security plan</h3>
+                        <p>Our team assesses the threat environment, identifies the right operators, and delivers a detailed security plan within 24 hours.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 wow fadeInRight" data-wow-delay=".4s">
+                <div class="rounded-1 bg-dark text-light h-100">
+                    <div class="how-card-inner">
+                        <div class="how-card-number bg-color text-light">3</div>
+                        <h3>Deploy with confidence</h3>
+                        <p>Your vetted security detail meets you on arrival. Real-time communication, pre-planned routes, and contingency protocols are all in place before you land.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{/* ===== STATS COUNTER ===== */}}
+<section class="section-dark bg-dark-2 text-light">
+    <div class="container">
+        <div class="row g-4">
+            <div class="col-md-3 col-sm-6">
+                <div class="de_count text-center wow fadeInRight" data-wow-delay=".0s">
+                    <i class="p-3 circle bg-color text-light fs-40 d-inline-block mb-2 icofont-shield"></i>
+                    <h3 class="fs-40 mb-0 lh-1-1"><span class="timer" data-to="15" data-speed="2000">0</span></h3>
+                    Countries
+                </div>
+            </div>
+
+            <div class="col-md-3 col-sm-6">
+                <div class="de_count text-center wow fadeInRight" data-wow-delay=".2s">
+                    <i class="p-3 circle bg-color text-light fs-40 d-inline-block mb-2 icofont-location-pin"></i>
+                    <h3 class="fs-40 mb-0 lh-1-1"><span class="timer" data-to="15" data-speed="2000">0</span></h3>
+                    High-Risk Cities
+                </div>
+            </div>
+
+            <div class="col-md-3 col-sm-6">
+                <div class="de_count text-center wow fadeInRight" data-wow-delay=".4s">
+                    <i class="p-3 circle bg-color text-light fs-40 d-inline-block mb-2 icofont-users-alt-3"></i>
+                    <h3 class="fs-40 mb-0 lh-1-1"><span class="timer" data-to="5" data-speed="2000">0</span></h3>
+                    Service Categories
+                </div>
+            </div>
+
+            <div class="col-md-3 col-sm-6">
+                <div class="de_count text-center wow fadeInRight" data-wow-delay=".6s">
+                    <i class="p-3 circle bg-color text-light fs-40 d-inline-block mb-2 icofont-clock-time"></i>
+                    <h3 class="fs-40 mb-0 lh-1-1"><span class="timer" data-to="24" data-speed="2000">0</span>h</h3>
+                    Security Plan Turnaround
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{/* ===== LOCATIONS GRID ===== */}}
+<section class="section-dark bg-dark text-light">
+    <div class="container">
+        <div class="row g-4 justify-content-center mb-4">
+            <div class="col-lg-12">
+                <div class="text-center">
+                    <div class="subtitle wow fadeInUp">Our Locations</div>
+                    <h2 class="wow fadeInUp" data-wow-delay=".2s">Operational in 15 high-risk cities</h2>
+                    <p class="lead wow fadeInUp" data-wow-delay=".4s">Each city page includes local threat intelligence, regulatory requirements, and vetted operator availability.</p>
+                </div>
+            </div>
+        </div>
+
+        {{ $cityImages := dict "lagos" "city-lagos-hero.webp" "nairobi" "city-nairobi-hero.jpg" "johannesburg" "city-johannesburg-hero.jpg" "bogota" "city-bogota-hero.webp" "mexico-city" "city-mexico-city-hero.jpg" "istanbul" "city-istanbul-hero.webp" "riyadh" "city-riyadh-hero.jpg" "dubai" "city-dubai-hero.jpg" "mumbai" "city-mumbai-hero.webp" "moscow" "city-moscow-hero.jpg" "sao-paulo" "city-sao-paulo-hero.jpg" "manila" "city-manila-hero.webp" "karachi" "city-karachi-hero.jpg" "bangkok" "city-bangkok-hero.jpg" "jakarta" "city-jakarta-hero.jpg" }}
+
+        {{ $cities := slice
+            (dict "name" "Lagos" "slug" "lagos" "desc" "High crime density. Armed escort recommended for all ground movements.")
+            (dict "name" "Nairobi" "slug" "nairobi" "desc" "Elevated kidnapping risk. Corporate travellers require advance security planning.")
+            (dict "name" "Johannesburg" "slug" "johannesburg" "desc" "Car hijacking and armed robbery remain persistent threats across the metro.")
+            (dict "name" "Bogota" "slug" "bogota" "desc" "Express kidnapping and targeted robbery. Close protection standard for executives.")
+            (dict "name" "Mexico City" "slug" "mexico-city" "desc" "Complex security landscape. Neighbourhood-level risk varies significantly.")
+            (dict "name" "Istanbul" "slug" "istanbul" "desc" "Terrorism risk and political instability. Advance route planning is critical.")
+            (dict "name" "Riyadh" "slug" "riyadh" "desc" "Strict regulatory environment. Foreign operator licensing mandatory.")
+            (dict "name" "Dubai" "slug" "dubai" "desc" "Lower street crime but high-profile executive protection demand.")
+            (dict "name" "Mumbai" "slug" "mumbai" "desc" "Dense urban environment. Crowd management and secure transport essential.")
+            (dict "name" "Moscow" "slug" "moscow" "desc" "Complex regulatory and geopolitical environment. Local operators required.")
+            (dict "name" "Sao Paulo" "slug" "sao-paulo" "desc" "Highest armed robbery rate among P1 cities. Armoured vehicles standard.")
+            (dict "name" "Manila" "slug" "manila" "desc" "Kidnap-for-ransom risk. Close protection with local intelligence critical.")
+            (dict "name" "Karachi" "slug" "karachi" "desc" "Sectarian violence and targeted attacks. Armed escort protocols standard.")
+            (dict "name" "Bangkok" "slug" "bangkok" "desc" "Political unrest cycles. Executive protection for corporate travel advisable.")
+            (dict "name" "Jakarta" "slug" "jakarta" "desc" "Terrorism threat and traffic-related security exposure. Advance planning required.")
+        }}
+
+        <div class="row g-4">
+            {{ range $i, $city := $cities }}
+            {{ $img := index $cityImages $city.slug }}
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay="{{ printf "%.1fs" (mul (mod $i 3) 0.2) }}">
+                <a href="/cities/{{ $city.slug }}/" class="service-card d-block">
+                    <img class="card-bg-img" src="/images/{{ $img }}" alt="{{ $city.name }} skyline" width="400" height="260" loading="lazy">
+                    <div class="card-text">
+                        <span class="service-card-title">{{ $city.name }}</span>
+                        <p class="service-card-desc">{{ $city.desc }}</p>
+                    </div>
+                </a>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+{{/* ===== CTA BAR (bottom) ===== */}}
+<section class="section-dark bg-color text-light pt-60 pb-50 relative overflow-hidden">
+    <div class="container">
+        <div class="row g-4 align-items-center">
+            <div class="col-md-9">
+                <h3 class="mb-0 fs-32 wow fadeInRight">Planning travel to a high-risk destination?</h3>
+            </div>
+            <div class="col-md-3 text-md-end">
+                <a class="btn-main fx-slide btn-line wow fadeInLeft" href="#quote-form"><span>Request Consultation</span></a>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{/* ===== QUOTE FORM ===== */}}
+{{ partial "quote-form.html" . }}
+
+{{ end }}

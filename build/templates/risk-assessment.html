@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{seo_title}}</title>
+    <meta name="description" content="{{seo_meta_description}}">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://[domain]/risk-assessments/{{country_slug}}/{{city_slug}}/">
+    <link rel="stylesheet" href="/css/style.css">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "{{h1}}",
+        "description": "{{seo_meta_description}}",
+        "url": "https://[domain]/risk-assessments/{{country_slug}}/{{city_slug}}/",
+        "author": {
+            "@type": "Person",
+            "name": "[Author Name]"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "[Brand]"
+        },
+        "datePublished": "{{date_published}}",
+        "dateModified": "{{date_modified}}",
+        "about": {
+            "@type": "City",
+            "name": "{{city}}",
+            "containedInPlace": {
+                "@type": "Country",
+                "name": "{{country}}"
+            }
+        }
+    }
+    </script>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="site-header">
+    <div class="header-inner">
+        <a href="/" class="site-logo">[<span>Brand</span>]</a>
+        <button class="nav-toggle" aria-label="Toggle navigation">&#9776;</button>
+        <nav class="site-nav">
+            <a href="/bodyguard-hire/">Bodyguard Hire</a>
+            <a href="/executive-protection/">Executive Protection</a>
+            <a href="/security-drivers/">Security Drivers</a>
+            <a href="/risk-assessments/">Risk Assessments</a>
+            <a href="/about/">About</a>
+            <a href="/contact/" class="nav-cta">Confidential Enquiry</a>
+        </nav>
+    </div>
+</header>
+
+<!-- BREADCRUMBS -->
+<div class="container" style="padding-top: var(--space-md);">
+    <nav aria-label="Breadcrumb" style="font-size: 0.82rem; color: var(--text-muted);">
+        <a href="/">Home</a> &rsaquo;
+        <a href="/risk-assessments/">Risk assessments</a> &rsaquo;
+        <a href="/risk-assessments/{{country_slug}}/">{{country}}</a> &rsaquo;
+        <span style="color: var(--text-secondary);">{{city}}</span>
+    </nav>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://[domain]/"},
+            {"@type": "ListItem", "position": 2, "name": "Risk assessments", "item": "https://[domain]/risk-assessments/"},
+            {"@type": "ListItem", "position": 3, "name": "{{country}}", "item": "https://[domain]/risk-assessments/{{country_slug}}/"},
+            {"@type": "ListItem", "position": 4, "name": "{{city}}"}
+        ]
+    }
+    </script>
+</div>
+
+<!-- HERO -->
+<section class="hero" style="padding-bottom: var(--space-lg); padding-top: var(--space-xl);">
+    <div class="container" style="text-align: left;">
+        <div style="display: flex; align-items: center; gap: var(--space-md); flex-wrap: wrap; margin-bottom: var(--space-md);">
+            <span class="label">Risk assessment</span>
+            <span class="risk-badge risk-{{risk_class}}">{{risk_label}} risk</span>
+        </div>
+        <h1>{{h1}}</h1>
+        <p class="subtitle" style="max-width: none; text-align: left;">{{hero_subtitle}}</p>
+        <p class="text-muted text-small">Written by [Author Name]. Last updated: {{date_modified}}. Sources: {{risk_source}}</p>
+    </div>
+</section>
+
+<!-- RISK SUMMARY CARD -->
+<section class="section" style="padding-top: 0; padding-bottom: var(--space-xl);">
+    <div class="container">
+        <div class="card" style="border-color: var(--{{risk_accent_color}});">
+            <div class="grid-4" style="text-align: center;">
+                <div>
+                    <span style="color: var(--text-muted); font-size: 0.8rem; display: block;">Crime</span>
+                    <span style="font-size: 1.6rem; font-weight: 700; color: var(--text-heading);">{{risk_crime}}</span>
+                    <span style="color: var(--text-muted); font-size: 0.8rem;">/5</span>
+                </div>
+                <div>
+                    <span style="color: var(--text-muted); font-size: 0.8rem; display: block;">Terrorism</span>
+                    <span style="font-size: 1.6rem; font-weight: 700; color: var(--text-heading);">{{risk_terrorism}}</span>
+                    <span style="color: var(--text-muted); font-size: 0.8rem;">/5</span>
+                </div>
+                <div>
+                    <span style="color: var(--text-muted); font-size: 0.8rem; display: block;">Kidnapping</span>
+                    <span style="font-size: 1.6rem; font-weight: 700; color: var(--text-heading);">{{risk_kidnapping}}</span>
+                    <span style="color: var(--text-muted); font-size: 0.8rem;">/5</span>
+                </div>
+                <div>
+                    <span style="color: var(--text-muted); font-size: 0.8rem; display: block;">Civil unrest</span>
+                    <span style="font-size: 1.6rem; font-weight: 700; color: var(--text-heading);">{{risk_civil_unrest}}</span>
+                    <span style="color: var(--text-muted); font-size: 0.8rem;">/5</span>
+                </div>
+            </div>
+            <div style="margin-top: var(--space-lg); display: flex; justify-content: center; gap: var(--space-lg); flex-wrap: wrap; font-size: 0.85rem; color: var(--text-secondary);">
+                <span><strong>FCDO:</strong> {{fcdo_level}}</span>
+                <span><strong>US State Dept:</strong> Level {{state_dept_level}}</span>
+                <span><strong>OSAC crime:</strong> {{osac_crime}}</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- CRIME -->
+<section class="section section-border">
+    <div class="container-narrow">
+        <span class="label" style="color: var(--red);">Crime</span>
+        <h2>Crime in {{city}}</h2>
+
+        {{crime_content}}
+        <!--
+            DATA: city_risk_profiles.json → crime.severity, crime.types, crime.hotspots, crime.notes
+            TARGET: 150-250 words. Factual. Name specific areas and crime types.
+            Source all statistics.
+        -->
+    </div>
+</section>
+
+<!-- TERRORISM -->
+<section class="section section-border">
+    <div class="container-narrow">
+        <span class="label" style="color: var(--amber);">Terrorism</span>
+        <h2>Terrorism and political violence</h2>
+
+        {{terrorism_content}}
+        <!--
+            DATA: city_risk_profiles.json → terrorism.threat_level, terrorism.active_groups,
+                  terrorism.target_types, terrorism.recent_attacks, terrorism.notes
+            TARGET: 100-200 words. Factual. Name groups and recent incidents with dates.
+        -->
+    </div>
+</section>
+
+<!-- KIDNAPPING -->
+<section class="section section-border">
+    <div class="container-narrow">
+        <span class="label" style="color: var(--red);">Kidnapping</span>
+        <h2>Kidnapping risk</h2>
+
+        {{kidnapping_content}}
+        <!--
+            DATA: city_risk_profiles.json → kidnapping.threat_level, kidnapping.types,
+                  kidnapping.hotspots, kidnapping.notes
+            TARGET: 100-200 words. Types (ransom, express, virtual). Who is targeted.
+        -->
+    </div>
+</section>
+
+<!-- CIVIL UNREST -->
+<section class="section section-border">
+    <div class="container-narrow">
+        <span class="label" style="color: var(--amber);">Civil unrest</span>
+        <h2>Protests and civil unrest</h2>
+
+        {{civil_unrest_content}}
+        <!--
+            DATA: city_risk_profiles.json → civil_unrest.frequency, civil_unrest.triggers,
+                  civil_unrest.notes
+            TARGET: 80-150 words. What triggers protests, how they affect travellers.
+        -->
+    </div>
+</section>
+
+<!-- TRANSPORT RISKS -->
+<section class="section section-border">
+    <div class="container-narrow">
+        <span class="label">Transport</span>
+        <h2>Transport and road safety</h2>
+
+        {{transport_content}}
+        <!--
+            DATA: city_risk_profiles.json → transport_risks.road, transport_risks.airport,
+                  transport_risks.public_transport, transport_risks.recommended
+            TARGET: 100-150 words. Practical advice. Airport arrival, road travel, public transport.
+        -->
+    </div>
+</section>
+
+<!-- SAFE AND UNSAFE ZONES -->
+<section class="section section-border">
+    <div class="container">
+        <div class="section-header">
+            <span class="label">Areas</span>
+            <h2>Areas of {{city}}: where is safer, where is not</h2>
+        </div>
+        <div class="grid-2" style="max-width: 900px; margin: 0 auto;">
+            <div class="card" style="border-color: var(--green);">
+                <h3 style="color: var(--green);">Lower-risk areas</h3>
+                <ul style="color: var(--text-secondary); font-size: 0.9rem; line-height: 1.9; margin-top: var(--space-sm);">
+                    {{safe_zones_list}}
+                    <!--
+                        DATA: city_risk_profiles.json → safe_zones[]
+                        Generate <li> for each zone.
+                    -->
+                </ul>
+            </div>
+            <div class="card" style="border-color: var(--red);">
+                <h3 style="color: var(--red);">Higher-risk areas</h3>
+                <ul style="color: var(--text-secondary); font-size: 0.9rem; line-height: 1.9; margin-top: var(--space-sm);">
+                    {{unsafe_zones_list}}
+                    <!--
+                        DATA: city_risk_profiles.json → unsafe_zones[]
+                        Generate <li> for each zone.
+                    -->
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- POLICE AND LOCAL SECURITY -->
+<section class="section section-border">
+    <div class="container-narrow">
+        <span class="label">Local security</span>
+        <h2>Police and local security forces</h2>
+
+        {{police_content}}
+        <!--
+            DATA: city_risk_profiles.json → police_reliability.score, corruption_level,
+                  response_quality, notes
+            TARGET: 80-120 words. Honest assessment. Corruption, response quality.
+        -->
+    </div>
+</section>
+
+<!-- EMERGENCY CONTACTS -->
+<section class="section section-border">
+    <div class="container" style="max-width: 600px; margin: 0 auto;">
+        <div class="card" style="border-color: var(--amber);">
+            <h3 style="color: var(--amber);">Emergency contacts: {{city}}</h3>
+            <div style="color: var(--text-secondary); font-size: 0.9rem; line-height: 2.2; margin-top: var(--space-sm);">
+                <p style="margin-bottom: var(--space-xs);"><strong>Police:</strong> {{emergency_police}}</p>
+                <p style="margin-bottom: var(--space-xs);"><strong>Ambulance:</strong> {{emergency_ambulance}}</p>
+                <p style="margin-bottom: 0;"><strong>Fire:</strong> {{emergency_fire}}</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- WHEN TO CONSIDER PROFESSIONAL SECURITY -->
+<section class="section section-border">
+    <div class="container-narrow">
+        <span class="label">Recommendation</span>
+        <h2>When to consider professional security in {{city}}</h2>
+
+        {{when_to_hire_content}}
+        <!--
+            TARGET: 100-150 words. Based on risk profile, advise when professional
+            security is appropriate vs. when standard corporate travel procedures suffice.
+            Link to relevant service pages. No safety guarantees.
+        -->
+    </div>
+</section>
+
+<!-- CTA -->
+<section class="section section-border">
+    <div class="container">
+        <div class="card" style="text-align:center; border-color: var(--accent); background: var(--bg-surface-2); padding: var(--space-2xl);">
+            <h2>Need security for your trip to {{city}}?</h2>
+            <p class="text-muted" style="max-width:540px; margin: var(--space-md) auto var(--space-lg);">Our operations team can match you with vetted security professionals in {{city}}. Encrypted enquiry. No obligation.</p>
+            <div class="btn-group">
+                <a href="/contact/" class="btn btn-primary">Submit a confidential enquiry</a>
+                <a href="/{{default_silo}}/{{country_slug}}/{{city_slug}}/" class="btn btn-outline">View {{default_silo_label}} in {{city}} &rarr;</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- RELATED RISK ASSESSMENTS -->
+<section class="section section-border">
+    <div class="container">
+        <div class="section-header">
+            <span class="label">More assessments</span>
+            <h2>Risk assessments in {{country}}</h2>
+        </div>
+        <div class="grid-3" style="max-width: 900px; margin: 0 auto;">
+            {{related_risk_assessments}}
+            <!--
+                Other cities in the same country that have risk assessment pages.
+                Each as a card with city name, risk badge, and link.
+            -->
+        </div>
+    </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+    <div class="container">
+        <div class="footer-grid">
+            <div class="footer-brand">
+                <div class="site-logo">[<span>Brand</span>]</div>
+                <p>Vetted security professionals in high-risk cities worldwide. Licensed, background-checked, locally experienced.</p>
+            </div>
+            <div class="footer-col">
+                <h4>Services</h4>
+                <a href="/bodyguard-hire/">Bodyguard hire</a>
+                <a href="/executive-protection/">Executive protection</a>
+                <a href="/security-drivers/">Security drivers</a>
+                <a href="/event-security/">Event security</a>
+                <a href="/residential-security/">Residential security</a>
+                <a href="/risk-assessments/">Risk assessments</a>
+            </div>
+            <div class="footer-col">
+                <h4>Company</h4>
+                <a href="/about/">About and vetting</a>
+                <a href="/network/">Our network</a>
+                <a href="/faq/">FAQ</a>
+                <a href="/contact/">Contact</a>
+            </div>
+            <div class="footer-col">
+                <h4>Legal</h4>
+                <a href="/privacy/">Privacy policy</a>
+                <a href="/terms/">Terms and conditions</a>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <span>&copy; 2026 [Brand]. All rights reserved.</span>
+            <span>Enquiries are encrypted and confidential.</span>
+        </div>
+    </div>
+</footer>
+
+<script>
+document.querySelector('.nav-toggle').addEventListener('click', function() {
+    document.querySelector('.site-nav').classList.toggle('active');
+});
+</script>
+</body>
+</html>
+
+<!--
+==========================================================================
+RISK ASSESSMENT TEMPLATE — Variable Reference
+==========================================================================
+
+TEMPLATE VARIABLES (replace {{variable}} when generating pages):
+
+SEO:
+  {{seo_title}}               — e.g. "Lagos Risk Assessment: Crime, Terrorism, Kidnapping | [Brand]"
+  {{seo_meta_description}}    — Unique, 150-160 chars
+
+LOCATION:
+  {{city}}                    — e.g. "Lagos"
+  {{country}}                 — e.g. "Nigeria"
+  {{city_slug}}               — e.g. "lagos"
+  {{country_slug}}            — e.g. "nigeria"
+
+DATES:
+  {{date_published}}          — ISO date, e.g. "2026-04-15"
+  {{date_modified}}           — ISO date
+
+HERO:
+  {{h1}}                      — e.g. "Lagos security risk assessment"
+  {{hero_subtitle}}           — 1-2 sentences
+
+RISK SCORES (from city_risk_profiles.json → risk_scores):
+  {{risk_class}}              — low, medium, high, or critical
+  {{risk_label}}              — Low, Medium, High, or Critical
+  {{risk_accent_color}}       — green, amber, or red
+  {{risk_crime}}              — 1-5
+  {{risk_terrorism}}          — 1-5
+  {{risk_kidnapping}}         — 1-5
+  {{risk_civil_unrest}}       — 1-5
+  {{risk_source}}             — Source string
+
+ADVISORY:
+  {{fcdo_level}}              — FCDO advisory text
+  {{state_dept_level}}        — US State Dept level number
+  {{osac_crime}}              — OSAC crime rating
+
+CONTENT (written by Wordsmith, humanised by Chameleon):
+  {{crime_content}}           — HTML paragraphs
+  {{terrorism_content}}       — HTML paragraphs
+  {{kidnapping_content}}      — HTML paragraphs
+  {{civil_unrest_content}}    — HTML paragraphs
+  {{transport_content}}       — HTML paragraphs
+  {{police_content}}          — HTML paragraphs
+  {{when_to_hire_content}}    — HTML paragraphs
+
+LISTS:
+  {{safe_zones_list}}         — <li> elements from safe_zones array
+  {{unsafe_zones_list}}       — <li> elements from unsafe_zones array
+
+EMERGENCY:
+  {{emergency_police}}
+  {{emergency_ambulance}}
+  {{emergency_fire}}
+
+LINKS:
+  {{default_silo}}            — Default service silo slug, e.g. "bodyguard-hire"
+  {{default_silo_label}}      — e.g. "bodyguard hire"
+  {{related_risk_assessments}} — Card HTML for other cities in same country
+==========================================================================
+-->

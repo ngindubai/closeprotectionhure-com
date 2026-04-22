@@ -1,0 +1,538 @@
+{
+  "_metadata": {
+    "purpose": "Dual database schema for the security-bodyguard site: (1) City Risk Profiles, (2) Vetted Operator Registry",
+    "version": "1.0",
+    "designed": "2026-04-15",
+    "designed_by": "The Librarian (data architecture)",
+    "notes": [
+      "Schema designed around existing data structures in city_risk_profiles.json and security_regulations.json",
+      "JSON-first approach: works as flat files for Phase 1 (static site), upgradable to Supabase/Postgres for Phase 2+ if dynamic features needed",
+      "Every field maps to a specific content section in the page templates (see city_page_content_structure in build plan section 2.3)",
+      "Operator registry is separate from risk data: different update cadences, different access controls"
+    ]
+  },
+
+  "schema_1_city_risk_profiles": {
+    "description": "Risk intelligence database for every city with a service page. Feeds risk-assessment pages, city page Section 3 (security overview), Section 8 (safety tips), and Section 11 (risk badge).",
+    "file_pattern": "data/risk/{country_slug}/{city_slug}.json",
+    "master_file": "data/risk/_all_cities.json",
+    "update_cadence": "Quarterly minimum. After any major incident (terror attack, coup, travel advisory change).",
+
+    "record": {
+      "city_slug": {
+        "type": "string",
+        "description": "URL-safe lowercase slug (e.g. 'sao-paulo', 'mexico-city')",
+        "required": true,
+        "indexed": true
+      },
+      "city_name": {
+        "type": "string",
+        "description": "Display name (e.g. 'Sao Paulo', 'Mexico City')",
+        "required": true
+      },
+      "country_slug": {
+        "type": "string",
+        "description": "URL-safe country slug (e.g. 'brazil', 'mexico')",
+        "required": true,
+        "indexed": true,
+        "foreign_key": "schema_2.country_slug"
+      },
+      "country_name": {
+        "type": "string",
+        "description": "Display name (e.g. 'Brazil', 'Mexico')",
+        "required": true
+      },
+      "priority_tier": {
+        "type": "enum",
+        "values": ["P1", "P2", "P3"],
+        "description": "Content priority tier. P1 = 15 launch cities, P2 = 25 expansion cities, P3 = 200+ long-tail cities.",
+        "required": true,
+        "indexed": true
+      },
+      "coordinates": {
+        "type": "object",
+        "properties": {
+          "lat": { "type": "number" },
+          "lng": { "type": "number" }
+        },
+        "description": "For map display on /our-network/ page",
+        "required": false
+      },
+
+      "advisory_data": {
+        "type": "object",
+        "description": "Government travel advisory data. Source of truth for risk badge.",
+        "properties": {
+          "fcdo_level": {
+            "type": "enum",
+            "values": ["AGAINST_ALL_TRAVEL", "AGAINST_ESSENTIAL", "SEE_WARNINGS", "NO_ADVISORY"],
+            "description": "UK FCDO advisory level"
+          },
+          "fcdo_url": { "type": "string", "description": "Link to FCDO page (for source attribution)" },
+          "fcdo_updated": { "type": "date", "description": "When FCDO page was last updated" },
+          "state_dept_level": {
+            "type": "integer",
+            "min": 1,
+            "max": 4,
+            "description": "US State Dept: 1=Exercise Normal Precautions, 2=Exercise Increased Caution, 3=Reconsider Travel, 4=Do Not Travel"
+          },
+          "osac_crime": {
+            "type": "enum",
+            "values": ["LOW", "MEDIUM", "HIGH", "CRITICAL"],
+            "description": "OSAC crime rating"
+          }
+        }
+      },
+
+      "risk_scores": {
+        "type": "object",
+        "description": "Numeric risk ratings (1-5). 1=minimal, 2=low, 3=moderate, 4=high, 5=critical. Feed into risk badge display.",
+        "properties": {
+          "crime": { "type": "integer", "min": 1, "max": 5 },
+          "terrorism": { "type": "integer", "min": 1, "max": 5 },
+          "kidnapping": { "type": "integer", "min": 1, "max": 5 },
+          "civil_unrest": { "type": "integer", "min": 1, "max": 5 },
+          "police_reliability": { "type": "integer", "min": 1, "max": 5, "description": "1=unreliable/corrupt, 5=highly reliable" },
+          "transport_risk": { "type": "integer", "min": 1, "max": 5 },
+          "overall": { "type": "integer", "min": 1, "max": 5, "description": "Composite score for risk badge" }
+        },
+        "content_maps_to": "Section 11 risk badge, /risk-assessments/{country}/{city}/ page hero"
+      },
+
+      "crime": {
+        "type": "object",
+        "properties": {
+          "severity": { "type": "enum", "values": ["low", "moderate", "high", "critical"] },
+          "types": { "type": "array", "items": "string", "description": "List of prevalent crime types" },
+          "hotspots": { "type": "array", "items": "string", "description": "Specific areas/neighbourhoods to avoid" },
+          "notes": { "type": "string", "description": "Free-text operational notes" }
+        },
+        "content_maps_to": "Section 3 (city security overview), Section 8 (safety tips)"
+      },
+
+      "terrorism": {
+        "type": "object",
+        "properties": {
+          "threat_level": { "type": "enum", "values": ["very_unlikely", "unlikely", "possible", "likely", "very_likely"] },
+          "active_groups": { "type": "array", "items": "string" },
+          "target_types": { "type": "array", "items": "string" },
+          "recent_attacks": { "type": "string", "description": "Brief factual summary" },
+          "notes": { "type": "string" }
+        },
+        "content_maps_to": "Section 3, /risk-assessments/{country}/{city}/"
+      },
+
+      "kidnapping": {
+        "type": "object",
+        "properties": {
+          "threat_level": { "type": "enum", "values": ["low", "moderate", "high", "critical"] },
+          "types": { "type": "array", "items": "string", "description": "e.g. ransom, express, virtual, tiger" },
+          "hotspots": { "type": "array", "items": "string" },
+          "notes": { "type": "string" }
+        },
+        "content_maps_to": "Section 3, FAQ ('Is kidnapping a risk in {city}?')"
+      },
+
+      "civil_unrest": {
+        "type": "object",
+        "properties": {
+          "frequency": { "type": "enum", "values": ["rare", "occasional", "regular", "frequent"] },
+          "triggers": { "type": "array", "items": "string" },
+          "affected_areas": { "type": "array", "items": "string" },
+          "notes": { "type": "string" }
+        }
+      },
+
+      "safe_zones": {
+        "type": "array",
+        "items": {
+          "name": "string",
+          "description": "string",
+          "suitability": { "type": "array", "items": { "type": "enum", "values": ["hotels", "residential", "business", "nightlife", "shopping"] } }
+        },
+        "description": "Neighbourhoods considered safer for international visitors",
+        "content_maps_to": "Section 8 (safety tips), guide pages"
+      },
+
+      "unsafe_zones": {
+        "type": "array",
+        "items": {
+          "name": "string",
+          "description": "string",
+          "risk_type": "string"
+        },
+        "description": "Areas to avoid or approach with caution",
+        "content_maps_to": "Section 8 (safety tips)"
+      },
+
+      "emergency_contacts": {
+        "type": "object",
+        "properties": {
+          "police": { "type": "string" },
+          "ambulance": { "type": "string" },
+          "fire": { "type": "string" },
+          "tourist_police": { "type": "string", "required": false },
+          "british_embassy": { "type": "string" },
+          "us_embassy": { "type": "string" },
+          "hospitals_with_trauma": { "type": "array", "items": "string" }
+        },
+        "content_maps_to": "Section 8 emergency numbers sidebar"
+      },
+
+      "typical_ep_package": {
+        "type": "object",
+        "description": "What a close protection deployment looks like in this city. Feeds Section 4 (what to expect).",
+        "properties": {
+          "standard_team": { "type": "string", "description": "e.g. '1 CPO + 1 driver in armoured vehicle'" },
+          "enhanced_team": { "type": "string", "description": "e.g. '2 CPOs + driver + advance team'" },
+          "armed_available": { "type": "boolean" },
+          "armoured_vehicle_available": { "type": "boolean" },
+          "daily_rate_range_usd": { "type": "string", "description": "e.g. '$800-$2,500'" },
+          "advance_notice_days": { "type": "integer", "description": "Minimum lead time for deployment" },
+          "notes": { "type": "string" }
+        },
+        "content_maps_to": "Section 4 (what to expect), Section 6 (service packages)"
+      },
+
+      "data_confidence": {
+        "type": "enum",
+        "values": ["HIGH", "MODERATE", "LOW"],
+        "description": "HIGH = verified from FCDO/State Dept + live sources. MODERATE = compiled from general knowledge, needs verification. LOW = sparse data, needs research."
+      },
+      "last_verified": {
+        "type": "date",
+        "description": "When this record was last verified against live sources"
+      }
+    }
+  },
+
+  "schema_2_operator_registry": {
+    "description": "Vetted security operator database. Each record represents a security company or individual operator that can be matched to client enquiries. NOT public-facing in Phase 1 (internal matching tool). May become public directory in Phase 2+.",
+    "file_pattern": "data/operators/{country_slug}/{operator_slug}.json",
+    "master_file": "data/operators/_all_operators.json",
+    "access_control": "INTERNAL ONLY. Never expose operator details on public pages. Public pages reference 'our vetted network' without naming specific firms.",
+    "update_cadence": "On onboarding. Re-verify annually (licence expiry, insurance renewal).",
+
+    "record": {
+      "operator_id": {
+        "type": "string",
+        "description": "Unique ID (e.g. 'NG-LAG-001'). Format: {country_iso}-{city_code}-{seq}",
+        "required": true,
+        "indexed": true
+      },
+      "company_name": {
+        "type": "string",
+        "required": true,
+        "access": "INTERNAL"
+      },
+      "trading_name": {
+        "type": "string",
+        "description": "If different from registered name",
+        "required": false,
+        "access": "INTERNAL"
+      },
+      "country_slug": {
+        "type": "string",
+        "required": true,
+        "indexed": true
+      },
+      "city_slugs": {
+        "type": "array",
+        "items": "string",
+        "description": "Cities covered by this operator (may cover multiple cities)",
+        "required": true,
+        "indexed": true
+      },
+      "services": {
+        "type": "array",
+        "items": {
+          "type": "enum",
+          "values": ["bodyguard_hire", "executive_protection", "security_drivers", "event_security", "residential_security", "risk_assessment", "armed_escort", "advance_team", "counter_surveillance", "k_and_r"]
+        },
+        "description": "Service types this operator provides",
+        "required": true,
+        "indexed": true
+      },
+
+      "vetting_status": {
+        "type": "object",
+        "description": "Tracks compliance with the vetting framework (Task 0.2 output)",
+        "properties": {
+          "status": {
+            "type": "enum",
+            "values": ["PENDING", "VETTED", "CONDITIONAL", "SUSPENDED", "REJECTED"],
+            "description": "PENDING=submitted, not verified. VETTED=all checks passed. CONDITIONAL=minor gap (e.g. insurance renewal pending). SUSPENDED=issue discovered, under review. REJECTED=did not pass."
+          },
+          "vetted_date": { "type": "date" },
+          "next_review_date": { "type": "date" },
+          "vetted_by": { "type": "string", "description": "Who conducted the review" }
+        }
+      },
+
+      "licensing": {
+        "type": "object",
+        "properties": {
+          "licence_number": { "type": "string" },
+          "issuing_authority": { "type": "string" },
+          "licence_type": { "type": "string" },
+          "expiry_date": { "type": "date" },
+          "verified": { "type": "boolean", "description": "Licence verified against issuing authority records" },
+          "verification_date": { "type": "date" },
+          "firearms_licence": {
+            "type": "object",
+            "required": false,
+            "properties": {
+              "held": { "type": "boolean" },
+              "number": { "type": "string" },
+              "weapon_types": { "type": "array", "items": "string" },
+              "expiry": { "type": "date" }
+            }
+          }
+        }
+      },
+
+      "insurance": {
+        "type": "object",
+        "properties": {
+          "public_liability": {
+            "type": "object",
+            "properties": {
+              "held": { "type": "boolean" },
+              "provider": { "type": "string" },
+              "cover_amount": { "type": "string" },
+              "expiry": { "type": "date" }
+            }
+          },
+          "professional_indemnity": {
+            "type": "object",
+            "properties": {
+              "held": { "type": "boolean" },
+              "provider": { "type": "string" },
+              "cover_amount": { "type": "string" },
+              "expiry": { "type": "date" }
+            }
+          },
+          "employer_liability": {
+            "type": "object",
+            "properties": {
+              "held": { "type": "boolean" },
+              "cover_amount": { "type": "string" },
+              "expiry": { "type": "date" }
+            }
+          }
+        }
+      },
+
+      "personnel": {
+        "type": "object",
+        "properties": {
+          "total_operators": { "type": "integer", "description": "Total CP-trained personnel available" },
+          "armed_operators": { "type": "integer" },
+          "languages": { "type": "array", "items": "string" },
+          "background": {
+            "type": "array",
+            "items": {
+              "type": "enum",
+              "values": ["military", "police", "intelligence", "private_security", "mixed"]
+            }
+          },
+          "training_certifications": {
+            "type": "array",
+            "items": "string",
+            "description": "e.g. SIA (UK), PSiRA Grade A (SA), ASIS CPP, etc."
+          },
+          "background_checked": { "type": "boolean" },
+          "background_check_provider": { "type": "string" }
+        }
+      },
+
+      "fleet": {
+        "type": "object",
+        "required": false,
+        "properties": {
+          "armoured_vehicles": { "type": "integer" },
+          "standard_vehicles": { "type": "integer" },
+          "vehicle_types": { "type": "array", "items": "string" },
+          "armour_rating": { "type": "string", "description": "e.g. B4, B6, B7" }
+        }
+      },
+
+      "pricing": {
+        "type": "object",
+        "access": "INTERNAL",
+        "properties": {
+          "currency": { "type": "string" },
+          "unarmed_cp_daily": { "type": "string", "description": "Range e.g. '$800-$1,200'" },
+          "armed_cp_daily": { "type": "string" },
+          "driver_daily": { "type": "string" },
+          "armoured_vehicle_daily": { "type": "string" },
+          "full_team_daily": { "type": "string" },
+          "commission_structure": { "type": "string", "description": "Our margin/commission arrangement" },
+          "notes": { "type": "string" }
+        }
+      },
+
+      "contact": {
+        "type": "object",
+        "access": "INTERNAL",
+        "properties": {
+          "primary_name": { "type": "string" },
+          "primary_phone": { "type": "string" },
+          "primary_email": { "type": "string" },
+          "whatsapp": { "type": "string" },
+          "signal": { "type": "string", "description": "Encrypted comms for sensitive enquiries" },
+          "website": { "type": "string" },
+          "response_time": { "type": "string", "description": "Typical response time to enquiry e.g. '<2 hours'" }
+        }
+      },
+
+      "performance": {
+        "type": "object",
+        "description": "Tracking after deployment. Empty on onboarding, populated over time.",
+        "properties": {
+          "jobs_completed": { "type": "integer", "default": 0 },
+          "client_satisfaction_avg": { "type": "number", "min": 1, "max": 5 },
+          "incidents": { "type": "integer", "default": 0 },
+          "last_deployed": { "type": "date" },
+          "notes": { "type": "string" }
+        }
+      },
+
+      "red_flags": {
+        "type": "array",
+        "items": {
+          "date": "date",
+          "flag": "string",
+          "severity": { "type": "enum", "values": ["LOW", "MEDIUM", "HIGH", "CRITICAL"] },
+          "resolved": "boolean",
+          "notes": "string"
+        },
+        "description": "Any concerning findings during vetting or operation"
+      }
+    }
+  },
+
+  "schema_3_country_regulations": {
+    "description": "Country-level security regulations. Feeds /guides/security-regulations-{country}/ pages, city page Section 5 (local regulations), and operator vetting requirements per country.",
+    "file_pattern": "data/regulations/{country_slug}.json",
+    "master_file": "data/regulations/_all_countries.json",
+    "update_cadence": "Biannually or when legislation changes.",
+    "note": "Existing data structure in security_regulations.json. This schema formalises it.",
+
+    "record": {
+      "country_slug": { "type": "string", "required": true, "indexed": true },
+      "country_name": { "type": "string", "required": true },
+      "iso_code": { "type": "string", "description": "ISO 3166-1 alpha-2" },
+
+      "regulatory_body": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "parent_ministry": { "type": "string" },
+          "legislation": { "type": "string", "description": "Primary law/act name + year" },
+          "website": { "type": "string" },
+          "notes": { "type": "string" }
+        }
+      },
+
+      "firearms": {
+        "type": "object",
+        "properties": {
+          "civilian_carry": { "type": "enum", "values": ["PROHIBITED", "VERY_RESTRICTED", "LICENCE_REQUIRED", "PERMITTED"] },
+          "security_carry": { "type": "enum", "values": ["PROHIBITED", "VERY_RESTRICTED", "LICENCE_REQUIRED", "PERMITTED"] },
+          "governing_law": { "type": "string" },
+          "weapon_types_permitted": { "type": "array", "items": "string" },
+          "armed_escort_options": { "type": "string" },
+          "penalties": { "type": "string" },
+          "notes": { "type": "string" }
+        },
+        "content_maps_to": "Section 5 (regulations), FAQ ('Can I hire an armed bodyguard?'), /guides/security-regulations-{country}/"
+      },
+
+      "licensing": {
+        "type": "object",
+        "properties": {
+          "company_licence_required": { "type": "boolean" },
+          "licence_type": { "type": "string" },
+          "issuing_authority": { "type": "string" },
+          "scope": { "type": "enum", "values": ["NATIONAL", "STATE_LEVEL", "PROVINCIAL", "EMIRATE_SPECIFIC"], "description": "Geographic scope of a single licence" },
+          "requirements": { "type": "array", "items": "string" },
+          "renewal_period": { "type": "string" },
+          "individual_guard_licence": { "type": "boolean" },
+          "training_requirements": { "type": "string" },
+          "background_check_required": { "type": "boolean" }
+        }
+      },
+
+      "foreign_operators": {
+        "type": "object",
+        "description": "Rules for non-national security companies and personnel. Critical for our business model.",
+        "properties": {
+          "company_entry": { "type": "enum", "values": ["PROHIBITED", "EFFECTIVELY_PROHIBITED", "VERY_RESTRICTED", "RESTRICTED", "ALLOWED_WITH_LOCAL_STRUCTURE", "OPEN"] },
+          "ownership_restrictions": { "type": "string", "description": "e.g. '51% local ownership required'" },
+          "personnel_rules": { "type": "string" },
+          "work_permit_required": { "type": "boolean" },
+          "armed_roles_for_foreigners": { "type": "boolean", "description": "Can foreign nationals carry weapons?" },
+          "practical_entry_route": { "type": "string", "description": "How international firms actually enter this market" },
+          "notes": { "type": "string" }
+        },
+        "content_maps_to": "Section 5, /guides/security-regulations-{country}/"
+      },
+
+      "operational_restrictions": {
+        "type": "array",
+        "items": "string",
+        "description": "Key operational limitations (e.g. 'no body armour without permit', 'provincial licence scope only')"
+      },
+
+      "practical_notes": {
+        "type": "string",
+        "description": "Operational reality on the ground. May differ from letter of the law."
+      },
+
+      "data_confidence": {
+        "type": "enum",
+        "values": ["HIGH", "MODERATE", "LOW"]
+      },
+      "legal_review_needed": {
+        "type": "boolean",
+        "description": "Flag for content that should be reviewed by in-country legal counsel before publication"
+      }
+    }
+  },
+
+  "relationships": {
+    "city_to_country": "city_risk_profiles.country_slug -> country_regulations.country_slug (many cities to one country)",
+    "operator_to_cities": "operator_registry.city_slugs -> city_risk_profiles.city_slug (many-to-many: operator covers multiple cities)",
+    "operator_to_country": "operator_registry.country_slug -> country_regulations.country_slug (operator must comply with country regulations)",
+    "content_generation": "Template engine reads city risk profile + country regulations + keyword data to generate each city page"
+  },
+
+  "content_mapping": {
+    "description": "How schema fields map to the 11 city page sections (build plan section 2.3)",
+    "section_1_hero": ["city_name", "country_name", "risk_scores.overall"],
+    "section_2_cta": ["city_name"],
+    "section_3_security_overview": ["crime", "terrorism", "kidnapping", "civil_unrest", "advisory_data"],
+    "section_4_what_to_expect": ["typical_ep_package"],
+    "section_5_regulations": ["country_regulations.firearms", "country_regulations.licensing", "country_regulations.foreign_operators"],
+    "section_6_packages": ["typical_ep_package.daily_rate_range_usd", "country_regulations.firearms.security_carry"],
+    "section_7_operators": ["INTERNAL: operator_registry filtered by city_slug. Public text: 'our vetted local network'"],
+    "section_8_safety_tips": ["safe_zones", "unsafe_zones", "emergency_contacts", "crime.hotspots"],
+    "section_9_faq": ["Generated from: risk_scores, firearms rules, typical_ep_package, kidnapping data"],
+    "section_10_related": ["Programmatic: other silos for same city_slug"],
+    "section_11_risk_badge": ["risk_scores.overall (maps to LOW/MEDIUM/HIGH/CRITICAL display)"]
+  },
+
+  "implementation_notes": {
+    "phase_1_static": {
+      "approach": "JSON files in /data/ directory. Build script reads JSON, renders HTML via templates.",
+      "tooling": "Python or Node script reads schema-compliant JSON files and generates static HTML pages",
+      "deployment": "Static HTML deployed to Netlify/Vercel/Cloudflare Pages"
+    },
+    "phase_2_dynamic": {
+      "approach": "If enquiry volume justifies, migrate to Supabase (Postgres) with REST API",
+      "operator_matching": "Internal tool for matching enquiries to operators based on city + service + armed/unarmed + availability",
+      "risk_updates": "Automated FCDO/State Dept feed checker flags when advisory levels change"
+    }
+  }
+}

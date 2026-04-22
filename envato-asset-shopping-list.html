@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Envato Elements Asset Shopping List</title>
+    <style>
+        :root {
+            --bg: #0d1117;
+            --surface: #161b22;
+            --surface-2: #1c2333;
+            --border: #30363d;
+            --text: #c9d1d9;
+            --text-muted: #8b949e;
+            --heading: #f0f6fc;
+            --accent: #58a6ff;
+            --green: #3fb950;
+            --red: #f85149;
+            --orange: #d29922;
+            --purple: #bc8cff;
+            --pink: #f778ba;
+            --cyan: #39d2c0;
+            --yellow: #e3b341;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+
+        .hero { background: linear-gradient(135deg, #0d1117 0%, #1a1020 40%, #211020 100%); border-bottom: 1px solid var(--border); padding: 60px 40px 50px; text-align: center; }
+        .hero h1 { font-size: 2.2rem; color: var(--heading); margin-bottom: 10px; font-weight: 700; }
+        .hero .subtitle { font-size: 1.05rem; color: var(--text-muted); max-width: 700px; margin: 0 auto 20px; }
+        .hero .stats { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-top: 20px; }
+        .hero .stat { background: var(--surface); padding: 12px 20px; border-radius: 10px; border: 1px solid var(--border); text-align: center; min-width: 130px; }
+        .hero .stat .num { font-size: 1.6rem; font-weight: 700; color: var(--heading); }
+        .hero .stat .lbl { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); margin-top: 2px; }
+
+        .sticky-nav { position: sticky; top: 0; z-index: 100; background: rgba(13,17,23,0.95); backdrop-filter: blur(8px); border-bottom: 1px solid var(--border); padding: 10px 20px; overflow-x: auto; white-space: nowrap; }
+        .sticky-nav a { color: var(--accent); text-decoration: none; font-size: 0.82rem; padding: 6px 14px; border-radius: 6px; display: inline-block; }
+        .sticky-nav a:hover { background: var(--surface); }
+
+        .container { max-width: 1200px; margin: 0 auto; padding: 40px 24px; }
+        h2 { color: var(--heading); font-size: 1.6rem; font-weight: 700; margin-bottom: 16px; padding-bottom: 10px; border-bottom: 2px solid var(--border); }
+        h3 { color: var(--heading); font-size: 1.2rem; font-weight: 600; margin: 24px 0 10px; }
+        h4 { color: var(--accent); font-size: 1rem; font-weight: 600; margin: 16px 0 8px; }
+        p { margin-bottom: 12px; }
+        ul, ol { margin: 8px 0 14px 24px; }
+        li { margin-bottom: 4px; }
+        .divider { height: 1px; background: var(--border); margin: 48px 0; }
+
+        .card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 20px; margin-bottom: 14px; }
+        .accent-left { border-left: 4px solid var(--accent); }
+        .green-left { border-left: 4px solid var(--green); }
+        .purple-left { border-left: 4px solid var(--purple); }
+        .orange-left { border-left: 4px solid var(--orange); }
+        .pink-left { border-left: 4px solid var(--pink); }
+        .cyan-left { border-left: 4px solid var(--cyan); }
+        .red-left { border-left: 4px solid var(--red); }
+        .yellow-left { border-left: 4px solid var(--yellow); }
+
+        table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 0.88rem; }
+        th { background: var(--surface-2); color: var(--heading); text-align: left; padding: 10px 12px; font-weight: 600; border: 1px solid var(--border); }
+        td { padding: 8px 12px; border: 1px solid var(--border); vertical-align: top; }
+        tr:nth-child(even) td { background: rgba(22, 27, 34, 0.4); }
+
+        .badge { display: inline-block; padding: 2px 10px; border-radius: 12px; font-size: 0.72rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; }
+        .b-red { background: rgba(248,81,73,0.15); color: var(--red); }
+        .b-orange { background: rgba(210,153,34,0.15); color: var(--orange); }
+        .b-yellow { background: rgba(227,179,65,0.15); color: var(--yellow); }
+        .b-green { background: rgba(63,185,80,0.15); color: var(--green); }
+        .b-blue { background: rgba(88,166,255,0.15); color: var(--accent); }
+        .b-purple { background: rgba(188,140,255,0.15); color: var(--purple); }
+        .b-cyan { background: rgba(57,210,192,0.15); color: var(--cyan); }
+
+        .search-phrase { background: var(--surface-2); padding: 3px 10px; border-radius: 6px; font-family: 'Courier New', monospace; font-size: 0.84rem; color: var(--cyan); border: 1px solid var(--border); display: inline-block; }
+        .notes { font-size: 0.84rem; color: var(--text-muted); }
+
+        .spec-row { display: flex; gap: 10px; flex-wrap: wrap; margin: 10px 0; }
+        .spec { background: var(--surface-2); padding: 6px 14px; border-radius: 8px; font-size: 0.8rem; border: 1px solid var(--border); }
+        .spec strong { color: var(--heading); }
+
+        .problem-card { background: rgba(248,81,73,0.04); border: 2px solid var(--red); border-radius: 10px; padding: 24px; margin-bottom: 24px; }
+        .problem-card h3 { color: var(--red); margin-top: 0; }
+
+        code { background: var(--surface-2); padding: 2px 8px; border-radius: 4px; font-size: 0.86rem; color: var(--cyan); }
+
+        .summary-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; margin: 20px 0; }
+
+        @media (max-width: 900px) {
+            .hero h1 { font-size: 1.6rem; }
+            .hero .stats { flex-direction: column; align-items: center; }
+            table { font-size: 0.8rem; }
+            td, th { padding: 6px 8px; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- HERO -->
+<div class="hero">
+    <h1>Envato Elements: Asset Shopping List</h1>
+    <p class="subtitle">Complete image and video download guide for the Security &amp; Bodyguard Hire website. Every asset, search phrase, and specification in one place.</p>
+    <div class="stats">
+        <div class="stat"><div class="num">33</div><div class="lbl">Pages on site</div></div>
+        <div class="stat"><div class="num">6</div><div class="lbl">Current images</div></div>
+        <div class="stat"><div class="num" style="color:var(--red);">53-59</div><div class="lbl">Assets needed</div></div>
+        <div class="stat"><div class="num">6</div><div class="lbl">Priority tiers</div></div>
+    </div>
+</div>
+
+<!-- NAV -->
+<nav class="sticky-nav">
+    <a href="#problem">The Problem</a>
+    <a href="#p1">P1: City Heroes</a>
+    <a href="#p2">P2: City Street</a>
+    <a href="#p3">P3: Services</a>
+    <a href="#p4">P4: Risk Assessments</a>
+    <a href="#p5">P5: Homepage</a>
+    <a href="#p6">P6: Video</a>
+    <a href="#summary">Summary</a>
+    <a href="#naming">File Naming</a>
+    <a href="#optimisation">Optimisation</a>
+    <a href="#implementation">Implementation</a>
+</nav>
+
+<div class="container">
+
+<!-- THE PROBLEM -->
+<section id="problem">
+    <div class="problem-card">
+        <h3>The Problem: 6 Images Across 33 Pages</h3>
+        <p>Six generic stock images rotate across 33 pages via modulo. Lagos gets the same hero as Karachi. The bodyguard page shares imagery with the event security page on list cards. Every repeat signals "template site" to both Google and visitors.</p>
+        <p><strong>City-specific imagery is the single biggest visual credibility gap.</strong></p>
+        <table>
+            <tr><th>Current Image</th><th>Used On</th><th>Problem</th></tr>
+            <tr><td><code>hero.jpg</code></td><td>Lagos, Riyadh, Karachi + fallback</td><td>Generic, no city identity</td></tr>
+            <tr><td><code>Close-Protection-2560.webp</code></td><td>Bodyguard, Dubai, Nairobi, Bangkok + zigzag + parallax</td><td>Overused (12+ references)</td></tr>
+            <tr><td><code>close-protection-768x347.jpg</code></td><td>Event Security, Johannesburg, Mumbai, Jakarta</td><td>Low resolution (768px wide)</td></tr>
+            <tr><td><code>geralt-watch-10184898.jpg</code></td><td>Security Drivers, Bogota, Moscow, Pre-Travel</td><td>Stock watermark name in filename</td></tr>
+            <tr><td><code>mhouge-businessman-1477601.jpg</code></td><td>Exec Protection, Mexico City, Sao Paulo</td><td>Generic businessman, not security</td></tr>
+            <tr><td><code>images.jpg</code></td><td>Residential, Istanbul, Manila</td><td>Filename is literally "images.jpg"</td></tr>
+        </table>
+    </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- PRIORITY 1: CITY HEROES -->
+<section id="p1">
+    <h2><span class="badge b-red">Priority 1</span> City Hero Images (15 photos)</h2>
+    <p>Each city page needs a unique, recognisable hero. The CSS applies a 0.75 opacity overlay, so images work best when slightly underexposed or dramatic.</p>
+
+    <div class="spec-row">
+        <div class="spec"><strong>Type:</strong> Photo</div>
+        <div class="spec"><strong>Orientation:</strong> Landscape</div>
+        <div class="spec"><strong>Min Resolution:</strong> 1920 x 1080</div>
+        <div class="spec"><strong>Style:</strong> Dark/moody, dusk or night. Dramatic sky.</div>
+    </div>
+
+    <table>
+        <tr><th>City</th><th>Search Phrase</th><th>What to Look For</th></tr>
+        <tr><td>Lagos</td><td><span class="search-phrase">lagos nigeria skyline night</span></td><td class="notes">Marina district, Third Mainland Bridge, or Victoria Island skyline at dusk</td></tr>
+        <tr><td>Nairobi</td><td><span class="search-phrase">nairobi kenya city aerial</span></td><td class="notes">CBD skyline, Kenyatta International Centre visible</td></tr>
+        <tr><td>Johannesburg</td><td><span class="search-phrase">johannesburg skyline night</span></td><td class="notes">Sandton or CBD skyline, dramatic lighting</td></tr>
+        <tr><td>Bogota</td><td><span class="search-phrase">bogota colombia cityscape</span></td><td class="notes">Monserrate view, Financial District, Andes backdrop</td></tr>
+        <tr><td>Mexico City</td><td><span class="search-phrase">mexico city skyline aerial</span></td><td class="notes">Paseo de la Reforma, Angel of Independence, modern towers</td></tr>
+        <tr><td>Istanbul</td><td><span class="search-phrase">istanbul city night</span></td><td class="notes">Bosphorus, mosque silhouettes against city lights</td></tr>
+        <tr><td>Riyadh</td><td><span class="search-phrase">riyadh saudi arabia skyline</span></td><td class="notes">Kingdom Tower, Financial District glass towers</td></tr>
+        <tr><td>Dubai</td><td><span class="search-phrase">dubai skyline night</span></td><td class="notes">Marina, Downtown, or Business Bay</td></tr>
+        <tr><td>Mumbai</td><td><span class="search-phrase">mumbai india skyline</span></td><td class="notes">Marine Drive, Bandra-Worli Sea Link, or South Mumbai</td></tr>
+        <tr><td>Moscow</td><td><span class="search-phrase">moscow city skyline night</span></td><td class="notes">Moscow City business district towers, dramatic sky</td></tr>
+        <tr><td>Sao Paulo</td><td><span class="search-phrase">sao paulo brazil skyline aerial</span></td><td class="notes">Paulista Avenue, dense urban core, dramatic scale</td></tr>
+        <tr><td>Manila</td><td><span class="search-phrase">manila philippines city night</span></td><td class="notes">Makati or BGC skyline, modern towers</td></tr>
+        <tr><td>Karachi</td><td><span class="search-phrase">karachi pakistan city</span></td><td class="notes">Clifton, Port area, or I.I. Chundrigar Road skyline</td></tr>
+        <tr><td>Bangkok</td><td><span class="search-phrase">bangkok thailand skyline night</span></td><td class="notes">Chao Phraya River, Sathorn district, temples and towers</td></tr>
+        <tr><td>Jakarta</td><td><span class="search-phrase">jakarta indonesia skyline</span></td><td class="notes">Sudirman CBD, modern towers, dramatic clouds</td></tr>
+    </table>
+</section>
+
+<div class="divider"></div>
+
+<!-- PRIORITY 2: CITY STREET -->
+<section id="p2">
+    <h2><span class="badge b-orange">Priority 2</span> City Mid-Page / Parallax Images (15 photos)</h2>
+    <p>Each city page has a parallax interlude section midway through the content. These need a "street-level" or "operational" feel. Different angle from the hero (hero = skyline/aerial, parallax = ground-level/neighbourhood).</p>
+
+    <div class="spec-row">
+        <div class="spec"><strong>Type:</strong> Photo</div>
+        <div class="spec"><strong>Orientation:</strong> Landscape</div>
+        <div class="spec"><strong>Min Resolution:</strong> 1920 x 1080</div>
+        <div class="spec"><strong>Style:</strong> Street-level, editorial, some human activity. Not tourist shots.</div>
+    </div>
+
+    <table>
+        <tr><th>City</th><th>Search Phrase</th><th>What to Look For</th></tr>
+        <tr><td>Lagos</td><td><span class="search-phrase">lagos street market nigeria</span></td><td class="notes">Victoria Island street scene, traffic, daily life</td></tr>
+        <tr><td>Nairobi</td><td><span class="search-phrase">nairobi street kenya urban</span></td><td class="notes">CBD streets, matatu traffic, urban energy</td></tr>
+        <tr><td>Johannesburg</td><td><span class="search-phrase">johannesburg street south africa urban</span></td><td class="notes">Sandton, Maboneng, or Rosebank street scenes</td></tr>
+        <tr><td>Bogota</td><td><span class="search-phrase">bogota street colombia urban</span></td><td class="notes">Candelaria neighbourhood, Zona T, or modern streets</td></tr>
+        <tr><td>Mexico City</td><td><span class="search-phrase">mexico city street urban</span></td><td class="notes">Condesa, Roma, or Reforma streetscape</td></tr>
+        <tr><td>Istanbul</td><td><span class="search-phrase">istanbul street grand bazaar</span></td><td class="notes">Narrow streets, Beyoglu, or Galata area</td></tr>
+        <tr><td>Riyadh</td><td><span class="search-phrase">riyadh boulevard saudi modern</span></td><td class="notes">Boulevard City, King Fahd Road, modern infrastructure</td></tr>
+        <tr><td>Dubai</td><td><span class="search-phrase">dubai downtown street</span></td><td class="notes">DIFC, Downtown walking paths, or Marina walk</td></tr>
+        <tr><td>Mumbai</td><td><span class="search-phrase">mumbai street india urban colaba</span></td><td class="notes">Colaba Causeway, Fort area, or BKC business district</td></tr>
+        <tr><td>Moscow</td><td><span class="search-phrase">moscow street russia urban</span></td><td class="notes">Tverskaya, Arbat, or Moscow City district ground level</td></tr>
+        <tr><td>Sao Paulo</td><td><span class="search-phrase">sao paulo street brazil urban paulista</span></td><td class="notes">Paulista Avenue, Jardins, or Vila Madalena</td></tr>
+        <tr><td>Manila</td><td><span class="search-phrase">manila makati street philippines</span></td><td class="notes">Makati CBD, BGC High Street, urban walkways</td></tr>
+        <tr><td>Karachi</td><td><span class="search-phrase">karachi street pakistan urban</span></td><td class="notes">Saddar, Zamzama, or Clifton street scenes</td></tr>
+        <tr><td>Bangkok</td><td><span class="search-phrase">bangkok street thailand urban</span></td><td class="notes">Silom, Sukhumvit, or Siam area</td></tr>
+        <tr><td>Jakarta</td><td><span class="search-phrase">jakarta street indonesia urban</span></td><td class="notes">Sudirman, Thamrin, Menteng street scenes</td></tr>
+    </table>
+</section>
+
+<div class="divider"></div>
+
+<!-- PRIORITY 3: SERVICE IMAGES -->
+<section id="p3">
+    <h2><span class="badge b-yellow">Priority 3</span> Service Images (10 photos: 2 per service)</h2>
+    <p>Each of the 5 service pages needs a hero image and a mid-page parallax image. These should look like real operational security, not movie props. Suited professionals, not military fatigues.</p>
+
+    <div class="spec-row">
+        <div class="spec"><strong>Type:</strong> Photo</div>
+        <div class="spec"><strong>Orientation:</strong> Landscape</div>
+        <div class="spec"><strong>Min Resolution:</strong> 1920 x 1080</div>
+        <div class="spec"><strong>Style:</strong> Professional, corporate security. Suits and earpieces, not tactical gear.</div>
+    </div>
+
+    <!-- Bodyguard Hire -->
+    <h3>Bodyguard Hire</h3>
+    <table>
+        <tr><th>Slot</th><th>Search Phrase</th><th>What to Look For</th></tr>
+        <tr><td>Hero</td><td><span class="search-phrase">close protection bodyguard suit</span></td><td class="notes">CPO in suit, earpiece, escorting principal. NOT military. Clean, professional.</td></tr>
+        <tr><td>Parallax</td><td><span class="search-phrase">bodyguard escort car door</span></td><td class="notes">Opening car door, scanning surroundings, operational moment.</td></tr>
+    </table>
+
+    <!-- Executive Protection -->
+    <h3>Executive Protection</h3>
+    <table>
+        <tr><th>Slot</th><th>Search Phrase</th><th>What to Look For</th></tr>
+        <tr><td>Hero</td><td><span class="search-phrase">executive protection corporate security</span></td><td class="notes">Security detail with business executive, corporate environment.</td></tr>
+        <tr><td>Parallax</td><td><span class="search-phrase">security advance team hotel lobby</span></td><td class="notes">Advance work, lobby walkthroughs, professional scanning.</td></tr>
+    </table>
+
+    <!-- Security Drivers -->
+    <h3>Security Drivers</h3>
+    <table>
+        <tr><th>Slot</th><th>Search Phrase</th><th>What to Look For</th></tr>
+        <tr><td>Hero</td><td><span class="search-phrase">security driver luxury car</span></td><td class="notes">Professional driver, suited, luxury/armoured vehicle.</td></tr>
+        <tr><td>Parallax</td><td><span class="search-phrase">armored vehicle escort convoy</span></td><td class="notes">Vehicle in motion, urban setting, professional driving.</td></tr>
+    </table>
+
+    <!-- Event Security -->
+    <h3>Event Security</h3>
+    <table>
+        <tr><th>Slot</th><th>Search Phrase</th><th>What to Look For</th></tr>
+        <tr><td>Hero</td><td><span class="search-phrase">event security conference professional</span></td><td class="notes">Security at corporate event, conference, or gala. Not nightclub bouncers.</td></tr>
+        <tr><td>Parallax</td><td><span class="search-phrase">crowd management security event</span></td><td class="notes">Perimeter control, access points, wristband checks.</td></tr>
+    </table>
+
+    <!-- Residential Security -->
+    <h3>Residential Security</h3>
+    <table>
+        <tr><th>Slot</th><th>Search Phrase</th><th>What to Look For</th></tr>
+        <tr><td>Hero</td><td><span class="search-phrase">residential security gated community guard</span></td><td class="notes">Guard house, CCTV monitoring, perimeter fence. Upmarket residential.</td></tr>
+        <tr><td>Parallax</td><td><span class="search-phrase">cctv surveillance monitor security</span></td><td class="notes">Control room, multiple screens, professional monitoring.</td></tr>
+    </table>
+</section>
+
+<div class="divider"></div>
+
+<!-- PRIORITY 4: RISK ASSESSMENT -->
+<section id="p4">
+    <h2><span class="badge b-green">Priority 4</span> Risk Assessment Images (6 photos: 2 per assessment)</h2>
+    <p>These pages are about assessment methodology, so the imagery should suggest planning and expertise, not action.</p>
+
+    <div class="spec-row">
+        <div class="spec"><strong>Type:</strong> Photo</div>
+        <div class="spec"><strong>Orientation:</strong> Landscape</div>
+        <div class="spec"><strong>Min Resolution:</strong> 1920 x 1080</div>
+        <div class="spec"><strong>Style:</strong> Analytical, procedural. Planning and expertise.</div>
+    </div>
+
+    <h3>Pre-Travel Security Assessment</h3>
+    <table>
+        <tr><th>Slot</th><th>Search Phrase</th><th>What to Look For</th></tr>
+        <tr><td>Hero</td><td><span class="search-phrase">security briefing meeting corporate</span></td><td class="notes">Briefing room, security team reviewing documents/maps, professional setting.</td></tr>
+        <tr><td>Parallax</td><td><span class="search-phrase">travel security planning map</span></td><td class="notes">Route planning, maps on table, tablet with security data.</td></tr>
+    </table>
+
+    <h3>Residential Security Assessment</h3>
+    <table>
+        <tr><th>Slot</th><th>Search Phrase</th><th>What to Look For</th></tr>
+        <tr><td>Hero</td><td><span class="search-phrase">property security inspection survey</span></td><td class="notes">Inspector reviewing property, clipboard/tablet, checking perimeter.</td></tr>
+        <tr><td>Parallax</td><td><span class="search-phrase">alarm system installation security home</span></td><td class="notes">Access control panels, smart home security, keypad entry.</td></tr>
+    </table>
+
+    <h3>Venue Security Assessment</h3>
+    <table>
+        <tr><th>Slot</th><th>Search Phrase</th><th>What to Look For</th></tr>
+        <tr><td>Hero</td><td><span class="search-phrase">venue security walkthrough inspection</span></td><td class="notes">Security professional surveying event venue, checking exits.</td></tr>
+        <tr><td>Parallax</td><td><span class="search-phrase">floor plan blueprint security</span></td><td class="notes">Architectural plans, exit routes marked, operational planning.</td></tr>
+    </table>
+</section>
+
+<div class="divider"></div>
+
+<!-- PRIORITY 5: HOMEPAGE -->
+<section id="p5">
+    <h2><span class="badge b-blue">Priority 5</span> Homepage Section Images (3-5 assets)</h2>
+    <p>If you buy the service images above (P3), the zigzag section is covered. These are for homepage-specific parallax interludes.</p>
+
+    <div class="spec-row">
+        <div class="spec"><strong>Type:</strong> Photo + Icon Set</div>
+        <div class="spec"><strong>Min Resolution:</strong> 1920 x 1080 for photos</div>
+    </div>
+
+    <table>
+        <tr><th>Section</th><th>Search Phrase</th><th>What to Look For</th></tr>
+        <tr><td>Parallax: "Why vetted operators"</td><td><span class="search-phrase">security team professional formation</span></td><td class="notes">Team of 3-4 CPOs, suited, walking formation. Authority without aggression.</td></tr>
+        <tr><td>Parallax: "How it works"</td><td><span class="search-phrase">security consultation meeting client</span></td><td class="notes">Client meeting with security consultant, office or hotel lobby.</td></tr>
+        <tr><td>How-it-works icons (optional)</td><td><span class="search-phrase">security icon set line</span></td><td class="notes">Line/outline style, dark theme compatible. Only if upgrading from CSS-only icons.</td></tr>
+    </table>
+</section>
+
+<div class="divider"></div>
+
+<!-- PRIORITY 6: VIDEO -->
+<section id="p6">
+    <h2><span class="badge b-purple">Priority 6</span> Video Assets (4-8 clips, optional)</h2>
+    <p>The homepage hero video (globe) is done. These are optional video backgrounds for service pages or city pages in future phases.</p>
+
+    <div class="spec-row">
+        <div class="spec"><strong>Type:</strong> Stock Video (MP4)</div>
+        <div class="spec"><strong>Resolution:</strong> 1920x1080 min (4K preferred)</div>
+        <div class="spec"><strong>Duration:</strong> 10-20 seconds, seamless loop</div>
+        <div class="spec"><strong>Style:</strong> Slow motion or timelapse. Dark grade. No audio.</div>
+    </div>
+
+    <table>
+        <tr><th>Purpose</th><th>Search Phrase</th><th>Type</th><th>Notes</th></tr>
+        <tr><td>Service page hero backgrounds</td><td><span class="search-phrase">bodyguard escort slow motion</span></td><td>Stock Video</td><td class="notes">10-15s loop, dark grade, no audio needed. Replaces static hero images.</td></tr>
+        <tr><td>City page ambient</td><td><span class="search-phrase">dubai skyline timelapse night</span></td><td>Stock Video</td><td class="notes">City-specific timelapses. Only for P1 cities. Adds premium feel.</td></tr>
+        <tr><td>About/Team page background</td><td><span class="search-phrase">security team walking corporate</span></td><td>Stock Video</td><td class="notes">Professional team in motion, suits, earpieces.</td></tr>
+        <tr><td>General security B-roll</td><td><span class="search-phrase">close protection detail surveillance</span></td><td>Stock Video</td><td class="notes">Operational footage for interspersing in content.</td></tr>
+    </table>
+</section>
+
+<div class="divider"></div>
+
+<!-- DOWNLOAD SUMMARY -->
+<section id="summary">
+    <h2>Download Summary</h2>
+
+    <div class="summary-grid">
+        <div class="card red-left">
+            <div style="font-size:1.8rem; font-weight:700; color:var(--heading);">15</div>
+            <div style="font-size:0.8rem; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.06em;">P1: City Hero Photos</div>
+        </div>
+        <div class="card orange-left">
+            <div style="font-size:1.8rem; font-weight:700; color:var(--heading);">15</div>
+            <div style="font-size:0.8rem; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.06em;">P2: City Street Photos</div>
+        </div>
+        <div class="card yellow-left">
+            <div style="font-size:1.8rem; font-weight:700; color:var(--heading);">10</div>
+            <div style="font-size:0.8rem; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.06em;">P3: Service Photos</div>
+        </div>
+        <div class="card green-left">
+            <div style="font-size:1.8rem; font-weight:700; color:var(--heading);">6</div>
+            <div style="font-size:0.8rem; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.06em;">P4: Assessment Photos</div>
+        </div>
+        <div class="card accent-left">
+            <div style="font-size:1.8rem; font-weight:700; color:var(--heading);">3-5</div>
+            <div style="font-size:0.8rem; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.06em;">P5: Homepage Photos + Icons</div>
+        </div>
+        <div class="card purple-left">
+            <div style="font-size:1.8rem; font-weight:700; color:var(--heading);">4-8</div>
+            <div style="font-size:0.8rem; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.06em;">P6: Video B-Roll (Optional)</div>
+        </div>
+    </div>
+
+    <table>
+        <tr><th>Priority</th><th>Category</th><th>Count</th><th>Asset Type</th></tr>
+        <tr><td><span class="badge b-red">P1</span></td><td>City hero images</td><td>15</td><td>Photo</td></tr>
+        <tr><td><span class="badge b-orange">P2</span></td><td>City parallax images</td><td>15</td><td>Photo</td></tr>
+        <tr><td><span class="badge b-yellow">P3</span></td><td>Service images</td><td>10</td><td>Photo</td></tr>
+        <tr><td><span class="badge b-green">P4</span></td><td>Risk assessment images</td><td>6</td><td>Photo</td></tr>
+        <tr><td><span class="badge b-blue">P5</span></td><td>Homepage-specific</td><td>3-5</td><td>Photo + Icons</td></tr>
+        <tr><td><span class="badge b-purple">P6</span></td><td>Video B-roll (optional)</td><td>4-8</td><td>Stock Video</td></tr>
+        <tr style="font-weight:700;"><td></td><td><strong>Total</strong></td><td><strong>53-59</strong></td><td></td></tr>
+    </table>
+</section>
+
+<div class="divider"></div>
+
+<!-- FILE NAMING -->
+<section id="naming">
+    <h2>File Naming Convention</h2>
+    <p>Rename each file before adding to <code>static/images/</code>:</p>
+
+    <table>
+        <tr><th>Category</th><th>Pattern</th><th>Example</th></tr>
+        <tr><td>City hero</td><td><code>city-{slug}-hero.jpg</code></td><td><code>city-lagos-hero.jpg</code></td></tr>
+        <tr><td>City street</td><td><code>city-{slug}-street.jpg</code></td><td><code>city-lagos-street.jpg</code></td></tr>
+        <tr><td>Service hero</td><td><code>service-{slug}-hero.jpg</code></td><td><code>service-bodyguard-hire-hero.jpg</code></td></tr>
+        <tr><td>Service parallax</td><td><code>service-{slug}-parallax.jpg</code></td><td><code>service-bodyguard-hire-parallax.jpg</code></td></tr>
+        <tr><td>Assessment hero</td><td><code>assessment-{slug}-hero.jpg</code></td><td><code>assessment-pre-travel-hero.jpg</code></td></tr>
+        <tr><td>Assessment parallax</td><td><code>assessment-{slug}-parallax.jpg</code></td><td><code>assessment-pre-travel-parallax.jpg</code></td></tr>
+        <tr><td>Homepage</td><td><code>homepage-{section}.jpg</code></td><td><code>homepage-vetted-operators.jpg</code></td></tr>
+        <tr><td>Video</td><td><code>video-{purpose}.mp4</code></td><td><code>video-bodyguard-broll.mp4</code></td></tr>
+    </table>
+</section>
+
+<div class="divider"></div>
+
+<!-- OPTIMISATION -->
+<section id="optimisation">
+    <h2>Image Optimisation Notes</h2>
+
+    <div class="card accent-left">
+        <ul>
+            <li><strong>Convert all JPGs to WebP</strong> before deploying (Hugo image processing or <code>cwebp</code> CLI).</li>
+            <li><strong>Target file size:</strong> under 200KB per image after compression.</li>
+            <li><strong>Hero video:</strong> <code>hero-globe.mp4</code> is 161MB at 4K. Create a 720p web version (~5-10MB) before launch:</li>
+        </ul>
+        <div style="background:var(--surface-2); padding:12px 16px; border-radius:8px; font-family:'Courier New',monospace; font-size:0.84rem; color:var(--cyan); margin:10px 0; overflow-x:auto;">
+            ffmpeg -i hero-globe.mp4 -vf scale=1280:720 -c:v libx264 -crf 28 -preset slow hero-globe-web.mp4
+        </div>
+        <ul>
+            <li><strong>Thumbnail crops:</strong> Consider creating 400x300 crops of city images for the homepage grid cards.</li>
+        </ul>
+    </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- IMPLEMENTATION -->
+<section id="implementation">
+    <h2>Implementation Order</h2>
+
+    <div class="card">
+        <ol style="line-height: 2.2;">
+            <li><strong>Download P1 + P2</strong> (city images). Update all 15 city <code>.md</code> front matter with new <code>hero_image</code> values. Update image pool in layouts.</li>
+            <li><strong>Download P3</strong> (service images). Update 5 service <code>.md</code> files. Update homepage zigzag <code>&lt;img&gt;</code> tags.</li>
+            <li><strong>Download P4</strong> (risk assessment images). Update 3 risk assessment <code>.md</code> files.</li>
+            <li><strong>Update homepage</strong> parallax interludes with P5 images.</li>
+            <li><strong>Compress hero video.</strong> Add WebP pipeline. Test all pages.</li>
+            <li><strong>Optionally add P6 videos</strong> to service/city pages in a later phase.</li>
+        </ol>
+    </div>
+</section>
+
+<div class="divider"></div>
+
+<div style="text-align:center; padding: 40px 0 30px; color: var(--text-muted); font-size: 0.85rem;">
+    <p>Envato Elements Asset Shopping List</p>
+    <p>Security &amp; Bodyguard Hire Project</p>
+    <p>17 April 2026 | Internal Document</p>
+</div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,823 @@
+{
+  "_metadata": {
+    "source": "UK Foreign, Commonwealth & Development Office (FCDO)",
+    "base_url": "https://www.gov.uk/foreign-travel-advice/",
+    "compiled": "2026-04-15",
+    "purpose": "Travel advisory data for security-bodyguard city risk profiles",
+    "advisory_levels": {
+      "AGAINST_ALL_TRAVEL": "FCDO advises against all travel (highest risk)",
+      "AGAINST_ESSENTIAL": "FCDO advises against all but essential travel",
+      "SEE_WARNINGS": "No blanket advisory but specific warnings exist",
+      "NO_ADVISORY": "No specific travel advisory (standard precautions)"
+    },
+    "notes": [
+      "FCDO data fetched live from gov.uk on 15 April 2026",
+      "State Dept data compiled separately in state_dept_data.json",
+      "Regional escalation warnings active across Middle East countries due to Iran-Israel conflict",
+      "Middle East advisories significantly elevated above normal baseline due to ongoing regional conflict"
+    ]
+  },
+
+  "p1_countries": {
+
+    "nigeria": {
+      "country": "Nigeria",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/nigeria",
+      "overall_level": "AGAINST_ALL_TRAVEL",
+      "advisory_text": "FCDO advises against all travel to parts of Nigeria",
+      "last_updated": "2026-04-01",
+      "restricted_areas": {
+        "against_all_travel": [
+          "Borno State",
+          "Yobe State",
+          "Adamawa State",
+          "Gombe State",
+          "Katsina State (within 20km of Niger border)",
+          "Zamfara State",
+          "Riverine areas of Delta, Bayelsa, Rivers, Akwa Ibom, Cross River states"
+        ],
+        "against_essential_travel": [
+          "Kaduna State",
+          "Kano State",
+          "Kebbi State",
+          "Jigawa State",
+          "Sokoto State",
+          "Niger State",
+          "Kogi State",
+          "Plateau State",
+          "Taraba State",
+          "Abia State",
+          "Anambra State",
+          "Imo State",
+          "Non-riverine areas of Delta, Bayelsa, Rivers states"
+        ]
+      },
+      "key_threats": {
+        "terrorism": "VERY LIKELY. ISWA and Boko Haram in northeast. Attacks across multiple states including FCT.",
+        "kidnapping": "WIDESPREAD. Criminal and terrorist kidnapping. Affects highways, oil facilities, all regions. NW especially severe (Zamfara, Katsina, Kaduna, Borno, Sokoto). Abuja-Kaduna highway high risk.",
+        "crime": "HIGH. Violent street crime, armed robbery, carjacking on urban and rural roads. Areas around banks/ATMs targeted.",
+        "piracy": "Armed robberies in Nigerian waters and Gulf of Guinea",
+        "political_instability": "Widespread protests, intercommunal violence frequent and without warning"
+      },
+      "p1_city_implications": {
+        "Lagos": "High crime rates, carjacking, kidnapping risk, financial scams epicentre. Not in FCDO restricted zone but highly dangerous.",
+        "Abuja": "FCT has seen ISWA attacks. Abuja-Kaduna highway kidnapping hotspot. Federal capital has security presence but remains high-risk."
+      }
+    },
+
+    "kenya": {
+      "country": "Kenya",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/kenya",
+      "overall_level": "AGAINST_ALL_TRAVEL",
+      "advisory_text": "FCDO advises against all travel to parts of Kenya",
+      "last_updated": "2026-03-27",
+      "restricted_areas": {
+        "against_all_travel": [
+          "Mandera County",
+          "Parts of Wajir County (within 60km of Somalia border)",
+          "Parts of Garissa County (within 60km of Somalia border)",
+          "Parts of Lamu County (Boni National Reserve and areas within 60km of Somalia border)"
+        ],
+        "against_essential_travel": []
+      },
+      "key_threats": {
+        "terrorism": "VERY LIKELY. Al Shabaab primary threat. Heightened threat across Kenya including Nairobi. Targets hotels, bars, malls, places of worship.",
+        "kidnapping": "HIGH threat of terrorist kidnap. Westerners/British nationals targeted. Northern counties and coast most exposed.",
+        "crime": "HIGH. Violent mugging, armed robbery, carjacking in Nairobi (Eastleigh, CBD, slums) and Mombasa (Old Town, Likoni Ferry).",
+        "political_instability": "Protests/demonstrations common, especially in Nairobi. Can turn violent."
+      },
+      "p1_city_implications": {
+        "Nairobi": "High crime in Eastleigh, CBD, Mathare, Kibera. Carjacking risk especially old airport road/Jogoo Road. Al Shabaab threat to hotels, malls (2019 Riverside attack)."
+      }
+    },
+
+    "south_africa": {
+      "country": "South Africa",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/south-africa",
+      "overall_level": "SEE_WARNINGS",
+      "advisory_text": "No blanket advisory but extensive crime warnings",
+      "last_updated": "2026-03-31",
+      "restricted_areas": {
+        "against_all_travel": [],
+        "against_essential_travel": []
+      },
+      "key_threats": {
+        "terrorism": "LIKELY. Lone actor threat inspired by Daesh. Indiscriminate attacks possible.",
+        "kidnapping": "INCREASING. Criminal kidnap for financial gain. Express kidnappings after dark. Foreign nationals including British targeted.",
+        "crime": "VERY HIGH. Violent mugging, carjacking, smash-and-grab, house robbery, rape, murder. Countrywide but worst in townships, CBDs, isolated areas.",
+        "vehicle_crime": "Common carjacking/robbery especially after dark at traffic lights, junctions, petrol stations. Fake police with blue lights. Cape Town airport road attacks increasing.",
+        "airport_crime": "Criminals follow victims from OR Tambo airport. Targeted attacks on Cape Town airport routes (avoid R300, use M3/N2)."
+      },
+      "p1_city_implications": {
+        "Johannesburg": "Very high crime. OR Tambo airport targeting. Townships extremely dangerous. CBD high risk. Table Mountain attacks (Lion's Head, Signal Hill).",
+        "Cape_Town": "Airport road attacks escalating. Table Mountain muggings. Township violence. Taxi app crime. Vehicle crime widespread."
+      }
+    },
+
+    "colombia": {
+      "country": "Colombia",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/colombia",
+      "overall_level": "AGAINST_ESSENTIAL",
+      "advisory_text": "FCDO advises against all but essential travel to parts of Colombia",
+      "last_updated": "2026-04-07",
+      "restricted_areas": {
+        "against_all_travel": [],
+        "against_essential_travel": [
+          "Within 5km of Venezuela border (except Cucuta city centre transit)",
+          "Pacific coast departments (Choco, Cauca, Narino, Valle del Cauca non-urban)",
+          "Within 5km of Panama border (Darien Gap)",
+          "Parts of central Colombia",
+          "Within 5km of Ecuador border"
+        ]
+      },
+      "key_threats": {
+        "terrorism": "Attacks by ELN and FARC dissidents. Car bombs, IEDs mainly in border/rural areas.",
+        "kidnapping": "Ongoing risk especially in border regions and rural areas",
+        "crime": "High street crime in major cities. Armed robbery, express kidnapping in Bogota, Medellin, Cali.",
+        "drug_trafficking": "Major narcotics transit routes, especially border regions and Pacific coast"
+      },
+      "p1_city_implications": {
+        "Bogota": "Street crime, armed robbery, express kidnapping. Protests can turn violent. Generally safer in north/business districts."
+      }
+    },
+
+    "mexico": {
+      "country": "Mexico",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/mexico",
+      "overall_level": "AGAINST_ESSENTIAL",
+      "advisory_text": "FCDO advises against all but essential travel to parts of Mexico",
+      "last_updated": "2026-03-13",
+      "restricted_areas": {
+        "against_all_travel": [],
+        "against_essential_travel": [
+          "Baja California (Tijuana city limits and Tecate municipality)",
+          "Chihuahua state",
+          "Sinaloa state",
+          "Tamaulipas state",
+          "Zacatecas state",
+          "Guanajuato state",
+          "Michoacan state",
+          "Parts of Jalisco state",
+          "Colima state",
+          "Guerrero state",
+          "Parts of Chiapas state"
+        ]
+      },
+      "key_threats": {
+        "crime": "Serious organised crime and gang violence. Cartel turf wars in restricted states.",
+        "kidnapping": "Risk across Mexico. Express kidnapping and virtual kidnapping schemes.",
+        "drug_trafficking": "Major trafficking routes through restricted states. Violence between cartels.",
+        "road_safety": "Dangerous driving conditions. Armed highway robberies. Avoid night travel."
+      },
+      "p1_city_implications": {
+        "Mexico_City": "Not in restricted zone. Street crime, express kidnapping, taxi crime. Generally safer in major tourist/business areas (Polanco, Reforma, Condesa)."
+      }
+    },
+
+    "turkey": {
+      "country": "Turkey",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/turkey",
+      "overall_level": "AGAINST_ALL_TRAVEL",
+      "advisory_text": "FCDO advises against all travel to within 10km of Syria border",
+      "last_updated": "2026-03-01",
+      "restricted_areas": {
+        "against_all_travel": [
+          "Within 10km of border with Syria"
+        ],
+        "against_essential_travel": []
+      },
+      "key_threats": {
+        "terrorism": "LIKELY. PKK, Daesh, and far-left groups. Istanbul, Ankara most exposed urban areas. Heightened due to regional escalation.",
+        "political_instability": "Protests possible. Regional Middle East escalation poses security risks.",
+        "crime": "Pickpocketing, bag snatching in tourist areas. Scams targeting foreigners."
+      },
+      "p1_city_implications": {
+        "Istanbul": "Terrorism risk (previous attacks on airport, nightclubs, metro). Petty crime in tourist areas. Regional escalation risk. Major economic hub requiring executive protection."
+      }
+    },
+
+    "saudi_arabia": {
+      "country": "Saudi Arabia",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/saudi-arabia",
+      "overall_level": "AGAINST_ALL_TRAVEL",
+      "advisory_text": "FCDO advises against all travel to within 10km of Yemen border. Against all but essential to Eastern Province and Riyadh Province.",
+      "last_updated": "2026-04-14",
+      "restricted_areas": {
+        "against_all_travel": [
+          "Within 10km of Yemen border"
+        ],
+        "against_essential_travel": [
+          "Between 10-80km of Yemen border",
+          "Eastern Province (entire)",
+          "Riyadh Province (entire)"
+        ]
+      },
+      "key_threats": {
+        "terrorism": "Missile and drone attacks across Saudi Arabia from Houthi forces and Iran. Risk of debris from interceptions.",
+        "regional_conflict": "Iranian strikes risk on civilian infrastructure (ports, hotels, airports, energy facilities, roads). Regional escalation significant.",
+        "missile_drone": "Continued missile and drone attacks. Shelter-in-place protocols active.",
+        "photography": "Illegal to film government buildings, military installations, palaces. No footage of missiles/interceptions."
+      },
+      "p1_city_implications": {
+        "Riyadh": "ENTIRE PROVINCE under against-essential advisory. Missile/drone attack risk. Iranian targeting of US/Israel-linked locations. Active military operations in region."
+      }
+    },
+
+    "uae": {
+      "country": "United Arab Emirates",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/united-arab-emirates",
+      "overall_level": "AGAINST_ESSENTIAL",
+      "advisory_text": "FCDO advises against all but essential travel to United Arab Emirates (entire country)",
+      "last_updated": "2026-04-14",
+      "restricted_areas": {
+        "against_all_travel": [],
+        "against_essential_travel": [
+          "Entire country"
+        ]
+      },
+      "key_threats": {
+        "regional_conflict": "Iranian targeting of US/Israel-linked locations. Risk of missile/drone attacks on civilian infrastructure.",
+        "missile_drone": "Risk of debris from intercepted missiles/drones. Shelter protocols in place.",
+        "posting_restrictions": "Illegal to post material critical of UAE government, companies, or individuals online including video/photos of incidents.",
+        "embassy_status": "UK dependants temporarily withdrawn from UAE as precautionary measure."
+      },
+      "p1_city_implications": {
+        "Dubai": "ENTIRE UAE under against-essential advisory due to regional escalation. Major international business hub. Iranian strike risk on infrastructure. Large expatriate community requiring protection."
+      }
+    },
+
+    "india": {
+      "country": "India",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/india",
+      "overall_level": "AGAINST_ALL_TRAVEL",
+      "advisory_text": "FCDO advises against all travel to parts of India",
+      "last_updated": "2026-04-09",
+      "restricted_areas": {
+        "against_all_travel": [
+          "Within 10km of India-Pakistan border (Wagah-Attari crossing closed)",
+          "Union Territory of Jammu and Kashmir (including Pahalgam, Gulmarg, Sonamarg, Srinagar, Jammu-Srinagar highway) except air travel to/from Jammu city and within Jammu city"
+        ],
+        "against_essential_travel": [
+          "Manipur state including Imphal (ethnic clashes ongoing since 2023)"
+        ]
+      },
+      "key_threats": {
+        "terrorism": "Risk of attacks including in major cities. Naxalite insurgency in central/eastern India. Kashmir conflict.",
+        "crime": "Petty crime, scams, sexual assault risk especially for women travellers. Pickpocketing in tourist areas.",
+        "political_instability": "Protests/demonstrations can occur. India-Pakistan tensions elevated (border closed).",
+        "regional_conflict": "India-Pakistan border tensions. Wagah-Attari crossing closed. Manipur ethnic violence ongoing."
+      },
+      "p1_city_implications": {
+        "Mumbai": "Not in restricted zone. Terrorism risk (2008 attacks precedent). Petty crime, scams. Major financial hub. Sexual assault risk.",
+        "Delhi": "Not in restricted zone but near Pakistan border tension zone. Crime, scams, air quality issues. Political demonstrations common."
+      }
+    },
+
+    "russia": {
+      "country": "Russia",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/russia",
+      "overall_level": "AGAINST_ALL_TRAVEL",
+      "advisory_text": "FCDO advises against ALL travel to Russia (entire country)",
+      "last_updated": "2026-04-13",
+      "restricted_areas": {
+        "against_all_travel": [
+          "Entire country"
+        ],
+        "against_essential_travel": []
+      },
+      "key_threats": {
+        "invasion_of_ukraine": "Continuing invasion. Drone attacks, security incidents across Russia including near Moscow.",
+        "detention_risk": "INCREASED risk of British nationals being detained. Russia targets foreign nationals as leverage. Activities outside Russia may be used as basis for detention.",
+        "terrorism": "HIGH likelihood of attacks including in major cities (Moscow Crocus City Hall 2024 attack).",
+        "conscription": "Male dual nationals aged 18-30 may face compulsory military service. Draft notices prevent departure.",
+        "no_flights": "Lack of direct flights to UK. Limited return options.",
+        "limited_support": "UK government support severely limited. Embassy open but very limited in-person support."
+      },
+      "p1_city_implications": {
+        "Moscow": "ENTIRE COUNTRY under against-all-travel. Detention risk for British nationals. Terrorism threat. Drone attacks. No direct flights. Conscription risk for dual nationals."
+      }
+    },
+
+    "brazil": {
+      "country": "Brazil",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/brazil",
+      "overall_level": "AGAINST_ESSENTIAL",
+      "advisory_text": "FCDO advises against all but essential travel to parts of Brazil",
+      "last_updated": "2025-12-10",
+      "restricted_areas": {
+        "against_all_travel": [],
+        "against_essential_travel": [
+          "Western Amazonas State river areas (Amazon River tributaries west of Codajas, Itaquai River, Japura River, Rio Negro north/west of Barcelos)"
+        ]
+      },
+      "key_threats": {
+        "crime": "HIGH violent crime in major cities. Favela violence, armed robbery, carjacking. Gang warfare in Rio, Sao Paulo.",
+        "kidnapping": "Express kidnapping in major cities",
+        "drug_trafficking": "Major trafficking routes through Amazon region",
+        "political_instability": "Protests possible, especially around elections"
+      },
+      "p1_city_implications": {
+        "Sao_Paulo": "Not in restricted zone. High violent crime, favela areas extremely dangerous, carjacking, armed robbery. Major business hub requiring executive protection."
+      }
+    },
+
+    "philippines": {
+      "country": "Philippines",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/philippines",
+      "overall_level": "AGAINST_ALL_TRAVEL",
+      "advisory_text": "FCDO advises against all travel to western and central Mindanao and Sulu archipelago",
+      "last_updated": "2026-04-01",
+      "restricted_areas": {
+        "against_all_travel": [
+          "Western and central Mindanao",
+          "Sulu archipelago"
+        ],
+        "against_essential_travel": [
+          "Remainder of Mindanao (except Camiguin, Dinagat, Siargao islands)"
+        ]
+      },
+      "key_threats": {
+        "terrorism": "Terrorist activity and military-insurgent clashes in southern Philippines. Abu Sayyaf, Maute groups.",
+        "kidnapping": "Kidnap-for-ransom in Mindanao/Sulu. Foreign nationals targeted.",
+        "crime": "Petty crime, scams in Manila. Drug war violence.",
+        "demonstrations": "Large-scale demonstrations expected in Metro Manila"
+      },
+      "p1_city_implications": {
+        "Manila": "Not in restricted zone. Crime, scams, protests. Traffic congestion extreme. Drug war violence (reduced but ongoing)."
+      }
+    },
+
+    "pakistan": {
+      "country": "Pakistan",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/pakistan",
+      "overall_level": "AGAINST_ALL_TRAVEL",
+      "advisory_text": "FCDO advises against all travel to parts of Pakistan, against essential to other parts",
+      "last_updated": "2026-03-14",
+      "restricted_areas": {
+        "against_all_travel": [
+          "Within 10 miles of Afghanistan border",
+          "Balochistan Province (entire)",
+          "Multiple areas of Khyber Pakhtunkhwa (Bajaur, Bannu, Buner, Charsadda, Dera Ismail Khan, Hangu, Karak, Khyber, Kohat, Kurram, Lakki Marwat, Upper/Lower Dir, Mohmand, Orakzai, Peshawar, Swat, Tank, N&S Waziristan)",
+          "Karakoram Highway (Mansehra to Chilas section)",
+          "N45 Highway (Mardan to Chitral including Kalash valley)",
+          "Within 10 miles of Line of Control (Kashmir)"
+        ],
+        "against_essential_travel": [
+          "Parts of KPK (Malakand, Mardan, Nowshera, Shangla, Swabi)",
+          "Within 5 miles of India border (except closed Wagah/Kartarpur crossings)",
+          "Gilgit-Baltistan",
+          "Sindh Province north of Nawabshah including city",
+          "Punjab Province: Dera Ghazi Khan"
+        ]
+      },
+      "key_threats": {
+        "terrorism": "VERY HIGH. TTP, ISIL-K, sectarian groups. Attacks on military, government, religious targets. IEDs, suicide bombings.",
+        "kidnapping": "Risk across Pakistan. Foreign workers targeted.",
+        "regional_tensions": "Pakistan-Afghanistan tensions. Pakistan-India tensions (border closed). Drone activity in some cities.",
+        "political_instability": "Protests in major cities. Road restrictions and curfews at short notice. Internet outages.",
+        "airspace": "Closures due to Middle East escalation and India tensions"
+      },
+      "p1_city_implications": {
+        "Karachi": "Not in blanket restricted zone but Sindh has partial restrictions. Terrorism, kidnapping, sectarian violence, crime. Major port city. Target-rich environment.",
+        "Islamabad": "Adjacent to restricted KPK. Protests common. Better security than other cities but terrorism risk remains."
+      }
+    },
+
+    "thailand": {
+      "country": "Thailand",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/thailand",
+      "overall_level": "AGAINST_ESSENTIAL",
+      "advisory_text": "FCDO advises against all but essential travel to parts of Thailand",
+      "last_updated": "2026-04-02",
+      "restricted_areas": {
+        "against_all_travel": [],
+        "against_essential_travel": [
+          "Pattani Province",
+          "Yala Province",
+          "Narathiwat Province",
+          "Southern Songkhla Province (Chana, Thepa, Na Thawi, Saba Yoi districts)",
+          "Hat Yai to Padang Besar train line",
+          "Within 20km of Cambodia land border"
+        ]
+      },
+      "key_threats": {
+        "terrorism": "Islamist insurgency in deep south (Pattani, Yala, Narathiwat). Regular attacks near Malaysia border.",
+        "crime": "Petty crime, scams, drink spiking in tourist areas. Bag snatching.",
+        "border_conflict": "Thailand-Cambodia border fighting (July 2025, Dec 2025). Landmines in border area.",
+        "road_safety": "High road fatality rate. Motorcycle accidents common."
+      },
+      "p1_city_implications": {
+        "Bangkok": "Not in restricted zone. Petty crime, scams, drink spiking. Protests possible. Generally safe for business travel with precautions."
+      }
+    },
+
+    "indonesia": {
+      "country": "Indonesia",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/indonesia",
+      "overall_level": "AGAINST_ALL_TRAVEL",
+      "advisory_text": "FCDO advises against all travel to areas around active volcanoes",
+      "last_updated": "2026-03-19",
+      "restricted_areas": {
+        "against_all_travel": [
+          "Mount Lewotobi Laki-Laki crater (7km radius), Flores",
+          "Mount Sinabung crater (5km radius), North Sumatra",
+          "Mount Marapi crater (3km radius), West Sumatra",
+          "Mount Semeru crater (5km radius), East Java",
+          "Mount Ruang crater (7km radius), Northern Sulawesi",
+          "Mount Ibu crater (7km radius), North Maluku"
+        ],
+        "against_essential_travel": []
+      },
+      "key_threats": {
+        "terrorism": "LIKELY. Jemaah Islamiyah and ISIS-aligned groups. Previous attacks in Jakarta, Bali.",
+        "natural_disasters": "Earthquakes, tsunamis, volcanic eruptions. Frequent and severe.",
+        "crime": "Petty crime in tourist areas, scams.",
+        "regional_risk": "Middle East escalation causing travel disruption"
+      },
+      "p1_city_implications": {
+        "Jakarta": "Not in volcano restricted zones. Terrorism risk (previous attacks). Crime, flooding, traffic. Major business hub."
+      }
+    }
+  },
+
+  "p2_countries": {
+
+    "uk": {
+      "country": "United Kingdom",
+      "fcdo_url": "N/A (domestic)",
+      "overall_level": "N/A",
+      "advisory_text": "Domestic - no FCDO advisory. UK counter-terrorism threat level: SUBSTANTIAL.",
+      "key_threats": {
+        "terrorism": "SUBSTANTIAL threat level. Islamist and far-right extremism.",
+        "crime": "Knife crime, gang violence in urban areas. Organised crime."
+      },
+      "p2_city_implications": {
+        "London": "Major global city. Terrorism target. Knife crime. Organised crime. VIP/celebrity protection market leader."
+      }
+    },
+
+    "usa": {
+      "country": "United States",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/usa",
+      "overall_level": "SEE_WARNINGS",
+      "advisory_text": "No blanket advisory but specific warnings on gun violence, mass shootings",
+      "key_threats": {
+        "gun_violence": "Mass shooting risk. High gun ownership. Active shooter incidents.",
+        "crime": "Varies by city. Gang violence in some urban areas.",
+        "terrorism": "Domestic extremism and lone actor attacks."
+      },
+      "p2_city_implications": {
+        "New_York": "Low crime for US major city but still requires awareness. Mass shooting risk. Major VIP protection market."
+      }
+    },
+
+    "france": {
+      "country": "France",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/france",
+      "overall_level": "NO_ADVISORY",
+      "advisory_text": "No specific travel advisory",
+      "last_updated": "2026-04-10",
+      "key_threats": {
+        "terrorism": "HIGH threat. Multiple previous attacks (Bataclan, Nice, Charlie Hebdo). Islamist and lone actor.",
+        "crime": "Pickpocketing, bag snatching in Paris tourist areas and transport. Suburbs can be dangerous.",
+        "protests": "Yellow vest style protests. Can turn violent."
+      },
+      "p2_city_implications": {
+        "Paris": "Terrorism risk (highest in Europe historically). Petty crime in tourist areas. Executive protection demand for luxury/fashion sector."
+      }
+    },
+
+    "germany": {
+      "country": "Germany",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/germany",
+      "overall_level": "NO_ADVISORY",
+      "advisory_text": "No specific travel advisory",
+      "last_updated": "2026-04-10",
+      "key_threats": {
+        "terrorism": "LIKELY. Christmas market attack precedent (Berlin 2016, Magdeburg 2024). Islamist and far-right.",
+        "crime": "Pickpocketing in tourist areas and transport hubs."
+      },
+      "p2_city_implications": {
+        "Berlin": "Terrorism risk. Low violent crime. Major business/diplomatic hub."
+      }
+    },
+
+    "japan": {
+      "country": "Japan",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/japan",
+      "overall_level": "NO_ADVISORY",
+      "advisory_text": "No specific travel advisory. Middle East disruption may affect transit.",
+      "last_updated": "2026-03-19",
+      "key_threats": {
+        "terrorism": "LOW but not zero. Aum Shinrikyo precedent.",
+        "natural_disasters": "Earthquakes, typhoons, tsunamis. Major risk factor.",
+        "crime": "Very low violent crime. Some pickpocketing in tourist areas."
+      },
+      "p2_city_implications": {
+        "Tokyo": "Very safe city. Low crime. Earthquake/natural disaster risk. Executive protection for high-profile business visitors."
+      }
+    },
+
+    "hong_kong": {
+      "country": "Hong Kong SAR",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/hong-kong",
+      "overall_level": "SEE_WARNINGS",
+      "advisory_text": "No blanket advisory. Warnings on National Security Law, dual nationality risks.",
+      "last_updated": "2026-04-01",
+      "key_threats": {
+        "national_security_law": "Broad national security legislation. Risk of detention for political activities/speech. Extra-territorial reach.",
+        "dual_nationality": "HK does not recognise dual nationality. BN(O) passport not valid. Chinese nationals treated as such. Consular support may be unavailable.",
+        "crime": "Low violent crime."
+      },
+      "p2_city_implications": {
+        "Hong_Kong": "Low street crime. NSL detention risk for political/media figures. Dual nationality complications. Major financial hub."
+      }
+    },
+
+    "singapore": {
+      "country": "Singapore",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/singapore",
+      "overall_level": "NO_ADVISORY",
+      "advisory_text": "No specific travel advisory. Severe drug penalties warning.",
+      "last_updated": "2026-03-19",
+      "key_threats": {
+        "terrorism": "LOW but regional proximity to threats.",
+        "drugs": "SEVERE penalties including death penalty for drug offences. Drug traces on arrival lead to arrest.",
+        "crime": "Very low."
+      },
+      "p2_city_implications": {
+        "Singapore": "Extremely safe city. Minimal crime. Drug law severity. Executive protection for high-profile visits to hostile regulatory environment."
+      }
+    },
+
+    "australia": {
+      "country": "Australia",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/australia",
+      "overall_level": "NO_ADVISORY",
+      "advisory_text": "No specific travel advisory. Bushfire warnings seasonal.",
+      "last_updated": "2026-03-19",
+      "key_threats": {
+        "terrorism": "PROBABLE (Australian government assessment). Lone actor attacks possible.",
+        "natural_disasters": "Bushfires (Oct-Feb), cyclones, floods.",
+        "crime": "Low violent crime."
+      },
+      "p2_city_implications": {
+        "Sydney": "Low crime. Bushfire risk in surrounding areas. Major business hub."
+      }
+    },
+
+    "qatar": {
+      "country": "Qatar",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/qatar",
+      "overall_level": "AGAINST_ESSENTIAL",
+      "advisory_text": "FCDO advises against all but essential travel to Qatar (entire country)",
+      "last_updated": "2026-04-14",
+      "restricted_areas": {
+        "against_all_travel": [],
+        "against_essential_travel": ["Entire country"]
+      },
+      "key_threats": {
+        "regional_conflict": "Iranian targeting risk. Missile/drone debris risk. Regional escalation.",
+        "shelter_protocols": "Warning alerts and interception sounds. Shelter-in-place required.",
+        "posting_restrictions": "Similar to UAE restrictions on social media content about incidents."
+      },
+      "p2_city_implications": {
+        "Doha": "ENTIRE COUNTRY under against-essential. Iranian strike risk. Shelter protocols active. Major business hub. Limited commercial flights."
+      }
+    },
+
+    "kuwait": {
+      "country": "Kuwait",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/kuwait",
+      "overall_level": "AGAINST_ESSENTIAL",
+      "advisory_text": "FCDO advises against all but essential travel to Kuwait (entire country)",
+      "last_updated": "2026-04-14",
+      "restricted_areas": {
+        "against_all_travel": [],
+        "against_essential_travel": ["Entire country"]
+      },
+      "key_threats": {
+        "regional_conflict": "Iranian targeting risk. Missile/drone attacks. Regional escalation.",
+        "border_restrictions": "Iraq-Kuwait border closed. Saudi crossings open but restricted.",
+        "exit_permits": "British nationals may need exit permits via Sahel app."
+      },
+      "p2_city_implications": {
+        "Kuwait_City": "ENTIRE COUNTRY under against-essential. Iranian strike risk. Border restrictions. Oil infrastructure targeting risk."
+      }
+    },
+
+    "ghana": {
+      "country": "Ghana",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/ghana",
+      "overall_level": "AGAINST_ESSENTIAL",
+      "advisory_text": "FCDO advises against all but essential travel to Bawku Municipality",
+      "last_updated": "2025-12-10",
+      "restricted_areas": {
+        "against_all_travel": [],
+        "against_essential_travel": ["Bawku Municipal area, Upper East region"]
+      },
+      "key_threats": {
+        "crime": "Petty crime, armed robbery. Scams targeting foreigners.",
+        "communal_violence": "Bawku area intercommunal conflict"
+      },
+      "p2_city_implications": {
+        "Accra": "Not in restricted zone. Moderate crime levels. Growing business hub for West Africa."
+      }
+    },
+
+    "tanzania": {
+      "country": "Tanzania",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/tanzania",
+      "overall_level": "AGAINST_ESSENTIAL",
+      "advisory_text": "FCDO advises against all but essential travel within 20km of Mozambique border (Cabo Delgado)",
+      "last_updated": "2025-12-10",
+      "restricted_areas": {
+        "against_all_travel": [],
+        "against_essential_travel": ["Within 20km of Mozambique border (Cabo Delgado province)"]
+      },
+      "key_threats": {
+        "terrorism": "Islamic extremism threat near Mozambique border. Spillover risk.",
+        "crime": "Petty crime, theft in tourist areas and Dar es Salaam.",
+        "political_instability": "Post-election tensions"
+      },
+      "p2_city_implications": {
+        "Dar_es_Salaam": "Not in restricted zone. Street crime, theft. Growing East African business hub."
+      }
+    },
+
+    "ethiopia": {
+      "country": "Ethiopia",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/ethiopia",
+      "overall_level": "AGAINST_ALL_TRAVEL",
+      "advisory_text": "FCDO advises against all travel to multiple regions including Tigray, Amhara, Gambela",
+      "last_updated": "2026-04-07",
+      "restricted_areas": {
+        "against_all_travel": [
+          "Tigray region (entire)",
+          "Amhara region (entire)",
+          "Gambela region (entire)",
+          "Within 20km of Sudan border",
+          "Within 10km of South Sudan border",
+          "Within 100km of Somalia/Kenya border in Somali region",
+          "Parts of Oromia (West/East/Kellem/Horo Gudru Wollega zones, parts of North Shewa)",
+          "Parts of Benishangul-Gumuz (near Sudan, Metekel, Maokomo zones)",
+          "Parts of Afar (near Eritrea border)"
+        ],
+        "against_essential_travel": [
+          "Parts of Oromia (East Shewa zone, A4 road, North Shewa, West/East Guji)",
+          "Somali region (Siti, Nogob, Jarar, Shabelle, Korahe, Dollo, parts of Liben/Afder zones)",
+          "Within 10-15km of Eritrea border",
+          "Rest of Benishangul-Gumuz"
+        ]
+      },
+      "key_threats": {
+        "armed_conflict": "Post-Tigray war instability. Amhara militia conflict. Oromia insurgency. Multiple active conflict zones.",
+        "kidnapping": "Risk in border areas and conflict zones",
+        "fuel_shortages": "Current fuel shortages causing transport disruption",
+        "no_consular_support": "Embassy cannot support in against-travel zones"
+      },
+      "p2_city_implications": {
+        "Addis_Ababa": "Capital not in restricted zone but surrounded by conflict areas (Oromia, Amhara). Fuel shortages. Protests possible. Growing African Union/diplomatic hub."
+      }
+    },
+
+    "peru": {
+      "country": "Peru",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/peru",
+      "overall_level": "AGAINST_ESSENTIAL",
+      "advisory_text": "FCDO advises against all but essential travel to Colombia border area and VRAEM",
+      "last_updated": "2026-03-07",
+      "restricted_areas": {
+        "against_all_travel": [],
+        "against_essential_travel": [
+          "Within 20km of Peru-Colombia border (Loreto, except Amazon River and Caballococha-Santa Rosa area)",
+          "Valley of Apurimac, Ene and Mantaro Rivers (VRAEM)"
+        ]
+      },
+      "key_threats": {
+        "crime": "Street crime, theft, express kidnapping in Lima. Protests can be violent.",
+        "state_of_emergency": "Active state of emergency. Gas pipeline rupture causing natural gas shortage in Lima/Callao.",
+        "political_instability": "Frequent protests, roadblocks. Emergency measures include remote working mandates.",
+        "drug_trafficking": "VRAEM region narcotics production"
+      },
+      "p2_city_implications": {
+        "Lima": "State of emergency active. Natural gas shortage disruption. Street crime, express kidnapping. Emergency measures affecting movement."
+      }
+    },
+
+    "argentina": {
+      "country": "Argentina",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/argentina",
+      "overall_level": "NO_ADVISORY",
+      "advisory_text": "No specific travel advisory",
+      "last_updated": "2025-12-10",
+      "key_threats": {
+        "crime": "Petty crime, bag snatching in Buenos Aires. Express kidnapping rarely.",
+        "protests": "Economic protests possible. Can cause disruption."
+      },
+      "p2_city_implications": {
+        "Buenos_Aires": "Moderate crime levels. Pickpocketing, distraction theft. Economic instability drives crime fluctuations."
+      }
+    },
+
+    "chile": {
+      "country": "Chile",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/chile",
+      "overall_level": "SEE_WARNINGS",
+      "advisory_text": "No blanket advisory but severe wildfire warnings in southern regions",
+      "last_updated": "2026-01-27",
+      "key_threats": {
+        "terrorism": "LIKELY (updated assessment). Emerging threat.",
+        "natural_disasters": "Severe wildfires in Nuble and Biobio. Earthquakes, tsunamis.",
+        "crime": "Street crime in Santiago. Armed robbery."
+      },
+      "p2_city_implications": {
+        "Santiago": "Street crime, armed robbery. Protests possible. Generally safer than other Latin American capitals."
+      }
+    },
+
+    "china": {
+      "country": "China (mainland)",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/china",
+      "overall_level": "SEE_WARNINGS",
+      "advisory_text": "No blanket advisory. Detention risk warnings. Separate pages for Hong Kong and Macao.",
+      "last_updated": "2026-03-06",
+      "key_threats": {
+        "detention_risk": "Risk of arbitrary detention. National security laws broadly applied. Exit bans possible.",
+        "surveillance": "Extensive state surveillance. Digital monitoring of communications.",
+        "natural_disasters": "Typhoons (May-Nov), earthquakes in western regions.",
+        "crime": "Low violent crime. Scams targeting foreigners."
+      },
+      "p2_city_implications": {
+        "Beijing": "Low street crime. Detention/exit ban risk for business disputes. Surveillance. Political sensitivity around foreign business.",
+        "Shanghai": "Low street crime. Same detention risks as Beijing. Major financial hub. Scams."
+      }
+    },
+
+    "israel": {
+      "country": "Israel",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/israel",
+      "overall_level": "AGAINST_ALL_TRAVEL",
+      "advisory_text": "FCDO advises against ALL travel to Israel and Palestine (entire territory)",
+      "last_updated": "2026-04-14",
+      "restricted_areas": {
+        "against_all_travel": ["Entire country including Palestine"],
+        "against_essential_travel": []
+      },
+      "key_threats": {
+        "active_conflict": "Ongoing military operations. Rocket/drone attacks throughout Israel. Missile debris from interceptions.",
+        "regional_escalation": "Iranian strikes on civilian infrastructure. Multiple front conflict.",
+        "limited_flights": "Ben Gurion Airport limited schedule (El Al, Israir, Arkia, Air Haifa only). Passenger limits.",
+        "gaza": "Border crossings closed. No exit routes from Gaza for civilians.",
+        "embassy_status": "UK dependants withdrawn from Tel Aviv as precaution."
+      },
+      "p2_city_implications": {
+        "Tel_Aviv": "ENTIRE COUNTRY against-all-travel. Active conflict. Rocket attacks. Limited flights. Iranian strike risk. UK staff dependants withdrawn."
+      }
+    },
+
+    "egypt": {
+      "country": "Egypt",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/egypt",
+      "overall_level": "AGAINST_ALL_TRAVEL",
+      "advisory_text": "FCDO advises against all travel to parts of Egypt",
+      "last_updated": "2026-03-28",
+      "restricted_areas": {
+        "against_all_travel": [
+          "Within 20km of Libya border (except El Salloum which is against-essential)",
+          "North Sinai Governorate (entire)"
+        ],
+        "against_essential_travel": [
+          "Northern South Sinai (beyond St Catherine-Nuweibaa road, except coastal areas)",
+          "Ismailiyah Governorate east of Suez Canal",
+          "Western Desert (with extensive exceptions for major tourist/oasis routes)",
+          "Hala'ib Triangle and Bir Tawil Trapezoid"
+        ]
+      },
+      "key_threats": {
+        "terrorism": "Risk in Sinai. Security forces operations ongoing.",
+        "regional_conflict": "Israel-Palestine conflict. Rafah crossing closed. Taba crossing operational but charges volatile.",
+        "crime": "Petty crime. Sexual harassment risk."
+      },
+      "p2_city_implications": {
+        "Cairo": "Not in restricted zone. Terrorism risk (2019 bus bomb). Petty crime. Regional tension spillover. Major business/diplomatic hub."
+      }
+    },
+
+    "morocco": {
+      "country": "Morocco",
+      "fcdo_url": "https://www.gov.uk/foreign-travel-advice/morocco",
+      "overall_level": "NO_ADVISORY",
+      "advisory_text": "No specific travel advisory",
+      "last_updated": "2026-02-17",
+      "key_threats": {
+        "terrorism": "LIKELY. Previous attacks (Marrakech 2011). Authorities maintain high security posture.",
+        "crime": "Petty crime, bag snatching, scams especially in tourist areas/medinas.",
+        "natural_disasters": "Earthquake risk (2023 Al Haouz earthquake precedent)."
+      },
+      "p2_city_implications": {
+        "Casablanca": "Moderate crime. Major business hub for North Africa. Terrorism awareness required."
+      }
+    }
+  }
+}

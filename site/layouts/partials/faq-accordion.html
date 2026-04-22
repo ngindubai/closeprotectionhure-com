@@ -1,0 +1,35 @@
+{{/* FAQ accordion partial — FAQPage schema + accessible accordion */}}
+{{/* Expects .faqs parameter: array of {question, answer} objects */}}
+
+{{ $faqs := .faqs | default slice }}
+{{ if gt (len $faqs) 0 }}
+<section class="section-dark bg-dark text-light" aria-labelledby="faq-heading">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <div class="text-center mb-4">
+                    <div class="subtitle wow fadeInUp">FAQ</div>
+                    <h2 id="faq-heading" class="wow fadeInUp" data-wow-delay=".2s">Frequently Asked Questions</h2>
+                </div>
+
+                <div class="accordion accordion-flush wow fadeInUp" data-wow-delay=".4s" itemscope itemtype="https://schema.org/FAQPage">
+                    {{ range $i, $faq := $faqs }}
+                    <div class="accordion-item bg-dark-2 rounded-1 mb-3 border-0" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                        <h3 class="accordion-header">
+                            <button class="accordion-button collapsed bg-dark-2 text-light shadow-none fw-600 fs-18 rounded-1" type="button" data-bs-toggle="collapse" data-bs-target="#faq-{{ $i }}" aria-expanded="false" aria-controls="faq-{{ $i }}">
+                                <span itemprop="name">{{ $faq.question }}</span>
+                            </button>
+                        </h3>
+                        <div id="faq-{{ $i }}" class="accordion-collapse collapse" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                            <div class="accordion-body text-light op-8" itemprop="text">
+                                {{ $faq.answer | markdownify }}
+                            </div>
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}

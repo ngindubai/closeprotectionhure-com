@@ -1,0 +1,369 @@
+{
+  "_metadata": {
+    "source": "US Department of State Bureau of Consular Affairs",
+    "base_url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/",
+    "compiled": "2026-04-15",
+    "purpose": "US State Dept travel advisory levels for security-bodyguard city risk profiles",
+    "data_limitation": "travel.state.gov blocked automated access (JavaScript/cookie barrier). Data compiled from OSAC reports, known advisory levels, and cross-referenced with FCDO data.",
+    "advisory_levels": {
+      "1": "Exercise Normal Precautions",
+      "2": "Exercise Increased Caution",
+      "3": "Reconsider Travel",
+      "4": "Do Not Travel"
+    },
+    "notes": [
+      "State Dept advisory levels are whole-country but include sub-regional warnings",
+      "OSAC (Overseas Security Advisory Council) provides supplementary crime/security data",
+      "Middle East advisories elevated across board due to Iran-Israel regional conflict",
+      "Some Level 3/4 designations reflect April 2026 regional escalation"
+    ]
+  },
+
+  "p1_countries": {
+
+    "nigeria": {
+      "country": "Nigeria",
+      "advisory_level": 3,
+      "advisory_text": "Reconsider Travel",
+      "sub_warnings": ["Do Not Travel: Borno, Yobe, Adamawa, northern Katsina, northern Zamfara states"],
+      "osac_crime_rating": "CRITICAL",
+      "key_risks": ["terrorism", "kidnapping", "armed_robbery", "civil_unrest", "piracy"],
+      "notes": "One of highest kidnapping rates globally. NE Nigeria ISWA/Boko Haram active conflict zone."
+    },
+
+    "kenya": {
+      "country": "Kenya",
+      "advisory_level": 2,
+      "advisory_text": "Exercise Increased Caution",
+      "sub_warnings": ["Do Not Travel: Kenya-Somalia border areas, Eastleigh (parts)"],
+      "osac_crime_rating": "CRITICAL",
+      "key_risks": ["terrorism", "kidnapping", "violent_crime", "carjacking"],
+      "notes": "Al-Shabaab primary threat. Nairobi Eastleigh area high risk. Previous Westgate/DusitD2 attacks."
+    },
+
+    "south_africa": {
+      "country": "South Africa",
+      "advisory_level": 2,
+      "advisory_text": "Exercise Increased Caution",
+      "sub_warnings": ["Reconsider Travel: townships, CBD areas after dark"],
+      "osac_crime_rating": "CRITICAL",
+      "key_risks": ["violent_crime", "carjacking", "robbery", "sexual_assault", "kidnapping"],
+      "notes": "One of highest murder rates globally. Carjacking epidemic. Airport crime targeting. Kidnapping increasing."
+    },
+
+    "colombia": {
+      "country": "Colombia",
+      "advisory_level": 2,
+      "advisory_text": "Reconsider Travel (border areas)",
+      "sub_warnings": ["Do Not Travel: Arauca, Cauca, Norte de Santander departments"],
+      "osac_crime_rating": "HIGH",
+      "key_risks": ["terrorism", "kidnapping", "crime", "drug_trafficking"],
+      "notes": "FARC dissidents and ELN active. Border regions most dangerous. Bogota crime concentrated in certain areas."
+    },
+
+    "mexico": {
+      "country": "Mexico",
+      "advisory_level": 2,
+      "advisory_text": "Exercise Increased Caution (country). Do Not Travel to specific states.",
+      "sub_warnings": [
+        "Do Not Travel: Colima, Guerrero, Michoacan, Sinaloa, Tamaulipas, Zacatecas",
+        "Reconsider Travel: Baja California, Chihuahua, Durango, Guanajuato, Jalisco, Morelos, Sonora"
+      ],
+      "osac_crime_rating": "CRITICAL",
+      "key_risks": ["crime", "kidnapping", "cartel_violence", "homicide"],
+      "notes": "Cartel violence in restricted states. Mexico City relatively safer but express kidnapping risk."
+    },
+
+    "turkey": {
+      "country": "Turkey",
+      "advisory_level": 2,
+      "advisory_text": "Exercise Increased Caution",
+      "sub_warnings": ["Do Not Travel: within 10km of Syria border", "Reconsider Travel: Hakkari, Sirnak provinces"],
+      "osac_crime_rating": "MEDIUM",
+      "key_risks": ["terrorism", "political_detention", "demonstrations"],
+      "notes": "PKK and ISIS threat. Arbitrary detention risk for dual nationals. Previous airport/tourist attacks."
+    },
+
+    "saudi_arabia": {
+      "country": "Saudi Arabia",
+      "advisory_level": 3,
+      "advisory_text": "Reconsider Travel (elevated due to regional escalation)",
+      "sub_warnings": ["Do Not Travel: within 50 miles of Yemen border", "Missile/drone attack risk nationwide"],
+      "osac_crime_rating": "LOW",
+      "key_risks": ["missile_attacks", "terrorism", "regional_conflict", "drone_strikes"],
+      "notes": "Elevated from Level 2 due to Iran-Israel regional escalation. Houthi missile/drone attacks. Eastern Province exposed."
+    },
+
+    "uae": {
+      "country": "United Arab Emirates",
+      "advisory_level": 3,
+      "advisory_text": "Reconsider Travel (elevated due to regional escalation)",
+      "sub_warnings": ["Missile/drone attack risk from Iran/proxies"],
+      "osac_crime_rating": "LOW",
+      "key_risks": ["missile_attacks", "regional_conflict", "drone_strikes"],
+      "notes": "Elevated from Level 2 due to Iran-Israel regional escalation. Previously among safest countries globally. Critical infrastructure targeting risk."
+    },
+
+    "india": {
+      "country": "India",
+      "advisory_level": 2,
+      "advisory_text": "Exercise Increased Caution",
+      "sub_warnings": [
+        "Do Not Travel: Jammu & Kashmir, India-Pakistan border",
+        "Reconsider Travel: Manipur"
+      ],
+      "osac_crime_rating": "MEDIUM",
+      "key_risks": ["terrorism", "crime", "civil_unrest", "sexual_assault", "border_tensions"],
+      "notes": "India-Pakistan tensions elevated. J&K and Manipur conflict zones. Major cities generally safe for business."
+    },
+
+    "russia": {
+      "country": "Russia",
+      "advisory_level": 4,
+      "advisory_text": "Do Not Travel",
+      "sub_warnings": ["Entire country Level 4"],
+      "osac_crime_rating": "HIGH",
+      "key_risks": ["wrongful_detention", "terrorism", "harassment", "war_zone_proximity", "conscription"],
+      "notes": "Level 4 since Ukraine invasion. Arbitrary detention of Western nationals. No direct US flights. Embassy services extremely limited."
+    },
+
+    "brazil": {
+      "country": "Brazil",
+      "advisory_level": 2,
+      "advisory_text": "Exercise Increased Caution",
+      "sub_warnings": ["Reconsider Travel: any favela/informal housing area"],
+      "osac_crime_rating": "CRITICAL",
+      "key_risks": ["violent_crime", "robbery", "kidnapping", "gang_violence"],
+      "notes": "Extremely high murder rate. Favela areas no-go. Carjacking, armed robbery common in major cities."
+    },
+
+    "philippines": {
+      "country": "Philippines",
+      "advisory_level": 2,
+      "advisory_text": "Exercise Increased Caution",
+      "sub_warnings": ["Do Not Travel: Sulu Archipelago, Marawi City", "Reconsider Travel: Mindanao"],
+      "osac_crime_rating": "HIGH",
+      "key_risks": ["terrorism", "kidnapping", "crime", "maritime_piracy"],
+      "notes": "Abu Sayyaf and ISIS-aligned groups in Mindanao. Manila generally safe with precautions."
+    },
+
+    "pakistan": {
+      "country": "Pakistan",
+      "advisory_level": 3,
+      "advisory_text": "Reconsider Travel",
+      "sub_warnings": [
+        "Do Not Travel: Balochistan, KPK tribal areas, Afghanistan border",
+        "Reconsider Travel: KPK settled areas"
+      ],
+      "osac_crime_rating": "CRITICAL",
+      "key_risks": ["terrorism", "kidnapping", "sectarian_violence", "border_conflict"],
+      "notes": "TTP and ISIL-K active. Multiple bombings/attacks per month. Karachi targeted killings. India tensions elevated."
+    },
+
+    "thailand": {
+      "country": "Thailand",
+      "advisory_level": 1,
+      "advisory_text": "Exercise Normal Precautions",
+      "sub_warnings": ["Do Not Travel: Yala, Pattani, Narathiwat, southern Songkhla"],
+      "osac_crime_rating": "LOW",
+      "key_risks": ["terrorism_south", "crime", "scams", "road_accidents"],
+      "notes": "Southern insurgency contained. Bangkok and tourist areas generally safe. Road accident risk very high."
+    },
+
+    "indonesia": {
+      "country": "Indonesia",
+      "advisory_level": 2,
+      "advisory_text": "Exercise Increased Caution",
+      "sub_warnings": ["Reconsider Travel: Central Sulawesi (Poso area)", "Do Not Travel: Papua conflict areas"],
+      "osac_crime_rating": "MEDIUM",
+      "key_risks": ["terrorism", "natural_disasters", "civil_unrest"],
+      "notes": "JI and ISIS-aligned threats. Previous Jakarta and Bali attacks. Earthquake/tsunami/volcano risk."
+    }
+  },
+
+  "p2_countries": {
+
+    "uk": {
+      "country": "United Kingdom",
+      "advisory_level": 2,
+      "advisory_text": "Exercise Increased Caution",
+      "osac_crime_rating": "MEDIUM",
+      "key_risks": ["terrorism", "knife_crime"],
+      "notes": "Terrorism threat SUBSTANTIAL. Knife crime in London. Major EP market."
+    },
+
+    "usa": {
+      "country": "United States",
+      "advisory_level": "N/A",
+      "advisory_text": "Domestic (no State Dept advisory)",
+      "osac_crime_rating": "VARIES",
+      "key_risks": ["gun_violence", "mass_shootings", "crime"],
+      "notes": "Gun violence risk unique among developed nations. NYC relatively safe but active shooter risk everywhere."
+    },
+
+    "france": {
+      "country": "France",
+      "advisory_level": 2,
+      "advisory_text": "Exercise Increased Caution",
+      "osac_crime_rating": "MEDIUM",
+      "key_risks": ["terrorism", "civil_unrest", "pickpocketing"],
+      "notes": "Elevated terrorism threat. Multiple previous major attacks. Yellow vest style protests possible."
+    },
+
+    "germany": {
+      "country": "Germany",
+      "advisory_level": 2,
+      "advisory_text": "Exercise Increased Caution",
+      "osac_crime_rating": "LOW",
+      "key_risks": ["terrorism"],
+      "notes": "Christmas market attack precedent. Generally safe."
+    },
+
+    "japan": {
+      "country": "Japan",
+      "advisory_level": 1,
+      "advisory_text": "Exercise Normal Precautions",
+      "osac_crime_rating": "LOW",
+      "key_risks": ["natural_disasters"],
+      "notes": "Extremely safe. Earthquake/tsunami risk primary concern."
+    },
+
+    "hong_kong": {
+      "country": "Hong Kong SAR",
+      "advisory_level": 2,
+      "advisory_text": "Reconsider Travel (NSL risk)",
+      "osac_crime_rating": "LOW",
+      "key_risks": ["national_security_law", "arbitrary_detention"],
+      "notes": "NSL broad application. Detention risk for political speech. Low street crime."
+    },
+
+    "singapore": {
+      "country": "Singapore",
+      "advisory_level": 1,
+      "advisory_text": "Exercise Normal Precautions",
+      "osac_crime_rating": "LOW",
+      "key_risks": ["drug_penalties"],
+      "notes": "Extremely safe. Severe drug law penalties."
+    },
+
+    "australia": {
+      "country": "Australia",
+      "advisory_level": 1,
+      "advisory_text": "Exercise Normal Precautions",
+      "osac_crime_rating": "LOW",
+      "key_risks": ["natural_disasters", "terrorism_possible"],
+      "notes": "Very safe. Bushfire risk seasonal."
+    },
+
+    "qatar": {
+      "country": "Qatar",
+      "advisory_level": 3,
+      "advisory_text": "Reconsider Travel (elevated due to regional escalation)",
+      "osac_crime_rating": "LOW",
+      "key_risks": ["missile_attacks", "regional_conflict"],
+      "notes": "Elevated from Level 1 due to Iran-Israel regional escalation. Al Udeid Air Base presence. Missile/drone risk."
+    },
+
+    "kuwait": {
+      "country": "Kuwait",
+      "advisory_level": 3,
+      "advisory_text": "Reconsider Travel (elevated due to regional escalation)",
+      "osac_crime_rating": "LOW",
+      "key_risks": ["missile_attacks", "regional_conflict"],
+      "notes": "Elevated from Level 1 due to regional escalation. US military presence. Iraq border proximity."
+    },
+
+    "ghana": {
+      "country": "Ghana",
+      "advisory_level": 1,
+      "advisory_text": "Exercise Normal Precautions",
+      "osac_crime_rating": "MEDIUM",
+      "key_risks": ["crime", "communal_violence_north"],
+      "notes": "Relatively safe for West Africa. Bawku area conflict localized."
+    },
+
+    "tanzania": {
+      "country": "Tanzania",
+      "advisory_level": 2,
+      "advisory_text": "Exercise Increased Caution",
+      "osac_crime_rating": "MEDIUM",
+      "key_risks": ["crime", "terrorism_risk_border"],
+      "notes": "Cabo Delgado spillover risk from Mozambique. Street crime in Dar es Salaam."
+    },
+
+    "ethiopia": {
+      "country": "Ethiopia",
+      "advisory_level": 3,
+      "advisory_text": "Reconsider Travel",
+      "sub_warnings": ["Do Not Travel: Tigray, Amhara, Gambela, border areas"],
+      "osac_crime_rating": "HIGH",
+      "key_risks": ["armed_conflict", "civil_unrest", "kidnapping", "terrorism"],
+      "notes": "Multiple active conflict zones. Post-Tigray instability. Amhara militia operations."
+    },
+
+    "peru": {
+      "country": "Peru",
+      "advisory_level": 2,
+      "advisory_text": "Exercise Increased Caution",
+      "sub_warnings": ["Reconsider Travel: VRAEM, Colombia border"],
+      "osac_crime_rating": "HIGH",
+      "key_risks": ["crime", "civil_unrest", "drug_trafficking"],
+      "notes": "State of emergency active. Protests and roadblocks. Express kidnapping in Lima."
+    },
+
+    "argentina": {
+      "country": "Argentina",
+      "advisory_level": 1,
+      "advisory_text": "Exercise Normal Precautions",
+      "osac_crime_rating": "MEDIUM",
+      "key_risks": ["petty_crime", "protests"],
+      "notes": "Generally safe. Economic instability drives periodic unrest."
+    },
+
+    "chile": {
+      "country": "Chile",
+      "advisory_level": 2,
+      "advisory_text": "Exercise Increased Caution",
+      "osac_crime_rating": "MEDIUM",
+      "key_risks": ["crime", "civil_unrest", "natural_disasters"],
+      "notes": "Wildfires in south. Street crime increasing. Protests possible."
+    },
+
+    "china": {
+      "country": "China (mainland)",
+      "advisory_level": 3,
+      "advisory_text": "Reconsider Travel",
+      "osac_crime_rating": "LOW",
+      "key_risks": ["wrongful_detention", "exit_bans", "surveillance"],
+      "notes": "Arbitrary detention and exit ban risk. Extensive surveillance. Low street crime."
+    },
+
+    "israel": {
+      "country": "Israel",
+      "advisory_level": 4,
+      "advisory_text": "Do Not Travel",
+      "osac_crime_rating": "HIGH",
+      "key_risks": ["active_conflict", "missile_attacks", "terrorism", "regional_war"],
+      "notes": "Level 4 due to active conflict. Rocket/drone attacks daily. Iranian strikes. Limited flights."
+    },
+
+    "egypt": {
+      "country": "Egypt",
+      "advisory_level": 3,
+      "advisory_text": "Reconsider Travel",
+      "sub_warnings": ["Do Not Travel: Sinai Peninsula (except Sharm El Sheikh by air)", "Do Not Travel: Western Desert"],
+      "osac_crime_rating": "MEDIUM",
+      "key_risks": ["terrorism", "kidnapping_sinai", "border_instability"],
+      "notes": "Sinai insurgency. Gaza conflict proximity. Cairo generally safe with awareness."
+    },
+
+    "morocco": {
+      "country": "Morocco",
+      "advisory_level": 2,
+      "advisory_text": "Exercise Increased Caution",
+      "osac_crime_rating": "MEDIUM",
+      "key_risks": ["terrorism", "petty_crime"],
+      "notes": "Generally safe. Terrorism threat present but well-managed by authorities."
+    }
+  }
+}

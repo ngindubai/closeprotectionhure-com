@@ -1,0 +1,59 @@
+# Security & Bodyguard — Hugo Configuration
+
+baseURL = "https://closeprotectionhire.surge.sh/"
+languageCode = "en"
+title = "Close Protection and Security Services | CloseProtectionHire.com"
+
+enableRobotsTXT = true
+enableGitInfo = false
+timeout = "120s"
+
+[taxonomies]
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  page = ["HTML"]
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[pagination]
+  pagerSize = 20
+
+[permalinks]
+  [permalinks.page]
+    services = "/:sections/:slug/"
+    cities = "/:sections[1:]/:slug/"
+    risk-assessments = "/risk-assessments/:sections[1:]/:slug/"
+  [permalinks.section]
+    services = "/services/"
+    cities = "/cities/"
+    risk-assessments = "/risk-assessments/"
+
+[params]
+  brand = "CloseProtectionHire.com"
+  tagline = "Close Protection and Executive Security"
+  description = "Vetted close protection officers, executive security, and secure transport in high-risk cities. Licensed operators, background-checked, locally experienced."
+  quoteFormEndpoint = ""
+  googleSearchConsole = ""
+  contactEmail = ""
+
+  [params.colors]
+    primary = "#0a1628"
+    accent = "#c8a45e"
+    background = "#ffffff"
+    surface = "#f0f4f8"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false
+  [markup.highlight]
+    style = "github"
+
+[security]
+  [security.funcs]
+    getenv = ["^HUGO_", "^CI$"]

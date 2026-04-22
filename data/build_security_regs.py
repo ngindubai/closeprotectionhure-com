@@ -1,0 +1,471 @@
+"""Build security_regulations.json for 15 P1 countries."""
+import json
+from datetime import date
+
+regs = {
+    "_metadata": {
+        "source": "Compiled from FCDO travel advice, OSAC reports, and industry knowledge. PARTIAL capability - legal review recommended before publication.",
+        "compiled": str(date.today()),
+        "purpose": "Security industry regulations for 15 P1 countries in the security-bodyguard site build",
+        "caveat": "This data provides general guidance only. Regulations change frequently. Always verify with in-country legal counsel before operating. Some entries are based on general industry knowledge and may not reflect the most recent legislative changes.",
+        "freshness": "April 2026 compilation. Flag as 'needs legal review' for client-facing content."
+    },
+    "countries": {
+        "nigeria": {
+            "country": "Nigeria",
+            "regulatory_body": "Nigeria Security and Civil Defence Corps (NSCDC) oversees private security licensing",
+            "firearms": {
+                "civilian_carry": "Prohibited. Firearms Act restricts civilian ownership severely.",
+                "security_company_carry": "Licensed security companies can obtain firearms permits through NSCDC. Process is bureaucratic and requires connections.",
+                "armored_vehicles": "Legal for licensed operations. Used by banks, oil companies, and HNWIs. Requires specific permits.",
+                "notes": "Firearms ownership concentrated in security forces and licensed operators. Illegal firearms widespread, contributing to crime."
+            },
+            "security_licensing": {
+                "requirements": "Companies must register with NSCDC and Corporate Affairs Commission. Annual licensing required.",
+                "foreign_operator_rules": "Foreign security companies must partner with Nigerian-registered firms. Direct foreign operation not permitted without local incorporation.",
+                "reciprocity": "No formal reciprocity agreements for security licenses.",
+                "personnel_requirements": "Guards must be registered with NSCDC. Background checks required but enforcement varies.",
+                "training_standards": "NSCDC sets minimum training standards. Quality varies significantly between providers."
+            },
+            "private_security_regulations": {
+                "governing_law": "Private Guard Companies Act (1986), updated regulations under NSCDC",
+                "industry_size": "Large and growing. Estimated 1,500+ registered companies, many more unregistered.",
+                "armed_vs_unarmed": "Both operate. Armed security requires additional licensing.",
+                "key_restrictions": "Security companies cannot operate as law enforcement. Must cooperate with police.",
+                "notes": "Regulatory enforcement inconsistent. Quality gap between top-tier and bottom-tier providers is enormous."
+            },
+            "foreign_personnel": {
+                "work_permits": "Required. Quota system limits foreign workers. Must demonstrate skills unavailable locally.",
+                "weapons_transport": "Foreign nationals cannot carry weapons. Must use licensed local armed personnel.",
+                "restrictions": "Foreign security advisors common in oil sector but must work through Nigerian-licensed firms."
+            },
+            "content_angle": "Emphasize necessity of local partnerships and NSCDC compliance. Opportunity to position as bridge between international standards and Nigerian regulatory requirements."
+        },
+        "kenya": {
+            "country": "Kenya",
+            "regulatory_body": "Private Security Regulatory Authority (PSRA) - established 2016",
+            "firearms": {
+                "civilian_carry": "Restricted. Firearms Certificate required under Firearms Act (Cap 114).",
+                "security_company_carry": "Licensed security companies can apply for group firearms certificates through PSRA and Kenya Police.",
+                "armored_vehicles": "Legal for licensed operators. Common in banking and diplomatic sectors.",
+                "notes": "Firearms licensing controlled by Central Firearms Bureau. Process is strict but obtainable for established security firms."
+            },
+            "security_licensing": {
+                "requirements": "All private security firms must be licensed by PSRA. Annual renewal. Compliance inspections.",
+                "foreign_operator_rules": "Foreign firms must register locally and comply with PSRA requirements. Joint ventures with Kenyan companies common.",
+                "reciprocity": "No formal reciprocity. Foreign qualifications may be recognized for individual licensing at PSRA discretion.",
+                "personnel_requirements": "Guards must be vetted and registered. Criminal background checks. Minimum age 18.",
+                "training_standards": "PSRA sets training curricula. Grade system (A through G) for different security roles."
+            },
+            "private_security_regulations": {
+                "governing_law": "Private Security Regulation Act (2016)",
+                "industry_size": "One of Africa's largest. Estimated 500,000+ registered guards. Major firms: G4S Kenya, KK Security, Securex.",
+                "armed_vs_unarmed": "Both operate. Armed security requires additional permits.",
+                "key_restrictions": "Companies must comply with PSRA standards. Regular audits.",
+                "notes": "Well-regulated compared to many African markets. PSRA actively enforces standards."
+            },
+            "foreign_personnel": {
+                "work_permits": "Required under Kenyan immigration law. Class G permits for employment.",
+                "weapons_transport": "Foreign nationals cannot independently carry weapons. Must operate under local firm's firearms certificate.",
+                "restrictions": "Foreign security professionals commonly employed in EP roles, especially in diplomatic/NGO sector."
+            },
+            "content_angle": "Kenya has a relatively mature regulatory framework. Position content around PSRA compliance and the bridge between international EP standards and local requirements."
+        },
+        "south_africa": {
+            "country": "South Africa",
+            "regulatory_body": "Private Security Industry Regulatory Authority (PSIRA)",
+            "firearms": {
+                "civilian_carry": "Legal with license under Firearms Control Act (2000). Self-defense licenses available but process is rigorous.",
+                "security_company_carry": "Licensed security companies can obtain business firearms licenses. Close protection operatives can carry while on duty.",
+                "armored_vehicles": "Legal and widespread. South Africa has one of the world's largest armored vehicle fleets (private sector).",
+                "notes": "Firearms are integral to South African private security due to extreme crime levels. PSIRA regulates firearms use in security context."
+            },
+            "security_licensing": {
+                "requirements": "All security businesses and individual operators must register with PSIRA. Registration categories cover different service types.",
+                "foreign_operator_rules": "Foreign companies must register with PSIRA and comply with all local requirements. Can employ foreign nationals under work permits.",
+                "reciprocity": "South African security qualifications are well-regarded regionally. SAQA (South African Qualifications Authority) framework.",
+                "personnel_requirements": "All security officers must be PSIRA registered. Grade system (A-E) based on training completed. Grade A is highest.",
+                "training_standards": "SASSETA (Safety and Security Sector Education and Training Authority) accredits training. NQF-aligned qualifications."
+            },
+            "private_security_regulations": {
+                "governing_law": "Private Security Industry Regulation Act (2001), amended",
+                "industry_size": "One of world's largest. 2+ million registered security officers. Industry larger than police and military combined.",
+                "armed_vs_unarmed": "Both common. Armed response is standard service offering.",
+                "key_restrictions": "PSIRA conducts regular compliance inspections. Companies face fines and deregistration for non-compliance.",
+                "notes": "Highly regulated, well-established market. PSIRA is one of Africa's most effective security regulators."
+            },
+            "foreign_personnel": {
+                "work_permits": "Required. Critical skills visa may apply for specialist EP roles.",
+                "weapons_transport": "Foreign nationals with PSIRA registration can carry firearms while on duty under company license.",
+                "restrictions": "Work permit requirements strictly enforced. Must demonstrate skills unavailable locally."
+            },
+            "content_angle": "South Africa is the benchmark for private security regulation in Africa. Content should emphasize PSIRA compliance, armed response capability, and the armored vehicle market."
+        },
+        "colombia": {
+            "country": "Colombia",
+            "regulatory_body": "Superintendencia de Vigilancia y Seguridad Privada (SuperVigilancia)",
+            "firearms": {
+                "civilian_carry": "Restricted. Carry permits available but difficult to obtain (INDUMIL controls).",
+                "security_company_carry": "Licensed security companies can arm personnel. Weapons must be registered with military (INDUMIL) and authorized by SuperVigilancia.",
+                "armored_vehicles": "Legal and very common. Armored vehicle industry well-developed due to decades of conflict.",
+                "notes": "Colombia has a mature armed security sector. Many operators are ex-military special forces (AFEUR, Lanceros)."
+            },
+            "security_licensing": {
+                "requirements": "All security companies must be licensed by SuperVigilancia. Detailed requirements for different service types (vigilancia, escolta, blindajes).",
+                "foreign_operator_rules": "Foreign companies must establish Colombian legal entity and obtain SuperVigilancia license. Cannot operate directly without local incorporation.",
+                "reciprocity": "No formal reciprocity. Foreign qualifications may support individual applications.",
+                "personnel_requirements": "All security personnel must complete certified training. Background checks through intelligence agencies.",
+                "training_standards": "SuperVigilancia mandates training programs. Executive protection (escolta) requires specialized certification."
+            },
+            "private_security_regulations": {
+                "governing_law": "Estatuto de Vigilancia y Seguridad Privada - Decreto 356 de 1994 and subsequent regulations",
+                "industry_size": "Large. 800+ licensed companies. Over 250,000 registered security personnel.",
+                "armed_vs_unarmed": "Both common. Armed escorts standard for corporate EP.",
+                "key_restrictions": "SuperVigilancia conducts inspections. Companies must maintain insurance. Specific vehicle and weapon storage requirements.",
+                "notes": "Decades of armed conflict have produced a highly capable EP workforce. Colombian bodyguards are sought after internationally."
+            },
+            "foreign_personnel": {
+                "work_permits": "Required. Must obtain through Colombian immigration authority (Migracion Colombia).",
+                "weapons_transport": "Foreign nationals cannot carry weapons independently. Must operate under Colombian-licensed company.",
+                "restrictions": "Foreign EP advisors commonly work in consulting/training roles. Operational roles require local licensing."
+            },
+            "content_angle": "Colombia's security industry is battle-tested and mature. Content should emphasize SuperVigilancia compliance, the quality of Colombian EP operatives, and armored vehicle services."
+        },
+        "mexico": {
+            "country": "Mexico",
+            "regulatory_body": "Dirección General de Seguridad Privada (federal) + state-level regulators",
+            "firearms": {
+                "civilian_carry": "Extremely restricted. Only one legal gun shop in the country (SEDENA in Mexico City). Carry permits almost never issued to civilians.",
+                "security_company_carry": "Licensed companies can obtain weapons permits through SEDENA (Ministry of Defense). Process is strict and involves military oversight.",
+                "armored_vehicles": "Legal and common among elite. Mexico City has high concentration of armored vehicle users.",
+                "notes": "Despite strict gun laws, illegal firearms are pervasive due to cartel activity. Legal armed security requires military-grade approvals."
+            },
+            "security_licensing": {
+                "requirements": "Federal license required from Dirección General de Seguridad Privada. State licenses also required for each state of operation.",
+                "foreign_operator_rules": "Foreign companies must establish Mexican legal entity. Direct foreign operation prohibited. Must partner with licensed Mexican firm.",
+                "reciprocity": "No reciprocity agreements. All operators must hold Mexican licenses.",
+                "personnel_requirements": "Background checks, psychometric testing, drug testing. Training certification required.",
+                "training_standards": "Federal standards set minimum training hours. Specialist EP training available from military-affiliated academies."
+            },
+            "private_security_regulations": {
+                "governing_law": "Ley Federal de Seguridad Privada (2006) and state-level equivalents",
+                "industry_size": "Very large. 15,000+ registered companies. Many more unregistered (estimated 60% of market).",
+                "armed_vs_unarmed": "Both operate. Armed security requires SEDENA weapons permits.",
+                "key_restrictions": "Dual licensing requirement (federal + state) adds complexity. Unregistered operators are a major market problem.",
+                "notes": "Market is fragmented. Quality gap between top-tier and informal operators is vast. World Cup 2026 expected to increase regulatory attention."
+            },
+            "foreign_personnel": {
+                "work_permits": "Required under Mexican immigration law.",
+                "weapons_transport": "Foreign nationals cannot carry weapons in Mexico under any circumstances without Mexican military authorization (essentially impossible).",
+                "restrictions": "Foreign security consultants work in advisory roles. Operational security must be delivered by Mexican-licensed personnel."
+            },
+            "content_angle": "Emphasize complexity of dual federal/state licensing and the need for vetted Mexican partners. World Cup 2026 is a major opportunity for security services content."
+        },
+        "turkey": {
+            "country": "Turkey",
+            "regulatory_body": "Ministry of Interior, General Directorate of Provincial Administration (private security department)",
+            "firearms": {
+                "civilian_carry": "Restricted. License required from local governor's office. Self-defense grounds accepted but process is rigorous.",
+                "security_company_carry": "Licensed companies can arm personnel with approval from provincial governor. Weapons must be registered.",
+                "armored_vehicles": "Legal for licensed operators. Used by banks and diplomatic missions.",
+                "notes": "Post-2016 coup attempt: increased security regulations and expanded state security presence."
+            },
+            "security_licensing": {
+                "requirements": "Private Security Law No. 5188 (2004) governs licensing. Companies must obtain permission from provincial governor.",
+                "foreign_operator_rules": "Foreign companies can operate but must establish Turkish legal entity and comply with all local regulations. Subject to additional scrutiny.",
+                "reciprocity": "Limited. Turkish security qualifications recognized within NATO/EU context to some degree.",
+                "personnel_requirements": "All guards must pass background checks, medical exams, and complete certified training (minimum 120 hours).",
+                "training_standards": "Ministry sets curriculum. Private security training centers must be licensed. Annual refresher training required."
+            },
+            "private_security_regulations": {
+                "governing_law": "Law No. 5188 on Private Security Services and Activities (2004)",
+                "industry_size": "Large and growing. 300,000+ registered private security personnel.",
+                "armed_vs_unarmed": "Both operate. Armed security at banks, diplomatic missions, and critical infrastructure.",
+                "key_restrictions": "State emergency powers post-2016 can override private security operations. Companies must cooperate with state security.",
+                "notes": "Regulatory framework is clear but enforcement influenced by political dynamics. Tourism recovery increasing demand for security services."
+            },
+            "foreign_personnel": {
+                "work_permits": "Required under Turkish immigration law.",
+                "weapons_transport": "Foreign nationals require specific authorization. Generally must operate under Turkish company's firearms license.",
+                "restrictions": "Post-coup environment means increased scrutiny of foreign security operators. Diplomatic security has some exemptions."
+            },
+            "content_angle": "Growing market with clear regulatory framework. Earthquake preparedness and tourism security are key differentiators. Post-2016 security environment emphasizes state cooperation."
+        },
+        "saudi_arabia": {
+            "country": "Saudi Arabia",
+            "regulatory_body": "Ministry of Interior; General Authority for Private Security (established under Vision 2030 reforms)",
+            "firearms": {
+                "civilian_carry": "Prohibited. Only security forces and licensed entities.",
+                "security_company_carry": "Licensed companies can obtain weapons permits through Ministry of Interior. Strict process involving background checks and facility inspections.",
+                "armored_vehicles": "Legal for licensed operations. Used by banks, royal family, and diplomatic missions.",
+                "notes": "Weapons strictly controlled. Saudi Arabia's low crime rate reflects effective enforcement. Private firearms ownership extremely limited."
+            },
+            "security_licensing": {
+                "requirements": "License from Ministry of Interior required. Companies must meet capital, staffing, and facility requirements.",
+                "foreign_operator_rules": "Foreign companies must have Saudi partner (51% local ownership requirement typical). Cannot operate independently. Saudization requirements for staffing.",
+                "reciprocity": "No formal reciprocity. International certifications (ASIS, etc.) may support applications.",
+                "personnel_requirements": "Saudi nationals preferred (Saudization). Foreign workers require specific visa categories. Background checks through Ministry of Interior.",
+                "training_standards": "Ministry sets standards. Training programs aligning with international standards increasingly available."
+            },
+            "private_security_regulations": {
+                "governing_law": "Private Security Companies Law and implementing regulations under Ministry of Interior",
+                "industry_size": "Growing rapidly under Vision 2030. Mega-events (NEOM, entertainment sector, tourism openings) driving demand.",
+                "armed_vs_unarmed": "Both operate. Armed security limited to critical infrastructure and high-profile clients.",
+                "key_restrictions": "Strict Saudization quotas. Islamic law compliance required. Strict dress and conduct codes for all personnel.",
+                "notes": "Vision 2030 is transforming the security market. New entertainment, tourism, and mega-project sectors creating unprecedented demand."
+            },
+            "foreign_personnel": {
+                "work_permits": "Required. Sponsorship (kafala) system still applies though being reformed. Employer sponsors work visa.",
+                "weapons_transport": "Foreign nationals cannot carry weapons. Must use Saudi-licensed armed personnel.",
+                "restrictions": "Saudization targets mean companies must employ increasing percentages of Saudi nationals. Foreign specialists accepted for roles where Saudi expertise unavailable."
+            },
+            "content_angle": "Vision 2030 is the key narrative. Massive growth opportunity for security services. Content should emphasize Saudization compliance, mega-event security, and cultural sensitivity."
+        },
+        "uae": {
+            "country": "UAE",
+            "regulatory_body": "SIRA (Security Industry Regulatory Agency) - Dubai; various emirate-level authorities",
+            "firearms": {
+                "civilian_carry": "Prohibited. Zero tolerance for unauthorized weapons.",
+                "security_company_carry": "Very limited. Only specific government-authorized security providers can carry weapons. Most private security is unarmed.",
+                "armored_vehicles": "Available through authorized providers. Not common for most operations as personal safety is high.",
+                "notes": "UAE has extremely strict weapons laws. Even replica weapons are illegal. Private security is overwhelmingly unarmed."
+            },
+            "security_licensing": {
+                "requirements": "SIRA license required in Dubai. Each emirate has its own licensing requirements. Abu Dhabi has ADSSSA (Abu Dhabi Security Systems and Services Authority).",
+                "foreign_operator_rules": "Foreign companies must have local partner or free zone entity. SIRA registration mandatory. Cannot operate without emirate-specific license.",
+                "reciprocity": "International certifications valued. SIRA has developed its own qualification framework.",
+                "personnel_requirements": "All security personnel must hold SIRA certification (Dubai). Background checks, medical fitness, training completion. UAE national preference.",
+                "training_standards": "SIRA has comprehensive training framework. SIRA-accredited training centers only. Different levels for guards, supervisors, managers, consultants."
+            },
+            "private_security_regulations": {
+                "governing_law": "Various emirate-level laws. Dubai: SIRA regulations. Abu Dhabi: ADSSSA regulations.",
+                "industry_size": "Large and growing. Driven by tourism, events, corporate sector, and regional HQ relocations.",
+                "armed_vs_unarmed": "Predominantly unarmed. Armed security limited to government-authorized operations.",
+                "key_restrictions": "Strict compliance requirements. SIRA conducts regular audits. Non-compliance leads to fines and license revocation.",
+                "notes": "SIRA is one of the most sophisticated security regulators globally. Digital systems for licensing, training tracking, and compliance."
+            },
+            "foreign_personnel": {
+                "work_permits": "Required. UAE visa/work permit system applies. Employer sponsors.",
+                "weapons_transport": "Not applicable for private sector. Weapons carriage is essentially prohibited.",
+                "restrictions": "SIRA certification required for all security roles. Foreign qualifications must be supplemented with local certification."
+            },
+            "content_angle": "Dubai/UAE is the regional security industry hub. SIRA compliance is the key message. Emphasis on unarmed EP, technology-driven security, and event security for mega-events."
+        },
+        "india": {
+            "country": "India",
+            "regulatory_body": "PSARA (Private Security Agencies Regulation Act, 2005) - administered at state level",
+            "firearms": {
+                "civilian_carry": "Heavily restricted under Indian Arms Act (1959). Licenses granted by district magistrate. Rare for civilians.",
+                "security_company_carry": "Armed security limited. Typically only government-authorized agencies (CISF, state police) provide armed security. Private armed security rare and requires specific state-level permissions.",
+                "armored_vehicles": "Available for banking and high-profile clients through authorized providers.",
+                "notes": "India's private security is predominantly unarmed. Armed protection typically involves off-duty or serving police/CRPF personnel assigned through official channels."
+            },
+            "security_licensing": {
+                "requirements": "PSARA license from state government required. Each state has its own licensing authority. National-level operations require multiple state licenses.",
+                "foreign_operator_rules": "Foreign companies must establish Indian subsidiary or joint venture. PSARA registration at state level. FDI caps apply to security sector.",
+                "reciprocity": "No formal reciprocity. International qualifications may support applications.",
+                "personnel_requirements": "Background verification through police. Minimum age, education, and fitness requirements under PSARA.",
+                "training_standards": "PSARA mandates basic training. National Skill Development Corporation has security guard training standards. Quality varies widely."
+            },
+            "private_security_regulations": {
+                "governing_law": "Private Security Agencies (Regulation) Act, 2005 (PSARA)",
+                "industry_size": "Massive. 9+ million private security personnel. Industry growing 15-20% annually.",
+                "armed_vs_unarmed": "Predominantly unarmed. Armed security for specific sectors (banking, mining, celebrity protection) involves police liaison.",
+                "key_restrictions": "State-by-state licensing creates complexity. Inter-state operations require multiple licenses. PSARA enforcement varies dramatically between states.",
+                "notes": "Largest private security workforce globally. But low wages, limited training, and regulatory fragmentation are challenges. Top firms (Securitas India, SIS, G4S India) set higher standards."
+            },
+            "foreign_personnel": {
+                "work_permits": "Required. Employment visa through Indian embassy.",
+                "weapons_transport": "Foreign nationals cannot carry weapons in India. Period.",
+                "restrictions": "Foreign EP operatives can work in advisory/management roles. Operational security delivered by Indian-licensed personnel."
+            },
+            "content_angle": "World's largest private security workforce. Content should address PSARA multi-state complexity, the unarmed EP model (with police liaison for armed support), and the growing corporate demand."
+        },
+        "russia": {
+            "country": "Russia",
+            "regulatory_body": "Rosgvardia (National Guard of Russia); Federal Service for the Supervision of Compliance with Legislation in the Field of Security",
+            "firearms": {
+                "civilian_carry": "Restricted. Hunting rifles and smooth-bore shotguns after 5 years of ownership. Pistols rarely licensed for civilians.",
+                "security_company_carry": "Licensed private security companies (CHOPs) can carry firearms. Weapons registered with Rosgvardia.",
+                "armored_vehicles": "Available for licensed operators and VIP clients.",
+                "notes": "Post-Crocus City Hall attack (2024): additional security measures and restrictions. Weapons legislation tightened."
+            },
+            "security_licensing": {
+                "requirements": "Federal license required from Rosgvardia. Different license categories for detective activities and security services.",
+                "foreign_operator_rules": "EFFECTIVELY IMPOSSIBLE. Western sanctions, geopolitical situation, and legislation expanding liability for 'acting against Russian interests' make foreign security operations in Russia unfeasible for Western companies.",
+                "reciprocity": "None. Sanctions regime makes cooperation impossible.",
+                "personnel_requirements": "Russian citizenship required for most security roles. Background checks through FSB/MVD. Training certification required.",
+                "training_standards": "Rosgvardia sets standards. Licensed training centers."
+            },
+            "private_security_regulations": {
+                "governing_law": "Federal Law No. 2487-1 'On Private Detective and Security Activity' (1992, amended)",
+                "industry_size": "Large. PMC activity expanded significantly during Ukraine conflict. Domestic security market serves oligarchs and corporations.",
+                "armed_vs_unarmed": "Both. CHOPs (private security companies) are primary armed providers.",
+                "key_restrictions": "FCDO advises against all travel. Sanctions prohibit most Western commercial activity. Foreign nationals face risk of detention. December 2024 law expansion criminalizes broad range of activities by foreigners.",
+                "notes": "Russia is essentially a no-go market for Western security companies. Content should acknowledge this while noting the market exists for regional operators."
+            },
+            "foreign_personnel": {
+                "work_permits": "Theoretical requirements exist but sanctions make Western personnel deployment impossible.",
+                "weapons_transport": "Not applicable for foreign operators. Russian citizens only.",
+                "restrictions": "Foreign nationals face risk of arbitrary detention, prosecution, and imprisonment. FCDO's ability to assist extremely limited. Social media activity can trigger prosecution."
+            },
+            "content_angle": "Acknowledge as a P1 city but make clear that Western security operations in Russia are currently impossible due to sanctions, FCDO advisory, and legal risks. Content focuses on risk awareness for the rare client who must travel there."
+        },
+        "brazil": {
+            "country": "Brazil",
+            "regulatory_body": "Federal Police (Policia Federal) - Private Security Division; state-level police for local operations",
+            "firearms": {
+                "civilian_carry": "Restricted but loosened under recent legislation. Federal Police issues permits.",
+                "security_company_carry": "Licensed security companies can arm personnel. Weapons registered with Federal Police. Armament is standard for most security operations.",
+                "armored_vehicles": "Legal and extremely common. Estimated 100,000+ armored civilian vehicles in Brazil (world's largest private fleet).",
+                "notes": "Brazil's extreme crime environment means armed security is the norm, not the exception. EP teams are typically armed."
+            },
+            "security_licensing": {
+                "requirements": "Federal Police authorization required. Companies must meet capital, facility, and personnel requirements. Different categories (vigilancia patrimonial, transporte de valores, seguranca pessoal, escolta armada).",
+                "foreign_operator_rules": "Foreign companies must establish Brazilian entity (LTDA or S.A.). Federal Police registration required. Cannot operate without local incorporation.",
+                "reciprocity": "No formal reciprocity. Brazilian qualifications specific to local requirements.",
+                "personnel_requirements": "All security personnel must pass Federal Police background check, psychological evaluation, and weapons proficiency test. Renewal required.",
+                "training_standards": "Federal Police mandates training curricula. Specialist courses for EP (seguranca pessoal) from certified academies."
+            },
+            "private_security_regulations": {
+                "governing_law": "Law 7.102/1983 and subsequent regulations. Portaria 3.233/2012 (Federal Police).",
+                "industry_size": "Very large. 600,000+ registered security professionals. Two major associations: ABESE and FENAVIST.",
+                "armed_vs_unarmed": "Both operate. Armed security dominant in EP and cash-in-transit.",
+                "key_restrictions": "Federal Police conducts inspections. Companies face fines and closure for non-compliance. Union requirements for guard wages and benefits.",
+                "notes": "Mature, combat-experienced market. Brazilian EP is characterized by armed teams, armored vehicles, and route intelligence. Favela no-go zones respected by all operators."
+            },
+            "foreign_personnel": {
+                "work_permits": "Required. Brazilian work visa through employer sponsorship.",
+                "weapons_transport": "Foreign nationals cannot independently carry weapons. Must operate under Brazilian-licensed company with Federal Police authorization.",
+                "restrictions": "Foreign consultants and trainers work in advisory roles. Operational EP must use Brazilian-licensed armed personnel."
+            },
+            "content_angle": "Brazil's security industry is defined by armored vehicles and armed EP. Content should emphasize Federal Police compliance, favela avoidance protocols, and armored vehicle services. World's largest private armored vehicle fleet is a unique selling point."
+        },
+        "philippines": {
+            "country": "Philippines",
+            "regulatory_body": "SOSIA (Supervisory Office for Security and Investigation Agencies) under PNP (Philippine National Police)",
+            "firearms": {
+                "civilian_carry": "License to Own and Possess (LTOPF) available. Permit to Carry Outside Residence (PTCFOR) more restricted but obtainable.",
+                "security_company_carry": "Licensed security agencies can arm guards. Weapons registered with PNP-FEO (Firearms and Explosives Office). Standard for many security operations.",
+                "armored_vehicles": "Available for high-profile clients. Less common than in Latin America.",
+                "notes": "Philippines has relatively permissive firearms culture. Armed guards standard at malls, banks, hotels, and commercial buildings."
+            },
+            "security_licensing": {
+                "requirements": "License from PNP-SOSIA required. Detailed application process including financial requirements and organizational structure approval.",
+                "foreign_operator_rules": "Foreign companies must partner with Filipino-owned entity. 60-40 ownership rule (Filipino majority) under constitutional limits on foreign investment.",
+                "reciprocity": "No formal reciprocity. International qualifications may support applications.",
+                "personnel_requirements": "All guards must hold PNP-SOSIA license. Background check (NBI clearance), drug test, neuro-psychiatric exam required.",
+                "training_standards": "PNP sets training standards. Pre-licensing training course required. In-service training annually."
+            },
+            "private_security_regulations": {
+                "governing_law": "RA 5487 - Private Security Agency Law, as amended by RA 11917 (2022)",
+                "industry_size": "Large. 600,000+ licensed security guards. Industry is a major employer.",
+                "armed_vs_unarmed": "Both common. Armed guards at most commercial and corporate premises.",
+                "key_restrictions": "PNP oversight with regular inspections. Companies must maintain armory standards for weapons storage.",
+                "notes": "Armed security is a visible and accepted part of Filipino life. Metal detectors and bag checks standard at building entrances."
+            },
+            "foreign_personnel": {
+                "work_permits": "Required. 9(g) work visa through DOLE (Department of Labor and Employment).",
+                "weapons_transport": "Foreign nationals cannot carry firearms. Must use Filipino-licensed armed personnel.",
+                "restrictions": "60-40 ownership rule limits direct foreign control of security companies."
+            },
+            "content_angle": "Widespread armed security culture. Content should address PNP-SOSIA compliance, the 60-40 ownership model, and the terrorism threat driving EP demand in Mindanao."
+        },
+        "pakistan": {
+            "country": "Pakistan",
+            "regulatory_body": "Provincial Home Departments; Pakistan Security Guard Ordinance varies by province",
+            "firearms": {
+                "civilian_carry": "Licensed. Arms licenses issued by district authorities. More permissive than many countries. Tribal areas have traditional weapons culture.",
+                "security_company_carry": "Licensed companies can arm personnel. Province-specific regulations.",
+                "armored_vehicles": "Common for diplomatic, military, and corporate use. Growing civilian market.",
+                "notes": "Pakistan has significant legal and illegal firearms circulation. Armed security is standard for corporate and VIP clients."
+            },
+            "security_licensing": {
+                "requirements": "Registration with provincial Home Department required. Requirements vary by province (Punjab, Sindh, KP, Balochistan each have different rules).",
+                "foreign_operator_rules": "Foreign companies must register locally and comply with provincial regulations. Typically need local Pakistani partner. Government may assign police escorts for foreign clients.",
+                "reciprocity": "No formal reciprocity.",
+                "personnel_requirements": "Background verification through police. Arms training certification for armed guards.",
+                "training_standards": "Variable. No standardized national training curriculum. Major companies set their own higher standards."
+            },
+            "private_security_regulations": {
+                "governing_law": "Varies by province. Punjab Private Security Companies Ordinance (2002) is model. Sindh, KP have separate legislation.",
+                "industry_size": "Large. Several hundred licensed companies. Many unregistered operators in tribal and conflict areas.",
+                "armed_vs_unarmed": "Both. Armed security standard for corporate and high-profile clients.",
+                "key_restrictions": "Provincial fragmentation means no single national license covers the country. Travel between provinces may require No Objection Certificates.",
+                "notes": "Security market driven by terrorism threat. Military connections important for effective operations. ISI and military background operators dominate high-end market."
+            },
+            "foreign_personnel": {
+                "work_permits": "Required. Pakistan visa for employment.",
+                "weapons_transport": "Foreign nationals may be able to obtain temporary weapons permits but this is highly unusual and requires government authorization.",
+                "restrictions": "Foreign security professionals typically operate in advisory roles. Government may provide armed police escorts for foreign clients in high-risk areas."
+            },
+            "content_angle": "Extreme threat environment drives demand. Content should emphasize provincial licensing complexity, the role of military-connected operators, and the necessity of government liaison (No Objection Certificates, police escorts)."
+        },
+        "thailand": {
+            "country": "Thailand",
+            "regulatory_body": "Royal Thai Police; Department of Provincial Administration",
+            "firearms": {
+                "civilian_carry": "Licensed. Permits available from local authorities but foreigners face additional restrictions.",
+                "security_company_carry": "Licensed companies can obtain weapons permits. Process involves police authorization.",
+                "armored_vehicles": "Available but not common for standard EP operations.",
+                "notes": "Firearms culture exists but private security is mostly unarmed. Lese-majeste laws apply to all personnel and communications."
+            },
+            "security_licensing": {
+                "requirements": "Business license from Department of Provincial Administration. Security guard license from Royal Thai Police for individual personnel.",
+                "foreign_operator_rules": "Foreign companies must establish Thai entity. Foreign Business Act restricts many service industries to Thai majority ownership. BOI (Board of Investment) promotion may provide exceptions.",
+                "reciprocity": "No formal reciprocity. International qualifications may support applications.",
+                "personnel_requirements": "Background checks through police. Thai ID required for guard licensing.",
+                "training_standards": "Basic training requirements set by police. International operators may bring higher standards."
+            },
+            "private_security_regulations": {
+                "governing_law": "Private Security Business Act (2015)",
+                "industry_size": "Growing. Tourism-driven demand plus expat community.",
+                "armed_vs_unarmed": "Predominantly unarmed. Armed security limited to specific licensed operations.",
+                "key_restrictions": "Foreign Business Act restrictions. E-cigarette/vape prohibition applies to all personnel and clients (heavy fines/detention). Cannabis export strictly prohibited.",
+                "notes": "Thai security market less regulated than regional competitors. Quality varies significantly. Tourism recovery driving growth."
+            },
+            "foreign_personnel": {
+                "work_permits": "Required. Thai work permit through employer sponsorship. Security roles may face foreign business restrictions.",
+                "weapons_transport": "Foreign nationals cannot carry weapons.",
+                "restrictions": "Foreign Business Act may restrict direct employment in security roles. Advisory and management roles more feasible."
+            },
+            "content_angle": "Tourism-driven EP market. Content should address the Foreign Business Act, unarmed EP model, and the specific legal pitfalls (e-cigarettes, lese-majeste, drug laws) that EP teams must navigate."
+        },
+        "indonesia": {
+            "country": "Indonesia",
+            "regulatory_body": "Ministry of Manpower; Indonesian National Police (Polri); Chief of Police Regulation (Perkap)",
+            "firearms": {
+                "civilian_carry": "Prohibited for civilians. Only military, police, and specifically authorized officials.",
+                "security_company_carry": "Very limited. Armed private security essentially nonexistent. Police provide armed support when required.",
+                "armored_vehicles": "Available through authorized providers for diplomatic and corporate use.",
+                "notes": "Indonesia has strict weapons prohibition for private sector. Security is predominantly unarmed with police support for armed requirements."
+            },
+            "security_licensing": {
+                "requirements": "Business license from provincial government. Police approval for security operations. Ministry of Manpower oversight for personnel.",
+                "foreign_operator_rules": "Foreign companies must establish Indonesian entity (PT PMA). Negative investment list may restrict security sector. Local partner typically required.",
+                "reciprocity": "No formal reciprocity.",
+                "personnel_requirements": "Indonesian citizens preferred. Background checks through police. Physical fitness requirements.",
+                "training_standards": "Police set minimum standards. Quality varies. Multinational companies often set higher internal standards."
+            },
+            "private_security_regulations": {
+                "governing_law": "Chief of Police Regulation No. 24/2007 on Security Management Systems; Government Regulation on Industrial Security",
+                "industry_size": "Large and growing. Driven by mining, oil/gas, and corporate sectors.",
+                "armed_vs_unarmed": "Unarmed only for private sector. Police provide armed escort when required.",
+                "key_restrictions": "Zero tolerance drug laws (death penalty for trafficking). Sharia law in Aceh province. Ramadan observance requirements. Photography restrictions at military/government sites.",
+                "notes": "Security market growing with economic development. Mining and oil/gas sectors are major clients. Bali tourism drives hospitality security demand."
+            },
+            "foreign_personnel": {
+                "work_permits": "Required. KITAS (temporary stay permit) through employer sponsorship.",
+                "weapons_transport": "Impossible for private sector. No exceptions for foreign operators.",
+                "restrictions": "Foreign workers subject to quota restrictions. Must demonstrate skills unavailable locally. Drug testing may be imposed by police during venue raids."
+            },
+            "content_angle": "Unarmed EP model with police liaison for armed support. Content should emphasize zero-tolerance drug laws, cultural sensitivity (Ramadan, Sharia in Aceh), and the mining/oil/gas corporate security market."
+        }
+    }
+}
+
+with open("security_regulations.json", "w", encoding="utf-8") as f:
+    json.dump(regs, f, indent=2, ensure_ascii=False)
+
+print(f"Created security_regulations.json with {len(regs['countries'])} country entries")
+print(f"File size: {len(json.dumps(regs, indent=2)):,} characters")

@@ -1,0 +1,127 @@
+{{ define "title" }}Event Security in {{ .Params.city | default .Title }} | {{ .Site.Params.brand }}{{ end }}
+
+{{ define "schema" }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Event Security in {{ .Params.city | default .Title }}",
+    "description": "{{ .Description }}",
+    "provider": {
+        "@type": "Organization",
+        "name": "{{ .Site.Params.brand }}"
+    },
+    "areaServed": {
+        "@type": "City",
+        "name": "{{ .Params.city | default .Title }}"
+    },
+    "serviceType": "Event Security"
+}
+</script>
+{{ end }}
+
+{{ define "main" }}
+
+{{ $images := slice "hero.jpg" "Close-Protection-2560.webp" "close-protection-768x347.jpg" "geralt-watch-10184898.jpg" "mhouge-businessman-1477601.jpg" "images.jpg" }}
+{{ $imgIdx := mod (len .File.Path) (len $images) }}
+{{ $heroImg := index $images $imgIdx }}
+{{ with .Params.hero_image }}{{ $heroImg = . }}{{ end }}
+
+{{/* ===== INNER HERO ===== */}}
+<section class="inner-hero text-light">
+    <div class="inner-hero-bg">
+        <img src="/images/{{ $heroImg }}" alt="Event security in {{ .Params.city | default .Title }}" loading="eager">
+    </div>
+    <div class="inner-hero-vignette"></div>
+    <div class="inner-hero-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2 text-center">
+                    <p class="inner-hero-kicker wow fadeInUp">Event Security</p>
+                    <h1 class="wow fadeInUp" data-wow-delay=".15s">{{ .Params.h1 | default (printf "Event Security in %s" (.Params.city | default .Title)) }}</h1>
+                    {{ with .Description }}
+                    <div class="inner-hero-divider wow fadeInUp" data-wow-delay=".25s"></div>
+                    <p class="inner-hero-sub wow fadeInUp" data-wow-delay=".35s">{{ . }}</p>
+                    {{ end }}
+                    <div class="inner-hero-badges wow fadeInUp" data-wow-delay=".45s">
+                        {{ with .Params.risk_level }}<span class="complexity-badge complexity-{{ . }}">{{ . | title }} risk</span>{{ end }}
+                        {{ with .Params.country }}<span class="timeline-badge">{{ . }}</span>{{ end }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{/* ===== CTA BAR ===== */}}
+<section class="section-dark bg-color text-light pt-40 pb-30 relative overflow-hidden">
+    <div class="container">
+        <div class="row g-4 align-items-center">
+            <div class="col-md-9">
+                <h4 class="mb-0 wow fadeInRight">{{ with .Params.cta_text }}{{ . }}{{ else }}Running an event in {{ .Params.city | default .Title }}? Speak with our team.{{ end }}</h4>
+            </div>
+            <div class="col-md-3 text-md-end">
+                <a class="btn-main fx-slide btn-line wow fadeInLeft" href="#quote-form"><span>Get a Quote</span></a>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{/* ===== MAIN CONTENT ===== */}}
+{{ with .Content }}
+<section class="section-dark bg-dark text-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1 wow fadeInUp">
+                {{ . }}
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+
+{{/* ===== PLANNING COMPONENTS ===== */}}
+{{ with .Params.components }}
+<section class="section-dark bg-dark-2 text-light">
+    <div class="container">
+        <div class="row mb-4">
+            <div class="col-lg-12">
+                <div class="subtitle wow fadeInUp">Planning</div>
+                <h2 class="wow fadeInUp" data-wow-delay=".2s">What our event security covers</h2>
+            </div>
+        </div>
+        <div class="row g-4">
+            {{ range $i, $comp := . }}
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay="{{ printf "%.1fs" (mul $i 0.2) }}">
+                <div class="bg-dark rounded-1 p-40 h-100">
+                    <h4>{{ $comp.title }}</h4>
+                    <p class="mb-0">{{ $comp.description }}</p>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
+
+{{/* ===== PARALLAX INTERLUDE ===== */}}
+{{ $midImg := .Params.parallax_image | default "Close-Protection-2560.webp" }}
+<section data-bgimage="url(/images/{{ $midImg }}) center" class="text-light pt-80 pb-80 parallax-dim">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2 text-center">
+                <h2 class="wow fadeInUp">Vetted operators. Local knowledge. Proven protocols.</h2>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{/* ===== FAQs ===== */}}
+{{ with .Params.faqs }}
+{{ partial "faq-accordion.html" (dict "faqs" .) }}
+{{ end }}
+
+{{/* ===== QUOTE FORM ===== */}}
+{{ partial "quote-form.html" $ }}
+
+{{ end }}

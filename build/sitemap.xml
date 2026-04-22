@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url><loc>https://[DOMAIN]/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+
+  <!-- Core pages -->
+  <url><loc>https://[DOMAIN]/pages/about.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://[DOMAIN]/pages/contact.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://[DOMAIN]/pages/faq.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/pages/network.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <!-- Bodyguard hire: city pages -->
+  <url><loc>https://[DOMAIN]/bodyguard-hire/brazil/sao-paulo.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/bodyguard-hire/colombia/bogota.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/bodyguard-hire/india/mumbai.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/bodyguard-hire/indonesia/jakarta.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/bodyguard-hire/kenya/nairobi.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/bodyguard-hire/mexico/mexico-city.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/bodyguard-hire/nigeria/lagos.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/bodyguard-hire/pakistan/karachi.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/bodyguard-hire/philippines/manila.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/bodyguard-hire/russia/moscow/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/bodyguard-hire/saudi-arabia/riyadh.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/bodyguard-hire/south-africa/johannesburg.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/bodyguard-hire/thailand/bangkok.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/bodyguard-hire/turkey/istanbul.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/bodyguard-hire/uae/dubai.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Executive protection: city pages -->
+  <url><loc>https://[DOMAIN]/executive-protection/brazil/sao-paulo.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/executive-protection/colombia/bogota.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/executive-protection/india/mumbai/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/executive-protection/indonesia/jakarta.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/executive-protection/kenya/nairobi.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/executive-protection/mexico/mexico-city.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/executive-protection/nigeria/lagos.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/executive-protection/pakistan/karachi.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/executive-protection/philippines/manila.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/executive-protection/russia/moscow/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/executive-protection/saudi-arabia/riyadh.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/executive-protection/south-africa/johannesburg.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/executive-protection/thailand/bangkok.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/executive-protection/turkey/istanbul.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/executive-protection/uae/dubai.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Security drivers: city pages -->
+  <url><loc>https://[DOMAIN]/security-drivers/brazil/sao-paulo.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/security-drivers/colombia/bogota.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/security-drivers/india/mumbai/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/security-drivers/indonesia/jakarta.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/security-drivers/kenya/nairobi.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/security-drivers/mexico/mexico-city.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/security-drivers/nigeria/lagos.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/security-drivers/pakistan/karachi.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/security-drivers/philippines/manila.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/security-drivers/russia/moscow/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/security-drivers/saudi-arabia/riyadh.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/security-drivers/south-africa/johannesburg.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/security-drivers/thailand/bangkok.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/security-drivers/turkey/istanbul.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://[DOMAIN]/security-drivers/uae/dubai.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Risk assessments: country hub pages -->
+  <url><loc>https://[DOMAIN]/risk-assessments/brazil/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/colombia/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/india/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/indonesia/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/kenya/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/mexico/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/nigeria/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/pakistan/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/philippines/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/russia/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/saudi-arabia/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/south-africa/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/thailand/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/turkey/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/uae/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Risk assessments: city pages -->
+  <url><loc>https://[DOMAIN]/risk-assessments/brazil/sao-paulo.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/colombia/bogota.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/india/mumbai.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/indonesia/jakarta.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/kenya/nairobi.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/mexico/mexico-city.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/nigeria/lagos.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/pakistan/karachi.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/philippines/manila.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/russia/moscow.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/saudi-arabia/riyadh.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/south-africa/johannesburg.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/thailand/bangkok.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/turkey/istanbul.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://[DOMAIN]/risk-assessments/uae/dubai.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+</urlset>

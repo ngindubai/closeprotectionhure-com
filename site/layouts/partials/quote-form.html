@@ -1,0 +1,104 @@
+{{/* Quote / consultation form partial */}}
+
+<section id="quote-form" class="section-dark bg-dark-2 text-light">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <div class="text-center mb-4">
+                    <div class="subtitle wow fadeInUp">Get in Touch</div>
+                    <h2 class="wow fadeInUp" data-wow-delay=".2s">Request a Consultation</h2>
+                    <p class="lead wow fadeInUp" data-wow-delay=".4s">Describe your security requirements below. All enquiries are confidential and handled by licensed consultants.</p>
+                </div>
+
+                <form class="de_form wow fadeInUp" data-wow-delay=".5s" action="{{ .Site.Params.quoteFormEndpoint }}" method="POST" novalidate>
+                    <div class="row g-3">
+                        <div class="col-md-6">
+                            <label for="qf-service" class="form-label text-light">Service required <span class="text-color">*</span></label>
+                            <select id="qf-service" name="service_type" class="form-control" required>
+                                <option value="">Select service</option>
+                                <option value="bodyguard-hire">Bodyguard Hire</option>
+                                <option value="executive-protection">Executive Protection</option>
+                                <option value="security-drivers">Security Drivers</option>
+                                <option value="event-security">Event Security</option>
+                                <option value="residential-security">Residential Security</option>
+                                <option value="risk-assessment">Risk Assessment</option>
+                            </select>
+                        </div>
+
+                        <div class="col-md-6">
+                            <label for="qf-location" class="form-label text-light">Location <span class="text-color">*</span></label>
+                            <select id="qf-location" name="location" class="form-control" required>
+                                <option value="">Select city</option>
+                                <option value="lagos">Lagos</option>
+                                <option value="nairobi">Nairobi</option>
+                                <option value="johannesburg">Johannesburg</option>
+                                <option value="bogota">Bogota</option>
+                                <option value="mexico-city">Mexico City</option>
+                                <option value="istanbul">Istanbul</option>
+                                <option value="riyadh">Riyadh</option>
+                                <option value="dubai">Dubai</option>
+                                <option value="mumbai">Mumbai</option>
+                                <option value="moscow">Moscow</option>
+                                <option value="sao-paulo">Sao Paulo</option>
+                                <option value="manila">Manila</option>
+                                <option value="karachi">Karachi</option>
+                                <option value="bangkok">Bangkok</option>
+                                <option value="jakarta">Jakarta</option>
+                            </select>
+                        </div>
+
+                        <div class="col-md-6">
+                            <label for="qf-duration" class="form-label text-light">Duration</label>
+                            <input type="text" id="qf-duration" name="duration" class="form-control" placeholder="e.g. 3 days, 2 weeks" autocomplete="off">
+                        </div>
+
+                        <div class="col-md-6">
+                            <label for="qf-date" class="form-label text-light">Start date</label>
+                            <input type="date" id="qf-date" name="start_date" class="form-control">
+                        </div>
+
+                        <div class="col-md-6">
+                            <label for="qf-name" class="form-label text-light">Your name <span class="text-color">*</span></label>
+                            <input type="text" id="qf-name" name="name" class="form-control" required autocomplete="name">
+                        </div>
+
+                        <div class="col-md-6">
+                            <label for="qf-email" class="form-label text-light">Email <span class="text-color">*</span></label>
+                            <input type="email" id="qf-email" name="email" class="form-control" required autocomplete="email">
+                        </div>
+
+                        <div class="col-md-6">
+                            <label for="qf-phone" class="form-label text-light">Phone</label>
+                            <input type="tel" id="qf-phone" name="phone" class="form-control" autocomplete="tel">
+                        </div>
+
+                        <div class="col-md-6">
+                            <label for="qf-company" class="form-label text-light">Company</label>
+                            <input type="text" id="qf-company" name="company" class="form-control" autocomplete="organization">
+                        </div>
+
+                        <div class="col-12">
+                            <label for="qf-message" class="form-label text-light">Additional details</label>
+                            <textarea id="qf-message" name="message" class="form-control" rows="3" placeholder="Number of principals, travel itinerary, special requirements..."></textarea>
+                        </div>
+                    </div>
+
+                    {{/* Honeypot */}}
+                    <div style="display:none;" aria-hidden="true">
+                        <input type="text" name="website" tabindex="-1" autocomplete="off">
+                    </div>
+
+                    <div class="mt-4 text-center">
+                        <button type="submit" class="btn-main fx-slide"><span>Submit Enquiry</span></button>
+                    </div>
+
+                    <p class="text-center mt-3 op-5 fs-14">Confidential. Your details are never shared with third parties.</p>
+                </form>
+
+                <div class="quote-success text-center mt-4" hidden>
+                    <p class="fs-18">Your enquiry has been received. A security consultant will contact you within 24 hours to discuss your requirements.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

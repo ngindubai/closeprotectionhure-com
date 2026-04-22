@@ -1,0 +1,51 @@
+{{ define "main" }}
+
+{{ $images := slice "hero.jpg" "Close-Protection-2560.webp" "close-protection-768x347.jpg" "geralt-watch-10184898.jpg" "mhouge-businessman-1477601.jpg" "images.jpg" }}
+{{ $imgIdx := mod (len .File.Path) (len $images) }}
+{{ $heroImg := index $images $imgIdx }}
+
+{{/* ===== SUBHEADER ===== */}}
+<section id="subheader" data-bgimage="url(/images/{{ $heroImg }}) top" class="text-light">
+    <div class="center-y relative" data-scroll-speed="4">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 offset-md-2 text-center">
+                    <h1>{{ .Title }}</h1>
+                    {{ with .Description }}<p class="lead">{{ . }}</p>{{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="de-breadcrumb">
+        <div class="container">
+            <ul>
+                <li><a href="/">Home</a></li>
+                {{ with .Section }}<li><a href="/{{ . }}/">{{ . | title }}</a></li>{{ end }}
+                <li class="active">{{ .Title }}</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+{{/* ===== MAIN CONTENT ===== */}}
+{{ with .Content }}
+<section class="section-dark bg-dark text-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1 wow fadeInUp">
+                {{ . }}
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+
+{{/* ===== FAQs ===== */}}
+{{ with .Params.faqs }}
+{{ partial "faq-accordion.html" (dict "faqs" .) }}
+{{ end }}
+
+{{/* ===== QUOTE FORM ===== */}}
+{{ partial "quote-form.html" $ }}
+
+{{ end }}

@@ -1,0 +1,107 @@
+{{ define "main" }}
+
+{{ $imageMap := dict "services" "service-bodyguard-hire-hero.jpg" "cities" "hero.jpg" "risk-assessments" "assessment-pre-travel-hero.jpg" }}
+{{ $sectionImg := index $imageMap .Section | default "mhouge-businessman-1477601.jpg" }}
+
+{{ $kickerMap := dict "services" "Our Services" "cities" "Locations" "risk-assessments" "Risk Assessments" }}
+{{ $kicker := index $kickerMap .Section | default "Overview" }}
+
+{{/* ===== INNER HERO ===== */}}
+<section class="inner-hero text-light">
+    <div class="inner-hero-bg">
+        <img src="/images/{{ $sectionImg }}" alt="{{ .Title }}" loading="eager">
+    </div>
+    <div class="inner-hero-vignette"></div>
+    <div class="inner-hero-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2 text-center">
+                    <p class="inner-hero-kicker wow fadeInUp">{{ $kicker }}</p>
+                    <h1 class="wow fadeInUp" data-wow-delay=".15s">{{ .Title }}</h1>
+                    {{ with .Description }}
+                    <div class="inner-hero-divider wow fadeInUp" data-wow-delay=".25s"></div>
+                    <p class="inner-hero-sub wow fadeInUp" data-wow-delay=".35s">{{ . }}</p>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ $allPages := .Pages }}
+{{ $total := len $allPages }}
+{{ $images := slice "hero.jpg" "Close-Protection-2560.webp" "close-protection-768x347.jpg" "geralt-watch-10184898.jpg" "mhouge-businessman-1477601.jpg" "images.jpg" }}
+
+{{ with .Content }}
+<section class="section-dark bg-dark text-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1 wow fadeInUp">
+                {{ . }}
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+
+{{/* ===== FEATURED ITEMS ===== */}}
+{{ $popular := first 4 $allPages }}
+{{ if gt (len $popular) 0 }}
+<section class="section-dark bg-dark-2 text-light">
+    <div class="container">
+        <div class="row mb-4">
+            <div class="col-lg-12">
+                <div class="subtitle wow fadeInUp">Featured</div>
+            </div>
+        </div>
+        <div class="row g-4">
+            {{ range $i, $p := $popular }}
+            {{ $img := $p.Params.hero_image | default (index $images (mod $i (len $images))) }}
+            <div class="col-lg-3 col-md-6 wow fadeInRight" data-wow-delay="{{ printf "%.1fs" (mul $i 0.2) }}">
+                <a href="{{ $p.Permalink }}" class="service-card d-block">
+                    <img class="card-bg-img" src="/images/{{ $img }}" alt="{{ $p.Title }}" width="400" height="260" loading="lazy">
+                    <div class="card-text">
+                        <span class="service-card-title">{{ $p.Title }}</span>
+                        {{ with $p.Description }}<p class="service-card-desc">{{ . | truncate 120 }}</p>{{ end }}
+                    </div>
+                </a>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
+
+{{/* ===== ALL ITEMS WITH SEARCH ===== */}}
+<section class="section-dark bg-dark text-light">
+    <div class="container">
+        <div class="row mb-4 align-items-center">
+            <div class="col-lg-6">
+                <div class="subtitle wow fadeInUp">All {{ .Title }}</div>
+            </div>
+            <div class="col-lg-6">
+                <div class="wow fadeInUp" data-wow-delay=".2s">
+                    <input type="search" id="listFilter" class="form-control" placeholder="Search {{ .Title | lower }}..." autocomplete="off">
+                    <p class="mt-2 op-5 fs-14" id="filterCount"></p>
+                </div>
+            </div>
+        </div>
+        <div class="row g-4" id="allItemsGrid">
+            {{ range $i, $p := $allPages }}
+            {{ $img := $p.Params.hero_image | default (index $images (mod $i (len $images))) }}
+            <div class="col-lg-3 col-md-4 col-sm-6 wow fadeInRight" data-wow-delay="{{ printf "%.1fs" (mul (mod $i 4) 0.15) }}" data-filter-title="{{ $p.Title | lower }}">
+                <a href="{{ $p.Permalink }}" class="service-card d-block">
+                    <img class="card-bg-img" src="/images/{{ $img }}" alt="{{ $p.Title }}" width="400" height="260" loading="lazy">
+                    <div class="card-text">
+                        <span class="service-card-title">{{ $p.Title }}</span>
+                        {{ with $p.Description }}<p class="service-card-desc">{{ . | truncate 120 }}</p>{{ end }}
+                    </div>
+                </a>
+            </div>
+            {{ end }}
+        </div>
+        <p class="filter-no-results text-center mt-4 op-5" id="noResults" style="display:none;">No matches found. Try a different search term.</p>
+    </div>
+</section>
+
+{{ end }}

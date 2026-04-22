@@ -1,0 +1,72 @@
+{{/* CyberGuard-style footer with our content */}}
+<footer class="section-dark">
+    <div class="container">
+        <div class="row gx-5">
+            <div class="col-lg-4 col-sm-6">
+                <h5>{{ .Site.Params.brand }}</h5>
+                <div class="spacer-10"></div>
+                <p>Vetted close protection officers, executive security details, and secure ground transport across 15 high-risk cities. Every operator is licensed, background-checked, and locally experienced.</p>
+            </div>
+
+            <div class="col-lg-4 col-sm-12 order-lg-1 order-sm-2">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="widget">
+                            <h5>Services</h5>
+                            <ul>
+                                <li><a href="/services/bodyguard-hire/">Bodyguard Hire</a></li>
+                                <li><a href="/services/executive-protection/">Executive Protection</a></li>
+                                <li><a href="/services/security-drivers/">Security Drivers</a></li>
+                                <li><a href="/services/event-security/">Event Security</a></li>
+                                <li><a href="/services/residential-security/">Residential Security</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <div class="widget">
+                            <h5>Locations</h5>
+                            <ul>
+                                <li><a href="/cities/lagos/">Lagos</a></li>
+                                <li><a href="/cities/dubai/">Dubai</a></li>
+                                <li><a href="/cities/bogota/">Bogota</a></li>
+                                <li><a href="/cities/mexico-city/">Mexico City</a></li>
+                                <li><a href="/cities/johannesburg/">Johannesburg</a></li>
+                                <li><a href="/cities/">All Locations</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-6 order-lg-2 order-sm-1">
+                <div class="widget">
+                    <h5>Company</h5>
+                    <ul>
+                        <li><a href="/risk-assessments/">Risk Assessments</a></li>
+                        <li><a href="#quote-form">Request Consultation</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="subfooter">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="de-flex">
+                        <div class="de-flex-col">
+                            &copy; {{ now.Year }} {{ .Site.Params.brand }}. All rights reserved.
+                        </div>
+                        <ul class="menu-simple">
+                            <li><a href="#">Terms &amp; Conditions</a></li>
+                            <li><a href="#">Privacy Policy</a></li>
+                        </ul>
+                    </div>
+                    <p class="footer-disclaimer">Information on this site is for general guidance only. Security conditions change rapidly. This site does not guarantee safety or protection outcomes. Always conduct independent due diligence and consult qualified security professionals for your specific situation.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

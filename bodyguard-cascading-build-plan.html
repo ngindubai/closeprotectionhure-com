@@ -1,0 +1,1766 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bodyguard Cascading Build Plan</title>
+    <style>
+        :root {
+            --bg: #0d1117;
+            --surface: #161b22;
+            --surface-2: #1c2333;
+            --surface-3: #21262d;
+            --border: #30363d;
+            --text: #c9d1d9;
+            --text-muted: #8b949e;
+            --heading: #f0f6fc;
+            --accent: #58a6ff;
+            --green: #3fb950;
+            --red: #f85149;
+            --orange: #d29922;
+            --purple: #bc8cff;
+            --pink: #f778ba;
+            --cyan: #39d2c0;
+            --yellow: #e3b341;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+
+        .hero { background: linear-gradient(135deg, #0d1117 0%, #1a1020 40%, #211020 100%); border-bottom: 1px solid var(--border); padding: 80px 40px 60px; text-align: center; }
+        .hero h1 { font-size: 2.6rem; color: var(--heading); margin-bottom: 12px; font-weight: 700; }
+        .hero .subtitle { font-size: 1.15rem; color: var(--text-muted); max-width: 750px; margin: 0 auto 24px; }
+        .hero .badges { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+        .hero .badges span { background: var(--surface); padding: 6px 14px; border-radius: 20px; border: 1px solid var(--border); font-size: 0.82rem; color: var(--text-muted); }
+
+        .sticky-nav { position: sticky; top: 0; z-index: 100; background: rgba(13,17,23,0.95); backdrop-filter: blur(8px); border-bottom: 1px solid var(--border); padding: 10px 20px; overflow-x: auto; white-space: nowrap; }
+        .sticky-nav a { color: var(--accent); text-decoration: none; font-size: 0.82rem; padding: 6px 14px; border-radius: 6px; display: inline-block; }
+        .sticky-nav a:hover { background: var(--surface); }
+
+        .container { max-width: 1200px; margin: 0 auto; padding: 40px 24px; }
+        h2 { color: var(--heading); font-size: 1.8rem; font-weight: 700; margin-bottom: 20px; padding-bottom: 12px; border-bottom: 2px solid var(--border); }
+        h3 { color: var(--heading); font-size: 1.3rem; font-weight: 600; margin: 28px 0 12px; }
+        h4 { color: var(--accent); font-size: 1.05rem; font-weight: 600; margin: 20px 0 8px; }
+        p { margin-bottom: 14px; }
+        ul, ol { margin: 10px 0 16px 24px; }
+        li { margin-bottom: 6px; }
+        .divider { height: 1px; background: var(--border); margin: 56px 0; }
+
+        .card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 24px; margin-bottom: 16px; }
+        .card-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 20px 0; }
+        .card-grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; margin: 20px 0; }
+        .accent-left { border-left: 4px solid var(--accent); }
+        .green-left { border-left: 4px solid var(--green); }
+        .purple-left { border-left: 4px solid var(--purple); }
+        .orange-left { border-left: 4px solid var(--orange); }
+        .pink-left { border-left: 4px solid var(--pink); }
+        .cyan-left { border-left: 4px solid var(--cyan); }
+        .red-left { border-left: 4px solid var(--red); }
+        .label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 700; margin-bottom: 6px; }
+        .label-blue { color: var(--accent); }
+        .label-green { color: var(--green); }
+        .label-purple { color: var(--purple); }
+        .label-orange { color: var(--orange); }
+        .label-pink { color: var(--pink); }
+        .label-cyan { color: var(--cyan); }
+        .label-red { color: var(--red); }
+
+        table { width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 0.9rem; }
+        th { background: var(--surface-2); color: var(--heading); text-align: left; padding: 12px 14px; font-weight: 600; border: 1px solid var(--border); }
+        td { padding: 10px 14px; border: 1px solid var(--border); vertical-align: top; }
+        tr:nth-child(even) td { background: rgba(22, 27, 34, 0.4); }
+
+        .badge { display: inline-block; padding: 2px 10px; border-radius: 12px; font-size: 0.72rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; }
+        .b-blue { background: rgba(88,166,255,0.15); color: var(--accent); }
+        .b-green { background: rgba(63,185,80,0.15); color: var(--green); }
+        .b-orange { background: rgba(210,153,34,0.15); color: var(--orange); }
+        .b-red { background: rgba(248,81,73,0.15); color: var(--red); }
+        .b-purple { background: rgba(188,140,255,0.15); color: var(--purple); }
+        .b-pink { background: rgba(247,120,186,0.15); color: var(--pink); }
+        .b-cyan { background: rgba(57,210,192,0.15); color: var(--cyan); }
+
+        .org-chart { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 40px 20px; margin: 24px 0; overflow-x: auto; }
+        .org-row { display: flex; justify-content: center; gap: 16px; margin-bottom: 8px; flex-wrap: wrap; }
+        .org-node { background: var(--surface-2); border: 2px solid var(--border); border-radius: 10px; padding: 14px 18px; text-align: center; min-width: 140px; max-width: 180px; }
+        .org-node .role { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.08em; font-weight: 700; margin-bottom: 4px; }
+        .org-node .name { font-size: 0.88rem; color: var(--heading); font-weight: 600; }
+        .org-node .desc { font-size: 0.72rem; color: var(--text-muted); margin-top: 4px; }
+        .org-node.lead { border-color: var(--accent); background: rgba(88,166,255,0.08); }
+        .org-node.scraper { border-color: var(--green); background: rgba(63,185,80,0.06); }
+        .org-node.writer { border-color: var(--purple); background: rgba(188,140,255,0.06); }
+        .org-node.seo { border-color: var(--orange); background: rgba(210,153,34,0.06); }
+        .org-node.dev { border-color: var(--cyan); background: rgba(57,210,192,0.06); }
+        .org-node.qa { border-color: var(--pink); background: rgba(247,120,186,0.06); }
+        .org-connector { text-align: center; color: var(--border); font-size: 1.4rem; line-height: 1; margin: 4px 0; }
+        .org-label { text-align: center; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-muted); margin: 16px 0 8px; font-weight: 700; }
+
+        .timeline { position: relative; margin: 32px 0; padding-left: 40px; }
+        .timeline::before { content: ''; position: absolute; left: 12px; top: 0; bottom: 0; width: 3px; background: linear-gradient(to bottom, var(--accent), var(--green), var(--purple), var(--orange)); border-radius: 3px; }
+        .tl-item { position: relative; margin-bottom: 32px; }
+        .tl-item::before { content: ''; position: absolute; left: -34px; top: 6px; width: 16px; height: 16px; border-radius: 50%; border: 3px solid var(--bg); }
+        .tl-item.phase-1::before { background: var(--accent); }
+        .tl-item.phase-2::before { background: var(--green); }
+        .tl-item.phase-3::before { background: var(--purple); }
+        .tl-item.phase-4::before { background: var(--orange); }
+        .tl-item.phase-5::before { background: var(--pink); }
+        .tl-item.phase-6::before { background: var(--cyan); }
+        .tl-phase { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 700; margin-bottom: 4px; }
+        .tl-phase.p1 { color: var(--accent); }
+        .tl-phase.p2 { color: var(--green); }
+        .tl-phase.p3 { color: var(--purple); }
+        .tl-phase.p4 { color: var(--orange); }
+        .tl-phase.p5 { color: var(--pink); }
+        .tl-phase.p6 { color: var(--cyan); }
+        .tl-title { font-size: 1.1rem; color: var(--heading); font-weight: 700; margin-bottom: 6px; }
+        .tl-body { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 16px 20px; }
+        .tl-meta { display: flex; gap: 16px; flex-wrap: wrap; font-size: 0.8rem; color: var(--text-muted); margin-top: 10px; }
+        .tl-meta span { background: var(--surface-2); padding: 3px 10px; border-radius: 10px; }
+
+        .gantt { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 24px; margin: 24px 0; overflow-x: auto; }
+        .gantt-header { display: grid; grid-template-columns: 180px repeat(12, 1fr); gap: 0; margin-bottom: 8px; font-size: 0.72rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.06em; font-weight: 600; }
+        .gantt-header div { padding: 4px 6px; text-align: center; border-bottom: 1px solid var(--border); }
+        .gantt-header div:first-child { text-align: left; }
+        .gantt-row { display: grid; grid-template-columns: 180px repeat(12, 1fr); gap: 0; margin-bottom: 4px; align-items: center; }
+        .gantt-row .task-name { font-size: 0.82rem; padding: 6px; color: var(--heading); font-weight: 500; }
+        .gantt-bar { height: 24px; border-radius: 4px; margin: 2px 0; }
+
+        .worker-card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 28px; margin-bottom: 24px; }
+        .worker-header { display: flex; align-items: center; gap: 16px; margin-bottom: 16px; }
+        .worker-icon { width: 48px; height: 48px; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 1.4rem; }
+        .worker-title { font-size: 1.2rem; color: var(--heading); font-weight: 700; }
+        .worker-subtitle { font-size: 0.85rem; color: var(--text-muted); }
+        .worker-section { margin-top: 16px; }
+        .worker-section h4 { font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 8px; }
+        .pill-list { display: flex; flex-wrap: wrap; gap: 6px; }
+        .pill { padding: 4px 12px; border-radius: 14px; font-size: 0.78rem; font-weight: 500; background: var(--surface-2); border: 1px solid var(--border); color: var(--text); }
+
+        code { background: var(--surface-2); padding: 2px 8px; border-radius: 4px; font-size: 0.88rem; color: var(--accent); }
+
+        @media (max-width: 900px) {
+            .card-grid, .card-grid-3 { grid-template-columns: 1fr; }
+            .gantt-header, .gantt-row { grid-template-columns: 140px repeat(12, 1fr); }
+            .hero h1 { font-size: 1.8rem; }
+            .org-row { gap: 8px; }
+            .org-node { min-width: 110px; padding: 10px 12px; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- HERO -->
+<div class="hero">
+    <h1>Bodyguard Cascading Build Plan</h1>
+    <p class="subtitle">Workforce design, phase-by-phase execution plan, and timeline for building a 3,000+ page SEO operation to dominate "bodyguard hire" and "executive protection" in every major city globally.</p>
+    <div class="badges">
+        <span>Build Bible v1.2 &mdash; SEO/LLM Plan + Calendar Added</span>
+        <span>17 April 2026</span>
+        <span>Duration: 10 months (Dec 2026)</span>
+        <span>Framework: Soul, Memory &amp; Heartbeat</span>
+        <span>Build Order: #3 of 3</span>
+    </div>
+</div>
+
+<!-- STICKY NAV -->
+<nav class="sticky-nav">
+    <a href="#overview">Overview</a>
+    <a href="#business-model">Business Model</a>
+    <a href="#workforce">Workforce</a>
+    <a href="#org-chart">Org Chart</a>
+    <a href="#compliance">Compliance</a>
+    <a href="#phase-0">Phase 0</a>
+    <a href="#phase-1">Phase 1</a>
+    <a href="#phase-2">Phase 2</a>
+    <a href="#phase-3">Phase 3</a>
+    <a href="#phase-4">Phase 4</a>
+    <a href="#phase-5">Phase 5</a>
+    <a href="#phase-6">Phase 6</a>
+    <a href="#gantt">Gantt</a>
+    <a href="#questions">Questions</a>
+    <a href="#execution-stages" style="color:var(--cyan);">Execution Stages</a>
+    <a href="#seo-llm-plan" style="color:var(--yellow);">SEO &amp; LLM Plan</a>
+    <a href="#calendar" style="color:var(--green);">Calendar</a>
+</nav>
+
+<div class="container">
+
+<!-- ============================================================ -->
+<!-- SECTION: OVERVIEW -->
+<!-- ============================================================ -->
+<section id="overview">
+    <h2>1. Business Overview</h2>
+
+    <div class="card" style="border:2px solid var(--purple); background:rgba(188,140,255,0.04);">
+        <h4 style="color:var(--purple); margin-top:0;">The Opportunity</h4>
+        <p>When a high-net-worth individual, executive, journalist or NGO worker needs personal security in a foreign country, they search online. There is no global platform for hiring vetted bodyguards or executive protection teams across borders. The information asymmetry is extreme: how do you know which security firm in Lagos or Bogota is legitimate?</p>
+        <p><strong>Scored 7.4/10</strong> in the cross-border opportunity report. Ranked #8 overall. Lower page count than pet transport or bus hire, but the highest value per lead of all three builds ($1,000-$10,000+ per day).</p>
+    </div>
+
+    <div class="card-grid-3">
+        <div class="card accent-left">
+            <div class="label label-blue">Market Size</div>
+            <p>Global executive protection market: $15-20B annually (Allied Market Research). Growing with geopolitical instability, corporate travel to emerging markets, and increased risk awareness post-COVID.</p>
+        </div>
+        <div class="card green-left">
+            <div class="label label-green">Deal Value</div>
+            <p><strong>$1,000-$10,000+ per day.</strong> An executive protection detail in Lagos: $2,500/day. A 5-day trip with driver and bodyguard in Bogota: $8,000. Corporate team protection in Kabul: $15,000/week. The highest per-engagement value of all three builds.</p>
+        </div>
+        <div class="card purple-left">
+            <div class="label label-purple">Competition</div>
+            <p><strong>No global SEO player at city level.</strong> Major security firms (G4S, Securitas, GardaWorld) focus on corporate contracts, not individual SEO. Smaller firms are local. Nobody owns "bodyguard hire [city]" at global scale.</p>
+        </div>
+    </div>
+
+    <h3>Key Differentiators vs Global Bus Hire</h3>
+    <table>
+        <tr><th>Dimension</th><th>Global Bus Hire</th><th>Security/Bodyguard Hire</th></tr>
+        <tr><td>URL architecture</td><td>/bus-hire/[country]/[city]/</td><td>/security/[country]/[city]/ + service silos</td></tr>
+        <tr><td>Page count target</td><td>15,000-20,000</td><td>3,000-5,000</td></tr>
+        <tr><td>Search volume per query</td><td>Medium-High</td><td>Low (high-value long-tail)</td></tr>
+        <tr><td>Booking value</td><td>$500-$5,000</td><td>$1,000-$10,000+/day</td></tr>
+        <tr><td>Margin per deal</td><td>30-50%</td><td>40-60% (relationship-based pricing)</td></tr>
+        <tr><td>Client type</td><td>B2B + B2C</td><td>HNWI, corporate, media, NGO</td></tr>
+        <tr><td>Trust requirement</td><td>Moderate</td><td><strong>Extreme</strong> (physical safety at stake)</td></tr>
+        <tr><td>Vetting requirement</td><td>Low</td><td><strong>Critical</strong> (licenses, backgrounds, training verification)</td></tr>
+        <tr><td>Existing competition</td><td>OsaBus (77 countries, 15K pages)</td><td>None at SEO/city level</td></tr>
+        <tr><td>Content differentiation</td><td>Local info, fleet types</td><td>Risk profiles, security regulations, threat assessments</td></tr>
+        <tr><td>Legal sensitivity</td><td>Low</td><td>High (firearms regs, licensing, liability)</td></tr>
+    </table>
+</section>
+
+<div class="divider"></div>
+
+<!-- ============================================================ -->
+<!-- SECTION: BUSINESS MODEL -->
+<!-- ============================================================ -->
+<section id="business-model">
+    <h2>2. Business Model: Global Security Matching</h2>
+
+    <h3>2.1 The Customer Journey</h3>
+    <div class="card" style="font-family: 'Courier New', monospace; font-size: 0.85rem; line-height: 2.2;">
+        <span style="color:var(--accent);">EVENT:</span> CEO travelling to Lagos 🇳🇬 for 3-day business trip<br>
+        &nbsp;&nbsp;↓ Company risk department: "He needs executive protection"<br>
+        <span style="color:var(--orange);">RESEARCH:</span> "bodyguard hire Lagos" or "executive protection Nigeria"<br>
+        &nbsp;&nbsp;↓ Google search: finds your site → /security/nigeria/lagos/<br>
+        <span style="color:var(--accent);">INFORMATION:</span> Page explains: security landscape in Lagos, risk rating, what EP in Lagos looks like, typical package (armed driver + CP officer), licensing requirements in Nigeria, cost range<br>
+        &nbsp;&nbsp;↓ Reads: "All operators are SIA-licensed (or local equivalent), background-checked, and vetted by our team"<br>
+        <span style="color:var(--green);">CONTACT:</span> Fills confidential enquiry form (dates, threat level, requirements)<br>
+        &nbsp;&nbsp;↓ Your team matches with vetted local operator in Lagos<br>
+        <span style="color:var(--green);">QUOTE:</span> $2,500/day for CP officer + armoured vehicle + driver. 3 days = $7,500<br>
+        <span style="color:var(--green);">PAYMENT:</span> 50% deposit, 50% on arrival<br>
+        &nbsp;&nbsp;↓ Local operator deploys<br>
+        <span style="color:var(--cyan);">DELIVERY:</span> CEO picked up at airport, escorted to hotel, accompanied to all meetings, returned to airport<br>
+        <br>
+        <span style="color:var(--green);">YOUR COST:</span> Local operator fee $5,000 (3 days)<br>
+        <span style="color:var(--green);">YOUR REVENUE:</span> $7,500<br>
+        <span style="color:var(--green);">YOUR PROFIT:</span> <strong>$2,500 (33% margin)</strong><br>
+        <br>
+        <span style="color:var(--yellow);">NOTE:</span> Many clients become repeat. One corporate client booking quarterly trips = $30,000/year recurring.
+    </div>
+
+    <h3>2.2 Service Silos (URL Architecture)</h3>
+    <div class="card">
+        <h4>5 Primary Silos</h4>
+        <pre style="background:var(--surface-2); padding:16px; border-radius:8px; font-size: 0.88rem; overflow-x:auto; color:var(--text); margin:12px 0;">
+Homepage: globalsecurityhire.com/
+
+/bodyguard-hire/                                → Bodyguard/CP silo index
+/bodyguard-hire/[country]/                      → Country hub
+/bodyguard-hire/[country]/[city]/               → City page (e.g. /bodyguard-hire/nigeria/lagos/)
+
+/executive-protection/                          → Executive protection silo
+/executive-protection/[country]/                → Country hub
+/executive-protection/[country]/[city]/         → City page
+
+/security-drivers/                              → Secure transport silo
+/security-drivers/[country]/                    → Country hub
+/security-drivers/[country]/[city]/             → City page
+
+/event-security/                                → Event security (conferences, corporate events abroad)
+/event-security/[country]/                      → Country hub
+/event-security/[country]/[city]/               → City page
+
+/residential-security/                          → Expat home security
+/residential-security/[country]/                → Country hub
+
+/risk-assessments/                              → Informational: country/city risk profiles
+/risk-assessments/[country]/                    → Country risk page
+/risk-assessments/[country]/[city]/             → City risk page
+
+/guides/                                        → Resource hub
+/guides/travelling-safely-in-[country]/         → Travel safety guides
+/guides/security-regulations-[country]/         → Firearms + licensing regulations
+
+/about/                                         → Company, vetting process, certifications
+/our-network/                                   → Map of vetted operators
+/contact/                                       → Confidential enquiry form
+/faq/
+/testimonials/                                  → Corporate client endorsements (anonymised)
+        </pre>
+
+        <h4>Page Count Estimate</h4>
+        <table>
+            <tr><th>Page Type</th><th>Count</th><th>Notes</th></tr>
+            <tr><td>Bodyguard hire city pages</td><td>500-800</td><td>Major cities across 100 countries</td></tr>
+            <tr><td>Executive protection city pages</td><td>300-500</td><td>Business travel hubs</td></tr>
+            <tr><td>Security driver city pages</td><td>200-400</td><td>High-risk cities where secure transport is needed</td></tr>
+            <tr><td>Event security city pages</td><td>100-200</td><td>Major conference/event cities</td></tr>
+            <tr><td>Residential security country pages</td><td>50-100</td><td>Expat hub countries</td></tr>
+            <tr><td>Country hub pages (per silo)</td><td>400</td><td>~100 countries x 4 silos</td></tr>
+            <tr><td>Risk assessment pages (country + city)</td><td>300-500</td><td>Informational, high-value for SEO</td></tr>
+            <tr><td>Travel safety guide pages</td><td>100-150</td><td>Top-of-funnel: captures "is [city] safe?" queries</td></tr>
+            <tr><td>Security regulation guides</td><td>50-100</td><td>Firearms laws, licensing per country</td></tr>
+            <tr><td>Blog articles</td><td>100-200</td><td>Built over 10 months</td></tr>
+            <tr><td>Core pages</td><td>10-15</td><td>About, contact, network, FAQ</td></tr>
+            <tr><td><strong>Total</strong></td><td><strong>2,200-3,500+</strong></td><td>Expanding to 5,000 with depth</td></tr>
+        </table>
+    </div>
+
+    <h3>2.3 City Page Content Structure</h3>
+    <p>Each (silo x city) page must contain genuinely useful security intelligence for that location.</p>
+
+    <table>
+        <tr><th>#</th><th>Section</th><th>Content</th><th>Unique Per City?</th></tr>
+        <tr><td>1</td><td>Hero with city H1</td><td>"Bodyguard Hire in [City], [Country]" or "Executive Protection in [City]"</td><td><span class="badge b-green">Yes</span></td></tr>
+        <tr><td>2</td><td>Confidential enquiry CTA</td><td>"Request a confidential security assessment for your trip to [City]"</td><td><span class="badge b-green">Yes</span></td></tr>
+        <tr><td>3</td><td>City security overview</td><td>Current security landscape: crime rates, areas of concern, common threats for visitors, recent incidents (factual, not fearmongering).</td><td><span class="badge b-red">100% unique</span></td></tr>
+        <tr><td>4</td><td>What to expect</td><td>What a security detail in [City] actually looks like: vehicle type, personnel, armament (if legal), communication equipment, typical day structure.</td><td><span class="badge b-red">100% unique</span></td></tr>
+        <tr><td>5</td><td>Local regulations</td><td>Can bodyguards carry firearms in [Country]? Licensing requirements. Are foreign security personnel allowed to operate?</td><td><span class="badge b-red">100% unique per country</span></td></tr>
+        <tr><td>6</td><td>Service packages</td><td>Typical packages: solo CP officer, driver + CP, full team (advance + CP + driver), residential detail. With indicative daily rates for [City].</td><td><span class="badge b-red">100% unique (pricing varies)</span></td></tr>
+        <tr><td>7</td><td>Our operators</td><td>Description of vetted local security firm(s) in [City]. background check process, certifications, experience.</td><td><span class="badge b-red">100% unique</span></td></tr>
+        <tr><td>8</td><td>Traveller safety tips</td><td>Practical security advice for visitors to [City]. Hotel security, transport, areas to avoid, emergency numbers.</td><td><span class="badge b-red">100% unique</span></td></tr>
+        <tr><td>9</td><td>FAQ (5-8 items)</td><td>"Can I hire an armed bodyguard in [City]?", "How much does executive protection cost in [City]?", "Do I need a security driver in [City]?"</td><td><span class="badge b-red">100% unique</span></td></tr>
+        <tr><td>10</td><td>Related services</td><td>Links to other silos for same city: bodyguard → executive protection → security driver.</td><td><span class="badge b-green">Yes</span></td></tr>
+        <tr><td>11</td><td>Risk rating badge</td><td>Visual risk rating for [City]: Low / Medium / High / Critical. Based on aggregated data.</td><td><span class="badge b-red">100% unique</span></td></tr>
+    </table>
+
+    <h3>2.4 Priority Cities (Where Security Is Most Needed)</h3>
+    <table>
+        <tr><th>Tier</th><th>Cities</th><th>Rationale</th></tr>
+        <tr>
+            <td><span class="badge b-red">P1 Launch</span></td>
+            <td>Lagos, Nairobi, Johannesburg, Bogota, Mexico City, Istanbul, Riyadh, Dubai, Mumbai, Moscow, Sao Paulo, Manila, Karachi, Bangkok, Jakarta</td>
+            <td>Highest-risk business travel destinations. Expats and executives need EP here regularly. These cities generate the largest and most urgent enquiries.</td>
+        </tr>
+        <tr>
+            <td><span class="badge b-orange">P2 Expand</span></td>
+            <td>London, New York, Paris, Berlin, Tokyo, Hong Kong, Singapore, Sydney, Doha, Kuwait City, Abu Dhabi, Cape Town, Accra, Dar es Salaam, Addis Ababa, Lima, Buenos Aires, Santiago, Beijing, Shanghai, Delhi, Bangalore, Tel Aviv, Cairo, Casablanca</td>
+            <td>Mix of major business hubs (where VIPs travel) and growing-risk cities. London and New York for celebrity/HNWI protection.</td>
+        </tr>
+        <tr>
+            <td><span class="badge b-blue">P3 Broad</span></td>
+            <td>200+ additional cities across Africa, LATAM, MENA, SE Asia</td>
+            <td>Smaller cities but with specific security needs (mining towns, oil regions, conflict-adjacent areas).</td>
+        </tr>
+        <tr>
+            <td><span class="badge b-purple">P4 Full</span></td>
+            <td>500+ cities across every continent</td>
+            <td>Full global coverage. Many will be low-traffic but the pages cost nothing to maintain and capture long-tail.</td>
+        </tr>
+    </table>
+
+    <h3>2.5 Search Query Patterns</h3>
+    <table>
+        <tr><th>Query Pattern</th><th>Example</th><th>Intent</th><th>Volume</th></tr>
+        <tr><td>"bodyguard hire [city]"</td><td>"bodyguard hire Lagos"</td><td>Commercial: ready to buy</td><td>Low-Medium</td></tr>
+        <tr><td>"executive protection [city]"</td><td>"executive protection Bogota"</td><td>Commercial: corporate</td><td>Low-Medium</td></tr>
+        <tr><td>"security driver [city]"</td><td>"security driver Johannesburg"</td><td>Commercial</td><td>Low</td></tr>
+        <tr><td>"is [city] safe for tourists"</td><td>"is Lagos safe for tourists"</td><td>Informational → captures lead</td><td>High</td></tr>
+        <tr><td>"personal security [country]"</td><td>"personal security Nigeria"</td><td>Commercial</td><td>Low-Medium</td></tr>
+        <tr><td>"close protection officer [city]"</td><td>"close protection officer Dubai"</td><td>Commercial</td><td>Low</td></tr>
+        <tr><td>"private security [city]"</td><td>"private security Mexico City"</td><td>Commercial</td><td>Medium</td></tr>
+        <tr><td>"armed guard hire [country]"</td><td>"armed guard hire Colombia"</td><td>Commercial: specific need</td><td>Low</td></tr>
+        <tr><td>"security company [city]"</td><td>"security company Nairobi"</td><td>Commercial: looking for provider</td><td>Medium</td></tr>
+        <tr><td>"travel security assessment [country]"</td><td>"travel security assessment Nigeria"</td><td>Corporate/informational</td><td>Low</td></tr>
+    </table>
+
+    <h3>2.6 Client Segments</h3>
+    <div class="card-grid">
+        <div class="card accent-left">
+            <div class="label label-blue">Segment 1: Corporate</div>
+            <p>Multinational companies sending executives to high-risk locations. Budget: $2K-$15K per trip. Repeat bookings. Decision maker: corporate security director or travel risk manager. Long sales cycle but high lifetime value.</p>
+        </div>
+        <div class="card green-left">
+            <div class="label label-green">Segment 2: HNWI / Celebrity</div>
+            <p>High-net-worth individuals travelling for leisure, property viewings, or events. Budget: $1K-$5K per day. Often want discreet, unarmed protection in luxury settings. Decision maker: personal assistant or family office.</p>
+        </div>
+        <div class="card purple-left">
+            <div class="label label-purple">Segment 3: Media / Journalism</div>
+            <p>Journalists, documentary crews, news agencies working in conflict or high-risk zones. Budget: $2K-$10K/day (often funded by broadcaster). Need hostile environment trained operators. Decision maker: news desk security advisor.</p>
+        </div>
+        <div class="card orange-left">
+            <div class="label label-orange">Segment 4: NGO / Aid</div>
+            <p>NGO workers, aid organisations operating in conflict zones. Budget: varies. Need security drivers, compound security, movement planning. Often require operators with humanitarian experience.</p>
+        </div>
+    </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ============================================================ -->
+<!-- SECTION: WORKFORCE -->
+<!-- ============================================================ -->
+<section id="workforce">
+    <h2>3. The Workforce: All Workers Needed</h2>
+    <p>Same 14-worker framework, adapted for the security domain. Key difference vs other builds: The Geographer becomes a risk analyst, The Spider targets security industry data, and The Auditor must catch any content that could create legal liability.</p>
+
+    <h3>Department A: Leadership &amp; Planning</h3>
+    <div class="card-grid">
+        <div class="worker-card accent-left">
+            <div class="worker-header">
+                <div class="worker-icon" style="background:rgba(88,166,255,0.15);">🧠</div>
+                <div>
+                    <div class="worker-title">The Architect</div>
+                    <div class="worker-subtitle">Planning &amp; Vetting Standards Lead</div>
+                </div>
+            </div>
+            <p>Master planner with an extra responsibility: defining the vetting standards for security operators listed on the site. No operator goes on the platform without meeting minimum standards (training, licensing, insurance, references). The Architect defines these standards and tracks compliance.</p>
+            <div class="worker-section">
+                <h4>Adaptation from Bus Hire</h4>
+                <div class="pill-list">
+                    <span class="pill">Operator vetting framework</span>
+                    <span class="pill">Legal liability tracking</span>
+                    <span class="pill">Risk rating methodology</span>
+                </div>
+            </div>
+        </div>
+        <div class="worker-card accent-left">
+            <div class="worker-header">
+                <div class="worker-icon" style="background:rgba(88,166,255,0.15);">📊</div>
+                <div>
+                    <div class="worker-title">The Auditor</div>
+                    <div class="worker-subtitle">Quality, Legal &amp; Liability Review</div>
+                </div>
+            </div>
+            <p>The most critical QA role of all three builds. Security content has real liability implications. If a page says "bodyguards in Colombia can carry firearms" and that is wrong, a client could be exposed to legal risk. The Auditor verifies every legal claim and ensures no content makes guarantees about safety outcomes.</p>
+            <div class="worker-section">
+                <h4>Adaptation from Bus Hire</h4>
+                <div class="pill-list">
+                    <span class="pill">Legal claim verification</span>
+                    <span class="pill">No safety guarantees ever</span>
+                    <span class="pill">Firearms regulation accuracy</span>
+                    <span class="pill">Insurance/liability language review</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <h3>Department B: Intelligence &amp; Research</h3>
+    <div class="card-grid">
+        <div class="worker-card green-left">
+            <div class="worker-header">
+                <div class="worker-icon" style="background:rgba(63,185,80,0.12);">🕷️</div>
+                <div>
+                    <div class="worker-title">The Spider</div>
+                    <div class="worker-subtitle">Security Industry &amp; Risk Data Scraper</div>
+                </div>
+            </div>
+            <p>Scrapes security industry data: company listings, industry associations (ASIS International, SIA UK, IPSA), travel advisory sites (UK FCDO, US State Dept travel advisories), crime data sources, and existing security company websites for page structures and service descriptions.</p>
+            <div class="worker-section">
+                <h4>Key Scrape Targets</h4>
+                <div class="pill-list">
+                    <span class="pill">FCDO travel advisories</span>
+                    <span class="pill">US State Dept travel warnings</span>
+                    <span class="pill">ASIS International directory</span>
+                    <span class="pill">SIA (UK) licensed companies</span>
+                    <span class="pill">Global Guardian, World Aware</span>
+                    <span class="pill">OSAC (Dept of State) crime reports</span>
+                </div>
+            </div>
+        </div>
+        <div class="worker-card green-left">
+            <div class="worker-header">
+                <div class="worker-icon" style="background:rgba(63,185,80,0.12);">🔬</div>
+                <div>
+                    <div class="worker-title">The Scout</div>
+                    <div class="worker-subtitle">Security Keyword &amp; Buyer Research</div>
+                </div>
+            </div>
+            <p>Keyword research for security queries per city. Also researches buyer behaviour: how corporate security directors find providers, what terms they use, where they look (Google, industry directories, referrals). The sales cycle for security is longer than other builds.</p>
+        </div>
+        <div class="worker-card green-left">
+            <div class="worker-header">
+                <div class="worker-icon" style="background:rgba(63,185,80,0.12);">🌍</div>
+                <div>
+                    <div class="worker-title">The Geographer</div>
+                    <div class="worker-subtitle">Risk Analyst &amp; Security Intelligence</div>
+                </div>
+            </div>
+            <p><strong>Becomes a risk analyst for this build.</strong> Compiles city-level risk profiles: crime rates, terrorism risk, kidnapping data, civil unrest history, areas to avoid, police reliability, corruption index, healthcare quality, emergency service response times. Also maps security regulations: can bodyguards carry firearms? What licensing is needed? Can foreign security personnel operate?</p>
+            <div class="worker-section">
+                <h4>Data Points Per City</h4>
+                <div class="pill-list">
+                    <span class="pill">Crime rate (homicide, robbery, car theft)</span>
+                    <span class="pill">Terrorism risk level</span>
+                    <span class="pill">Kidnapping/extortion risk</span>
+                    <span class="pill">Civil unrest frequency</span>
+                    <span class="pill">Police reliability score</span>
+                    <span class="pill">Corruption index</span>
+                    <span class="pill">Safe vs unsafe zones</span>
+                    <span class="pill">Emergency numbers</span>
+                    <span class="pill">Hospitals with trauma capability</span>
+                    <span class="pill">Firearms regulations</span>
+                    <span class="pill">Security licensing requirements</span>
+                    <span class="pill">Foreign operator allowed?</span>
+                    <span class="pill">FCO/State Dept advisory level</span>
+                    <span class="pill">Typical EP package</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <h3>Department C: Content Creation</h3>
+    <div class="card-grid">
+        <div class="worker-card purple-left">
+            <div class="worker-header">
+                <div class="worker-icon" style="background:rgba(188,140,255,0.12);">✍️</div>
+                <div>
+                    <div class="worker-title">The Wordsmith</div>
+                    <div class="worker-subtitle">Security Content Writer (Authority Voice)</div>
+                </div>
+            </div>
+            <p>Writes with authority and discretion. The tone is professional, knowledgeable, and measured. Not fearmongering ("Lagos is DANGEROUS!") but factual and practical ("Lagos presents specific security challenges for business travellers, particularly in certain areas"). The writing should sound like it comes from an experienced security professional, not a marketing agency.</p>
+            <div class="worker-section">
+                <h4>Tone Rules</h4>
+                <ul>
+                    <li><strong>Never fearmongering.</strong> State facts, not scare stories.</li>
+                    <li><strong>Never guarantee safety.</strong> "We reduce risk" not "We keep you safe".</li>
+                    <li><strong>Professional, not military.</strong> Accessible to civilian clients.</li>
+                    <li><strong>Discreet.</strong> No operational details that could compromise client security.</li>
+                    <li><strong>Factual about risk.</strong> "This city has a crime index of X" not "This city is terrifying".</li>
+                    <li><strong>Confident but honest.</strong> "Our operators are experienced in this environment" not "Nothing can go wrong".</li>
+                </ul>
+            </div>
+        </div>
+        <div class="worker-card purple-left">
+            <div class="worker-header">
+                <div class="worker-icon" style="background:rgba(188,140,255,0.12);">❓</div>
+                <div>
+                    <div class="worker-title">The Interrogator</div>
+                    <div class="worker-subtitle">FAQ &amp; Risk Question Generator</div>
+                </div>
+            </div>
+            <p>Generates city-specific FAQs: "Can I hire an armed bodyguard in Colombia?", "How much does a security driver cost in Lagos?", "Do I need executive protection in Dubai?", "Is it safe to visit the Ikoyi neighbourhood?"</p>
+        </div>
+        <div class="worker-card purple-left">
+            <div class="worker-header">
+                <div class="worker-icon" style="background:rgba(188,140,255,0.12);">🔄</div>
+                <div>
+                    <div class="worker-title">The Chameleon</div>
+                    <div class="worker-subtitle">Humaniser &amp; Authority Consistency</div>
+                </div>
+            </div>
+            <p>Standard humaniser pass. Also ensures the voice remains authoritative and consistent across hundreds of city pages. The Chameleon catches any content that sounds too casual, too aggressive, or too marketing-oriented for a security brand.</p>
+        </div>
+    </div>
+
+    <h3>Departments D, E &amp; F</h3>
+    <div class="card-grid">
+        <div class="worker-card orange-left">
+            <div class="worker-header">
+                <div class="worker-icon" style="background:rgba(210,153,34,0.12);">🎯</div>
+                <div>
+                    <div class="worker-title">The Optimiser</div>
+                    <div class="worker-subtitle">Security SEO (Authority Building)</div>
+                </div>
+            </div>
+            <p>SEO focused on E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness). This is a YMYL (Your Money or Your Life) topic: Google holds security/safety content to higher standards. Pages need author bios (real security professionals), citations, and accreditation signals.</p>
+        </div>
+        <div class="worker-card orange-left">
+            <div class="worker-header">
+                <div class="worker-icon" style="background:rgba(210,153,34,0.12);">🔗</div>
+                <div>
+                    <div class="worker-title">The Connector</div>
+                    <div class="worker-subtitle">Authority Links &amp; Industry Partnerships</div>
+                </div>
+            </div>
+            <p>Backlinks from: ASIS International, security industry publications (Security Management magazine), travel risk management platforms, corporate travel associations, insurance companies. Links FROM government advisory pages TO your content would be the ultimate authority signal.</p>
+        </div>
+        <div class="worker-card cyan-left">
+            <div class="worker-header">
+                <div class="worker-icon" style="background:rgba(57,210,192,0.12);">⚙️</div>
+                <div>
+                    <div class="worker-title">The Builder</div>
+                    <div class="worker-subtitle">Secure Platform &amp; Confidential Enquiry System</div>
+                </div>
+            </div>
+            <p>Builds with security in mind. The site itself must be secure (HTTPS, no data leaks, encrypted contact forms). Clients submitting enquiries may be high-profile. The enquiry system must not expose client details. Clean, professional, dark design. Think: government contractor website, not e-commerce.</p>
+        </div>
+        <div class="worker-card cyan-left">
+            <div class="worker-header">
+                <div class="worker-icon" style="background:rgba(57,210,192,0.12);">🗄️</div>
+                <div>
+                    <div class="worker-title">The Librarian</div>
+                    <div class="worker-subtitle">Risk &amp; Operator Database</div>
+                </div>
+            </div>
+            <p>Manages two databases: (1) City risk profiles with crime data, travel advisories, regulation lookups. (2) Vetted operator database: security firms per city with licensing, insurance, and vetting status.</p>
+        </div>
+        <div class="worker-card pink-left">
+            <div class="worker-header">
+                <div class="worker-icon" style="background:rgba(247,120,186,0.12);">📈</div>
+                <div>
+                    <div class="worker-title">The Analyst</div>
+                    <div class="worker-subtitle">Lead Quality &amp; Conversion Tracking</div>
+                </div>
+            </div>
+            <p>Tracks lead quality by city. In this business, one high-value corporate client is worth 100 casual enquiries. The Analyst identifies which cities generate the highest-value leads and prioritises content investment accordingly.</p>
+        </div>
+        <div class="worker-card pink-left">
+            <div class="worker-header">
+                <div class="worker-icon" style="background:rgba(247,120,186,0.12);">🛡️</div>
+                <div>
+                    <div class="worker-title">The Watchdog</div>
+                    <div class="worker-subtitle">Site Security &amp; Data Protection</div>
+                </div>
+            </div>
+            <p>Beyond uptime: monitors for security vulnerabilities. A security company's website being hacked would be catastrophic for trust. SSL, WAF, regular security scans, GDPR compliance on enquiry forms. Also monitors for content scraping by competitors.</p>
+        </div>
+    </div>
+
+    <h3>Workforce Summary</h3>
+    <table>
+        <tr><th>Worker</th><th>Adaptation</th><th>Active From</th></tr>
+        <tr><td>The Architect</td><td>Operator vetting standards</td><td><span class="badge b-blue">Phase 0</span></td></tr>
+        <tr><td>The Auditor</td><td>Legal liability review, no safety guarantees</td><td><span class="badge b-blue">Phase 1</span></td></tr>
+        <tr><td>The Spider</td><td>FCO/State Dept, ASIS, OSAC data</td><td><span class="badge b-green">Phase 0</span></td></tr>
+        <tr><td>The Scout</td><td>Security buyer research</td><td><span class="badge b-green">Phase 0</span></td></tr>
+        <tr><td>The Geographer</td><td>City risk profiles, firearms regs</td><td><span class="badge b-green">Phase 0</span></td></tr>
+        <tr><td>The Wordsmith</td><td>Authority voice, factual not fearmongering</td><td><span class="badge b-purple">Phase 1</span></td></tr>
+        <tr><td>The Interrogator</td><td>Risk + regulation FAQs</td><td><span class="badge b-purple">Phase 1</span></td></tr>
+        <tr><td>The Chameleon</td><td>Authority consistency</td><td><span class="badge b-purple">Phase 1</span></td></tr>
+        <tr><td>The Optimiser</td><td>E-E-A-T / YMYL focus</td><td><span class="badge b-orange">Phase 1</span></td></tr>
+        <tr><td>The Connector</td><td>Security industry authority links</td><td><span class="badge b-orange">Phase 2</span></td></tr>
+        <tr><td>The Builder</td><td>Secure platform, encrypted forms</td><td><span class="badge b-cyan">Phase 1</span></td></tr>
+        <tr><td>The Librarian</td><td>Risk + operator dual database</td><td><span class="badge b-cyan">Phase 0</span></td></tr>
+        <tr><td>The Analyst</td><td>Lead value by city</td><td><span class="badge b-pink">Phase 3</span></td></tr>
+        <tr><td>The Watchdog</td><td>Site security + GDPR</td><td><span class="badge b-pink">Phase 2</span></td></tr>
+    </table>
+</section>
+
+<div class="divider"></div>
+
+<!-- ORG CHART -->
+<section id="org-chart">
+    <h2>4. Org Chart</h2>
+    <div class="org-chart">
+        <div class="org-label">Gareth (Human Operator)</div>
+        <div class="org-row">
+            <div class="org-node lead">
+                <div class="role" style="color:var(--accent);">Lead</div>
+                <div class="name">The Architect</div>
+                <div class="desc">Planning, vetting standards</div>
+            </div>
+        </div>
+        <div class="org-connector">|</div>
+        <div class="org-label">Department Leads</div>
+        <div class="org-row">
+            <div class="org-node scraper"><div class="role" style="color:var(--green);">Intelligence</div><div class="name">The Spider</div><div class="desc">Industry + risk data</div></div>
+            <div class="org-node writer"><div class="role" style="color:var(--purple);">Content</div><div class="name">The Wordsmith</div><div class="desc">Authority voice</div></div>
+            <div class="org-node seo"><div class="role" style="color:var(--orange);">SEO</div><div class="name">The Optimiser</div><div class="desc">E-E-A-T focus</div></div>
+            <div class="org-node dev"><div class="role" style="color:var(--cyan);">Dev</div><div class="name">The Builder</div><div class="desc">Secure platform</div></div>
+            <div class="org-node qa"><div class="role" style="color:var(--pink);">QA</div><div class="name">The Auditor</div><div class="desc">Legal + liability</div></div>
+        </div>
+        <div class="org-connector">| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |</div>
+        <div class="org-label">Specialist Workers</div>
+        <div class="org-row">
+            <div class="org-node scraper"><div class="role" style="color:var(--green);">Intel</div><div class="name">The Scout</div><div class="desc">Buyer research</div></div>
+            <div class="org-node scraper"><div class="role" style="color:var(--green);">Intel</div><div class="name">The Geographer</div><div class="desc">Risk analyst (star)</div></div>
+            <div class="org-node writer"><div class="role" style="color:var(--purple);">Content</div><div class="name">The Interrogator</div><div class="desc">Risk FAQs</div></div>
+            <div class="org-node writer"><div class="role" style="color:var(--purple);">Content</div><div class="name">The Chameleon</div><div class="desc">Consistency</div></div>
+            <div class="org-node seo"><div class="role" style="color:var(--orange);">SEO</div><div class="name">The Connector</div><div class="desc">Authority links</div></div>
+            <div class="org-node dev"><div class="role" style="color:var(--cyan);">Dev</div><div class="name">The Librarian</div><div class="desc">Risk + operator DB</div></div>
+            <div class="org-node qa"><div class="role" style="color:var(--pink);">Monitor</div><div class="name">The Analyst</div><div class="desc">Lead value</div></div>
+            <div class="org-node qa"><div class="role" style="color:var(--pink);">Monitor</div><div class="name">The Watchdog</div><div class="desc">Site security</div></div>
+        </div>
+    </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- COMPLIANCE -->
+<section id="compliance">
+    <h2>5. Google Compliance &amp; Legal Standards</h2>
+
+    <div class="card" style="border:3px solid var(--red); background:rgba(248,81,73,0.04);">
+        <h4 style="color:var(--red); margin-top:0;">YMYL Classification: Highest Standards Required</h4>
+        <p>Security content is classified as YMYL (Your Money or Your Life) by Google. Content about personal safety is held to the highest E-E-A-T standards. This means:</p>
+        <ol>
+            <li><strong>Author expertise signals:</strong> Pages should reference real security professionals. Author bios with verifiable credentials.</li>
+            <li><strong>Accuracy:</strong> Every claim about firearms laws, licensing, risk levels must be verified against official sources.</li>
+            <li><strong>No safety guarantees:</strong> Never state or imply that hiring security eliminates risk. Language: "reduces risk" / "mitigates exposure" / "provides experienced support".</li>
+            <li><strong>Liability language:</strong> All pages should include appropriate disclaimers. No promise of outcomes.</li>
+            <li><strong>Citations:</strong> Link to FCDO advisories, State Dept pages, OSAC reports for risk data.</li>
+        </ol>
+    </div>
+
+    <h3>Gradual Rollout Plan</h3>
+    <table>
+        <tr><th>Milestone</th><th>Pages Live</th><th>Phase</th><th>Gate</th></tr>
+        <tr><td>Launch</td><td>~100 pages</td><td>Phase 1</td><td>15 P1 cities x 3 silos + risk pages + core pages. All passing YMYL quality bar.</td></tr>
+        <tr><td>Expand</td><td>~400 pages</td><td>Phase 2</td><td>P2 cities + travel safety guides. Legal review passed on first 100 pages.</td></tr>
+        <tr><td>Scale</td><td>~1,200 pages</td><td>Phase 3</td><td>P3 cities + all silos populated + blog running. First client engagements.</td></tr>
+        <tr><td>Full coverage</td><td>~3,000 pages</td><td>Phase 4</td><td>500+ cities covered. Revenue established.</td></tr>
+        <tr><td>Optimise</td><td>~3,500+ pages</td><td>Phase 5-6</td><td>Authority established. Maintenance mode.</td></tr>
+    </table>
+</section>
+
+<div class="divider"></div>
+
+<!-- PHASES -->
+<section id="phase-0">
+    <h2>6. Phase 0: Setup &amp; Intelligence (Weeks 1-3)</h2>
+
+    <div class="card green-left">
+        <div class="label label-green">Workers Active</div>
+        <p>The Architect, The Spider, The Scout, The Geographer, The Librarian</p>
+    </div>
+
+    <table>
+        <tr><th>#</th><th>Task</th><th>Worker</th><th>Depends On</th><th>Output</th><th>Status</th></tr>
+        <tr><td>0.1</td><td>Adapt all 14 worker Souls for security domain (authority voice, legal awareness, no safety guarantees)</td><td>Architect</td><td>-</td><td>14 adapted Souls</td><td><span class="badge b-green">DONE</span></td></tr>
+        <tr><td>0.2</td><td>Define operator vetting standards: minimum training requirements, licensing, insurance, background check process</td><td>Architect</td><td>-</td><td>Vetting framework</td><td><span class="badge b-green">DONE</span></td></tr>
+        <tr><td>0.3</td><td>Scrape FCDO travel advisories for all countries. Extract risk ratings, travel advice, specific threats.</td><td>Spider</td><td>0.1</td><td>FCDO database</td><td><span class="badge b-green">DONE</span></td></tr>
+        <tr><td>0.4</td><td>Scrape US State Dept travel advisories + OSAC crime/security reports for P1 and P2 cities.</td><td>Spider</td><td>0.1</td><td>State Dept + OSAC data</td><td><span class="badge b-green">DONE</span></td></tr>
+        <tr><td>0.5</td><td>Scrape existing security company websites for page structures and service offerings: GardaWorld, Global Guardian, AS Solution, Pinkerton, Control Risks.</td><td>Spider</td><td>0.1</td><td>Competitor analysis</td><td><span class="badge b-green">DONE</span></td></tr>
+        <tr><td>0.6</td><td>Keyword research: security queries per P1 city (15 cities x 5 service types = 75 keyword clusters).</td><td>Scout</td><td>0.1</td><td>Keyword matrix</td><td><span class="badge b-green">DONE</span></td></tr>
+        <tr><td>0.7</td><td>Build city risk database: 15 P1 cities with full risk profiles (crime, terrorism, kidnapping, civil unrest, police reliability, safe/unsafe zones).</td><td>Geographer</td><td>0.3, 0.4</td><td>city_risk_profiles.json</td><td><span class="badge b-green">DONE</span></td></tr>
+        <tr><td>0.8</td><td>Build country security regulation database: firearms laws, security licensing, foreign operator rules for 30 priority countries.</td><td>Geographer</td><td>0.3</td><td>security_regulations.json</td><td><span class="badge b-green">DONE</span></td></tr>
+        <tr><td>0.9</td><td>Design dual database schema: (1) city risk profiles, (2) vetted operator registry.</td><td>Librarian</td><td>0.7, 0.8</td><td>Database schema</td><td><span class="badge b-green">DONE</span></td></tr>
+        <tr><td>0.10</td><td>Gareth answers strategic questions (see section 14)</td><td>Gareth</td><td>-</td><td>Strategic decisions</td><td><span class="badge b-green">DONE</span></td></tr>
+        <tr><td>0.11</td><td>Technology + domain acquisition</td><td>Architect + Builder</td><td>0.10</td><td>Tech stack + domain</td><td><span class="badge b-green">DONE</span></td></tr>
+    </table>
+</section>
+
+<div class="divider"></div>
+
+<section id="phase-1">
+    <h2>7. Phase 1: Foundation &amp; P1 Cities (Weeks 4-8)</h2>
+    <p>Core site, templates, and first 15 P1 cities across 3 primary silos. Target: ~100 pages.</p>
+
+    <div class="card purple-left">
+        <div class="label label-purple">Workers Active</div>
+        <p>All Phase 0 + Wordsmith, Interrogator, Chameleon, Optimiser, Builder, Auditor</p>
+    </div>
+
+    <table>
+        <tr><th>#</th><th>Task</th><th>Worker</th><th>Output</th></tr>
+        <tr><td>1.1</td><td>Build homepage: professional, dark design, trust signals, confidential enquiry CTA</td><td>Builder + Wordsmith</td><td>Homepage</td></tr>
+        <tr><td>1.2</td><td>Core pages: About (vetting process), Our Network, Contact (encrypted form), FAQ, Privacy, T&C</td><td>Builder + Wordsmith</td><td>Core pages</td></tr>
+        <tr><td>1.3</td><td>Build City Page Template (per section 2.3, 11-section layout)</td><td>Builder</td><td>City template</td></tr>
+        <tr><td>1.4</td><td>Build Risk Assessment Template (informational, top-of-funnel)</td><td>Builder</td><td>Risk template</td></tr>
+        <tr><td>1.5</td><td>Write 15 bodyguard hire city pages (P1 cities)</td><td>Wordsmith + pipeline</td><td>15 pages</td></tr>
+        <tr><td>1.6</td><td>Write 15 executive protection city pages (P1 cities)</td><td>Wordsmith + pipeline</td><td>15 pages</td></tr>
+        <tr><td>1.7</td><td>Write 15 security driver city pages (P1 cities)</td><td>Wordsmith + pipeline</td><td>15 pages</td></tr>
+        <tr><td>1.8</td><td>Write 15 risk assessment pages (P1 cities)</td><td>Wordsmith + Geographer</td><td>15 pages</td></tr>
+        <tr><td>1.9</td><td>Write 15 country hub pages (for P1 city countries)</td><td>Wordsmith</td><td>15 pages</td></tr>
+        <tr><td>1.10</td><td>Generate city-specific FAQs for all pages</td><td>Interrogator</td><td>FAQ sets</td></tr>
+        <tr><td>1.11</td><td>Humaniser + authority consistency pass</td><td>Chameleon</td><td>Polished content</td></tr>
+        <tr><td>1.12</td><td>SEO: title, meta, schema (LocalBusiness + Service), E-E-A-T signals</td><td>Optimiser</td><td>SEO-ready</td></tr>
+        <tr><td>1.13</td><td>QA: legal liability review + regulatory accuracy + quality audit</td><td>Auditor</td><td>Approved content</td></tr>
+        <tr><td>1.14</td><td>Deploy ~100 pages, submit sitemap</td><td>Builder</td><td>Site live</td></tr>
+        <tr><td>1.15</td><td>Analytics, GSC, confidential enquiry tracking setup</td><td>Builder</td><td>Tracking live</td></tr>
+    </table>
+
+    <div class="card" style="margin-top:20px; font-family: 'Courier New', monospace; font-size: 0.82rem; line-height: 2; background:var(--surface-2); padding:20px; border-radius:8px;">
+        <span style="color:var(--green);">Geographer</span> → city risk profile + regulations<br>
+        &nbsp;&nbsp;↓<br>
+        <span style="color:var(--purple);">Wordsmith</span> ────────┐ PARALLEL (3 silos per city)<br>
+        <span style="color:var(--purple);">Interrogator</span> ─────┘<br>
+        &nbsp;&nbsp;↓<br>
+        <span style="color:var(--purple);">Chameleon</span> → humanise + authority consistency<br>
+        &nbsp;&nbsp;↓<br>
+        <span style="color:var(--orange);">Optimiser</span> → E-E-A-T SEO<br>
+        &nbsp;&nbsp;↓<br>
+        <span style="color:var(--cyan);">Librarian</span> → ingest<br>
+        &nbsp;&nbsp;↓<br>
+        <span style="color:var(--pink);">Auditor</span> → legal + regulatory + quality<br>
+        &nbsp;&nbsp;↓<br>
+        <span style="color:var(--cyan);">Builder</span> → deploy
+    </div>
+</section>
+
+<div class="divider"></div>
+
+<section id="phase-2">
+    <h2>8. Phase 2: P2 Cities &amp; Guides (Weeks 9-16)</h2>
+    <p>P2 cities across all silos + travel safety guides + security regulation guides. Target: ~400 pages.</p>
+
+    <div class="card orange-left">
+        <div class="label label-orange">Workers Active</div>
+        <p>All 14 workers (Connector and Watchdog join)</p>
+    </div>
+
+    <table>
+        <tr><th>#</th><th>Task</th><th>Worker</th><th>Output</th></tr>
+        <tr><td>2.1</td><td>City risk profiles for 25 P2 cities</td><td>Geographer</td><td>Extended database</td></tr>
+        <tr><td>2.2</td><td>Write P2 city pages: bodyguard (25) + EP (25) + driver (25) + risk assessment (25)</td><td>Full pipeline</td><td>100 pages</td></tr>
+        <tr><td>2.3</td><td>Write 25 country hub pages for P2 countries</td><td>Wordsmith</td><td>25 pages</td></tr>
+        <tr><td>2.4</td><td>Launch event security silo: 15 major conference cities</td><td>Full pipeline</td><td>15 pages</td></tr>
+        <tr><td>2.5</td><td>Write 30 "Travelling safely in [city]" guide pages</td><td>Wordsmith + Geographer</td><td>30 guide pages</td></tr>
+        <tr><td>2.6</td><td>Write 20 "Security regulations in [country]" guide pages</td><td>Wordsmith + Geographer</td><td>20 guide pages</td></tr>
+        <tr><td>2.7</td><td>Build internal link graph: city ↔ country ↔ silo ↔ guides</td><td>Connector</td><td>Link map</td></tr>
+        <tr><td>2.8</td><td>Begin backlink campaign: ASIS, security publications, corporate travel associations</td><td>Connector</td><td>First backlinks</td></tr>
+        <tr><td>2.9</td><td>Launch blog: 8 articles (travel security tips, risk management, case studies)</td><td>Wordsmith + Chameleon</td><td>Blog live</td></tr>
+        <tr><td>2.10</td><td>Full QA + legal review on all 400 pages</td><td>Auditor</td><td>QA report</td></tr>
+        <tr><td>2.11</td><td>Site security audit + monitoring setup</td><td>Watchdog</td><td>Security baseline</td></tr>
+    </table>
+</section>
+
+<div class="divider"></div>
+
+<section id="phase-3">
+    <h2>9. Phase 3: Scale &amp; Authority (Weeks 17-28)</h2>
+    <p>P3 cities. All 5 silos populated. Blog engine. Target: ~1,200 pages.</p>
+
+    <table>
+        <tr><th>#</th><th>Task</th><th>Worker</th><th>Output</th></tr>
+        <tr><td>3.1</td><td>City risk profiles for 200+ P3 cities</td><td>Geographer</td><td>Full city database</td></tr>
+        <tr><td>3.2</td><td>Write P3 city pages across all silos (~500 pages)</td><td>Full pipeline</td><td>500 pages</td></tr>
+        <tr><td>3.3</td><td>Launch residential security silo: 50 expat hub countries</td><td>Full pipeline</td><td>50 pages</td></tr>
+        <tr><td>3.4</td><td>Blog: 2-3 articles/week (industry insights, city risk updates, client case studies)</td><td>Wordsmith + Chameleon</td><td>~30 articles</td></tr>
+        <tr><td>3.5</td><td>First performance review: which cities generate leads</td><td>Analyst</td><td>Performance report</td></tr>
+        <tr><td>3.6</td><td>Content upgrade for underperforming P1 city pages</td><td>Wordsmith + Optimiser</td><td>Upgraded pages</td></tr>
+        <tr><td>3.7</td><td>Operator vetting: begin reaching out to security firms in top 20 cities for partnership</td><td>Architect (Gareth-assisted)</td><td>Operator partnerships</td></tr>
+    </table>
+</section>
+
+<div class="divider"></div>
+
+<section id="phase-4">
+    <h2>10. Phase 4: Full Coverage (Weeks 29-36)</h2>
+    <p>500+ cities. All silos complete. Full guide library. Target: ~3,000 pages.</p>
+
+    <table>
+        <tr><th>#</th><th>Task</th><th>Worker</th><th>Output</th></tr>
+        <tr><td>4.1</td><td>Remaining P4 city pages (~300 cities)</td><td>Full pipeline</td><td>~1,200 pages</td></tr>
+        <tr><td>4.2</td><td>All remaining country hub pages</td><td>Wordsmith</td><td>~60 pages</td></tr>
+        <tr><td>4.3</td><td>Complete travel safety guide library (100+ countries)</td><td>Full pipeline</td><td>100+ pages</td></tr>
+        <tr><td>4.4</td><td>Full internal link rebuild</td><td>Connector</td><td>Complete graph</td></tr>
+        <tr><td>4.5</td><td>Blog reaches 80+ articles</td><td>Wordsmith</td><td>Authority content</td></tr>
+        <tr><td>4.6</td><td>Second performance review + pruning</td><td>Analyst + Architect</td><td>Optimised portfolio</td></tr>
+    </table>
+</section>
+
+<div class="divider"></div>
+
+<section id="phase-5">
+    <h2>11. Phase 5: Optimise &amp; Authority Lock (Weeks 37-42)</h2>
+
+    <table>
+        <tr><th>#</th><th>Task</th><th>Worker</th><th>Output</th></tr>
+        <tr><td>5.1</td><td>Full index coverage audit</td><td>Analyst + Watchdog</td><td>Index report</td></tr>
+        <tr><td>5.2</td><td>Content upgrades for cities ranking 5-20</td><td>Wordsmith + Optimiser</td><td>Upgraded pages</td></tr>
+        <tr><td>5.3</td><td>Add interactive risk map (visual global risk overview)</td><td>Builder</td><td>Interactive tool</td></tr>
+        <tr><td>5.4</td><td>E-E-A-T enhancement: add author bios, expert quotes, certifications page</td><td>Optimiser + Wordsmith</td><td>Authority signals</td></tr>
+        <tr><td>5.5</td><td>Structured data validation across all pages</td><td>Optimiser + Watchdog</td><td>Schema fixes</td></tr>
+        <tr><td>5.6</td><td>Core Web Vitals optimisation</td><td>Builder + Watchdog</td><td>Performance</td></tr>
+        <tr><td>5.7</td><td>Testimonial collection from corporate clients (anonymised)</td><td>Architect</td><td>Social proof</td></tr>
+    </table>
+</section>
+
+<div class="divider"></div>
+
+<section id="phase-6">
+    <h2>12. Phase 6: Dominance &amp; Maintenance (Week 43+)</h2>
+
+    <table>
+        <tr><th>#</th><th>Task</th><th>Worker</th><th>Cadence</th></tr>
+        <tr><td>6.1</td><td>Monthly lead quality and revenue reports</td><td>Analyst</td><td>Monthly</td></tr>
+        <tr><td>6.2</td><td>Monthly competitor monitoring</td><td>Spider</td><td>Monthly</td></tr>
+        <tr><td>6.3</td><td>Weekly blog articles (2/week)</td><td>Wordsmith</td><td>Weekly</td></tr>
+        <tr><td>6.4</td><td>Risk profile updates: quarterly refresh of FCDO/State Dept data</td><td>Geographer + Spider</td><td>Quarterly</td></tr>
+        <tr><td>6.5</td><td>Security regulation updates</td><td>Geographer</td><td>Quarterly</td></tr>
+        <tr><td>6.6</td><td>Algorithm update response</td><td>Scout + Architect</td><td>As needed</td></tr>
+        <tr><td>6.7</td><td>New city pages as demand/risk landscape changes</td><td>Full pipeline</td><td>Monthly</td></tr>
+        <tr><td>6.8</td><td>Backlink maintenance</td><td>Connector</td><td>Ongoing</td></tr>
+        <tr><td>6.9</td><td>Site security scans</td><td>Watchdog</td><td>Weekly</td></tr>
+        <tr><td>6.10</td><td>Consider adjacent services: travel insurance, medical evacuation, crisis management</td><td>Architect</td><td>Year 2 decision</td></tr>
+    </table>
+</section>
+
+<div class="divider"></div>
+
+<!-- GANTT -->
+<section id="gantt">
+    <h2>13. Gantt Timeline: 12-Month View</h2>
+
+    <div class="gantt">
+        <div class="gantt-header">
+            <div>Workstream</div>
+            <div>M1</div><div>M2</div><div>M3</div><div>M4</div><div>M5</div><div>M6</div>
+            <div>M7</div><div>M8</div><div>M9</div><div>M10</div><div>M11</div><div>M12</div>
+        </div>
+        <div class="gantt-row">
+            <div class="task-name">Phase 0: Setup</div>
+            <div><div class="gantt-bar" style="background:var(--accent); width:100%;"></div></div>
+            <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+        </div>
+        <div class="gantt-row">
+            <div class="task-name">Phase 1: P1 Cities</div>
+            <div><div class="gantt-bar" style="background:var(--accent); width:100%; opacity:0.4;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--accent); width:100%;"></div></div>
+            <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+        </div>
+        <div class="gantt-row">
+            <div class="task-name">Phase 2: P2 + Guides</div>
+            <div></div>
+            <div><div class="gantt-bar" style="background:var(--green); width:100%; opacity:0.4;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--green); width:100%;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--green); width:100%;"></div></div>
+            <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+        </div>
+        <div class="gantt-row">
+            <div class="task-name">Phase 3: Scale</div>
+            <div></div><div></div><div></div><div></div>
+            <div><div class="gantt-bar" style="background:var(--purple); width:100%;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--purple); width:100%;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--purple); width:100%;"></div></div>
+            <div></div><div></div><div></div><div></div><div></div>
+        </div>
+        <div class="gantt-row">
+            <div class="task-name">Phase 4: Full Coverage</div>
+            <div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+            <div><div class="gantt-bar" style="background:var(--orange); width:100%;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--orange); width:100%;"></div></div>
+            <div></div><div></div><div></div>
+        </div>
+        <div class="gantt-row">
+            <div class="task-name">Phase 5: Optimise</div>
+            <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+            <div><div class="gantt-bar" style="background:var(--pink); width:100%;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--pink); width:100%;"></div></div>
+            <div></div>
+        </div>
+        <div class="gantt-row">
+            <div class="task-name">Phase 6: Maintain</div>
+            <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+            <div><div class="gantt-bar" style="background:var(--cyan); width:100%; opacity:0.5;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--cyan); width:100%;"></div></div>
+        </div>
+        <div class="gantt-row">
+            <div class="task-name" style="color:var(--text-muted);">Operator Vetting</div>
+            <div></div><div></div><div></div><div></div>
+            <div><div class="gantt-bar" style="background:var(--yellow); width:100%; height:12px; margin-top:6px; opacity:0.5;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--yellow); width:100%; height:12px; margin-top:6px; opacity:0.5;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--yellow); width:100%; height:12px; margin-top:6px; opacity:0.5;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--yellow); width:100%; height:12px; margin-top:6px; opacity:0.5;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--yellow); width:100%; height:12px; margin-top:6px; opacity:0.5;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--yellow); width:100%; height:12px; margin-top:6px; opacity:0.5;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--yellow); width:100%; height:12px; margin-top:6px; opacity:0.5;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--yellow); width:100%; height:12px; margin-top:6px; opacity:0.5;"></div></div>
+        </div>
+        <div class="gantt-row">
+            <div class="task-name" style="color:var(--text-muted);">Blog Content</div>
+            <div></div>
+            <div></div>
+            <div><div class="gantt-bar" style="background:var(--text-muted); width:100%; height:12px; margin-top:6px; opacity:0.4;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--text-muted); width:100%; height:12px; margin-top:6px; opacity:0.4;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--text-muted); width:100%; height:12px; margin-top:6px; opacity:0.4;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--text-muted); width:100%; height:12px; margin-top:6px; opacity:0.4;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--text-muted); width:100%; height:12px; margin-top:6px; opacity:0.4;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--text-muted); width:100%; height:12px; margin-top:6px; opacity:0.4;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--text-muted); width:100%; height:12px; margin-top:6px; opacity:0.4;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--text-muted); width:100%; height:12px; margin-top:6px; opacity:0.4;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--text-muted); width:100%; height:12px; margin-top:6px; opacity:0.4;"></div></div>
+            <div><div class="gantt-bar" style="background:var(--text-muted); width:100%; height:12px; margin-top:6px; opacity:0.4;"></div></div>
+        </div>
+    </div>
+
+    <h3>Milestone Timeline</h3>
+    <div class="timeline">
+        <div class="tl-item phase-1">
+            <div class="tl-phase p1">Month 2</div>
+            <div class="tl-body">
+                <div class="tl-title">100 pages live (P1 cities)</div>
+                <p>15 cities x 3 silos + risk + country hubs. Clean, authoritative site live.</p>
+                <div class="tl-meta"><span>15 cities</span><span>3 silos</span><span>Enquiry form live</span></div>
+            </div>
+        </div>
+        <div class="tl-item phase-2">
+            <div class="tl-phase p2">Month 4</div>
+            <div class="tl-body">
+                <div class="tl-title">400 pages live (P2 cities + guides)</div>
+                <p>40 cities covered. Travel safety guides live. Blog running.</p>
+                <div class="tl-meta"><span>40 cities</span><span>4 silos</span><span>First backlinks</span></div>
+            </div>
+        </div>
+        <div class="tl-item phase-3">
+            <div class="tl-phase p3">Month 7</div>
+            <div class="tl-body">
+                <div class="tl-title">1,200 pages live</div>
+                <p>200+ cities. Operator partnerships started. First client engagements.</p>
+                <div class="tl-meta"><span>200+ cities</span><span>5 silos</span><span>First revenue</span></div>
+            </div>
+        </div>
+        <div class="tl-item phase-4">
+            <div class="tl-phase p4">Month 9</div>
+            <div class="tl-body">
+                <div class="tl-title">3,000 pages (full coverage)</div>
+                <p>500+ cities globally. Revenue established. Authority growing.</p>
+                <div class="tl-meta"><span>500+ cities</span><span>Full global coverage</span></div>
+            </div>
+        </div>
+        <div class="tl-item phase-5">
+            <div class="tl-phase p5">Month 11</div>
+            <div class="tl-body">
+                <div class="tl-title">3,500+ pages, optimised</div>
+                <p>Authority established. Interactive risk map. Maintenance mode.</p>
+                <div class="tl-meta"><span>Maintenance mode</span><span>Year 2 expansion</span></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- QUESTIONS -->
+<section id="questions">
+    <h2>14. Strategic Questions for Gareth</h2>
+
+    <table>
+        <tr><th>#</th><th>Question</th><th>Context</th><th>Status</th></tr>
+        <tr><td>1</td><td>Business name and domain?</td><td>Must convey authority and trust. Examples: "Global Security Hire", "Shield International", "Executive Protection Network". Avoid anything aggressive ("Tactical" / "Combat"). Think: private bank, not PMC.</td><td><span class="badge b-blue">DEFERRED</span> Decide later. Using [Brand] placeholder.</td></tr>
+        <tr><td>2</td><td>Marketplace or direct operator?</td><td>Will you: (a) act as a matching platform (client → vetted local operator, you take commission), or (b) white-label local operators under your brand? Marketplace is lower risk but less control. White-label requires more trust from operators.</td><td><span class="badge b-green">ANSWERED</span> White-label with margin. Site is informational + lead capture. When a lead comes in, find matching operator and bill client as though we provide the service directly.</td></tr>
+        <tr><td>3</td><td>Do you have security industry contacts?</td><td>Knowing ex-military or security professionals would accelerate operator vetting. Do you have any contacts in the private security world?</td><td><span class="badge b-green">ANSWERED</span> Yes, has industry contacts.</td></tr>
+        <tr><td>4</td><td>SIA licensing (UK) as a baseline?</td><td>The UK's Security Industry Authority (SIA) license is a well-recognised standard. Requiring SIA or equivalent for all operators creates a strong trust signal. Worth mandating?</td><td><span class="badge b-blue">DEFERRED</span> Decide later. Use "locally licensed and vetted" in copy for now.</td></tr>
+        <tr><td>5</td><td>Armed or unarmed focus?</td><td>Armed security is legal in some countries (Colombia, Nigeria, Brazil) and adds value for high-risk environments. But it increases legal complexity and liability. Start unarmed-only and add armed later?</td><td><span class="badge b-green">ANSWERED</span> Client-facing site covers both armed and unarmed as market-appropriate per city/country. No operator sign-up pages. 100% client-facing.</td></tr>
+        <tr><td>6</td><td>Client confidentiality: how far?</td><td>Corporate and HNWI clients expect total discretion. Do you want NDA templates, encrypted communications, no client data stored on site? This is a USP vs. casual competitors.</td><td><span class="badge b-green">ANSWERED</span> Maximum discretion. NDA templates, PGP-encrypted enquiry forms, no client data stored on the website.</td></tr>
+        <tr><td>7</td><td>Pricing: transparent or quote-only?</td><td>Showing price ranges ("bodyguard in Lagos: $1,500-$3,000/day") could attract searchers but might scare off some clients. Quote-only preserves margin flexibility. Most competitors are quote-only.</td><td><span class="badge b-green">ANSWERED</span> Quote-only. Zero prices on the website.</td></tr>
+        <tr><td>8</td><td>Insurance and liability?</td><td>If a client is harmed despite having a bodyguard you recommended, what is your liability? Need professional indemnity insurance at minimum. Have you researched E&O insurance for security referral services?</td><td><span class="badge b-yellow">PENDING</span> Not yet arranged. Needs research. Do not reference specific coverage in copy.</td></tr>
+        <tr><td>9</td><td>Target market: UK/US/both/global?</td><td>The site will rank globally, but are you targeting UK-based businesses travelling abroad, US corporations, or both? Language and pricing currency follow from this.</td><td><span class="badge b-green">ANSWERED</span> Global. Any client origin, any destination. No geographic restriction. British English. No currency displayed (quote-only).</td></tr>
+        <tr><td>10</td><td>Content authorship: real security professional?</td><td>For YMYL content, Google rewards real expertise. Having a named security consultant (even part-time) as "Head of Security Intelligence" or "Author" on pages would boost E-E-A-T substantially. Do you know someone who could fill this role?</td><td><span class="badge b-green">ANSWERED</span> Yes, has someone. Using [Author Name] placeholder until confirmed.</td></tr>
+    </table>
+</section>
+
+<div class="divider"></div>
+
+<section>
+    <h2>15. What Happens Next</h2>
+    <div class="card green-left">
+        <div class="label label-green">Immediate Next Steps</div>
+        <ol>
+            <li><strong>Gareth answers the 10 strategic questions</strong></li>
+            <li><strong>Task 0.1:</strong> Adapt worker Soul files for security domain</li>
+            <li><strong>Task 0.2:</strong> Define operator vetting standards</li>
+            <li><strong>Task 0.3-0.5:</strong> Spider scrapes FCDO, State Dept, OSAC, and competitor security firms</li>
+            <li><strong>Task 0.6:</strong> Scout runs keyword research for security queries per P1 city</li>
+            <li><strong>Task 0.7:</strong> Geographer builds city risk profiles for 15 P1 cities</li>
+            <li><strong>Task 0.11:</strong> Secure domain and choose tech stack</li>
+        </ol>
+        <p style="margin-top:16px;">This is <strong>Build #3 of 3</strong>. Security/Bodyguard Hire is third because it has the highest value per engagement ($1K-10K+/day) but needs the strongest trust signals and operator network, which take time to build. By the time this build launches, the team has experience from Funeral Repatriation (#1) and Pet Transport (#2).</p>
+    </div>
+</section>
+
+<!-- ============================================================ -->
+<!-- SECTION: EXECUTION STAGES & CAPABILITY ASSESSMENT -->
+<!-- ============================================================ -->
+<section id="execution-stages">
+    <h2>16. Execution Stages &amp; Capability Assessment</h2>
+
+    <div class="card" style="border:2px solid var(--cyan); background:rgba(57,210,192,0.04);">
+        <h4 style="color:var(--cyan); margin-top:0;">Assessment: What This Chat Can Deliver</h4>
+        <table>
+            <tr><th>Capability</th><th>Rating</th><th>Notes</th></tr>
+            <tr><td>Soul file adaptation (14 workers)</td><td><span class="badge b-green">Full</span></td><td>All 14 files, rewritten for security domain. High quality per file.</td></tr>
+            <tr><td>Vetting framework design</td><td><span class="badge b-green">Full</span></td><td>Can define standards, checklists, and processes as structured documents.</td></tr>
+            <tr><td>Competitor site analysis</td><td><span class="badge b-green">Full</span></td><td>Can fetch and analyze live competitor websites for structure/patterns.</td></tr>
+            <tr><td>Travel advisory compilation</td><td><span class="badge b-orange">Partial</span></td><td>Can fetch FCDO/State Dept pages. Data must be verified by Gareth for currency.</td></tr>
+            <tr><td>Keyword research frameworks</td><td><span class="badge b-green">Full</span></td><td>Build keyword matrices, query pattern maps. Cannot access live SEO tools (Ahrefs, SEMrush).</td></tr>
+            <tr><td>City risk profiles (JSON)</td><td><span class="badge b-green">Full</span></td><td>Structured data from knowledge + live sources. Gareth verifies before publish.</td></tr>
+            <tr><td>Security regulation database</td><td><span class="badge b-orange">Partial</span></td><td>Strong baseline. Firearms/licensing laws change; legal review needed before publish.</td></tr>
+            <tr><td>Database schema design</td><td><span class="badge b-green">Full</span></td><td>JSON schema, data models, relationship mapping.</td></tr>
+            <tr><td>HTML templates (homepage, city, risk)</td><td><span class="badge b-green">Full</span></td><td>Professional, dark-themed, YMYL-ready HTML templates.</td></tr>
+            <tr><td>City page content writing</td><td><span class="badge b-green">Full</span></td><td>Authority voice, 11-section layout per page, unique per city. Best at 5 cities per batch.</td></tr>
+            <tr><td>FAQ generation</td><td><span class="badge b-green">Full</span></td><td>City-specific, regulation-aware, Schema.org ready.</td></tr>
+            <tr><td>SEO optimization (meta, schema, structure)</td><td><span class="badge b-green">Full</span></td><td>Title formulas, JSON-LD, Open Graph, E-E-A-T signals.</td></tr>
+            <tr><td>Humaniser/QA pass</td><td><span class="badge b-green">Full</span></td><td>Applies all 24 anti-patterns, authority consistency, legal liability review.</td></tr>
+            <tr><td>Live deployment</td><td><span class="badge b-red">Cannot</span></td><td>Cannot deploy to hosting. Can prepare all deploy-ready files.</td></tr>
+            <tr><td>Domain acquisition</td><td><span class="badge b-red">Cannot</span></td><td>Gareth action.</td></tr>
+            <tr><td>Real analytics/GSC setup</td><td><span class="badge b-red">Cannot</span></td><td>Can generate tracking code snippets. Gareth connects accounts.</td></tr>
+            <tr><td>Live SEO tool data (Ahrefs, etc.)</td><td><span class="badge b-red">Cannot</span></td><td>Can structure the research framework. Gareth runs actual queries.</td></tr>
+        </table>
+    </div>
+
+    <h3>Quality-First Batch Sizes</h3>
+    <div class="card">
+        <p>Each "execute next stage" prompt completes one stage below. Stages are sized to maintain quality without pushing limits. Content stages cap at <strong>5 cities per batch</strong> across 3 silos (15 pages) to keep each page genuinely unique and city-specific.</p>
+        <p>Estimated: <strong>14 stages for Phases 0-1</strong>. Phases 2-6 will be chunked when we reach them.</p>
+    </div>
+
+    <h3>Phase 0 Stages (6 stages)</h3>
+    <table>
+        <tr><th>Stage</th><th>Tasks</th><th>Description</th><th>Outputs</th><th>Status</th></tr>
+        <tr>
+            <td><span class="badge b-blue">0A</span></td>
+            <td>0.1 + 0.2</td>
+            <td>Adapt all 14 Soul files for security domain. Define operator vetting framework.</td>
+            <td>14 adapted .md files + vetting_framework.md</td>
+            <td><span class="badge b-green">DONE</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-blue">0B</span></td>
+            <td>0.5</td>
+            <td>Competitor analysis: scrape/analyze GardaWorld, Global Guardian, AS Solution, Pinkerton, Control Risks for page structures, services, and content patterns.</td>
+            <td>competitor_analysis.html or .json</td>
+            <td><span class="badge b-green">DONE</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-blue">0C</span></td>
+            <td>0.3 + 0.4</td>
+            <td>Compile FCDO travel advisories + US State Dept/OSAC data for all P1 and P2 countries.</td>
+            <td>fcdo_advisories.json + state_dept_data.json</td>
+            <td><span class="badge b-green">DONE</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-blue">0D</span></td>
+            <td>0.6</td>
+            <td>Keyword research matrix: 15 P1 cities x 5 service types = 75 keyword clusters with volume estimates, intent, and SERP context.</td>
+            <td>keyword_matrix.json + keyword_report.html</td>
+            <td><span class="badge b-green">DONE</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-blue">0E</span></td>
+            <td>0.7 + 0.8</td>
+            <td>Build city risk profiles for 15 P1 cities (crime, terrorism, kidnapping, civil unrest, police, safe/unsafe zones) + security regulation database for their countries (firearms, licensing, foreign operators).</td>
+            <td>city_risk_profiles.json + security_regulations.json</td>
+            <td><span class="badge b-green">DONE</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-blue">0F</span></td>
+            <td>0.9 + 0.11</td>
+            <td>Design dual database schema (risk profiles + operator registry). Tech stack recommendation.</td>
+            <td>database_schema.json + tech_stack.md</td>
+            <td><span class="badge b-green">DONE</span></td>
+        </tr>
+    </table>
+
+    <h3>Phase 1 Stages (8 stages)</h3>
+    <table>
+        <tr><th>Stage</th><th>Tasks</th><th>Description</th><th>Outputs</th><th>Status</th></tr>
+        <tr>
+            <td><span class="badge b-purple">1A</span></td>
+            <td>1.1 + 1.2</td>
+            <td>Build homepage (dark, professional, trust signals) + core pages (About/vetting, Network, Contact, FAQ, Privacy, T&amp;C).</td>
+            <td>7-8 HTML files</td>
+            <td><span class="badge b-green">DONE</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-purple">1B</span></td>
+            <td>1.3 + 1.4</td>
+            <td>Build city page template (11-section layout) + risk assessment template. Both as reusable HTML templates with placeholder variables.</td>
+            <td>2 template files</td>
+            <td><span class="badge b-green">DONE</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-purple">1C</span></td>
+            <td>1.5-1.7 (batch 1)</td>
+            <td>P1 cities batch 1: <strong>Lagos, Nairobi, Johannesburg, Bogota, Mexico City</strong> across bodyguard + EP + security driver silos (15 pages).</td>
+            <td>15 city page HTML files</td>
+            <td><span class="badge b-green">DONE</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-purple">1D</span></td>
+            <td>1.5-1.7 (batch 2)</td>
+            <td>P1 cities batch 2: <strong>Istanbul, Riyadh, Dubai, Mumbai, Moscow</strong> across 3 silos (15 pages).</td>
+            <td>15 city page HTML files</td>
+            <td><span class="badge b-green">DONE</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-purple">1E</span></td>
+            <td>1.5-1.7 (batch 3)</td>
+            <td>P1 cities batch 3: <strong>Sao Paulo, Manila, Karachi, Bangkok, Jakarta</strong> across 3 silos (15 pages).</td>
+            <td>15 city page HTML files</td>
+            <td><span class="badge b-green">DONE</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-purple">1F</span></td>
+            <td>1.8 + 1.9</td>
+            <td>Write 15 risk assessment pages (P1 cities) + 15 country hub pages (for P1 city countries).</td>
+            <td>30 HTML files</td>
+            <td><span class="badge b-green">DONE</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-purple">1G</span></td>
+            <td>1.10 + 1.11 + 1.12</td>
+            <td>Generate city-specific FAQs for all pages. Run humaniser + authority consistency pass. Apply SEO (titles, meta, schema, E-E-A-T signals).</td>
+            <td>All pages updated with FAQ, humanised, SEO-optimised</td>
+            <td><span class="badge b-green">DONE</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-purple">1H</span></td>
+            <td>1.13 + 1.14 + 1.15</td>
+            <td>QA: legal liability review, regulatory accuracy audit. Prepare deployment files, sitemap, analytics/GSC snippets.</td>
+            <td>QA report + deploy-ready package</td>
+            <td><span class="badge b-green">DONE</span></td>
+        </tr>
+    </table>
+
+    <h3>Phase 2 Stages (chunked — executing now)</h3>
+    <table>
+        <tr><th>Stage</th><th>Tasks</th><th>Description</th><th>Outputs</th><th>Status</th></tr>
+        <tr>
+            <td><span class="badge b-orange">2A</span></td>
+            <td>2.1 (partial) + 2.2 (batch 1)</td>
+            <td>P2 risk profiles JSON created. First batch of P2 city pages: <strong>London, New York, Paris, Berlin, Tokyo</strong>. One city page per city covering close protection, EP, security drivers, and all services.</td>
+            <td>5 city .md files in content/cities/</td>
+            <td><span class="badge b-green">DONE</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-orange">2B</span></td>
+            <td>2.2 (batch 2)</td>
+            <td>P2 city pages batch 2: <strong>Hong Kong, Singapore, Sydney, Doha, Kuwait City</strong> across all services.</td>
+            <td>5 city .md files</td>
+            <td><span class="badge b-green">DONE</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-orange">2C</span></td>
+            <td>2.2 (batch 3)</td>
+            <td>P2 city pages batch 3: <strong>Abu Dhabi, Cape Town, Accra, Dar es Salaam, Addis Ababa</strong> (plus Kampala, Beirut, Cairo, Kyiv from previous session). Cape Town + Addis Ababa built 21 Apr 2026. Accra + Dar es Salaam content upgraded 21 Apr 2026 (full city-specific rewrite). Build: 98 pages. Zero errors. Deployed to closeprotectionhire.surge.sh.</td>
+            <td>9 city .md files</td>
+            <td><span class="badge b-green">DONE</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-orange">2D</span></td>
+            <td>2.2 (batch 4) — high-risk cities</td>
+            <td>P2 high-risk city pages: <strong>Lima, Caracas, Kabul, Kathmandu</strong>. Built 21 Apr 2026. Buenos Aires, Santiago, Beijing, Shanghai deferred to 2H.</td>
+            <td>4 city .md files</td>
+            <td><span class="badge b-green">DONE</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-orange">2E</span></td>
+            <td>2.2 (batch 5)</td>
+            <td>P2 city pages batch 5: <strong>Delhi, Bangalore, Tel Aviv, Casablanca</strong>. Built 21 Apr 2026. 96 pages total. Note: Cairo built in 2C.</td>
+            <td>4 city .md files</td>
+            <td><span class="badge b-green">DONE</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-orange">2F</span></td>
+            <td>2.3</td>
+            <td>Country hub pages for P2 countries: UK, USA, France, Germany, Japan, Hong Kong/China, Singapore, Australia, Qatar, Kuwait, UAE (Abu Dhabi addition), South Africa, Ghana, Tanzania, Ethiopia, Peru, Argentina, Chile, China, India, Israel, Egypt, Morocco. Built 22 Apr 2026 via generate_p2_country_hubs.py. 21 country files written. Hugo build: 125 pages.</td>
+            <td>21 country hub .md files</td>
+            <td><span class="badge b-green">DONE</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-orange">2G</span></td>
+            <td>2.4</td>
+            <td>Event security silo: 16 major conference cities. New layout: site/layouts/event-security/single.html. New section: site/content/event-security/. Built 22 Apr 2026 via generate_event_security_pages.py. Hugo build: 143 pages, 0 errors. Deployed to closeprotectionhire.surge.sh.</td>
+            <td>16 event-security city .md files + layout + _index.md</td>
+            <td><span class="badge b-green">DONE</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-orange">2H</span></td>
+            <td>2.5 (batch 1)</td>
+            <td>Travel safety guides batch 1: 15 city-level "Security Briefing: [City]" informational pages.</td>
+            <td>15 guide pages</td>
+            <td><span class="badge b-cyan">TODO</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-orange">2I</span></td>
+            <td>2.5 (batch 2) + 2.6</td>
+            <td>Travel safety guides batch 2 (15 pages) + Security regulation guides for 20 countries.</td>
+            <td>35 guide pages</td>
+            <td><span class="badge b-cyan">TODO</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-orange">2J</span></td>
+            <td>2.7 + 2.8</td>
+            <td>Internal link graph rebuild (city to country to silo to guide). Backlink strategy document.</td>
+            <td>Updated nav/internal links + backlink plan</td>
+            <td><span class="badge b-cyan">TODO</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-orange">2K</span></td>
+            <td>2.9</td>
+            <td>Blog launch: 8 articles covering travel security tips, risk management, case study formats, and city-specific intelligence.</td>
+            <td>8 blog post .md files</td>
+            <td><span class="badge b-cyan">TODO</span></td>
+        </tr>
+        <tr>
+            <td><span class="badge b-orange">2L</span></td>
+            <td>2.10 + 2.11</td>
+            <td>QA + legal review on all Phase 2 pages. Site security audit and monitoring setup documentation.</td>
+            <td>QA report + security baseline doc</td>
+            <td><span class="badge b-cyan">TODO</span></td>
+        </tr>
+    </table>
+
+    <h3>Phases 3-6 (chunked at execution time)</h3>
+    <div class="card">
+        <p>Phases 3-6 will be broken into execution stages when we reach them. High-level estimates:</p>
+        <table>
+            <tr><th>Phase</th><th>Estimated Stages</th><th>Rationale</th></tr>
+            <tr><td>Phase 2 (P2 cities + guides)</td><td>12 stages (defined above)</td><td>25 cities x all services, 30 travel guides, 20 regulation guides, blog launch, backlinks</td></tr>
+            <tr><td>Phase 3 (scale)</td><td>~20-25 stages</td><td>200+ cities, residential silo, 30 blog articles, operator outreach</td></tr>
+            <tr><td>Phase 4 (full coverage)</td><td>~15-20 stages</td><td>300 remaining cities, guide library, blog at 80+</td></tr>
+            <tr><td>Phase 5 (optimise)</td><td>~5-8 stages</td><td>Upgrades, risk map, E-E-A-T, CWV, structured data</td></tr>
+            <tr><td>Phase 6 (maintenance)</td><td>Ongoing</td><td>Monthly/weekly cadence tasks</td></tr>
+        </table>
+    </div>
+
+    <h3>Execution Protocol</h3>
+    <div class="card accent-left">
+        <ol>
+            <li><strong>Gareth says "execute next stage"</strong> to advance.</li>
+            <li>The chat completes the full stage, creates all output files in the workspace.</li>
+            <li>The chat updates this plan: marks the stage DONE, advances the next stage.</li>
+            <li>If a stage has a dependency on Gareth input (strategic questions, data verification), the chat will flag it and pause.</li>
+            <li>Quality over speed. If a stage needs to be split mid-execution, the chat will say so.</li>
+        </ol>
+    </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ============================================================ -->
+<!-- SECTION: SEO & LLM OPTIMIZATION PLAN -->
+<!-- ============================================================ -->
+<section id="seo-llm-plan">
+    <h2>17. SEO &amp; LLM Optimization Plan (Parallel Workstream)</h2>
+
+    <div class="card" style="border:2px solid var(--yellow); background:rgba(227,179,65,0.04);">
+        <h4 style="color:var(--yellow); margin-top:0;">Why This Runs in Parallel</h4>
+        <p>The original build plan treats SEO as a stage within each phase (task 1.12, 5.2-5.6). That is not enough. SEO and LLM optimization must run continuously from the moment Phase 1 pages go live. While Phase 2 content is being built, Phase 1 pages should already be indexed, ranking, and being refined. Every week a live page sits without monitoring is a week of lost ranking signal.</p>
+        <p>LLM ranking (Generative Engine Optimization / GEO) is entirely absent from the original plan. As of 2026, a significant and growing share of security research queries are answered by ChatGPT, Perplexity, Google AI Overviews, and Gemini. If the site is not optimised for LLM citation, it misses an entire acquisition channel.</p>
+        <p><strong>Workers responsible:</strong> The Optimiser (on-page SEO + LLM structure), The Scout (monitoring + intelligence), The Connector (authority signals + backlinks).</p>
+    </div>
+
+    <!-- 17.1 LLM RANKING STRATEGY -->
+    <h3>17.1 LLM Ranking Strategy (Generative Engine Optimization)</h3>
+
+    <div class="card purple-left">
+        <div class="label label-purple">What LLMs Need to Cite Your Content</div>
+        <p>LLMs (ChatGPT, Perplexity, Gemini, Claude) cite sources when they find content that is: (1) authoritative and well-sourced, (2) structured clearly enough to extract clean answers, (3) unique data not available elsewhere, and (4) consistently entity-rich. Security content is ideal for LLM citation because users ask specific questions ("Can I hire an armed bodyguard in Nigeria?") and expect factual, sourced answers.</p>
+    </div>
+
+    <table>
+        <tr><th>LLM Optimization Technique</th><th>Implementation</th><th>Worker</th><th>Apply From</th></tr>
+        <tr>
+            <td><strong>Definitive Answer Format</strong></td>
+            <td>Every FAQ uses "Question > Direct 1-sentence answer > Supporting detail with named source" pattern. LLMs extract the first sentence as the citation. No vague lead-ins.</td>
+            <td>Interrogator + Optimiser</td>
+            <td><span class="badge b-purple">Phase 1 (retroactive)</span></td>
+        </tr>
+        <tr>
+            <td><strong>Entity-Rich Content</strong></td>
+            <td>Every city page explicitly names: city, country, service type, local licensing body, relevant government advisory source, cost context. Entities must appear in structured, parseable patterns, not buried in prose.</td>
+            <td>Wordsmith + Optimiser</td>
+            <td><span class="badge b-purple">Phase 1 (retroactive)</span></td>
+        </tr>
+        <tr>
+            <td><strong>Unique Data Tables</strong></td>
+            <td>Create comparison tables LLMs cannot find elsewhere: risk rating vs service availability per city, licensing requirements comparison across countries, typical cost ranges by city tier. Tables are highly parseable by LLMs.</td>
+            <td>Geographer + Optimiser</td>
+            <td><span class="badge b-green">Phase 2</span></td>
+        </tr>
+        <tr>
+            <td><strong>Source Chain Authority</strong></td>
+            <td>Cite FCDO, US State Dept, OSAC, SIA by name with dates. LLMs already trust these sources. Content that references them inherits citation authority. Every factual claim gets a named, dated source.</td>
+            <td>Wordsmith + Auditor</td>
+            <td><span class="badge b-purple">Phase 1 (already active)</span></td>
+        </tr>
+        <tr>
+            <td><strong>Conversational Query Optimization</strong></td>
+            <td>Optimise for natural language questions: "Where can I hire a bodyguard in Lagos?", "Do I need security in Bogota?", "Can bodyguards carry guns in Nigeria?". These are how people prompt LLMs. H2s and FAQ questions should mirror these patterns.</td>
+            <td>Interrogator + Scout</td>
+            <td><span class="badge b-green">Phase 2</span></td>
+        </tr>
+        <tr>
+            <td><strong>Topical Authority Depth</strong></td>
+            <td>For each city, cover every sub-angle: regulations, risk profile, cost, what to expect, traveller tips, FAQ. LLMs prefer citing sites that cover a topic exhaustively over sites that mention it briefly. The 11-section city page structure already supports this.</td>
+            <td>Wordsmith + Geographer</td>
+            <td><span class="badge b-purple">Phase 1 (already active)</span></td>
+        </tr>
+        <tr>
+            <td><strong>Brand Entity Building</strong></td>
+            <td>Consistent brand mentions across all pages with consistent entity description. Schema.org Organization markup site-wide. "About" page with verifiable credentials. Build a knowledge graph entity that LLMs associate with "global security services".</td>
+            <td>Optimiser + Builder</td>
+            <td><span class="badge b-green">Phase 2</span></td>
+        </tr>
+        <tr>
+            <td><strong>Structured Data for LLM Parsing</strong></td>
+            <td>Beyond Schema.org: use definition lists for regulations, consistent table formats for comparisons, bullet-point lists for requirements. LLMs parse structured HTML far better than long prose paragraphs.</td>
+            <td>Optimiser + Builder</td>
+            <td><span class="badge b-purple">Phase 1 (retroactive)</span></td>
+        </tr>
+        <tr>
+            <td><strong>LLM Citation Monitoring</strong></td>
+            <td>Weekly: search target queries in ChatGPT, Perplexity, Google AI Overviews. Document: (1) who gets cited, (2) what content format gets cited, (3) whether our pages appear. Track over time.</td>
+            <td>Scout</td>
+            <td><span class="badge b-green">Phase 2 (ongoing)</span></td>
+        </tr>
+    </table>
+
+    <!-- 17.2 ONGOING SEO WORKSTREAM -->
+    <h3>17.2 Ongoing SEO Workstream (Runs Parallel to Every Phase)</h3>
+
+    <div class="card orange-left">
+        <div class="label label-orange">Principle</div>
+        <p>Every page that goes live enters the SEO pipeline immediately. While the content team builds Phase N+1, the SEO team monitors, refines, and optimises Phase N pages. No page sits unmonitored for more than 2 weeks after deployment.</p>
+    </div>
+
+    <h4>Weekly SEO Cadence (starts when Phase 1 pages are live)</h4>
+    <table>
+        <tr><th>Day</th><th>Task</th><th>Worker</th><th>Output</th></tr>
+        <tr><td>Monday</td><td>GSC check: impressions, clicks, CTR, average position for all live pages. Flag any pages not indexed.</td><td>Scout</td><td>Weekly GSC snapshot</td></tr>
+        <tr><td>Monday</td><td>Check for Google algorithm updates (Search Central blog, SEO news). Assess YMYL impact if any.</td><td>Scout</td><td>Algorithm alert (if needed)</td></tr>
+        <tr><td>Wednesday</td><td>LLM citation check: test 5 target queries in ChatGPT + Perplexity. Document who gets cited.</td><td>Scout</td><td>LLM citation log</td></tr>
+        <tr><td>Wednesday</td><td>Content refresh: update 2-3 underperforming pages (thin content, missing sections, weak FAQs).</td><td>Optimiser + Wordsmith</td><td>Updated pages</td></tr>
+        <tr><td>Friday</td><td>Internal link check: verify new pages are linked from existing pages. No orphans.</td><td>Connector</td><td>Link graph update</td></tr>
+        <tr><td>Friday</td><td>Backlink outreach: 3-5 prospects contacted per week (ASIS, security publications, travel risk platforms).</td><td>Connector</td><td>Outreach log</td></tr>
+    </table>
+
+    <h4>Monthly SEO Cadence</h4>
+    <table>
+        <tr><th>Task</th><th>Worker</th><th>Output</th></tr>
+        <tr><td>Full ranking report: all target keywords, current positions, movement since last month.</td><td>Scout</td><td>Monthly ranking report</td></tr>
+        <tr><td>Competitor ranking snapshot: check what competitors rank for, any new entrants.</td><td>Scout + Spider</td><td>Competitor intel briefing</td></tr>
+        <tr><td>LLM citation report: which queries cite us, which cite competitors, trend over time.</td><td>Scout</td><td>LLM citation report</td></tr>
+        <tr><td>Technical SEO audit: CWV scores, crawl errors, sitemap accuracy, mobile usability.</td><td>Optimiser + Watchdog</td><td>Technical audit report</td></tr>
+        <tr><td>Schema validation: test 10 random pages in Google Rich Results Test. Fix any issues.</td><td>Optimiser</td><td>Schema audit</td></tr>
+        <tr><td>Content gap analysis: keywords competitors rank for that we don't. New content opportunities.</td><td>Scout + Optimiser</td><td>Gap report + recommendations</td></tr>
+        <tr><td>Backlink profile review: new links acquired, lost links, competitor backlink comparison.</td><td>Connector</td><td>Backlink report</td></tr>
+    </table>
+
+    <h4>Quarterly SEO Cadence</h4>
+    <table>
+        <tr><th>Task</th><th>Worker</th><th>Output</th></tr>
+        <tr><td>Full site SEO audit: every page checked against on-page checklist. Title/meta uniqueness verified.</td><td>Optimiser</td><td>Sitewide audit report</td></tr>
+        <tr><td>E-E-A-T enhancement review: author bios updated, new certifications added, trust signals refreshed.</td><td>Optimiser + Wordsmith</td><td>E-E-A-T update</td></tr>
+        <tr><td>Risk data refresh: FCDO/State Dept advisories updated, city risk profiles current.</td><td>Geographer + Spider</td><td>Updated risk data</td></tr>
+        <tr><td>LLM strategy review: are we getting cited? What format changes improve citation rate?</td><td>Scout + Optimiser</td><td>LLM strategy update</td></tr>
+        <tr><td>Keyword matrix refresh: new volume data, new keyword opportunities from GSC query data.</td><td>Scout</td><td>Updated keyword matrix</td></tr>
+    </table>
+
+    <!-- 17.3 LLM OPTIMIZATION TASKS BY PHASE -->
+    <h3>17.3 LLM Optimization Tasks Woven Into Each Phase</h3>
+
+    <table>
+        <tr><th>Phase</th><th>LLM-Specific Tasks</th><th>SEO-Specific Tasks (Parallel)</th></tr>
+        <tr>
+            <td><span class="badge b-purple">Phase 1 (Retroactive)</span></td>
+            <td>
+                <ul>
+                    <li>Audit all 100 live pages for Definitive Answer Format in FAQs</li>
+                    <li>Add entity-rich summary paragraphs to each city page (first 100 words must contain: city, country, service, licensing body)</li>
+                    <li>Restructure regulation sections as definition lists, not prose</li>
+                    <li>Add comparison tables where data exists (e.g. "armed vs unarmed EP in [city]")</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>GSC baseline: confirm all 100 pages indexed</li>
+                    <li>First ranking snapshot for 75 keyword clusters</li>
+                    <li>Fix any indexing issues (noindex, crawl blocks, thin content)</li>
+                    <li>Submit updated sitemap after any content changes</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><span class="badge b-green">Phase 2</span></td>
+            <td>
+                <ul>
+                    <li>Build "Security Regulations Comparison" table page (all P1+P2 countries in one table). High LLM citation value.</li>
+                    <li>Build "City Risk Comparison" table page. LLMs love comparative data.</li>
+                    <li>Conversational query audit: ensure H2s and FAQs match natural language question patterns</li>
+                    <li>Begin LLM citation monitoring (weekly Wednesday check)</li>
+                    <li>Organization schema deployed site-wide for brand entity</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Full internal link graph built (Connector)</li>
+                    <li>First backlink campaign launched</li>
+                    <li>Blog posts optimised for featured snippets and AI Overviews</li>
+                    <li>Monthly ranking reports begin</li>
+                    <li>Content upgrades on Phase 1 pages based on ranking data</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><span class="badge b-purple">Phase 3</span></td>
+            <td>
+                <ul>
+                    <li>Build "Global Security Hiring Guide" long-form page (5,000+ words). Designed as the definitive LLM source for "how to hire a bodyguard abroad"</li>
+                    <li>Build region-specific comparison pages (e.g. "Security in West Africa: Lagos vs Accra vs Abuja")</li>
+                    <li>Monthly LLM citation reports: identify which content formats get cited most, double down</li>
+                    <li>Add FAQ schema to blog posts (not just city pages)</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Weekly GSC monitoring active</li>
+                    <li>Content upgrades for pages ranking 5-20 (push to top 3)</li>
+                    <li>Backlink campaign scaling: 10+ prospects/week</li>
+                    <li>First performance review (Analyst): which cities generate leads</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><span class="badge b-orange">Phase 4</span></td>
+            <td>
+                <ul>
+                    <li>Publish annual "Global Security Risk Report" (original research, data tables, city rankings). Designed for LLM citation and journalist backlinks.</li>
+                    <li>Create "Security Cost Index" page: typical daily rates by city. Unique data LLMs cannot find elsewhere.</li>
+                    <li>Audit all pages for conversational query coverage. Add missing natural language FAQs.</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Full internal link rebuild with 3,000 pages</li>
+                    <li>Second performance review + content pruning of zero-traffic pages</li>
+                    <li>Blog at 80+ articles, optimised for topical clusters</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><span class="badge b-pink">Phase 5</span></td>
+            <td>
+                <ul>
+                    <li>A/B test content formats for LLM citation (tables vs lists vs prose). Measure which gets cited more.</li>
+                    <li>Build LLM-specific landing pages for top 10 most-asked queries in ChatGPT/Perplexity</li>
+                    <li>Apply HowTo schema to process-oriented content (hiring process, vetting process)</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Full structured data validation across all pages</li>
+                    <li>Core Web Vitals optimization</li>
+                    <li>E-E-A-T enhancement (author bios, expert quotes, certifications page)</li>
+                    <li>Title tag A/B testing on 100 pages</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><span class="badge b-cyan">Phase 6 (Ongoing)</span></td>
+            <td>
+                <ul>
+                    <li>Monthly: LLM citation tracking across ChatGPT, Perplexity, Google AI Overviews, Gemini</li>
+                    <li>Quarterly: LLM strategy review. Adapt to new AI search behaviour patterns.</li>
+                    <li>React to new LLM features (e.g. new citation formats, new AI search engines)</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Weekly GSC monitoring</li>
+                    <li>Monthly ranking + competitor reports</li>
+                    <li>Quarterly full site audit</li>
+                    <li>Ongoing backlink maintenance</li>
+                    <li>Algorithm update response</li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+
+    <!-- 17.4 LLM Checklist per page -->
+    <h3>17.4 LLM Optimization Checklist (Per Page)</h3>
+    <div class="card" style="font-family: 'Courier New', monospace; font-size: 0.82rem; line-height: 2;">
+        <span style="color:var(--yellow);">LLM OPTIMIZATION CHECKLIST</span><br>
+        - [ ] First 100 words contain: city name, country, service type, licensing context<br>
+        - [ ] Every FAQ uses: Question > 1-sentence direct answer > supporting detail with named source<br>
+        - [ ] Regulation data in definition lists or tables, not buried in paragraphs<br>
+        - [ ] At least one unique data table per page (cost context, risk comparison, requirement checklist)<br>
+        - [ ] H2 headings match natural language questions ("Can I hire an armed bodyguard in [city]?")<br>
+        - [ ] All factual claims cite a named, dated source (FCDO, State Dept, OSAC, SIA, local authority)<br>
+        - [ ] Organization schema present site-wide<br>
+        - [ ] ProfessionalService schema per page with areaServed, serviceType, provider<br>
+        - [ ] No vague attributions ("experts say", "studies show"). Name the source or cut the claim.<br>
+        - [ ] Content covers the topic exhaustively (11-section structure prevents thin content)<br>
+        - [ ] Page would make sense if read aloud as an answer to a question (conversational flow test)
+    </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ============================================================ -->
+<!-- SECTION: CALENDAR SCHEDULE -->
+<!-- ============================================================ -->
+<section id="calendar">
+    <h2>18. Calendar Schedule (From 17 April 2026)</h2>
+
+    <div class="card" style="border:2px solid var(--green); background:rgba(63,185,80,0.04);">
+        <h4 style="color:var(--green); margin-top:0;">Calendar AI Instructions</h4>
+        <p>The table below is formatted for calendar automation. Each row is one calendar event. <strong>CATEGORY</strong> can be used to colour-code events. <strong>TYPE</strong> indicates whether it is a one-off task or a recurring cadence. All dates start from 17 April 2026 (Phase 0 and Phase 1 are already complete).</p>
+        <p>Import rules: create each row as a calendar event with the DATE as start date, TASK as event title, CATEGORY as calendar colour/tag, and DETAILS as event description. For RECURRING items, set the recurrence pattern as specified in TYPE.</p>
+    </div>
+
+    <h3>18.1 Phase 1 Retroactive SEO + LLM Tasks (Already Built, Needs Optimization)</h3>
+    <table>
+        <tr><th>DATE</th><th>TASK</th><th>CATEGORY</th><th>TYPE</th><th>DETAILS</th></tr>
+        <tr><td>2026-04-21</td><td>GSC baseline audit: confirm all Phase 1 pages indexed</td><td>SEO</td><td>One-off</td><td>Check Google Search Console. All ~100 Phase 1 pages should be indexed. Flag any not-indexed pages. Submit sitemap if needed. Worker: Scout.</td></tr>
+        <tr><td>2026-04-22</td><td>First ranking snapshot: 75 P1 keyword clusters</td><td>SEO</td><td>One-off</td><td>Record current Google position for all 75 keyword clusters (15 cities x 5 silos). This is the baseline for tracking improvement. Use Ahrefs/SEMrush or manual checks. Worker: Scout.</td></tr>
+        <tr><td>2026-04-23</td><td>LLM citation audit: test 15 target queries in ChatGPT + Perplexity</td><td>LLM</td><td>One-off</td><td>Search "bodyguard hire Lagos", "executive protection Bogota", etc. in ChatGPT and Perplexity. Document: who gets cited, what format, does our site appear. Baseline for LLM tracking. Worker: Scout.</td></tr>
+        <tr><td>2026-04-24</td><td>Retroactive LLM audit: Phase 1 FAQ format review</td><td>LLM</td><td>One-off</td><td>Review all Phase 1 page FAQs. Rewrite any that don't follow "Question > 1-sentence direct answer > supporting detail with source" format. This is the highest-impact LLM optimization. Worker: Optimiser.</td></tr>
+        <tr><td>2026-04-25</td><td>Retroactive LLM audit: entity density in first 100 words</td><td>LLM</td><td>One-off</td><td>Check all Phase 1 pages. First paragraph must contain: city name, country, service type, relevant licensing body or authority. Rewrite openings that are too vague. Worker: Optimiser.</td></tr>
+        <tr><td>2026-04-28</td><td>Retroactive LLM audit: restructure regulation sections</td><td>LLM</td><td>One-off</td><td>Convert prose-format regulation sections to definition lists or tables. "Firearms: [Yes/No]. Licensing body: [Name]. Foreign operators: [Allowed/Restricted]." LLMs parse structured data better. Worker: Optimiser + Builder.</td></tr>
+        <tr><td>2026-04-29</td><td>Deploy Organization schema site-wide</td><td>LLM</td><td>One-off</td><td>Add Organization JSON-LD to every page header. Consistent brand entity with name, URL, description, knowsAbout. Builds brand entity in LLM knowledge. Worker: Optimiser + Builder.</td></tr>
+    </table>
+
+    <h3>18.2 Phase 2 Build + Parallel SEO/LLM (Weeks 9-16: 21 Apr - 13 Jun 2026)</h3>
+    <table>
+        <tr><th>DATE</th><th>TASK</th><th>CATEGORY</th><th>TYPE</th><th>DETAILS</th></tr>
+        <tr><td>2026-04-21</td><td>Phase 2 start: P2 city risk profiles (25 cities)</td><td>BUILD</td><td>One-off</td><td>Geographer builds risk profiles for 25 P2 cities. Feeds into content pipeline. Worker: Geographer.</td></tr>
+        <tr><td>2026-04-28</td><td>P2 city pages batch 1 (5 cities x 4 silos = 20 pages)</td><td>BUILD</td><td>One-off</td><td>London, New York, Paris, Berlin, Tokyo. Full pipeline: Wordsmith > Interrogator > Chameleon > Optimiser > Auditor. Apply LLM checklist to all new pages.</td></tr>
+        <tr><td>2026-05-05</td><td>Weekly GSC + algorithm check</td><td>SEO</td><td>Recurring: weekly Monday</td><td>Every Monday: check GSC impressions/clicks/CTR/position. Check Search Central blog for algorithm updates. Flag YMYL-relevant changes. Worker: Scout.</td></tr>
+        <tr><td>2026-05-05</td><td>P2 city pages batch 2 (5 cities x 4 silos = 20 pages)</td><td>BUILD</td><td>One-off</td><td>Hong Kong, Singapore, Sydney, Doha, Kuwait City. Full pipeline with LLM checklist applied.</td></tr>
+        <tr><td>2026-05-07</td><td>Weekly LLM citation check (5 queries)</td><td>LLM</td><td>Recurring: weekly Wednesday</td><td>Every Wednesday: test 5 target queries in ChatGPT + Perplexity. Rotate through keyword clusters. Document citations. Worker: Scout.</td></tr>
+        <tr><td>2026-05-09</td><td>Weekly internal link + backlink outreach</td><td>SEO</td><td>Recurring: weekly Friday</td><td>Every Friday: verify new pages are linked from existing pages. Contact 3-5 backlink prospects (ASIS, security publications). Worker: Connector.</td></tr>
+        <tr><td>2026-05-12</td><td>P2 city pages batch 3 (5 cities x 4 silos = 20 pages)</td><td>BUILD</td><td>One-off</td><td>Abu Dhabi, Cape Town, Accra, Dar es Salaam, Addis Ababa. Full pipeline with LLM checklist.</td></tr>
+        <tr><td>2026-05-12</td><td>Build "Security Regulations Comparison" table page</td><td>LLM</td><td>One-off</td><td>All P1+P2 countries in one comparison table: firearms law, licensing body, foreign operators allowed, SIA equivalent. High LLM citation value. Unique data. Worker: Geographer + Optimiser.</td></tr>
+        <tr><td>2026-05-19</td><td>P2 city pages batch 4 (5 cities x 4 silos = 20 pages)</td><td>BUILD</td><td>One-off</td><td>Lima, Buenos Aires, Santiago, Delhi, Bangalore. Full pipeline with LLM checklist.</td></tr>
+        <tr><td>2026-05-19</td><td>Build "City Risk Comparison" table page</td><td>LLM</td><td>One-off</td><td>All P1+P2 cities: risk rating, crime index, FCDO level, top threats. Sortable/comparable table. LLMs love comparative data. Worker: Geographer + Optimiser.</td></tr>
+        <tr><td>2026-05-26</td><td>P2 city pages batch 5 (5 cities x 4 silos = 20 pages)</td><td>BUILD</td><td>One-off</td><td>Tel Aviv, Cairo, Casablanca, Beijing, Shanghai. Full pipeline with LLM checklist.</td></tr>
+        <tr><td>2026-05-26</td><td>Launch event security silo: 15 conference cities</td><td>BUILD</td><td>One-off</td><td>Event security pages for major conference cities. New silo with full SEO + LLM optimization from day one. Worker: Full pipeline.</td></tr>
+        <tr><td>2026-05-31</td><td>Monthly SEO report #1</td><td>SEO</td><td>Recurring: monthly (last day)</td><td>Full ranking report, competitor snapshot, LLM citation report, technical audit, schema validation, content gap analysis, backlink review. Worker: Scout + Optimiser + Connector.</td></tr>
+        <tr><td>2026-06-02</td><td>Travel safety guides: batch 1 (15 pages)</td><td>BUILD</td><td>One-off</td><td>"Travelling safely in [city]" guides. Top-of-funnel content. Optimise for "is [city] safe" queries (high volume, feeds into service pages). Apply LLM FAQ format.</td></tr>
+        <tr><td>2026-06-02</td><td>Content upgrades: Phase 1 pages based on ranking data</td><td>SEO</td><td>One-off</td><td>Review Phase 1 ranking data. Upgrade content on pages ranking 5-20 (push to top 3). Add missing sections, stronger FAQs, better internal links. Worker: Optimiser + Wordsmith.</td></tr>
+        <tr><td>2026-06-09</td><td>Travel safety guides: batch 2 (15 pages) + regulation guides (20 pages)</td><td>BUILD</td><td>One-off</td><td>Remaining travel guides + security regulation guide pages. All with LLM-optimised structure.</td></tr>
+        <tr><td>2026-06-09</td><td>Conversational query audit: all live pages</td><td>LLM</td><td>One-off</td><td>Check all H2s and FAQ questions match natural language patterns. "Can I hire..." / "How much does..." / "Do I need...". Rewrite any keyword-stuffed headings. Worker: Optimiser + Interrogator.</td></tr>
+        <tr><td>2026-06-09</td><td>Blog launch: first 8 articles</td><td>BUILD</td><td>One-off</td><td>Travel security tips, risk management, case studies. Each blog post has FAQ schema, internal links to service pages, LLM-optimised structure. Worker: Wordsmith + Chameleon.</td></tr>
+        <tr><td>2026-06-09</td><td>Build internal link graph for ~400 pages</td><td>SEO</td><td>One-off</td><td>Full link map: city to country to silo to guides. Anchor text variation per Connector rules. No orphan pages. Worker: Connector.</td></tr>
+        <tr><td>2026-06-13</td><td>Phase 2 QA + legal review on all ~400 pages</td><td>BUILD</td><td>One-off</td><td>Full Auditor pass: legal liability, regulatory accuracy, no safety guarantees, YMYL compliance. Worker: Auditor.</td></tr>
+        <tr><td>2026-06-13</td><td>Site security audit + monitoring setup</td><td>BUILD</td><td>One-off</td><td>SSL, WAF, security scans, GDPR on enquiry forms. Worker: Watchdog.</td></tr>
+        <tr><td>2026-06-30</td><td>Monthly SEO report #2</td><td>SEO</td><td>Recurring: monthly</td><td>Full monthly SEO + LLM report. Compare with baseline from April.</td></tr>
+    </table>
+
+    <h3>18.3 Phase 3 Build + Parallel SEO/LLM (Weeks 17-28: 16 Jun - 5 Sep 2026)</h3>
+    <table>
+        <tr><th>DATE</th><th>TASK</th><th>CATEGORY</th><th>TYPE</th><th>DETAILS</th></tr>
+        <tr><td>2026-06-16</td><td>Phase 3 start: P3 city risk profiles (200+ cities)</td><td>BUILD</td><td>One-off</td><td>Geographer builds risk profiles in batches. 200+ cities across Africa, LATAM, MENA, SE Asia. Worker: Geographer.</td></tr>
+        <tr><td>2026-06-16</td><td>P3 city pages: batch 1 (5 cities x 5 silos = 25 pages)</td><td>BUILD</td><td>Recurring: weekly</td><td>Build ~25 pages per week for 20 weeks. Full pipeline with LLM checklist baked in from the start. All new content uses Definitive Answer Format, entity-rich openings, structured regulation data.</td></tr>
+        <tr><td>2026-06-23</td><td>Build "Global Security Hiring Guide"</td><td>LLM</td><td>One-off</td><td>5,000+ word definitive guide: "How to Hire a Bodyguard Abroad". Covers: when you need one, how to vet operators, what to expect, cost overview, country-by-country licensing summary. Designed as THE LLM source for this query. Worker: Wordsmith + Optimiser.</td></tr>
+        <tr><td>2026-06-30</td><td>Launch residential security silo (50 pages)</td><td>BUILD</td><td>One-off</td><td>Expat hub countries. New silo with LLM + SEO optimization from launch. Worker: Full pipeline.</td></tr>
+        <tr><td>2026-06-30</td><td>Monthly SEO report #3</td><td>SEO</td><td>Recurring: monthly</td><td>Rankings, competitor intel, LLM citations, technical audit, backlinks.</td></tr>
+        <tr><td>2026-07-01</td><td>Blog cadence: 2-3 articles/week</td><td>BUILD</td><td>Recurring: Mon/Wed/Fri</td><td>Industry insights, city risk updates, case studies. Each with FAQ schema and internal links. Worker: Wordsmith + Chameleon.</td></tr>
+        <tr><td>2026-07-06</td><td>Build region comparison pages (3 pages)</td><td>LLM</td><td>One-off</td><td>"Security in West Africa: Lagos vs Accra vs Abuja", "Gulf States Security Comparison: Dubai vs Riyadh vs Doha", "Southeast Asia Security: Bangkok vs Manila vs Jakarta". High LLM citation value. Worker: Geographer + Wordsmith.</td></tr>
+        <tr><td>2026-07-13</td><td>Add FAQ schema to all blog posts</td><td>LLM</td><td>One-off</td><td>Retroactive: add FAQPage structured data to all published blog articles. Increases LLM citation and Google rich results. Worker: Optimiser.</td></tr>
+        <tr><td>2026-07-31</td><td>Quarterly SEO audit #1</td><td>SEO</td><td>Recurring: quarterly</td><td>Full site audit: every page vs on-page checklist, title/meta uniqueness, E-E-A-T review, risk data currency, LLM strategy review, keyword matrix refresh. Worker: Optimiser + Scout.</td></tr>
+        <tr><td>2026-08-01</td><td>First performance review: leads by city</td><td>BUILD</td><td>One-off</td><td>Analyst reviews: which cities generate leads, lead quality, conversion rates, highest-value enquiries. Feeds into content investment decisions. Worker: Analyst.</td></tr>
+        <tr><td>2026-08-01</td><td>Content upgrades for pages ranking 5-20</td><td>SEO</td><td>One-off</td><td>Based on Q1 ranking data, upgrade content on near-top-3 pages. Add depth, stronger FAQs, better internal links, more data tables. Worker: Optimiser + Wordsmith.</td></tr>
+        <tr><td>2026-08-15</td><td>Operator vetting outreach: top 20 cities</td><td>BUILD</td><td>One-off</td><td>Begin reaching out to security firms in top 20 revenue-generating cities for partnership. Gareth-led with Architect support.</td></tr>
+        <tr><td>2026-08-31</td><td>Monthly SEO report #5</td><td>SEO</td><td>Recurring: monthly</td><td>Full monthly report including LLM citation trends.</td></tr>
+        <tr><td>2026-09-05</td><td>Phase 3 complete: ~1,200 pages live</td><td>BUILD</td><td>Milestone</td><td>200+ cities, 5 silos, blog running, operator partnerships started. All pages LLM-optimised.</td></tr>
+    </table>
+
+    <h3>18.4 Phase 4 Build + Parallel SEO/LLM (Weeks 29-36: 8 Sep - 31 Oct 2026)</h3>
+    <table>
+        <tr><th>DATE</th><th>TASK</th><th>CATEGORY</th><th>TYPE</th><th>DETAILS</th></tr>
+        <tr><td>2026-09-08</td><td>Phase 4 start: remaining P4 cities (~300 cities)</td><td>BUILD</td><td>One-off</td><td>Final expansion wave. All pages use established LLM-optimised templates. Worker: Full pipeline.</td></tr>
+        <tr><td>2026-09-15</td><td>Publish "Global Security Risk Report 2026"</td><td>LLM</td><td>One-off</td><td>Original research: city-by-city security risk rankings with data tables. Designed for LLM citation AND journalist/blogger backlinks. Annual publication. Worker: Geographer + Wordsmith + Optimiser.</td></tr>
+        <tr><td>2026-09-22</td><td>Create "Security Cost Index" page</td><td>LLM</td><td>One-off</td><td>Typical daily EP/bodyguard rates by city tier. Unique data LLMs cannot source elsewhere. Structured as sortable comparison table. Worker: Geographer + Optimiser.</td></tr>
+        <tr><td>2026-09-30</td><td>Monthly SEO report #6</td><td>SEO</td><td>Recurring: monthly</td><td>Full report. Note: by now should be seeing consistent ranking improvements for P1 keywords.</td></tr>
+        <tr><td>2026-10-05</td><td>Conversational query audit: all 3,000 pages</td><td>LLM</td><td>One-off</td><td>Full audit of H2s and FAQs across entire site. Add missing natural language questions. Worker: Optimiser + Interrogator.</td></tr>
+        <tr><td>2026-10-15</td><td>Full internal link rebuild for 3,000 pages</td><td>SEO</td><td>One-off</td><td>Complete link graph recalculation with all pages. Fix orphans, balance equity. Worker: Connector.</td></tr>
+        <tr><td>2026-10-31</td><td>Quarterly SEO audit #2 + LLM strategy review</td><td>SEO</td><td>Recurring: quarterly</td><td>Full site audit. LLM strategy review: what formats get cited, what doesn't work, adapt strategy. Worker: Optimiser + Scout.</td></tr>
+        <tr><td>2026-10-31</td><td>Phase 4 complete: ~3,000 pages live</td><td>BUILD</td><td>Milestone</td><td>Full global coverage. 500+ cities. Revenue established.</td></tr>
+    </table>
+
+    <h3>18.5 Phase 5 Optimization (Weeks 37-42: 3 Nov - 12 Dec 2026)</h3>
+    <table>
+        <tr><th>DATE</th><th>TASK</th><th>CATEGORY</th><th>TYPE</th><th>DETAILS</th></tr>
+        <tr><td>2026-11-03</td><td>Phase 5 start: full index coverage audit</td><td>SEO</td><td>One-off</td><td>Every page checked: indexed? ranking? receiving impressions? Flag zombie pages. Worker: Analyst + Watchdog.</td></tr>
+        <tr><td>2026-11-10</td><td>Content upgrades for pages ranking 5-20</td><td>SEO</td><td>One-off</td><td>Biggest SEO ROI: push near-winners to top 3. Add depth, improve structure, strengthen LLM signals. Worker: Wordsmith + Optimiser.</td></tr>
+        <tr><td>2026-11-10</td><td>LLM format A/B test: tables vs lists vs prose</td><td>LLM</td><td>One-off</td><td>Select 30 pages. Restructure 10 to heavy-table, 10 to heavy-list, leave 10 as control. Track LLM citation changes over 4 weeks. Worker: Optimiser + Scout.</td></tr>
+        <tr><td>2026-11-17</td><td>Build interactive risk map</td><td>BUILD</td><td>One-off</td><td>Visual global risk overview. Interactive tool that generates engagement signals. Worker: Builder.</td></tr>
+        <tr><td>2026-11-17</td><td>Build LLM-specific landing pages for top 10 queries</td><td>LLM</td><td>One-off</td><td>Identify top 10 most-asked security queries in ChatGPT/Perplexity. Build dedicated pages optimised specifically for LLM citation: concise, authoritative, heavily sourced. Worker: Optimiser + Wordsmith.</td></tr>
+        <tr><td>2026-11-24</td><td>E-E-A-T enhancement: author bios, expert quotes, certifications</td><td>SEO</td><td>One-off</td><td>Add/update author bios with verifiable credentials. Add expert quote blocks. Build certifications/accreditations page. Worker: Optimiser + Wordsmith.</td></tr>
+        <tr><td>2026-11-30</td><td>Monthly SEO report #8</td><td>SEO</td><td>Recurring: monthly</td><td>Full report including LLM A/B test preliminary results.</td></tr>
+        <tr><td>2026-12-01</td><td>Structured data validation: all pages</td><td>SEO</td><td>One-off</td><td>Test representative pages from each silo in Google Rich Results Test. Fix all validation errors. Worker: Optimiser + Watchdog.</td></tr>
+        <tr><td>2026-12-01</td><td>Apply HowTo schema to process content</td><td>LLM</td><td>One-off</td><td>Add HowTo structured data to pages about: the hiring process, the vetting process, travel preparation. Enhances both Google and LLM understanding. Worker: Optimiser.</td></tr>
+        <tr><td>2026-12-08</td><td>Core Web Vitals optimization</td><td>SEO</td><td>One-off</td><td>LCP, FID, CLS across all page types. Mobile performance priority. Worker: Builder + Watchdog.</td></tr>
+        <tr><td>2026-12-08</td><td>Title tag A/B testing: 100 pages</td><td>SEO</td><td>One-off</td><td>Test title formulas on 100 pages. Measure CTR impact over 4 weeks. Worker: Optimiser.</td></tr>
+        <tr><td>2026-12-12</td><td>Testimonial collection from clients</td><td>BUILD</td><td>One-off</td><td>Anonymised corporate client testimonials. Social proof for both users and LLMs. Worker: Architect.</td></tr>
+        <tr><td>2026-12-12</td><td>Phase 5 complete: 3,500+ pages optimised</td><td>BUILD</td><td>Milestone</td><td>Authority established. All SEO + LLM optimization complete. Move to maintenance.</td></tr>
+    </table>
+
+    <h3>18.6 Phase 6 Maintenance (Week 43+: 15 Dec 2026 Onward)</h3>
+    <table>
+        <tr><th>DATE / CADENCE</th><th>TASK</th><th>CATEGORY</th><th>TYPE</th><th>DETAILS</th></tr>
+        <tr><td>Every Monday</td><td>GSC monitoring + algorithm check</td><td>SEO</td><td>Recurring: weekly</td><td>Impressions, clicks, CTR, position changes. Algorithm update assessment. Worker: Scout.</td></tr>
+        <tr><td>Every Wednesday</td><td>LLM citation monitoring (5 queries)</td><td>LLM</td><td>Recurring: weekly</td><td>Test 5 rotating queries in ChatGPT, Perplexity, Google AI Overviews. Track citation trends. Worker: Scout.</td></tr>
+        <tr><td>Every Wednesday</td><td>Content refresh: update 2-3 pages</td><td>SEO</td><td>Recurring: weekly</td><td>Refresh underperforming pages. Update stale risk data. Add new FAQs from GSC query data. Worker: Optimiser + Wordsmith.</td></tr>
+        <tr><td>Every Friday</td><td>Internal link maintenance + backlink outreach</td><td>SEO</td><td>Recurring: weekly</td><td>Fix broken links, link new content, contact 3-5 backlink prospects. Worker: Connector.</td></tr>
+        <tr><td>Mon/Wed/Fri</td><td>Blog articles (2-3/week)</td><td>BUILD</td><td>Recurring: 3x/week</td><td>Industry insights, city risk updates, case studies. Each with FAQ schema and LLM-optimised format. Worker: Wordsmith.</td></tr>
+        <tr><td>Last day of month</td><td>Monthly SEO + LLM report</td><td>SEO</td><td>Recurring: monthly</td><td>Rankings, competitor snapshot, LLM citations, technical audit, schema validation, content gaps, backlinks. Worker: Scout + Optimiser + Connector.</td></tr>
+        <tr><td>Last day of month</td><td>Monthly lead quality + revenue report</td><td>BUILD</td><td>Recurring: monthly</td><td>Lead quality by city, conversion rates, revenue tracking. Worker: Analyst.</td></tr>
+        <tr><td>Last day of month</td><td>Monthly competitor monitoring</td><td>SEO</td><td>Recurring: monthly</td><td>New competitors, ranking changes, content moves, backlink changes. Worker: Spider.</td></tr>
+        <tr><td>End of quarter</td><td>Quarterly full site SEO audit</td><td>SEO</td><td>Recurring: quarterly</td><td>All pages vs on-page checklist, title/meta uniqueness, structured data validation, E-E-A-T review. Worker: Optimiser.</td></tr>
+        <tr><td>End of quarter</td><td>Quarterly risk data refresh</td><td>BUILD</td><td>Recurring: quarterly</td><td>Update FCDO/State Dept advisories, city risk profiles. Verify regulation data still current. Worker: Geographer + Spider.</td></tr>
+        <tr><td>End of quarter</td><td>Quarterly LLM strategy review</td><td>LLM</td><td>Recurring: quarterly</td><td>Review what gets cited, adapt content format, react to new LLM features or AI search products. Worker: Scout + Optimiser.</td></tr>
+        <tr><td>As needed</td><td>Algorithm update response</td><td>SEO</td><td>Trigger-based</td><td>If Google confirms a core update or YMYL-relevant change: immediate impact assessment, content review, ranking check within 48 hours. Worker: Scout + Architect.</td></tr>
+        <tr><td>Monthly</td><td>New city pages as demand/risk changes</td><td>BUILD</td><td>Recurring: monthly</td><td>Add pages for emerging demand cities, conflict zones, or new business travel hubs. Full pipeline + LLM checklist. Worker: Full pipeline.</td></tr>
+    </table>
+
+    <h3>18.7 Key Milestones Summary</h3>
+    <div class="timeline">
+        <div class="tl-item phase-1">
+            <div class="tl-phase p1">17 Apr 2026 (TODAY)</div>
+            <div class="tl-body">
+                <div class="tl-title">Phase 0 + Phase 1 Complete: ~100 pages built</div>
+                <p>15 P1 cities x 3 silos + risk assessments + country hubs + core pages. All DONE. SEO + LLM retroactive optimization starts this week.</p>
+                <div class="tl-meta"><span>~100 pages</span><span>SEO baseline needed</span><span>LLM audit needed</span></div>
+            </div>
+        </div>
+        <div class="tl-item phase-1">
+            <div class="tl-phase p1">29 Apr 2026</div>
+            <div class="tl-body">
+                <div class="tl-title">Phase 1 LLM Retroactive Optimization Complete</div>
+                <p>All Phase 1 pages updated: FAQ format, entity density, structured regulations, Organization schema deployed.</p>
+                <div class="tl-meta"><span>LLM-ready</span><span>GSC baseline set</span></div>
+            </div>
+        </div>
+        <div class="tl-item phase-2">
+            <div class="tl-phase p2">13 Jun 2026</div>
+            <div class="tl-body">
+                <div class="tl-title">Phase 2 Complete: ~400 pages + parallel SEO active</div>
+                <p>P2 cities live. Regulation comparison + risk comparison pages live (LLM citation magnets). Blog launched. Backlink campaign running. Weekly SEO + LLM cadence established.</p>
+                <div class="tl-meta"><span>~400 pages</span><span>SEO cadence running</span><span>LLM monitoring active</span></div>
+            </div>
+        </div>
+        <div class="tl-item phase-3">
+            <div class="tl-phase p3">5 Sep 2026</div>
+            <div class="tl-body">
+                <div class="tl-title">Phase 3 Complete: ~1,200 pages + first revenue</div>
+                <p>200+ cities. Global Security Hiring Guide published. Region comparison pages live. First operator partnerships. First client engagements.</p>
+                <div class="tl-meta"><span>~1,200 pages</span><span>First revenue</span><span>LLM citations growing</span></div>
+            </div>
+        </div>
+        <div class="tl-item phase-4">
+            <div class="tl-phase p4">31 Oct 2026</div>
+            <div class="tl-body">
+                <div class="tl-title">Phase 4 Complete: ~3,000 pages + full coverage</div>
+                <p>500+ cities globally. Global Security Risk Report published. Security Cost Index live. Revenue established.</p>
+                <div class="tl-meta"><span>~3,000 pages</span><span>Revenue established</span></div>
+            </div>
+        </div>
+        <div class="tl-item phase-5">
+            <div class="tl-phase p5">12 Dec 2026</div>
+            <div class="tl-body">
+                <div class="tl-title">Phase 5 Complete: 3,500+ pages optimized</div>
+                <p>Authority locked. LLM A/B tests complete. CWV optimized. Interactive risk map live. E-E-A-T signals maximized.</p>
+                <div class="tl-meta"><span>3,500+ pages</span><span>Authority established</span><span>Maintenance mode</span></div>
+            </div>
+        </div>
+        <div class="tl-item phase-6">
+            <div class="tl-phase p6">15 Dec 2026 onward</div>
+            <div class="tl-body">
+                <div class="tl-title">Phase 6: Maintenance + Growth</div>
+                <p>Weekly SEO + LLM cadence. Monthly reports. Quarterly audits. Blog 2-3x/week. New cities as demand emerges.</p>
+                <div class="tl-meta"><span>Ongoing</span><span>Year 2 expansion</span></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="divider"></div>
+
+<div style="text-align:center; padding: 60px 0 40px; color: var(--text-muted); font-size: 0.85rem;">
+    <p>Bodyguard Cascading Build Plan v1.2</p>
+    <p>Reference: <a href="cross_border_opportunity_report.html" style="color:var(--accent);">cross_border_opportunity_report.html</a></p>
+    <p>Worker Souls: <a href="workforce/" style="color:var(--accent);">workforce/</a> (14 Soul files)</p>
+    <p>17 April 2026 | Internal Document | Build #3 of 3</p>
+    <p style="color:var(--cyan);">v1.1: Execution stages added 14 April 2026</p>
+    <p style="color:var(--orange);">v1.2: SEO/LLM parallel plan + calendar schedule added 17 April 2026</p>
+</div>
+
+</div>
+</body>
+</html>

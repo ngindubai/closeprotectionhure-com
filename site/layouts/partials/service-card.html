@@ -1,0 +1,13 @@
+{{/* Service card partial */}}
+{{/* Expects: .title, .slug, .description, .image (optional) */}}
+
+{{ $card := . }}
+<a href="{{ $card.slug }}" class="service-card">
+    {{ with $card.image }}
+    <img class="card-bg-img" src="/images/{{ . }}" alt="" width="400" height="260" loading="lazy">
+    {{ end }}
+    <div class="card-text">
+        <h3 class="service-card-title">{{ $card.title }}</h3>
+        {{ with $card.description }}<p class="service-card-desc">{{ . }}</p>{{ end }}
+    </div>
+</a>

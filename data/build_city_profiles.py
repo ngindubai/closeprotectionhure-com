@@ -1,0 +1,922 @@
+"""Build city_risk_profiles.json from FCDO + State Dept data + live research."""
+import json
+from datetime import date
+
+profiles = {
+    "_metadata": {
+        "source": "Compiled from UK FCDO safety-and-security pages (live April 2026) + US State Dept advisories + OSAC crime ratings",
+        "compiled": str(date.today()),
+        "purpose": "City-level risk profiles for 15 Priority-1 cities in the security-bodyguard site build",
+        "risk_scale": "1-5 (1=minimal, 2=low, 3=moderate, 4=high, 5=critical)",
+        "freshness": "FCDO pages fetched April 2026. Verify before publication."
+    },
+    "cities": {
+        "lagos": {
+            "city": "Lagos",
+            "country": "Nigeria",
+            "fcdo_level": "AGAINST_ALL_TRAVEL (parts)",
+            "state_dept_level": 3,
+            "osac_crime": "CRITICAL",
+            "risk_scores": {
+                "crime": 5,
+                "terrorism": 4,
+                "kidnapping": 5,
+                "civil_unrest": 4,
+                "police_reliability": 2,
+                "transport_risk": 4,
+                "overall": 5
+            },
+            "crime": {
+                "severity": "critical",
+                "types": ["armed robbery", "carjacking", "street crime", "burglary", "express kidnapping", "cybercrime (419 scams)"],
+                "hotspots": ["Lagos Island after dark", "Oshodi", "Mile 2", "Apapa port area", "isolated stretches of Lekki-Epe expressway"],
+                "notes": "Carjacking common on urban and rural roads. Criminals set up unauthorized checkpoints. Do not resist. Armed robbery on expressways after dark."
+            },
+            "terrorism": {
+                "threat_level": "very likely",
+                "active_groups": ["ISWA (Islamic State West Africa)", "Boko Haram/JAS", "ISWAP"],
+                "target_types": ["hotels", "transport hubs", "places of worship", "government buildings", "crowded markets"],
+                "recent_attacks": "Terrorism primarily in NE Nigeria but threat extends to Lagos. Attacks on soft targets possible.",
+                "notes": "Lagos not primary conflict zone but intelligence warnings for soft-target attacks persist. Security forces maintain checkpoints."
+            },
+            "kidnapping": {
+                "threat_level": "critical",
+                "types": ["ransom kidnapping", "express kidnapping", "maritime kidnapping (Gulf of Guinea)"],
+                "hotspots": ["Lekki corridor", "Third Mainland Bridge approaches", "rural outskirts", "waterways"],
+                "notes": "Nigeria has one of highest kidnapping rates globally. NW states worst but Lagos incidents increasing. Targets include HNWIs, expatriates, local businesspeople."
+            },
+            "civil_unrest": {
+                "frequency": "regular",
+                "triggers": ["economic protests", "fuel subsidy removal", "EndSARS movement", "election disputes", "ethnic/religious tensions"],
+                "notes": "Demonstrations can turn violent. Security forces sometimes respond with lethal force. Communication blackouts imposed during unrest. Curfews common."
+            },
+            "police_reliability": {
+                "score": 2,
+                "corruption_level": "high",
+                "response_quality": "poor",
+                "notes": "Police roadblocks common and officers may solicit bribes. Response times slow. Specialized units (SARS successor) have mixed reputation. Private security widely used by businesses and HNWIs."
+            },
+            "safe_zones": ["Victoria Island (VI) - commercial district with private security", "Ikoyi - upscale residential, gated compounds", "Lekki Phase 1 - newer developments with estate security"],
+            "unsafe_zones": ["Oshodi - high crime, overcrowded market area", "Mushin - gang activity", "Ajegunle - poverty, crime", "Mile 2 - robbery hotspot", "Third Mainland Bridge at night"],
+            "transport_risks": {
+                "road": "Poor infrastructure, aggressive driving, carjacking risk especially after dark. Unauthorized checkpoints on interstate highways.",
+                "airport": "Murtala Muhammed International: petty theft in baggage area, taxi scams on arrival. Use pre-arranged transfers only.",
+                "public_transport": "Danfo (minibuses) and BRT targets for robbery. Avoid.",
+                "recommended": "Use vetted private drivers with tracked vehicles. Vary routes. Avoid night travel."
+            },
+            "emergency_numbers": {
+                "police": "112 or 199",
+                "ambulance": "112",
+                "fire": "112"
+            },
+            "security_industry_context": "High demand for executive protection. Many Nigerian and international security firms operate. Armed security common for corporate clients. Movement typically requires advance route planning and sometimes convoy."
+        },
+        "nairobi": {
+            "city": "Nairobi",
+            "country": "Kenya",
+            "fcdo_level": "AGAINST_ESSENTIAL (parts)",
+            "state_dept_level": 2,
+            "osac_crime": "CRITICAL",
+            "risk_scores": {
+                "crime": 5,
+                "terrorism": 4,
+                "kidnapping": 4,
+                "civil_unrest": 3,
+                "police_reliability": 2,
+                "transport_risk": 3,
+                "overall": 4
+            },
+            "crime": {
+                "severity": "critical",
+                "types": ["mugging", "carjacking", "armed robbery", "home invasion", "pickpocketing", "smash-and-grab"],
+                "hotspots": ["Eastleigh", "CBD after dark", "Kibera", "Mathare", "River Road area", "Uhuru Park after dark"],
+                "notes": "Violent muggings common even in daylight in CBD. Carjacking a major risk, particularly after dark. Criminals often armed with machetes or firearms."
+            },
+            "terrorism": {
+                "threat_level": "very likely (heightened)",
+                "active_groups": ["Al Shabaab"],
+                "target_types": ["shopping malls", "hotels", "transport hubs", "churches and mosques", "government buildings", "Western interests"],
+                "recent_attacks": "Westgate mall attack (2013, 67 dead), DusitD2 hotel (2019, 21 dead). Al Shabaab maintains intent to strike Nairobi.",
+                "notes": "Heightened terrorism threat in Nairobi. Border areas with Somalia highest risk. Increased security at malls and hotels post-Westgate/DusitD2."
+            },
+            "kidnapping": {
+                "threat_level": "high",
+                "types": ["terrorist kidnapping (Al Shabaab)", "criminal kidnapping for ransom", "express kidnapping"],
+                "hotspots": ["border areas with Somalia", "coastal Kenya", "Nairobi outskirts"],
+                "notes": "Terrorist kidnap threat from Al Shabaab. Criminal kidnapping for ransom also occurs. British nationals seen as legitimate targets."
+            },
+            "civil_unrest": {
+                "frequency": "occasional",
+                "triggers": ["election disputes", "cost of living protests", "political opposition rallies"],
+                "notes": "Protests can escalate. Police use tear gas and live rounds. Avoid demonstrations. Post-election violence risk significant."
+            },
+            "police_reliability": {
+                "score": 2,
+                "corruption_level": "high",
+                "response_quality": "variable",
+                "notes": "Police corruption widespread. Bribes commonly solicited at checkpoints. Response times unreliable outside upscale areas. Private security sector well-established."
+            },
+            "safe_zones": ["Westlands - expat hub, good security infrastructure", "Karen - leafy suburb, private security", "Lavington/Kilimani - residential, compound security", "Village Market/Gigiri - UN area, high security presence"],
+            "unsafe_zones": ["Eastleigh - crime hotspot, Al Shabaab recruitment area", "Kibera - informal settlement, no vehicular access in parts", "Mathare - poverty, gang activity", "CBD after dark", "South B/C after dark"],
+            "transport_risks": {
+                "road": "Carjacking common, especially Mombasa Road and Thika Road after dark. Matatu (minibus) accidents frequent.",
+                "airport": "JKIA: use pre-arranged hotel transfers. Avoid unlicensed taxis.",
+                "public_transport": "Matatus overcrowded and targeted by robbers. SGR train to Mombasa is safer.",
+                "recommended": "Pre-vetted private drivers. Tracked vehicles. Daylight travel preferred. Avoid Mombasa Road after dark."
+            },
+            "emergency_numbers": {
+                "police": "999 or 112",
+                "ambulance": "999",
+                "fire": "999"
+            },
+            "security_industry_context": "Active private security market. Both local firms (G4S Kenya, KK Security) and international operators. Executive protection well-understood. Most corporate compounds have 24/7 armed guards."
+        },
+        "johannesburg": {
+            "city": "Johannesburg",
+            "country": "South Africa",
+            "fcdo_level": "SEE_WARNINGS",
+            "state_dept_level": 2,
+            "osac_crime": "CRITICAL",
+            "risk_scores": {
+                "crime": 5,
+                "terrorism": 1,
+                "kidnapping": 4,
+                "civil_unrest": 3,
+                "police_reliability": 2,
+                "transport_risk": 4,
+                "overall": 5
+            },
+            "crime": {
+                "severity": "critical",
+                "types": ["carjacking", "armed robbery", "home invasion", "mugging", "follow-from-airport robbery", "ATM mugging", "smash-and-grab"],
+                "hotspots": ["Hillbrow", "Joubert Park", "CBD/inner city", "routes from OR Tambo airport", "Sandton approaches after dark", "Table Mountain (Cape Town reference)", "N1/N3 highways at night"],
+                "notes": "FCDO warns specifically about follow-from-airport robberies on M3/N2 and OR Tambo approach roads. Criminals follow targets from airport to accommodation. Smash-and-grab at traffic lights extremely common. Power cuts (load shedding) disable security systems and traffic lights, increasing crime risk."
+            },
+            "terrorism": {
+                "threat_level": "low",
+                "active_groups": [],
+                "target_types": [],
+                "recent_attacks": "No significant recent terrorist attacks.",
+                "notes": "Terrorism threat is low. Crime is the primary security concern."
+            },
+            "kidnapping": {
+                "threat_level": "high (increasing)",
+                "types": ["criminal kidnapping for ransom", "express kidnapping", "carjack-kidnapping"],
+                "hotspots": ["Gauteng province generally", "routes from OR Tambo", "Sandton business district"],
+                "notes": "FCDO notes kidnapping 'increasing' in South Africa. Opportunistic and planned. Targets include business travelers and HNWIs followed from airports."
+            },
+            "civil_unrest": {
+                "frequency": "occasional",
+                "triggers": ["service delivery protests", "xenophobic violence", "political tensions", "load shedding frustration"],
+                "notes": "Township violence can spill into main roads. Xenophobic attacks on foreign nationals occur sporadically. Service delivery protests can block major roads."
+            },
+            "police_reliability": {
+                "score": 2,
+                "corruption_level": "moderate-high",
+                "response_quality": "slow",
+                "notes": "SAPS under-resourced and response times poor, especially in townships. Private security sector is one of the largest globally. Most residential areas rely on private armed response (ADT, Fidelity)."
+            },
+            "safe_zones": ["Sandton - commercial hub, good security", "Rosebank - shopping/business, daylight safe", "Houghton/Hyde Park - upscale residential", "Melrose Arch - secured precinct"],
+            "unsafe_zones": ["Hillbrow - extremely dangerous, hijacking, robbery", "CBD/inner city after dark", "Joubert Park", "Alexandra township", "routes from OR Tambo (M3/N2 especially)", "any area during load shedding power cuts"],
+            "transport_risks": {
+                "road": "Carjacking is the defining transport risk. Traffic light stops are ambush points. Criminals follow cars from airports. Road rage incidents. Poor driving standards.",
+                "airport": "OR Tambo: FCDO specifically warns about being followed from airport. Use trusted transfer services. Vary routes. Do not stop for any reason on airport approach roads.",
+                "public_transport": "Gautrain is secure with private security. Minibus taxis are dangerous. Metrorail poorly maintained and unsafe.",
+                "recommended": "Armored vehicles for HNW clients. Vetted drivers who know anti-surveillance routes from airport. Keep windows up, doors locked at all times. Do not stop at red lights after dark in high-risk areas."
+            },
+            "emergency_numbers": {
+                "police": "10111",
+                "ambulance": "10177",
+                "fire": "10177"
+            },
+            "security_industry_context": "South Africa has one of the world's largest private security industries (over 2 million registered guards). Executive protection well-established. Armored vehicle services common. Close protection operatives widely available. Industry regulated by PSIRA (Private Security Industry Regulatory Authority)."
+        },
+        "bogota": {
+            "city": "Bogota",
+            "country": "Colombia",
+            "fcdo_level": "AGAINST_ESSENTIAL (parts)",
+            "state_dept_level": 2,
+            "osac_crime": "CRITICAL",
+            "risk_scores": {
+                "crime": 4,
+                "terrorism": 3,
+                "kidnapping": 4,
+                "civil_unrest": 3,
+                "police_reliability": 3,
+                "transport_risk": 3,
+                "overall": 4
+            },
+            "crime": {
+                "severity": "high",
+                "types": ["express kidnapping", "scopolamine drugging", "street robbery", "pickpocketing", "ATM robbery", "fake taxi robbery"],
+                "hotspots": ["La Candelaria (historic center) after dark", "El Bronx area", "Los Martires", "southern Bogota", "TransMilenio stations at night"],
+                "notes": "FCDO warns about scopolamine (burundanga) used to drug victims. Applied via spiked drinks, handshakes with powder, or blown in face. Victims become compliant and are robbed. Express kidnapping: taken to ATMs to withdraw cash. Very common via fake taxi drivers."
+            },
+            "terrorism": {
+                "threat_level": "moderate",
+                "active_groups": ["ELN (National Liberation Army)", "FARC remnants/dissidents", "criminal armed groups (GAOs)"],
+                "target_types": ["police stations", "military installations", "oil infrastructure", "rural checkpoints"],
+                "recent_attacks": "ELN car bomb at police academy (Jan 2019, 22 dead). Ongoing attacks in rural areas. Urban attacks less frequent but possible.",
+                "notes": "50+ years of armed conflict. Peace process ongoing but fragile. Most violence in rural areas and border regions. Bogota itself relatively more stable but ELN has struck urban targets."
+            },
+            "kidnapping": {
+                "threat_level": "high",
+                "types": ["express kidnapping (paseo millonario)", "virtual kidnapping (phone scams)", "traditional ransom kidnapping (rural)"],
+                "hotspots": ["taxi routes", "ATM areas especially at night", "nightlife areas", "southern Bogota"],
+                "notes": "Express kidnapping is the primary urban threat. Victims forced into taxis, driven to ATMs. Scopolamine may be used. Do not hail taxis on the street. Use only registered rideshare apps."
+            },
+            "civil_unrest": {
+                "frequency": "regular",
+                "triggers": ["economic inequality protests", "peace process disputes", "student protests", "indigenous rights"],
+                "notes": "Large-scale protests periodically shut down Bogota. Police response can be heavy-handed. Avoid Plaza Bolivar during demonstrations."
+            },
+            "police_reliability": {
+                "score": 3,
+                "corruption_level": "moderate",
+                "response_quality": "moderate",
+                "notes": "Colombian police are better resourced than many Latin American counterparts. CAI (police stations) found in most neighborhoods. However, corruption exists. Tourist police operate in Candelaria and Zona Rosa."
+            },
+            "safe_zones": ["Zona T/Zona Rosa - nightlife with security", "Usaquen - upscale dining, relatively safe", "Chapinero Alto - expat area", "Parque 93 area", "North Bogota generally safer"],
+            "unsafe_zones": ["La Candelaria after dark", "El Bronx", "Los Martires", "Ciudad Bolivar", "Southern Bogota generally", "TransMilenio late at night"],
+            "transport_risks": {
+                "road": "Traffic congestion extreme. Motorcycle-borne crime common. Do not display phones or valuables in vehicles.",
+                "airport": "El Dorado: use only pre-booked transfers or registered rideshare. Scams targeting arrivals common.",
+                "public_transport": "TransMilenio (BRT) has pickpocketing and robbery at stations. Avoid after dark.",
+                "recommended": "Registered rideshare apps (Uber, Didi, InDriver). Pre-vetted private drivers for corporate clients. Avoid street taxis completely."
+            },
+            "emergency_numbers": {
+                "police": "123",
+                "ambulance": "123",
+                "fire": "123"
+            },
+            "security_industry_context": "Mature executive protection market due to decades of conflict. Many Colombian bodyguards have military special forces backgrounds. Armed escorts common and legal for licensed operators. Armored vehicles widely available."
+        },
+        "mexico_city": {
+            "city": "Mexico City",
+            "country": "Mexico",
+            "fcdo_level": "AGAINST_ESSENTIAL (parts)",
+            "state_dept_level": 2,
+            "osac_crime": "CRITICAL",
+            "risk_scores": {
+                "crime": 4,
+                "terrorism": 1,
+                "kidnapping": 4,
+                "civil_unrest": 3,
+                "police_reliability": 2,
+                "transport_risk": 3,
+                "overall": 4
+            },
+            "crime": {
+                "severity": "high",
+                "types": ["express kidnapping", "armed robbery", "carjacking", "ATM robbery", "pickpocketing", "unlicensed taxi robbery", "drink spiking"],
+                "hotspots": ["Tepito", "Doctores", "Lagunilla", "metro late at night", "Zona Rosa (drink spiking)", "highways out of city"],
+                "notes": "FCDO warns about unlicensed taxis in Mexico City used to rob passengers. Spiking of drinks leads to robbery or assault. Carjacking on Pacific Highway. Drug-related violence increasing nationwide but Mexico City less affected than northern states."
+            },
+            "terrorism": {
+                "threat_level": "low",
+                "active_groups": [],
+                "target_types": [],
+                "recent_attacks": "No significant terrorism. Drug cartel violence is the primary threat but classified as organized crime.",
+                "notes": "Cartel violence is pervasive in other states but Mexico City is relatively insulated. The threat is organized crime rather than terrorism per se."
+            },
+            "kidnapping": {
+                "threat_level": "high",
+                "types": ["express kidnapping", "virtual kidnapping (phone scams)", "traditional ransom kidnapping"],
+                "hotspots": ["outer delegaciones", "road travel outside city", "nightlife areas"],
+                "notes": "Express kidnapping in urban areas. Forced ATM withdrawals. Virtual kidnapping scams common (phone callers claim to have kidnapped family member). World Cup 2026 may increase targeting of foreigners."
+            },
+            "civil_unrest": {
+                "frequency": "regular",
+                "triggers": ["teacher union protests", "disappearance cases (Ayotzinapa)", "political marches", "women's rights protests"],
+                "notes": "Large marches on Paseo de la Reforma and Zocalo are common. Generally peaceful but can turn violent. Roadblocks disrupt traffic."
+            },
+            "police_reliability": {
+                "score": 2,
+                "corruption_level": "high",
+                "response_quality": "variable",
+                "notes": "Corruption endemic. Police may collude with criminals. National Guard deployment helps in some areas. Report crimes to Ministerio Publico. Tourist police in Zona Rosa/Polanco are more helpful."
+            },
+            "safe_zones": ["Polanco - upscale, embassy area, good security", "Condesa/Roma - trendy, relatively safe in daylight", "Santa Fe - business district, gated", "Lomas de Chapultepec"],
+            "unsafe_zones": ["Tepito - extremely dangerous, market area controlled by gangs", "Doctores after dark", "Iztapalapa", "Ecatepec", "Metro system after 10pm"],
+            "transport_risks": {
+                "road": "Carjacking risk, particularly on highways. Roadblocks in remote areas. Aggressive driving. Do not stop for people flagging you down.",
+                "airport": "AICM (Benito Juarez): airport taxi scams common. Use only authorized airport taxis (buy ticket inside terminal) or pre-booked transfers.",
+                "public_transport": "Metro is pickpocketing hotspot, especially Lines 1, 2, 3. Avoid after dark. Women-only carriages available.",
+                "recommended": "Registered rideshare (Uber, Didi). Licensed sitio taxis. Pre-vetted drivers for corporate clients."
+            },
+            "emergency_numbers": {
+                "police": "911",
+                "ambulance": "911",
+                "fire": "911"
+            },
+            "security_industry_context": "Large executive protection market. Armed bodyguards common among business elite. Armored vehicles widespread. Many ex-military operators. World Cup 2026 expected to increase demand for security services."
+        },
+        "istanbul": {
+            "city": "Istanbul",
+            "country": "Turkey",
+            "fcdo_level": "AGAINST_ESSENTIAL (parts)",
+            "state_dept_level": 2,
+            "osac_crime": "HIGH",
+            "risk_scores": {
+                "crime": 3,
+                "terrorism": 4,
+                "kidnapping": 2,
+                "civil_unrest": 3,
+                "police_reliability": 3,
+                "transport_risk": 2,
+                "overall": 3
+            },
+            "crime": {
+                "severity": "moderate",
+                "types": ["pickpocketing", "street robbery", "bag snatching", "overcharging/scams", "drink spiking"],
+                "hotspots": ["Istiklal Avenue/Taksim area", "Sultanahmet tourist area", "Grand Bazaar", "nightlife areas in Beyoglu"],
+                "notes": "Street crime in tourist areas, particularly pickpocketing. Drink spiking in nightlife areas. Scam bars overcharging dramatically. Generally lower violent crime than Latin American or African P1 cities."
+            },
+            "terrorism": {
+                "threat_level": "likely",
+                "active_groups": ["PKK/Kurdish groups", "Daesh (IS)", "DHKP/C (far-left)", "other extremist groups"],
+                "target_types": ["transport hubs", "tourist areas", "government buildings", "military targets", "places of worship", "foreign embassies"],
+                "recent_attacks": "2024 courthouse attack, 2024 church attack, 2024 aerospace facility attack, 2022 Istanbul Istiklal Avenue explosion (6 dead, 81 injured). Multiple groups maintain capability to strike Istanbul.",
+                "notes": "FCDO rates terrorism 'likely' in Istanbul and Ankara. Regular attacks in recent years. Security presence heavy at transport hubs and tourist sites. 6.2 magnitude earthquake in Sea of Marmara (April 2025) adds geophysical risk."
+            },
+            "kidnapping": {
+                "threat_level": "low",
+                "types": ["criminal kidnapping (rare in Istanbul)", "border area kidnapping (SE Turkey)"],
+                "hotspots": ["SE Turkey border areas only"],
+                "notes": "Kidnapping is not a significant threat in Istanbul. SE Turkey (Kurdish regions) has higher risk."
+            },
+            "civil_unrest": {
+                "frequency": "periodic",
+                "triggers": ["Kurdish issue protests", "political opposition", "Gezi Park-style movements", "Middle East events"],
+                "notes": "Protests can occur, especially around Taksim Square. Police response robust. State of emergency powers allow rapid crackdowns."
+            },
+            "police_reliability": {
+                "score": 3,
+                "corruption_level": "moderate",
+                "response_quality": "moderate-good",
+                "notes": "Turkish police reasonably responsive in Istanbul. Tourist police available. Heavy security presence at landmarks. Post-2016 coup attempt: expanded police and military presence."
+            },
+            "safe_zones": ["Beyoglu/Nisantasi - upscale shopping", "Kadikoy - Asian side, cosmopolitan", "Besiktas - bustling commercial", "Bebek along Bosphorus"],
+            "unsafe_zones": ["Istiklal Avenue (terrorism target, pickpocketing)", "Tarlabaasi - behind Taksim, crime", "Fatih back streets after dark", "Sultanahmet (tourist scams)"],
+            "transport_risks": {
+                "road": "Aggressive driving standards. Heavy traffic. Professional drivers recommended for unfamiliar visitors.",
+                "airport": "Istanbul Airport (IST): modern, good security. Use registered taxis or transfer services.",
+                "public_transport": "Metro, tram and ferry systems are generally safe. Pickpocketing on crowded trams.",
+                "recommended": "Licensed taxis or rideshare apps. Metro/tram system is efficient and reasonably safe."
+            },
+            "emergency_numbers": {
+                "police": "155",
+                "ambulance": "112",
+                "fire": "110"
+            },
+            "security_industry_context": "Growing executive protection market. Tourism recovery drives demand. Turkish security companies expanding. Regulatory framework for private security exists. EP operators must be licensed. Earthquake preparedness now a differentiator for security services."
+        },
+        "riyadh": {
+            "city": "Riyadh",
+            "country": "Saudi Arabia",
+            "fcdo_level": "AGAINST_ESSENTIAL (parts near Yemen border)",
+            "state_dept_level": 2,
+            "osac_crime": "LOW",
+            "risk_scores": {
+                "crime": 2,
+                "terrorism": 3,
+                "kidnapping": 1,
+                "civil_unrest": 2,
+                "police_reliability": 4,
+                "transport_risk": 3,
+                "overall": 2
+            },
+            "crime": {
+                "severity": "low",
+                "types": ["petty theft (rare)", "fraud", "road rage incidents"],
+                "hotspots": ["very few crime hotspots in Riyadh"],
+                "notes": "FCDO notes 'low rate of crime' in Saudi Arabia. Strict Islamic law enforcement acts as strong deterrent. Theft and violent crime uncommon. Most security concerns relate to regional terrorism threats and road safety."
+            },
+            "terrorism": {
+                "threat_level": "moderate",
+                "active_groups": ["Houthi rebels (cross-border attacks from Yemen)", "IS remnants"],
+                "target_types": ["military installations", "airports near Yemen border", "oil infrastructure", "government buildings"],
+                "recent_attacks": "Houthi drone/missile attacks on Abha airport and oil facilities. Riyadh has been targeted by long-range missiles from Yemen.",
+                "notes": "Regional tensions from Yemen conflict. Houthi attacks on Saudi territory persist. IS has previously targeted Saudi security forces and Shia mosques. Riyadh itself relatively well-protected with extensive security apparatus."
+            },
+            "kidnapping": {
+                "threat_level": "minimal",
+                "types": [],
+                "hotspots": [],
+                "notes": "Kidnapping is extremely rare in Saudi Arabia. Strict law enforcement and harsh penalties are effective deterrents."
+            },
+            "civil_unrest": {
+                "frequency": "rare",
+                "triggers": ["demonstrations are illegal in Saudi Arabia"],
+                "notes": "Public protests are illegal. Security forces maintain strict control. Vision 2030 reforms creating some social change but dissent is suppressed."
+            },
+            "police_reliability": {
+                "score": 4,
+                "corruption_level": "low",
+                "response_quality": "good",
+                "notes": "Saudi police are well-resourced and responsive. Strict enforcement of laws. However, strict Islamic law applies (zero tolerance for drugs, alcohol restrictions, dress codes). Foreign workers may face travel bans for employment disputes."
+            },
+            "safe_zones": ["Diplomatic Quarter - secured, embassy area", "King Abdullah Financial District", "Al Olaya - main commercial strip", "most of Riyadh is relatively safe"],
+            "unsafe_zones": ["Limited unsafe zones within Riyadh itself. Industrial areas at night slightly higher risk.", "outskirts/desert areas at night"],
+            "transport_risks": {
+                "road": "FCDO warns of poor driving standards. High-speed driving on highways. Road accident rate is high. Distracted and aggressive driving common.",
+                "airport": "King Khalid International: good security. Use registered taxis or pre-arranged transfers.",
+                "public_transport": "Riyadh Metro opened 2024. Generally safe. Limited public transport historically; private cars dominant.",
+                "recommended": "Private drivers. Riyadh Metro for business areas. Licensed taxis."
+            },
+            "emergency_numbers": {
+                "police": "999",
+                "ambulance": "997",
+                "fire": "998"
+            },
+            "security_industry_context": "Expanding market due to Vision 2030 tourism push and mega-events (NEOM, entertainment sector). Licensed security companies must comply with Saudi regulations. Foreign operators face strict licensing requirements. Executive protection demand growing with increase in international events and corporate activity."
+        },
+        "dubai": {
+            "city": "Dubai",
+            "country": "UAE",
+            "fcdo_level": "AGAINST_ESSENTIAL (regional tensions April 2026)",
+            "state_dept_level": 2,
+            "osac_crime": "LOW",
+            "risk_scores": {
+                "crime": 1,
+                "terrorism": 2,
+                "kidnapping": 1,
+                "civil_unrest": 1,
+                "police_reliability": 5,
+                "transport_risk": 2,
+                "overall": 2
+            },
+            "crime": {
+                "severity": "low",
+                "types": ["petty theft (very rare)", "fraud/scams", "cybercrime"],
+                "hotspots": ["very few; some reports in crowded tourist areas like Deira souks"],
+                "notes": "FCDO notes low crime rate. Strict laws and heavy surveillance act as deterrents. Zero tolerance for drugs. Alcohol-related incidents can lead to arrest. Main risks are legal/cultural rather than criminal."
+            },
+            "terrorism": {
+                "threat_level": "moderate (regional)",
+                "active_groups": ["Regional threat linked to Middle East tensions"],
+                "target_types": ["Israeli/Jewish targets specifically mentioned by FCDO", "government buildings", "transport hubs", "commercial centers"],
+                "recent_attacks": "No recent attacks in Dubai. FCDO warns of regional tensions elevating threat. Houthi maritime attacks in region.",
+                "notes": "FCDO currently advises against all but essential travel to UAE due to regional tensions (April 2026). Low inherent domestic terrorism risk but proximity to regional conflict zones. Strong counter-terrorism capability."
+            },
+            "kidnapping": {
+                "threat_level": "minimal",
+                "types": [],
+                "hotspots": [],
+                "notes": "Kidnapping virtually nonexistent. Dubai is one of the safest cities globally for personal security."
+            },
+            "civil_unrest": {
+                "frequency": "virtually none",
+                "triggers": ["protests are effectively prohibited"],
+                "notes": "Public protests do not occur. Strong surveillance state. Social media posts critical of UAE can lead to arrest."
+            },
+            "police_reliability": {
+                "score": 5,
+                "corruption_level": "very low",
+                "response_quality": "excellent",
+                "notes": "Dubai Police are well-funded, technologically advanced, and responsive. Tourist police available. However, strict laws on alcohol, drugs, dress, and social media can catch foreigners off-guard. Regional tensions in April 2026 prompted FCDO advisory."
+            },
+            "safe_zones": ["Almost all of Dubai is safe. Downtown, Marina, JBR, Palm Jumeirah, DIFC all very safe."],
+            "unsafe_zones": ["Effectively none. Some labor camps in industrial areas (Sonapur/Al Quoz) have different conditions but not 'unsafe' for visitors."],
+            "transport_risks": {
+                "road": "Aggressive and fast driving on Sheikh Zayed Road. Tailgating common. Road accidents are the primary physical risk in Dubai.",
+                "airport": "DXB: excellent security. Registered taxis and metro available. Uber and Careem operate.",
+                "public_transport": "Metro and tram are safe and modern. Taxis trustworthy. RTA regulated.",
+                "recommended": "Dubai Metro, registered taxis, rideshare apps. All are safe options."
+            },
+            "emergency_numbers": {
+                "police": "999",
+                "ambulance": "998",
+                "fire": "997"
+            },
+            "security_industry_context": "Growing market driven by events (Expo legacy, tourism push) and regional corporate HQ relocations. Licensed security companies regulated by SIRA (Security Industry Regulatory Agency). Foreign operators must partner with local entities. Executive protection demand from HNWIs, celebrities, and corporate executives. Firearms strictly prohibited for private security."
+        },
+        "mumbai": {
+            "city": "Mumbai",
+            "country": "India",
+            "fcdo_level": "SEE_WARNINGS",
+            "state_dept_level": 2,
+            "osac_crime": "HIGH",
+            "risk_scores": {
+                "crime": 3,
+                "terrorism": 4,
+                "kidnapping": 2,
+                "civil_unrest": 3,
+                "police_reliability": 2,
+                "transport_risk": 4,
+                "overall": 3
+            },
+            "crime": {
+                "severity": "moderate",
+                "types": ["pickpocketing", "scams", "sexual assault", "petty theft", "cybercrime"],
+                "hotspots": ["Dharavi area", "crowded train stations (CST, Dadar)", "tourist areas at night", "isolated areas"],
+                "notes": "FCDO warns of sexual assault risk against women including foreign nationals. Pickpocketing on crowded trains and buses. Scams targeting tourists common. Violent crime against tourists relatively rare but sexual assault concerns are serious."
+            },
+            "terrorism": {
+                "threat_level": "very likely",
+                "active_groups": ["Lashkar-e-Taiba (LeT)", "Jaish-e-Mohammed (JeM)", "AQIS (al-Qaeda Indian Subcontinent)", "IS-inspired cells"],
+                "target_types": ["hotels (Taj Mahal Palace targeted 2008)", "transport hubs", "commercial centers", "places of worship", "military installations"],
+                "recent_attacks": "2008 Mumbai attacks (166 dead, multiple locations over 3 days) remain the defining event. Ongoing threat from Pakistan-based groups and IS-inspired lone actors.",
+                "notes": "Mumbai is considered a priority target for terrorism. 2008 attacks on Taj Mahal Palace, Oberoi, Leopold Cafe, CST station. Heightened security at luxury hotels since then. LeT/JeM maintain intent. AQIS emerging threat."
+            },
+            "kidnapping": {
+                "threat_level": "low",
+                "types": ["criminal kidnapping (rare in Mumbai)", "child kidnapping"],
+                "hotspots": [],
+                "notes": "Kidnapping is not a significant threat in Mumbai itself. Higher in rural areas and some northern states."
+            },
+            "civil_unrest": {
+                "frequency": "regular",
+                "triggers": ["religious tensions (Hindu-Muslim)", "caste disputes", "political rallies", "labor strikes", "anti-corruption movements"],
+                "notes": "Demonstrations common and can turn violent. Bandh (shutdown) protests can paralyze the city. Communal tensions between communities can escalate rapidly."
+            },
+            "police_reliability": {
+                "score": 2,
+                "corruption_level": "high",
+                "response_quality": "variable",
+                "notes": "Mumbai police under-staffed and under-resourced. Corruption present. Response times poor in many areas. Post-2008 attacks: improved counter-terrorism capability but regular policing still challenged."
+            },
+            "safe_zones": ["Colaba/Nariman Point - tourist area with increased security post-2008", "Bandra-Kurla Complex (BKC) - business district", "Powai - newer development, gated compounds", "Juhu - upscale residential"],
+            "unsafe_zones": ["Dharavi - large informal settlement", "Kamathipura", "isolated areas at night", "crowded local trains during off-peak (women particularly at risk)"],
+            "transport_risks": {
+                "road": "FCDO warns India has one of the highest road accident death rates globally. Mumbai traffic is chaotic. Potholes, unpredictable drivers, pedestrians and animals on roads.",
+                "airport": "Chhatrapati Shivaji Maharaj International (BOM): use pre-booked transfers. Avoid unlicensed taxis.",
+                "public_transport": "Local trains are extremely overcrowded. People fall from moving trains. Not recommended for security-conscious travel. Autorickshaws and taxis safer but negotiate fares.",
+                "recommended": "Pre-booked private cars with drivers. Ola/Uber rideshare apps. Avoid local trains for all but adventurous solo travel."
+            },
+            "emergency_numbers": {
+                "police": "100",
+                "ambulance": "108",
+                "fire": "101"
+            },
+            "security_industry_context": "Large and growing executive protection market driven by Bollywood, corporate India, and visiting HNWIs. Licensed security agencies regulated by PSARA (Private Security Agencies Regulation Act). Firearms heavily restricted for private security. Most EP is unarmed with police liaison for armed support."
+        },
+        "moscow": {
+            "city": "Moscow",
+            "country": "Russia",
+            "fcdo_level": "AGAINST_ALL_TRAVEL",
+            "state_dept_level": 4,
+            "osac_crime": "HIGH",
+            "risk_scores": {
+                "crime": 3,
+                "terrorism": 5,
+                "kidnapping": 2,
+                "civil_unrest": 3,
+                "police_reliability": 2,
+                "transport_risk": 3,
+                "overall": 5
+            },
+            "crime": {
+                "severity": "moderate",
+                "types": ["pickpocketing", "mugging", "drink spiking", "unregistered taxi robbery", "fake police scams", "methanol poisoning", "racial discrimination/attacks"],
+                "hotspots": ["main railway stations", "tourist areas (Red Square, Arbat)", "metro late at night", "St Petersburg gangs targeting tourists"],
+                "notes": "FCDO warns about drink spiking leading to robbery (victims left unconscious outside, life-threatening in winter). Criminals pose as police officers to rob tourists. Unregistered taxis dangerous. Racial attacks possible against African/Asian descent visitors."
+            },
+            "terrorism": {
+                "threat_level": "very likely",
+                "active_groups": ["IS/Daesh", "North Caucasus insurgents", "Ukrainian military operations (drone attacks)"],
+                "target_types": ["concerts/entertainment venues", "transport hubs", "airports", "public gatherings", "residential areas (drone attacks)"],
+                "recent_attacks": "March 2024: Crocus City Concert Hall attack, 145 killed (IS claimed). June 2024: Dagestan attacks on synagogues/churches (20+ killed). Ongoing drone attacks on Moscow and western Russia from Ukraine conflict.",
+                "notes": "FCDO advises against ALL travel to Russia. Terrorism threat compounded by Ukraine conflict. Drone attacks and explosions hit Moscow, St Petersburg, and western/southern Russia. Unpredictable security situation. Risk of detention for foreign nationals. Sanctions limit banking access."
+            },
+            "kidnapping": {
+                "threat_level": "low",
+                "types": ["state detention (political)", "criminal kidnapping (rare)"],
+                "hotspots": [],
+                "notes": "Traditional kidnapping is not a major threat. However, FCDO warns of risk of arrest and prolonged detention for foreign nationals suspected of activities against Russian interests. This includes social media posts supporting Ukraine."
+            },
+            "civil_unrest": {
+                "frequency": "suppressed",
+                "triggers": ["anti-war protests (suppressed)", "political opposition"],
+                "notes": "Protests are illegal and immediately suppressed. Demonstrators detained. A single person can constitute a protest under Russian law. Foreign nationals participating in any political activity face deportation or prosecution."
+            },
+            "police_reliability": {
+                "score": 2,
+                "corruption_level": "high",
+                "response_quality": "authoritarian-effective",
+                "notes": "Police conduct random passport checks and may detain for 48 hours. Foreign nationals may be targeted for bribes. Fake police scam exists. Policing is effective but authoritarian. FCDO's ability to help detained British nationals is extremely limited."
+            },
+            "safe_zones": ["Central tourist areas in daylight (Red Square, Kremlin area)", "Tverskaya district", "Upscale hotel districts"],
+            "unsafe_zones": ["Railway stations at night", "Outskirts and industrial areas", "Areas near airports during drone attacks", "Any area during drone/missile attacks (take cover in buildings/underground)"],
+            "transport_risks": {
+                "road": "Poor road conditions outside main highways. Do not drive alone at night. Do not pick up hitchhikers. Traffic police frequently stop drivers for spot checks.",
+                "airport": "Frequent and unpredictable flight delays/diversions/cancellations due to drone attacks. Passport theft reported at Moscow airports. No direct flights to UK or EU.",
+                "public_transport": "Metro generally safe with airport-style security. Railway requires passport. Do not leave sleeping compartment empty on overnight trains.",
+                "recommended": "Registered taxi apps only. Metro for city travel. Never flag down taxis or share with strangers."
+            },
+            "emergency_numbers": {
+                "police": "102",
+                "ambulance": "103",
+                "fire": "101"
+            },
+            "security_industry_context": "FCDO advises against all travel. Executive protection operations in Russia are complicated by sanctions, political risk, and limited Western provider presence. Russian security firms dominate. Foreign security operators face severe legal restrictions. Any security operation requires awareness of state surveillance."
+        },
+        "sao_paulo": {
+            "city": "Sao Paulo",
+            "country": "Brazil",
+            "fcdo_level": "AGAINST_ESSENTIAL (parts)",
+            "state_dept_level": 2,
+            "osac_crime": "CRITICAL",
+            "risk_scores": {
+                "crime": 5,
+                "terrorism": 2,
+                "kidnapping": 4,
+                "civil_unrest": 3,
+                "police_reliability": 2,
+                "transport_risk": 3,
+                "overall": 4
+            },
+            "crime": {
+                "severity": "critical",
+                "types": ["armed robbery", "carjacking", "express kidnapping (sequestro relampago)", "pickpocketing", "arrastao (group beach robbery)", "phone snatching", "dating app robbery"],
+                "hotspots": ["Cracolandia (drug zone)", "Liberdade at night", "Bras district", "Luz area", "tunnels (carjacking)", "traffic lights after dark"],
+                "notes": "FCDO warns robberies common, attackers often armed and under influence of drugs. Do not resist. Phone snatches prevalent 4pm-9pm. Express kidnapping: victims driven to ATMs. Dating apps used by criminals to lure and rob foreigners. Favelas in all major cities, extremely dangerous, avoid entirely."
+            },
+            "terrorism": {
+                "threat_level": "likely (low probability)",
+                "active_groups": [],
+                "target_types": ["crowded places", "public gatherings"],
+                "recent_attacks": "November 2024: explosions at Praca dos Tres Poderes in Brasilia. No major terrorist organizations but lone-actor threats exist.",
+                "notes": "Terrorism threat is present but lower than organized crime. The primary security concern is street crime and organized criminal militias."
+            },
+            "kidnapping": {
+                "threat_level": "high",
+                "types": ["express kidnapping (sequestro relampago)", "virtual kidnapping", "traditional kidnapping"],
+                "hotspots": ["approaches to ATMs", "nightlife areas", "favela peripheries", "wealthy neighborhoods for traditional kidnap"],
+                "notes": "Express kidnapping is endemic in Brazilian cities. Victims driven to ATMs and forced to withdraw maximum daily limits over multiple transactions. May last several hours. Violence during kidnapping is common."
+            },
+            "civil_unrest": {
+                "frequency": "regular",
+                "triggers": ["economic protests", "workers' strikes", "political demonstrations"],
+                "notes": "Protests common in all Brazilian cities. Police use rubber bullets and tear gas. Avoid Avenida Paulista during demonstrations."
+            },
+            "police_reliability": {
+                "score": 2,
+                "corruption_level": "high",
+                "response_quality": "variable",
+                "notes": "Military police handle street patrols, civil police handle investigations. Corruption exists in both. Police operations in favelas can be violent with collateral damage. Private security widely used."
+            },
+            "safe_zones": ["Jardins - upscale, relatively safe", "Vila Madalena - trendy, daylight safe", "Itaim Bibi - business/upscale", "Faria Lima corridor", "Pinheiros"],
+            "unsafe_zones": ["Cracolandia - open drug market, extremely dangerous", "All favelas", "Bras/Luz districts", "Centro at night", "any area during carjacking-prone hours (after dark at traffic lights)"],
+            "transport_risks": {
+                "road": "High road accident rate. Carjacking at traffic lights, especially after dark and in tunnels. Keep doors locked and windows up. Minimize stops.",
+                "airport": "Guarulhos (GRU): use pre-booked transfers. Congonhas (CGH): city airport, use registered taxis. Passport theft reported.",
+                "public_transport": "Metro is relatively safe with security presence. Avoid after 10pm. Theft and robbery on buses common.",
+                "recommended": "Registered rideshare apps (99, Uber). Pre-vetted private drivers for corporate clients. Avoid street taxis."
+            },
+            "emergency_numbers": {
+                "police": "190",
+                "ambulance": "192",
+                "fire": "193"
+            },
+            "security_industry_context": "Mature executive protection market. Armored vehicles extremely common among Brazilian wealthy (estimated 100k+ armored vehicles in country). EP operatives typically armed and ex-military/police. Organized crime militias complicate security landscape. Regulatory framework exists but enforcement varies."
+        },
+        "manila": {
+            "city": "Manila",
+            "country": "Philippines",
+            "fcdo_level": "AGAINST_ALL_TRAVEL (Mindanao/Sulu)",
+            "state_dept_level": 2,
+            "osac_crime": "CRITICAL",
+            "risk_scores": {
+                "crime": 4,
+                "terrorism": 4,
+                "kidnapping": 4,
+                "civil_unrest": 3,
+                "police_reliability": 2,
+                "transport_risk": 3,
+                "overall": 4
+            },
+            "crime": {
+                "severity": "high",
+                "types": ["armed robbery", "hold-ups on jeepneys/buses", "pickpocketing", "taxi robbery", "phone snatching"],
+                "hotspots": ["Tondo district", "Quiapo", "Manila CBD at night", "jeepney routes", "Ermita/Malate after dark"],
+                "notes": "High levels of street crime involving weapons and firearms. Armed hold-ups on jeepneys and buses, some resulting in fatalities. Taxi drivers and accomplices have robbed and harmed passengers. Use only reputable taxi companies."
+            },
+            "terrorism": {
+                "threat_level": "very likely",
+                "active_groups": ["Abu Sayyaf Group (ASG)", "Islamic State Philippines (IS-Philippines)", "Bangsamoro Islamic Freedom Fighters (BIFF)"],
+                "target_types": ["shopping malls", "entertainment venues", "public transport including airports and metro", "places of worship"],
+                "recent_attacks": "December 2023: 4 killed in explosion during Catholic mass in Marawi. Multiple groups maintain intent to attack Manila. Previous incidents include mall bombings and transport attacks.",
+                "notes": "Terrorism primarily in Mindanao and Sulu but multiple groups have intent and capability to strike Manila. Shopping malls and transport are primary soft targets."
+            },
+            "kidnapping": {
+                "threat_level": "high",
+                "types": ["terrorist kidnapping (ASG in south)", "criminal kidnapping for ransom"],
+                "hotspots": ["Mindanao/Sulu (terrorist)", "metropolitan Manila (criminal)"],
+                "notes": "Terrorist kidnapping by ASG targets foreigners including British nationals. Criminal kidnapping for ransom also exists in Manila. Western nationals seen as legitimate targets."
+            },
+            "civil_unrest": {
+                "frequency": "periodic",
+                "triggers": ["political protests", "labor disputes", "anti-government sentiment"],
+                "notes": "Bureau of Immigration warns foreign nationals against participating in protests. Deportation possible. Avoid demonstrations."
+            },
+            "police_reliability": {
+                "score": 2,
+                "corruption_level": "high",
+                "response_quality": "variable",
+                "notes": "Philippine National Police has mixed reputation. Drug war under previous administration involved extrajudicial killings. Corruption at all levels. Penalties for drug offenses extremely severe. Private security commonly employed by businesses."
+            },
+            "safe_zones": ["Makati - business district, good security", "Bonifacio Global City (BGC) - modern, secured", "Ortigas Center - business hub", "Alabang - gated residential"],
+            "unsafe_zones": ["Tondo - dense, high crime", "Quiapo - pickpocketing, overcrowded", "Manila CBD at night", "Ermita/Malate red light area", "Any area during typhoon season (infrastructure collapse)"],
+            "transport_risks": {
+                "road": "Poor road conditions, dangerous driving, non-enforcement of traffic laws. Random security checkpoints. Drive with caution especially at night.",
+                "airport": "NAIA (Ninoy Aquino): use pre-arranged transfers. Avoid unlicensed taxis. Security checkpoints on approach roads.",
+                "public_transport": "Jeepneys and buses are armed robbery targets. MRT/LRT trains overcrowded. Safety standards on taxis low.",
+                "recommended": "Pre-vetted private drivers. Grab rideshare app. Hotel transfer services."
+            },
+            "emergency_numbers": {
+                "police": "117",
+                "ambulance": "911",
+                "fire": "911"
+            },
+            "security_industry_context": "Active security market driven by crime and terrorism threats. Licensed security agencies common. Armed guards at malls, hotels, and office buildings. Executive protection available but quality varies. Government buildings and commercial centers have metal detectors and bag checks as standard."
+        },
+        "karachi": {
+            "city": "Karachi",
+            "country": "Pakistan",
+            "fcdo_level": "AGAINST_ESSENTIAL (parts)",
+            "state_dept_level": 3,
+            "osac_crime": "CRITICAL",
+            "risk_scores": {
+                "crime": 5,
+                "terrorism": 5,
+                "kidnapping": 5,
+                "civil_unrest": 4,
+                "police_reliability": 2,
+                "transport_risk": 4,
+                "overall": 5
+            },
+            "crime": {
+                "severity": "critical",
+                "types": ["street crime", "armed robbery", "carjacking", "target killings", "extortion"],
+                "hotspots": ["Lyari - gang-controlled", "Orangi Town", "Korangi", "various areas at night"],
+                "notes": "FCDO warns of active black market in forged and stolen passports. Credit card fraud common. Street crime is risk in all areas, particularly crowded ones. British nationals of Pakistani origin specifically targeted as they are perceived as wealthier."
+            },
+            "terrorism": {
+                "threat_level": "very likely",
+                "active_groups": ["Tehreek-e Taliban Pakistan (TTP)", "Tehreek-e Jihad Pakistan (TJP)", "Balochistan Liberation Army (BLA)", "Islamic State Khorasan Province (ISKP)", "al-Qaida"],
+                "target_types": ["airports (Oct 2024: suicide attack near Karachi Jinnah International killed 4 including 2 Chinese nationals)", "government buildings", "security forces", "places of worship", "railways", "public gatherings"],
+                "recent_attacks": "February 2026: suicide bombing at mosque in Islamabad (36 dead). January 2026: coordinated BLA attacks across Balochistan (48+ dead). October 2024: suicide attack near Karachi airport (4 dead). March 2025: BLA hijacked Jaffar Express train (64 dead).",
+                "notes": "Pakistan has some of the highest terrorism threat levels globally. Multiple active groups. Attacks frequent, often with mass casualties. TTP and ISKP conduct urban attacks. BLA targets Balochistan and Chinese nationals. Avoid all railway travel."
+            },
+            "kidnapping": {
+                "threat_level": "critical",
+                "types": ["terrorist kidnapping", "criminal kidnapping for ransom", "express kidnapping"],
+                "hotspots": ["throughout Karachi", "particularly Khyber Pakhtunkhwa and Balochistan provinces"],
+                "notes": "Kidnapping threat throughout Pakistan. British nationals of Pakistani origin particularly targeted. Terrorist groups may opportunistically kidnap Westerners. British government does not pay ransoms."
+            },
+            "civil_unrest": {
+                "frequency": "regular",
+                "triggers": ["political rallies", "sectarian violence", "election periods", "economic protests"],
+                "notes": "Mobile data and internet cut without warning during unrest. Major roads blocked. Political demonstrations can start with little warning and turn violent. Election periods particularly dangerous."
+            },
+            "police_reliability": {
+                "score": 2,
+                "corruption_level": "high",
+                "response_quality": "poor",
+                "notes": "Police under-resourced and sometimes complicit in crime. Rangers (paramilitary) supplement police in Karachi. Security forces may use excessive force. Private security widely used by businesses and the wealthy."
+            },
+            "safe_zones": ["Defence Housing Authority (DHA) - gated, military-secured", "Clifton - upscale residential, checkpoints", "Bahria Town - gated community"],
+            "unsafe_zones": ["Lyari - gang warfare", "Orangi Town", "Korangi Industrial Area at night", "Old City/Saddar after dark", "anywhere near political/religious gatherings"],
+            "transport_risks": {
+                "road": "Erratic driving standards, especially at night. Carjacking risk. FCDO advises to avoid public transport including Metro Bus.",
+                "airport": "Jinnah International: suicide attack nearby in Oct 2024. Heightened security. Use pre-arranged vetted transfers only.",
+                "public_transport": "FCDO explicitly advises avoiding all public transport. Avoid railways due to terrorist attacks and derailments. Avoid e-taxis and online taxi apps.",
+                "recommended": "Pre-vetted private drivers with advance route checks. Armored vehicles for high-profile clients. Obtain No Objection Certificate for some travel. Police escorts may be arranged in higher-risk areas."
+            },
+            "emergency_numbers": {
+                "police": "15",
+                "ambulance": "115 (Edhi Foundation)",
+                "fire": "16"
+            },
+            "security_industry_context": "High demand for executive protection due to threat environment. Armed security common. Many operators have military (Pak Army) or ISI backgrounds. Critical to work with locally connected firms. Advance permissions often needed from authorities. No Objection Certificates may be required for travel."
+        },
+        "bangkok": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "fcdo_level": "AGAINST_ESSENTIAL (southern provinces)",
+            "state_dept_level": 1,
+            "osac_crime": "MODERATE",
+            "risk_scores": {
+                "crime": 3,
+                "terrorism": 2,
+                "kidnapping": 1,
+                "civil_unrest": 3,
+                "police_reliability": 3,
+                "transport_risk": 4,
+                "overall": 3
+            },
+            "crime": {
+                "severity": "moderate",
+                "types": ["pickpocketing", "bag snatching (motorcycle-borne)", "drink spiking", "sexual assault", "scams (jet-ski, tuk-tuk, gem)", "bank card fraud"],
+                "hotspots": ["Khao San Road", "Patpong/Nana nightlife areas", "Sukhumvit sois at night", "tourist areas generally"],
+                "notes": "FCDO warns of violent sexual assaults in tourist areas, especially during full moon parties and near bars late at night. Drink spiking affects both males and females. Bag snatching by motorcycle riders. Gem scams and tuk-tuk overcharging. Job scams have led to human trafficking to neighboring countries."
+            },
+            "terrorism": {
+                "threat_level": "likely (low in Bangkok)",
+                "active_groups": ["Southern insurgent groups (BRN/PULO, primarily southern provinces)"],
+                "target_types": ["security forces (south)", "government offices (south)", "random targets anywhere theoretically"],
+                "recent_attacks": "Regular attacks in 4 southern border provinces (Yala, Pattani, Narathiwat, Songkhla). Martial law in force there. Bangkok itself has low terrorism frequency.",
+                "notes": "Terrorism concentrated in southern provinces near Malaysia border. Bangkok has experienced sporadic political bombings in the past but not regular terrorism. FCDO advises against all but essential travel to Yala, Pattani, Narathiwat, Songkhla."
+            },
+            "kidnapping": {
+                "threat_level": "minimal",
+                "types": [],
+                "hotspots": [],
+                "notes": "Kidnapping is not a significant threat in Bangkok."
+            },
+            "civil_unrest": {
+                "frequency": "periodic",
+                "triggers": ["political instability", "monarchist vs. reform protests", "military coup aftereffects"],
+                "notes": "Thailand's political situation can be unpredictable. Protests and military coups have occurred. Lese-majeste laws strictly enforced. Avoid all political demonstrations."
+            },
+            "police_reliability": {
+                "score": 3,
+                "corruption_level": "moderate",
+                "response_quality": "moderate",
+                "notes": "Tourist police available at major tourist areas. Regular police may be less helpful or seek informal payments. Drug enforcement extremely strict (death penalty possible). Vape and e-cigarette possession illegal and enforced."
+            },
+            "safe_zones": ["Sukhumvit - main expat/tourist corridor", "Silom - business district", "Sathorn - upscale business", "Thonglor/Ekkamai - trendy, safe"],
+            "unsafe_zones": ["Klong Toey slum area", "Khao San Road (scams, drink spiking late at night)", "Patpong (over-charging, assault risk)", "remote sois after midnight"],
+            "transport_risks": {
+                "road": "WHO ranks Thailand among world's deadliest for motorcycle fatalities. Aggressive driving. Motorbike accidents are leading cause of serious injury/death for tourists.",
+                "airport": "Suvarnabhumi (BKK): modern, safe. Use registered taxis (metered, from official stand) or rideshare apps.",
+                "public_transport": "BTS Skytrain and MRT are safe and efficient. River boats generally safe. Avoid unregistered tuk-tuks for anything other than short known-distance trips.",
+                "recommended": "BTS/MRT for city travel. Grab rideshare app. Hotel transfers for airport."
+            },
+            "emergency_numbers": {
+                "police": "191",
+                "ambulance": "1669",
+                "fire": "199",
+                "tourist_police": "1155"
+            },
+            "security_industry_context": "Growing market driven by tourism and expatriate community. Licensed security companies operate under Thai law. Executive protection available but firearms strictly controlled. Unarmed EP standard. Market less mature than Latin American or African counterparts but developing."
+        },
+        "jakarta": {
+            "city": "Jakarta",
+            "country": "Indonesia",
+            "fcdo_level": "AGAINST_ALL_TRAVEL (parts)",
+            "state_dept_level": 2,
+            "osac_crime": "HIGH",
+            "risk_scores": {
+                "crime": 3,
+                "terrorism": 4,
+                "kidnapping": 2,
+                "civil_unrest": 3,
+                "police_reliability": 2,
+                "transport_risk": 3,
+                "overall": 3
+            },
+            "crime": {
+                "severity": "moderate",
+                "types": ["pickpocketing", "bag snatching", "credit card fraud", "drink spiking", "scams"],
+                "hotspots": ["Kota Tua (Old Town) at night", "crowded markets", "public transport hubs", "nightlife areas"],
+                "notes": "FCDO warns of sexual assault risk (particularly in Bali/Lombok but also Jakarta). Drink spiking linked to assault. Credit card fraud common. ATM scams. Bag snatching in busy tourist areas. Methanol poisoning from counterfeit alcohol brands."
+            },
+            "terrorism": {
+                "threat_level": "likely",
+                "active_groups": ["Jemaah Islamiyah remnants", "IS-affiliated cells", "various Islamist extremist groups"],
+                "target_types": ["hotels and bars", "shopping malls (international brands)", "places of worship", "police posts", "foreign embassies", "transport hubs"],
+                "recent_attacks": "2022: suicide bomber at police post in Bandung (1 killed). 2021: suicide attack at Makassar cathedral. Indonesian authorities regularly disrupt plots and arrest suspects.",
+                "notes": "Islamist extremism threat remains high. Indonesian authorities effective at disruption but cells regenerate. Heightened risk around Christmas, New Year, Ramadan, Independence Day. Western interests specifically at risk."
+            },
+            "kidnapping": {
+                "threat_level": "low",
+                "types": ["criminal kidnapping (rare in Jakarta)"],
+                "hotspots": [],
+                "notes": "Kidnapping not a significant threat in Jakarta. Maritime piracy/kidnapping in Sulu/Celebes seas affects maritime areas."
+            },
+            "civil_unrest": {
+                "frequency": "occasional",
+                "triggers": ["elections", "Middle East events", "religious tensions", "student protests"],
+                "notes": "Protests can become violent without warning. Indonesian elections and external events (Middle East conflict) can trigger unrest. Avoid all demonstrations."
+            },
+            "police_reliability": {
+                "score": 2,
+                "corruption_level": "moderate-high",
+                "response_quality": "variable",
+                "notes": "Indonesian police may seek informal payments after traffic incidents. Drug enforcement is extremely strict (death penalty for trafficking). British nationals have received long sentences. Police regularly raid venues popular with foreigners for drug checks."
+            },
+            "safe_zones": ["Menteng - diplomatic/upscale residential", "Sudirman CBD - business skyscraper district", "Kemang - expat dining area", "Kuningan - embassy district"],
+            "unsafe_zones": ["Kota Tua at night", "Areas during flooding (main toll road to airport affected)", "Industrial areas", "Poorly lit back streets"],
+            "transport_risks": {
+                "road": "Very poor traffic discipline. Massive congestion. Moped/motorcycle accidents frequent and often fatal. Foreign nationals involved in minor accidents may face extortion.",
+                "airport": "Soekarno-Hatta (CGK): main toll road frequently flooded in rainy season. Allow extra time. Use registered taxis or pre-booked transfers.",
+                "public_transport": "TransJakarta BRT improving. MRT Jakarta relatively new and safe. Avoid commuter trains during peak. Motorcycle taxis (ojek) via Gojek/Grab app widely used but risky.",
+                "recommended": "Bluebird taxis (registered, metered). Grab/Gojek rideshare apps. Private drivers for corporate clients. MRT for SCBD corridor."
+            },
+            "emergency_numbers": {
+                "police": "110",
+                "ambulance": "118",
+                "fire": "113"
+            },
+            "security_industry_context": "Growing security market driven by corporate expansion and event hosting. Licensed security companies regulated under Indonesian law. Zero tolerance drug laws mean security firms must ensure compliance. EP market developing with mix of local and international providers. Sharia law applies in Aceh province (not Jakarta)."
+        }
+    }
+}
+
+with open("city_risk_profiles.json", "w", encoding="utf-8") as f:
+    json.dump(profiles, f, indent=2, ensure_ascii=False)
+
+print(f"Created city_risk_profiles.json with {len(profiles['cities'])} city profiles")
+print(f"File size: {len(json.dumps(profiles, indent=2)):,} characters")

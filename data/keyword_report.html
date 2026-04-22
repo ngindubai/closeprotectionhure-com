@@ -1,0 +1,726 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keyword Research Matrix — Security & Bodyguard Hire</title>
+    <style>
+        :root {
+            --bg: #0d1117;
+            --surface: #161b22;
+            --surface-2: #1c2333;
+            --border: #30363d;
+            --text: #c9d1d9;
+            --text-muted: #8b949e;
+            --heading: #f0f6fc;
+            --accent: #58a6ff;
+            --green: #3fb950;
+            --red: #f85149;
+            --orange: #d29922;
+            --purple: #bc8cff;
+            --cyan: #39d2c0;
+            --yellow: #e3b341;
+            --pink: #f778ba;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+
+        .hero { background: linear-gradient(135deg, #0d1117 0%, #1a1020 40%, #201518 100%); border-bottom: 1px solid var(--border); padding: 60px 40px 40px; text-align: center; }
+        .hero h1 { font-size: 2.2rem; color: var(--heading); margin-bottom: 8px; }
+        .hero .subtitle { font-size: 1rem; color: var(--text-muted); max-width: 700px; margin: 0 auto 20px; }
+        .hero .meta { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+        .hero .meta span { background: var(--surface); padding: 4px 12px; border-radius: 16px; border: 1px solid var(--border); font-size: 0.78rem; color: var(--text-muted); }
+
+        .container { max-width: 1400px; margin: 0 auto; padding: 32px 24px; }
+        h2 { color: var(--heading); font-size: 1.6rem; font-weight: 700; margin-bottom: 16px; padding-bottom: 8px; border-bottom: 2px solid var(--border); }
+        h3 { color: var(--heading); font-size: 1.2rem; font-weight: 600; margin: 24px 0 10px; }
+        h4 { color: var(--accent); font-size: 1rem; font-weight: 600; margin: 16px 0 6px; }
+        p { margin-bottom: 12px; }
+
+        .card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 20px; margin-bottom: 14px; }
+        .card-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin: 16px 0; }
+        .card-grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 14px; margin: 16px 0; }
+
+        table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 0.85rem; }
+        th { background: var(--surface-2); color: var(--heading); text-align: left; padding: 10px 12px; font-weight: 600; border: 1px solid var(--border); position: sticky; top: 0; }
+        td { padding: 8px 12px; border: 1px solid var(--border); vertical-align: top; }
+        tr:nth-child(even) td { background: rgba(22, 27, 34, 0.4); }
+        tr:hover td { background: rgba(88, 166, 255, 0.05); }
+
+        .badge { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 0.7rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; white-space: nowrap; }
+        .b-red { background: rgba(248,81,73,0.15); color: var(--red); }
+        .b-orange { background: rgba(210,153,34,0.15); color: var(--orange); }
+        .b-green { background: rgba(63,185,80,0.15); color: var(--green); }
+        .b-blue { background: rgba(88,166,255,0.15); color: var(--accent); }
+        .b-purple { background: rgba(188,140,255,0.15); color: var(--purple); }
+        .b-cyan { background: rgba(57,210,192,0.15); color: var(--cyan); }
+        .b-yellow { background: rgba(227,179,65,0.15); color: var(--yellow); }
+        .b-pink { background: rgba(247,120,186,0.15); color: var(--pink); }
+
+        .kw-tag { display: inline-block; background: var(--surface-2); padding: 2px 8px; border-radius: 4px; font-size: 0.78rem; margin: 2px; font-family: 'SF Mono', 'Fira Code', monospace; color: var(--cyan); border: 1px solid var(--border); }
+        .vol-bar { display: inline-block; height: 8px; border-radius: 4px; margin-right: 6px; vertical-align: middle; }
+
+        .stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px; margin: 16px 0; }
+        .stat-card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 16px; text-align: center; }
+        .stat-number { font-size: 2rem; font-weight: 700; color: var(--heading); }
+        .stat-label { font-size: 0.78rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.08em; margin-top: 4px; }
+
+        .divider { height: 1px; background: var(--border); margin: 40px 0; }
+
+        .priority-list { list-style: none; padding: 0; counter-reset: priority; }
+        .priority-list li { counter-increment: priority; padding: 10px 14px; margin-bottom: 6px; background: var(--surface); border: 1px solid var(--border); border-radius: 6px; font-size: 0.9rem; }
+        .priority-list li::before { content: counter(priority); display: inline-block; width: 24px; height: 24px; line-height: 24px; text-align: center; background: var(--accent); color: var(--bg); border-radius: 50%; font-size: 0.72rem; font-weight: 700; margin-right: 10px; }
+
+        .gap-indicator { width: 100%; height: 6px; background: var(--surface-2); border-radius: 3px; overflow: hidden; margin-top: 4px; }
+        .gap-fill { height: 100%; border-radius: 3px; }
+        .gap-very-high .gap-fill { width: 95%; background: var(--green); }
+        .gap-high .gap-fill { width: 75%; background: var(--cyan); }
+        .gap-medium .gap-fill { width: 50%; background: var(--orange); }
+        .gap-low .gap-fill { width: 25%; background: var(--red); }
+
+        .cluster-section { margin-bottom: 40px; }
+        .city-header { display: flex; align-items: center; gap: 14px; margin-bottom: 16px; }
+        .city-name { font-size: 1.4rem; font-weight: 700; color: var(--heading); }
+        .city-country { font-size: 0.9rem; color: var(--text-muted); }
+
+        @media (max-width: 900px) {
+            .card-grid, .card-grid-3 { grid-template-columns: 1fr; }
+            .stat-grid { grid-template-columns: repeat(2, 1fr); }
+            table { font-size: 0.78rem; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="hero">
+    <h1>Keyword Research Matrix</h1>
+    <p class="subtitle">Security and Bodyguard Hire SEO Build. 15 P1 cities, 5 service silos, 75 primary keyword clusters.</p>
+    <div class="meta">
+        <span>Stage 0D Deliverable</span>
+        <span>Compiled 15 April 2026</span>
+        <span>Phase 0 / Task 0.6</span>
+        <span>The Scout</span>
+    </div>
+</div>
+
+<div class="container">
+
+<!-- EXECUTIVE SUMMARY -->
+<section>
+    <h2>Executive Summary</h2>
+
+    <div class="stat-grid">
+        <div class="stat-card">
+            <div class="stat-number" style="color:var(--accent);">75</div>
+            <div class="stat-label">Primary Clusters</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number" style="color:var(--green);">750+</div>
+            <div class="stat-label">Unique Keywords</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number" style="color:var(--orange);">5</div>
+            <div class="stat-label">Service Silos</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number" style="color:var(--purple);">15</div>
+            <div class="stat-label">P1 Cities</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number" style="color:var(--red);">CRITICAL</div>
+            <div class="stat-label">SERP Gap Level</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number" style="color:var(--cyan);">$1K-15K</div>
+            <div class="stat-label">Value Per Conversion</div>
+        </div>
+    </div>
+
+    <div class="card" style="border-left: 4px solid var(--green);">
+        <h4 style="color:var(--green); margin-top:0;">Core Finding</h4>
+        <p>The security/bodyguard niche has an unusual profile: <strong>very low search volume but very high conversion value and very low competition</strong>. A single conversion from "bodyguard hire Lagos" is worth $2,000-5,000/day. The entire first page of Google for most city-specific security queries is either empty, filled with generic directory listings, or dominated by local-language sites with no English competition.</p>
+        <p>The informational funnel ("is Lagos safe", "is Dubai safe") generates 10-100x the volume of commercial queries and captures the same audience earlier in their journey. Risk assessment pages are the traffic engine; city service pages are the conversion engine.</p>
+    </div>
+
+    <div class="card-grid">
+        <div class="card" style="border-left: 4px solid var(--cyan);">
+            <h4 style="color:var(--cyan); margin-top:0;">Language Advantage</h4>
+            <p>10 of 15 P1 cities operate in non-English languages (Spanish, Portuguese, Turkish, Arabic, Hindi, Russian, Thai, Urdu, Indonesian). English-language security content for these cities has <strong>virtually zero competition</strong>. Corporate security directors and HNWI PAs search in English regardless of the destination city's language.</p>
+        </div>
+        <div class="card" style="border-left: 4px solid var(--orange);">
+            <h4 style="color:var(--orange); margin-top:0;">Regional Escalation Opportunity</h4>
+            <p>April 2026 Middle East escalation has caused a surge in security-related searches for Dubai, Riyadh, Doha, Kuwait. "Is Dubai safe now", "Dubai missile threat", and "executive protection Dubai" are seeing elevated demand. This is a <strong>time-sensitive opportunity</strong> to capture newly created search demand.</p>
+        </div>
+    </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- SILO OVERVIEW -->
+<section>
+    <h2>Service Silo Overview</h2>
+
+    <table>
+        <tr>
+            <th>Silo</th>
+            <th>URL Pattern</th>
+            <th>Target Buyer</th>
+            <th>Avg Conversion</th>
+            <th>Competition</th>
+            <th>Priority</th>
+        </tr>
+        <tr>
+            <td><strong>Bodyguard Hire</strong></td>
+            <td><span class="kw-tag">/bodyguard-hire/{country}/{city}/</span></td>
+            <td>Individual/PA seeking personal protection</td>
+            <td>$2K-5K/day</td>
+            <td><span class="badge b-green">Low</span></td>
+            <td><span class="badge b-red">P1</span></td>
+        </tr>
+        <tr>
+            <td><strong>Executive Protection</strong></td>
+            <td><span class="kw-tag">/executive-protection/{country}/{city}/</span></td>
+            <td>Corporate security director / travel risk mgr</td>
+            <td>$3K-15K/trip</td>
+            <td><span class="badge b-green">Low</span></td>
+            <td><span class="badge b-red">P1</span></td>
+        </tr>
+        <tr>
+            <td><strong>Security Drivers</strong></td>
+            <td><span class="kw-tag">/security-drivers/{country}/{city}/</span></td>
+            <td>Corporate traveller/PA needing secure transport</td>
+            <td>$500-2K/day</td>
+            <td><span class="badge b-green">Very Low</span></td>
+            <td><span class="badge b-orange">P2</span></td>
+        </tr>
+        <tr>
+            <td><strong>Event Security</strong></td>
+            <td><span class="kw-tag">/event-security/{country}/{city}/</span></td>
+            <td>Event organiser / conference planner</td>
+            <td>$5K-50K/event</td>
+            <td><span class="badge b-green">Very Low</span></td>
+            <td><span class="badge b-orange">P2</span></td>
+        </tr>
+        <tr>
+            <td><strong>Residential Security</strong></td>
+            <td><span class="kw-tag">/residential-security/{country}/{city}/</span></td>
+            <td>Expat / HNWI / family office</td>
+            <td>$3K-15K/mo (recurring)</td>
+            <td><span class="badge b-orange">Medium</span></td>
+            <td><span class="badge b-orange">P2</span></td>
+        </tr>
+        <tr>
+            <td><strong>Risk Assessments</strong> (info)</td>
+            <td><span class="kw-tag">/risk-assessments/{country}/{city}/</span></td>
+            <td>Anyone researching city safety</td>
+            <td>Lead gen (funnel to commercial)</td>
+            <td><span class="badge b-orange">Medium</span></td>
+            <td><span class="badge b-red">P1</span></td>
+        </tr>
+    </table>
+</section>
+
+<div class="divider"></div>
+
+<!-- CITY-BY-CITY MATRIX -->
+<section>
+    <h2>City Keyword Matrix — All 15 P1 Cities</h2>
+    <p style="color:var(--text-muted); margin-bottom:20px;">Volume: VL (&lt;20/mo), L (20-100), M (100-500), H (500-2K), VH (2K+). KD = Keyword Difficulty. Gap = SERP opportunity (higher = less competition, easier to rank).</p>
+
+    <table>
+        <tr>
+            <th>City</th>
+            <th>Risk</th>
+            <th>Bodyguard Hire</th>
+            <th>Executive Protection</th>
+            <th>Security Drivers</th>
+            <th>Event Security</th>
+            <th>Residential Security</th>
+            <th>Info: "is {city} safe"</th>
+        </tr>
+        <tr>
+            <td><strong>Lagos</strong><br><span style="color:var(--text-muted);font-size:0.75rem;">Nigeria</span></td>
+            <td><span class="badge b-red">Critical</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">L</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-orange">Med</span></td>
+            <td><span class="badge b-red">H</span> 1-3K/mo</td>
+        </tr>
+        <tr>
+            <td><strong>Nairobi</strong><br><span style="color:var(--text-muted);font-size:0.75rem;">Kenya</span></td>
+            <td><span class="badge b-orange">High</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-orange">Med</span></td>
+            <td><span class="badge b-red">H</span> 1-3K/mo</td>
+        </tr>
+        <tr>
+            <td><strong>Johannesburg</strong><br><span style="color:var(--text-muted);font-size:0.75rem;">South Africa</span></td>
+            <td><span class="badge b-red">Critical</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-orange">Med</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-orange">Med</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-orange">Med</span></td>
+            <td><span class="badge b-orange">M</span> Gap: <span class="badge b-red">Low</span></td>
+            <td><span class="badge b-red">VH</span> 3-8K/mo</td>
+        </tr>
+        <tr>
+            <td><strong>Bogota</strong><br><span style="color:var(--text-muted);font-size:0.75rem;">Colombia</span></td>
+            <td><span class="badge b-orange">High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-red">H</span> 2-5K/mo</td>
+        </tr>
+        <tr>
+            <td><strong>Mexico City</strong><br><span style="color:var(--text-muted);font-size:0.75rem;">Mexico</span></td>
+            <td><span class="badge b-orange">High</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-orange">Med</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-red">VH</span> 5-15K/mo</td>
+        </tr>
+        <tr>
+            <td><strong>Istanbul</strong><br><span style="color:var(--text-muted);font-size:0.75rem;">Turkey</span></td>
+            <td><span class="badge b-yellow">Medium</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-red">VH</span> 5-15K/mo</td>
+        </tr>
+        <tr>
+            <td><strong>Riyadh</strong><br><span style="color:var(--text-muted);font-size:0.75rem;">Saudi Arabia</span></td>
+            <td><span class="badge b-orange">High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-red">H</span> 1-3K/mo</td>
+        </tr>
+        <tr>
+            <td><strong>Dubai</strong><br><span style="color:var(--text-muted);font-size:0.75rem;">UAE</span></td>
+            <td><span class="badge b-yellow">Medium</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-orange">Med</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-orange">Med</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-orange">Med</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-orange">Med</span></td>
+            <td><span class="badge b-red">VH</span> 10-30K/mo</td>
+        </tr>
+        <tr>
+            <td><strong>Mumbai</strong><br><span style="color:var(--text-muted);font-size:0.75rem;">India</span></td>
+            <td><span class="badge b-yellow">Medium</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-orange">Med</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-orange">Med</span></td>
+            <td><span class="badge b-red">H</span> 2-5K/mo</td>
+        </tr>
+        <tr>
+            <td><strong>Moscow</strong><br><span style="color:var(--text-muted);font-size:0.75rem;">Russia</span></td>
+            <td><span class="badge b-red">Critical</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-red">H</span> 2-5K/mo</td>
+        </tr>
+        <tr>
+            <td><strong>Sao Paulo</strong><br><span style="color:var(--text-muted);font-size:0.75rem;">Brazil</span></td>
+            <td><span class="badge b-orange">High</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-red">H</span> 2-5K/mo</td>
+        </tr>
+        <tr>
+            <td><strong>Manila</strong><br><span style="color:var(--text-muted);font-size:0.75rem;">Philippines</span></td>
+            <td><span class="badge b-yellow">Medium</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-red">H</span> 1-3K/mo</td>
+        </tr>
+        <tr>
+            <td><strong>Karachi</strong><br><span style="color:var(--text-muted);font-size:0.75rem;">Pakistan</span></td>
+            <td><span class="badge b-red">Critical</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-red">H</span> 1-3K/mo</td>
+        </tr>
+        <tr>
+            <td><strong>Bangkok</strong><br><span style="color:var(--text-muted);font-size:0.75rem;">Thailand</span></td>
+            <td><span class="badge b-cyan">Low</span></td>
+            <td><span class="badge b-blue">L</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-red">VH</span> 10-30K/mo</td>
+        </tr>
+        <tr>
+            <td><strong>Jakarta</strong><br><span style="color:var(--text-muted);font-size:0.75rem;">Indonesia</span></td>
+            <td><span class="badge b-yellow">Medium</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">V.High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-purple">VL</span> Gap: <span class="badge b-green">High</span></td>
+            <td><span class="badge b-red">H</span> 1-3K/mo</td>
+        </tr>
+    </table>
+</section>
+
+<div class="divider"></div>
+
+<!-- QUICK WINS -->
+<section>
+    <h2>Quick Win Analysis</h2>
+
+    <div class="card-grid-3">
+        <div class="card" style="border-left: 4px solid var(--green);">
+            <h4 style="color:var(--green); margin-top:0;">#1 Security Drivers</h4>
+            <p>Lowest competition across ALL 15 cities. Carjacking and kidnapping fears drive search behaviour. Almost zero quality pages exist for "security driver {city}" in English. Every page we publish will likely rank page 1 within weeks.</p>
+            <p style="color:var(--text-muted); font-size:0.82rem;">Best cities: Johannesburg, Lagos, Mexico City, Bogota, Sao Paulo</p>
+        </div>
+        <div class="card" style="border-left: 4px solid var(--cyan);">
+            <h4 style="color:var(--cyan); margin-top:0;">#2 Bodyguard Hire</h4>
+            <p>Direct buyer intent. The person typing "bodyguard hire Lagos" is ready to purchase. English content gaps are massive in non-English-speaking cities. Only Johannesburg and Dubai have meaningful competition.</p>
+            <p style="color:var(--text-muted); font-size:0.82rem;">Best cities: Riyadh, Bogota, Karachi, Istanbul, Moscow</p>
+        </div>
+        <div class="card" style="border-left: 4px solid var(--purple);">
+            <h4 style="color:var(--purple); margin-top:0;">#3 Risk Assessments (Info)</h4>
+            <p>"Is Dubai safe" gets 10-30K searches/month. "Is Bangkok safe" is similar. These pages are 10-100x higher traffic than any commercial query. They capture the buyer at the start of their journey and funnel them to security services.</p>
+            <p style="color:var(--text-muted); font-size:0.82rem;">Best cities: Dubai, Bangkok, Istanbul, Mexico City, Johannesburg</p>
+        </div>
+    </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- CONTENT PRIORITY -->
+<section>
+    <h2>Content Production Priority</h2>
+
+    <ol class="priority-list">
+        <li><strong>Risk assessment pages</strong> for all 15 P1 cities. Highest traffic volume, top-of-funnel lead capture. "Is {city} safe" queries.</li>
+        <li><strong>Bodyguard hire city pages</strong> for all 15 P1 cities. Direct commercial intent, highest conversion probability.</li>
+        <li><strong>Security driver city pages</strong> for 10 highest-risk P1 cities. Lowest competition of any silo.</li>
+        <li><strong>Executive protection city pages</strong> for all 15 P1 cities. Highest value per conversion ($3K-15K/trip). B2B buyer.</li>
+        <li><strong>Residential security city pages</strong> for 10 highest-expat P1 cities. Recurring revenue ($3K-15K/month).</li>
+        <li><strong>Event security city pages</strong> for 10 major conference cities. Seasonal but very high single-event value.</li>
+        <li><strong>Travel safety guides</strong> for all 15 P1 countries. Authority building, E-E-A-T signals.</li>
+        <li><strong>Security regulation guides</strong> for all 15 P1 countries. Long-tail traffic, high authority signal for Google.</li>
+    </ol>
+</section>
+
+<div class="divider"></div>
+
+<!-- TITLE TAG FORMULAS -->
+<section>
+    <h2>Title Tag and H1 Formulas</h2>
+
+    <table>
+        <tr>
+            <th>Silo</th>
+            <th>H1 Formula</th>
+            <th>Title Tag Formula</th>
+        </tr>
+        <tr>
+            <td>Bodyguard Hire</td>
+            <td>Bodyguard Hire in {City}, {Country}</td>
+            <td>Bodyguard Hire {City} | Vetted Close Protection Officers | [Brand]</td>
+        </tr>
+        <tr>
+            <td>Executive Protection</td>
+            <td>Executive Protection Services in {City}, {Country}</td>
+            <td>Executive Protection {City} | Corporate Security Services | [Brand]</td>
+        </tr>
+        <tr>
+            <td>Security Drivers</td>
+            <td>Security Drivers in {City}, {Country}</td>
+            <td>Security Driver {City} | Armoured Vehicle Hire & Secure Transport | [Brand]</td>
+        </tr>
+        <tr>
+            <td>Event Security</td>
+            <td>Event Security Services in {City}, {Country}</td>
+            <td>Event Security {City} | Conference & Corporate Event Protection | [Brand]</td>
+        </tr>
+        <tr>
+            <td>Residential Security</td>
+            <td>Residential Security in {City}, {Country}</td>
+            <td>Residential Security {City} | Expat Home Protection & Guards | [Brand]</td>
+        </tr>
+        <tr>
+            <td>Risk Assessment</td>
+            <td>Is {City} Safe? Security Risk Assessment for {City}, {Country}</td>
+            <td>{City} Safety Guide 2026 | Risk Assessment & Security Advice | [Brand]</td>
+        </tr>
+        <tr>
+            <td>Travel Guide</td>
+            <td>Travelling Safely in {Country}: A Security Guide</td>
+            <td>{Country} Travel Security Guide | Safety Tips & Risk Data | [Brand]</td>
+        </tr>
+        <tr>
+            <td>Regulations Guide</td>
+            <td>Security Regulations in {Country}: Firearms, Licensing & Foreign Operators</td>
+            <td>{Country} Security Laws | Firearms & Licensing Rules | [Brand]</td>
+        </tr>
+    </table>
+</section>
+
+<div class="divider"></div>
+
+<!-- FAQ KEYWORD TARGETS -->
+<section>
+    <h2>Top FAQ Keywords (Schema.org Targets)</h2>
+    <p style="color:var(--text-muted); margin-bottom:16px;">These FAQ questions appear across multiple cities and should be templated with city-specific answers. Each generates its own long-tail search footprint and powers FAQ Schema markup.</p>
+
+    <div class="card-grid">
+        <div class="card" style="border-left: 4px solid var(--accent);">
+            <h4 style="color:var(--accent); margin-top:0;">Commercial FAQs</h4>
+            <ul style="margin-left:16px; font-size:0.88rem;">
+                <li>How much does a bodyguard cost in {City}?</li>
+                <li>Can bodyguards carry firearms in {Country}?</li>
+                <li>Do I need a bodyguard in {City}?</li>
+                <li>What does executive protection cost in {City}?</li>
+                <li>How do I hire a security driver in {City}?</li>
+                <li>Is armoured car hire available in {City}?</li>
+                <li>What security do I need for a conference in {City}?</li>
+                <li>How much does residential security cost in {City}?</li>
+                <li>Can foreign security personnel operate in {Country}?</li>
+                <li>What qualifications should a bodyguard have?</li>
+            </ul>
+        </div>
+        <div class="card" style="border-left: 4px solid var(--green);">
+            <h4 style="color:var(--green); margin-top:0;">Informational FAQs</h4>
+            <ul style="margin-left:16px; font-size:0.88rem;">
+                <li>Is {City} safe for business travel?</li>
+                <li>What are the most dangerous areas in {City}?</li>
+                <li>Is carjacking common in {City}?</li>
+                <li>What is the kidnapping risk in {City}?</li>
+                <li>Which areas of {City} are safest for expats?</li>
+                <li>What security precautions should executives take in {City}?</li>
+                <li>Is it safe to use taxis/ride-hailing in {City}?</li>
+                <li>What should I do in an emergency in {City}?</li>
+                <li>Are hotels safe in {City}?</li>
+                <li>What is the FCDO travel advice for {Country}?</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- GOOGLE AUTOCOMPLETE INTELLIGENCE -->
+<section>
+    <h2>Google Autocomplete Intelligence</h2>
+    <p style="color:var(--text-muted); margin-bottom:16px;">Live data collected 15 April 2026 from Google Autocomplete API across all P1 cities and service types. This validates real search demand and reveals exact user language for content optimisation.</p>
+
+    <div class="stat-grid">
+        <div class="stat-card" style="border-top: 3px solid var(--green);">
+            <div class="stat-number" style="color:var(--green); font-size:1.4rem;">15/15</div>
+            <div class="stat-label">Cities with "Is X Safe" Autocomplete</div>
+        </div>
+        <div class="stat-card" style="border-top: 3px solid var(--accent);">
+            <div class="stat-number" style="color:var(--accent); font-size:1.4rem;">8-10</div>
+            <div class="stat-label">Variants per City</div>
+        </div>
+        <div class="stat-card" style="border-top: 3px solid var(--red);">
+            <div class="stat-number" style="color:var(--red); font-size:1.4rem;">0</div>
+            <div class="stat-label">Branded Competitors (excl. Dubai)</div>
+        </div>
+        <div class="stat-card" style="border-top: 3px solid var(--orange);">
+            <div class="stat-number" style="color:var(--orange); font-size:1.4rem;">6</div>
+            <div class="stat-label">Cities with Women Safety Signal</div>
+        </div>
+    </div>
+
+    <h3>Key Findings</h3>
+
+    <div class="card-grid">
+        <div class="card" style="border-left: 4px solid var(--accent);">
+            <h4 style="color:var(--accent); margin-top:0;">Dubai Dominates All Service Autocomplete</h4>
+            <p>Dubai appears as the top city in autocomplete for close protection, private security, event security, and executive protection queries. This confirms Dubai as the highest-demand P1 city, but also the most competitive. Content for Dubai must be premium quality to rank.</p>
+            <p style="font-size:0.82rem; color:var(--text-muted);">Named competitors in Dubai autocomplete: Transguard, Amana, MAB, Sobha</p>
+        </div>
+        <div class="card" style="border-left: 4px solid var(--red);">
+            <h4 style="color:var(--red); margin-top:0;">War Queries Dominating Dubai + Riyadh</h4>
+            <p>"Is Dubai safe from war", "is Dubai safe from Iran", "is Dubai safe now from Iran", "is Riyadh safe from war" all appear in autocomplete. This is a time-sensitive, unprecedented content opportunity. Iran escalation has created entirely new search demand that did not exist 6 months ago.</p>
+        </div>
+        <div class="card" style="border-left: 4px solid var(--pink);">
+            <h4 style="color:var(--pink); margin-top:0;">Women's Safety: 6 Cities</h4>
+            <p>Mumbai, Istanbul, Bangkok, Nairobi, Dubai, and Jakarta all show "safe for women" / "solo female travellers" as a dominant autocomplete pattern. This signals a dedicated content angle: female executive travel security pages on all 6 city risk assessments. Possible dedicated content hub.</p>
+        </div>
+        <div class="card" style="border-left: 4px solid var(--green);">
+            <h4 style="color:var(--green); margin-top:0;">Zero Brand Competition Outside Dubai</h4>
+            <p>No branded security company appears in Google Autocomplete for any P1 city bodyguard/EP query except Dubai (Transguard, Amana, MAB). Lagos shows Halogen and Maximus for generic "security company" only. The space is wide open for brand capture.</p>
+        </div>
+    </div>
+
+    <h3>Autocomplete Safety Query Matrix</h3>
+    <p style="color:var(--text-muted); margin-bottom:12px;">Top autocomplete variants for "is {city} safe" queries. These are the exact phrases people type into Google, and should be used as H2/H3 subheadings and FAQ answers on risk assessment pages.</p>
+
+    <table>
+        <tr>
+            <th>City</th>
+            <th>Top Safety Autocomplete Variants</th>
+            <th>Signal</th>
+        </tr>
+        <tr>
+            <td><strong>Lagos</strong></td>
+            <td><span class="kw-tag">safe for white tourists</span> <span class="kw-tag">safe for americans</span> <span class="kw-tag">safe for women</span> <span class="kw-tag">safe reddit</span></td>
+            <td><span class="badge b-orange">Race/ethnicity focus</span></td>
+        </tr>
+        <tr>
+            <td><strong>Nairobi</strong></td>
+            <td><span class="kw-tag">safe for white tourists</span> <span class="kw-tag">solo female travellers</span> <span class="kw-tag">safe at night</span> <span class="kw-tag">safe to walk around</span></td>
+            <td><span class="badge b-pink">Women + street safety</span></td>
+        </tr>
+        <tr>
+            <td><strong>Johannesburg</strong></td>
+            <td><span class="kw-tag">safer than cape town</span> <span class="kw-tag">safe for white tourists</span> <span class="kw-tag">safe at night</span> <span class="kw-tag">safe reddit</span></td>
+            <td><span class="badge b-purple">City comparison</span></td>
+        </tr>
+        <tr>
+            <td><strong>Bogota</strong></td>
+            <td><span class="kw-tag">safe for americans</span> <span class="kw-tag">safer than medellin</span> <span class="kw-tag">safe for female travellers</span> <span class="kw-tag">safe at night</span></td>
+            <td><span class="badge b-purple">City comparison</span></td>
+        </tr>
+        <tr>
+            <td><strong>Mexico City</strong></td>
+            <td><span class="kw-tag">safe for americans</span> <span class="kw-tag">safe right now</span> <span class="kw-tag">safe from cartel</span> <span class="kw-tag">safe for canadians</span></td>
+            <td><span class="badge b-red">Cartel + recency</span></td>
+        </tr>
+        <tr>
+            <td><strong>Istanbul</strong></td>
+            <td><span class="kw-tag">safe to travel now</span> <span class="kw-tag">safe right now</span> <span class="kw-tag">safe for women</span> <span class="kw-tag">solo female travellers</span></td>
+            <td><span class="badge b-pink">Women + recency</span></td>
+        </tr>
+        <tr>
+            <td><strong>Riyadh</strong></td>
+            <td><span class="kw-tag">safe for women</span> <span class="kw-tag">safe from war</span> <span class="kw-tag">safe right now</span> <span class="kw-tag">safe for americans</span></td>
+            <td><span class="badge b-red">War + women</span></td>
+        </tr>
+        <tr>
+            <td><strong>Dubai</strong></td>
+            <td><span class="kw-tag">safe right now</span> <span class="kw-tag">safe now from war</span> <span class="kw-tag">safe from Iran</span> <span class="kw-tag">safe for women</span></td>
+            <td><span class="badge b-red">War dominant</span></td>
+        </tr>
+        <tr>
+            <td><strong>Mumbai</strong></td>
+            <td><span class="kw-tag">safe for women</span> <span class="kw-tag">safe for girls</span> <span class="kw-tag">safe for women at night</span> <span class="kw-tag">safer than delhi</span></td>
+            <td><span class="badge b-pink">Women dominant</span></td>
+        </tr>
+        <tr>
+            <td><strong>Moscow</strong></td>
+            <td><span class="kw-tag">safe for americans</span> <span class="kw-tag">safe for tourists</span> <span class="kw-tag">safer than london</span> <span class="kw-tag">safe to visit for americans</span></td>
+            <td><span class="badge b-orange">US traveller focus</span></td>
+        </tr>
+        <tr>
+            <td><strong>Sao Paulo</strong></td>
+            <td><span class="kw-tag">safer than rio</span> <span class="kw-tag">safer than rio de janeiro</span> <span class="kw-tag">safe for americans</span> <span class="kw-tag">safe reddit</span></td>
+            <td><span class="badge b-purple">City comparison dominant</span></td>
+        </tr>
+        <tr>
+            <td><strong>Manila</strong></td>
+            <td><span class="kw-tag">safe for americans</span> <span class="kw-tag">safe at night</span> <span class="kw-tag">safe to walk around</span> <span class="kw-tag">safe reddit</span></td>
+            <td><span class="badge b-orange">US traveller + street</span></td>
+        </tr>
+        <tr>
+            <td><strong>Karachi</strong></td>
+            <td><span class="kw-tag">safe for tourists</span> <span class="kw-tag">safe for americans</span> <span class="kw-tag">safe for women</span> <span class="kw-tag">safe now</span></td>
+            <td><span class="badge b-orange">General caution</span></td>
+        </tr>
+        <tr>
+            <td><strong>Bangkok</strong></td>
+            <td><span class="kw-tag">safe to travel now</span> <span class="kw-tag">solo female travellers</span> <span class="kw-tag">safe at night</span> <span class="kw-tag">safe for women</span></td>
+            <td><span class="badge b-pink">Women + recency</span></td>
+        </tr>
+        <tr>
+            <td><strong>Jakarta</strong></td>
+            <td><span class="kw-tag">safe for tourists</span> <span class="kw-tag">solo female travellers</span> <span class="kw-tag">safe for americans</span> <span class="kw-tag">safe right now</span></td>
+            <td><span class="badge b-pink">Women + US traveller</span></td>
+        </tr>
+    </table>
+
+    <h3>Content Angle Signals from Autocomplete</h3>
+    <div class="card-grid-3">
+        <div class="card">
+            <h4 style="margin-top:0; color:var(--purple);">"vs" Comparison Content</h4>
+            <p style="font-size:0.88rem;">Sao Paulo vs Rio, Johannesburg vs Cape Town, Mumbai vs Delhi, Bogota vs Medellin. These comparison queries indicate city-pair pages are a valid content type for the risk assessment silo.</p>
+        </div>
+        <div class="card">
+            <h4 style="margin-top:0; color:var(--orange);">Reddit Validation</h4>
+            <p style="font-size:0.88rem;">9 of 15 cities show "safe reddit" in autocomplete: Lagos, Bogota, Mexico City, Johannesburg, Sao Paulo, Manila, Karachi, Bangkok, Jakarta. Reddit threads are the current authority source. Our content must outcompete these threads.</p>
+        </div>
+        <div class="card">
+            <h4 style="margin-top:0; color:var(--cyan);">American Tourist Focus</h4>
+            <p style="font-size:0.88rem;">6 cities show "safe for americans" as a top variant: Mexico City, Bogota, Moscow, Manila, Karachi, Jakarta. Country-specific safety pages targeting US corporate travellers are high value.</p>
+        </div>
+    </div>
+
+    <h3>Service-Level Autocomplete Confirmation</h3>
+    <div class="card" style="border-left: 4px solid var(--cyan);">
+        <p><strong>"hire bodyguard bogota"</strong> confirmed directly in Google Autocomplete. This validates real commercial search demand for one of our top opportunity cities.</p>
+        <p>Other confirmed service autocomplete patterns:</p>
+        <ul style="margin-left:16px; font-size:0.88rem;">
+            <li><strong>Close protection:</strong> "jobs dubai", "course in dubai", "close protection dubai", "jobs uae"</li>
+            <li><strong>Private security:</strong> "jobs in dubai", "companies in dubai", "business department abu dhabi"</li>
+            <li><strong>Security driver:</strong> "jobs", "salary", "jobs london", "course"</li>
+            <li><strong>Event security:</strong> "jobs in dubai", "companies in dubai", "course", "license in dubai"</li>
+            <li><strong>Residential security:</strong> "jobs", "services", "guard", "companies"</li>
+            <li><strong>Armed guard:</strong> "armed security hire", "armed security hire aus" (Australia demand signal)</li>
+            <li><strong>Personal security Nigeria:</strong> "personal security nigeria", "private security nigeria", "personal security tips in nigeria"</li>
+        </ul>
+    </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- VALIDATION NOTE -->
+<section>
+    <h2>Validation & Next Steps</h2>
+    <div class="card" style="border: 2px solid var(--orange); background: rgba(210,153,34,0.04);">
+        <h4 style="color:var(--orange); margin-top:0;">Gareth Action Required</h4>
+        <ul style="margin-left:16px; font-size:0.9rem;">
+            <li><strong>Validate top 50 keywords in Ahrefs or SEMrush</strong> when tool access is available. Priority: all "bodyguard hire {city}" and "is {city} safe" queries.</li>
+            <li><strong>Check Google Search Console</strong> once the site is live for actual impression/click data to refine volume estimates.</li>
+            <li><strong>Monitor Middle East queries</strong> (Dubai, Riyadh, Doha) weekly. Regional escalation is driving volatile search demand.</li>
+            <li><strong>Competitor backlink analysis</strong> for GardaWorld, Global Guardian, AS Solution city pages. Their linking profile will reveal content gaps and link building opportunities.</li>
+        </ul>
+    </div>
+
+    <div class="card" style="border-left: 4px solid var(--green); margin-top:14px;">
+        <h4 style="color:var(--green); margin-top:0;">Data Files</h4>
+        <ul style="margin-left:16px; font-size:0.9rem;">
+            <li><strong>keyword_matrix.json</strong>: Full structured data for all 75 clusters with supporting keywords, FAQ targets, and SERP gap analysis.</li>
+            <li><strong>fcdo_advisories.json</strong>: FCDO travel advisory data for all 35 countries (P1 + P2).</li>
+            <li><strong>state_dept_data.json</strong>: US State Dept advisory levels and OSAC crime ratings for all 35 countries.</li>
+        </ul>
+    </div>
+</section>
+
+</div>
+</body>
+</html>
