@@ -91,6 +91,34 @@ hugo --gc --minify
 ```
 Expected: 143+ pages, 0 errors.
 
+### Incremental / delta deploys (only changed files sent to Hostinger)
+
+The workflow uses `SamKirkland/FTP-Deploy-Action` with `state-name` enabled. This means:
+
+- **First deploy after enabling:** uploads all files as normal and writes a `.ftp-deploy-sync-state.json` checksum file to the server root.
+- **Every subsequent push:** the action downloads that state file, computes checksums of the newly built `site/public/` files, and **only uploads files that have changed**. Unchanged files are skipped entirely.
+- No manual intervention needed — the state file is stored server-side automatically.
+
+The relevant lines in `.github/workflows/deploy.yml` are:
+```yaml
+      - name: Sync files over FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
+        with:
+          server: 185.224.138.247
+          port: 21
+          username: u356263466.gitconnect3
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          security: loose
+          local-dir: ./site/public/
+          server-dir: /home/u356263466/domains/closeprotectionhire.com/public_html/
+          state-name: .ftp-deploy-sync-state.json   # ← enables incremental deploys
+```
+
+**If you ever need a full re-sync** (e.g. files were manually deleted on the server), delete `.ftp-deploy-sync-state.json` from the Hostinger `public_html/` root via the Hostinger File Manager, then trigger a manual workflow run — it will re-upload everything and recreate the state file.
+
+**Do not delete** `.ftp-deploy-sync-state.json` from the server under normal circumstances — it is what makes partial deploys work.
+
 ---
 
 ## Current Status
