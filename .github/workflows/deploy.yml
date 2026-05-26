@@ -1,0 +1,25 @@
+name: Deploy to Hostinger via FTP
+
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch:        # lets you run it manually too
+
+jobs:
+  web-deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout latest code
+        uses: actions/checkout@v4
+
+      - name: Sync files over FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
+        with:
+          server: ftp.closeprotectionhire.com
+          port: 21
+          username: u356263466.gitconnect3
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftp
+          local-dir: ./site/public/
+          server-dir: /home/u356263466/domains/closeprotectionhire.com/public_html/
