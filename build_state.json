@@ -1,98 +1,39 @@
 {
   "_comment": "Machine-readable batch tracker. Update after each session.",
   "blog": {
-    "last_batch_completed": 4,
-    "last_article_index": 20,
-    "total_articles_live": 20,
-    "next_batch": 5,
-    "next_article_index": 21,
+    "last_batch_completed": 5,
+    "last_article_index": 25,
+    "total_articles_live": 25,
+    "next_batch": 6,
+    "next_article_index": 26,
     "batches": [
-      {
-        "batch": 1,
-        "date": "2026-05-27",
-        "articles": 5,
-        "slugs": [
-          "how-to-vet-a-close-protection-company",
-          "executive-protection-cost-factors",
-          "bodyguard-licence-uae",
-          "secure-airport-transfer-dubai",
-          "is-nairobi-safe-for-business-travel"
-        ],
-        "script": "scripts/generate_blog_batch1.py"
-      },
-      {
-        "batch": 2,
-        "date": "2026-05-27",
-        "articles": 5,
-        "slugs": [
-          "bodyguard-licensing-south-africa",
-          "is-mexico-city-safe-for-business-travel",
-          "security-driver-lagos-vs-taxi",
-          "executive-protection-saudi-arabia",
-          "secure-airport-transfer-johannesburg"
-        ],
-        "script": "scripts/generate_blog_batch2.py"
-      },
-      {
-        "batch": 3,
-        "date": "2026-05-27",
-        "articles": 5,
-        "slugs": [
-          "is-sao-paulo-safe-for-business-travel",
-          "security-driver-bogota",
-          "private-security-regulations-turkey",
-          "security-drivers-nairobi",
-          "is-manila-safe-for-business-travel"
-        ],
-        "script": "scripts/generate_blog_batch3.py"
-      },
-      {
-        "batch": 4,
-        "date": "2026-05-27",
-        "articles": 5,
-        "slugs": [
-          "sia-close-protection-licence-explained",
-          "executive-protection-johannesburg",
-          "is-dubai-safe-2026",
-          "secure-airport-transfer-lagos",
-          "close-protection-female-executives"
-        ],
-        "script": "scripts/generate_blog_batch4.py"
-      }
+      {"batch": 1, "date": "2026-05-27", "articles": 5, "script": "scripts/generate_blog_batch1.py",
+       "slugs": ["how-to-vet-a-close-protection-company","executive-protection-cost-factors","bodyguard-licence-uae","secure-airport-transfer-dubai","is-nairobi-safe-for-business-travel"]},
+      {"batch": 2, "date": "2026-05-27", "articles": 5, "script": "scripts/generate_blog_batch2.py",
+       "slugs": ["bodyguard-licensing-south-africa","is-mexico-city-safe-for-business-travel","security-driver-lagos-vs-taxi","executive-protection-saudi-arabia","secure-airport-transfer-johannesburg"]},
+      {"batch": 3, "date": "2026-05-27", "articles": 5, "script": "scripts/generate_blog_batch3.py",
+       "slugs": ["is-sao-paulo-safe-for-business-travel","security-driver-bogota","private-security-regulations-turkey","security-drivers-nairobi","is-manila-safe-for-business-travel"]},
+      {"batch": 4, "date": "2026-05-27", "articles": 5, "script": "scripts/generate_blog_batch4.py",
+       "slugs": ["sia-close-protection-licence-explained","executive-protection-johannesburg","is-dubai-safe-2026","secure-airport-transfer-lagos","close-protection-female-executives"]},
+      {"batch": 5, "date": "2026-05-27", "articles": 5, "script": "scripts/generate_blog_batch5.py",
+       "slugs": ["is-riyadh-safe-for-business-travel","close-protection-istanbul","residential-security-expats-dubai","bodyguard-hire-hong-kong","executive-protection-mumbai"]}
     ]
   },
   "cities": {
     "total_live": 70,
-    "last_updated": "2026-05-27",
-    "p1_count": 15,
-    "p2_count": 25,
-    "p3_count": 28,
-    "other_count": 2,
-    "p3_batch1_cities": [
-      "amman", "abuja", "kuala-lumpur", "dhaka", "muscat",
-      "ho-chi-minh-city", "luanda", "tbilisi", "naples", "rome",
-      "miami", "toronto", "vienna", "warsaw", "colombo",
-      "baku", "kinshasa", "mombasa", "geneva", "washington-dc",
-      "montreal", "zurich", "milan"
-    ],
-    "p3_batch2_cities": [
-      "madrid", "amsterdam", "ankara", "kigali", "yangon"
-    ],
-    "next_cities_queued": [
-      "accra-expansion", "cape-verde", "tunis", "algiers", "dakar",
-      "port-of-spain", "panama-city", "san-jose-costa-rica"
-    ]
-  },
-  "pages": {
-    "total_live": 193,
     "last_updated": "2026-05-27"
   },
-  "next_stage": "Phase 3C (service x city deep pages) or Blog Batch 5",
+  "pages": {
+    "total_live": 198,
+    "last_updated": "2026-05-27"
+  },
+  "permalink_fix": "2026-05-27 — changed from broken /:sections[1:]/:slug/ to explicit /section/:slug/ for all content types. URLs now: /cities/london/, /blog/article/, /event-security/nairobi/ etc.",
+  "next_stage": "Phase 3C (service x city pages) or Blog Batch 6",
   "next_blog_batch_topics": [
-    "is-riyadh-safe-for-business-travel",
-    "close-protection-istanbul",
-    "residential-security-expats-dubai",
-    "bodyguard-hire-hong-kong",
-    "executive-protection-mumbai"
+    "bodyguard-licence-india-psara",
+    "is-beijing-safe-for-business-travel",
+    "close-protection-singapore",
+    "executive-protection-tel-aviv",
+    "security-driver-cairo"
   ]
 }
