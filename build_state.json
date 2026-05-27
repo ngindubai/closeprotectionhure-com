@@ -1,11 +1,11 @@
 {
   "_comment": "Machine-readable batch tracker. Update after each session.",
   "blog": {
-    "last_batch_completed": 2,
-    "last_article_index": 10,
-    "total_articles_live": 10,
-    "next_batch": 3,
-    "next_article_index": 11,
+    "last_batch_completed": 3,
+    "last_article_index": 15,
+    "total_articles_live": 15,
+    "next_batch": 4,
+    "next_article_index": 16,
     "batches": [
       {
         "batch": 1,
@@ -32,15 +32,28 @@
           "secure-airport-transfer-johannesburg"
         ],
         "script": "scripts/generate_blog_batch2.py"
+      },
+      {
+        "batch": 3,
+        "date": "2026-05-27",
+        "articles": 5,
+        "slugs": [
+          "is-sao-paulo-safe-for-business-travel",
+          "security-driver-bogota",
+          "private-security-regulations-turkey",
+          "security-drivers-nairobi",
+          "is-manila-safe-for-business-travel"
+        ],
+        "script": "scripts/generate_blog_batch3.py"
       }
     ]
   },
   "cities": {
-    "total_live": 65,
+    "total_live": 70,
     "last_updated": "2026-05-27",
     "p1_count": 15,
     "p2_count": 25,
-    "p3_count": 23,
+    "p3_count": 28,
     "other_count": 2,
     "p3_batch1_cities": [
       "amman", "abuja", "kuala-lumpur", "dhaka", "muscat",
@@ -49,18 +62,25 @@
       "baku", "kinshasa", "mombasa", "geneva", "washington-dc",
       "montreal", "zurich", "milan"
     ],
-    "next_cities_queued": ["madrid", "amsterdam", "ankara", "kigali", "yangon"]
+    "p3_batch2_cities": [
+      "madrid", "amsterdam", "ankara", "kigali", "yangon"
+    ],
+    "next_cities_queued": [
+      "johannesburg-sandton", "lagos-victoria-island", "cape-town-cbd",
+      "nairobi-westlands", "dubai-difc", "abu-dhabi-adgm",
+      "lima", "mexico-city-polanco", "istanbul-levent", "singapore-cbd"
+    ]
   },
   "pages": {
-    "total_live": 178,
+    "total_live": 188,
     "last_updated": "2026-05-27"
   },
-  "next_stage": "3B or 2H",
+  "next_stage": "Phase 3C (service x city deep pages) or Blog Batch 4",
   "next_blog_batch_topics": [
-    "sao-paulo-business-travel-risk",
-    "bogota-security-driver",
-    "istanbul-private-security-regulations",
-    "nairobi-security-driver",
-    "manila-safety-assessment"
+    "bodyguard-licence-uk-sia-explained",
+    "executive-protection-johannesburg",
+    "is-dubai-safe-2026-regional-tensions",
+    "secure-airport-transfer-lagos",
+    "close-protection-female-executives"
   ]
 }
