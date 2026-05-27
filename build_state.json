@@ -1,0 +1,50 @@
+{
+  "_comment": "Machine-readable batch tracker. Update after each session.",
+  "blog": {
+    "last_batch_completed": 2,
+    "last_article_index": 10,
+    "total_articles_live": 10,
+    "next_batch": 3,
+    "next_article_index": 11,
+    "batches": [
+      {
+        "batch": 1,
+        "date": "2026-05-27",
+        "articles": 5,
+        "slugs": [
+          "how-to-vet-a-close-protection-company",
+          "executive-protection-cost-factors",
+          "bodyguard-licence-uae",
+          "secure-airport-transfer-dubai",
+          "is-nairobi-safe-for-business-travel"
+        ],
+        "script": "scripts/generate_blog_batch1.py"
+      },
+      {
+        "batch": 2,
+        "date": "2026-05-27",
+        "articles": 5,
+        "slugs": [
+          "bodyguard-licensing-south-africa",
+          "is-mexico-city-safe-for-business-travel",
+          "security-driver-lagos-vs-taxi",
+          "executive-protection-saudi-arabia",
+          "secure-airport-transfer-johannesburg"
+        ],
+        "script": "scripts/generate_blog_batch2.py"
+      }
+    ]
+  },
+  "pages": {
+    "total_live": 153,
+    "last_updated": "2026-05-27"
+  },
+  "next_stage": "2H",
+  "next_blog_batch_topics": [
+    "sao-paulo-business-travel-risk",
+    "bogota-security-driver",
+    "istanbul-private-security-regulations",
+    "nairobi-security-driver",
+    "manila-safety-assessment"
+  ]
+}
