@@ -1,6 +1,6 @@
 # Security & Bodyguard — Hugo Configuration
 
-baseURL = "https://closeprotectionhire.surge.sh/"
+baseURL = "https://closeprotectionhire.com/"
 languageCode = "en"
 title = "Close Protection and Security Services | CloseProtectionHire.com"
 
