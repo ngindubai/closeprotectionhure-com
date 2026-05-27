@@ -1,21 +1,18 @@
 {
   "_comment": "Machine-readable batch tracker. Update after each session.",
   "blog": {
-    "last_batch_completed": 6,
-    "total_articles_live": 30,
-    "next_batch": 7,
+    "last_batch_completed": 7,
+    "total_articles_live": 35,
+    "next_batch": 8,
     "next_blog_batch_topics": [
-      "is-beijing-safe-for-business-travel",
-      "close-protection-singapore",
-      "executive-protection-tel-aviv",
-      "residential-security-johannesburg-suburbs",
-      "can-bodyguards-carry-guns-in-mexico"
+      "private-security-regulations-indonesia",
+      "is-karachi-safe-for-business-travel",
+      "security-driver-sao-paulo",
+      "bodyguard-hire-johannesburg-cost",
+      "executive-protection-cairo"
     ]
   },
-  "cities": {
-    "total_live": 70,
-    "last_updated": "2026-05-27"
-  },
+  "cities": {"total_live": 70},
   "service_city_matrix": {
     "priority_cities": ["johannesburg","lagos","dubai","nairobi","mexico-city","bogota","riyadh","mumbai","sao-paulo","istanbul"],
     "blocks": {
@@ -23,26 +20,21 @@
       "security-drivers": {"status": "DONE", "date": "2026-05-28", "pages": 10},
       "executive-protection": {"status": "DONE", "date": "2026-05-28", "pages": 10},
       "residential-security": {"status": "DONE", "date": "2026-05-28", "pages": 10},
-      "event-security": {"status": "PARTIAL", "note": "16 cities from Phase 2G; check priority-city gaps for Block 5"}
+      "event-security": {"status": "DONE", "date": "2026-05-28", "note": "All 10 priority cities covered. Riyadh + Sao Paulo added. Total event-security silo now 18 cities."}
     }
   },
   "pages": {
-    "total_live": 247,
+    "total_live": 257,
     "last_updated": "2026-05-28"
   },
-  "deploy": {
-    "method": "build-and-publish workflow + Hostinger GitHub OAuth",
-    "flow": "push to master -> .github/workflows/build-and-publish.yml builds Hugo -> force-pushes site/public/ to live branch -> Hostinger webhook auto-deploys",
-    "migrated_from_ftp": "2026-05-28"
-  },
   "engine_alignment": {
-    "1_combinatorial_generators": "SUBSTANTIALLY DONE — 4 of 5 service x city blocks complete (40 deep pages + 4 _index.md). Block 5 (event-security gap fill) remaining.",
+    "1_combinatorial_generators": "DONE — all 5 rows x 10 cities complete. 50 deep service x city pages + 4 _index.md.",
     "2_structured_data_layer": "DONE",
-    "3_bulk_blog_factory": "IN PROGRESS — 6/19 batches",
+    "3_bulk_blog_factory": "IN PROGRESS — 7/19 batches (35 articles)",
     "4_internal_link_graph": "DIAGNOSTIC SCRIPT DONE — Stage 2J rewrite pending",
-    "5_qa_seo_quality_gate": "SCRIPTS DONE — full site QA pass (Stage 2L) pending",
+    "5_qa_seo_quality_gate": "SCRIPTS DONE — Stage 2L full site pass is next",
     "6_incremental_deploy_pipeline": "DONE",
     "7_operating_system": "DONE"
   },
-  "next_stage": "Phase 3C Block 5 (event-security gap fill for priority cities) OR Stage 2L (full QA pass via scripts) OR Blog Batch 7"
+  "next_stage": "Stage 2L (full QA pass via scripts/qa_audit.py across all 257 pages) then Blog Batch 8"
 }
