@@ -39,7 +39,21 @@
 ## Phase 3B — P3 City Expansion Batch 2 (5 cities)
 - [x] Deployed 27 May 2026: Madrid, Amsterdam, Ankara, Kigali, Yangon
 
-**70 city pages live. ~203 total pages.**
+**70 city pages live.**
+
+## Phase 3C — Service x City Combinatorial Matrix (Engine 1 widening)
+
+Mirrors the pet-transport `generate_p2_routes.py` engine pattern. Five service silos x ten priority cities = 50 deep service x city pages. Each block is one service x ten cities. Built one block per session per Engine 7 discipline.
+
+Priority cities: Johannesburg, Lagos, Dubai, Nairobi, Mexico City, Bogota, Riyadh, Mumbai, Sao Paulo, Istanbul.
+
+- [x] **Block 1 (28 May 2026): `bodyguard-hire/{city}` for 10 priority cities.** Section _index.md plus 10 deep pages. Each page: regulator-named (PSIRA, NSCDC, SIRA, PSRA, DGSP, SuperVigilancia, MoI, PSARA, DPF, OGG), city-specific operational detail, 4 FAQ schema entries, 3 internal links, no safety guarantees, no em dashes, British English.
+- [ ] **Block 2: `security-drivers/{city}` for 10 priority cities.**
+- [ ] **Block 3: `executive-protection/{city}` for 10 priority cities.**
+- [ ] **Block 4: `residential-security/{city}` for 10 priority cities.**
+- [ ] **Block 5: `event-security/{city}` extension to non-overlap priority cities** (note: event-security/{city} silo already exists for 16 cities from Phase 2G; this block fills the priority-city gaps not yet covered).
+
+**80 city + service-city pages live (70 + 10). ~214 total pages.**
 
 ---
 
@@ -49,32 +63,27 @@
 - [ ] 15 travel safety guide pages for P1 cities
 
 ### Stage 2J — Internal Link Graph
-- [ ] Internal linking audit (mirror pet-transport rebuild_link_graph.py pattern)
+- [ ] Run `scripts/rebuild_link_graph.py` diagnostic
+- [ ] Resolve under-linked pages, orphans, top-inbound rebalancing
 - [ ] Backlink outreach strategy
-
-### Phase 3C — Service x City Deep Pages (combinatorial widening — Turn C scope)
-- [ ] `bodyguard-hire/{city}.md` for 10 priority cities
-- [ ] `security-drivers/{city}.md` for 10 priority cities
-- [ ] `executive-protection/{city}.md` for 10 priority cities
-- [ ] `residential-security/{city}.md` for 10 priority cities
-- Priority cities: Johannesburg, Lagos, Dubai, Nairobi, Mexico City, Bogota, Riyadh, Mumbai, Sao Paulo, Istanbul
 
 ### Phase 3D — P3 City Expansion Batch 3
 - [ ] Next cities: Dakar, Tunis, Algiers, Port of Spain, Panama City, San Jose (Costa Rica), Cape Verde
 
 ### Stage 2L — QA + Security Audit
-- [ ] Full site QA pass (banned words, safety guarantees, broken internal links, missing FAQs)
+- [ ] Full site QA pass via `scripts/qa_audit.py`
+- [ ] Title and description audit via `scripts/check_titles.py` + `scripts/check_descriptions.py`
 - [ ] YMYL compliance check
 - [ ] Schema markup verification
 
 ### Engine Alignment (pet-transport replication)
-- [x] Engine 6 — Incremental deploy pipeline (replaced FTP with build-and-publish + Hostinger OAuth, 28 May 2026)
-- [x] Engine 7 — Operating system (CLAUDE.md updated, AGENTS.md/workforce souls present, MEMORY.md present, ERRORS.md created 28 May 2026)
-- [ ] Engine 1 — Combinatorial page generators (Phase 3C is the equivalent; scripts to be added in Turn C)
+- [x] Engine 1 — Combinatorial page generators (Phase 3C Block 1 done; Blocks 2-5 outstanding)
 - [x] Engine 2 — Structured data layer (data/*.json present: city_risk_profiles, security_regulations, fcdo_advisories, state_dept_data, keyword_matrix)
 - [~] Engine 3 — Bulk blog factory (6 batches of 5 = 30 articles. Pet-transport has 19 batches / 411 articles)
-- [ ] Engine 4 — Internal link graph rebuild scripts (port from pet-transport)
-- [ ] Engine 5 — QA + SEO quality gate scripts (port from pet-transport: qa_audit.py, check_schema.py, check_titles.py, fix_long_titles.py, fix_descriptions.py)
+- [x] Engine 4 — Internal link graph diagnostic (`scripts/rebuild_link_graph.py`); rewriter pending Stage 2J
+- [x] Engine 5 — QA + SEO quality gate (`scripts/qa_audit.py`, `check_titles.py`, `check_descriptions.py`)
+- [x] Engine 6 — Incremental deploy pipeline (build-and-publish + Hostinger OAuth, 28 May 2026)
+- [x] Engine 7 — Operating system (CLAUDE.md hardened with Seven Engines, mandatory workflow, forbidden moves; AGENTS.md / ERRORS.md present)
 
 ---
 
@@ -96,3 +105,6 @@
 | 27 May 2026 | Deploy fix | 0 | 198 | Migrated from FTP to build-and-publish + Hostinger OAuth. Permalink and baseURL bugs fixed. |
 | 28 May 2026 | 2K B6 | 5 | 203 | Mexico cartels guide, PSARA India, Bangkok safety, Cairo driver, Mumbai women. 30 blog articles live. |
 | 28 May 2026 | Engine docs | 0 | 203 | CLAUDE.md updated for new deploy. AGENTS.md / ERRORS.md / engine alignment section added. |
+| 28 May 2026 | Engine 5+4 ports | 4 scripts | 203 | qa_audit.py, check_titles.py, check_descriptions.py, rebuild_link_graph.py ported from pet-transport. AGENTS.md + ERRORS.md created. |
+| 28 May 2026 | CLAUDE.md harden | 0 | 203 | Locked in Seven Engines table, mandatory session workflow, hard QA gate, forbidden moves. |
+| 28 May 2026 | 3C B1 | 11 (1 index + 10 cities) | 214 | bodyguard-hire/{city} for 10 priority cities. First row of service x city matrix. |
