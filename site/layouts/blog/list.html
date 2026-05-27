@@ -1,0 +1,43 @@
+{{ define "title" }}Security Intelligence Blog | {{ .Site.Params.brand }}{{ end }}
+
+{{ define "main" }}
+
+<section class="inner-hero text-light">
+  <div class="inner-hero-bg">
+    <img src="/images/Close-Protection-2560.webp" alt="Security Intelligence Blog" loading="eager">
+  </div>
+  <div class="inner-hero-vignette"></div>
+  <div class="inner-hero-content">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 offset-lg-2 text-center">
+          <p class="inner-hero-kicker wow fadeInUp">Security Intelligence</p>
+          <h1 class="wow fadeInUp" data-wow-delay=".15s">Close Protection Intelligence Blog</h1>
+          <div class="inner-hero-divider wow fadeInUp" data-wow-delay=".25s"></div>
+          <p class="inner-hero-sub wow fadeInUp" data-wow-delay=".35s">Practical security intelligence for corporate travellers, executives, and event organisers. Written by practitioners.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section-dark bg-dark text-light">
+  <div class="container">
+    <div class="row g-4">
+      {{ range .Pages }}
+      <div class="col-lg-4 col-md-6 wow fadeInUp">
+        <div class="bg-dark-2 rounded-1 p-30 h-100">
+          <p class="op-5 fs-13 mb-2">{{ .Date.Format "2 January 2006" }}</p>
+          <h4 class="mb-3"><a href="{{ .RelPermalink }}" class="text-light">{{ .Title }}</a></h4>
+          {{ with .Description }}<p class="op-8 mb-3">{{ . }}</p>{{ end }}
+          <a href="{{ .RelPermalink }}" class="btn-main fx-slide btn-line btn-sm"><span>Read article</span></a>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ partial "quote-form.html" $ }}
+
+{{ end }}

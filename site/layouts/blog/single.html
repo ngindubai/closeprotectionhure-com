@@ -1,0 +1,88 @@
+{{ define "title" }}{{ if .Params.seo_title }}{{ .Params.seo_title }}{{ else }}{{ .Title }} | {{ .Site.Params.brand }}{{ end }}{{ end }}
+
+{{ define "schema" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ .Title | jsonify }},
+  "description": {{ .Params.description | default .Title | jsonify }},
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+  "author": {
+    "@type": "Person",
+    "name": {{ .Params.author | default "CloseProtectionHire.com" | jsonify }},
+    "description": "Senior security consultant with 15+ years in executive protection and close-quarter security operations across high-risk regions."
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CloseProtectionHire.com",
+    "url": "https://closeprotectionhire.com"
+  }
+}
+</script>
+{{ end }}
+
+{{ define "main" }}
+
+{{ $heroImg := .Params.hero_image | default "Close-Protection-2560.webp" }}
+
+{{/* ===== INNER HERO ===== */}}
+<section class="inner-hero text-light">
+  <div class="inner-hero-bg">
+    <img src="/images/{{ $heroImg }}" alt="{{ .Title }}" loading="eager">
+  </div>
+  <div class="inner-hero-vignette"></div>
+  <div class="inner-hero-content">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 offset-lg-2 text-center">
+          <p class="inner-hero-kicker wow fadeInUp">Security Intelligence</p>
+          <h1 class="wow fadeInUp" data-wow-delay=".15s">{{ .Title }}</h1>
+          {{ with .Description }}
+          <div class="inner-hero-divider wow fadeInUp" data-wow-delay=".25s"></div>
+          <p class="inner-hero-sub wow fadeInUp" data-wow-delay=".35s">{{ . }}</p>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{/* ===== AUTHOR + DATE BAR ===== */}}
+<section class="section-dark bg-dark-2 text-light pt-20 pb-20">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 offset-lg-1">
+        <div class="d-flex align-items-center gap-3 op-7 fs-14">
+          {{ with .Params.author }}<span><i class="fa fa-user me-1"></i>{{ . }}</span>{{ end }}
+          <span><i class="fa fa-calendar me-1"></i>{{ .Date.Format "2 January 2006" }}</span>
+          {{ with .ReadingTime }}<span><i class="fa fa-clock-o me-1"></i>{{ . }} min read</span>{{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{/* ===== MAIN CONTENT ===== */}}
+{{ with .Content }}
+<section class="section-dark bg-dark text-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 offset-lg-1 wow fadeInUp blog-body">
+        {{ . }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{/* ===== FAQs ===== */}}
+{{ with .Params.faqs }}
+{{ partial "faq-accordion.html" (dict "faqs" .) }}
+{{ end }}
+
+{{/* ===== QUOTE FORM ===== */}}
+{{ partial "quote-form.html" $ }}
+
+{{ end }}
