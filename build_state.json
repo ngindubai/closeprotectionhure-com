@@ -2,23 +2,14 @@
   "_comment": "Machine-readable batch tracker. Update after each session.",
   "blog": {
     "last_batch_completed": 6,
-    "last_article_index": 30,
     "total_articles_live": 30,
     "next_batch": 7,
-    "next_article_index": 31,
-    "batches": [
-      {"batch": 1, "date": "2026-05-27", "articles": 5, "script": "scripts/generate_blog_batch1.py",
-       "slugs": ["how-to-vet-a-close-protection-company","executive-protection-cost-factors","bodyguard-licence-uae","secure-airport-transfer-dubai","is-nairobi-safe-for-business-travel"]},
-      {"batch": 2, "date": "2026-05-27", "articles": 5, "script": "scripts/generate_blog_batch2.py",
-       "slugs": ["bodyguard-licensing-south-africa","is-mexico-city-safe-for-business-travel","security-driver-lagos-vs-taxi","executive-protection-saudi-arabia","secure-airport-transfer-johannesburg"]},
-      {"batch": 3, "date": "2026-05-27", "articles": 5, "script": "scripts/generate_blog_batch3.py",
-       "slugs": ["is-sao-paulo-safe-for-business-travel","security-driver-bogota","private-security-regulations-turkey","security-drivers-nairobi","is-manila-safe-for-business-travel"]},
-      {"batch": 4, "date": "2026-05-27", "articles": 5, "script": "scripts/generate_blog_batch4.py",
-       "slugs": ["sia-close-protection-licence-explained","executive-protection-johannesburg","is-dubai-safe-2026","secure-airport-transfer-lagos","close-protection-female-executives"]},
-      {"batch": 5, "date": "2026-05-27", "articles": 5, "script": "scripts/generate_blog_batch5.py",
-       "slugs": ["is-riyadh-safe-for-business-travel","close-protection-istanbul","residential-security-expats-dubai","bodyguard-hire-hong-kong","executive-protection-mumbai"]},
-      {"batch": 6, "date": "2026-05-28", "articles": 5, "script": "scripts/generate_blog_batch6.py",
-       "slugs": ["is-mexico-city-safe-from-cartels-executive-guide","bodyguard-licence-india-psara","is-bangkok-safe-for-business-travel","security-driver-cairo","women-business-travellers-mumbai-safety"]}
+    "next_blog_batch_topics": [
+      "is-beijing-safe-for-business-travel",
+      "close-protection-singapore",
+      "executive-protection-tel-aviv",
+      "residential-security-johannesburg-suburbs",
+      "can-bodyguards-carry-guns-in-mexico"
     ]
   },
   "cities": {
@@ -29,42 +20,29 @@
     "priority_cities": ["johannesburg","lagos","dubai","nairobi","mexico-city","bogota","riyadh","mumbai","sao-paulo","istanbul"],
     "blocks": {
       "bodyguard-hire": {"status": "DONE", "date": "2026-05-28", "pages": 10},
-      "security-drivers": {"status": "TODO"},
-      "executive-protection": {"status": "TODO"},
-      "residential-security": {"status": "TODO"},
-      "event-security": {"status": "PARTIAL", "note": "16 cities already from Phase 2G; priority-city gaps remain"}
+      "security-drivers": {"status": "DONE", "date": "2026-05-28", "pages": 10},
+      "executive-protection": {"status": "DONE", "date": "2026-05-28", "pages": 10},
+      "residential-security": {"status": "DONE", "date": "2026-05-28", "pages": 10},
+      "event-security": {"status": "PARTIAL", "note": "16 cities from Phase 2G; check priority-city gaps for Block 5"}
     }
   },
   "pages": {
-    "total_live": 214,
+    "total_live": 247,
     "last_updated": "2026-05-28"
   },
   "deploy": {
     "method": "build-and-publish workflow + Hostinger GitHub OAuth",
-    "flow": "push to master -> .github/workflows/build-and-publish.yml builds Hugo -> force-pushes site/public/ to 'live' branch -> Hostinger webhook auto-deploys live -> public_html",
-    "migrated_from_ftp": "2026-05-28",
-    "notes": "Old .github/workflows/deploy.yml is disabled. dangerous-clean-slate FTP was unreliable; replaced entirely."
+    "flow": "push to master -> .github/workflows/build-and-publish.yml builds Hugo -> force-pushes site/public/ to live branch -> Hostinger webhook auto-deploys",
+    "migrated_from_ftp": "2026-05-28"
   },
   "engine_alignment": {
-    "reference_repo": "ngindubai/pet-transport",
-    "engines": {
-      "1_combinatorial_generators": "IN PROGRESS — Phase 3C Block 1 (bodyguard-hire) done. Blocks 2-5 outstanding.",
-      "2_structured_data_layer": "DONE — data/city_risk_profiles*.json, security_regulations.json, fcdo_advisories.json, state_dept_data.json, keyword_matrix.json (75 clusters)",
-      "3_bulk_blog_factory": "IN PROGRESS — 6/19 batches (30/411 articles by pet-transport benchmark). Tracker scripts in scripts/generate_blog_batch*.py",
-      "4_internal_link_graph": "DIAGNOSTIC DONE — scripts/rebuild_link_graph.py present. Rewriter pending Stage 2J.",
-      "5_qa_seo_quality_gate": "DONE — scripts/qa_audit.py, check_titles.py, check_descriptions.py",
-      "6_incremental_deploy_pipeline": "DONE — build-and-publish.yml + Hostinger OAuth webhook auto-deploy",
-      "7_operating_system": "DONE — CLAUDE.md hardened (Seven Engines, mandatory workflow, forbidden moves), AGENTS.md, workforce/, bodyguard-cascading-build-plan.html, MEMORY.md, ERRORS.md, build_state.json"
-    }
+    "1_combinatorial_generators": "SUBSTANTIALLY DONE — 4 of 5 service x city blocks complete (40 deep pages + 4 _index.md). Block 5 (event-security gap fill) remaining.",
+    "2_structured_data_layer": "DONE",
+    "3_bulk_blog_factory": "IN PROGRESS — 6/19 batches",
+    "4_internal_link_graph": "DIAGNOSTIC SCRIPT DONE — Stage 2J rewrite pending",
+    "5_qa_seo_quality_gate": "SCRIPTS DONE — full site QA pass (Stage 2L) pending",
+    "6_incremental_deploy_pipeline": "DONE",
+    "7_operating_system": "DONE"
   },
-  "permalink_fix": "2026-05-27 — changed from broken /:sections[1:]/:slug/ to explicit /section/:slug/ for all content types. URLs now: /cities/london/, /blog/article/, /event-security/nairobi/, /bodyguard-hire/lagos/ etc.",
-  "baseurl_fix": "2026-05-27 — corrected from legacy https://closeprotectionhire.surge.sh/ to https://closeprotectionhire.com/",
-  "next_stage": "Phase 3C Block 2 (security-drivers/{city} for same 10 priority cities) OR Blog Batch 7",
-  "next_blog_batch_topics": [
-    "is-beijing-safe-for-business-travel",
-    "close-protection-singapore",
-    "executive-protection-tel-aviv",
-    "residential-security-johannesburg-suburbs",
-    "can-bodyguards-carry-guns-in-mexico"
-  ]
+  "next_stage": "Phase 3C Block 5 (event-security gap fill for priority cities) OR Stage 2L (full QA pass via scripts) OR Blog Batch 7"
 }
