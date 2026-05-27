@@ -3,7 +3,7 @@ name: Deploy to Hostinger via FTP
 on:
   push:
     branches: [ master ]
-  workflow_dispatch:        # lets you run it manually too
+  workflow_dispatch:
 
 jobs:
   web-deploy:
@@ -34,3 +34,4 @@ jobs:
           security: loose
           local-dir: ./site/public/
           server-dir: /home/u356263466/domains/closeprotectionhire.com/public_html/
+          dangerous-clean-slate: true
