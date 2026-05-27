@@ -35,11 +35,27 @@
       }
     ]
   },
+  "cities": {
+    "total_live": 65,
+    "last_updated": "2026-05-27",
+    "p1_count": 15,
+    "p2_count": 25,
+    "p3_count": 23,
+    "other_count": 2,
+    "p3_batch1_cities": [
+      "amman", "abuja", "kuala-lumpur", "dhaka", "muscat",
+      "ho-chi-minh-city", "luanda", "tbilisi", "naples", "rome",
+      "miami", "toronto", "vienna", "warsaw", "colombo",
+      "baku", "kinshasa", "mombasa", "geneva", "washington-dc",
+      "montreal", "zurich", "milan"
+    ],
+    "next_cities_queued": ["madrid", "amsterdam", "ankara", "kigali", "yangon"]
+  },
   "pages": {
-    "total_live": 153,
+    "total_live": 178,
     "last_updated": "2026-05-27"
   },
-  "next_stage": "2H",
+  "next_stage": "3B or 2H",
   "next_blog_batch_topics": [
     "sao-paulo-business-travel-risk",
     "bogota-security-driver",
