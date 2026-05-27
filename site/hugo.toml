@@ -25,13 +25,13 @@ timeout = "120s"
 
 [permalinks]
   [permalinks.page]
-    services = "/:sections/:slug/"
-    cities = "/:sections[1:]/:slug/"
-    risk-assessments = "/risk-assessments/:sections[1:]/:slug/"
-  [permalinks.section]
-    services = "/services/"
-    cities = "/cities/"
-    risk-assessments = "/risk-assessments/"
+    services = "/services/:slug/"
+    cities = "/cities/:slug/"
+    countries = "/countries/:slug/"
+    blog = "/blog/:slug/"
+    guides = "/guides/:slug/"
+    "event-security" = "/event-security/:slug/"
+    "risk-assessments" = "/risk-assessments/:slug/"
 
 [params]
   brand = "CloseProtectionHire.com"
