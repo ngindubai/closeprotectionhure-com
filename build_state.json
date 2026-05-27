@@ -1,11 +1,11 @@
 {
   "_comment": "Machine-readable batch tracker. Update after each session.",
   "blog": {
-    "last_batch_completed": 5,
-    "last_article_index": 25,
-    "total_articles_live": 25,
-    "next_batch": 6,
-    "next_article_index": 26,
+    "last_batch_completed": 6,
+    "last_article_index": 30,
+    "total_articles_live": 30,
+    "next_batch": 7,
+    "next_article_index": 31,
     "batches": [
       {"batch": 1, "date": "2026-05-27", "articles": 5, "script": "scripts/generate_blog_batch1.py",
        "slugs": ["how-to-vet-a-close-protection-company","executive-protection-cost-factors","bodyguard-licence-uae","secure-airport-transfer-dubai","is-nairobi-safe-for-business-travel"]},
@@ -16,7 +16,9 @@
       {"batch": 4, "date": "2026-05-27", "articles": 5, "script": "scripts/generate_blog_batch4.py",
        "slugs": ["sia-close-protection-licence-explained","executive-protection-johannesburg","is-dubai-safe-2026","secure-airport-transfer-lagos","close-protection-female-executives"]},
       {"batch": 5, "date": "2026-05-27", "articles": 5, "script": "scripts/generate_blog_batch5.py",
-       "slugs": ["is-riyadh-safe-for-business-travel","close-protection-istanbul","residential-security-expats-dubai","bodyguard-hire-hong-kong","executive-protection-mumbai"]}
+       "slugs": ["is-riyadh-safe-for-business-travel","close-protection-istanbul","residential-security-expats-dubai","bodyguard-hire-hong-kong","executive-protection-mumbai"]},
+      {"batch": 6, "date": "2026-05-28", "articles": 5, "script": "scripts/generate_blog_batch6.py",
+       "slugs": ["is-mexico-city-safe-from-cartels-executive-guide","bodyguard-licence-india-psara","is-bangkok-safe-for-business-travel","security-driver-cairo","women-business-travellers-mumbai-safety"]}
     ]
   },
   "cities": {
@@ -24,16 +26,35 @@
     "last_updated": "2026-05-27"
   },
   "pages": {
-    "total_live": 198,
-    "last_updated": "2026-05-27"
+    "total_live": 203,
+    "last_updated": "2026-05-28"
+  },
+  "deploy": {
+    "method": "build-and-publish workflow + Hostinger GitHub OAuth",
+    "flow": "push to master -> .github/workflows/build-and-publish.yml builds Hugo -> force-pushes site/public/ to 'live' branch -> Hostinger webhook auto-deploys live -> public_html",
+    "migrated_from_ftp": "2026-05-28",
+    "notes": "Old .github/workflows/deploy.yml is disabled. dangerous-clean-slate FTP was unreliable; replaced entirely."
+  },
+  "engine_alignment": {
+    "reference_repo": "ngindubai/pet-transport",
+    "engines": {
+      "1_combinatorial_generators": "PARTIAL — Phase 3C planned (service x city). Pattern proven by event-security/{city}.md silo. To formalise in Turn C.",
+      "2_structured_data_layer": "DONE — data/city_risk_profiles*.json, security_regulations.json, fcdo_advisories.json, state_dept_data.json, keyword_matrix.json (75 clusters)",
+      "3_bulk_blog_factory": "IN PROGRESS — 6/19 batches (30/411 articles by pet-transport benchmark). Tracker scripts in scripts/generate_blog_batch*.py",
+      "4_internal_link_graph": "TODO — port pet-transport rebuild_link_graph.py + diagnose_links.py + fix_broken_links.py patterns",
+      "5_qa_seo_quality_gate": "TODO — port pet-transport qa_audit.py / check_schema.py / check_titles.py / fix_long_titles.py / fix_descriptions.py patterns",
+      "6_incremental_deploy_pipeline": "DONE — build-and-publish.yml + Hostinger OAuth webhook auto-deploy",
+      "7_operating_system": "DONE — CLAUDE.md (master index, updated 2026-05-28), AGENTS.md, workforce/ (14 souls), bodyguard-cascading-build-plan.html, MEMORY.md, ERRORS.md"
+    }
   },
   "permalink_fix": "2026-05-27 — changed from broken /:sections[1:]/:slug/ to explicit /section/:slug/ for all content types. URLs now: /cities/london/, /blog/article/, /event-security/nairobi/ etc.",
-  "next_stage": "Phase 3C (service x city pages) or Blog Batch 6",
+  "baseurl_fix": "2026-05-27 — corrected from legacy https://closeprotectionhire.surge.sh/ to https://closeprotectionhire.com/",
+  "next_stage": "Turn C (Phase 3C service x city) OR continue Blog Batch 7",
   "next_blog_batch_topics": [
-    "bodyguard-licence-india-psara",
     "is-beijing-safe-for-business-travel",
     "close-protection-singapore",
     "executive-protection-tel-aviv",
-    "security-driver-cairo"
+    "residential-security-johannesburg-suburbs",
+    "can-bodyguards-carry-guns-in-mexico"
   ]
 }
