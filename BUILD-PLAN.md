@@ -70,17 +70,17 @@
   - `secure-airport-transfer-dubai`
   - `is-nairobi-safe-for-business-travel`
 - [x] **Batch 2 LIVE — 5 articles deployed (27 May 2026)**
-  - `do-bodyguards-need-a-licence-in-south-africa` — PSIRA licensing guide, Marcus Webb
-  - `executive-protection-cost-johannesburg` — cost/buyer guide, James Calloway
-  - `secure-airport-transfer-johannesburg` — OR Tambo transfer risk, Marcus Webb
-  - `is-mexico-city-safe-for-business-travel` — risk assessment, James Calloway
-  - `vetting-close-protection-latin-america` — LATAM vetting authority piece, James Calloway
+  - `bodyguard-licensing-south-africa` — PSIRA regulation guide, Marcus Webb
+  - `is-mexico-city-safe-for-business-travel` — risk assessment 2026, James Calloway
+  - `security-driver-lagos-vs-taxi` — ground transport risk/operational, Marcus Webb
+  - `executive-protection-saudi-arabia` — Riyadh EP + regulation + Vision 2030, James Calloway
+  - `secure-airport-transfer-johannesburg` — OR Tambo to Sandton carjacking risk, Marcus Webb
 - [x] Blog infrastructure created:
   - `site/layouts/blog/single.html` — Article schema, author bar, FAQ accordion, quote form
   - `site/layouts/blog/list.html` — Blog index listing
   - `site/content/blog/_index.md` — Section index
   - `scripts/generate_blog_batch1.py` — Generator script and workforce pipeline documentation
-- [ ] Batch 3 (articles 11-15) — targets: Sao Paulo, Bogota, Istanbul regulation, Nairobi drivers, India/Mumbai
+- [ ] Batch 3 (articles 11-15) — targets: Sao Paulo risk, Bogota transport, Istanbul regulation, Nairobi drivers, Manila safety
 - [ ] Batch 4+ — continuing through keyword matrix informational clusters
 
 **Blog factory workforce pipeline (per CLAUDE.md):**
@@ -110,4 +110,4 @@
 | 22 Apr 2026 | 2G | 16 | 143 | Event security silo: 16 conference cities via generate_event_security_pages.py. Hugo: 143 pages, 0 errors. Deployed. |
 | 22 Apr 2026 | Setup | 0 | 143 | New chat session initiated. Build plan synced. BUILD-PLAN.md updated. Next: Stage 2H. |
 | 27 May 2026 | 2K Batch 1 | 5 blog articles + 3 infrastructure files | 148 | Blog factory launched. Infrastructure: blog/single.html, blog/list.html, blog/_index.md. 5 articles: vetting a CP company, EP cost factors, UAE licensing, Dubai airport transfer, Nairobi risk assessment. Generator script: scripts/generate_blog_batch1.py. Both author personas established. Workforce pipeline documented. Auto-deployed to Hostinger via GitHub Actions. |
-| 27 May 2026 | 2K Batch 2 | 5 blog articles | 153 | Batch 2 complete. Articles: PSIRA licensing South Africa, EP cost Johannesburg, OR Tambo secure transfer, Mexico City business travel risk, LATAM vetting authority guide. Topics drawn from keyword_matrix.json informational + commercial clusters. Workforce pipeline applied: Wordsmith voice, Chameleon humaniser pass, FCDO/SAPS/OSAC/SuperVigilancia sources cited. No safety guarantees; no em dashes; British English; 2+ internal links per article; FAQ schema populated. Auto-deployed via GitHub Actions. |
+| 27 May 2026 | 2K Batch 2 | 5 blog articles | 153 | Batch 2 complete. 5 articles drawn from keyword_matrix.json informational + high-intent commercial clusters: PSIRA licensing South Africa (Marcus Webb), Mexico City business travel risk assessment (James Calloway), Lagos security driver vs taxi operational guide (Marcus Webb), Executive protection in Saudi Arabia/Riyadh (James Calloway), OR Tambo to Sandton secure airport transfer (Marcus Webb). All: British English, no em dashes, no safety guarantees, 2+ internal links, 6 FAQs each in schema. Sources cited: PSIRA Act 56/2001, Firearms Control Act 60/2000, UK FCDO, US State Dept/OSAC, SAPS crime statistics. Workforce pipeline applied (Wordsmith voice, Chameleon humaniser rules). Auto-deployed via GitHub Actions. |
