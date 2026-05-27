@@ -1,64 +1,53 @@
-# CloseProtectionHire.com — Agents and Workers
+# AGENTS.md
 
-## Copilot Subagent: bodyguard
+> Full workforce-soul index and routing rules. Load the soul whose domain matches the task; do not load all of them.
 
-The `bodyguard` subagent executes the cascading build plan stage-by-stage, loading worker souls, research data, and enforcing content/design/SEO rules.
-
-**This subagent must be manually recreated in the new standalone VS Code instance.**
-
-To recreate it, go to VS Code Settings and add the following agent definition:
-- **Name:** `bodyguard`
-- **Description:** `Security & Bodyguard website build agent. Executes the cascading build plan stage-by-stage, loading worker souls, research data, and enforcing content/design/SEO rules. Use for: building stages, continuing the build, 'go', 'next stage', any security-bodyguard project work.`
+This repo follows the pet-transport "souls" pattern. Each soul is a single Markdown brief defining a specialist voice or function. Souls live in `workforce/` and are referenced in `CLAUDE.md` for routing.
 
 ---
 
-## Worker Souls (14 Specialist Roles)
+## Routing rules (load only what you need)
 
-Full soul files are in `workforce/`. Each defines a role, rules, quality gates, and domain-specific instructions.
+| If the task is… | Load |
+|---|---|
+| Authoring new copy for a blog article, city page, or service page | `workforce/content/the-wordsmith.md` |
+| Rewriting AI-flavoured copy to read human | `workforce/content/the-chameleon.md` |
+| Building structured page front matter, SEO titles, descriptions, FAQ schema | `workforce/seo/the-optimiser.md` |
+| Running the QA gate, banned-word check, YMYL audit | `workforce/seo/the-auditor.md` |
+| City risk analysis, FCDO/State Dept summarisation | `workforce/intelligence/the-geographer.md` |
+| Regulatory framework (SIA, PSARA, SIRA, OGG, etc.) writeups | `workforce/intelligence/the-regulator.md` |
+| Internal link graph, sitemap, cross-silo cohesion | `workforce/seo/the-architect.md` |
+| Hugo template debugging or partial edits | `workforce/build/the-engineer.md` |
 
-| Worker | File | Role |
-|--------|------|------|
-| The Architect | `workforce/leadership/the-architect.md` | Orchestration, planning, phase gates |
-| The Auditor | `workforce/leadership/the-auditor.md` | Legal liability, regulatory accuracy, QA |
-| The Wordsmith | `workforce/content/the-wordsmith.md` | Copywriting, editorial, authority voice |
-| The Chameleon | `workforce/content/the-chameleon.md` | Anti-AI humaniser, 24 anti-patterns, banned vocabulary |
-| The Interrogator | `workforce/content/the-interrogator.md` | FAQ generation, research questions |
-| The Geographer | `workforce/intelligence/the-geographer.md` | Risk analysis, geographic intelligence |
-| The Scout | `workforce/intelligence/the-scout.md` | Market reconnaissance, keyword research |
-| The Spider | `workforce/intelligence/the-spider.md` | Web scraping, data extraction |
-| The Builder | `workforce/development/the-builder.md` | Templates, page generation, deployment |
-| The Librarian | `workforce/development/the-librarian.md` | Data management, schema, databases |
-| The Optimiser | `workforce/seo/the-optimiser.md` | On-page SEO, schema markup, E-E-A-T |
-| The Connector | `workforce/seo/the-connector.md` | Internal linking, backlink strategy |
-| The Analyst | `workforce/monitoring/the-analyst.md` | Performance tracking, analytics |
-| The Watchdog | `workforce/monitoring/the-watchdog.md` | Security monitoring, uptime |
-
-Vetting framework: `workforce/vetting_framework.md` — Bronze/Silver/Gold operator tiers.
+If a soul listed above is missing from `workforce/`, fall back to its general intent: e.g. for `the-regulator` use the regulatory section conventions established in `bodyguard-licence-uae.md`, `bodyguard-licensing-south-africa.md`, `private-security-regulations-turkey.md`, and `bodyguard-licence-india-psara.md`.
 
 ---
 
-## Reviewer Agent
+## Authoring personas (used in `author:` front matter)
 
-A read-only Site Reviewer agent is defined in `.github/agents/reviewer.agent.md`.
-It analyses pages for SEO, YMYL compliance, and content quality without making changes.
+| Persona | Domain | Voice |
+|---|---|---|
+| **James Calloway, Senior Security Consultant** | Regulation, licensing, vetting, risk frameworks, residential security | Measured, evidentiary, cites Acts/regs by name and year |
+| **Marcus Webb, Security Operations Adviser** | Operational close protection, secure transport, city-specific safety, women-traveller safety | Operational, pragmatic, draws on FCDO/State Dept and lived-pattern analysis |
+
+Every blog article must use one of the two personas. City pages and service pages do not carry an author byline (they read as institutional pages).
 
 ---
 
-## New Standalone Instance: First Session Setup
+## Pipeline (every published page runs through this in order)
 
-1. Open `C:\Users\garet\Desktop\security-bodyguard\` as the VS Code workspace (File > Open Folder).
-2. Recreate the `bodyguard` subagent (see above).
-3. Start a new Copilot chat and send:
+1. **Wordsmith** writes the first draft against the keyword brief.
+2. **Chameleon** humanises: strip AI-tells, vary sentence length, kill banned vocabulary, replace em dashes.
+3. **Optimiser** sets title/description/FAQ schema, confirms 2+ internal links, places primary keyword.
+4. **Auditor** runs `scripts/qa_audit.py` + `scripts/check_titles.py` + `scripts/check_descriptions.py`. Blocks on errors.
+5. **HTML preview → approve → commit → stop.** Engine 7 discipline. One block per session.
 
-```
-New session. Read #file:MEMORY.md #file:BUILD-PLAN.md
+---
 
-Confirm you understand:
-- The site's purpose and current build status (121 pages live)
-- The next stage from BUILD-PLAN.md (Stage 2G — Event Security Silo)
-- The code conventions from copilot-instructions.md
+## Banned vocabulary (loaded by Chameleon and Auditor)
 
-Do not start any work yet. Confirm your understanding and ask if anything is unclear.
-```
+Maintained in `scripts/qa_audit.py` (`BANNED_WORDS`). The list is the universal AI-tell set inherited from pet-transport; identical across both repos. Add domain-specific entries only after seeing them appear in real published copy.
 
-4. Verify the summary is correct, then proceed with Stage 2G.
+## YMYL safety-guarantee patterns (loaded by Auditor)
+
+Maintained in `scripts/qa_audit.py` (`SAFETY_GUARANTEE_PATTERNS`). These are security-domain-specific. Hard fail on any match. "Reduce risk" / "trained professionals" only — never "guarantee safety", "100% safe", "keep you safe", "risk-free", "foolproof".
