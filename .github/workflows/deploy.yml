@@ -34,4 +34,4 @@ jobs:
           security: loose
           local-dir: ./site/public/
           server-dir: /home/u356263466/domains/closeprotectionhire.com/public_html/
-          dangerous-clean-slate: true          dangerous-clean-slate: true
+          dangerous-clean-slate: true
