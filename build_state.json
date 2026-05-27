@@ -1,11 +1,11 @@
 {
   "_comment": "Machine-readable batch tracker. Update after each session.",
   "blog": {
-    "last_batch_completed": 3,
-    "last_article_index": 15,
-    "total_articles_live": 15,
-    "next_batch": 4,
-    "next_article_index": 16,
+    "last_batch_completed": 4,
+    "last_article_index": 20,
+    "total_articles_live": 20,
+    "next_batch": 5,
+    "next_article_index": 21,
     "batches": [
       {
         "batch": 1,
@@ -45,6 +45,19 @@
           "is-manila-safe-for-business-travel"
         ],
         "script": "scripts/generate_blog_batch3.py"
+      },
+      {
+        "batch": 4,
+        "date": "2026-05-27",
+        "articles": 5,
+        "slugs": [
+          "sia-close-protection-licence-explained",
+          "executive-protection-johannesburg",
+          "is-dubai-safe-2026",
+          "secure-airport-transfer-lagos",
+          "close-protection-female-executives"
+        ],
+        "script": "scripts/generate_blog_batch4.py"
       }
     ]
   },
@@ -66,21 +79,20 @@
       "madrid", "amsterdam", "ankara", "kigali", "yangon"
     ],
     "next_cities_queued": [
-      "johannesburg-sandton", "lagos-victoria-island", "cape-town-cbd",
-      "nairobi-westlands", "dubai-difc", "abu-dhabi-adgm",
-      "lima", "mexico-city-polanco", "istanbul-levent", "singapore-cbd"
+      "accra-expansion", "cape-verde", "tunis", "algiers", "dakar",
+      "port-of-spain", "panama-city", "san-jose-costa-rica"
     ]
   },
   "pages": {
-    "total_live": 188,
+    "total_live": 193,
     "last_updated": "2026-05-27"
   },
-  "next_stage": "Phase 3C (service x city deep pages) or Blog Batch 4",
+  "next_stage": "Phase 3C (service x city deep pages) or Blog Batch 5",
   "next_blog_batch_topics": [
-    "bodyguard-licence-uk-sia-explained",
-    "executive-protection-johannesburg",
-    "is-dubai-safe-2026-regional-tensions",
-    "secure-airport-transfer-lagos",
-    "close-protection-female-executives"
+    "is-riyadh-safe-for-business-travel",
+    "close-protection-istanbul",
+    "residential-security-expats-dubai",
+    "bodyguard-hire-hong-kong",
+    "executive-protection-mumbai"
   ]
 }
