@@ -1,16 +1,17 @@
 {
   "_comment": "Machine-readable batch tracker. Update after each session.",
   "blog": {
-    "last_batch_completed": 7,
-    "total_articles_live": 35,
-    "next_batch": 8,
+    "last_batch_completed": 8,
+    "total_articles_live": 39,
+    "next_batch": 9,
     "next_blog_batch_topics": [
-      "private-security-regulations-indonesia",
-      "is-karachi-safe-for-business-travel",
-      "security-driver-sao-paulo",
-      "bodyguard-hire-johannesburg-cost",
-      "executive-protection-cairo"
-    ]
+      "is-lagos-safe-for-business-travel",
+      "close-protection-female-executives-middle-east",
+      "private-security-regulations-brazil",
+      "security-driver-nairobi-vs-taxi",
+      "executive-protection-bogota"
+    ],
+    "cannibalisation_note": "security-driver-sao-paulo dropped from Batch 8 — duplicate of /security-drivers/sao-paulo/ service page built in Phase 3C Block 2. Do not blog topics already covered by Phase 3C deep pages."
   },
   "cities": {"total_live": 70},
   "service_city_matrix": {
@@ -20,21 +21,22 @@
       "security-drivers": {"status": "DONE", "date": "2026-05-28", "pages": 10},
       "executive-protection": {"status": "DONE", "date": "2026-05-28", "pages": 10},
       "residential-security": {"status": "DONE", "date": "2026-05-28", "pages": 10},
-      "event-security": {"status": "DONE", "date": "2026-05-28", "note": "All 10 priority cities covered. Riyadh + Sao Paulo added. Total event-security silo now 18 cities."}
+      "event-security": {"status": "DONE", "date": "2026-05-28", "note": "All 10 priority cities covered. Total event-security silo now 18 cities."}
     }
   },
   "pages": {
-    "total_live": 257,
-    "last_updated": "2026-05-28"
+    "total_live": 261,
+    "last_updated": "2026-05-29"
   },
   "engine_alignment": {
-    "1_combinatorial_generators": "DONE — all 5 rows x 10 cities complete. 50 deep service x city pages + 4 _index.md.",
+    "1_combinatorial_generators": "DONE",
     "2_structured_data_layer": "DONE",
-    "3_bulk_blog_factory": "IN PROGRESS — 7/19 batches (35 articles)",
+    "3_bulk_blog_factory": "IN PROGRESS — 8/19 batches (39 articles)",
     "4_internal_link_graph": "DIAGNOSTIC SCRIPT DONE — Stage 2J rewrite pending",
-    "5_qa_seo_quality_gate": "SCRIPTS DONE — Stage 2L full site pass is next",
+    "5_qa_seo_quality_gate": "SCRIPTS DONE — Stage 2L full site pass pending",
     "6_incremental_deploy_pipeline": "DONE",
     "7_operating_system": "DONE"
   },
-  "next_stage": "Stage 2L (full QA pass via scripts/qa_audit.py across all 257 pages) then Blog Batch 8"
+  "cannibalisation_rule": "Do not blog on topics already covered by Phase 3C service x city deep pages. The deep pages ARE the definitive content for bodyguard-hire/{city}, security-drivers/{city}, executive-protection/{city}, residential-security/{city}. Blog articles on these topics should cover angles the deep pages do not: cost breakdowns, regulatory explainers, comparison pieces, question-led safety guides.",
+  "next_stage": "Stage 2L (full QA pass) then Blog Batch 9 or Phase 3D (P3 city expansion Batch 3)"
 }
