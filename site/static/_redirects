@@ -1,0 +1,2 @@
+# Force www to non-www (canonical domain)
+https://www.closeprotectionhire.com/* https://closeprotectionhire.com/:splat 301!
