@@ -9,6 +9,7 @@
     "name": "{{ .Title }}",
     "description": "{{ .Description }}",
     "url": "{{ .Permalink }}",
+    "dateModified": "{{ now.Format "2006-01-02" }}",
     "provider": {
       "@type": "ProfessionalService",
       "name": "{{ .Site.Params.brand }}",
@@ -130,6 +131,17 @@
     </div>
 </section>
 {{ end }}
+
+{{/* ===== FRESHNESS DATE ===== */}}
+<section class="section-dark bg-dark text-light pt-0 pb-20">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1">
+                <p class="small text-muted"><em>Updated {{ now.Format "January 2006" }}</em></p>
+            </div>
+        </div>
+    </div>
+</section>
 
 {{/* ===== PARALLAX INTERLUDE ===== */}}
 {{ $midImg := .Params.parallax_image | default (index $images (mod (add $imgIdx 3) (len $images))) }}
