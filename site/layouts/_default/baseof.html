@@ -34,6 +34,25 @@
         "TODO: LinkedIn company URL",
         "TODO: additional sameAs URLs"
       ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "SIA-Licenced Operator Network",
+          "description": "All UK-based operators in the network hold a valid Security Industry Authority (SIA) Close Protection licence, the legal requirement for providing commercial close protection services in England and Wales.",
+          "credentialCategory": "licence",
+          "recognizedBy": {
+            "@type": "Organization",
+            "name": "Security Industry Authority",
+            "url": "https://www.sia.homeoffice.gov.uk/"
+          }
+        }
+      ],
+      "memberOf": [
+        {
+          "@type": "Organization",
+          "name": "TODO: industry body membership (e.g. BSIA, ASIS) — add when confirmed"
+        }
+      ],
       "contactPoint": {
         "@type": "ContactPoint",
         "contactType": "customer service",
@@ -62,6 +81,17 @@
     {{/* Google Search Console verification */}}
     {{ with .Site.Params.googleSearchConsole }}
     <meta name="google-site-verification" content="{{ . }}">
+    {{ end }}
+
+    {{/* GA4 — fires on live site only, never on local hugo server */}}
+    {{ if and .Site.Params.ga4Id (not hugo.IsServer) }}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.ga4Id }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ .Site.Params.ga4Id }}');
+    </script>
     {{ end }}
 </head>
 <body>

@@ -11,6 +11,8 @@ faqs:
     answer: "We provide a vetting summary for any operator we recommend, including their tier, what was verified, and when. We do not send operators without documentation. If you want to see the vetting record before committing, ask and we will share what we can within confidentiality constraints."
   - question: "Can I hire directly instead of going through you?"
     answer: "Yes. Our network pages list the types of operators we work with and the standards they meet. Some clients prefer direct hire after using us to identify qualified operators in a new market. We facilitate that as part of our service."
+  - question: "Do your operators hold SIA licences?"
+    answer: "All UK-based operators in our network hold a valid SIA (Security Industry Authority) Close Protection licence — the legal requirement for commercial close protection work in England and Wales. Outside the UK, operators are required to hold the equivalent national licence for their operating jurisdiction (e.g. PSIRA in South Africa, SuperVigilancia in Colombia). Licence numbers are checked against the issuing authority before any operator is added to our network."
 ---
 
 ## Vetting is the product
@@ -20,6 +22,22 @@ Anyone can build a website and list security companies. The question is whether 
 That question is harder to answer than it looks. A company with a professional website and a UK phone number may subcontract all its work to whoever answers the phone in Lagos. A small local firm with no web presence may have six former military officers who have worked in the city for fifteen years.
 
 We exist to tell the difference. Not from a website review. From documented verification.
+
+## Operator licensing and accreditations
+
+All close protection operators in our UK network hold a valid **SIA (Security Industry Authority) Close Protection licence**. The SIA licence is the legal baseline for commercial close protection in England and Wales. It requires a criminal records check, identity verification, and completion of an Ofqual-regulated Level 3 Award in Close Protection from an SIA-approved training provider.
+
+Outside the UK, we require the nationally equivalent licence:
+
+- **South Africa** — PSIRA (Private Security Industry Regulatory Authority) registration
+- **Colombia** — SuperVigilancia certification for the operating company and individual officers
+- **Nigeria** — relevant state-level private security licensing
+- **UAE** — SIRA (Security Industry Regulatory Agency) licence for the operating company
+- **India** — licensing under the Private Security Agencies (Regulation) Act 2005
+
+For all markets, we verify licence numbers directly against the issuing authority and track expiry dates. Expired licences trigger immediate suspension.
+
+For a full explanation of what the SIA Close Protection licence covers and how to verify any operator's credentials, see our guide: [The SIA Close Protection Licence Explained](/blog/sia-close-protection-licence-explained/).
 
 ## How we verify operators
 
@@ -32,6 +50,8 @@ Every operator in our network has completed our three-tier process before we rec
 **Gold** requires operational evidence. Completed engagements through our network reviewed against client feedback, an operational assessment in the operator's working environment, and a clean incident record. Gold operators are featured on city pages and prioritised for new enquiries.
 
 Background checks are refreshed every two years. Insurance and licensing are tracked against expiry dates. Any red flag triggers an immediate review.
+
+For more detail on the full vetting process, see our [Operator Vetting Standards](/vetting-standards/) page.
 
 ## What we verify, and what we cannot
 
