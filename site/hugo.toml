@@ -40,8 +40,9 @@ timeout = "120s"
   quoteFormEndpoint = ""
   googleSearchConsole = ""
   contactEmail = ""
-  # GA4 measurement ID — leave empty to disable. Analytics only fires on the live site (not hugo server).
-  ga4Id = ""
+  # GA4 measurement ID — add real ID (format G-XXXXXXXXXX) to activate analytics on the live site.
+  # Used by baseof.html, guarded by `not hugo.IsServer` so never fires locally.
+  googleAnalyticsId = ""
 
   [params.colors]
     primary = "#0a1628"

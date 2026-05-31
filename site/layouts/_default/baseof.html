@@ -16,11 +16,11 @@
     <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
     {{ with .Params.og_image }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
 
-    {{/* Global Organization / ProfessionalService entity — emitted on every page */}}
+    {{/* Global Organization entity — emitted on every page */}}
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "ProfessionalService",
+      "@type": "Organization",
       "name": "{{ .Site.Params.brand }}",
       "url": "{{ .Site.BaseURL }}",
       "logo": "{{ .Site.BaseURL }}images/logo.png",
@@ -32,7 +32,7 @@
       "areaServed": "Worldwide",
       "sameAs": [
         "TODO: LinkedIn company URL",
-        "TODO: additional sameAs URLs"
+        "TODO: Facebook URL"
       ],
       "hasCredential": [
         {
@@ -45,12 +45,6 @@
             "name": "Security Industry Authority",
             "url": "https://www.sia.homeoffice.gov.uk/"
           }
-        }
-      ],
-      "memberOf": [
-        {
-          "@type": "Organization",
-          "name": "TODO: industry body membership (e.g. BSIA, ASIS) — add when confirmed"
         }
       ],
       "contactPoint": {
@@ -84,13 +78,13 @@
     {{ end }}
 
     {{/* GA4 — fires on live site only, never on local hugo server */}}
-    {{ if and .Site.Params.ga4Id (not hugo.IsServer) }}
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.ga4Id }}"></script>
+    {{ if and .Site.Params.googleAnalyticsId (not hugo.IsServer) }}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleAnalyticsId }}"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', '{{ .Site.Params.ga4Id }}');
+      gtag('config', '{{ .Site.Params.googleAnalyticsId }}');
     </script>
     {{ end }}
 </head>
