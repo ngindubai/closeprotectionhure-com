@@ -16,7 +16,33 @@
     <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
     {{ with .Params.og_image }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
 
-    {{/* Schema.org block */}}
+    {{/* Global Organization / ProfessionalService entity — emitted on every page */}}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfessionalService",
+      "name": "{{ .Site.Params.brand }}",
+      "url": "{{ .Site.BaseURL }}",
+      "logo": "{{ .Site.BaseURL }}images/logo.png",
+      "description": "{{ .Site.Params.description }}",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "GB"
+      },
+      "areaServed": "Worldwide",
+      "sameAs": [
+        "TODO: LinkedIn company URL",
+        "TODO: additional sameAs URLs"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "availableLanguage": "English"
+      }
+    }
+    </script>
+
+    {{/* Page-specific schema block */}}
     {{ block "schema" . }}{{ end }}
 
     {{/* Fonts */}}

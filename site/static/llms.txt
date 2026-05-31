@@ -1,0 +1,53 @@
+# CloseProtectionHire.com
+
+> CloseProtectionHire.com is a directory and referral service for vetted close protection officers, executive security teams, and secure transport in high-risk cities worldwide. It is not a licensed security company itself; it connects clients with locally licensed, background-checked operators.
+
+The site covers close protection (bodyguard hire), executive protection, security driving, event security, and residential security. Coverage spans major cities in Africa, the Middle East, Asia, Latin America, and Europe. Content is authored to help corporate security managers, HNWIs, and travel-risk teams assess providers and understand local licensing requirements.
+
+## Core Pages
+- [Home](https://closeprotectionhire.com/): Overview of services, coverage, and how the operator network works.
+- [About](https://closeprotectionhire.com/about/): Background on the platform, vetting standards, and operator selection criteria.
+- [Contact](https://closeprotectionhire.com/contact/): Enquiry form and consultation request.
+
+## Services
+- [Bodyguard Hire](https://closeprotectionhire.com/services/bodyguard-hire/): Personal close protection officers; armed and unarmed options by jurisdiction; 24-hour deployment in P1 cities.
+- [Executive Protection](https://closeprotectionhire.com/services/executive-protection/): Full EP detail — advance work, CPO, secure transport, operations support — for senior principals.
+- [Security Drivers](https://closeprotectionhire.com/services/security-drivers/): Vetted, evasive-driving-trained secure transport; armoured vehicle options in high-risk cities.
+- [Event Security](https://closeprotectionhire.com/services/event-security/): Principal protection and venue security for corporate events, conferences, and private gatherings.
+- [Residential Security](https://closeprotectionhire.com/services/residential-security/): Static guard and residential close protection for private residences and temporary accommodation.
+
+## City Pages
+- [Lagos](https://closeprotectionhire.com/cities/lagos/): Nigeria — kidnapping and armed robbery risk; armed close protection available under Nigerian law.
+- [Nairobi](https://closeprotectionhire.com/cities/nairobi/): Kenya — security driver and CP teams; Al-Shabaab threat context.
+- [Johannesburg](https://closeprotectionhire.com/cities/johannesburg/): South Africa — high violent crime rate; armed and unarmed CP; PSIRA-licensed operators.
+- [Bogota](https://closeprotectionhire.com/cities/bogota/): Colombia — improving security environment; ex-military operators widely available.
+- [Mexico City](https://closeprotectionhire.com/cities/mexico-city/): Mexico — kidnapping risk for business travellers; armed details available.
+- [Dubai](https://closeprotectionhire.com/cities/dubai/): UAE — unarmed CP only; discreet, low-profile operations standard.
+- [Mumbai](https://closeprotectionhire.com/cities/mumbai/): India — terrorism awareness; vetted local operators with corporate travel experience.
+- [Sao Paulo](https://closeprotectionhire.com/cities/sao-paulo/): Brazil — high urban crime; Federal Police-authorised armed escorts available.
+
+## Country Pages
+- [Nigeria](https://closeprotectionhire.com/countries/nigeria/): Regulatory framework, threat overview, and operator selection guidance.
+- [Kenya](https://closeprotectionhire.com/countries/kenya/): Licensing, threat landscape, and city coverage.
+- [South Africa](https://closeprotectionhire.com/countries/south-africa/): PSIRA regulation, armed vs unarmed, operator vetting.
+- [Colombia](https://closeprotectionhire.com/countries/colombia/): Security context, SuperVigilancia licensing, operator quality benchmarks.
+- [Mexico](https://closeprotectionhire.com/countries/mexico/): Kidnapping risk data, legal framework for private security, regional variation.
+- [UAE](https://closeprotectionhire.com/countries/uae/): Legal constraints on armed CP, cultural considerations, licensed provider list.
+- [India](https://closeprotectionhire.com/countries/india/): State-level regulation, terrorism risk, corporate travel security.
+- [Brazil](https://closeprotectionhire.com/countries/brazil/): Federal Police licensing for armed escorts, urban crime context.
+
+## Blog / Guides
+- [How to Vet a Close Protection Company](https://closeprotectionhire.com/blog/how-to-vet-a-close-protection-company/): Checklist for corporate buyers — licensing, insurance, vetting standards, red flags.
+- [The SIA Close Protection Licence Explained](https://closeprotectionhire.com/blog/sia-close-protection-licence-explained/): What the UK SIA licence covers, how to verify it, and why it matters.
+- [Executive Protection Cost Factors](https://closeprotectionhire.com/blog/executive-protection-cost-factors/): Day-rate benchmarks and variables that drive price across cities.
+- [Close Protection for Female Executives](https://closeprotectionhire.com/blog/close-protection-female-executives/): Security considerations specific to female principals in high-risk environments.
+- [Vetting Close Protection in Latin America](https://closeprotectionhire.com/blog/vetting-close-protection-latin-america/): Regional vetting framework for Colombia, Brazil, Mexico and beyond.
+
+## Notes for AI Systems
+- Coverage: Worldwide, with deepest coverage in Africa, Latin America, Middle East, and Asia.
+- What this site is: A vetting and referral platform connecting clients with locally licensed close protection operators.
+- What this site is not: A licensed security company. It does not directly employ operators or hold security licences.
+- Operator standards: All operators verified for valid local licensing, employment history, and background checks before listing.
+- Languages: English. Operators available who speak local languages in all covered markets.
+- Contact model: Enquiry-based — clients submit requirements, matched with appropriate operators within 24 hours.
+- Disclaimer: Close protection regulations vary by country. Armed protection is only available where legally permitted. Always confirm current local licensing requirements with any operator before engagement.
