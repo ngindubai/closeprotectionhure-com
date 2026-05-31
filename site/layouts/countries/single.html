@@ -2,20 +2,47 @@
 
 {{ define "schema" }}
 <script type="application/ld+json">
-{
+[
+  {
     "@context": "https://schema.org",
     "@type": "Service",
     "name": "Security Services in {{ .Title }}",
     "description": "{{ .Description }}",
+    "dateModified": "{{ now.Format "2006-01-02" }}",
     "provider": {
-        "@type": "Organization",
-        "name": "{{ .Site.Params.brand }}"
+      "@type": "Organization",
+      "name": "{{ .Site.Params.brand }}"
     },
     "areaServed": {
-        "@type": "Country",
-        "name": "{{ .Title }}"
+      "@type": "Country",
+      "name": "{{ .Title }}"
     }
-}
+  }{{ if .Params.faqs }},
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {{ range $i, $faq := .Params.faqs }}{{ if $i }},{{ end }}
+      {
+        "@type": "Question",
+        "name": {{ $faq.question | jsonify }},
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": {{ $faq.answer | jsonify }}
+        }
+      }{{ end }}
+    ]
+  }{{ end }},
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ .Site.BaseURL }}" },
+      { "@type": "ListItem", "position": 2, "name": "Countries", "item": "{{ .Site.BaseURL }}countries/" },
+      { "@type": "ListItem", "position": 3, "name": "{{ .Title }}", "item": "{{ .Permalink }}" }
+    ]
+  }
+]
 </script>
 {{ end }}
 
@@ -74,6 +101,17 @@
     </div>
 </section>
 {{ end }}
+
+{{/* ===== FRESHNESS DATE ===== */}}
+<section class="section-dark bg-dark text-light pt-0 pb-20">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1">
+                <p class="small text-muted"><em>Updated {{ now.Format "January 2006" }}</em></p>
+            </div>
+        </div>
+    </div>
+</section>
 
 {{/* ===== KEY CITIES ===== */}}
 {{ with .Params.cities }}
@@ -140,6 +178,44 @@
     </div>
 </section>
 {{ end }}
+
+{{/* ===== SERVICE CROSS-LINKS ===== */}}
+<section class="section-dark bg-dark-2 text-light">
+    <div class="container">
+        <div class="row mb-3">
+            <div class="col-12">
+                <div class="subtitle wow fadeInUp">Services</div>
+                <h2 class="wow fadeInUp" data-wow-delay=".2s">What we provide in {{ .Title }}</h2>
+            </div>
+        </div>
+        <div class="row g-4">
+            <div class="col-lg-3 col-md-6 wow fadeInRight">
+                <a href="/services/bodyguard-hire/" class="d-block bg-dark rounded-1 p-30 text-light hover">
+                    <h5 class="mb-1">Bodyguard Hire</h5>
+                    <p class="mb-0 small">Licensed CPOs deployed in {{ .Title }} &rarr;</p>
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-6 wow fadeInRight" data-wow-delay=".1s">
+                <a href="/services/executive-protection/" class="d-block bg-dark rounded-1 p-30 text-light hover">
+                    <h5 class="mb-1">Executive Protection</h5>
+                    <p class="mb-0 small">Full EP detail &rarr;</p>
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-6 wow fadeInRight" data-wow-delay=".2s">
+                <a href="/services/security-drivers/" class="d-block bg-dark rounded-1 p-30 text-light hover">
+                    <h5 class="mb-1">Security Drivers</h5>
+                    <p class="mb-0 small">Vetted secure transport &rarr;</p>
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-6 wow fadeInRight" data-wow-delay=".3s">
+                <a href="/vetting-standards/" class="d-block bg-dark rounded-1 p-30 text-light hover">
+                    <h5 class="mb-1">Operator Standards</h5>
+                    <p class="mb-0 small">How we vet operators &rarr;</p>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
 
 {{/* ===== FAQs ===== */}}
 {{ with .Params.faqs }}

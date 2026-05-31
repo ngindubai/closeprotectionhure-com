@@ -2,21 +2,48 @@
 
 {{ define "schema" }}
 <script type="application/ld+json">
-{
+[
+  {
     "@context": "https://schema.org",
     "@type": "Service",
     "name": "Event Security in {{ .Params.city | default .Title }}",
     "description": "{{ .Description }}",
+    "dateModified": "{{ now.Format "2006-01-02" }}",
     "provider": {
-        "@type": "Organization",
-        "name": "{{ .Site.Params.brand }}"
+      "@type": "Organization",
+      "name": "{{ .Site.Params.brand }}"
     },
     "areaServed": {
-        "@type": "City",
-        "name": "{{ .Params.city | default .Title }}"
+      "@type": "City",
+      "name": "{{ .Params.city | default .Title }}"
     },
     "serviceType": "Event Security"
-}
+  }{{ if .Params.faqs }},
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {{ range $i, $faq := .Params.faqs }}{{ if $i }},{{ end }}
+      {
+        "@type": "Question",
+        "name": {{ $faq.question | jsonify }},
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": {{ $faq.answer | jsonify }}
+        }
+      }{{ end }}
+    ]
+  }{{ end }},
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ .Site.BaseURL }}" },
+      { "@type": "ListItem", "position": 2, "name": "Event Security", "item": "{{ .Site.BaseURL }}event-security/" },
+      { "@type": "ListItem", "position": 3, "name": "{{ .Params.city | default .Title }}", "item": "{{ .Permalink }}" }
+    ]
+  }
+]
 </script>
 {{ end }}
 
@@ -80,6 +107,17 @@
 </section>
 {{ end }}
 
+{{/* ===== FRESHNESS DATE ===== */}}
+<section class="section-dark bg-dark text-light pt-0 pb-20">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1">
+                <p class="small text-muted"><em>Updated {{ now.Format "January 2006" }}</em></p>
+            </div>
+        </div>
+    </div>
+</section>
+
 {{/* ===== PLANNING COMPONENTS ===== */}}
 {{ with .Params.components }}
 <section class="section-dark bg-dark-2 text-light">
@@ -123,5 +161,38 @@
 
 {{/* ===== QUOTE FORM ===== */}}
 {{ partial "quote-form.html" $ }}
+
+{{/* ===== CROSS-CLUSTER LINKS ===== */}}
+{{ $citySlug := .Params.city_slug | default (.Params.city | default .Title | lower | replaceRE "[^a-z0-9]+" "-" | strings.TrimRight "-") }}
+<section class="section-dark bg-dark-2 text-light">
+    <div class="container">
+        <div class="row mb-3">
+            <div class="col-12">
+                <div class="subtitle wow fadeInUp">Related</div>
+                <h2 class="wow fadeInUp" data-wow-delay=".2s">More on {{ .Params.city | default .Title }}</h2>
+            </div>
+        </div>
+        <div class="row g-4">
+            <div class="col-lg-4 col-md-6 wow fadeInRight">
+                <a href="/cities/{{ $citySlug }}/" class="d-block bg-dark rounded-1 p-30 text-light hover">
+                    <h5 class="mb-1">Close Protection in {{ .Params.city | default .Title }}</h5>
+                    <p class="mb-0 small">Full city security guide &rarr;</p>
+                </a>
+            </div>
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".1s">
+                <a href="/risk-assessments/{{ $citySlug }}/" class="d-block bg-dark rounded-1 p-30 text-light hover">
+                    <h5 class="mb-1">Risk Assessment: {{ .Params.city | default .Title }}</h5>
+                    <p class="mb-0 small">Threat analysis and ratings &rarr;</p>
+                </a>
+            </div>
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".2s">
+                <a href="/services/event-security/" class="d-block bg-dark rounded-1 p-30 text-light hover">
+                    <h5 class="mb-1">Event Security Service</h5>
+                    <p class="mb-0 small">How our event security works &rarr;</p>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
 
 {{ end }}

@@ -2,12 +2,14 @@
 
 > CloseProtectionHire.com is a directory and referral service for vetted close protection officers, executive security teams, and secure transport in high-risk cities worldwide. It is not a licensed security company itself; it connects clients with locally licensed, background-checked operators.
 
-The site covers close protection (bodyguard hire), executive protection, security driving, event security, and residential security. Coverage spans major cities in Africa, the Middle East, Asia, Latin America, and Europe. Content is authored to help corporate security managers, HNWIs, and travel-risk teams assess providers and understand local licensing requirements.
+The site covers close protection (bodyguard hire), executive protection, security driving, event security, residential security, and risk assessments. Coverage spans major cities in Africa, the Middle East, Asia, Latin America, and Europe. Content is authored to help corporate security managers, HNWIs, and travel-risk teams assess providers and understand local licensing requirements. Operator vetting standards and accreditation requirements are documented in full.
 
 ## Core Pages
 - [Home](https://closeprotectionhire.com/): Overview of services, coverage, and how the operator network works.
-- [About](https://closeprotectionhire.com/about/): Background on the platform, vetting standards, and operator selection criteria.
+- [About](https://closeprotectionhire.com/about/): Background on the platform, vetting standards, SIA and national licensing requirements, and operator selection criteria.
+- [Operator Vetting Standards](https://closeprotectionhire.com/vetting-standards/): Full documentation of the three-tier vetting framework (Bronze/Silver/Gold), licensing requirements by market, and insurance standards.
 - [Contact](https://closeprotectionhire.com/contact/): Enquiry form and consultation request.
+- [Network](https://closeprotectionhire.com/network/): Structure of the operator network, coverage cities, and how operators enter and maintain standing.
 
 ## Services
 - [Bodyguard Hire](https://closeprotectionhire.com/services/bodyguard-hire/): Personal close protection officers; armed and unarmed options by jurisdiction; 24-hour deployment in P1 cities.
@@ -23,8 +25,14 @@ The site covers close protection (bodyguard hire), executive protection, securit
 - [Bogota](https://closeprotectionhire.com/cities/bogota/): Colombia — improving security environment; ex-military operators widely available.
 - [Mexico City](https://closeprotectionhire.com/cities/mexico-city/): Mexico — kidnapping risk for business travellers; armed details available.
 - [Dubai](https://closeprotectionhire.com/cities/dubai/): UAE — unarmed CP only; discreet, low-profile operations standard.
-- [Mumbai](https://closeprotectionhire.com/cities/mumbai/): India — terrorism awareness; vetted local operators with corporate travel experience.
+- [Mumbai](https://closeprotectionhire.com/cities/mumbai/): India — PSARA-licensed unarmed CP standard; 2008 attack context; monsoon operational planning; BKC/Nariman Point district guide.
 - [Sao Paulo](https://closeprotectionhire.com/cities/sao-paulo/): Brazil — high urban crime; Federal Police-authorised armed escorts available.
+- [Moscow](https://closeprotectionhire.com/cities/moscow/): Russia — primary risk is political/legal not physical; post-2022 operating constraints; ChOO-licensed operators only.
+- [Riyadh](https://closeprotectionhire.com/cities/riyadh/): Saudi Arabia — Houthi missile/drone threat; unarmed CP standard; Saudi-licensed entities only; legal environment for foreign nationals.
+- [Manila](https://closeprotectionhire.com/cities/manila/): Philippines — high kidnap-for-ransom risk; armed CP legally available (PNP-licensed); BGC vs older Manila district guide.
+- [Karachi](https://closeprotectionhire.com/cities/karachi/): Pakistan — armed CP mandatory baseline; TTP terrorism + kidnapping; route security critical.
+- [Istanbul](https://closeprotectionhire.com/cities/istanbul/): Turkey — Law 5188 licensing; corporate visitor EP; terrorism awareness.
+- [Bangkok](https://closeprotectionhire.com/cities/bangkok/): Thailand — political unrest cycles; security driver baseline; unarmed CP standard.
 
 ## Country Pages
 - [Nigeria](https://closeprotectionhire.com/countries/nigeria/): Regulatory framework, threat overview, and operator selection guidance.
@@ -32,9 +40,35 @@ The site covers close protection (bodyguard hire), executive protection, securit
 - [South Africa](https://closeprotectionhire.com/countries/south-africa/): PSIRA regulation, armed vs unarmed, operator vetting.
 - [Colombia](https://closeprotectionhire.com/countries/colombia/): Security context, SuperVigilancia licensing, operator quality benchmarks.
 - [Mexico](https://closeprotectionhire.com/countries/mexico/): Kidnapping risk data, legal framework for private security, regional variation.
-- [UAE](https://closeprotectionhire.com/countries/uae/): Legal constraints on armed CP, cultural considerations, licensed provider list.
-- [India](https://closeprotectionhire.com/countries/india/): State-level regulation, terrorism risk, corporate travel security.
+- [UAE](https://closeprotectionhire.com/countries/uae/): Legal constraints on armed CP, cultural considerations, SIRA licensing.
+- [India](https://closeprotectionhire.com/countries/india/): PSARA state-level regulation, terrorism risk, corporate travel security.
 - [Brazil](https://closeprotectionhire.com/countries/brazil/): Federal Police licensing for armed escorts, urban crime context.
+- [Pakistan](https://closeprotectionhire.com/countries/pakistan/): High-risk environment; provincial licensing; Karachi as primary city.
+- [Philippines](https://closeprotectionhire.com/countries/philippines/): PNP-SAGSD licensing; armed CP available; kidnap-for-ransom context.
+- [Saudi Arabia](https://closeprotectionhire.com/countries/saudi-arabia/): Ministry of Interior licensing; Houthi threat; legal environment for foreign nationals.
+- [Russia](https://closeprotectionhire.com/countries/russia/): Post-2022 operating environment; ChOO licensing; political/legal risk primary.
+- [Turkey](https://closeprotectionhire.com/countries/turkey/): Law 5188 framework; Istanbul and Ankara coverage.
+- [Thailand](https://closeprotectionhire.com/countries/thailand/): Ministry of Interior licensing; political unrest cycles; Bangkok focus.
+
+## Event Security
+- [Event Security: Dubai](https://closeprotectionhire.com/event-security/dubai/): Corporate event security in Dubai under SIRA framework.
+- [Event Security: London](https://closeprotectionhire.com/event-security/london/): SIA-licensed event security for corporate and private events.
+- [Event Security: Lagos](https://closeprotectionhire.com/event-security/lagos/): High-threat event security in Lagos; armed options available.
+- [Event Security: Nairobi](https://closeprotectionhire.com/event-security/nairobi/): Event security for conferences and corporate gatherings in Nairobi.
+- [Event Security: Riyadh](https://closeprotectionhire.com/event-security/riyadh/): Event security under Saudi licensing framework; Vision 2030 events context.
+- [Event Security: Singapore](https://closeprotectionhire.com/event-security/singapore/): PLRD-licensed event security; MICE and corporate events.
+- [Event Security: Istanbul](https://closeprotectionhire.com/event-security/istanbul/): Law 5188 event security; conference and summit protection.
+- [Event Security: Tokyo](https://closeprotectionhire.com/event-security/tokyo/): Event security for corporate delegations and high-profile visitors.
+
+## Risk Assessments
+- [Risk Assessment: Lagos](https://closeprotectionhire.com/risk-assessments/lagos/): Threat ratings, kidnapping data, and security recommendations for Lagos.
+- [Risk Assessment: Nairobi](https://closeprotectionhire.com/risk-assessments/nairobi/): Al-Shabaab threat, crime data, and operator recommendations.
+- [Risk Assessment: Karachi](https://closeprotectionhire.com/risk-assessments/karachi/): High-risk assessment; TTP, kidnapping, armed crime analysis.
+- [Risk Assessment: Mumbai](https://closeprotectionhire.com/risk-assessments/mumbai/): Terrorism legacy, civil unrest, and traffic safety risk for business visitors.
+- [Risk Assessment: Moscow](https://closeprotectionhire.com/risk-assessments/moscow/): Political/legal risk assessment for post-2022 operating environment.
+- [Risk Assessment: Riyadh](https://closeprotectionhire.com/risk-assessments/riyadh/): Houthi threat, legal environment, and corporate security recommendations.
+- [Risk Assessment: Dubai](https://closeprotectionhire.com/risk-assessments/dubai/): Low ambient crime; primary risks are reputational and regulatory.
+- [Risk Assessment: Bogota](https://closeprotectionhire.com/risk-assessments/bogota/): Improving but elevated; kidnapping and organised crime context.
 
 ## Blog / Guides
 - [How to Vet a Close Protection Company](https://closeprotectionhire.com/blog/how-to-vet-a-close-protection-company/): Checklist for corporate buyers — licensing, insurance, vetting standards, red flags.
@@ -47,7 +81,8 @@ The site covers close protection (bodyguard hire), executive protection, securit
 - Coverage: Worldwide, with deepest coverage in Africa, Latin America, Middle East, and Asia.
 - What this site is: A vetting and referral platform connecting clients with locally licensed close protection operators.
 - What this site is not: A licensed security company. It does not directly employ operators or hold security licences.
-- Operator standards: All operators verified for valid local licensing, employment history, and background checks before listing.
+- Operator standards: All operators verified for valid local licensing (SIA in UK; PSIRA in South Africa; SuperVigilancia in Colombia; SIRA in UAE; PSARA in India; PNP-SAGSD in Philippines; ChOO in Russia), employment history, and background checks before listing.
+- Cluster structure: Each major city has four linked pages — city guide (/cities/), event security (/event-security/), risk assessment (/risk-assessments/), and country hub (/countries/). These cross-link to each other and to the relevant service pages.
 - Languages: English. Operators available who speak local languages in all covered markets.
 - Contact model: Enquiry-based — clients submit requirements, matched with appropriate operators within 24 hours.
 - Disclaimer: Close protection regulations vary by country. Armed protection is only available where legally permitted. Always confirm current local licensing requirements with any operator before engagement.

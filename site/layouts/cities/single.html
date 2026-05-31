@@ -37,24 +37,9 @@
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "{{ .Site.BaseURL }}"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Cities",
-        "item": "{{ .Site.BaseURL }}cities/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "{{ .Title }}",
-        "item": "{{ .Permalink }}"
-      }
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ .Site.BaseURL }}" },
+      { "@type": "ListItem", "position": 2, "name": "Cities", "item": "{{ .Site.BaseURL }}cities/" },
+      { "@type": "ListItem", "position": 3, "name": "{{ .Title }}", "item": "{{ .Permalink }}" }
     ]
   }
 ]
@@ -328,17 +313,44 @@
 {{/* ===== QUOTE FORM ===== */}}
 {{ partial "quote-form.html" $ }}
 
-{{/* ===== RELATED CITIES ===== */}}
-{{ with .Params.related_cities }}
+{{/* ===== CROSS-CLUSTER LINKS ===== */}}
 <section class="section-dark bg-dark-2 text-light" id="related">
     <div class="container">
-        <div class="row mb-4">
-            <div class="col-lg-12">
-                <div class="subtitle wow fadeInUp">More Locations</div>
-                <h2 class="wow fadeInUp" data-wow-delay=".2s">Other Locations</h2>
+        <div class="row mb-3">
+            <div class="col-12">
+                <div class="subtitle wow fadeInUp">Related</div>
+                <h2 class="wow fadeInUp" data-wow-delay=".2s">Also for {{ .Title }}</h2>
             </div>
         </div>
         <div class="row g-4">
+            <div class="col-lg-3 col-md-6 wow fadeInRight">
+                <a href="/event-security/{{ .File.BaseFileName }}/" class="d-block bg-dark rounded-1 p-30 text-light hover">
+                    <h5 class="mb-1">Event Security</h5>
+                    <p class="mb-0 small">Secure events in {{ .Title }} &rarr;</p>
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-6 wow fadeInRight" data-wow-delay=".1s">
+                <a href="/risk-assessments/{{ .File.BaseFileName }}/" class="d-block bg-dark rounded-1 p-30 text-light hover">
+                    <h5 class="mb-1">Risk Assessment</h5>
+                    <p class="mb-0 small">Threat analysis for {{ .Title }} &rarr;</p>
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-6 wow fadeInRight" data-wow-delay=".2s">
+                <a href="/services/bodyguard-hire/" class="d-block bg-dark rounded-1 p-30 text-light hover">
+                    <h5 class="mb-1">Bodyguard Hire</h5>
+                    <p class="mb-0 small">Licensed CPOs &rarr;</p>
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-6 wow fadeInRight" data-wow-delay=".3s">
+                <a href="/vetting-standards/" class="d-block bg-dark rounded-1 p-30 text-light hover">
+                    <h5 class="mb-1">Operator Standards</h5>
+                    <p class="mb-0 small">How we vet operators &rarr;</p>
+                </a>
+            </div>
+        </div>
+        {{/* Related cities from frontmatter */}}
+        {{ with .Params.related_cities }}
+        <div class="row g-4 mt-2">
             {{ range $i, $c := . }}
             <div class="col-lg-3 col-md-4 col-sm-6 wow fadeInRight" data-wow-delay="{{ printf "%.1fs" (mul $i 0.15) }}">
                 <a href="/cities/{{ $c.slug }}/" class="d-block bg-dark rounded-1 p-30 text-center text-light hover">
@@ -347,8 +359,8 @@
             </div>
             {{ end }}
         </div>
+        {{ end }}
     </div>
 </section>
-{{ end }}
 
 {{ end }}
