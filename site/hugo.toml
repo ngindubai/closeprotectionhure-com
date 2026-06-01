@@ -7,6 +7,7 @@ title = "Close Protection and Security Services | CloseProtectionHire.com"
 enableRobotsTXT = true
 enableGitInfo = false
 timeout = "120s"
+buildFuture = true
 
 [taxonomies]
 

@@ -46,7 +46,10 @@
 ## Phase 3D — P3 City Expansion Batch 3 (6 cities)
 - [x] Dakar, Tunis, Algiers, Port of Spain, Panama City, San Jose (Costa Rica)
 
-**~86 city pages live. ~300+ total pages.**
+## Phase 3E — P3 City Expansion Batch 4 (6 cities)
+- [x] **Deployed 02 Jun 2026:** Medellin, Guadalajara, Accra, Maputo, Lusaka, Abidjan
+
+**~92 city pages live. ~320+ total pages.**
 
 ---
 
@@ -61,11 +64,11 @@
 - [ ] Run `scripts/check_titles.py` + `scripts/check_descriptions.py`
 - [ ] Fix any YMYL safety-guarantee patterns, banned words, or em dashes found
 
-### Phase 3E — P3 City Expansion Batch 4
-- [ ] Candidates: Medellin, Guadalajara, Maputo, Lusaka, Accra expansion
+### Phase 3F — P3 City Expansion Batch 5
+- [ ] Candidates: Baku expansion, Almaty, Tashkent, Colombo expansion, Santiago expansion
 
 ### Blog Factory continuation
-- [ ] Continue through keyword matrix
+- [ ] Continue through keyword matrix targeting angles not covered by Phase 3C service x city deep pages
 
 ---
 
@@ -79,4 +82,5 @@
 | 01 Jun 2026 | Blog batches | many | Missing posts batch 1-4, guides section |
 | 02 Jun 2026 | 3D | 6 | Dakar, Tunis, Algiers, Port of Spain, Panama City, San Jose |
 | 02 Jun 2026 | Homepage | 0 | Dynamic city dropdown, copy updated to 80+ cities |
-| 02 Jun 2026 | 2H | 15 | Travel safety guides for all 15 P1 cities |
+| 02 Jun 2026 | 2H | 15 | Travel safety guides for all 15 P1 cities (date fix: buildFuture=true added to hugo.toml) |
+| 02 Jun 2026 | 3E | 6 | Medellin, Guadalajara, Accra, Maputo, Lusaka, Abidjan |
