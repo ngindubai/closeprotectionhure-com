@@ -1,7 +1,7 @@
 ---
 title: "Istanbul Travel Safety Guide: What to Know Before You Go"
 description: "Practical travel safety guide for Istanbul, Turkey. Pre-trip security checklist, transport, accommodation, medical, communications, and emergency protocols for business travellers."
-date: "2026-06-02"
+date: "2026-05-28"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "travel-safety-guide-istanbul"
 seo_title: "Istanbul Travel Safety Guide 2026 | Business Traveller Security"
