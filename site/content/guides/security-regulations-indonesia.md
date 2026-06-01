@@ -2,7 +2,6 @@
 title: "Private Security Regulations in Indonesia: A Guide for Operators and Corporate Clients"
 description: "A guide to private security regulations in Indonesia. Covers Polri licensing, close protection rules, armed guard provisions, and what foreign executives need to know when using security services in Indonesia."
 date: "2026-01-20"
-type: "guides"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-regulations-indonesia"
 seo_title: "Indonesia Private Security Regulations Guide | CloseProtectionHire.com"

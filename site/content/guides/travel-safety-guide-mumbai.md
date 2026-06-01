@@ -2,7 +2,6 @@
 title: "Mumbai Travel Safety Guide: What to Know Before You Go"
 description: "Practical travel safety guide for Mumbai, India. Pre-trip security checklist, transport, accommodation, medical, communications, and emergency protocols for business travellers."
 date: "2026-06-02"
-type: "guides"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "travel-safety-guide-mumbai"
 seo_title: "Mumbai Travel Safety Guide 2026 | Business Traveller Security"
@@ -23,13 +22,13 @@ faqs:
     answer: "Mumbai has India's best private hospital infrastructure. Lilavati Hospital (Bandra), Breach Candy Hospital (Breach Candy), and Kokilaben Dhirubhai Ambani Hospital (Andheri) are among the facilities with expatriate patient services. Carry your insurance details and confirm the insurer has a cashless arrangement with your chosen hospital."
 ---
 
-Mumbai is India's commercial capital and the centre of its finance, media, and entertainment industries. Chhatrapati Shivaji Maharaj Terminus is India's busiest railway station, and BKC (Bandra-Kurla Complex) is the modern financial district that hosts the Bombay Stock Exchange and the headquarters of major Indian and international financial institutions. Business travel to Mumbai is routine for international corporations with Indian operations.
+Mumbai is India's commercial capital and the centre of its finance, media, and entertainment industries. Business travel to Mumbai is routine for international corporations with Indian operations.
 
 ## Before You Travel
 
-**Visa.** India requires a visa for most nationalities. The eVisa system is available for business visits (e-Business visa). Apply at least 72 hours before travel; longer lead times are advisable. Confirm the eVisa is compatible with your purpose of travel.
+**Visa.** India requires a visa for most nationalities. The eVisa system is available for business visits (e-Business visa). Apply at least 72 hours before travel; longer lead times are advisable.
 
-**Vaccinations.** Hepatitis A and typhoid vaccinations are recommended for India. Confirm your GP's advice based on your itinerary. Malaria prophylaxis is not typically required for Mumbai city visits but may be relevant if your itinerary extends to other regions.
+**Vaccinations.** Hepatitis A and typhoid vaccinations are recommended for India. Confirm your GP's advice based on your itinerary.
 
 **FCDO advisory.** FCDO rates India as overall Level 2. Specific higher-risk areas (Kashmir, border regions) carry separate advisories that do not apply to Mumbai city.
 
@@ -37,9 +36,9 @@ Mumbai is India's commercial capital and the centre of its finance, media, and e
 
 ## On the Ground
 
-**Transport.** Pre-booked Ola or Uber are appropriate for corporate travel. Mumbai's black-and-yellow taxis are metered and functional for shorter journeys. The metro system has expanded and covers some useful corridors. Do not use autorickshaws for longer journeys or airport connections.
+**Transport.** Pre-booked Ola or Uber are appropriate for corporate travel. Mumbai's black-and-yellow taxis are metered and functional for shorter journeys.
 
-**Hydration.** Drink bottled water only. Ice in drinks outside international hotels carries risk. Mumbai's heat and humidity require proactive hydration.
+**Hydration.** Drink bottled water only. Mumbai's heat and humidity require proactive hydration.
 
 **Food safety.** International hotel restaurants and well-established restaurants in BKC are safe choices. Street food carries higher hygiene risk for visitors without built-up immunity.
 

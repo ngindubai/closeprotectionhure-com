@@ -2,7 +2,6 @@
 title: "Private Security Regulations in Nigeria: A Guide for Operators and Corporate Clients"
 description: "A guide to private security regulations in Nigeria. Covers licensing under the NSCDC framework, armed guard provisions, close protection requirements for foreign executives, and operational considerations for Lagos and Abuja."
 date: "2026-03-01"
-type: "guides"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-regulations-nigeria"
 seo_title: "Nigeria Private Security Regulations Guide | CloseProtectionHire.com"

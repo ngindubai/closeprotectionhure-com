@@ -2,7 +2,6 @@
 title: "Private Security Regulations in Kenya: A Guide for Operators and Corporate Clients"
 description: "A guide to private security regulations in Kenya. Covers Private Security Regulatory Authority (PSRA) licensing, close protection rules, armed guard provisions, and what foreign executives need to know when using security services in Nairobi and throughout Kenya."
 date: "2025-12-15"
-type: "guides"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-regulations-kenya"
 seo_title: "Kenya Private Security Regulations Guide | CloseProtectionHire.com"

@@ -2,7 +2,6 @@
 title: "Sao Paulo Travel Safety Guide: What to Know Before You Go"
 description: "Practical travel safety guide for Sao Paulo, Brazil. Pre-trip security checklist, transport, accommodation, medical, communications, and emergency protocols for business travellers."
 date: "2026-06-02"
-type: "guides"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "travel-safety-guide-sao-paulo"
 seo_title: "Sao Paulo Travel Safety Guide 2026 | Business Traveller Security"
@@ -23,15 +22,13 @@ faqs:
     answer: "Sao Paulo has South America's best private medical infrastructure. Hospital Sirio-Libanes and Hospital Albert Einstein are internationally recognised facilities used by the local business community and wealthy Brazilians. Both have international patient services. Confirm your insurance has direct billing arrangements with your chosen hospital."
 ---
 
-Sao Paulo is the largest city in the Southern Hemisphere and Brazil's economic engine. It is home to the B3 stock exchange, the regional headquarters of hundreds of multinational companies, and Brazil's most developed corporate infrastructure. It is also, by statistical measure, one of the world's most dangerous cities for armed robbery and vehicle crime.
+Sao Paulo is the largest city in the Southern Hemisphere and Brazil's economic engine. It is also, by statistical measure, one of the world's most dangerous cities for armed robbery and vehicle crime.
 
 ## Before You Travel
 
 **Pre-book all transport.** Guarulhos Airport to your hotel, and all in-city movement, should be pre-booked with a vetted driver. Do not use informal taxis. The GRU route carries documented robbery risk for visitors using informal transport.
 
 **Understand the assalto pattern.** Sao Paulo's most distinctive threat for business visitors is the vehicle-following robbery. Teams identify targets at hotels, restaurants, or business venues, follow the vehicle, and rob at traffic lights or isolated intersections. Counter-surveillance awareness, route variation, and armoured vehicles for higher-profile principals are the responses.
-
-**FCDO/State Dept advisory.** FCDO rates Brazil as Level 2. State Dept rates Brazil Level 2. Both highlight specific areas within Sao Paulo with elevated risk.
 
 **Insurance.** Hospital costs in Brazil are high. Travel insurance with direct billing at a hospital of your choice is important. Confirm Hospital Albert Einstein or Sirio-Libanes is within your network.
 
@@ -43,13 +40,10 @@ Sao Paulo is the largest city in the Southern Hemisphere and Brazil's economic e
 
 **ATMs.** Use ATMs inside bank branches or hotel lobbies. ATM robbery, including express robbery at ATMs, is documented. Avoid withdrawals at night.
 
-**Portuguese.** English is not widely spoken outside international hotels and major multinational offices. A translator or bilingual local contact is useful for meetings outside standard corporate venues.
-
 ## Emergency Contacts
 
 - Police: 190
 - Ambulance (SAMU): 192
-- Fire: 193
 - Hospital Sirio-Libanes: +55 11 3155 0200
 - Hospital Albert Einstein: +55 11 2151 1233
 - British Consulate-General Sao Paulo: +55 11 3094 2700

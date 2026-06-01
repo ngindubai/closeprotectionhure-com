@@ -2,7 +2,6 @@
 title: "Karachi Travel Safety Guide: What to Know Before You Go"
 description: "Practical travel safety guide for Karachi, Pakistan. Pre-trip security checklist, transport, accommodation, medical, communications, and emergency protocols for business travellers."
 date: "2026-06-02"
-type: "guides"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "travel-safety-guide-karachi"
 seo_title: "Karachi Travel Safety Guide 2026 | Business Traveller Security"
@@ -23,34 +22,32 @@ faqs:
     answer: "The Aga Khan University Hospital in Karachi is one of South Asia's best hospitals and is the primary facility for international visitor medical care. Confirm your medical insurance covers Pakistan. Medical evacuation to Dubai or Singapore is the option for complex cases."
 ---
 
-Karachi is Pakistan's largest city and the country's commercial and industrial centre, with a population exceeding 14 million. It hosts the Karachi Stock Exchange and is the primary port for Pakistani trade. International business activity continues in the energy, finance, and manufacturing sectors. It requires a categorically higher level of security planning than most other cities in this guide.
+Karachi is Pakistan's largest city and the country's commercial and industrial centre, with a population exceeding 14 million. It requires a categorically higher level of security planning than most other cities in this guide.
 
 ## Before You Travel
 
 **FCDO advisory essential reading.** FCDO advises against all but essential travel to parts of Karachi and rates terrorism and kidnapping risk as high. Read the full country guide and Karachi-specific guidance before confirming travel.
 
-**Confirm your security arrangements before departure.** Do not arrive in Karachi without vetted transport from the airport, confirmed accommodation in Clifton or DHA, and a security management contact. The airport zone carries robbery and harassment risk.
+**Confirm your security arrangements before departure.** Do not arrive in Karachi without vetted transport from the airport, confirmed accommodation in Clifton or DHA, and a security management contact.
 
-**Medical evacuation insurance.** Confirm your policy covers Pakistan with evacuation capability. The Aga Khan Hospital is excellent but serious or complex cases may require evacuation to Dubai or Singapore.
+**Medical evacuation insurance.** Confirm your policy covers Pakistan with evacuation capability.
 
-**Embassy registration.** Register with your embassy before travel. The British High Commission and US Consulate maintain emergency contact services.
-
-**Communications.** Pakistani mobile networks cover Karachi well. Telenor and Jazz are reliable. A local SIM is advisable for extended visits.
+**Embassy registration.** Register with your embassy before travel.
 
 ## On the Ground
 
-**Transport.** Use only vetted, pre-booked transport throughout your visit. Do not use rickshaws or informal taxis. Uber operates in a limited capacity in Karachi but is not appropriate for higher-risk profiles.
+**Transport.** Use only vetted, pre-booked transport throughout your visit. Do not use rickshaws or informal taxis.
 
-**Movement.** Avoid movement at night outside secured hotel premises. Route variation is important. Your driver should be briefed on current conditions before each day's movements.
+**Movement.** Avoid movement at night outside secured hotel premises. Route variation is important.
 
-**Stay zones.** Clifton and DHA (Defence Housing Authority) are the appropriate zones. The main international hotels are in these areas. Avoid the Old City and Lyari entirely.
+**Stay zones.** Clifton and DHA are the appropriate zones. The main international hotels are in these areas. Avoid the Old City and Lyari entirely.
 
 ## Emergency Contacts
 
 - Police: 15
 - Ambulance (Edhi Foundation): 115
 - Aga Khan University Hospital: +92 21 3486 1111
-- British High Commission Karachi: +92 21 3527 0200 (confirm current status)
+- British High Commission Karachi: +92 21 3527 0200
 - US Consulate General Karachi: +92 21 3527 5000
 
 *For vetted close protection and security drivers in Karachi, see our [Karachi security services page](/cities/karachi/).*

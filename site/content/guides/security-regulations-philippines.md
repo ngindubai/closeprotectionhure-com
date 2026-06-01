@@ -2,7 +2,6 @@
 title: "Private Security Regulations in the Philippines: A Guide for Operators and Corporate Clients"
 description: "A guide to private security regulations in the Philippines. Covers PNP-SOSIA licensing, the SAGSD framework, armed guard provisions, and what foreign executives need to know about security services in Manila and throughout the archipelago."
 date: "2026-01-10"
-type: "guides"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-regulations-philippines"
 seo_title: "Philippines Private Security Regulations Guide | CloseProtectionHire.com"

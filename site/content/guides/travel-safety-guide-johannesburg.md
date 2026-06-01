@@ -2,7 +2,6 @@
 title: "Johannesburg Travel Safety Guide: What to Know Before You Go"
 description: "Practical travel safety guide for Johannesburg, South Africa. Pre-trip security checklist, transport, accommodation, medical, communications, and emergency protocols for business travellers."
 date: "2026-06-02"
-type: "guides"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "travel-safety-guide-johannesburg"
 seo_title: "Johannesburg Travel Safety Guide 2026 | Business Traveller Security"

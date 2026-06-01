@@ -2,7 +2,6 @@
 title: "Moscow Travel Safety Guide: Essential Reading Before You Go"
 description: "Travel safety assessment for Moscow, Russia. Given FCDO advice against all travel, this guide covers the risks, legal exposure, and protocols for those with unavoidable requirements."
 date: "2026-06-02"
-type: "guides"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "travel-safety-guide-moscow"
 seo_title: "Moscow Travel Safety Guide 2026 | Risk Assessment for Business Travellers"
@@ -23,9 +22,9 @@ faqs:
     answer: "Direct flights between Russia and most Western countries were suspended following the 2022 invasion. Connections via third countries (Turkey, UAE, Serbia, Armenia) are available. The journey is longer and more complex. Return flight availability should be confirmed before departure as a contingency measure."
 ---
 
-Moscow is the capital of Russia and the country's economic, political, and cultural centre. This page exists for those with genuine requirements that make Moscow travel necessary: essential business obligations that cannot be delegated, family circumstances, or legal requirements. It is not a recommendation to travel.
+Moscow is the capital of Russia and the country's economic, political, and cultural centre. This page exists for those with genuine requirements that make Moscow travel necessary. It is not a recommendation to travel.
 
-FCDO advises against all travel to Russia. The US State Dept rates Russia Level 4: Do Not Travel. These are not precautionary advisories.
+FCDO advises against all travel to Russia. The US State Dept rates Russia Level 4: Do Not Travel.
 
 ## The Risk Landscape
 
@@ -53,8 +52,7 @@ If travel to Moscow is unavoidable:
 ## Emergency Contacts
 
 - Emergency (all services): 112
-- Moscow 112 (English-speaking line): 112
-- British Embassy Moscow: +7 495 956 7200 (check current operational status)
+- British Embassy Moscow: +7 495 956 7200 (confirm current operational status)
 - US Embassy Moscow: +7 495 728 5000 (reduced staffing)
 
-*For security assessment of Russia travel, contact us directly. Standard close protection deployment in Moscow is not something we currently facilitate given the advisory environment.*
+*For security assessment of Russia travel, contact us directly.*

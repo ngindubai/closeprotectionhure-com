@@ -2,7 +2,6 @@
 title: "Private Security Regulations in Mexico: A Guide for Operators and Corporate Clients"
 description: "A guide to private security regulations in Mexico. Covers SSPF licensing, state-level requirements, the role of the Federal Police, armed guard provisions, and what foreign executives need to know when using security services in Mexico."
 date: "2026-02-10"
-type: "guides"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-regulations-mexico"
 seo_title: "Mexico Private Security Regulations Guide | CloseProtectionHire.com"
