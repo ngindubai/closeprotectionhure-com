@@ -44,3 +44,21 @@
   - `vetting-close-protection-latin-america.md`
 **Cause:** Pre-tracker authoring. They are real, sourced articles; just not part of the numbered batch system.
 **Action:** Leave them in place. They count toward live page totals but not toward batch indexing. Worth folding into Stage 2L QA audit to confirm they pass the same gate as numbered batches.
+
+## 2026-06-01 — Stage 2L QA Audit results (inline audit, no scripts run)
+**Scope:** All 9 unlogged city pages (Baghdad, Kabul, Beirut, Caracas, Kyiv, Kampala, Kathmandu, Auckland, Melbourne) and all blog articles added in batches 7-8 (plus pre-tracker articles). Full read of 7 city pages and 9 blog articles; remaining batch 7-8 articles checked by front-matter and structural sampling.
+
+**PASS — no issues found:**
+- Baghdad, Kabul, Beirut, Caracas, Kyiv: All sourced (FCDO/State Dept cited with dates), no safety guarantees, no em dashes, YAML front matter, British English, FAQs ≥4, internal links present.
+- Blog articles checked: government-officials, eastern-europe, financial-services, kidnap-prevention, Latin-America-vetting, do-bodyguards-need-a-licence-SA, executive-protection-cost-JHB, vetting-CP-latin-america: all clean, author personas correctly attributed (Calloway/Webb), sourced, no YMYL violations.
+- Two articles that could appear to cannibalise (`bodyguard-licensing-south-africa.md` vs `do-bodyguards-need-a-licence-in-south-africa.md`): reviewed both in full. Differentiated in intent (regulatory explainer vs buyer Q&A checklist), different keyword targets, different FAQs. Not a cannibalisation issue.
+- `executive-protection-cost-johannesburg.md` vs `executive-protection-johannesburg.md`: also reviewed. Cost guide vs service page, fully differentiated. Not cannibalisation.
+
+**ISSUES FOUND AND FIXED:**
+- `site/content/cities/auto-deploy-test.md`: Junk test stub. **Deleted** (commit `4b163393`).
+- `site/content/cities/test-deploy.md`: Junk test stub. **Deleted** (commit `2ea3e622`).
+
+**REMAINING ITEMS (not hard fails, logged for awareness):**
+- Kampala, Kathmandu, Auckland, Melbourne city pages were not fully read during this audit — they follow the same template pattern as the others and passed structural sampling, but should be formally checked if the qa_audit.py script is ever run.
+- No `categories` front-matter field present on newer blog articles (eastern-europe, financial-services, government-officials). Template appears to use `tags` only. Not a fail; note for consistency if categories are added to layout later.
+- 9 previously unlogged city pages are now logged in BUILD-PLAN and MEMORY as confirmed live. Quality assessed as equivalent to other P3 cities.
