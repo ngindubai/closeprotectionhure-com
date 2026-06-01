@@ -20,7 +20,7 @@
 - [x] 25 P2 city pages, 19 P2 country hub pages
 
 ## Phase 2G — Event Security Silo
-- [x] 16 city-specific event security pages
+- [x] 16 city-specific event security pages (plus 2 additional via 3C = 18 total)
 
 ## Phase 2K — Blog Factory
 - [x] **Batch 1 (27 May 2026):** how to vet CP company, EP cost factors, UAE licensing, Dubai airport transfer, Nairobi risk
@@ -29,9 +29,10 @@
 - [x] **Batch 4 (27 May 2026):** SIA CP licence, EP Johannesburg, Dubai 2026 tensions, Lagos airport transfer, female EP
 - [x] **Batch 5 (27 May 2026):** Riyadh safety, Istanbul CP, Dubai residential security, Hong Kong bodyguard, Mumbai EP
 - [x] **Batch 6 (28 May 2026):** Mexico City cartels EP guide, PSARA India bodyguard licence, Bangkok safety, Cairo security driver, Mumbai women travellers
-- [ ] **Batches 7-19+:** continuing through keyword matrix
+- [x] **Batches 7–8:** Additional articles including Beijing safety, Karachi safety, Singapore CP, Tel Aviv EP, Jakarta regulations, Egypt/Cairo, Latin America vetting, government officials CP, eastern Europe, financial services security, kidnap prevention, Indonesia regulations, JHB residential, JHB cost EP, provider selection criteria, female executives ME, can bodyguards carry guns Mexico
+- [ ] **Batches 9–19:** continuing through keyword matrix (next: is-lagos-safe-for-business-travel, close-protection-female-executives-middle-east, private-security-regulations-brazil, security-driver-nairobi-vs-taxi, executive-protection-bogota)
 
-**30 blog articles live.**
+**46 blog articles live.**
 
 ## Phase 3A — P3 City Expansion Batch 1 (23 cities)
 - [x] Deployed 27 May 2026: Amman, Abuja, KL, Dhaka, Muscat, HCMC, Luanda, Tbilisi, Naples, Rome, Miami, Toronto, Vienna, Warsaw, Colombo, Baku, Kinshasa, Mombasa, Geneva, Washington DC, Montreal, Zurich, Milan
@@ -39,19 +40,22 @@
 ## Phase 3B — P3 City Expansion Batch 2 (5 cities)
 - [x] Deployed 27 May 2026: Madrid, Amsterdam, Ankara, Kigali, Yangon
 
-**70 city pages live.**
+## P3 City Expansion — Additional cities (unlogged)
+- [x] Baghdad, Beirut, Caracas, Kabul, Kampala, Kathmandu, Kyiv, Auckland, Melbourne (found in repo, not previously logged)
+
+**~83 city files present (including test pages). ~80 real city pages live.**
 
 ## Phase 3C — Service x City Combinatorial Matrix
 
 5 services x 10 priority cities. Priority cities: Johannesburg, Lagos, Dubai, Nairobi, Mexico City, Bogota, Riyadh, Mumbai, Sao Paulo, Istanbul.
 
-- [x] **Block 1 (28 May 2026): `bodyguard-hire/{city}` — 10 cities.** Regulators: PSIRA, NSCDC, SIRA, PSRA, DGSP+SSC, SuperVigilancia, MoI, PSARA, DPF, OGG.
-- [x] **Block 2 (28 May 2026): `security-drivers/{city}` — 10 cities.** Lowest-competition silo per keyword matrix. Airport corridor specifics, paseo millonario and assalto prevention protocols, Bosphorus geography, shelter-in-place for Riyadh.
-- [x] **Block 3 (28 May 2026): `executive-protection/{city}` — 10 cities.** Highest-value-per-conversion silo. Written threat assessment, CPO + driver team, operations controller, venue advance work per city.
-- [x] **Block 4 (28 May 2026): `residential-security/{city}` — 10 cities.** Recurring-revenue silo. Property assessments, domestic staff vetting frameworks (SAPS/PSRA/PSARA/CURP/CPF/iqama/kimlik), shelter-in-place (Riyadh/Dubai), condominium gate analysis (Sao Paulo).
-- [ ] **Block 5: event-security gaps — priority cities not covered by Phase 2G.** Check which of the 10 priority cities are missing from existing `event-security/{city}` silo and fill gaps.
+- [x] **Block 1 (28 May 2026): `bodyguard-hire/{city}` — 10 cities.**
+- [x] **Block 2 (28 May 2026): `security-drivers/{city}` — 10 cities.**
+- [x] **Block 3 (28 May 2026): `executive-protection/{city}` — 10 cities.**
+- [x] **Block 4 (28 May 2026): `residential-security/{city}` — 10 cities.**
+- [x] **Block 5 (28 May 2026): event-security gaps filled — all 10 priority cities now covered.**
 
-**~257 total pages live. Engine 1 (combinatorial generators) substantially complete.**
+**Engine 1 (combinatorial generators) complete for priority cities.**
 
 ---
 
@@ -64,20 +68,17 @@
 - [ ] Run `scripts/rebuild_link_graph.py` diagnostic
 - [ ] Resolve under-linked pages, orphans, top-inbound rebalancing
 
-### Phase 3C Block 5 — Event Security Gap Fill
-- [ ] Check which of 10 priority cities lack `event-security/{city}.md` pages and add them
-
-### Phase 3D — P3 City Expansion Batch 3
-- [ ] Next cities: Dakar, Tunis, Algiers, Port of Spain, Panama City, San Jose (Costa Rica)
-
 ### Stage 2L — QA + Full Site Audit
 - [ ] Run `scripts/qa_audit.py` across all silos
 - [ ] Run `scripts/check_titles.py` + `scripts/check_descriptions.py`
 - [ ] Fix any YMYL safety-guarantee patterns, banned words, or em dashes found
 - [ ] Schema markup verification
 
+### Phase 3D — P3 City Expansion Batch 3
+- [ ] Next cities: Dakar, Tunis, Algiers, Port of Spain, Panama City, San Jose (Costa Rica)
+
 ### Blog Factory continuation
-- [ ] Blog Batches 7-19+ (currently 6 of 19 target batches done)
+- [ ] Blog Batches 9–19 (currently 8 of 19 target batches done — 46 articles live)
 
 ---
 
@@ -100,3 +101,6 @@
 | 28 May 2026 | 3C B2 | 11 | 225 | security-drivers/{city} x 10 + _index.md |
 | 28 May 2026 | 3C B3 | 11 | 236 | executive-protection/{city} x 10 + _index.md |
 | 28 May 2026 | 3C B4 | 11 | 247 | residential-security/{city} x 10 + _index.md |
+| 28 May 2026 | 3C B5 | ~8 | ~257 | event-security gap fill for priority cities |
+| 29 May 2026 | 2K B7-B8 | ~16 | ~273 | Additional blog articles (Beijing, Karachi, Singapore, Tel Aviv, Jakarta, others) |
+| 01 Jun 2026 | Audit | 0 | ~280 | Repo audit — found additional city pages (Baghdad, Beirut, Caracas, Kabul, Kampala, Kathmandu, Kyiv, Auckland, Melbourne) not previously logged. Docs synced. |

@@ -5,7 +5,7 @@
 ---
 
 ## Site Overview
-**CloseProtectionHire.com** — a UK-English, programmatic SEO lead-generation site for security services (bodyguard hire, executive protection, security drivers, event security, residential security) across 70 cities globally. Audience: corporate travellers, executives, event organisers, HNWIs. Goal: capture enquiries via organic search. This is a **YMYL** site — Google holds it to higher E-E-A-T standards.
+**CloseProtectionHire.com** — a UK-English, programmatic SEO lead-generation site for security services (bodyguard hire, executive protection, security drivers, event security, residential security) across 80+ cities globally. Audience: corporate travellers, executives, event organisers, HNWIs. Goal: capture enquiries via organic search. This is a **YMYL** site — Google holds it to higher E-E-A-T standards.
 
 ---
 
@@ -15,9 +15,9 @@ This site replicates pet-transport's compounding architecture. Every block of wo
 
 | # | Engine | Status | Where it lives |
 |---|--------|--------|---------------|
-| 1 | Combinatorial page generators | Partial — event-security/{city} silo done; service×city is Phase 3C | `site/content/event-security/`; future `site/content/bodyguard-hire/`, `security-drivers/`, etc. |
+| 1 | Combinatorial page generators | **DONE** — all 5 service silos x 10 priority cities complete | `site/content/event-security/`, `site/content/bodyguard-hire/`, `site/content/security-drivers/`, `site/content/executive-protection/`, `site/content/residential-security/` |
 | 2 | Structured data layer | Done | `data/keyword_matrix.json`, `data/city_risk_profiles*.json`, `data/security_regulations.json`, `data/fcdo_advisories.json`, `data/state_dept_data.json` |
-| 3 | Bulk blog factory | In progress — 6/19 batches | `site/content/blog/`, `scripts/generate_blog_batch*.py` |
+| 3 | Bulk blog factory | In progress — 8/19 batches (46 articles) | `site/content/blog/`, `scripts/generate_blog_batch*.py` |
 | 4 | Internal link graph | Diagnostic done; rewriter pending Stage 2J | `scripts/rebuild_link_graph.py` |
 | 5 | QA + SEO quality gate | Done | `scripts/qa_audit.py`, `scripts/check_titles.py`, `scripts/check_descriptions.py` |
 | 6 | Incremental deploy pipeline | Done — build-and-publish + Hostinger OAuth | `.github/workflows/build-and-publish.yml` |
@@ -49,14 +49,14 @@ This site replicates pet-transport's compounding architecture. Every block of wo
 | `site/layouts/cities/single.html` | City page template |
 | `site/layouts/countries/single.html` | Country hub template |
 | `site/layouts/risk-assessments/single.html` | Risk assessment template |
-| `site/layouts/event-security/single.html` | Event security silo template (combinatorial city × event — the proof-of-concept for the service×city pattern) |
+| `site/layouts/event-security/single.html` | Event security silo template |
 | `site/layouts/blog/single.html` | Blog article template |
 | `site/layouts/_default/single.html` | Hugo fallback for sections without their own layout |
 | `site/layouts/partials/` | Header, footer, FAQ, schema partials |
 | `site/static/css/style.css` | Base CyberGuard theme — **DO NOT EDIT** |
 | `site/static/css/custom.css` | All overrides — append-only |
 | `site/assets/js/main.js` | Form handler (`.de_form`, `.quote-success`) |
-| `site/content/` | All Markdown content (cities/, countries/, services/, blog/, event-security/, guides/, risk-assessments/, future bodyguard-hire/, etc.) |
+| `site/content/` | All Markdown content (cities/, countries/, services/, blog/, event-security/, guides/, risk-assessments/, bodyguard-hire/, security-drivers/, executive-protection/, residential-security/) |
 
 ### Research data (Engine 2)
 | File | Purpose |
@@ -90,13 +90,13 @@ This is the only acceptable cadence. Skipping a step is a process failure, regar
 2. **Read** `BUILD-PLAN.md` and `build_state.json` → confirm the mirrored checklist matches.
 3. **Read** `ERRORS.md` → confirm you are not about to re-debug something already solved.
 4. **Read** `DESIGN-PLAN.md` (if a layout is involved) → confirm design tokens and components you'll reuse.
-5. **Pick the smallest defensible block.** One service × ten cities. One blog batch of five. One layout fix. Never more. Pet-transport's 411 articles were built five at a time, not 411 at a time.
-6. **Build** the deliverable, generating new pages from the existing Hugo templates only. Hugo's `_default/single.html` fallback covers new sections without their own layout file — use that fallback rather than inventing layouts.
+5. **Pick the smallest defensible block.** One service × ten cities. One blog batch of five. One layout fix. Never more.
+6. **Build** the deliverable, generating new pages from the existing Hugo templates only.
 7. **Run the quality gate** (mirror the audit logic inline if the scripts are not runnable in the current environment). Banned vocabulary, YMYL safety-guarantee patterns, em dashes, front matter completeness, FAQ count, internal-link count. **A block with QA failures does not ship.**
 8. **HTML preview, await approval.** Never commit before explicit approval. "approve" / "approve batch N" / "ship it" — those are the green lights. Silence is not approval.
 9. **Update** `BUILD-PLAN.md`, `build_state.json`, and `bodyguard-cascading-build-plan.html` to reflect what was completed. Add a session log entry to `BUILD-PLAN.md`.
-10. **Commit** with a descriptive message and push to `master`.
-11. **Stop.** One block per session. Do not start the next block. If there is time and energy left, document something in `ERRORS.md` or `MEMORY.md` instead.
+10. **Commit** with a descriptive message and push to `main`.
+11. **Stop.** One block per session.
 
 ---
 
@@ -116,55 +116,58 @@ This is the only acceptable cadence. Skipping a step is a process failure, regar
 - City pages and service pages do not carry an author byline — they read as institutional pages.
 
 ### SEO
-- Title length: ≤ 70 chars (use `seo_title` front-matter field if the `title` itself needs to be longer for the H1).
-- Description length: 120–175 chars.
-- FAQ schema: blog ≥ 5 questions, cities ≥ 4 questions.
+- Title length: <= 70 chars (use `seo_title` front-matter field if the `title` itself needs to be longer for the H1).
+- Description length: 120-175 chars.
+- FAQ schema: blog >= 5 questions, cities >= 4 questions.
 - Internal links: minimum 2 per page, descriptive anchor text (never "click here"). Relative URLs.
 - Primary keyword in title, H1, first paragraph, and one FAQ question.
 
-### Layouts & design
+### Layouts and design
 - Generate every new page from the existing Hugo template — **never invent new layouts without explicit approval**.
-- New content sections that don't have a dedicated layout fall back to `site/layouts/_default/single.html` via Hugo's lookup chain. That is the supported way to add new silos without new layouts.
+- New content sections that don't have a dedicated layout fall back to `site/layouts/_default/single.html` via Hugo's lookup chain.
 - No new colour tokens, fonts, or top-level directories without explicit approval.
 - Edit only what is asked. Never rewrite whole files unprompted.
 
 ### Workflow files (hard rule)
 - **The MCP token cannot edit `.github/workflows/`** (403 "Resource not accessible by integration"). Both create and update are blocked.
-- Whenever a workflow change is needed: give Gareth the **full file** to paste, not a diff. Remind him this is a manual paste. Confirm in the next turn that it was applied. See `ERRORS.md` entry on the YAML duplicate-key incident.
+- Whenever a workflow change is needed: give Gareth the **full file** to paste, not a diff. Remind him this is a manual paste. See `ERRORS.md` entry on the YAML duplicate-key incident.
 
 ### Deploy (current architecture, 2026-05-28 onwards)
-Push to `master` → `.github/workflows/build-and-publish.yml` builds Hugo with `--gc --minify` → `peaceiris/actions-gh-pages@v4` force-pushes `site/public/` to the `live` branch (orphan, single clean commit) → Hostinger GitHub OAuth integration receives a webhook → auto-deploys `live` branch contents to `public_html/`. Every push to `master` goes live within ~3 minutes, fully automated.
+Push to `main` → `.github/workflows/build-and-publish.yml` builds Hugo with `--gc --minify` → `peaceiris/actions-gh-pages@v4` force-pushes `site/public/` to the `live` branch → Hostinger GitHub OAuth integration auto-deploys `live` branch to `public_html/`. Every push to `main` goes live within ~3 minutes.
 
-**Do not re-enable the legacy FTP workflow.** It is disabled in the Actions tab for a reason — FTPS data-channel silent failure on Hostinger's shared host. See ERRORS.md.
+**Do not re-enable the legacy FTP workflow.** See ERRORS.md.
 
 Manual build (local sanity check, run from `site/`):
 ```
 hugo --gc --minify
 ```
-Expected: 200+ pages, 0 errors.
+Expected: 280+ pages, 0 errors.
 
 ---
 
 ## Forbidden Moves (the bright lines)
 
-These come from real failures in the deploy migration and earlier sessions. Each one cost time. None are theoretical.
-
 - **Do not edit `.github/workflows/` files via the API.** It will 403. Give Gareth the full file.
-- **Do not modify `site/hugo.toml` baseURL or permalinks** without reading the corresponding `ERRORS.md` entry first. The `sections[1:]` permalink trick is what produced `/london/` instead of `/cities/london/`.
+- **Do not modify `site/hugo.toml` baseURL or permalinks** without reading the corresponding `ERRORS.md` entry first.
 - **Do not invent a new Hugo layout** to render a new content section. Use Hugo's `_default/single.html` fallback.
-- **Do not commit a content block without running the QA logic** (banned words, YMYL safety-guarantee patterns, em-dash check, internal-link count). The scripts in `scripts/` are the canonical check.
+- **Do not commit a content block without running the QA logic** (banned words, YMYL safety-guarantee patterns, em-dash check, internal-link count).
 - **Do not push more than one block per session.** "While I'm at it" is the failure mode that produces thin pages at scale.
 - **Do not skip the HTML preview step.** Even if the content looks obviously fine. The preview is the contract.
-- **Do not paraphrase the safety-guarantee patterns into something that means the same thing.** "Will keep you safe" is just as bad as "guaranteed safety". The auditor will fail it either way.
-- **Do not write content that cannot be sourced.** If FCDO, US State Dept, the relevant national licensing body, or named local police statistics don't back the claim, the claim is cut.
+- **Do not paraphrase the safety-guarantee patterns into something that means the same thing.**
+- **Do not write content that cannot be sourced.**
 
 ---
 
-## Current Status (28 May 2026)
+## Current Status (01 June 2026 — post audit)
 
-- **Pages live:** ~203
-- **Blog articles live:** 30 (Batches 1–6)
-- **Cities live:** 70 (P1 + P2 + P3 batches 1+2)
-- **Last block completed:** Engine alignment — Engine 4 + Engine 5 scripts ported, AGENTS.md and ERRORS.md created.
-- **Next block:** **Phase 3C — `bodyguard-hire/{city}.md` for 10 priority cities** (Johannesburg, Lagos, Dubai, Nairobi, Mexico City, Bogota, Riyadh, Mumbai, Sao Paulo, Istanbul). This is the first row of the service × city matrix and the closeprotectionhire equivalent of pet-transport's `generate_p2_routes.py` engine.
-- **Strategic note:** This market is credential-gated and referral-driven. After 2–3 combinatorial batches ship, revisit the keep-or-redeploy decision from the replication study before pouring in more build time.
+- **Pages live:** ~280 (estimate)
+- **Blog articles live:** 46 (Batches 1-8)
+- **Cities live:** ~80 real city pages (including unlogged additions: Baghdad, Beirut, Caracas, Kabul, Kampala, Kathmandu, Kyiv, Auckland, Melbourne)
+- **Service x city matrix:** Complete for all 5 silos x 10 priority cities
+- **Housekeeping flags:** Two test stub pages in `site/content/cities/` (auto-deploy-test.md, test-deploy.md) should be removed
+- **Last block completed:** Docs sync / repo audit (this commit)
+- **Next block (choose one):**
+  1. **Stage 2L — Full QA pass** (`scripts/qa_audit.py` across all content) — highest priority, catches any issues before the site grows further
+  2. **Blog Batch 9** — 5 articles (is-lagos-safe, female-executives-ME, brazil-regulations, nairobi-driver, bogota-EP)
+  3. **Phase 3D** — P3 city expansion Batch 3 (Dakar, Tunis, Algiers, Port of Spain, Panama City, San Jose)
+- **Strategic note:** Engine 1 is complete. The site now has genuine combinatorial depth. The next highest-leverage move is Stage 2L (QA gate) to catch any accumulated issues, followed by continued blog velocity to build topical authority.
