@@ -3,13 +3,14 @@
 ## Site Identity
 - This is a programmatic SEO lead generation website for security services: bodyguard hire, executive protection, security drivers, event security, and residential security in high-risk cities globally.
 - Primary goal: capture enquiries from corporate travellers, executives, event organisers, and HNWIs via organic search.
-- Domain: closeprotectionhire.surge.sh (live) / closeprotectionhire.com (target)
+- Domain: https://closeprotectionhire.com (live)
+- Repository: https://github.com/ngindubai/closeprotectionhure-com
 - Tech stack: Hugo v0.160.1 extended (Windows/AMD64), Go HTML templates, Markdown content, TOML front matter
-- Deployment: Surge.sh — command: `surge public closeprotectionhire.surge.sh` run from within the `site/` directory
+- Deployment: Push to `master` triggers `.github/workflows/build-and-publish.yml`, which builds Hugo and force-pushes `site/public/` to the `live` branch. Hostinger's GitHub OAuth integration (Advanced → GIT) watches `live` and deploys via webhook. No manual deploy step required.
 - Build command: `hugo --gc --minify` run from within `site/`
 
 ## Project Status
-- 121 pages live. Phase 0 (research), Phase 1 (P1 cities/countries/services/core), and Phase 2A-2F (P2 cities/countries) are all COMPLETE.
+- 200+ pages live. Phase 0 (research), Phase 1 (P1 cities/countries/services/core), Phase 2A-2F (P2 cities/countries), blog (80+ posts), and guides (9 posts) are all COMPLETE.
 - Do NOT restructure existing files, change naming conventions, or alter existing content unless explicitly asked.
 - The primary build tracker is `bodyguard-cascading-build-plan.html`. Always check it before starting any build task.
 - `BUILD-PLAN.md` mirrors remaining tasks. Both files must be updated at the end of every session.
@@ -17,7 +18,7 @@
 
 ## Directory Structure
 - Site Hugo root: `site/`
-- Content files: `site/content/` (subdirs: cities/, countries/, services/, risk-assessments/, guides/)
+- Content files: `site/content/` (subdirs: cities/, countries/, services/, risk-assessments/, guides/, blog/)
 - Templates: `site/layouts/`
 - Static assets: `site/static/`
 - Research data (JSON): `data/`
@@ -78,9 +79,9 @@ London, New York, Paris, Berlin, Tokyo, Hong Kong, Singapore, Sydney, Doha, Kuwa
 bodyguard-hire, executive-protection, security-drivers, event-security, residential-security
 
 ## Deployment
-- Surge.sh login: garethdeansomers@gmail.com (Student plan)
-- Deploy command (run from `site/` directory): `surge public closeprotectionhire.surge.sh`
-- The bodyguard subagent cannot handle interactive Surge login. Always deploy from the main terminal.
+- Push to `master` → GitHub Actions builds Hugo → force-pushes `site/public/` to `live` branch → Hostinger webhook deploys to `public_html`.
+- No manual deploy step. No FTP. No CLI commands needed.
+- To verify a deploy, check the Actions tab on GitHub, then visit the live URL.
 
 ## Communication Rules
 - Always state what you are about to do before doing it.

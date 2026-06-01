@@ -1,6 +1,6 @@
 # CloseProtectionHire.com — Project Memory
 
-Generated: April 2026 — migrated from Research monorepo to standalone VS Code instance.
+Generated: April 2026 — migrated from Research monorepo to standalone VS Code instance. Updated June 2026 — migrated from Surge.sh to Hostinger via GitHub Actions.
 
 ---
 
@@ -12,28 +12,26 @@ Generated: April 2026 — migrated from Research monorepo to standalone VS Code 
 **Primary goal:** Lead generation via organic SEO. Capture enquiries for vetted security service bookings.
 **Tech stack:** Hugo v0.160.1 extended (Windows/AMD64), Go HTML templates, Markdown content, TOML front matter
 **Build command:** `hugo --gc --minify` from within `site/`
-**Deployment:** Surge.sh — `surge public closeprotectionhire.surge.sh` from within `site/`
-**Live URL:** closeprotectionhire.surge.sh
-**Surge account:** garethdeansomers@gmail.com (Student plan)
-**Pages live at last deploy:** 121 pages, 1039 files, 392.6 MB
+**Deployment:** GitHub Actions — push to `master` triggers Hugo build, which force-pushes `site/public/` to the `live` branch. Hostinger's GitHub OAuth integration watches `live` and deploys into `public_html` via webhook.
+**Live URL:** https://closeprotectionhire.com
+**Repository:** https://github.com/ngindubai/closeprotectionhure-com
+**Pages live at migration:** 200+ pages
 
 ---
 
 ## 2. Build Decisions
 
 - **Hugo over Next.js** — chosen for pure content-at-scale, zero JS complexity, fast builds (~1800-1900ms for 121 pages), and ease of programmatic page generation at volume.
-- **Surge.sh for deployment** — fast, CLI-driven, no build pipeline required.
+- **GitHub Actions + Hostinger** — push to master triggers `build-and-publish.yml`, which builds Hugo and force-pushes `site/public/` to the `live` branch. Hostinger's GitHub OAuth integration (Advanced → GIT) watches `live` and deploys via webhook. No FTP, no manual deploy step.
 - **TOML front matter** (not YAML) — consistent across all content files. `+++` delimiters.
 - **Page bundle structure** — city and country pages use `_index.md` inside named folders (e.g. `cities/dubai/_index.md`).
 - **5 service silos** as primary content taxonomy: bodyguard-hire, executive-protection, security-drivers, event-security, residential-security.
 - **P1/P2 city split** — 15 high-risk P1 cities built first, then 25 P2 cities in a second phase. All 40 now complete.
 - **Risk data approach** — city risk profiles (JSON files in `data/`) drive location-specific content. Each city page references real crime indices, FCDO and US State Dept advisory levels.
-- **bodyguard subagent** — a VS Code Copilot subagent was used for all build execution in the prior workspace. It must be manually recreated in the new standalone VS Code instance. See AGENTS.md.
-- **Surge deploy workaround** — the bodyguard subagent cannot handle interactive Surge login prompts. Deploy is always run from the main terminal with an active Surge session, not via the subagent.
 
 ---
 
-## 3. Pages Completed (121 pages)
+## 3. Pages Completed (200+ pages)
 
 ### Phase 1 — P1 Foundation (COMPLETE)
 
@@ -52,6 +50,8 @@ Generated: April 2026 — migrated from Research monorepo to standalone VS Code 
 **P2 city pages (25):** London, New York, Paris, Berlin, Tokyo, Hong Kong, Singapore, Sydney, Doha, Kuwait City, Abu Dhabi, Cape Town, Accra, Dar es Salaam, Addis Ababa, Lima, Buenos Aires, Santiago, Beijing, Shanghai, Delhi, Bangalore, Tel Aviv, Cairo, Casablanca
 
 **P2 country hub pages (19):** United Kingdom, United States, France, Germany, Japan, China, Singapore, Australia, Qatar, Kuwait, Ghana, Tanzania, Ethiopia, Peru, Argentina, Chile, Israel, Egypt, Morocco
+
+### Blog (80+ posts) and Guides (9 posts) — COMPLETE
 
 ---
 
@@ -109,7 +109,7 @@ country = "UAE"
 
 ## 6. Mistakes Avoided
 
-- **Surge deploy in subagent** — the subagent cannot complete the interactive email/password login. Always deploy from the main terminal.
+- **FTP on shared hosting** — Hostinger's FTPS control channel accepts connections but silently drops data transfers. Never use FTP on Hostinger. Use the GitHub OAuth Git integration instead.
 - **Rate limit crashes** — rapid sequential subagent calls hit rate limits. Batch city page creation in groups of 5-10 maximum, not 15+ at once.
 - **Hugo public/ in git** — do not commit the `public/` output directory. It regenerates from every build.
 - **YAML front matter** — use TOML (`+++`) not YAML (`---`) for all content files.
@@ -120,8 +120,7 @@ country = "UAE"
 
 ## 7. Open Questions / Pending Decisions
 
-- **Custom domain** — closeprotectionhire.com not yet pointed to Surge. DNS change pending.
 - **Operator vetting data** — `workforce/vetting_framework.md` defines Bronze/Silver/Gold tiers but no real operator data exists yet. Placeholder network content in use.
 - **Blog author attribution** — YMYL requires named authors. Author persona or byline strategy not yet decided. Needed before Stage 2K (blog launch).
 - **LocalBusiness schema** — not yet confirmed as implemented on homepage.
-- **bodyguard subagent** — must be manually recreated in the new standalone VS Code instance (see AGENTS.md for configuration).
+- **Test pages in sitemap** — `cities/auto-deploy-test/` and `cities/test-deploy/` are being indexed by Google and should be set to `draft: true` or deleted.

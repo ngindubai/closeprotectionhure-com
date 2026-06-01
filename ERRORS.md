@@ -2,7 +2,7 @@
 
 > Running log of bugs, gotchas, and resolutions. Read this before re-debugging anything that smells familiar. Append-only — do not delete entries.
 
-## 2026-05-27 — baseURL stuck on surge.sh
+## 2026-05-27 — baseURL stuck on old surge.sh domain
 **Symptom:** Pages 404 on closeprotectionhire.com despite Hugo building 200+ pages with zero errors.
 **Cause:** `site/hugo.toml` had legacy `baseURL = "https://closeprotectionhire.surge.sh/"` from the original Surge deploy. Hugo bakes baseURL into every canonical, sitemap entry, and absolute asset URL at build time.
 **Fix:** Set `baseURL = "https://closeprotectionhire.com/"`. (Commit `771bf31`.)
@@ -44,3 +44,9 @@
   - `vetting-close-protection-latin-america.md`
 **Cause:** Pre-tracker authoring. They are real, sourced articles; just not part of the numbered batch system.
 **Action:** Leave them in place. They count toward live page totals but not toward batch indexing. Worth folding into Stage 2L QA audit to confirm they pass the same gate as numbered batches.
+
+## 2026-06-01 — GSC canonical tag conflicts from old surge.sh deployment
+**Symptom:** 168 pages showing "Alternate page with proper canonical tag" in Google Search Console. Screenshots showed user-declared canonical = `https://closeprotectionhire.surge.sh/blog/...`
+**Cause:** The old Surge.sh site (closeprotectionhire.surge.sh) remained live after migration to Hostinger. It had 131+ blog posts and 9 guides that were not migrated. Google found both the surge.sh version (with surge.sh canonical) and the new site's equivalent pages, treating the surge.sh version as the authoritative canonical.
+**Fix:** Created all missing blog posts and guides on the new site so Google's canonical selection resolves to closeprotectionhire.com. Surge.sh deployment has been fully decommissioned — all references updated.
+**Prevention:** When migrating from any hosting platform, ensure the old deployment is taken down or blocked from crawling before the new site goes live. Do not leave duplicate content on multiple domains.

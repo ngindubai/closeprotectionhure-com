@@ -47,7 +47,7 @@ Read the soul files for workers relevant to this stage. Only load what you need 
 For any content or template stage, read the relevant data files.
 
 | Data | Path | Use for |
-|------|------|---------|
+|------|------|------|
 | P1 city risk profiles | `data/city_risk_profiles.json` | Risk scores, crime, terrorism, kidnapping, safe/unsafe zones, emergency contacts |
 | P2 city risk profiles | `data/city_risk_profiles_p2.json` | P2 city risk data |
 | Security regulations | `data/security_regulations_v1_backup.json` | Firearms laws, licensing, foreign operator rules — BACKUP IS SOURCE OF TRUTH |
@@ -93,7 +93,7 @@ Build all deliverables for the stage. Follow these rules:
 ### File Output
 - Hugo content goes into `site/content/[section]/` as markdown files
 - Build command: `hugo --gc --minify` from `site/`
-- Deploy command: `surge public closeprotectionhire.surge.sh` from `site/`
+- Deploy: push to `master` — GitHub Actions handles the rest automatically
 - Scripts that generate content live in `scripts/` — all must use skip-if-exists logic
 
 ### Business Logic Rules
@@ -116,4 +116,4 @@ After all deliverables are complete:
 - **5 service silos:** bodyguard-hire, executive-protection, security-drivers, event-security, residential-security.
 - **Strategic decisions locked.** See `.github/agents/bodyguard.agent.md` for the full decision table. Do not re-ask.
 - **Operator data is internal.** Never expose operator names, contacts, or pricing in public-facing HTML.
-- **Surge deploy:** The bodyguard subagent cannot handle interactive Surge login. Deploy from the main terminal only.
+- **Deployment:** Push to `master`. GitHub Actions builds and deploys automatically. No manual step needed.
