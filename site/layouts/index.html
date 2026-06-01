@@ -25,11 +25,11 @@
             <div class="hero-split-text">
                 <p class="hero-kicker">Global Close Protection &amp; Executive Security</p>
                 <h1>Vetted security professionals.<br>Deployed fast.</h1>
-                <p class="hero-sub">Licensed operators in 15 high-risk cities. Briefed on your destination. Ready before you land.</p>
+                <p class="hero-sub">Licensed operators across 80+ cities worldwide. Briefed on your destination. Ready before you land.</p>
                 <ul class="hero-trust-bullets">
                     <li>SIA licensed &amp; in-country vetted operators</li>
                     <li>Security plan delivered within 24 hours</li>
-                    <li>15 high-risk cities across 4 continents</li>
+                    <li>80+ cities across 6 continents</li>
                 </ul>
             </div>
         </div>
@@ -56,21 +56,9 @@
                         <label for="hf-location" class="form-label text-light">City <span class="text-color">*</span></label>
                         <select id="hf-location" name="location" class="form-control" required>
                             <option value="">Select city</option>
-                            <option value="lagos">Lagos</option>
-                            <option value="nairobi">Nairobi</option>
-                            <option value="johannesburg">Johannesburg</option>
-                            <option value="bogota">Bogota</option>
-                            <option value="mexico-city">Mexico City</option>
-                            <option value="istanbul">Istanbul</option>
-                            <option value="riyadh">Riyadh</option>
-                            <option value="dubai">Dubai</option>
-                            <option value="mumbai">Mumbai</option>
-                            <option value="moscow">Moscow</option>
-                            <option value="sao-paulo">Sao Paulo</option>
-                            <option value="manila">Manila</option>
-                            <option value="karachi">Karachi</option>
-                            <option value="bangkok">Bangkok</option>
-                            <option value="jakarta">Jakarta</option>
+                            {{ range sort (where .Site.RegularPages "Section" "cities") ".Title" }}
+                            <option value="{{ .Params.slug | default .File.BaseFileName }}">{{ .Title }}</option>
+                            {{ end }}
                         </select>
                     </div>
                     <div class="row g-2 mb-3">
@@ -107,7 +95,7 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-md-9">
-                <h3 class="mb-0 wow fadeInRight" style="font-size:0.85rem; font-weight:600; letter-spacing:0.08em; text-transform:uppercase;">Operating in 15 high-risk cities across 4 continents</h3>
+                <h3 class="mb-0 wow fadeInRight" style="font-size:0.85rem; font-weight:600; letter-spacing:0.08em; text-transform:uppercase;">Operating in 80+ cities across 6 continents</h3>
             </div>
             <div class="col-md-3 text-md-end">
                 <a class="btn-main fx-slide btn-line wow fadeInLeft" href="#quote-form"><span>Get Started</span></a>
@@ -236,7 +224,7 @@
             </div>
             <div class="col-lg-6">
                 <p class="wow fadeInUp">In high-risk cities, the difference between a competent security team and an unvetted one can be measured in response time, local knowledge, and licensing status. Every operator in our network holds valid in-country credentials, has passed background verification, and has direct operational experience in the city where they deploy.</p>
-                <p class="wow fadeInUp" data-wow-delay=".2s">We don't subcontract to unknown agencies. You get named operators with documented track records, because your safety depends on who is actually standing next to you.</p>
+                <p class="wow fadeInUp" data-wow-delay=".2s">We don't subcontract to unknown agencies. You get named operators with documented track records, because your security depends on who is actually standing next to you.</p>
                 <ul class="ul-check fw-600 mb-4 wow fadeInUp" data-wow-delay=".3s">
                     <li>Licensed in-country operators</li>
                     <li>Background-verified with documented track records</li>
@@ -305,7 +293,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="de_count text-center wow fadeInRight" data-wow-delay=".0s">
                     <i class="p-3 circle bg-color text-light fs-40 d-inline-block mb-2 icofont-shield"></i>
-                    <h3 class="fs-40 mb-0 lh-1-1"><span class="timer" data-to="15" data-speed="2000">0</span></h3>
+                    <h3 class="fs-40 mb-0 lh-1-1"><span class="timer" data-to="40" data-speed="2000">0</span>+</h3>
                     Countries
                 </div>
             </div>
@@ -313,8 +301,8 @@
             <div class="col-md-3 col-sm-6">
                 <div class="de_count text-center wow fadeInRight" data-wow-delay=".2s">
                     <i class="p-3 circle bg-color text-light fs-40 d-inline-block mb-2 icofont-location-pin"></i>
-                    <h3 class="fs-40 mb-0 lh-1-1"><span class="timer" data-to="15" data-speed="2000">0</span></h3>
-                    High-Risk Cities
+                    <h3 class="fs-40 mb-0 lh-1-1"><span class="timer" data-to="80" data-speed="2000">0</span>+</h3>
+                    Cities Covered
                 </div>
             </div>
 
@@ -344,7 +332,7 @@
             <div class="col-lg-12">
                 <div class="text-center">
                     <div class="subtitle wow fadeInUp">Our Locations</div>
-                    <h2 class="wow fadeInUp" data-wow-delay=".2s">Operational in 15 high-risk cities</h2>
+                    <h2 class="wow fadeInUp" data-wow-delay=".2s">Operational in high-risk cities worldwide</h2>
                     <p class="lead wow fadeInUp" data-wow-delay=".4s">Each city page includes local threat intelligence, regulatory requirements, and vetted operator availability.</p>
                 </div>
             </div>
