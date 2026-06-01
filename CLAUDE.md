@@ -5,7 +5,38 @@
 ---
 
 ## Site Overview
-**CloseProtectionHire.com** — a UK-English, programmatic SEO lead-generation site for security services (bodyguard hire, executive protection, security drivers, event security, residential security) across 80+ cities globally. Audience: corporate travellers, executives, event organisers, HNWIs. Goal: capture enquiries via organic search. This is a **YMYL** site — Google holds it to higher E-E-A-T standards.
+**CloseProtectionHire.com** — a UK-English, programmatic SEO lead-generation site for security services (bodyguard hire, executive protection, security drivers, event security, residential security) across 86+ cities globally. Audience: corporate travellers, executives, event organisers, HNWIs. Goal: capture enquiries via organic search. This is a **YMYL** site — Google holds it to higher E-E-A-T standards.
+
+---
+
+## Live Review Links (mandatory end-of-session output)
+
+**Rule: after every commit that adds or changes pages, Claude must output the live URLs for Gareth to review before the session closes. This section lists the most recently deployed pages. Update it every session.**
+
+Base URL: `https://closeprotectionhire.com`
+Permalink pattern: `/{section}/{slug}/`
+
+### Phase 3D — deployed 02 Jun 2026
+- https://closeprotectionhire.com/cities/dakar/
+- https://closeprotectionhire.com/cities/tunis/
+- https://closeprotectionhire.com/cities/algiers/
+- https://closeprotectionhire.com/cities/port-of-spain/
+- https://closeprotectionhire.com/cities/panama-city/
+- https://closeprotectionhire.com/cities/san-jose/
+
+### Quick-reference permalink patterns (for constructing review links)
+| Section | Pattern | Example |
+|---|---|---|
+| Cities | `/cities/{slug}/` | `/cities/dubai/` |
+| Countries | `/countries/{slug}/` | `/countries/uae/` |
+| Services | `/services/{slug}/` | `/services/executive-protection/` |
+| Blog | `/blog/{slug}/` | `/blog/sia-close-protection-licence-explained/` |
+| Event security | `/event-security/{slug}/` | `/event-security/dubai/` |
+| Bodyguard hire | `/bodyguard-hire/{slug}/` | `/bodyguard-hire/dubai/` |
+| Security drivers | `/security-drivers/{slug}/` | `/security-drivers/dubai/` |
+| Executive protection | `/executive-protection/{slug}/` | `/executive-protection/dubai/` |
+| Residential security | `/residential-security/{slug}/` | `/residential-security/dubai/` |
+| Risk assessments | `/risk-assessments/{slug}/` | `/risk-assessments/pre-travel/` |
 
 ---
 
@@ -19,7 +50,7 @@ This site replicates pet-transport's compounding architecture. Every block of wo
 | 2 | Structured data layer | Done | `data/keyword_matrix.json`, `data/city_risk_profiles*.json`, `data/security_regulations.json`, `data/fcdo_advisories.json`, `data/state_dept_data.json` |
 | 3 | Bulk blog factory | In progress — 8/19 batches (46 articles) | `site/content/blog/`, `scripts/generate_blog_batch*.py` |
 | 4 | Internal link graph | Diagnostic done; rewriter pending Stage 2J | `scripts/rebuild_link_graph.py` |
-| 5 | QA + SEO quality gate | Done | `scripts/qa_audit.py`, `scripts/check_titles.py`, `scripts/check_descriptions.py` |
+| 5 | QA + SEO quality gate | Inline audit complete (01 Jun 2026) | `scripts/qa_audit.py`, `scripts/check_titles.py`, `scripts/check_descriptions.py` |
 | 6 | Incremental deploy pipeline | Done — build-and-publish + Hostinger OAuth | `.github/workflows/build-and-publish.yml` |
 | 7 | Operating system (discipline) | Done | `CLAUDE.md`, `AGENTS.md`, `workforce/`, `BUILD-PLAN.md`, `bodyguard-cascading-build-plan.html`, `MEMORY.md`, `ERRORS.md`, `build_state.json` |
 
@@ -93,10 +124,11 @@ This is the only acceptable cadence. Skipping a step is a process failure, regar
 5. **Pick the smallest defensible block.** One service × ten cities. One blog batch of five. One layout fix. Never more.
 6. **Build** the deliverable, generating new pages from the existing Hugo templates only.
 7. **Run the quality gate** (mirror the audit logic inline if the scripts are not runnable in the current environment). Banned vocabulary, YMYL safety-guarantee patterns, em dashes, front matter completeness, FAQ count, internal-link count. **A block with QA failures does not ship.**
-8. **HTML preview, await approval.** Never commit before explicit approval. "approve" / "approve batch N" / "ship it" — those are the green lights. Silence is not approval.
-9. **Update** `BUILD-PLAN.md`, `build_state.json`, and `bodyguard-cascading-build-plan.html` to reflect what was completed. Add a session log entry to `BUILD-PLAN.md`.
+8. **Await approval.** Never commit before explicit approval. "approve" / "approve batch N" / "ship it" — those are the green lights. Silence is not approval.
+9. **Update** `BUILD-PLAN.md`, `build_state.json`, and the Live Review Links section of this file. Add a session log entry to `BUILD-PLAN.md`.
 10. **Commit** with a descriptive message and push to `main`.
-11. **Stop.** One block per session.
+11. **Output live review links** in chat — one clickable URL per new page, so Gareth can verify before the session closes.
+12. **Stop.** One block per session.
 
 ---
 
@@ -141,7 +173,7 @@ Manual build (local sanity check, run from `site/`):
 ```
 hugo --gc --minify
 ```
-Expected: 280+ pages, 0 errors.
+Expected: 284+ pages, 0 errors.
 
 ---
 
@@ -152,22 +184,20 @@ Expected: 280+ pages, 0 errors.
 - **Do not invent a new Hugo layout** to render a new content section. Use Hugo's `_default/single.html` fallback.
 - **Do not commit a content block without running the QA logic** (banned words, YMYL safety-guarantee patterns, em-dash check, internal-link count).
 - **Do not push more than one block per session.** "While I'm at it" is the failure mode that produces thin pages at scale.
-- **Do not skip the HTML preview step.** Even if the content looks obviously fine. The preview is the contract.
+- **Do not skip step 11 (live review links).** Output clickable URLs in chat after every commit. No exceptions.
 - **Do not paraphrase the safety-guarantee patterns into something that means the same thing.**
 - **Do not write content that cannot be sourced.**
 
 ---
 
-## Current Status (01 June 2026 — post audit)
+## Current Status (02 June 2026)
 
-- **Pages live:** ~280 (estimate)
+- **Pages live:** ~284
 - **Blog articles live:** 46 (Batches 1-8)
-- **Cities live:** ~80 real city pages (including unlogged additions: Baghdad, Beirut, Caracas, Kabul, Kampala, Kathmandu, Kyiv, Auckland, Melbourne)
+- **Cities live:** ~86
 - **Service x city matrix:** Complete for all 5 silos x 10 priority cities
-- **Housekeeping flags:** Two test stub pages in `site/content/cities/` (auto-deploy-test.md, test-deploy.md) should be removed
-- **Last block completed:** Docs sync / repo audit (this commit)
+- **Last block completed:** Phase 3D — Dakar, Tunis, Algiers, Port of Spain, Panama City, San Jose (02 Jun 2026)
 - **Next block (choose one):**
-  1. **Stage 2L — Full QA pass** (`scripts/qa_audit.py` across all content) — highest priority, catches any issues before the site grows further
-  2. **Blog Batch 9** — 5 articles (is-lagos-safe, female-executives-ME, brazil-regulations, nairobi-driver, bogota-EP)
-  3. **Phase 3D** — P3 city expansion Batch 3 (Dakar, Tunis, Algiers, Port of Spain, Panama City, San Jose)
-- **Strategic note:** Engine 1 is complete. The site now has genuine combinatorial depth. The next highest-leverage move is Stage 2L (QA gate) to catch any accumulated issues, followed by continued blog velocity to build topical authority.
+  1. **Blog Batch 9** — 5 articles (is-lagos-safe, female-executives-ME, brazil-regulations, nairobi-driver, bogota-EP)
+  2. **Stage 2H** — Travel safety guides: 15 pages for P1 cities
+  3. **Phase 3E** — Next city expansion batch
