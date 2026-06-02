@@ -11,6 +11,13 @@
                 </div>
 
                 <form class="de_form wow fadeInUp" data-wow-delay=".5s" action="{{ .Site.Params.quoteFormEndpoint }}" method="POST" novalidate>
+
+                    {{/* FormSubmit configuration */}}
+                    <input type="hidden" name="_subject" value="New Close Protection Enquiry — CloseProtectionHire.com">
+                    <input type="hidden" name="_captcha" value="false">
+                    <input type="hidden" name="_template" value="table">
+                    <input type="hidden" name="_next" value="https://closeprotectionhire.com/?enquiry=sent">
+
                     <div class="row g-3">
                         <div class="col-md-6">
                             <label for="qf-service" class="form-label text-light">Service required <span class="text-color">*</span></label>
@@ -29,21 +36,9 @@
                             <label for="qf-location" class="form-label text-light">Location <span class="text-color">*</span></label>
                             <select id="qf-location" name="location" class="form-control" required>
                                 <option value="">Select city</option>
-                                <option value="lagos">Lagos</option>
-                                <option value="nairobi">Nairobi</option>
-                                <option value="johannesburg">Johannesburg</option>
-                                <option value="bogota">Bogota</option>
-                                <option value="mexico-city">Mexico City</option>
-                                <option value="istanbul">Istanbul</option>
-                                <option value="riyadh">Riyadh</option>
-                                <option value="dubai">Dubai</option>
-                                <option value="mumbai">Mumbai</option>
-                                <option value="moscow">Moscow</option>
-                                <option value="sao-paulo">Sao Paulo</option>
-                                <option value="manila">Manila</option>
-                                <option value="karachi">Karachi</option>
-                                <option value="bangkok">Bangkok</option>
-                                <option value="jakarta">Jakarta</option>
+                                {{ range sort (where .Site.RegularPages "Section" "cities") ".Title" }}
+                                <option value="{{ .Params.slug | default .File.BaseFileName }}">{{ .Title }}</option>
+                                {{ end }}
                             </select>
                         </div>
 
@@ -85,7 +80,7 @@
 
                     {{/* Honeypot */}}
                     <div style="display:none;" aria-hidden="true">
-                        <input type="text" name="website" tabindex="-1" autocomplete="off">
+                        <input type="text" name="_honey" tabindex="-1" autocomplete="off">
                     </div>
 
                     <div class="mt-4 text-center">

@@ -38,9 +38,9 @@ buildFuture = true
   brand = "CloseProtectionHire.com"
   tagline = "Close Protection and Executive Security"
   description = "Vetted close protection officers, executive security, and secure transport in high-risk cities. Licensed operators, background-checked, locally experienced."
-  quoteFormEndpoint = ""
+  quoteFormEndpoint = "https://formsubmit.co/garethsomers@outlook.com"
   googleSearchConsole = ""
-  contactEmail = ""
+  contactEmail = "garethsomers@outlook.com"
 
   [params.colors]
     primary = "#0a1628"
