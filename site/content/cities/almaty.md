@@ -2,7 +2,6 @@
 title: "Almaty"
 description: "Close protection and executive security in Almaty, Kazakhstan. Security drivers, bodyguard hire, and risk assessment for Central Asia's financial and commercial capital."
 slug: "almaty"
-layout: "enhanced"
 h1: "Close Protection in Almaty, Kazakhstan"
 country: "Kazakhstan"
 risk_level: "medium"
