@@ -21,6 +21,8 @@
 
 {{ define "main" }}
 
+<link href="/css/enhanced-hero.css" rel="stylesheet" type="text/css">
+
 {{ $images := slice "hero.jpg" "Close-Protection-2560.webp" "close-protection-768x347.jpg" "geralt-watch-10184898.jpg" "mhouge-businessman-1477601.jpg" "images.jpg" }}
 {{ $imgIdx := mod (len .File.Path) (len $images) }}
 {{ $heroImg := index $images $imgIdx }}
@@ -35,7 +37,7 @@
     <div class="inner-hero-content">
         <div class="container">
             <div class="row">
-                <div class="col-lg-9 offset-lg-0">
+                <div class="col-lg-9">
                     <p class="inner-hero-kicker wow fadeInUp">{{ with .Params.country }}{{ . }} &middot; {{ end }}Close Protection &amp; Executive Security</p>
                     <h1 class="inner-hero-title wow fadeInUp" data-wow-delay=".15s">{{ .Params.h1 | default (printf "Close Protection in %s" .Title) }}</h1>
                     <div class="inner-hero-divider wow fadeInUp" data-wow-delay=".25s"></div>
