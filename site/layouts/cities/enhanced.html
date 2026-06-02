@@ -1,0 +1,320 @@
+{{ define "title" }}{{ .Params.seo_title | default (printf "Security Services in %s" .Title) }} | {{ .Site.Params.brand }}{{ end }}
+
+{{ define "schema" }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Close Protection in {{ .Title }}",
+    "description": "{{ .Description }}",
+    "provider": {
+        "@type": "Organization",
+        "name": "{{ .Site.Params.brand }}"
+    },
+    "areaServed": {
+        "@type": "City",
+        "name": "{{ .Title }}"
+    }
+}
+</script>
+{{ end }}
+
+{{ define "main" }}
+
+{{ $images := slice "hero.jpg" "Close-Protection-2560.webp" "close-protection-768x347.jpg" "geralt-watch-10184898.jpg" "mhouge-businessman-1477601.jpg" "images.jpg" }}
+{{ $imgIdx := mod (len .File.Path) (len $images) }}
+{{ $heroImg := index $images $imgIdx }}
+{{ with .Params.hero_image }}{{ $heroImg = . }}{{ end }}
+
+{{/* ===== ENHANCED INNER HERO ===== */}}
+<section class="inner-hero inner-hero-enhanced text-light">
+    <div class="inner-hero-bg">
+        <img src="/images/{{ $heroImg }}" alt="Close protection in {{ .Title }}" loading="eager">
+    </div>
+    <div class="inner-hero-scrim"></div>
+    <div class="inner-hero-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-9 offset-lg-0">
+                    <p class="inner-hero-kicker wow fadeInUp">{{ with .Params.country }}{{ . }} &middot; {{ end }}Close Protection &amp; Executive Security</p>
+                    <h1 class="inner-hero-title wow fadeInUp" data-wow-delay=".15s">{{ .Params.h1 | default (printf "Close Protection in %s" .Title) }}</h1>
+                    <div class="inner-hero-divider wow fadeInUp" data-wow-delay=".25s"></div>
+                    {{ with .Description }}<p class="inner-hero-lead wow fadeInUp" data-wow-delay=".3s">{{ . }}</p>{{ end }}
+                    <div class="inner-hero-badges wow fadeInUp" data-wow-delay=".4s">
+                        {{ with .Params.risk_level }}<span class="complexity-badge complexity-{{ . }}">{{ . | title }} risk environment</span>{{ end }}
+                        {{ with .Params.country }}<span class="timeline-badge">{{ . }}</span>{{ end }}
+                        <span class="timeline-badge">Vetted local operators</span>
+                    </div>
+                    <div class="inner-hero-actions wow fadeInUp" data-wow-delay=".5s">
+                        <a class="btn-main fx-slide" href="#quote-form"><span>Request Consultation</span></a>
+                        {{ if .Params.threats }}<a class="btn-main fx-slide btn-line" href="#threat-profile"><span>View Threat Profile</span></a>{{ end }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {{ if or .Params.threats .Params.zones .Params.emergency_contacts }}
+    <div class="inner-hero-jumpbar">
+        <div class="container">
+            <nav class="inner-hero-jumpnav" aria-label="On this page">
+                {{ if .Params.threats }}<a href="#threat-profile">Threat Profile</a>{{ end }}
+                {{ if .Params.regulations }}<a href="#regulations">Regulations</a>{{ end }}
+                {{ if .Params.zones }}<a href="#zones">Zone Intelligence</a>{{ end }}
+                {{ if .Params.emergency_contacts }}<a href="#emergency">Emergency Contacts</a>{{ end }}
+                {{ if .Params.warnings }}<a href="#warnings">Advisories</a>{{ end }}
+            </nav>
+        </div>
+    </div>
+    {{ end }}
+</section>
+
+{{/* ===== CTA BAR ===== */}}
+<section class="section-dark bg-color text-light pt-40 pb-30 relative overflow-hidden">
+    <div class="container">
+        <div class="row g-4 align-items-center">
+            <div class="col-md-9">
+                <h4 class="mb-0 wow fadeInRight">Planning travel to {{ .Title }}? Speak with a security consultant.</h4>
+            </div>
+            <div class="col-md-3 text-md-end">
+                <a class="btn-main fx-slide btn-line wow fadeInLeft" href="#quote-form"><span>Request Consultation</span></a>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{/* ===== OVERVIEW / MAIN CONTENT ===== */}}
+{{ with .Content }}
+<section class="section-dark bg-dark text-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1 wow fadeInUp">
+                {{ . }}
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+
+{{/* ===== THREAT PROFILE ===== */}}
+{{ with .Params.threats }}
+<section class="section-dark bg-dark-2 text-light" id="threat-profile">
+    <div class="container">
+        <div class="row mb-4">
+            <div class="col-lg-12">
+                <div class="subtitle wow fadeInUp">Threat Intelligence</div>
+                <h2 class="wow fadeInUp" data-wow-delay=".2s">Threat Profile</h2>
+            </div>
+        </div>
+        <div class="row g-4">
+            {{ range $i, $t := . }}
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay='{{ printf "%.1fs" (mul $i 0.2) }}'>
+                <div class="bg-dark rounded-1 p-40 h-100">
+                    <i class="icofont-warning-alt fs-40 text-color mb-3 d-block"></i>
+                    <h4>{{ $t.type }}</h4>
+                    <p class="mb-0">{{ $t.detail }}</p>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
+
+{{/* ===== PARALLAX INTERLUDE ===== */}}
+{{ $midImg := .Params.parallax_image | default (index $images (mod (add $imgIdx 3) (len $images))) }}
+<section data-bgimage="url(/images/{{ $midImg }}) center" class="text-light pt-80 pb-80 parallax-dim">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2 text-center">
+                <h2 class="wow fadeInUp">Vetted operators with direct experience in {{ .Title }}</h2>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{/* ===== AVAILABLE SERVICES ===== */}}
+{{ with .Params.available_services }}
+<section class="section-dark bg-dark text-light" id="services">
+    <div class="container">
+        <div class="row mb-4">
+            <div class="col-lg-12">
+                <div class="subtitle wow fadeInUp">What We Offer</div>
+                <h2 class="wow fadeInUp" data-wow-delay=".2s">Available Services in {{ $.Title }}</h2>
+            </div>
+        </div>
+        <div class="row g-4">
+            {{ range $i, $svc := . }}
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay='{{ printf "%.1fs" (mul $i 0.2) }}'>
+                <div class="bg-dark-gradient rounded-1 p-40 h-100 overflow-hidden relative">
+                    <div class="relative z-2">
+                        <h4>{{ $svc.name }}</h4>
+                        <p class="mb-0">{{ $svc.description }}</p>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
+
+{{/* ===== REGULATIONS ===== */}}
+{{ with .Params.regulations }}
+<section class="section-dark bg-dark-2 text-light" id="regulations">
+    <div class="container">
+        <div class="row mb-4">
+            <div class="col-lg-12">
+                <div class="subtitle wow fadeInUp">Compliance</div>
+                <h2 class="wow fadeInUp" data-wow-delay=".2s">Security Regulations</h2>
+                <p class="wow fadeInUp" data-wow-delay=".4s">Key regulatory requirements for operating security services in {{ $.Title }}.</p>
+            </div>
+        </div>
+        <div class="row g-4">
+            {{ with .firearms }}
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay="0s">
+                <div class="bg-dark rounded-1 p-40 h-100">
+                    <i class="icofont-law-protect fs-40 text-color mb-3 d-block"></i>
+                    <h4>Firearms Policy</h4>
+                    <p class="mb-0">{{ . }}</p>
+                </div>
+            </div>
+            {{ end }}
+            {{ with .licensing }}
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".2s">
+                <div class="bg-dark rounded-1 p-40 h-100">
+                    <i class="icofont-certificate fs-40 text-color mb-3 d-block"></i>
+                    <h4>Licensing</h4>
+                    <p class="mb-0">{{ . }}</p>
+                </div>
+            </div>
+            {{ end }}
+            {{ with .foreign_operators }}
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".4s">
+                <div class="bg-dark rounded-1 p-40 h-100">
+                    <i class="icofont-globe fs-40 text-color mb-3 d-block"></i>
+                    <h4>Foreign Operators</h4>
+                    <p class="mb-0">{{ . }}</p>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
+
+{{/* ===== ZONE INTELLIGENCE ===== */}}
+{{ with .Params.zones }}
+<section class="section-dark bg-dark text-light" id="zones">
+    <div class="container">
+        <div class="row mb-4">
+            <div class="col-lg-12">
+                <div class="subtitle wow fadeInUp">Local Intel</div>
+                <h2 class="wow fadeInUp" data-wow-delay=".2s">Zone Intelligence</h2>
+            </div>
+        </div>
+        <div class="row g-4">
+            {{ with .safe }}
+            <div class="col-lg-6 wow fadeInRight">
+                <div class="bg-dark-2 rounded-1 p-40 h-100">
+                    <h4><i class="icofont-shield-alt text-color me-2"></i>Lower-Risk Areas</h4>
+                    <ul class="ul-check fw-400">
+                        {{ range . }}<li>{{ . }}</li>{{ end }}
+                    </ul>
+                </div>
+            </div>
+            {{ end }}
+            {{ with .elevated }}
+            <div class="col-lg-6 wow fadeInRight" data-wow-delay=".2s">
+                <div class="bg-dark-2 rounded-1 p-40 h-100">
+                    <h4><i class="icofont-warning text-color me-2"></i>Elevated-Risk Areas</h4>
+                    <ul class="ul-x fw-400">
+                        {{ range . }}<li>{{ . }}</li>{{ end }}
+                    </ul>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
+
+{{/* ===== EMERGENCY CONTACTS ===== */}}
+{{ with .Params.emergency_contacts }}
+<section class="section-dark bg-dark-2 text-light" id="emergency">
+    <div class="container">
+        <div class="row mb-4">
+            <div class="col-lg-12">
+                <div class="subtitle wow fadeInUp">Quick Reference</div>
+                <h2 class="wow fadeInUp" data-wow-delay=".2s">Emergency Contacts</h2>
+            </div>
+        </div>
+        <div class="row g-4">
+            {{ range $i, $c := . }}
+            <div class="col-lg-3 col-md-6 wow fadeInRight" data-wow-delay='{{ printf "%.1fs" (mul $i 0.15) }}'>
+                <div class="bg-dark rounded-1 p-30 text-center h-100">
+                    <i class="icofont-phone fs-40 text-color mb-2 d-block"></i>
+                    <h5>{{ $c.service }}</h5>
+                    <p class="mb-0 fs-20 fw-600">{{ $c.number }}</p>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
+
+{{/* ===== WARNINGS ===== */}}
+{{ with .Params.warnings }}
+<section class="section-dark bg-dark text-light" id="warnings">
+    <div class="container">
+        <div class="row mb-4">
+            <div class="col-lg-12">
+                <div class="subtitle wow fadeInUp">Advisory</div>
+                <h2 class="wow fadeInUp" data-wow-delay=".2s">Important Warnings</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1 wow fadeInUp" data-wow-delay=".3s">
+                <div class="bg-dark-2 rounded-1 p-40">
+                    <ul class="ul-x fw-400">
+                        {{ range . }}<li>{{ . }}</li>{{ end }}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+
+{{/* ===== FAQs ===== */}}
+{{ with .Params.faqs }}
+{{ partial "faq-accordion.html" (dict "faqs" .) }}
+{{ end }}
+
+{{/* ===== QUOTE FORM ===== */}}
+{{ partial "quote-form.html" $ }}
+
+{{/* ===== RELATED CITIES ===== */}}
+{{ with .Params.related_cities }}
+<section class="section-dark bg-dark-2 text-light" id="related">
+    <div class="container">
+        <div class="row mb-4">
+            <div class="col-lg-12">
+                <div class="subtitle wow fadeInUp">More Locations</div>
+                <h2 class="wow fadeInUp" data-wow-delay=".2s">Other Locations</h2>
+            </div>
+        </div>
+        <div class="row g-4">
+            {{ range $i, $c := . }}
+            <div class="col-lg-3 col-md-4 col-sm-6 wow fadeInRight" data-wow-delay='{{ printf "%.1fs" (mul $i 0.15) }}'>
+                <a href="/cities/{{ $c.slug }}/" class="d-block bg-dark rounded-1 p-30 text-center text-light hover">
+                    <h5 class="mb-0">{{ $c.name }}</h5>
+                </a>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
+
+{{ end }}
