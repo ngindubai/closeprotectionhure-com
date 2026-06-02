@@ -14,11 +14,9 @@
 
 {{ define "main" }}
 
-{{/* ===== SPLIT HERO: Image Left + Consultation Form Right ===== */}}
+{{/* ===== SPLIT HERO ===== */}}
 <section class="hero-split section-dark text-light no-top no-bottom">
     <div class="hero-split-inner">
-
-        {{/* Left: hero image with text overlay */}}
         <div class="hero-split-left">
             <img src="/images/hero.jpg" alt="Close protection detail" class="hero-split-img" loading="eager">
             <div class="hero-split-dim"></div>
@@ -33,20 +31,15 @@
                 </ul>
             </div>
         </div>
-
-        {{/* Right: consultation form */}}
         <div class="hero-split-right">
             <div class="hero-form-wrap">
                 <h2 class="hero-form-heading">Request a consultation</h2>
                 <p class="hero-form-sub">Confidential. Handled by licensed security consultants.</p>
                 <form class="de_form hero-form" action="{{ .Site.Params.quoteFormEndpoint }}" method="POST" novalidate>
-
-                    {{/* FormSubmit configuration */}}
-                    <input type="hidden" name="_subject" value="New Close Protection Enquiry — CloseProtectionHire.com">
+                    <input type="hidden" name="_subject" value="New Close Protection Enquiry - CloseProtectionHire.com">
                     <input type="hidden" name="_captcha" value="false">
                     <input type="hidden" name="_template" value="table">
                     <input type="hidden" name="_next" value="https://closeprotectionhire.com/?enquiry=sent">
-
                     <div class="mb-3">
                         <label for="hf-service" class="form-label text-light">Service required <span class="text-color">*</span></label>
                         <select id="hf-service" name="service_type" class="form-control" required>
@@ -93,7 +86,6 @@
                 </div>
             </div>
         </div>
-
     </div>
 </section>
 
@@ -111,7 +103,7 @@
     </div>
 </section>
 
-{{/* ===== SERVICES (Dark section with gradient cards) ===== */}}
+{{/* ===== SERVICES ===== */}}
 <section class="section-dark bg-dark text-light">
     <div class="container">
         <div class="row g-4 justify-content-center mb-2">
@@ -123,7 +115,6 @@
                 </div>
             </div>
         </div>
-
         <div class="row g-4">
             <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay="0s">
                 <a href="/services/bodyguard-hire/" class="service-card service-card-tall d-block">
@@ -135,7 +126,6 @@
                     </div>
                 </a>
             </div>
-
             <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".2s">
                 <a href="/services/executive-protection/" class="service-card service-card-tall d-block">
                     <img class="card-bg-img" src="/images/service-executive-protection-hero.jpg" alt="Executive protection" width="600" height="400" loading="lazy">
@@ -146,7 +136,6 @@
                     </div>
                 </a>
             </div>
-
             <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".4s">
                 <a href="/services/security-drivers/" class="service-card service-card-tall d-block">
                     <img class="card-bg-img" src="/images/service-security-drivers-hero.jpg" alt="Security drivers" width="600" height="400" loading="lazy">
@@ -157,7 +146,6 @@
                     </div>
                 </a>
             </div>
-
             <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".6s">
                 <a href="/services/event-security/" class="service-card service-card-tall d-block">
                     <img class="card-bg-img" src="/images/service-event-security-hero.jpg" alt="Event security" width="600" height="400" loading="lazy">
@@ -168,7 +156,6 @@
                     </div>
                 </a>
             </div>
-
             <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay=".8s">
                 <a href="/services/residential-security/" class="service-card service-card-tall d-block">
                     <img class="card-bg-img" src="/images/service-residential-security-hero.jpg" alt="Residential security" width="600" height="400" loading="lazy">
@@ -179,7 +166,6 @@
                     </div>
                 </a>
             </div>
-
             <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay="1s">
                 <a href="/risk-assessments/" class="service-card service-card-tall d-block">
                     <img class="card-bg-img" src="/images/assessment-pre-travel-hero.jpg" alt="Risk assessments" width="600" height="400" loading="lazy">
@@ -197,22 +183,16 @@
 {{/* ===== MARQUEE DIVIDER ===== */}}
 <div class="section-dark bg-color text-light d-flex lh-1 overflow-hidden marquee-refined">
     <div class="de-marquee-list-2 wow fadeIn" data-wow-duration="2s">
-        <span>Bodyguard Hire</span>
-        <span class="mx-3 marquee-sep">/</span>
-        <span>Executive Protection</span>
-        <span class="mx-3 marquee-sep">/</span>
-        <span>Security Drivers</span>
-        <span class="mx-3 marquee-sep">/</span>
-        <span>Event Security</span>
-        <span class="mx-3 marquee-sep">/</span>
-        <span>Residential Security</span>
-        <span class="mx-3 marquee-sep">/</span>
-        <span>Risk Assessments</span>
-        <span class="mx-3 marquee-sep">/</span>
+        <span>Bodyguard Hire</span><span class="mx-3 marquee-sep">/</span>
+        <span>Executive Protection</span><span class="mx-3 marquee-sep">/</span>
+        <span>Security Drivers</span><span class="mx-3 marquee-sep">/</span>
+        <span>Event Security</span><span class="mx-3 marquee-sep">/</span>
+        <span>Residential Security</span><span class="mx-3 marquee-sep">/</span>
+        <span>Risk Assessments</span><span class="mx-3 marquee-sep">/</span>
     </div>
 </div>
 
-{{/* ===== WHY VETTED OPERATORS (About section) ===== */}}
+{{/* ===== WHY VETTED OPERATORS ===== */}}
 <section class="section-dark bg-dark text-light">
     <div class="container">
         <div class="row gy-4 gx-5">
@@ -258,7 +238,6 @@
                 </div>
             </div>
         </div>
-
         <div class="row g-4">
             <div class="col-lg-4 wow fadeInRight" data-wow-delay=".0s">
                 <div class="rounded-1 bg-dark text-light h-100">
@@ -269,7 +248,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="col-lg-4 wow fadeInRight" data-wow-delay=".2s">
                 <div class="rounded-1 bg-dark text-light h-100">
                     <div class="how-card-inner">
@@ -279,7 +257,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="col-lg-4 wow fadeInRight" data-wow-delay=".4s">
                 <div class="rounded-1 bg-dark text-light h-100">
                     <div class="how-card-inner">
@@ -304,7 +281,6 @@
                     Countries
                 </div>
             </div>
-
             <div class="col-md-3 col-sm-6">
                 <div class="de_count text-center wow fadeInRight" data-wow-delay=".2s">
                     <i class="p-3 circle bg-color text-light fs-40 d-inline-block mb-2 icofont-location-pin"></i>
@@ -312,7 +288,6 @@
                     Cities Covered
                 </div>
             </div>
-
             <div class="col-md-3 col-sm-6">
                 <div class="de_count text-center wow fadeInRight" data-wow-delay=".4s">
                     <i class="p-3 circle bg-color text-light fs-40 d-inline-block mb-2 icofont-users-alt-3"></i>
@@ -320,7 +295,6 @@
                     Service Categories
                 </div>
             </div>
-
             <div class="col-md-3 col-sm-6">
                 <div class="de_count text-center wow fadeInRight" data-wow-delay=".6s">
                     <i class="p-3 circle bg-color text-light fs-40 d-inline-block mb-2 icofont-clock-time"></i>
@@ -368,7 +342,8 @@
         <div class="row g-4">
             {{ range $i, $city := $cities }}
             {{ $img := index $cityImages $city.slug }}
-            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay="{{ printf \"%.1fs\" (mul (mod $i 3) 0.2) }}">
+            {{ $delay := mul (mod $i 3) 0.2 }}
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay='{{ printf "%.1fs" $delay }}'>
                 <a href="/cities/{{ $city.slug }}/" class="service-card d-block">
                     <img class="card-bg-img" src="/images/{{ $img }}" alt="{{ $city.name }} skyline" width="400" height="260" loading="lazy">
                     <div class="card-text">
