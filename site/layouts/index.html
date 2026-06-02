@@ -40,6 +40,13 @@
                 <h2 class="hero-form-heading">Request a consultation</h2>
                 <p class="hero-form-sub">Confidential. Handled by licensed security consultants.</p>
                 <form class="de_form hero-form" action="{{ .Site.Params.quoteFormEndpoint }}" method="POST" novalidate>
+
+                    {{/* FormSubmit configuration */}}
+                    <input type="hidden" name="_subject" value="New Close Protection Enquiry — CloseProtectionHire.com">
+                    <input type="hidden" name="_captcha" value="false">
+                    <input type="hidden" name="_template" value="table">
+                    <input type="hidden" name="_next" value="https://closeprotectionhire.com/?enquiry=sent">
+
                     <div class="mb-3">
                         <label for="hf-service" class="form-label text-light">Service required <span class="text-color">*</span></label>
                         <select id="hf-service" name="service_type" class="form-control" required>
@@ -76,7 +83,7 @@
                         <textarea id="hf-message" name="message" class="form-control" rows="3" placeholder="Dates, principals, specific requirements..."></textarea>
                     </div>
                     <div style="display:none;" aria-hidden="true">
-                        <input type="text" name="website" tabindex="-1" autocomplete="off">
+                        <input type="text" name="_honey" tabindex="-1" autocomplete="off">
                     </div>
                     <button type="submit" class="btn-main fx-slide w-100"><span>Submit Enquiry</span></button>
                     <p class="text-center mt-2 op-5" style="font-size:0.75rem;">Your details are never shared with third parties.</p>
@@ -361,7 +368,7 @@
         <div class="row g-4">
             {{ range $i, $city := $cities }}
             {{ $img := index $cityImages $city.slug }}
-            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay="{{ printf "%.1fs" (mul (mod $i 3) 0.2) }}">
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay="{{ printf \"%.1fs\" (mul (mod $i 3) 0.2) }}">
                 <a href="/cities/{{ $city.slug }}/" class="service-card d-block">
                     <img class="card-bg-img" src="/images/{{ $img }}" alt="{{ $city.name }} skyline" width="400" height="260" loading="lazy">
                     <div class="card-text">
