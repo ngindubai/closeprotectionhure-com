@@ -25,8 +25,32 @@ A full session of work (Phase 3D city expansion, doc syncs, QA audit, stub delet
 
 ---
 
+## ⚠ CRITICAL: TEMPLATE EDITS VIA push_files — ESCAPED-QUOTE BUILD BREAK
+
+**When editing Hugo layout files, never write Go-template `printf` expressions with escaped inner double-quotes.** `push_files` JSON-encodes file content; an expression written as `printf \"%.1fs\"` is stored in the file as literal backslash-quotes, which Hugo's template parser rejects, aborting the ENTIRE build in ~17 seconds before any page renders. A short (~17s) red build with no output is the signature of this class of error.
+
+### The incident this rule prevents (02 June 2026)
+The homepage `index.html` locations grid used `data-wow-delay="{{ printf \"%.1fs\" (mul (mod $i 3) 0.2) }}"`. After a `push_files` write, the stored file contained literal `\"` sequences. Every build from that commit onward (runs #52-#56) failed at ~17s. The fix: pre-extract the value into a variable and use a single-quoted HTML attribute so there is no quote conflict:
+```
+{{ $delay := mul (mod $i 3) 0.2 }}
+<div data-wow-delay='{{ printf "%.1fs" $delay }}'>
+```
+
+### Hard rules that follow
+- In layout files, when `printf` needs inner quotes, pre-extract into a variable and wrap the HTML attribute in single quotes: `attr='{{ printf "%.1fs" $x }}'`.
+- A ~17s red build = Hugo parse error, aborted before rendering. Suspect a malformed template expression in the most recently edited layout, not content.
+- No em dashes anywhere — not in content, not in layout string values (e.g. form `_subject`). They hard-fail `qa_audit.py` and have broken builds. Use `-` or `--`.
+
+---
+
+## 🔧 BUILD CONFIG NOTE — buildFuture (02 June 2026)
+
+`site/hugo.toml` sets `buildFuture = true`. This is load-bearing: the deploy workflow runs `hugo --gc --minify` with no `--buildFuture` flag, so without this config setting, any page whose `date` is in the future relative to the build moment (UTC) is SILENTLY excluded from output and 404s on the live site. This caused the travel-safety-guides 404 incident (15 guides dated `2026-06-02` were dropped from builds running on `2026-06-01` UTC). Do not remove `buildFuture = true`. When authoring new content, also prefer a safely-past `date` (e.g. a few days back) as belt-and-braces.
+
+---
+
 ## Site Overview
-**CloseProtectionHire.com** — a UK-English, programmatic SEO lead-generation site for security services (bodyguard hire, executive protection, security drivers, event security, residential security) across 70 cities globally. Audience: corporate travellers, executives, event organisers, HNWIs. Goal: capture enquiries via organic search. This is a **YMYL** site — Google holds it to higher E-E-A-T standards.
+**CloseProtectionHire.com** — a UK-English, programmatic SEO lead-generation site for security services (bodyguard hire, executive protection, security drivers, event security, residential security) across 90+ cities globally. Audience: corporate travellers, executives, event organisers, HNWIs. Goal: capture enquiries via organic search. This is a **YMYL** site — Google holds it to higher E-E-A-T standards.
 
 > **Note (02 Jun 2026):** This `master` copy of CLAUDE.md and the other planning docs (BUILD-PLAN.md, build_state.json, MEMORY.md) are behind the work that was mistakenly committed to `main`. Page counts and engine statuses below are stale. They will be reconciled onto `master` in a controlled follow-up. Trust the live site and `master`'s actual `site/content/` tree over the status numbers in these docs until that reconciliation is done.
 
@@ -40,7 +64,7 @@ This site replicates pet-transport's compounding architecture. Every block of wo
 |---|--------|--------|---------------|
 | 1 | Combinatorial page generators | Partial — event-security/{city} silo done; service×city is Phase 3C | `site/content/event-security/`; future `site/content/bodyguard-hire/`, `security-drivers/`, etc. |
 | 2 | Structured data layer | Done | `data/keyword_matrix.json`, `data/city_risk_profiles*.json`, `data/security_regulations.json`, `data/fcdo_advisories.json`, `data/state_dept_data.json` |
-| 3 | Bulk blog factory | In progress — 6/19 batches | `site/content/blog/`, `scripts/generate_blog_batch*.py` |
+| 3 | Bulk blog factory | In progress | `site/content/blog/`, `scripts/generate_blog_batch*.py` |
 | 4 | Internal link graph | Diagnostic done; rewriter pending Stage 2J | `scripts/rebuild_link_graph.py` |
 | 5 | QA + SEO quality gate | Done | `scripts/qa_audit.py`, `scripts/check_titles.py`, `scripts/check_descriptions.py` |
 | 6 | Incremental deploy pipeline | Done — build-and-publish + Hostinger OAuth | `.github/workflows/build-and-publish.yml` |
@@ -66,18 +90,19 @@ This site replicates pet-transport's compounding architecture. Every block of wo
 ### Key live site files
 | File | Purpose |
 |---|---|
-| `site/hugo.toml` | Hugo config (baseURL, permalinks — touch with extreme care; see ERRORS.md) |
-| `site/layouts/index.html` | Homepage template (`.hero-fb`, `.service-card-tall`, `.hiw-step`) |
+| `site/hugo.toml` | Hugo config (baseURL, permalinks — touch with extreme care; see ERRORS.md). `buildFuture = true` is load-bearing (see BUILD CONFIG NOTE above). |
+| `site/layouts/index.html` | Homepage template (`.hero-split`, `.service-card-tall`). Both the hero form and the bottom quote-form partial POST to FormSubmit (`quoteFormEndpoint` in hugo.toml = `https://formsubmit.co/garethsomers@outlook.com`). |
 | `site/layouts/services/single.html` | Service silo template (`.incl-card`, `.loc-city-card`) |
-| `site/layouts/cities/single.html` | City page template |
+| `site/layouts/cities/single.html` | City page template. **Uses the ENHANCED hero (approved 02 Jun 2026): ~70vh hero with gradient scrim (`.inner-hero-enhanced` / `.inner-hero-scrim`), lead text from `.Description`, risk/country/vetted badges, Request-Consultation + View-Threat-Profile buttons, and a sticky jump-nav bar (`.inner-hero-jumpbar`) linking to threat/regulations/zones/emergency/warnings. Loads `site/static/css/enhanced-hero.css` via an inline `<link>` at the top of the `main` block (baseof.html has no head block, so the stylesheet is injected there). THIS IS THE STANDARD CITY TEMPLATE — use it over the old centred-title hero; do not revert. New cities get it automatically. Per-city hero photo via the `hero_image` front-matter field.** |
 | `site/layouts/countries/single.html` | Country hub template |
 | `site/layouts/risk-assessments/single.html` | Risk assessment template |
 | `site/layouts/event-security/single.html` | Event security silo template (combinatorial city × event — the proof-of-concept for the service×city pattern) |
 | `site/layouts/blog/single.html` | Blog article template |
 | `site/layouts/_default/single.html` | Hugo fallback for sections without their own layout |
-| `site/layouts/partials/` | Header, footer, FAQ, schema partials |
+| `site/layouts/partials/` | Header, footer, FAQ, schema, quote-form partials |
 | `site/static/css/style.css` | Base CyberGuard theme — **DO NOT EDIT** |
 | `site/static/css/custom.css` | All overrides — append-only |
+| `site/static/css/enhanced-hero.css` | Enhanced city-hero styles (scrim, jumpbar, responsive). Loaded by `cities/single.html`. |
 | `site/assets/js/main.js` | Form handler (`.de_form`, `.quote-success`) |
 | `site/content/` | All Markdown content (cities/, countries/, services/, blog/, event-security/, guides/, risk-assessments/, future bodyguard-hire/, etc.) |
 
@@ -133,8 +158,9 @@ This is the only acceptable cadence. Skipping a step is a process failure, regar
 - **Never imply safety guarantees.** "Reduce risk" / "trained professionals" / "appropriate baseline" only. Hard fail: "guarantee safety", "100% safe", "keep you safe", "risk-free", "foolproof", "bulletproof security" (as metaphor).
 - Building names redacted as "Unit 1", "Unit 2".
 - Do not hardcode rates, bank names, or live statistics that change quarterly — give ranges with timestamps.
-- **No em dashes anywhere in content.** Use commas, full stops, or colons. (`scripts/qa_audit.py` hard-fails on em dashes.)
+- **No em dashes anywhere in content OR layout string values.** Use commas, full stops, or colons. (`scripts/qa_audit.py` hard-fails on em dashes; they have also broken builds.)
 - British English throughout. "Travelling", "behaviour", "organisation", "kerb".
+- **Prefer a safely-past `date`** in new content front matter (a few days back), as belt-and-braces against any future-date build exclusion even with `buildFuture = true` set.
 
 ### Voice
 - Every blog article carries one of two author personas: **James Calloway, Senior Security Consultant** (regulation, licensing, vetting, risk frameworks) or **Marcus Webb, Security Operations Adviser** (operational close protection, secure transport, city-specific safety). See [AGENTS.md](AGENTS.md).
@@ -150,6 +176,7 @@ This is the only acceptable cadence. Skipping a step is a process failure, regar
 ### Layouts & design
 - Generate every new page from the existing Hugo template — **never invent new layouts without explicit approval**.
 - New content sections that don't have a dedicated layout fall back to `site/layouts/_default/single.html` via Hugo's lookup chain. That is the supported way to add new silos without new layouts.
+- **City pages use the enhanced hero in `cities/single.html` (approved 02 Jun 2026). It is the standard. Do not revert to the old centred-title hero. Give each city a distinct `hero_image` where a strong photo exists; the generic `Close-Protection-2560.webp` is the fallback.**
 - No new colour tokens, fonts, or top-level directories without explicit approval.
 - Edit only what is asked. Never rewrite whole files unprompted.
 
@@ -177,6 +204,8 @@ These come from real failures in the deploy migration and earlier sessions. Each
 - **Never commit to `main`. `master` is the only deploy branch.** (See the CRITICAL BRANCH RULE at the top.)
 - **Never propose changing the workflow's branch trigger to match where you committed.** If a deploy didn't happen, suspect the commit branch first.
 - **Do not edit `.github/workflows/` files via the API.** It will 403. Give Gareth the full file.
+- **Do not write `printf` with escaped inner quotes in layout files** (`\"`). It breaks the Hugo build. Pre-extract to a variable and use single-quoted attributes. (See the ESCAPED-QUOTE section at the top.)
+- **Do not remove `buildFuture = true` from hugo.toml.** Future-dated pages will silently 404.
 - **Do not modify `site/hugo.toml` baseURL or permalinks** without reading the corresponding `ERRORS.md` entry first. The `sections[1:]` permalink trick is what produced `/london/` instead of `/cities/london/`.
 - **Do not invent a new Hugo layout** to render a new content section. Use Hugo's `_default/single.html` fallback.
 - **Do not commit a content block without running the QA logic** (banned words, YMYL safety-guarantee patterns, em-dash check, internal-link count). The scripts in `scripts/` are the canonical check.
@@ -187,10 +216,12 @@ These come from real failures in the deploy migration and earlier sessions. Each
 
 ---
 
-## Current Status (28 May 2026 — STALE, see note in Site Overview)
+## Current Status (02 Jun 2026)
 
-- **Pages live:** ~203 (this number is stale; the live site has more after Phase 3C/3D)
-- **Blog articles live:** 30 (Batches 1–6) (stale)
-- **Cities live:** 70 (P1 + P2 + P3 batches 1+2) plus Phase 3D additions (Dakar, Tunis, Algiers, Port of Spain, Panama City, San Jose) committed to master 02 Jun 2026
-- **Last block completed:** Phase 3D city expansion re-applied to master (commit `a27ab31`, 02 Jun 2026)
+- **Cities live:** ~98 (P1 + P2 + P3 batches 1-5). Latest additions: Phase 3E (Medellin, Guadalajara, Accra, Maputo, Lusaka, Abidjan) and Phase 3F (Almaty, Tashkent, Islamabad, Conakry, Harare).
+- **Travel safety guides live:** 15 (all P1 cities).
+- **City hero:** enhanced hero promoted to the standard `cities/single.html` (02 Jun 2026); Almaty is the reference implementation with `hero_image: service-executive-protection-hero.jpg`.
+- **Forms:** both homepage forms wired to FormSubmit (`garethsomers@outlook.com`). Gareth must complete the one-time FormSubmit activation email.
+- **Next recommended block:** audit and expand the genuinely thin P1 city pages (bangkok, mumbai, manila, riyadh, moscow, sao-paulo, istanbul, dubai, mexico-city ~3.7-4.6KB) to full depth — the real thin-content protection, ahead of any further template work.
+- **Then:** vary city-page hero images across the network so they are not all the generic default; Stage 2J internal link graph; doc reconciliation (BUILD-PLAN/build_state/MEMORY counts are stale).
 - **Strategic note:** This market is credential-gated and referral-driven. After 2–3 combinatorial batches ship, revisit the keep-or-redeploy decision from the replication study before pouring in more build time.
