@@ -82,7 +82,7 @@ The Rovuma Basin LNG projects have attracted Total Energies, Eni, ExxonMobil, an
 
 Maputo's security challenges are layered. The city itself has a manageable crime profile for visitors operating in the Polana zone with professional transport. The complication is the Cabo Delgado insurgency in the north. The insurgency directly halted the Total Energies LNG project in 2021 and requires specialist security for anyone working near the gas field areas.
 
-The 2024 post-election unrest added a political instability dimension to what was already a complex operating environment. The legacy of that unrest — a more contested political environment, periodic demonstrations — is part of the current operating picture.
+The 2024 post-election unrest added a political instability dimension to what was already a complex operating environment. The legacy of that unrest (a more contested political environment, periodic demonstrations) is part of the current operating picture.
 
 ## Southern Africa medical evacuation planning
 

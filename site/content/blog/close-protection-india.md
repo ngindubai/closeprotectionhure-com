@@ -12,14 +12,14 @@ tags:
   - "executive-protection"
 faqs:
   - question: "What is PSARA and how does it affect close protection in India?"
-    answer: "The Private Security Agencies (Regulation) Act 2005 (PSARA) governs private security services in India. Private security agencies must be licensed under PSARA in each state where they operate — there is no single national licence. Security officers must meet minimum age, physical, and training requirements. The regulatory landscape is complex because implementation varies by state, and the quality of enforcement varies significantly."
+    answer: "The Private Security Agencies (Regulation) Act 2005 (PSARA) governs private security services in India. Private security agencies must be licensed under PSARA in each state where they operate: there is no single national licence. Security officers must meet minimum age, physical, and training requirements. The regulatory landscape is complex because implementation varies by state, and the quality of enforcement varies significantly."
   - question: "Is armed close protection available in India?"
     answer: "Armed close protection is available in India but is heavily regulated and complex to arrange for foreign principals. Private security companies can be licensed to provide armed guards under PSARA, but weapons must be licensed by state police. For visiting foreign executives, the practical arrangement is usually a combination of licensed Indian close protection officers, potentially with separately arranged armed escort through police liaison or licensed arms carriers. This should be arranged through a specialist provider with current Indian experience."
   - question: "Which Indian cities present the highest security risk for corporate executives?"
     answer: "Risk profiles vary significantly. Mumbai, Delhi, Bangalore, and Hyderabad are accessible corporate destinations with manageable risk for properly supported travel. Specific risk factors include: street crime and confidence fraud in tourist-heavy areas; traffic conditions that create operational complexity; and in Delhi, specific concerns around women's safety that affect itinerary planning. Kashmir, the Northeast states, and Maoist-affected central India regions present elevated risk requiring specialist assessment."
 ---
 
-India is one of the world's most significant corporate travel destinations and one of the most complex to navigate from a close protection perspective. The country's size, diversity, and variable regulatory implementation across states mean that a blanket approach to security is inadequate — effective close protection in India requires city-specific knowledge, established local relationships, and current awareness of the regulatory environment.
+India is one of the world's most significant corporate travel destinations and one of the most complex to navigate from a close protection perspective. The country's size, diversity, and variable regulatory implementation across states mean that a blanket approach to security is inadequate: effective close protection in India requires city-specific knowledge, established local relationships, and current awareness of the regulatory environment.
 
 ## The Regulatory Framework
 

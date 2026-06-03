@@ -19,7 +19,7 @@ faqs:
     answer: "The post-election period is often more dangerous than the election itself if results are contested. The period between announcement of results and the transition of power (which can take weeks or months) is when violence typically peaks in contested elections. Security planning should extend through this period, not conclude on election day."
 ---
 
-Elections and political transitions create predictable windows of elevated security risk that require specific planning. They are, in many ways, the most plannable security risks because they are scheduled — unlike coups or sudden political crises, elections give advance notice that a period of elevated risk is approaching.
+Elections and political transitions create predictable windows of elevated security risk that require specific planning. They are, in many ways, the most plannable security risks because they are scheduled: unlike coups or sudden political crises, elections give advance notice that a period of elevated risk is approaching.
 
 ## The Security Risk Pattern
 
@@ -27,7 +27,7 @@ Political transitions and elections generate security risk through several mecha
 
 **Pre-election tension.** In environments with competitive, divisive, or historically violent electoral processes, political tension increases in the weeks before an election. Opposition supporters, ruling party supporters, and election monitoring organisations all increase activity. Protests, counter-protests, and political rallies concentrate crowds and can escalate to violence.
 
-**Election day.** The day of voting is often calmer than the preceding days in practice — voting is a regulated, monitored process. The specific risks are: access restriction as polling stations affect movement patterns; security force concentration around voting infrastructure; and the potential for isolated violence in contested areas.
+**Election day.** The day of voting is often calmer than the preceding days in practice: voting is a regulated, monitored process. The specific risks are: access restriction as polling stations affect movement patterns; security force concentration around voting infrastructure; and the potential for isolated violence in contested areas.
 
 **Results announcement.** The announcement of results, particularly where they are disputed or close, is typically the highest-risk period. Losing parties and their supporters react, sometimes violently. This can be rapid and hard to predict.
 
@@ -35,7 +35,7 @@ Political transitions and elections generate security risk through several mecha
 
 ## Corporate Security Planning for Elections
 
-**Pre-election assessment.** Update the country risk assessment to specifically address the election environment. Key questions: What is the history of violence in previous elections? Which areas have the highest risk? What is the security apparatus response — will police and military manage violence or participate in it?
+**Pre-election assessment.** Update the country risk assessment to specifically address the election environment. Key questions: What is the history of violence in previous elections? Which areas have the highest risk? What is the security apparatus response: will police and military manage violence or participate in it?
 
 **Travel restriction decisions.** Consider whether to restrict non-essential travel to in-country for the election period, and for how long before and after.
 

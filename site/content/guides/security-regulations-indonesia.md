@@ -32,14 +32,14 @@ Indonesia's private security industry is large and growing, reflecting the count
 
 ## Jakarta Operations
 
-Jakarta has a well-developed private security market with numerous Polri-licensed operators. Quality varies significantly — the largest professional companies with established corporate client bases generally provide higher quality than smaller operators.
+Jakarta has a well-developed private security market with numerous Polri-licensed operators. Quality varies significantly: the largest professional companies with established corporate client bases generally provide higher quality than smaller operators.
 
-Close protection in Jakarta is typically unarmed. Traffic conditions in Jakarta are among the most challenging in the world and significantly affect security operations — journey management and route planning are priority operational considerations.
+Close protection in Jakarta is typically unarmed. Traffic conditions in Jakarta are among the most challenging in the world and significantly affect security operations: journey management and route planning are priority operational considerations.
 
 ## Practical Considerations for Foreign Executives
 
 - Verify Polri licensing for all operators
-- Close protection is unarmed — this is the standard for the environment
+- Close protection is unarmed: this is the standard for the environment
 - Traffic and journey management are the primary operational challenges in Jakarta
 - For operations outside Java, the quality and availability of licensed operators varies significantly
 

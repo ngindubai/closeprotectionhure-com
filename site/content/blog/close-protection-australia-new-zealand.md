@@ -19,15 +19,15 @@ faqs:
     answer: "Both are low-crime, well-policed environments with professional emergency services. Australia has experienced two significant terrorism incidents in 2024-2025 that have elevated its threat level to PROBABLE. New Zealand's threat level is LOW, but the 2019 Christchurch and 2021 New Lynn attacks demonstrate that lone-actor terrorism is not absent. Both countries are significantly safer for corporate travel than most global business destinations."
 ---
 
-Australia and New Zealand share broadly similar security environments — modern, prosperous countries with professional law enforcement, low violent crime relative to comparable economies, and well-developed emergency services infrastructure. Both have experienced terrorism in recent years, and both require awareness of the licensing frameworks that govern close protection work.
+Australia and New Zealand share broadly similar security environments: modern, prosperous countries with professional law enforcement, low violent crime relative to comparable economies, and well-developed emergency services infrastructure. Both have experienced terrorism in recent years, and both require awareness of the licensing frameworks that govern close protection work.
 
 ## Australia
 
 Australia's security environment is shaped by its PROBABLE national terrorism threat level, set against a generally low violent crime background. The 2024 Westfield Bondi Junction attack (6 killed) and the 2025 Bondi Beach antisemitic attack (15 killed) demonstrated that lone-actor terrorism is an active risk in major Australian cities.
 
-For corporate travel, Australia's major cities — Sydney, Melbourne, Brisbane, Perth, Adelaide — are accessible and professionally managed. Standard precautions are appropriate. Full close protection is warranted for UHNWI principals and high-profile executives, and for any visit involving significant public exposure or attendance at crowded venues.
+For corporate travel, Australia's major cities (Sydney, Melbourne, Brisbane, Perth, Adelaide) are accessible and professionally managed. Standard precautions are appropriate. Full close protection is warranted for UHNWI principals and high-profile executives, and for any visit involving significant public exposure or attendance at crowded venues.
 
-**The licensing complexity.** Unlike most comparable countries, Australia has no national security licence — each state has its own regulatory framework. An operator licensed in New South Wales may not be authorised to operate in Victoria. For assignments that cross state lines, ensure your provider has appropriate licensing in each state.
+**The licensing complexity.** Unlike most comparable countries, Australia has no national security licence: each state has its own regulatory framework. An operator licensed in New South Wales may not be authorised to operate in Victoria. For assignments that cross state lines, ensure your provider has appropriate licensing in each state.
 
 ## New Zealand
 
@@ -41,7 +41,7 @@ New Zealand's licensing framework is governed by the Private Security Personnel 
 
 - Both countries drive on the left
 - English is the operating language in both (with te reo Māori in New Zealand)
-- Both countries have strict biosecurity controls affecting items that can be brought in — relevant for any security equipment
-- Both have strict firearms laws — commercial CP is unarmed
+- Both countries have strict biosecurity controls affecting items that can be brought in: relevant for any security equipment
+- Both have strict firearms laws: commercial CP is unarmed
 
 *For close protection services in Australia and New Zealand, see our [Sydney](/cities/sydney/), [Melbourne](/cities/melbourne/), and [Auckland](/cities/auckland/) pages.*

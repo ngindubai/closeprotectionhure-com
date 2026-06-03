@@ -26,7 +26,7 @@ faqs:
     answer: "Executive protection, vetted security drivers, and residential security are available in Riyadh through Saudi-licensed security companies. Foreign operators must work through Saudi-licensed partners. Armed protection requires specific government authorisation. See our Riyadh city page for service details."
 ---
 
-Riyadh in 2026 is one of the most consequential business destinations on the planet. Vision 2030 has redirected hundreds of billions of dollars of investment into Saudi Arabia, and the corporate traffic to Riyadh from Europe, the US, and Asia reflects that. NEOM briefings, Diriyah project visits, ARAMCO supplier meetings, sovereign wealth fund engagements — the agenda of a Riyadh business visit has changed fundamentally.
+Riyadh in 2026 is one of the most consequential business destinations on the planet. Vision 2030 has redirected hundreds of billions of dollars of investment into Saudi Arabia, and the corporate traffic to Riyadh from Europe, the US, and Asia reflects that. NEOM briefings, Diriyah project visits, ARAMCO supplier meetings, sovereign wealth fund engagements: the agenda of a Riyadh business visit has changed fundamentally.
 
 So has the security picture, though not in the direction the headlines might suggest.
 
@@ -58,7 +58,7 @@ For executives requiring security support in Riyadh, a standard engagement inclu
 
 **Vetted security driver** for all airport transfers and significant movements. This is less about street crime and more about professional management of a complex urban environment.
 
-**Close protection** for senior principals — unarmed for most corporate profiles, armed through specific authorisation channels for those with elevated threat assessments.
+**Close protection** for senior principals: unarmed for most corporate profiles, armed through specific authorisation channels for those with elevated threat assessments.
 
 **Cultural and legal briefing** for all personnel accompanying the principal, covering dress, behaviour, communications, and what to do if approached by Saudi security services.
 

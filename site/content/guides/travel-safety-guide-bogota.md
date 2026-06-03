@@ -36,7 +36,7 @@ Bogota is the capital of Colombia and the country's financial, governmental, and
 
 ## On the Ground
 
-**Transport.** Use your pre-booked driver throughout. Uber operates in Bogota. Do not hail taxis on the street — false taxi robbery (paseo millonario) is a documented pattern where passengers are taken to ATMs and robbed.
+**Transport.** Use your pre-booked driver throughout. Uber operates in Bogota. Do not hail taxis on the street: false taxi robbery (paseo millonario) is a documented pattern where passengers are taken to ATMs and robbed.
 
 **Beverages.** In social settings outside your hotel, never accept drinks from strangers and do not leave drinks unattended. This is the primary scopolamine exposure route.
 

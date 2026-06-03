@@ -14,12 +14,12 @@ faqs:
   - question: "Do I need different close protection in different South American countries?"
     answer: "Yes, materially so. Brazil and Colombia have well-developed private security industries with licensed armed operators and established threat response. Venezuela requires a fundamentally different approach given the collapse of state security institutions. Chile and Uruguay operate closer to a Western European model. Each country's licensing framework, threat environment, and operational culture are distinct."
   - question: "Is Portuguese-speaking Brazil a problem for security teams?"
-    answer: "Language matters operationally. A protection team without Portuguese capability in Brazil operates at a significant disadvantage — communication with local emergency services, reading threat indicators in local media, and effective advance work all require Portuguese. Quality security providers in Brazil will have native Portuguese-speaking operators. Importing an English-speaking team without local language support creates operational gaps."
+    answer: "Language matters operationally. A protection team without Portuguese capability in Brazil operates at a significant disadvantage: communication with local emergency services, reading threat indicators in local media, and effective advance work all require Portuguese. Quality security providers in Brazil will have native Portuguese-speaking operators. Importing an English-speaking team without local language support creates operational gaps."
   - question: "What is the kidnap situation in South America currently?"
     answer: "Brazil has the region's highest kidnap volume, concentrated in Rio de Janeiro and São Paulo. Colombia maintains elevated risk despite improvements following the FARC peace process; BACRIM criminal groups and the ELN continue operations. Venezuela is effectively ungoverned in many areas and has significant kidnap risk. Chile, Uruguay, and Argentina present lower kidnap risk relative to other regional markets."
 ---
 
-South America's security landscape is one of the most varied of any world region. Countries separated by a few hundred kilometres can present radically different security environments — compare Uruguay's relative stability with Venezuela's near-collapse, or Santiago's manageable corporate security environment with Caracas's extreme risk profile.
+South America's security landscape is one of the most varied of any world region. Countries separated by a few hundred kilometres can present radically different security environments: compare Uruguay's relative stability with Venezuela's near-collapse, or Santiago's manageable corporate security environment with Caracas's extreme risk profile.
 
 This guide provides country-level orientation for security planners working across the region.
 
@@ -27,7 +27,7 @@ This guide provides country-level orientation for security planners working acro
 
 Brazil is the region's largest economy and a significant corporate travel destination. São Paulo's Paulista axis is a major business hub. Rio de Janeiro hosts substantial commercial activity alongside its tourism profile. Brasilia is the government and institutional capital.
 
-The security environment in Brazil's major cities is characterised by high rates of violent crime, significant kidnap risk for high-profile corporate principals, and a well-developed private security industry. Armed close protection is routine for senior executives. Armoured vehicles are standard in São Paulo and Rio. The gap between secure commercial zones and high-crime areas is geographically sharp — urban security management requires local knowledge.
+The security environment in Brazil's major cities is characterised by high rates of violent crime, significant kidnap risk for high-profile corporate principals, and a well-developed private security industry. Armed close protection is routine for senior executives. Armoured vehicles are standard in São Paulo and Rio. The gap between secure commercial zones and high-crime areas is geographically sharp: urban security management requires local knowledge.
 
 Licensing falls under SUSEP and the Ministry of Justice framework. Armed operators require specific weapons certification. Brazilian operators are required for certain security functions under national law.
 
@@ -43,7 +43,7 @@ Chile presents the region's lowest overall risk profile for corporate travel. Sa
 
 ## Argentina
 
-Buenos Aires is an accessible corporate destination. Argentina's chronic economic instability creates fluctuating conditions — periods of economic crisis have historically elevated opportunistic crime. Kidnapping risk exists but is lower than Brazil, Mexico, and Colombia. Standard security measures with pre-booked transfers and situational awareness are the baseline.
+Buenos Aires is an accessible corporate destination. Argentina's chronic economic instability creates fluctuating conditions: periods of economic crisis have historically elevated opportunistic crime. Kidnapping risk exists but is lower than Brazil, Mexico, and Colombia. Standard security measures with pre-booked transfers and situational awareness are the baseline.
 
 ## Peru
 
@@ -55,6 +55,6 @@ Venezuela requires the most serious treatment of any South American market. Cara
 
 ## Bolivia and Ecuador
 
-Both countries present moderate risk profiles for corporate travel. Both have experienced significant political instability — Bolivia's 2019 political crisis and Ecuador's ongoing security challenges related to drug trafficking and cartel activity (which has worsened significantly since 2023) require current threat assessment before travel.
+Both countries present moderate risk profiles for corporate travel. Both have experienced significant political instability: Bolivia's 2019 political crisis and Ecuador's ongoing security challenges related to drug trafficking and cartel activity (which has worsened significantly since 2023) require current threat assessment before travel.
 
 *For close protection services in South America, see our [executive protection](/executive-protection/) and [cities](/cities/) pages.*

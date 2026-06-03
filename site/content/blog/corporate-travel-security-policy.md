@@ -32,7 +32,7 @@ The policy should define clearly who it applies to and what travel it covers:
 - Contractor and consultant travel where the company assumes duty of care
 - Accompanying family members on company-sponsored travel
 
-It should also clarify what it does not cover — personal travel is typically outside scope unless the employer has specific concerns.
+It should also clarify what it does not cover: personal travel is typically outside scope unless the employer has specific concerns.
 
 ## Destination Risk Classification
 
@@ -66,7 +66,7 @@ Senior executives typically require enhanced provisions:
 - Advance work for significant public engagements
 - 24/7 duty officer contact during travel
 
-The policy should define which executive roles trigger enhanced provisions — typically C-suite, board members, and specific high-profile operational roles.
+The policy should define which executive roles trigger enhanced provisions: typically C-suite, board members, and specific high-profile operational roles.
 
 ## Incident Response
 
@@ -88,7 +88,7 @@ The policy should define what travellers are responsible for:
 - Reporting incidents and near-misses
 - Complying with any security support provided
 
-Traveller non-compliance should have defined consequences — this is necessary for the duty of care framework to be credible.
+Traveller non-compliance should have defined consequences: this is necessary for the duty of care framework to be credible.
 
 ## Policy Governance
 

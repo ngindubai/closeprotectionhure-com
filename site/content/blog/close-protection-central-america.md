@@ -19,7 +19,7 @@ faqs:
     answer: "Yes, Panama City is the region's primary corporate hub and one of Latin America's more accessible business destinations. The Canal Zone, banking district, and major business areas are well-secured. Standard corporate security measures are appropriate. Inland Panama and border areas have different risk profiles, but Panama City itself is manageable for professional business travel."
 ---
 
-Central America spans some of the Western Hemisphere's most dangerous environments alongside some of its more accessible corporate destinations. The region's northern triangle — Guatemala, Honduras, El Salvador — has historically been dominated by gang violence, transit drug trafficking, and institutional weakness. The southern corridor — Costa Rica, Panama — offers a substantially different operating environment.
+Central America spans some of the Western Hemisphere's most dangerous environments alongside some of its more accessible corporate destinations. The region's northern triangle (Guatemala, Honduras, El Salvador) has historically been dominated by gang violence, transit drug trafficking, and institutional weakness. The southern corridor (Costa Rica, Panama) offers a substantially different operating environment.
 
 ## Country-Level Overview
 
@@ -42,7 +42,7 @@ Central America spans some of the Western Hemisphere's most dangerous environmen
 For corporate travel across Central America:
 
 - Use licensed local operators with current in-country experience
-- Pre-book all transport — avoid street taxis and informal transport
+- Pre-book all transport: avoid street taxis and informal transport
 - Vary movement patterns and timings
 - Maintain low profile regarding wealth and business purpose
 - Have current contact for the relevant embassy in each country visited

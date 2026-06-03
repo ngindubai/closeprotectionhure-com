@@ -13,7 +13,7 @@ tags:
   - "security-driver"
 faqs:
   - question: "Is the route from MMIA airport to Victoria Island dangerous?"
-    answer: "Yes, by documented evidence. The Oshodi corridor through which the Airport Road passes is one of the higher-crime zones in Lagos, and this route has recorded armed robbery incidents targeting vehicles arriving from the airport. Night arrivals carry significantly higher risk. The risk is not theoretical — FCDO and OSAC both specifically flag transport risks in Lagos, and the airport corridor is a concentration point."
+    answer: "Yes, by documented evidence. The Oshodi corridor through which the Airport Road passes is one of the higher-crime zones in Lagos, and this route has recorded armed robbery incidents targeting vehicles arriving from the airport. Night arrivals carry significantly higher risk. The risk is not theoretical: FCDO and OSAC both specifically flag transport risks in Lagos, and the airport corridor is a concentration point."
   - question: "Can I use a regular taxi from Lagos airport?"
     answer: "Street taxis and unofficial transport at MMIA carry a documented risk of criminal activity. Pirate taxis have been involved in robbery and express kidnapping incidents. The FCDO advises against using unlicensed or unverified transport from Nigerian airports. Use only pre-arranged transport from a known provider, the official airport taxi service (Yellow Taxis from the desk inside the terminal), or Uber/Bolt verified through the app before you enter any vehicle."
   - question: "What does a secure airport transfer from MMIA involve?"
@@ -23,7 +23,7 @@ faqs:
   - question: "Is the Third Mainland Bridge safe for airport transfers?"
     answer: "The Third Mainland Bridge is the primary elevated route connecting the Lagos mainland to Lagos Island and has historically had armed robbery incidents, particularly at approach points where traffic slows. Professional security drivers know the current incident pattern and route accordingly, sometimes preferring the Carter Bridge or Eko Bridge depending on current conditions and time of day."
   - question: "What time of day is MMIA airport transfer highest risk?"
-    answer: "Night arrivals carry the highest risk for all threat categories. Late-night arrivals (22:00 to 04:00) combine reduced police visibility, reduced witnesses, and the physical fatigue of a long flight with a first journey through an unfamiliar high-risk environment. If you have any choice over arrival times, morning arrivals are materially safer. If you must arrive at night, a pre-arranged professional secure transfer is not optional — it is the baseline."
+    answer: "Night arrivals carry the highest risk for all threat categories. Late-night arrivals (22:00 to 04:00) combine reduced police visibility, reduced witnesses, and the physical fatigue of a long flight with a first journey through an unfamiliar high-risk environment. If you have any choice over arrival times, morning arrivals are materially safer. If you must arrive at night, a pre-arranged professional secure transfer is not optional: it is the baseline."
 ---
 
 The journey from Murtala Muhammed International Airport to Victoria Island or Ikoyi is probably 25 kilometres. In most cities that would be 20 minutes of unremarkable motorway. In Lagos it is a security planning problem that experienced corporate travellers take seriously from their first visit.
@@ -44,7 +44,7 @@ The route forces vehicles through areas where criminal actors have historically 
 
 ## What Makes a Secure Transfer Different
 
-The operational difference between a secure transfer and an Uber or airport taxi is not primarily about the vehicle — it is about information, preparation, and what the driver does before, during, and after the journey.
+The operational difference between a secure transfer and an Uber or airport taxi is not primarily about the vehicle: it is about information, preparation, and what the driver does before, during, and after the journey.
 
 **Before you land:** A professional secure transfer involves coordination completed before your aircraft touches down. The driver knows your flight number, your estimated baggage time, and the pre-agreed collection point inside the terminal. The vehicle registration and driver photo have been sent to you in advance. You are not making any decisions at the kerb.
 
@@ -67,7 +67,7 @@ The question is not "is Uber safe" but "is Uber sufficient for this specific jou
 - Book your secure transfer before you board your flight to Lagos, not on landing
 - Confirm the driver's name, vehicle registration, and collection point in advance
 - Do not accept approaches from individuals offering transport in the terminal
-- Keep luggage with you throughout — do not let unknown individuals handle bags
+- Keep luggage with you throughout: do not let unknown individuals handle bags
 - Know the emergency number: 112 in Nigeria
 - Have your hotel's direct number (not just the booking app) confirmed before you land
 

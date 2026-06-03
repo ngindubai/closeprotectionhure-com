@@ -24,15 +24,15 @@ Brazil has one of the world's largest private security industries by headcount, 
 
 **Federal Police licensing.** Private security companies operating in Brazil must be licensed by the Federal Police under Law 7.102/1983. Licensing covers the company and, separately, individual armed security personnel. The Federal Police maintains registers of licensed companies and officers.
 
-**Mandatory categories.** The Brazilian framework defines specific categories of security service — fixed location security, transport of valuables, personal protection (close protection), and private aviation security. Each category has specific licensing requirements.
+**Mandatory categories.** The Brazilian framework defines specific categories of security service: fixed location security, transport of valuables, personal protection (close protection), and private aviation security. Each category has specific licensing requirements.
 
-**Firearms.** Armed security officers must complete Federal Police-approved firearms training and qualify periodically. Firearms are typically standard-issue weapons approved by the Federal Police — personal weapon choices are restricted.
+**Firearms.** Armed security officers must complete Federal Police-approved firearms training and qualify periodically. Firearms are typically standard-issue weapons approved by the Federal Police: personal weapon choices are restricted.
 
 **State Policia Militar.** Similar to Nigeria's MOPOL framework, Brazil's Military Police (PM) units are available for hire by companies for specific security operations. PM escorts are commonly used by major corporations for high-risk vehicle movements in São Paulo and Rio de Janeiro.
 
 ## São Paulo and Rio de Janeiro Operations
 
-Both cities have well-developed private security markets with numerous licensed operators. Quality varies significantly above the licensing minimum — reference checking and due diligence beyond licence verification is essential.
+Both cities have well-developed private security markets with numerous licensed operators. Quality varies significantly above the licensing minimum: reference checking and due diligence beyond licence verification is essential.
 
 For senior corporate principals, armoured vehicle hire with licensed armed operators is standard practice. The armoured vehicle market in São Paulo is mature and competitive.
 
@@ -41,6 +41,6 @@ For senior corporate principals, armoured vehicle hire with licensed armed opera
 - Verify Federal Police licensing for all operators
 - Armed protection is standard and appropriate for senior principals
 - Language capability (Portuguese) is operationally essential for the protection team
-- Local knowledge is critical — São Paulo and Rio geography requires specialist familiarity
+- Local knowledge is critical: São Paulo and Rio geography requires specialist familiarity
 
 *For close protection services in Brazil, see our [São Paulo](/cities/sao-paulo/) city page.*

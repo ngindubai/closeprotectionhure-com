@@ -100,9 +100,21 @@ FAQ_MIN_CITY = 4
 INTERNAL_LINK_MIN = 2
 
 
+# Negation tokens that, when they immediately precede a safety phrase, flip it from
+# a banned guarantee into a legitimate disclaimer (e.g. "does not eliminate risk",
+# "not risk-free"). These must NOT trip the YMYL gate.
+NEGATION_RE = re.compile(
+    r"(?:\bnot\b|\bnever\b|\bcannot\b|\bcan't\b|\bwon't\b|\bno\b|\bwithout\b|"
+    r"\bdoes\s+not\b|\bdo\s+not\b|\bdoesn't\b|\bdon't\b|\bisn't\b|n't)\s*$"
+)
+
+
 def parse_front_matter(text):
     """Extract YAML front matter as a dict (shallow, regex-based; good enough for QA)."""
     fm = {}
+    # Tolerate a leading UTF-8 BOM so a stray byte-order mark before '---' does not
+    # silently blank the front matter (real incident: bangalore/delhi/lima).
+    text = text.lstrip("﻿")
     m = re.match(r"^---\s*\n(.*?)\n---\s*\n", text, re.DOTALL)
     if not m:
         return fm, text
@@ -141,8 +153,13 @@ def check_text_issues(text):
         issues.append(("WARNING", "En dash found (\u2013)."))
 
     for pattern in SAFETY_GUARANTEE_PATTERNS:
-        if re.search(pattern, text_lower):
+        for m in re.finditer(pattern, text_lower):
+            # Skip negated/disclaimer forms ("does not eliminate risk", "not risk-free").
+            preceding = text_lower[max(0, m.start() - 30):m.start()]
+            if NEGATION_RE.search(preceding):
+                continue
             issues.append(("ERROR", f"YMYL safety-guarantee pattern: '{pattern}'"))
+            break
 
     for phrase in BANNED_PHRASES:
         if phrase in text_lower:

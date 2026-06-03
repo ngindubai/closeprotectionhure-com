@@ -43,7 +43,7 @@ emergency_contacts:
 warnings:
   - "Verify CoA credentials of any security operator before engagement. The Ministry of Justice CoA register is publicly accessible."
   - "Auckland traffic congestion is significant, particularly on State Highway 1 corridors and CBD approaches at peak hours. Build travel time buffers into itineraries."
-  - "Auckland International Airport: all transfers should be pre-booked. Allow additional time for immigration — non-NZ/Australian passport holders face longer processing times at AKL."
+  - "Auckland International Airport: all transfers should be pre-booked. Allow additional time for immigration: non-NZ/Australian passport holders face longer processing times at AKL."
 related_cities:
   - name: "Sydney"
     slug: "sydney"
@@ -53,28 +53,28 @@ related_cities:
     slug: "singapore"
 faqs:
   - question: "Is Auckland safe for corporate travel?"
-    answer: "Yes. Auckland is one of the safer corporate travel destinations in the Pacific region. Standard precautions apply — pre-booked transfers, vetted accommodation, awareness of higher-crime areas in South Auckland. Full close protection is not required for most corporate visits but executive transport with security drivers is appropriate for high-profile principals."
+    answer: "Yes. Auckland is one of the safer corporate travel destinations in the Pacific region. Standard precautions apply: pre-booked transfers, vetted accommodation, awareness of higher-crime areas in South Auckland. Full close protection is not required for most corporate visits but executive transport with security drivers is appropriate for high-profile principals."
   - question: "What licence do Auckland security operators need?"
     answer: "A Certificate of Approval (CoA) for the relevant security category, issued by the New Zealand Ministry of Justice under the Private Security Personnel and Private Investigators Act 2010. Close personal protection is a specific CoA category. Verify the CoA number through the Ministry of Justice."
   - question: "Is armed protection available in Auckland?"
     answer: "No for commercial close protection. Following the 2019 Christchurch attacks, New Zealand significantly tightened firearms law. Commercial security in New Zealand is unarmed. Armed response sits with New Zealand Police."
 ---
 
-Auckland is New Zealand's largest city and primary business hub, accounting for roughly a third of the country's GDP. It is operationally straightforward for corporate travel — well-policed, modern infrastructure, English-speaking, and with no current elevated threat profile.
+Auckland is New Zealand's largest city and primary business hub, accounting for roughly a third of the country's GDP. It is operationally straightforward for corporate travel: well-policed, modern infrastructure, English-speaking, and with no current elevated threat profile.
 
 The practical considerations for corporate security in Auckland are primarily logistical rather than threat-driven.
 
 ## Operational Environment
 
-Auckland International Airport is the primary entry point for international visitors. The airport is located in Mangere, approximately 20 kilometres south of the CBD. Transfer time varies significantly with traffic — 25 minutes in light traffic, 60 minutes or more at peak hours. Pre-booked transfers with vetted operators are standard practice. The domestic terminal is co-located, simplifying connections.
+Auckland International Airport is the primary entry point for international visitors. The airport is located in Mangere, approximately 20 kilometres south of the CBD. Transfer time varies significantly with traffic: 25 minutes in light traffic, 60 minutes or more at peak hours. Pre-booked transfers with vetted operators are standard practice. The domestic terminal is co-located, simplifying connections.
 
-Auckland's CBD is compact and walkable in business hours. The waterfront Viaduct Harbour and Wynyard Quarter are the primary hospitality and event zones for corporate functions. North Shore suburbs — Takapuna, Devonport — are accessible via the Harbour Bridge or ferry and offer lower-density accommodation options.
+Auckland's CBD is compact and walkable in business hours. The waterfront Viaduct Harbour and Wynyard Quarter are the primary hospitality and event zones for corporate functions. North Shore suburbs (Takapuna, Devonport) are accessible via the Harbour Bridge or ferry and offer lower-density accommodation options.
 
 South Auckland should be avoided for unescorted travel after dark. This is standard local knowledge rather than a specific threat to corporate travellers.
 
 ## The Licensing Framework
 
-All security personnel in New Zealand must hold a current Certificate of Approval (CoA). Close personal protection is a specific category requiring specialist training and background clearance. The CoA register is publicly accessible through the Ministry of Justice — verify any operator's credentials before engagement.
+All security personnel in New Zealand must hold a current Certificate of Approval (CoA). Close personal protection is a specific category requiring specialist training and background clearance. The CoA register is publicly accessible through the Ministry of Justice: verify any operator's credentials before engagement.
 
 Overseas security teams cannot operate in New Zealand without New Zealand CoA credentials. Visiting principals who rely on a personal security team should arrange compliance well in advance of travel.
 

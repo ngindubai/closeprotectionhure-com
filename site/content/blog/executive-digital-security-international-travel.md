@@ -12,7 +12,7 @@ tags:
   - "cyber-security"
 faqs:
   - question: "Should executives use their regular devices when travelling to China or Russia?"
-    answer: "The professional guidance is to travel with clean devices — devices that contain only what is needed for the trip, without access to full corporate networks or sensitive documents. This limits the exposure if a device is physically compromised (access by customs or hotel staff) or if it is connected to a compromised network. Clean devices should be wiped and rebuilt on return. Most large corporates with significant China or Russia operations have device loan programmes for exactly this purpose."
+    answer: "The professional guidance is to travel with clean devices: devices that contain only what is needed for the trip, without access to full corporate networks or sensitive documents. This limits the exposure if a device is physically compromised (access by customs or hotel staff) or if it is connected to a compromised network. Clean devices should be wiped and rebuilt on return. Most large corporates with significant China or Russia operations have device loan programmes for exactly this purpose."
   - question: "Is hotel WiFi safe for corporate communications?"
     answer: "Hotel WiFi is an untrusted network. Traffic on hotel WiFi can be observed by the hotel, by anyone on the same network, and in high-surveillance jurisdictions, by state intelligence services. For sensitive communications, use a VPN consistently. For highly sensitive communications (M&A, strategy, legal matters), use cellular data rather than WiFi. Never access sensitive systems on hotel WiFi without VPN."
   - question: "What is a border crossing device protocol?"
@@ -23,11 +23,11 @@ International travel creates specific digital security risks that do not apply i
 
 ## Pre-Travel Device Preparation
 
-**Clean device principle.** For travel to high-surveillance jurisdictions (China, Russia, certain Gulf states), travel with a clean device — a device configured specifically for the trip containing only what is needed, without access to full corporate email, sensitive documents, or critical system credentials. The clean device is rebuilt from scratch on return.
+**Clean device principle.** For travel to high-surveillance jurisdictions (China, Russia, certain Gulf states), travel with a clean device: a device configured specifically for the trip containing only what is needed, without access to full corporate email, sensitive documents, or critical system credentials. The clean device is rebuilt from scratch on return.
 
 **Full-disk encryption.** All travel devices should have full-disk encryption enabled. Devices should be fully shut down (not locked or sleeping) at border crossings to ensure encryption is active.
 
-**MFA and strong authentication.** Ensure all accounts require multi-factor authentication. Travel creates heightened risk of credential theft — MFA ensures that a stolen password alone is not sufficient to compromise accounts.
+**MFA and strong authentication.** Ensure all accounts require multi-factor authentication. Travel creates heightened risk of credential theft: MFA ensures that a stolen password alone is not sufficient to compromise accounts.
 
 **VPN installation and testing.** A reliable, enterprise-grade VPN should be installed and tested before travel. Note: VPNs are illegal or technically blocked in some jurisdictions (China has blocked many commercial VPNs). Know the legal and technical status of your VPN in your destination before travel.
 
@@ -49,6 +49,6 @@ International travel creates specific digital security risks that do not apply i
 
 **Account review.** Check for unexpected account access or password change requests that occurred during the travel period.
 
-**Debrief.** Any unusual incidents — requests for device access at borders, unexpected contacts, suspicious IT activity — should be reported to the security function on return.
+**Debrief.** Any unusual incidents (requests for device access at borders, unexpected contacts, suspicious IT activity) should be reported to the security function on return.
 
 *For executive digital security and TSCM services, contact us through our [quote form](#quote-form).*

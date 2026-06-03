@@ -61,7 +61,7 @@ An Uber driver's job is to get from A to B efficiently. That is genuinely useful
 
 ## Nairobi's Terrorism Context
 
-The carjacking risk is the primary vehicle security concern for most business visitors. But it is worth noting that Nairobi's security environment also includes the terrorism threat from Al-Shabaab. The DusitD2 attack in 2019 involved vehicle-borne operatives moving through the city. Security drivers in Nairobi with counter-terrorism awareness are trained to notice surveillance behaviour that is relevant to both criminal and terrorism threat scenarios.
+The carjacking risk is the primary vehicle security concern for most business visitors. But Nairobi's security environment also includes the terrorism threat from Al-Shabaab. The DusitD2 attack in 2019 involved vehicle-borne operatives moving through the city. Security drivers in Nairobi with counter-terrorism awareness are trained to notice surveillance behaviour that is relevant to both criminal and terrorism threat scenarios.
 
 ## When You Do Not Need a Security Driver
 

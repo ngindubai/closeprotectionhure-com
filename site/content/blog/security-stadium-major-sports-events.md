@@ -27,7 +27,7 @@ Effective stadium security operates in concentric layers:
 
 **Outer perimeter.** The boundary of the stadium precinct. Vehicle hostile mitigation barriers (concrete blocks, bollards) prevent vehicle-borne attack. Perimeter fencing controls pedestrian access and channels flow toward controlled entry points.
 
-**Entry control.** Ticket scanning and credential verification. Bag search — typically physical search or X-ray for major events. Walk-through metal detection for higher-risk events. The capacity of entry control determines queue lengths and arrival timing requirements.
+**Entry control.** Ticket scanning and credential verification. Bag search: typically physical search or X-ray for major events. Walk-through metal detection for higher-risk events. The capacity of entry control determines queue lengths and arrival timing requirements.
 
 **Internal zoning.** Separation of supporter groups (home and away) at football and rugby matches. VIP and executive areas with separate access control. Playing surface or competition area access restricted to authorised personnel.
 
@@ -52,6 +52,6 @@ For executive suite occupants and high-profile guests:
 - Dedicated entry with separate credential processing
 - Suite-level access control restricting general concourse access
 - Coordination between venue security and any personal protection details
-- Emergency evacuation route specific to the VIP areas — not the general concourse
+- Emergency evacuation route specific to the VIP areas: not the general concourse
 
 *For security services at sports venues and events, see our [event security](/event-security/) page.*

@@ -14,7 +14,7 @@ faqs:
   - question: "Do government affairs professionals face specific security risks?"
     answer: "Yes, though the risk profile differs from that of corporate executives in the traditional sense. Lobbyists and public affairs professionals face: hostile intelligence operations targeting the commercial clients they represent; activist targeting where they represent controversial sectors; information security risks from the sensitivity of client strategy and government access; and in some jurisdictions, personal risk from operating in politically charged environments."
   - question: "What is the intelligence risk for lobbying firms?"
-    answer: "Lobbying firms hold commercially valuable information about client strategy, political positions, and government intelligence. Foreign state intelligence services target lobbying firms to understand client vulnerabilities, identify leverage points in regulatory processes, and monitor the political positions of companies in sectors of strategic interest. This creates cyber and HUMINT targeting of lobbying operations that firms may not anticipate."
+    answer: "Lobbying firms hold commercially valuable information about client strategy, political positions, and government intelligence. Foreign state intelligence services target lobbying firms to understand client vulnerabilities, identify pressure points in regulatory processes, and monitor the political positions of companies in sectors of strategic interest. This creates cyber and HUMINT targeting of lobbying operations that firms may not anticipate."
   - question: "How should government affairs teams manage security in access-sensitive environments?"
     answer: "Proximity to political principals, government buildings, and classified briefings creates specific security obligations: device management (many government facilities prohibit personal devices in sensitive areas), communication security (conversations about client strategy in uncontrolled environments risk intelligence collection), and vetting of staff with access to sensitive client information and government contacts."
 ---
@@ -27,9 +27,9 @@ Government affairs and lobbying operations occupy an interesting security positi
 
 **Foreign intelligence targeting.** State intelligence services target lobbying operations as a route to understanding the political strategies and vulnerabilities of companies in sectors of strategic interest. This manifests as cyber intrusion, HUMINT targeting of firm employees, and in some cases, attempts to place sources within lobbying firms.
 
-**Activist opposition.** Lobbying firms representing controversial sectors — gambling, fossil fuels, arms manufacturers, tobacco — attract activist attention. Campaigns targeting lobbying firms include public pressure on staff, protests at offices, and social media campaigns against individual lobbyists.
+**Activist opposition.** Lobbying firms representing controversial sectors (gambling, fossil fuels, arms manufacturers, tobacco) attract activist attention. Campaigns targeting lobbying firms include public pressure on staff, protests at offices, and social media campaigns against individual lobbyists.
 
-**Access environment security.** Working in government buildings, attending political events, and operating around political principals requires compliance with government security protocols — device management, visitor registration, and the security obligations of the access environment.
+**Access environment security.** Working in government buildings, attending political events, and operating around political principals requires compliance with government security protocols: device management, visitor registration, and the security obligations of the access environment.
 
 ## Security Measures
 

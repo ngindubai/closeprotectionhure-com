@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bangalore"
 description: "Security services in Bangalore, India. PSARA-licensed operators for the technology and corporate sector, with current knowledge of Karnataka's security environment."
 slug: "bangalore"

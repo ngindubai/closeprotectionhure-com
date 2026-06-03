@@ -57,7 +57,7 @@ It does not confirm **the company's quality**. An individual officer can hold a 
 ## How to Verify: Step by Step
 
 1. Ask the security company for the SIA licence number of the specific officer(s) proposed for your detail. Named officers, not a general assurance that all their staff are licensed.
-2. Go to **services.sia.homeoffice.gov.uk** (the official SIA portal — no other version is authoritative).
+2. Go to **services.sia.homeoffice.gov.uk** (the official SIA portal: no other version is authoritative).
 3. Enter the licence number and the full name as it appears on the licence.
 4. Confirm: licence type shows **Close Protection**, status shows **Active**, and the expiry date is in the future.
 5. If any of these do not match, do not proceed with that operator.
@@ -71,6 +71,6 @@ For a more complete picture of a close protection company's credentials:
 - **SIA ACS status**: check the SIA contractor register at sia.homeoffice.gov.uk/Pages/acs-register.aspx. ACS companies have been audited to a higher standard.
 - **Insurance**: ask for certificates for professional indemnity, public liability, and employers liability. Minimum limits and current policy dates should be visible on the certificates.
 - **BS 7858 vetting**: ask explicitly whether the company applies this standard to all close protection officers. It is the industry benchmark for personnel vetting.
-- **References**: not testimonials on a website — references from security directors or PAs who commissioned comparable engagements in the last 12 months.
+- **References**: not testimonials on a website: references from security directors or PAs who commissioned comparable engagements in the last 12 months.
 
 For more on what to ask when selecting a close protection company, see our detailed vetting guide: [How to vet a close protection company](/blog/how-to-vet-a-close-protection-company/). For close protection services in the UK, our [London city page](/cities/london/) and [executive protection service overview](/services/executive-protection/) provide relevant context.

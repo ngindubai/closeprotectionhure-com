@@ -14,7 +14,7 @@ faqs:
   - question: "Are banking executives more likely to be targeted?"
     answer: "Senior executives at major financial institutions face a different threat profile from general corporate principals. They are more likely to be targeted by organised activist groups, more likely to feature in online threat forums, and more likely to be subject to coordinated harassment campaigns. CEOs and board members of major banks should have current threat assessments that are reviewed annually and updated following significant institutional events."
   - question: "What security measures do financial institutions typically use?"
-    answer: "Institutional security at major banks typically includes access control, visitor management, executive floor protocols, and in some cases residential security assessments for C-suite principals. The gap is usually in personal security during transit and travel — the period when the executive is outside institutional protections."
+    answer: "Institutional security at major banks typically includes access control, visitor management, executive floor protocols, and in some cases residential security assessments for C-suite principals. The gap is usually in personal security during transit and travel: the period when the executive is outside institutional protections."
   - question: "How should banks handle activist protest threats?"
     answer: "Protest activity targeting financial institutions is predictable and manageable with professional planning. The key is advance intelligence on planned actions, route flexibility for executive arrivals and departures, and clear protocols for building access during active demonstrations. Most protest-related security incidents result from poor planning rather than organised violence."
 ---
@@ -31,18 +31,18 @@ Financial services executives face threats across several categories:
 
 **Online threat communities.** The Thompson case highlighted the existence of online communities that celebrate violence against corporate executives. These communities are monitored by law enforcement and security services but generate credible threat signals that require professional assessment.
 
-**Disgruntled clients and counterparties.** Financial decisions — foreclosures, investment losses, denied credit — generate intense personal grievance. Banks and financial institutions receive a disproportionate volume of threat communications relative to other corporate sectors. Most are not credible, but professional assessment is required.
+**Disgruntled clients and counterparties.** Financial decisions (foreclosures, investment losses, denied credit) generate intense personal grievance. Banks and financial institutions receive a disproportionate volume of threat communications relative to other corporate sectors. Most are not credible, but professional assessment is required.
 
 **Kidnap and extortion.** Wealthy, high-profile executives are credible targets for kidnap-for-ransom or virtual kidnap scenarios. Finance sector principals often have public wealth profiles that make them attractive targets in higher-risk jurisdictions.
 
 ## Operational Gaps in Institutional Security
 
-Most major financial institutions have adequate physical security within their buildings. The operational gap is external — the period when the executive moves between protected environments. This includes:
+Most major financial institutions have adequate physical security within their buildings. The operational gap is external: the period when the executive moves between protected environments. This includes:
 
 - Commuting to and from work, including in private vehicles
 - Travel between offices, client meetings, and events
 - International travel where institutional security does not extend
-- Personal time — residential security, social events, family exposure
+- Personal time: residential security, social events, family exposure
 
 Institutional security programmes that do not address the transit gap leave executives exposed during their most vulnerable periods.
 
@@ -54,7 +54,7 @@ Institutional security programmes that do not address the transit gap leave exec
 
 **Secure transport.** Pre-booked secure transport with vetted security drivers for all significant journeys. Route variation as standard practice. Security driver briefed on threat context.
 
-**Travel risk management.** Finance sector principals frequently travel to jurisdictions with elevated kidnap risk — Latin America, parts of Africa, Southeast Asia. All such travel should be supported by current threat assessment and appropriate security configuration.
+**Travel risk management.** Finance sector principals frequently travel to jurisdictions with elevated kidnap risk: Latin America, parts of Africa, Southeast Asia. All such travel should be supported by current threat assessment and appropriate security configuration.
 
 **Event security.** Speaking engagements, industry conferences, and public appearances create predictable exposure. Advance work for major public events is appropriate for senior finance executives in the current environment.
 

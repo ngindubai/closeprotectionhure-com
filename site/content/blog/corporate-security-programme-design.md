@@ -12,14 +12,14 @@ tags:
   - "security-management"
 faqs:
   - question: "Where should a corporate security programme start?"
-    answer: "With threat assessment, not with solutions. The most common failure in corporate security programme design is selecting security measures before understanding what threats they are addressing. A structured threat assessment — covering the organisation's assets, its exposure, and the realistic threat actors relevant to its sector and geography — is the necessary foundation for any programme that will actually work."
+    answer: "With threat assessment, not with solutions. The most common failure in corporate security programme design is selecting security measures before understanding what threats they are addressing. A structured threat assessment (covering the organisation's assets, its exposure, and the realistic threat actors relevant to its sector and geography) is the necessary foundation for any programme that will actually work."
   - question: "How should physical and cyber security be integrated?"
     answer: "The organisational separation between physical and cyber security functions creates operational gaps. Personnel with physical access to data centres, server rooms, and executive offices can bypass most cyber controls. An integrated security architecture requires joint threat assessment, shared incident response protocols, and governance that connects both functions. The Chief Security Officer model (covering both physical and cyber) is increasingly the professional standard for organisations with material security risk."
   - question: "How do you measure whether a security programme is working?"
-    answer: "Incident metrics alone are insufficient — a low incident count may reflect good security or simply low threat activity. Effective measurement combines: near-miss reporting and analysis, security culture assessments (do staff know and follow protocols?), red team or penetration testing results, external benchmark comparison, and audit of programme components against policy. Board-level security reporting should present these multiple indicators rather than a single KPI."
+    answer: "Incident metrics alone are insufficient: a low incident count may reflect good security or simply low threat activity. Effective measurement combines: near-miss reporting and analysis, security culture assessments (do staff know and follow protocols?), red team or penetration testing results, external benchmark comparison, and audit of programme components against policy. Board-level security reporting should present these multiple indicators rather than a single KPI."
 ---
 
-A corporate security programme is the structured system by which an organisation manages physical security risk to its people, assets, operations, and information. The key word is structured — the difference between a security programme and a collection of security measures is whether the components form a coherent system designed to address identified threats.
+A corporate security programme is the structured system by which an organisation manages physical security risk to its people, assets, operations, and information. The key word is structured: the difference between a security programme and a collection of security measures is whether the components form a coherent system designed to address identified threats.
 
 This article provides a practical framework for security directors and risk managers designing or reviewing a corporate security programme.
 
@@ -51,7 +51,7 @@ A structured corporate security programme addresses four layers:
 
 ## Vendor and Contractor Management
 
-Security programmes are only as strong as their weakest supplier. Security vendors — guard forces, technology providers, data processors — require the same security standards as internal functions. This means:
+Security programmes are only as strong as their weakest supplier. Security vendors (guard forces, technology providers, data processors) require the same security standards as internal functions. This means:
 
 - Due diligence on security vendors before engagement
 - Contractual security requirements that mirror internal policy

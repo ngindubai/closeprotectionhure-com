@@ -77,10 +77,10 @@ Conakry is the capital of Guinea and the country's primary port and commercial h
 
 ## The mining sector context
 
-Guinea holds the world's largest bauxite reserves (the raw material for aluminium), significant iron ore deposits centred on the Simandou range in the southeast, and meaningful gold and diamond production. This resource wealth has made Guinea a destination for international mining investment despite consistent political instability. The current activity around Simandou — one of the world's most significant undeveloped iron ore projects — is driving a new wave of international business visits.
+Guinea holds the world's largest bauxite reserves (the raw material for aluminium), significant iron ore deposits centred on the Simandou range in the southeast, and meaningful gold and diamond production. This resource wealth has made Guinea a destination for international mining investment despite consistent political instability. The current activity around Simandou, one of the world's most significant undeveloped iron ore projects, is driving a new wave of international business visits.
 
 ## Military governance and business risk
 
-The 2021 military coup removed a president who had controversially amended the constitution to extend his rule. The new military government has its own approach to the mining sector, renegotiating contracts and asserting state interests. For companies with active operations or projects in Guinea, the relationship with the CNRD military government and its commercial priorities is the central business risk variable — alongside the physical security environment.
+The 2021 military coup removed a president who had controversially amended the constitution to extend his rule. The new military government has its own approach to the mining sector, renegotiating contracts and asserting state interests. For companies with active operations or projects in Guinea, the relationship with the CNRD military government and its commercial priorities is the central business risk variable: alongside the physical security environment.
 
 *Sources: FCDO Guinea travel advice. US State Department Level 3 advisory Guinea. ACLED Guinea conflict data. Mining sector operational reports.*

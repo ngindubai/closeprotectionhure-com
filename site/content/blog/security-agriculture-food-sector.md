@@ -12,14 +12,14 @@ tags:
   - "rural-crime"
 faqs:
   - question: "What are the main security risks facing agricultural operations?"
-    answer: "Agricultural operations face: rural crime (equipment theft is among the most significant financial losses for farming businesses — GPS-guided tractors and specialist equipment can cost hundreds of thousands); animal rights activism targeting intensive livestock, poultry, and research farms; food fraud and supply chain adulteration; and for large agri-business operations, the same corporate security risks as other major companies."
+    answer: "Agricultural operations face: rural crime (equipment theft is among the most significant financial losses for farming businesses: GPS-guided tractors and specialist equipment can cost hundreds of thousands); animal rights activism targeting intensive livestock, poultry, and research farms; food fraud and supply chain adulteration; and for large agri-business operations, the same corporate security risks as other major companies."
   - question: "How serious is activist targeting of farm operations?"
     answer: "Animal rights activists have significantly escalated their targeting of farming operations in recent years. This includes: night-time incursions to film conditions for social media campaigns, release of livestock, physical obstruction of farm vehicles, harassment of farm staff, and in some documented cases, threats against farm owners and staff. For intensive livestock, fur, and laboratory animal operations, activist targeting is a serious physical and operational security concern."
   - question: "How should farms protect against equipment theft?"
     answer: "Agricultural equipment theft requires a multi-layered approach: GPS tracking on all high-value equipment (covert backup trackers in addition to primary systems), key management controls, secure storage for keys and electronic fobs, perimeter security for equipment storage areas, and participation in farm watch schemes for intelligence sharing with neighbouring farms and police. Marking and registration of equipment reduces its value to thieves."
 ---
 
-The agriculture and food sector faces a diverse security challenge that ranges from the very traditional — rural crime and equipment theft — to the contemporary — activist infiltration of farming operations and sophisticated food fraud supply chain attacks.
+The agriculture and food sector faces a diverse security challenge that ranges from the very traditional, rural crime and equipment theft, to the contemporary: activist infiltration of farming operations and sophisticated food fraud supply chain attacks.
 
 ## Rural Crime and Equipment Theft
 
@@ -45,6 +45,6 @@ Animal rights and environmental activism targeting farming operations has escala
 
 ## Food Fraud and Supply Chain Security
 
-Food fraud — adulteration, substitution, and mislabelling — represents a significant economic and food safety risk. Testing and traceability regimes are the primary countermeasures, supported by supply chain due diligence.
+Food fraud (adulteration, substitution, and mislabelling) represents a significant economic and food safety risk. Testing and traceability regimes are the primary countermeasures, supported by supply chain due diligence.
 
 *For security services relevant to agricultural and food sector operations, contact us through our [quote form](#quote-form).*

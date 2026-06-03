@@ -16,7 +16,7 @@ faqs:
   - question: "Do F1 drivers need personal close protection?"
     answer: "The most high-profile F1 drivers maintain close protection arrangements, particularly for public appearances and travel outside the secure paddock environment. Their celebrity profile, fan intensity, and in some cases political associations (drivers have been involved in activism that has generated hostile responses) create genuine security requirements. The FIA and circuit organisers provide perimeter and event security; personal protection for individual drivers is arranged independently."
   - question: "What are the security challenges for rally events?"
-    answer: "Rally events take place on public roads through diverse environments — forests, mountain passes, urban stages — with spectators lining the route without the perimeter control of a circuit. Spectator safety (rather than principal protection) is the primary security management challenge. Crowd management along the route, spectator exclusion zones at high-risk corners, and medical access to remote stages are the main operational concerns."
+    answer: "Rally events take place on public roads through diverse environments (forests, mountain passes, urban stages) with spectators lining the route without the perimeter control of a circuit. Spectator safety (rather than principal protection) is the primary security management challenge. Crowd management along the route, spectator exclusion zones at high-risk corners, and medical access to remote stages are the main operational concerns."
 ---
 
 Major motorsport events combine the characteristics of large public events, UHNWI hospitality, high-profile principal protection, and in some cases challenging international environments into a distinctive security management challenge.
@@ -41,6 +41,6 @@ World Rally Championship and other rally events create different security challe
 
 **Remote stage access.** Medical and emergency response must reach every point on every stage. In remote environments, air medical evacuation capability supplements ground response.
 
-**Service park security.** The service park is the rally equivalent of a paddock — a controlled zone with commercial interests requiring access management.
+**Service park security.** The service park is the rally equivalent of a paddock: a controlled zone with commercial interests requiring access management.
 
 *For event security services at major motorsport events, see our [event security](/event-security/) page.*

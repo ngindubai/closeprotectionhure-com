@@ -26,7 +26,7 @@ Jakarta is Indonesia's capital and the commercial, financial, and governmental c
 
 ## Before You Travel
 
-**Traffic planning is security planning.** Jakarta's traffic is not an inconvenience — it is an operational variable that affects every schedule and contingency plan. Build 2-3x normal journey time buffers for all peak-hour movements.
+**Traffic planning is security planning.** Jakarta's traffic is not an inconvenience: it is an operational variable that affects every schedule and contingency plan. Build 2-3x normal journey time buffers for all peak-hour movements.
 
 **FCDO advisory check.** FCDO rates Indonesia as Level 2 overall with a high terrorism warning.
 

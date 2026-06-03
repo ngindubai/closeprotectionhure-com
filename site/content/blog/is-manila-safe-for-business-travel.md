@@ -28,7 +28,7 @@ faqs:
 
 Manila is the Philippines' capital and commercial centre, the operational hub for the country's significant BPO sector, banking system, and the regional gateway for corporate investment in a growing Southeast Asian economy. It is also a city that rewards advance preparation.
 
-The risk picture for Manila is more nuanced than either blanket reassurance or excessive alarm. The Philippines faces serious security challenges in Mindanao and the Sulu Archipelago that the FCDO designates at the highest advisory level. Metro Manila itself is a different environment, with specific risks concentrated in specific areas and scenarios.
+The risk picture for Manila is more complex than either blanket reassurance or excessive alarm. The Philippines faces serious security challenges in Mindanao and the Sulu Archipelago that the FCDO designates at the highest advisory level. Metro Manila itself is a different environment, with specific risks concentrated in specific areas and scenarios.
 
 ## The Threat Picture for Metro Manila
 

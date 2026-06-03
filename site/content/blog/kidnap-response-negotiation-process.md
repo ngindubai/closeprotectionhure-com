@@ -12,20 +12,20 @@ tags:
   - "negotiation"
 faqs:
   - question: "Should police be contacted immediately when a kidnap is suspected?"
-    answer: "This is one of the first and most consequential decisions in a kidnap crisis. The answer depends on the jurisdiction, the type of kidnap, and whether K&R insurance is in place. K&R response consultants generally recommend controlled information management — too-early or uncoordinated police notification can compromise negotiations. In some jurisdictions, notification of police is legally required. The K&R response consultant or crisis management team should guide this decision as their first priority."
+    answer: "This is one of the first and most consequential decisions in a kidnap crisis. The answer depends on the jurisdiction, the type of kidnap, and whether K&R insurance is in place. K&R response consultants generally recommend controlled information management: too-early or uncoordinated police notification can compromise negotiations. In some jurisdictions, notification of police is legally required. The K&R response consultant or crisis management team should guide this decision as their first priority."
   - question: "How long do kidnap negotiations typically take?"
-    answer: "Duration varies enormously depending on the type of kidnap, the jurisdiction, the financial demands, and the sophistication of the kidnappers. Express kidnaps typically resolve within hours (by design). Kidnap-for-ransom cases can run from days to months. The longest kidnap cases — particularly those involving Islamist groups in the Sahel — have lasted years. Professional crisis management teams use time as a negotiating tool, not just a constraint."
+    answer: "Duration varies enormously depending on the type of kidnap, the jurisdiction, the financial demands, and the sophistication of the kidnappers. Express kidnaps typically resolve within hours (by design). Kidnap-for-ransom cases can run from days to months. The longest kidnap cases, particularly those involving Islamist groups in the Sahel, have lasted years. Professional crisis management teams use time as a negotiating tool, not just a constraint."
   - question: "What should family members do in the first hours after a kidnap?"
-    answer: "The priority for family members is to avoid making decisions without professional guidance. Refrain from communicating with the kidnappers without the crisis management team's advice on what to say. Do not publicise the kidnap — media attention can complicate negotiations. Activate the K&R insurance response immediately if in place. Contact the relevant embassy. Document everything — calls, messages, any contact from the kidnappers. Do not pay anything without consulting the crisis management team."
+    answer: "The priority for family members is to avoid making decisions without professional guidance. Refrain from communicating with the kidnappers without the crisis management team's advice on what to say. Do not publicise the kidnap: media attention can complicate negotiations. Activate the K&R insurance response immediately if in place. Contact the relevant embassy. Document everything: calls, messages, any contact from the kidnappers. Do not pay anything without consulting the crisis management team."
 ---
 
-Understanding how kidnap response actually works is important for anyone developing security programmes that include K&R insurance or operating in elevated-risk kidnap environments. The popular media portrayal — dramatic hostage exchanges, gunfight resolutions — is not how most kidnap cases are resolved. Professional crisis management involves a methodical, negotiated process that prioritises the safe return of the victim.
+Understanding how kidnap response actually works is important for anyone developing security programmes that include K&R insurance or operating in elevated-risk kidnap environments. The popular media portrayal (dramatic hostage exchanges, gunfight resolutions) is not how most kidnap cases are resolved. Professional crisis management involves a methodical, negotiated process that prioritises the safe return of the victim.
 
 ## The First Hours
 
 The immediate period after an abduction is confirmed is the most critical for establishing the framework that will govern the response:
 
-**Crisis management team activation.** If K&R insurance is in place, the insurer's response consultant is activated immediately. This is the professional negotiator who will manage the response. If no insurance is in place, the organisation needs to identify and engage specialist support immediately — not in the middle of the crisis.
+**Crisis management team activation.** If K&R insurance is in place, the insurer's response consultant is activated immediately. This is the professional negotiator who will manage the response. If no insurance is in place, the organisation needs to identify and engage specialist support immediately: not in the middle of the crisis.
 
 **Information containment.** Who knows about the abduction must be carefully managed. Uncontrolled disclosure risks: tip-offs that compromise negotiation, media attention that complicates the process, or information reaching people who might take unilateral action.
 
@@ -51,7 +51,7 @@ Professional kidnap negotiation follows a structured approach:
 
 Following safe return, the victim requires comprehensive post-incident support:
 
-- Medical evaluation — physical and psychological assessment
+- Medical evaluation: physical and psychological assessment
 - Psychological support and trauma processing
 - Legal and insurance claim process
 - Security review to address the vulnerability that led to the abduction

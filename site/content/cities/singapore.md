@@ -69,7 +69,7 @@ faqs:
   - question: "What laws must visiting executives be aware of?"
     answer: "Key areas: drug laws (mandatory death penalty for trafficking above threshold quantities), alcohol in public spaces (restricted hours and designated areas), chewing gum import restrictions, and severe penalties for offences including vandalism and littering. This is not an exhaustive list. A pre-arrival legal briefing for new visitors is advisable."
   - question: "Is the terrorism threat in Singapore real?"
-    answer: "The threat is real but well-managed. Singapore's Internal Security Department has disrupted multiple plots and maintains robust intelligence operations. The practical likelihood of encountering a terrorist incident on a business visit is very low. Standard vigilance in crowded transport hubs and commercial areas is the appropriate response."
+    answer: "The threat is real but well-managed. Singapore's Internal Security Department has disrupted multiple plots and maintains strong intelligence operations. The practical likelihood of encountering a terrorist incident on a business visit is very low. Standard vigilance in crowded transport hubs and commercial areas is the appropriate response."
   - question: "How do I arrange close protection for a Singapore visit?"
     answer: "Contact us with your visit dates, principal profile, and specific requirements. All enquiries are handled confidentially. We will confirm operator licensing, provide an assessment, and arrange services with appropriate lead time."
 ---

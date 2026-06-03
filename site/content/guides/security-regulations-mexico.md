@@ -15,7 +15,7 @@ faqs:
   - question: "Is armed private security legal in Mexico?"
     answer: "Armed private security is legal in Mexico but heavily regulated. Private security personnel may carry firearms under specific conditions: the company must be federally registered, the specific firearms must be registered with SEDENA (the defence ministry), and personnel must meet training requirements. The firearms available to private security are limited to calibres below military specifications. In practice, armed protection is commonly used for senior executives given Mexico's security environment."
   - question: "What should foreign companies know about using security services in Mexico?"
-    answer: "Foreign companies must use properly licensed Mexican security operators. The federal registration (RNSP) is the primary credential to verify. Additionally, check state-level licensing for any state-specific operations. The cartel landscape in some states affects which operators can safely work in those areas — local knowledge and relationships matter significantly beyond just regulatory compliance."
+    answer: "Foreign companies must use properly licensed Mexican security operators. The federal registration (RNSP) is the primary credential to verify. Additionally, check state-level licensing for any state-specific operations. The cartel landscape in some states affects which operators can safely work in those areas: local knowledge and relationships matter significantly beyond just regulatory compliance."
 ---
 
 Mexico's security regulations reflect the country's challenging security environment. The private security industry is substantial and subject to a dual federal/state licensing system that creates significant complexity for operators and clients.
@@ -34,7 +34,7 @@ Mexico's security regulations reflect the country's challenging security environ
 
 Mexico City (CDMX) has a more developed and better-regulated private security market than many regional markets. The largest professional firms with federal registration operate across the country.
 
-In states with significant cartel presence — Sinaloa, Tamaulipas, Guerrero, Michoacan, and others — the practical operating environment is shaped by the cartel landscape as much as formal regulation. Operators in these areas require specific local assessment beyond their regulatory credentials.
+In states with significant cartel presence (Sinaloa, Tamaulipas, Guerrero, Michoacan, and others) the practical operating environment is shaped by the cartel landscape as much as formal regulation. Operators in these areas require specific local assessment beyond their regulatory credentials.
 
 ## Practical Considerations for Foreign Executives
 

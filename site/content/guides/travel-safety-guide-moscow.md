@@ -32,7 +32,7 @@ The risks facing Western business travellers in Moscow are categorically differe
 
 **Arbitrary detention.** Russia has detained foreign nationals on charges with no equivalent in Western legal systems. The risk is higher for nationals of countries involved in sanctions, for journalists, for individuals with any government or security-adjacent role, and for those with public profiles on Russia-related issues.
 
-**Exit restrictions.** Russian authorities can impose exit bans on individuals under investigation or as leverage in commercial or diplomatic disputes. There is no reliable mechanism to challenge an exit ban from outside Russia.
+**Exit restrictions.** Russian authorities can impose exit bans on individuals under investigation or as a bargaining chip in commercial or diplomatic disputes. There is no reliable mechanism to challenge an exit ban from outside Russia.
 
 **Asset exposure.** Companies and individuals with Russian assets or operations face expropriation risk under current conditions.
 

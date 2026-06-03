@@ -14,7 +14,7 @@ components:
   - title: "VIP Close Protection"
     description: "Dedicated close protection for keynote speakers, C-suite executives, and high-profile guests. SIRA-licensed operators with experience of Dubai's corporate events circuit, including Dubai Airshow, GITEX, and private investment forums."
   - title: "Access Control"
-    description: "Credentialed entry management with guest verification, ID checking, and vehicle screening. Dubai events attract international visitors and third-party vendors; robust access control is the first line of threat management."
+    description: "Credentialed entry management with guest verification, ID checking, and vehicle screening. Dubai events attract international visitors and third-party vendors; strict access control is the first line of threat management."
   - title: "Secure Transport Coordination"
     description: "Coordinated arrivals and departures for VIP attendees with SIRA-licensed security drivers. Applies to hotel-to-venue transfers, airport runs, and multi-venue itineraries."
   - title: "Emergency Response Plan"
@@ -23,7 +23,7 @@ components:
     description: "Dubai's surveillance infrastructure means sensitive business discussions at events require disciplined communications hygiene. Our team provides advisory on communications security for high-sensitivity corporate events."
 faqs:
   - question: "Is Dubai a high risk location for corporate events?"
-    answer: "Physical security risk in Dubai is low by global standards. The risks at Dubai events are more nuanced: communications monitoring, reputational exposure for high-profile attendees, legal compliance for international guests, and the operational complexity of managing large-scale MICE events in a city with strict regulatory requirements. Our event security in Dubai focuses on these specific risk categories."
+    answer: "Physical security risk in Dubai is low by global standards. The risks at Dubai events are more subtle: communications monitoring, reputational exposure for high-profile attendees, legal compliance for international guests, and the operational complexity of managing large-scale MICE events in a city with strict regulatory requirements. Our event security in Dubai focuses on these specific risk categories."
   - question: "Do event security officers in Dubai need specific licensing?"
     answer: "Yes. All security personnel in Dubai require Security Industry Regulatory Agency (SIRA) certification. Working with unlicensed operators creates legal exposure for the event organiser. All operators we work with hold current SIRA registration."
   - question: "Can you provide security for GITEX or Dubai Airshow scale events?"

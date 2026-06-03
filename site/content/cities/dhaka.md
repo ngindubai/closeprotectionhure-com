@@ -77,6 +77,6 @@ The infrastructure risk, though not a security threat in the conventional sense,
 
 ## Operating in Dhaka
 
-The development sector's large presence means there is a well-established ecosystem of local security providers, international NGO security coordinators, and shared threat intelligence. Corporate visitors can leverage this infrastructure through professional security advisers with Bangladesh experience.
+The development sector's large presence means there is a well-established ecosystem of local security providers, international NGO security coordinators, and shared threat intelligence. Corporate visitors can draw on this infrastructure through professional security advisers with Bangladesh experience.
 
 For shorter business visits, the practical focus is accommodation in the Gulshan zone, vetted transport for all movements, and awareness of the current political calendar.

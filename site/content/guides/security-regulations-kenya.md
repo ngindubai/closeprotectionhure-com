@@ -34,10 +34,10 @@ Kenya's private security industry is one of East Africa's largest and most estab
 
 Nairobi has a well-developed private security market with numerous PSRA-licensed operators. The major operators serving corporate clients have invested in professional development and international standard training.
 
-The specific terrorism dimension in Nairobi — the 2013 Westgate attack and 2019 DusitD2 attack both involved al-Shabaab-linked operatives attacking commercial premises — means that advance venue assessment for corporate events should specifically consider blast and attack vulnerability.
+The specific terrorism dimension in Nairobi, the 2013 Westgate attack and 2019 DusitD2 attack both involved al-Shabaab-linked operatives attacking commercial premises, means that advance venue assessment for corporate events should specifically consider blast and attack vulnerability.
 
 ## Regional Operations
 
-For operations outside Nairobi — Mombasa, Kisumu, and rural operations particularly in counties bordering Somalia — verify PSRA licensing specifically and obtain current threat assessment. The security environment in northern and coastal Kenya is affected by Al-Shabaab spillover to a greater extent than Nairobi.
+For operations outside Nairobi (Mombasa, Kisumu, and rural operations particularly in counties bordering Somalia) verify PSRA licensing specifically and obtain current threat assessment. The security environment in northern and coastal Kenya is affected by Al-Shabaab spillover to a greater extent than Nairobi.
 
 *For close protection services in Kenya, see our [Nairobi](/cities/nairobi/) city page.*

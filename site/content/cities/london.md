@@ -85,7 +85,7 @@ London is the largest close protection market in Europe. The regulatory framewor
 
 The UK terrorism threat has been at SEVERE (highly likely) for extended periods since the 2017 wave of attacks. MI5 maintains that the threat comes primarily from Islamist extremists and, to a lesser extent, extreme right-wing groups and Northern Ireland-related dissident activity. The 2017 attacks, which included five separate incidents in under a year, demonstrated the capital's vulnerability to low-tech attacks at high-footfall locations.
 
-The day-to-day crime environment is more nuanced than the terrorism picture. Central London, including the City, Mayfair, Belgravia, and Canary Wharf, is a low-crime environment by any global comparison. Violent crime concentrates in specific outer-borough postcodes and is largely gang-related. The knife crime statistics that dominate the news reflect a social problem that rarely intersects with corporate travel itineraries when planned correctly.
+The day-to-day crime environment is more complex than the terrorism picture. Central London, including the City, Mayfair, Belgravia, and Canary Wharf, is a low-crime environment by any global comparison. Violent crime concentrates in specific outer-borough postcodes and is largely gang-related. The knife crime statistics that dominate the news reflect a social problem that rarely intersects with corporate travel itineraries when planned correctly.
 
 ## What London close protection actually involves
 

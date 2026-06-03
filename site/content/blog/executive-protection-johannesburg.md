@@ -19,14 +19,14 @@ faqs:
   - question: "Are close protection officers in Johannesburg armed?"
     answer: "Armed close protection is available in Johannesburg and is standard practice for higher-risk principals. Armed officers must hold a PSIRA Grade A registration, a valid SAPS Competency Certificate for the specific firearm they carry, and the employing company must hold an SAPS Business Licence. Always ask for specific documentation confirming the firearms authorisation chain, not just a general assurance that officers are armed."
   - question: "What is the difference between a security driver and a close protection officer in Johannesburg?"
-    answer: "A security driver's primary function is secure vehicle movement — route management, protective driving, threat recognition on the road. A close protection officer (CPO) provides personal protective security at venues, during meetings, and when the principal is on foot or in exposed situations. In Johannesburg, both functions are typically deployed together for senior principals: the driver handles vehicle movement, the CPO handles venue and foot security."
+    answer: "A security driver's primary function is secure vehicle movement: route management, protective driving, threat recognition on the road. A close protection officer (CPO) provides personal protective security at venues, during meetings, and when the principal is on foot or in exposed situations. In Johannesburg, both functions are typically deployed together for senior principals: the driver handles vehicle movement, the CPO handles venue and foot security."
   - question: "How does the OR Tambo to Sandton route factor into a Johannesburg EP engagement?"
     answer: "The N3 corridor from OR Tambo International Airport to Sandton is one of the most carjacking-exposed routes in South Africa, as documented in SAPS crime statistics. Any professional Johannesburg EP engagement starts with pre-planned airport arrival protocol: inside-terminal collection, pre-identified vehicle and driver, pre-planned route with alternatives. This is a non-negotiable baseline for responsible operations in Johannesburg, not an optional premium."
   - question: "Can a UK or US close protection team operate in Johannesburg?"
     answer: "Foreign close protection personnel can accompany principals in South Africa but armed activities must be conducted by PSIRA-registered South African operators. Foreign CPOs operating in an unarmed capacity through a PSIRA-registered company can function legally. The most effective model for international clients is a hybrid: international security manager coordinating with a vetted South African ground team that holds all required PSIRA and SAPS authorisations."
 ---
 
-Johannesburg's private security industry is one of the largest and most developed in Africa. By some estimates, the ratio of private security personnel to police in South Africa is over four to one — a function of decades of elevated crime requiring the private sector to fill gaps the state cannot. For the corporate traveller, this means a market with genuine professional operators and with operators who trade on the appearance of professionalism without the underlying capability.
+Johannesburg's private security industry is one of the largest and most developed in Africa. By some estimates, the ratio of private security personnel to police in South Africa is over four to one: a function of decades of elevated crime requiring the private sector to fill gaps the state cannot. For the corporate traveller, this means a market with genuine professional operators and with operators who trade on the appearance of professionalism without the underlying capability.
 
 Knowing what a proper Johannesburg close protection engagement looks like is the starting point for selecting the right provider.
 
@@ -44,9 +44,9 @@ A serious close protection engagement in Johannesburg has recognisable component
 
 **Airport arrival protocol.** OR Tambo arrivals are a concentration point for carjacking targeting. A professional team coordinates inside-terminal collection, confirms vehicle and driver identity to the principal before approach, and has the route to Sandton pre-planned with alternatives. This is the standard, not a premium addition.
 
-**Vehicle selection and configuration.** The vehicle should be locally inconspicuous — not a branded luxury transfer that broadcasts value. Tinted windows, locally registered plates, no identifying branding. The driver and CPO should be in direct communication throughout.
+**Vehicle selection and configuration.** The vehicle should be locally inconspicuous: not a branded luxury transfer that broadcasts value. Tinted windows, locally registered plates, no identifying branding. The driver and CPO should be in direct communication throughout.
 
-**Route intelligence.** A Johannesburg security driver knows which N3 ramps have documented incident history, which times of day carry the highest carjacking risk, and when to deviate from the GPS route. This knowledge is not generic — it comes from operating in the city consistently.
+**Route intelligence.** A Johannesburg security driver knows which N3 ramps have documented incident history, which times of day carry the highest carjacking risk, and when to deviate from the GPS route. This knowledge is not generic: it comes from operating in the city consistently.
 
 **Venue protocols.** Before each meeting, a competent CPO will have assessed the venue: access points, emergency exits, vehicle access to the entrance, proximity to medical facilities. This takes 20 minutes and materially improves the quality of the security plan.
 

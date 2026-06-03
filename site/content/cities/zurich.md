@@ -33,7 +33,7 @@ zones:
     - "Zurichberg: Elevated residential area with villas, established HNWI security infrastructure"
     - "Paradeplatz banking district: Financial heart of the city, active security presence"
   elevated:
-    - "Langstrasse (4th and 5th districts): More vibrant but elevated petty crime at night, demonstration gathering point"
+    - "Langstrasse (4th and 5th districts): More lively but elevated petty crime at night, demonstration gathering point"
 faqs:
   - question: "How does close protection in Zurich differ from London or New York?"
     answer: "Zurich's operational environment requires maximum discretion. The city's culture values privacy and understatement, and visible security can attract unwanted attention in a way that counterproductive. The best Zurich operators work in a manner that is invisible to casual observation while remaining fully effective. This requires Swiss operational norms rather than the more visible style common in some other markets."
