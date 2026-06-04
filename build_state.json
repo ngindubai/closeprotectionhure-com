@@ -33,12 +33,12 @@
     "1_combinatorial_generators": "DONE",
     "2_structured_data_layer": "DONE",
     "3_bulk_blog_factory": "IN PROGRESS - 108 articles live",
-    "4_internal_link_graph": "IN PROGRESS - Stage 2J country-hub block done 2026-06-04 (all 38 country pages prose-linked to cities + service silos; total links 281->395, avg 0.92->1.30). Remaining: blog/event-security/risk-assessment prose-link pass. NOTE: link/QA scripts count only prose body links, not template-rendered front-matter city/service links.",
-    "5_qa_seo_quality_gate": "SCRIPTS DONE - Stage 2L error pass complete 2026-06-03 (0 errors, holding). Thin-city FAQ-floor expansion done 2026-06-04; warnings 651->463. Remaining WARNINGS: 4-FAQ cities, prose-link floors, description length",
+    "4_internal_link_graph": "DONE (floor) - 2026-06-04: every audited page now carries >=2 descriptive-anchor prose links. Country hubs, event-security, risk-assessments, guides, services, all cities and 54 thematic blog articles prose-linked. 161 link-floor warnings cleared. NOTE: link/QA scripts count only prose body links, not template-rendered front-matter city/service links. Backlink strategy + top-inbound rebalancing remain as future refinement.",
+    "5_qa_seo_quality_gate": "GREEN - 2026-06-04: qa_audit.py reports 0 errors AND 0 warnings across 304 audited pages. Stage 2L error pass (03 Jun) plus full warning remediation (04 Jun): all internal-link floors, FAQ floors (city + 67 blog articles), title-length and description-length warnings cleared. check_titles still flags 2 duplicate titles (uk/united-kingdom, usa/united-states country pages) for later canonical resolution.",
     "6_incremental_deploy_pipeline": "DONE",
     "7_operating_system": "DONE"
   },
   "cannibalisation_rule": "Do not blog on topics already covered by Phase 3C service x city deep pages. The deep pages ARE the definitive content for bodyguard-hire/{city}, security-drivers/{city}, executive-protection/{city}, residential-security/{city}. Blog articles on these topics should cover angles the deep pages do not: cost breakdowns, regulatory explainers, comparison pieces, question-led safety guides.",
   "thin_city_expansion": {"status": "DONE", "date": "2026-06-04", "note": "All cities that were at 3 FAQs expanded to full depth (5 FAQs, 4+ body sections, 2+ prose links) across batches 2-10. Cleared FAQ-floor warnings for those cities."},
-  "next_stage": "Continue Stage 2J: prose-link pass over blog (many 0-1 link articles), event-security (18) and risk-assessment (18) silos. Optionally lift cities sitting at exactly 4 FAQs to 5. Then duplicate-country-page resolution (uk/united-kingdom, usa/united-states share titles)."
+  "next_stage": "QA gate fully green (0 errors, 0 warnings). Next candidates: (1) resolve the 2 duplicate country pages (uk/united-kingdom, usa/united-states) via canonical or redirect; (2) Stage 2J refinement - top-inbound link rebalancing and a backlink strategy doc; (3) blog factory continuation through the keyword matrix; (4) revisit the keep-or-redeploy decision per the replication study."
 }

@@ -62,13 +62,14 @@
 ### Stage 2J -- Internal Link Graph
 - [x] Run `scripts/rebuild_link_graph.py` diagnostic
 - [x] **Country-hub block done 04 Jun 2026:** all 38 country pages given descriptive-anchor prose links down to their city pages and across to the executive-protection and security-drivers service silos. Total internal links 281 to 395; avg per page 0.92 to 1.30; 38 country link-floor warnings cleared. (Note: the link/QA scripts count only prose body links, not the city/service links templates render from front matter, so on-page hubs were never true orphans.)
-- [ ] Remaining: prose-link pass over blog (many 0-1 link articles), event-security (18) and risk-assessment (18) silos; top-inbound rebalancing
+- [x] **Floor complete 04 Jun 2026:** prose-link pass extended across event-security, risk-assessments, guides, services, all remaining cities, and 54 thematic blog articles. All 161 internal-link-floor warnings cleared; every audited page now carries >=2 prose links.
+- [ ] Remaining (refinement): top-inbound link rebalancing and a backlink strategy document
 
 ### Stage 2L -- QA + Full Site Audit
 - [x] **Error pass complete 03 Jun 2026:** `scripts/qa_audit.py` now PASSES with 0 errors (was 142). Fixed: 469 em dashes converted to colons/commas/parentheses across ~100 files (mostly blog); 37 banned-vocabulary occurrences reworded (leverage, robust, facilitate, nuanced, encompasses, vibrant, ubiquitous, proactive, paradigm); 1 banned phrase ("it is worth noting"); BOM stripped from bangalore/delhi/lima (front matter was unreadable). Auditor hardened: YMYL patterns now skip negated disclaimers ("does not eliminate risk", "not risk-free") and the front-matter parser tolerates a BOM.
 - [x] **Thin-city depth expansion done 04 Jun 2026:** all city pages that sat at 3 FAQs brought to full depth (5 FAQs, 4+ body sections, 2+ prose links) across batches 2-10, clearing their FAQ-floor warnings.
-- [ ] **WARNINGS remain (463, was 651):** cities at exactly 4 FAQs, prose-link floors on blog/event-security/risk-assessment pages, description length. Not error-blocking; next blocks.
-- [ ] Title cannibalisation follow-up: `countries/uk.md` + `countries/united-kingdom.md` and `countries/usa.md` + `countries/united-states.md` are duplicate country pages sharing titles - resolve (canonical/redirect) in a later stage.
+- [x] **ALL WARNINGS CLEARED 04 Jun 2026 (was 651):** internal-link floors (161), blog FAQ floor (67 articles, 134 authored FAQs), city FAQ floor (caracas/kabul/kathmandu), title-length (53 seo_titles), and description-length (187 trimmed/rewritten). `qa_audit.py` now reports **0 errors, 0 warnings** across 304 pages.
+- [ ] Title cannibalisation follow-up: `countries/uk.md` + `countries/united-kingdom.md` and `countries/usa.md` + `countries/united-states.md` are duplicate country pages sharing titles - resolve (canonical/redirect) in a later stage. (`check_titles.py` still flags these 2.)
 
 ### Phase 3G -- P3 City Expansion Batch 6
 - [ ] Candidates: Naypyidaw, Bamako, Niamey, Mogadishu (conflict-zone advisory), Tripoli
@@ -95,4 +96,7 @@
 | 03 Jun 2026 | 2L | 0 | QA error pass: 142 errors to 0 (em dashes, banned words, BOM fixes, auditor hardening) |
 | 04 Jun 2026 | Thin-city expansion | 0 | Batches 2-10: ~45 city pages at 3 FAQs expanded to full depth (5 FAQs, 4+ sections, 2+ prose links). Warnings 651 to 463 |
 | 04 Jun 2026 | 2J (country-hub block) | 0 | All 38 country pages prose-linked to their cities + service silos. Internal links 281 to 395; avg 0.92 to 1.30 |
+| 04 Jun 2026 | 2J (link floor complete) | 0 | Prose links added to event-security, risk-assessments, guides, services, 46 cities, 54 blog articles. All 161 link-floor warnings cleared |
+| 04 Jun 2026 | Title/description fixes | 0 | 53 seo_titles shortened to <=70; 187 descriptions trimmed/rewritten to 120-175 |
+| 04 Jun 2026 | FAQ floors | 0 | 3 cities + 67 blog articles brought to >=5 FAQs (134 authored blog FAQs). QA gate now 0 errors, 0 warnings |
 | 03 Jun 2026 | 2L | 0 | QA error pass: 142 errors to 0. Em dashes (469), banned words (37), banned phrase (1), BOM fixes (3). Auditor hardened (YMYL negation guard, BOM-tolerant parser). Reconciled stale counts in build_state.json (cities 70->93, blog 39->108, pages 261->350). |
