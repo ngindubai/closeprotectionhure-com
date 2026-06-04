@@ -39,3 +39,4 @@ The Bangkok traffic environment is significant from a security planning perspect
 Thailand's southern border provinces (Yala, Pattani, Narathiwat, parts of Songkhla) operate under martial law conditions due to the ongoing separatist insurgency. Operations in this region require a fundamentally different security approach and cannot be served by Bangkok-oriented operators without specific southern Thailand experience.
 
 *For close protection services in Thailand, see our [Bangkok](/cities/bangkok/) city page.*
+For the country overview see our [Thailand security services page](/countries/thailand/), and our [bodyguard hire service](/services/bodyguard-hire/) for deployment detail.

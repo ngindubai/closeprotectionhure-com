@@ -52,3 +52,4 @@ Jakarta is Indonesia's capital and the commercial, financial, and governmental c
 - US Embassy Jakarta: +62 21 5083 1000
 
 *For vetted close protection and security drivers in Jakarta, see our [Jakarta security services page](/cities/jakarta/).*
+See our [Jakarta city security briefing](/cities/jakarta/) and [Jakarta risk assessment](/risk-assessments/jakarta/) for the operational detail behind this guide.

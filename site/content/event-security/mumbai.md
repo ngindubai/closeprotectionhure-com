@@ -45,3 +45,4 @@ Mumbai's major corporate event venues are predominantly five-star hotel conventi
 For events with specifically identified high-risk principals (government officials, executives with personal threat histories, HNWI clients from conflict-proximate regions), we provide dedicated close protection that operates alongside venue security.
 
 Transport in Mumbai is a specific planning challenge. Traffic density is extreme. Route planning, departure time management, and communication between security drivers and venue security are essential elements of the transport plan.
+For the wider security picture, see our [Mumbai city security briefing](/cities/mumbai/), and our [event security service](/services/event-security/) for how we structure protective coverage.

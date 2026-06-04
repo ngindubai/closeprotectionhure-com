@@ -54,3 +54,4 @@ Bogota is the capital of Colombia and the country's financial, governmental, and
 - US Embassy Bogota: +57 1 275 2000
 
 *For vetted close protection and security drivers in Bogota, see our [Bogota security services page](/cities/bogota/).*
+See our [Bogota city security briefing](/cities/bogota/) and [Bogota risk assessment](/risk-assessments/bogota/) for the operational detail behind this guide.

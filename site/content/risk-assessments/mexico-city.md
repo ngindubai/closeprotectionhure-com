@@ -51,3 +51,4 @@ This eliminates the most documented serious crime vector targeting foreign visit
 Mexico's security investments ahead of FIFA World Cup 2026 have increased visible security in key venues and tourist districts. This elevated security posture creates some additional protection for corporate visitors in the primary business and hotel zones. It also means that during World Cup periods, crowds and event traffic create new logistical challenges for ground movement.
 
 A risk assessment prepared for travel during or near the World Cup period will incorporate event-specific planning.
+A risk assessment is the first step. See our [Mexico City city security briefing](/cities/mexico-city/) for the operating picture, and our [executive protection service](/services/executive-protection/) for deployment options.

@@ -51,3 +51,4 @@ A vetted security driver managing all ground transport eliminates both the road 
 ## Political assessment
 
 Thailand's political stability is difficult to predict, which is itself an important planning factor. Military intervention in politics has occurred multiple times. The lese-majeste laws create strict constraints on speech. A visit that coincides with political tensions requires awareness of demonstration locations and the capacity for sudden movement restriction.
+A risk assessment is the first step. See our [Bangkok city security briefing](/cities/bangkok/) for the operating picture, and our [executive protection service](/services/executive-protection/) for deployment options.

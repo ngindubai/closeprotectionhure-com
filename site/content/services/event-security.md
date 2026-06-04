@@ -42,3 +42,4 @@ We begin with a detailed venue assessment, conducted in person by a security pro
 Based on the assessment, we produce a security plan that covers credentialed access control, VIP close protection, transport coordination, emergency response protocols, and communication procedures. The plan is reviewed with your event team before deployment.
 
 On the event day, our team manages security operations while maintaining a professional, discreet presence. Your guests should feel secure, not surveilled.
+See our [executive protection service](/services/executive-protection/) and [security drivers service](/services/security-drivers/) for related coverage.

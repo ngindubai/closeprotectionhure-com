@@ -44,3 +44,4 @@ For senior corporate principals, armoured vehicle hire with licensed armed opera
 - Local knowledge is critical: São Paulo and Rio geography requires specialist familiarity
 
 *For close protection services in Brazil, see our [São Paulo](/cities/sao-paulo/) city page.*
+For the country overview see our [Brazil security services page](/countries/brazil/), and our [bodyguard hire service](/services/bodyguard-hire/) for deployment detail.

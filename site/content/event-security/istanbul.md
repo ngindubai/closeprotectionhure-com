@@ -47,3 +47,4 @@ Access control at Istanbul events should include bag search as a minimum. For ev
 Transport security in Istanbul involves counter-surveillance as a standard practice for principal protection. The city's geography creates predictable choke points (Bosphorus bridges, motorway access) that are part of any professional route planning process.
 
 Our operators hold valid ÖZEL GÜVENLIK certification under Turkish law. All security plans are reviewed against current FCDO and State Dept advisory guidance.
+For the wider security picture, see our [Istanbul city security briefing](/cities/istanbul/), and our [event security service](/services/event-security/) for how we structure protective coverage.

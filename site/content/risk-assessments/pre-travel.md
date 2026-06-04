@@ -46,3 +46,4 @@ Without an assessment, you are either under-protected (accepting risk you have n
 ## What you receive
 
 A written document covering destination threat analysis, itinerary-specific security review, transport recommendations, communications security guidance, and emergency protocols. The document is accompanied by a briefing, either in person or by secure video call, where you can ask questions and discuss the recommendations.
+See our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/) for how assessment findings translate into protective coverage.

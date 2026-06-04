@@ -49,3 +49,4 @@ This does not mean every visit requires armoured transport. It means the infrast
 ## PSPA and Brazil's regulatory framework
 
 Security operators in Brazil operate under a regulatory framework that exists but is variably enforced. Our Sao Paulo operators hold current licensing under applicable Brazilian law and have verifiable track records. Given the quality gap between professional and sub-professional operators in the Brazilian market, documented vetting is particularly important here.
+A risk assessment is the first step. See our [Sao Paulo city security briefing](/cities/sao-paulo/) for the operating picture, and our [executive protection service](/services/executive-protection/) for deployment options.

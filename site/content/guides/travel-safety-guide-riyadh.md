@@ -53,3 +53,4 @@ Riyadh is the capital and largest city of Saudi Arabia and the centre of the Kin
 - US Embassy Riyadh: +966 11 488 3800
 
 *For vetted close protection and security drivers in Riyadh, see our [Riyadh security services page](/cities/riyadh/).*
+See our [Riyadh city security briefing](/cities/riyadh/) and [Riyadh risk assessment](/risk-assessments/riyadh/) for the operational detail behind this guide.

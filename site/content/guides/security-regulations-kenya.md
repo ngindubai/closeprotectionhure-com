@@ -41,3 +41,4 @@ The specific terrorism dimension in Nairobi, the 2013 Westgate attack and 2019 D
 For operations outside Nairobi (Mombasa, Kisumu, and rural operations particularly in counties bordering Somalia) verify PSRA licensing specifically and obtain current threat assessment. The security environment in northern and coastal Kenya is affected by Al-Shabaab spillover to a greater extent than Nairobi.
 
 *For close protection services in Kenya, see our [Nairobi](/cities/nairobi/) city page.*
+For the country overview see our [Kenya security services page](/countries/kenya/), and our [bodyguard hire service](/services/bodyguard-hire/) for deployment detail.

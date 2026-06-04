@@ -49,3 +49,4 @@ Local trains are not appropriate for corporate or security-conscious travel. The
 ## What a Mumbai assessment covers
 
 A pre-travel assessment examines the current terrorism threat picture, evaluates your hotel and meeting venues against post-2008 security improvements, plans ground movement including airport transfer and intercity movement, and covers cultural and legal compliance considerations specific to India.
+A risk assessment is the first step. See our [Mumbai city security briefing](/cities/mumbai/) for the operating picture, and our [executive protection service](/services/executive-protection/) for deployment options.

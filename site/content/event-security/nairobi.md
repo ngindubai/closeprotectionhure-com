@@ -47,3 +47,4 @@ We produce a written security plan for every Nairobi event engagement. The plan 
 ## Our operators in Nairobi
 
 Operators are KSIA-licensed, locally based, and have operating experience in Nairobi's event and commercial security environment. Where the event profile warrants armed protection, our operators hold valid firearms permits under Kenyan law. We do not contract unlicensed or informally organised security teams regardless of cost pressure.
+For the wider security picture, see our [Nairobi city security briefing](/cities/nairobi/), and our [event security service](/services/event-security/) for how we structure protective coverage.

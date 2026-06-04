@@ -49,3 +49,4 @@ This is not risk reduction. It is risk elimination for this specific threat.
 ## Colombia's security industry
 
 Colombia has a mature executive protection market. Decades of conflict have produced a large pool of former military and police special forces personnel now working in private security. Armed escorts are legal for licensed operators. Armoured vehicles are widely available. The quality of operator varies; vetting to documented standards is essential.
+A risk assessment is the first step. See our [Bogota city security briefing](/cities/bogota/) for the operating picture, and our [executive protection service](/services/executive-protection/) for deployment options.

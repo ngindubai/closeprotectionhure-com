@@ -45,3 +45,4 @@ Bangkok's five-star hotel convention circuit (the Anantara, the Mandarin Orienta
 For events in the financial services, cryptocurrency, or real estate sectors, our security plan includes a fraud intelligence briefing for event staff and senior attendees. The financial cost of fraud at a Bangkok business event can exceed the physical security cost of a crime incident.
 
 Transport security in Bangkok involves managing the city's exceptional traffic density. Sukhumvit, the primary corporate district, can be effectively gridlocked during peak hours. Route planning and timing are genuine risk management elements.
+For the wider security picture, see our [Bangkok city security briefing](/cities/bangkok/), and our [event security service](/services/event-security/) for how we structure protective coverage.

@@ -50,3 +50,4 @@ Bangkok is Thailand's capital and the country's dominant commercial and logistic
 - US Embassy Bangkok: +66 2 205 4000
 
 *For vetted close protection and security drivers in Bangkok, see our [Bangkok security services page](/cities/bangkok/).*
+See our [Bangkok city security briefing](/cities/bangkok/) and [Bangkok risk assessment](/risk-assessments/bangkok/) for the operational detail behind this guide.

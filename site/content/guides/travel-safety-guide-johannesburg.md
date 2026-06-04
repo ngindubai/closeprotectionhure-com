@@ -52,3 +52,4 @@ Johannesburg is Sub-Saharan Africa's largest economy and the commercial engine o
 - US Consulate Johannesburg: +27 11 290 3000
 
 *For vetted close protection and security drivers in Johannesburg, see our [Johannesburg security services page](/cities/johannesburg/).*
+See our [Johannesburg city security briefing](/cities/johannesburg/) and [Johannesburg risk assessment](/risk-assessments/johannesburg/) for the operational detail behind this guide.

@@ -56,3 +56,4 @@ If travel to Moscow is unavoidable:
 - US Embassy Moscow: +7 495 728 5000 (reduced staffing)
 
 *For security assessment of Russia travel, contact us directly.*
+See our [Moscow city security briefing](/cities/moscow/) and [Moscow risk assessment](/risk-assessments/moscow/) for the operational detail behind this guide.

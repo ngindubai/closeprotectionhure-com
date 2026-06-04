@@ -45,3 +45,4 @@ Singapore's major conference venues (Marina Bay Sands, Suntec, Changi Business P
 The licensing requirement is important to note: foreign close protection officers cannot legally operate in Singapore without SIRD authorisation. Visiting executives who travel with their own security team need to transition to SIRD-licensed operators on arrival or arrange formal licensing clearance in advance.
 
 Singapore's emergency services are excellent. Our emergency planning for Singapore events is genuinely supplementary rather than compensatory.
+For the wider security picture, see our [Singapore city security briefing](/cities/singapore/), and our [event security service](/services/event-security/) for how we structure protective coverage.

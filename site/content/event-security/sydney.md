@@ -45,3 +45,4 @@ Sydney's major conference venues (ICC Sydney at Darling Harbour, central hotel c
 The licensing framework in NSW is well-established. All security personnel require current NSW Security Industry Act licences. This is rigorously enforced; event organisers who use unlicensed contractors face significant penalties.
 
 Transport security in Sydney is straightforward by comparison with Asian megacities. Sydney traffic is variable; route planning around large events at Darling Harbour or the CBD is standard. Counter-surveillance is relevant for HNWI clients or executives with specific threat histories.
+For the wider security picture, see our [Sydney city security briefing](/cities/sydney/), and our [event security service](/services/event-security/) for how we structure protective coverage.

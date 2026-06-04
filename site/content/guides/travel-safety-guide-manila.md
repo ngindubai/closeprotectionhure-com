@@ -52,3 +52,4 @@ Manila is the Philippines' national capital and the centre of its commercial, fi
 - US Embassy Manila: +63 2 5301 2000
 
 *For vetted close protection and security drivers in Manila, see our [Manila security services page](/cities/manila/).*
+See our [Manila city security briefing](/cities/manila/) and [Manila risk assessment](/risk-assessments/manila/) for the operational detail behind this guide.

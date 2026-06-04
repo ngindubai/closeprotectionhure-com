@@ -44,3 +44,4 @@ Close protection in Jakarta is typically unarmed. Traffic conditions in Jakarta 
 - For operations outside Java, the quality and availability of licensed operators varies significantly
 
 *For close protection services in Indonesia, see our [Jakarta](/cities/jakarta/) city page.*
+For the country overview see our [Indonesia security services page](/countries/indonesia/), and our [bodyguard hire service](/services/bodyguard-hire/) for deployment detail.

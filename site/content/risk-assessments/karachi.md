@@ -47,3 +47,4 @@ FCDO explicitly advises against all railway travel in Pakistan. This is not a ge
 ## Advance clearances and NOCs
 
 Travel to some areas of Pakistan requires a No Objection Certificate (NOC) from provincial authorities. This is not a bureaucratic formality. It reflects the genuine security management system that operates around foreign nationals in parts of the country. Obtaining NOCs takes time and requires local knowledge. A risk assessment for Karachi will identify which areas of your itinerary require advance clearances and manage that process.
+A risk assessment is the first step. See our [Karachi city security briefing](/cities/karachi/) for the operating picture, and our [executive protection service](/services/executive-protection/) for deployment options.

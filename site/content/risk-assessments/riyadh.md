@@ -49,3 +49,4 @@ Understanding these parameters before arrival is not optional. It is risk manage
 ## Vision 2030 changes
 
 Saudi Arabia has relaxed many social restrictions under Vision 2030. Mixed-gender events, entertainment venues, and a growing hospitality sector are now present in Riyadh. These changes are genuine. They do not negate the legal framework that governs all activity in the Kingdom. A visit briefing will distinguish between what has changed and what remains in effect.
+A risk assessment is the first step. See our [Riyadh city security briefing](/cities/riyadh/) for the operating picture, and our [executive protection service](/services/executive-protection/) for deployment options.

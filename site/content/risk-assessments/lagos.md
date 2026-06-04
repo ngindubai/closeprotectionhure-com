@@ -59,3 +59,4 @@ Kidnap-for-ransom targeting foreign nationals and high-net-worth Nigerians is a 
 Deploying close protection without an advance assessment is operationally poor practice. The assessment determines the appropriate level of protection, identifies the specific threat vectors for your assignment, and allows operators to plan routes and contingencies before you arrive.
 
 An operator walking blind into Lagos with a client is a different proposition from one who has reviewed the itinerary, assessed the venues, and identified alternatives. The assessment is the difference.
+A risk assessment is the first step. See our [Lagos city security briefing](/cities/lagos/) for the operating picture, and our [executive protection service](/services/executive-protection/) for deployment options.

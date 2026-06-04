@@ -51,3 +51,4 @@ Istanbul sits at the intersection of Europe and Asia and is Turkey's commercial,
 - US Consulate Istanbul: +90 212 335 9000
 
 *For vetted close protection and security drivers in Istanbul, see our [Istanbul security services page](/cities/istanbul/).*
+See our [Istanbul city security briefing](/cities/istanbul/) and [Istanbul risk assessment](/risk-assessments/istanbul/) for the operational detail behind this guide.

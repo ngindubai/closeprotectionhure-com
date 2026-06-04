@@ -54,3 +54,4 @@ Dubai is one of the world's most connected business destinations and a regional 
 - US Consulate General Dubai: +971 4 309 4000
 
 *For vetted close protection and security drivers in Dubai, see our [Dubai security services page](/cities/dubai/).*
+See our [Dubai city security briefing](/cities/dubai/) and [Dubai risk assessment](/risk-assessments/dubai/) for the operational detail behind this guide.

@@ -56,3 +56,4 @@ Lagos is Nigeria's commercial capital and the most economically significant city
 - US Consulate Lagos: +234 1 460 3400
 
 *For vetted security drivers and close protection in Lagos, see our [Lagos security services page](/cities/lagos/).*
+See our [Lagos city security briefing](/cities/lagos/) and [Lagos risk assessment](/risk-assessments/lagos/) for the operational detail behind this guide.

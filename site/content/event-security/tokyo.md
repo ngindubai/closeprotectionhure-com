@@ -45,3 +45,4 @@ Tokyo's major conference and hotel venues have well-developed security infrastru
 Earthquake response planning is not optional for Tokyo events. A major seismic event during a multi-day conference creates communication disruption, transportation failure, and evacuation challenges that require pre-prepared protocols. We include this in every Tokyo event security plan.
 
 Foreign security personnel cannot legally operate in Japan. Any visiting executive who travels with a foreign close protection team must transition to Japan-licensed operators on arrival.
+For the wider security picture, see our [Tokyo city security briefing](/cities/tokyo/), and our [event security service](/services/event-security/) for how we structure protective coverage.

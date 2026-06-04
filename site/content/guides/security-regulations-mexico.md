@@ -44,3 +44,4 @@ In states with significant cartel presence (Sinaloa, Tamaulipas, Guerrero, Micho
 - Route planning and current threat intelligence are essential given cartel activity patterns
 
 *For close protection services in Mexico, see our [Mexico City](/cities/mexico-city/) city page.*
+For the country overview see our [Mexico security services page](/countries/mexico/), and our [bodyguard hire service](/services/bodyguard-hire/) for deployment detail.

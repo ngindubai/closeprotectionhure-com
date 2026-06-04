@@ -41,3 +41,4 @@ Armed close protection is standard for senior corporate executives. The visible 
 Outside the NCR (National Capital Region), quality and availability of licensed operators varies significantly. For operations in Cebu, Davao, or other major regional centres, verify licensing specifically rather than assuming Manila standards apply.
 
 *For close protection services in the Philippines, see our [Manila](/cities/manila/) city page.*
+For the country overview see our [Philippines security services page](/countries/philippines/), and our [bodyguard hire service](/services/bodyguard-hire/) for deployment detail.

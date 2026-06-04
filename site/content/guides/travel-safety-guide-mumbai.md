@@ -54,3 +54,4 @@ Mumbai is India's commercial capital and the centre of its finance, media, and e
 - US Consulate General Mumbai: +91 22 2672 4000
 
 *For vetted close protection and security drivers in Mumbai, see our [Mumbai security services page](/cities/mumbai/).*
+See our [Mumbai city security briefing](/cities/mumbai/) and [Mumbai risk assessment](/risk-assessments/mumbai/) for the operational detail behind this guide.

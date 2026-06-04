@@ -53,3 +53,4 @@ Nairobi is East Africa's primary commercial hub and the regional headquarters fo
 - US Embassy Nairobi: +254 20 363 6000
 
 *For vetted close protection and security drivers in Nairobi, see our [Nairobi security services page](/cities/nairobi/).*
+See our [Nairobi city security briefing](/cities/nairobi/) and [Nairobi risk assessment](/risk-assessments/nairobi/) for the operational detail behind this guide.

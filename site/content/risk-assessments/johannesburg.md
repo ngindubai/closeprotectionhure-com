@@ -49,3 +49,4 @@ A Johannesburg risk assessment includes the current load-shedding schedule and m
 ## PSIRA-regulated market
 
 South Africa's private security industry is regulated by PSIRA (Private Security Industry Regulatory Authority). All our Johannesburg operators hold current PSIRA registration. Close protection operatives are routinely armed in South Africa, where licensing for this is well-established.
+A risk assessment is the first step. See our [Johannesburg city security briefing](/cities/johannesburg/) for the operating picture, and our [executive protection service](/services/executive-protection/) for deployment options.

@@ -53,3 +53,4 @@ Mexico City is one of the Americas' most important business capitals. With a met
 - US Embassy Mexico City: +52 55 5080 2000
 
 *For vetted close protection and security drivers in Mexico City, see our [Mexico City security services page](/cities/mexico-city/).*
+See our [Mexico City city security briefing](/cities/mexico-city/) and [Mexico City risk assessment](/risk-assessments/mexico-city/) for the operational detail behind this guide.

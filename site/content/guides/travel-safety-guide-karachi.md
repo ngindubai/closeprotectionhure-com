@@ -51,3 +51,4 @@ Karachi is Pakistan's largest city and the country's commercial and industrial c
 - US Consulate General Karachi: +92 21 3527 5000
 
 *For vetted close protection and security drivers in Karachi, see our [Karachi security services page](/cities/karachi/).*
+See our [Karachi city security briefing](/cities/karachi/) and [Karachi risk assessment](/risk-assessments/karachi/) for the operational detail behind this guide.

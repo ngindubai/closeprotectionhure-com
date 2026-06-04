@@ -45,3 +45,4 @@ The primary security risk in Moscow for Western executives is not conventional c
 ## What we provide for Moscow
 
 We do not operate a standard vetted operator referral service for Moscow given the current environment. We provide specialist pre-deployment advisory covering legal risk, communications security, device hygiene, and exit planning. Any organisation planning corporate event activity in Moscow should begin with a legal opinion from Russia-specialist counsel alongside a security assessment.
+For the wider security picture, see our [Moscow city security briefing](/cities/moscow/), and our [event security service](/services/event-security/) for how we structure protective coverage.
