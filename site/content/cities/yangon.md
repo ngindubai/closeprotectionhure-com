@@ -61,7 +61,7 @@ faqs:
   - question: "What does the detention risk look like for foreign nationals in Yangon?"
     answer: "The SAC has detained foreign nationals on charges including unlawful association, incitement, and support for terrorist organisations (a category the junta applies to pro-democracy resistance movements). NGO workers, journalists, and people with connections to civil society are at elevated risk. The legal protections that normally apply to foreign nationals are not reliably available under the current junta. Consular access has been denied or delayed in documented cases."
   - question: "What security infrastructure exists for organisations that must maintain Yangon operations?"
-    answer: "Organisations maintaining essential operations in Yangon typically operate compound-based models: secured accommodation with robust physical security, movement management protocols that minimise checkpoint exposure, encrypted communications, emergency extraction planning, and regular threat monitoring from security providers with current Myanmar intelligence. The baseline security requirement has increased substantially since 2021."
+    answer: "Organisations maintaining essential operations in Yangon typically operate compound-based models: secured accommodation with strong physical security, movement management protocols that minimise checkpoint exposure, encrypted communications, emergency extraction planning, and regular threat monitoring from security providers with current Myanmar intelligence. The baseline security requirement has increased substantially since 2021."
 ---
 
 Yangon is Myanmar's former capital and largest city, the commercial and operational hub for the country's economy. Before the 2021 coup, it was a significant destination for energy sector investment, NGO operations, and development finance. The security environment has changed fundamentally since February 2021.
@@ -70,7 +70,7 @@ Yangon is Myanmar's former capital and largest city, the commercial and operatio
 
 Myanmar's security environment since the military coup is categorically different from what existed before. The FCDO advises against all but essential travel. The combination of armed conflict in multiple states, arbitrary detention risk for foreign nationals, checkpoint unpredictability, and the breakdown of rule of law creates a high-complexity operational environment even in Yangon itself.
 
-Organisations with essential operations in Yangon are typically humanitarian bodies, energy sector companies with existing investments, and some diplomatic missions. All require robust security infrastructure and regular threat assessment.
+Organisations with essential operations in Yangon are typically humanitarian bodies, energy sector companies with existing investments, and some diplomatic missions. All require substantial security infrastructure and regular threat assessment.
 
 ## Operating in Yangon in 2026
 

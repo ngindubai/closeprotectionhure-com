@@ -16,10 +16,10 @@ faqs:
   - question: "What is the most significant crowd safety risk at major pilgrimages?"
     answer: "Crowd crush is the most significant recurring risk. The 2015 Mina crush during Hajj killed over 2,000 people. The 2021 Mount Meron disaster in Israel killed 45. The 2024 Tirupati stampede killed 6. Crowd crush occurs when density reaches the point where people cannot control their own movement. Prevention requires crowd flow management, density monitoring, and the ability to halt or redirect flow before critical density is reached."
   - question: "How should VIP religious leaders be protected at major gatherings?"
-    answer: "Protection for senior religious figures at mass gatherings requires coordination with event security, managing the tension between the leader's desire for close engagement with followers and the security requirement for protective distance. The protection detail must understand the specific religious context — what is permissible and what would cause offence — and must work within the cultural framework of the gathering rather than imposing external security norms."
+    answer: "Protection for senior religious figures at mass gatherings requires coordination with event security, managing the tension between the leader's desire for close engagement with followers and the security requirement for protective distance. The protection detail must understand the specific religious context, what is permissible and what would cause offence, and must work within the cultural framework of the gathering rather than imposing external security norms."
 ---
 
-Mass religious gatherings — the Hajj in Mecca, the Kumbh Mela in India, major papal events, Jewish and Christian pilgrimage sites — represent some of the world's most complex security challenges. They combine enormous crowds, religiously motivated participants, symbolic targets of significant value to extremists, and in many cases, difficult physical environments.
+Mass religious gatherings (the Hajj in Mecca, the Kumbh Mela in India, major papal events, Jewish and Christian pilgrimage sites) represent some of the world's most complex security challenges. They combine enormous crowds, religiously motivated participants, symbolic targets of significant value to extremists, and in many cases, difficult physical environments.
 
 ## The Mass Gathering Security Environment
 
@@ -29,7 +29,7 @@ Mass religious gatherings — the Hajj in Mecca, the Kumbh Mela in India, major 
 
 **Symbolic targeting.** Religious sites and gatherings have been specifically targeted by extremist groups to maximise symbolic and psychological impact. Al-Qaeda's targeting of the World Trade Center, IS attacks on Shia pilgrimage sites in Iraq, and attacks on Christian gatherings all demonstrate this targeting rationale.
 
-**Medical demands.** The physical demands of pilgrimage — long distances, extreme heat in Mecca, high altitude at some sites — create significant medical burden that security planning must accommodate.
+**Medical demands.** The physical demands of pilgrimage (long distances, extreme heat in Mecca, high altitude at some sites) create significant medical burden that security planning must accommodate.
 
 ## Security Planning Principles
 

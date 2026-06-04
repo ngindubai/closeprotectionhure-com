@@ -16,10 +16,10 @@ faqs:
   - question: "What are the main threats facing humanitarian workers globally?"
     answer: "The Aid Worker Security Database documents the threats: road accidents remain the leading cause of injury and death, followed by violence (shootings, explosions, kidnapping, and attacks). Violence incidents have increased significantly over the past decade, with more attacks occurring in contexts where aid workers were previously protected by acceptance. Afghanistan, Syria, South Sudan, DRC, and the Sahel region have seen the highest incident rates."
   - question: "What duty of care obligations do NGOs have for their field staff?"
-    answer: "NGOs have the same duty of care obligations as any employer — the requirement to take reasonable steps to protect employees from foreseeable harm. In practice this means: pre-deployment security training, current threat assessment for operating environments, appropriate security measures (communications, movement protocols, safe havens), emergency response planning, and post-incident support. The NGO's size and resources affect what is reasonable, but the obligation exists regardless of organisational type."
+    answer: "NGOs have the same duty of care obligations as any employer: the requirement to take reasonable steps to protect employees from foreseeable harm. In practice this means: pre-deployment security training, current threat assessment for operating environments, appropriate security measures (communications, movement protocols, safe havens), emergency response planning, and post-incident support. The NGO's size and resources affect what is reasonable, but the obligation exists regardless of organisational type."
 ---
 
-Humanitarian and NGO workers operate in some of the world's most dangerous environments by the nature of their mandate — they go where crises are. The security challenges they face are distinct from those of corporate executives, requiring different frameworks, strategies, and measures.
+Humanitarian and NGO workers operate in some of the world's most dangerous environments by the nature of their mandate: they go where crises are. The security challenges they face are distinct from those of corporate executives, requiring different frameworks, strategies, and measures.
 
 ## The Three Security Strategies
 
@@ -27,9 +27,9 @@ Humanitarian security doctrine identifies three core strategies:
 
 **Acceptance.** Building legitimacy and acceptance with communities and armed actors so that they support or at least tolerate the humanitarian presence. Acceptance is built through genuine community engagement, strict adherence to humanitarian principles (neutrality, impartiality, independence), and transparent communication about mandate and operations.
 
-**Deterrence.** Using security measures that make an attack less likely or less attractive. This includes armed guards, armoured vehicles, and hardened compounds in environments where acceptance alone is insufficient. Deterrence has costs — it can undermine the acceptance strategy and may signal resources worth targeting.
+**Deterrence.** Using security measures that make an attack less likely or less attractive. This includes armed guards, armoured vehicles, and hardened compounds in environments where acceptance alone is insufficient. Deterrence has costs: it can undermine the acceptance strategy and may signal resources worth targeting.
 
-**Protection.** Measures that reduce harm if an attack occurs — hardened vehicles, safe rooms, communications equipment, evacuation planning, and first aid capability.
+**Protection.** Measures that reduce harm if an attack occurs: hardened vehicles, safe rooms, communications equipment, evacuation planning, and first aid capability.
 
 Most humanitarian organisations use a combination of all three strategies calibrated to the specific operating environment.
 
@@ -37,11 +37,11 @@ Most humanitarian organisations use a combination of all three strategies calibr
 
 Effective field security requires:
 
-**Context analysis.** Understanding who the armed actors are, what their motivations and methods are, and how the humanitarian organisation fits into the political and conflict landscape. This is continuous — the context changes, and security measures must adapt.
+**Context analysis.** Understanding who the armed actors are, what their motivations and methods are, and how the humanitarian organisation fits into the political and conflict landscape. This is continuous: the context changes, and security measures must adapt.
 
-**Clear protocols.** Movement protocols (who goes where, when, with what equipment), communications protocols (check-in times, emergency signals), incident reporting, and escalation procedures. Protocols are only as good as compliance — training and enforcement matter.
+**Clear protocols.** Movement protocols (who goes where, when, with what equipment), communications protocols (check-in times, emergency signals), incident reporting, and escalation procedures. Protocols are only as good as compliance: training and enforcement matter.
 
-**Security incident management.** What happens when something goes wrong. Incident classification, immediate response, reporting, and post-incident analysis. Incidents should be reported and analysed — the field security database is only useful if fed with accurate data.
+**Security incident management.** What happens when something goes wrong. Incident classification, immediate response, reporting, and post-incident analysis. Incidents should be reported and analysed: the field security database is only useful if fed with accurate data.
 
 **Evacuation and relocation planning.** Every field location should have an evacuation plan that has been rehearsed. Where to go, how to get there, who to contact. This should be reviewed regularly as conditions change.
 

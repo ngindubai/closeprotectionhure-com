@@ -12,14 +12,14 @@ tags:
   - "physical-security"
 faqs:
   - question: "What is the difference between a security assessment and a security audit?"
-    answer: "A security assessment evaluates the security of a physical environment against the threats relevant to that environment and the assets it contains — it is a gap analysis relative to a threat-informed standard. An audit checks compliance against a pre-defined standard or policy. Both are useful; they answer different questions. For organisations without an existing security policy, assessment comes first. For organisations with established policy and standards, audit checks compliance with them."
+    answer: "A security assessment evaluates the security of a physical environment against the threats relevant to that environment and the assets it contains: it is a gap analysis relative to a threat-informed standard. An audit checks compliance against a pre-defined standard or policy. Both are useful; they answer different questions. For organisations without an existing security policy, assessment comes first. For organisations with established policy and standards, audit checks compliance with them."
   - question: "How long does a physical security assessment take?"
     answer: "For a single site such as a corporate office, a professional assessment typically takes one to two days on site plus time for report writing. For complex multi-site assessments or large facilities such as data centres, manufacturing plants, or campus environments, the timeline extends accordingly. The on-site work involves physical inspection of all areas, interviews with security and facilities staff, and review of existing documentation."
   - question: "What qualifications should a security assessor have?"
-    answer: "Look for: professional security membership (Security Institute, ASIS International), relevant credentials (CPP — Certified Protection Professional, PSP — Physical Security Professional), and documented experience with assessments in your sector and risk environment. Ask for example reports (suitably anonymised) to assess the quality and depth of their previous work."
+    answer: "Look for: professional security membership (Security Institute, ASIS International), relevant credentials (CPP (Certified Protection Professional, PSP) Physical Security Professional), and documented experience with assessments in your sector and risk environment. Ask for example reports (suitably anonymised) to assess the quality and depth of their previous work."
 ---
 
-A physical security assessment is the systematic examination of a facility, property, or environment to identify security vulnerabilities, evaluate existing security measures, and provide recommendations for improvement. It is the foundational input for security investment decisions — without a current, professional assessment, security spending is guesswork.
+A physical security assessment is the systematic examination of a facility, property, or environment to identify security vulnerabilities, evaluate existing security measures, and provide recommendations for improvement. It is the foundational input for security investment decisions: without a current, professional assessment, security spending is guesswork.
 
 ## What a Physical Security Assessment Covers
 
@@ -31,20 +31,20 @@ A comprehensive physical security assessment examines:
 
 **Internal security architecture.** Internal zoning and access control between areas with different security requirements. Physical separation of public-facing and restricted areas. Secure storage for sensitive assets, documents, and equipment.
 
-**Electronic security systems.** CCTV coverage and blind spots, system age and maintenance status, recording and monitoring arrangements. Access control systems — type, coverage, management. Intruder detection systems — coverage, response protocols, false alarm management.
+**Electronic security systems.** CCTV coverage and blind spots, system age and maintenance status, recording and monitoring arrangements. Access control systems: type, coverage, management. Intruder detection systems: coverage, response protocols, false alarm management.
 
 **Security personnel.** Guard force coverage, positioning, training, and protocols. Response capability to different incident types. Interface between guard force and electronic systems.
 
 **Emergency response.** Emergency communication systems, evacuation routes and their adequacy, fire safety, emergency assembly points. Medical response capability. Interface with emergency services.
 
-**Security management.** Visitor management, contractor management, delivery screening, mail handling. Security culture among staff — do they follow protocols? Do they challenge unfamiliar persons?
+**Security management.** Visitor management, contractor management, delivery screening, mail handling. Security culture among staff: do they follow protocols? Do they challenge unfamiliar persons?
 
 ## What a Good Assessment Report Contains
 
 A professional security assessment report should include:
 
 - Executive summary of key findings and priority recommendations
-- Methodology — how the assessment was conducted
+- Methodology: how the assessment was conducted
 - Threat assessment relevant to the facility and its assets
 - Finding-by-finding analysis with evidence
 - Risk rating for each finding

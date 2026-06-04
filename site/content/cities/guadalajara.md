@@ -82,7 +82,7 @@ For technology sector business travel, Guadalajara is a genuine destination with
 
 Jalisco New Generation Cartel emerged from Jalisco in the 2010s and has grown to be one of Mexico's most powerful criminal organisations. It has demonstrated capacity for sophisticated violence including the use of drones, armoured vehicles, and direct confrontation with military forces. CJNG's primary activities are drug trafficking, territorial control, and conflict with rival organisations.
 
-For business visitors, the CJNG presence means that cartel-related violence — shootings, roadblocks, confrontations with security forces — can occur in the wider metropolitan area. Business visitors are not CJNG targets. The risk is ambient, not directed.
+For business visitors, the CJNG presence means that cartel-related violence (shootings, roadblocks, confrontations with security forces) can occur in the wider metropolitan area. Business visitors are not CJNG targets. The risk is ambient, not directed.
 
 ## Operational baseline
 

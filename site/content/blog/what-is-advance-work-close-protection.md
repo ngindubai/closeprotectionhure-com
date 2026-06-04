@@ -14,9 +14,9 @@ faqs:
   - question: "Who conducts the advance?"
     answer: "The advance is conducted by a close protection officer (the advance agent) who travels to the location before the principal arrives. On large operations, there may be a dedicated advance team. On smaller details, the lead officer or a team member fills the advance role. The advance agent should have close protection training, local knowledge of the destination, and specific advance work training."
   - question: "How long before the principal's arrival does the advance take place?"
-    answer: "For a single-day visit, the advance typically takes place the day before and/or the morning of the visit. For complex multi-day programmes, advance work may begin several days earlier. The advance agent needs enough time to conduct a thorough assessment, establish contacts, and communicate findings to the team — rushing the advance defeats its purpose."
+    answer: "For a single-day visit, the advance typically takes place the day before and/or the morning of the visit. For complex multi-day programmes, advance work may begin several days earlier. The advance agent needs enough time to conduct a thorough assessment, establish contacts, and communicate findings to the team: rushing the advance defeats its purpose."
   - question: "Can advance work be done remotely using open-source research?"
-    answer: "Desk research is a useful component of advance preparation but is not a substitute for physical venue assessment. Map data can be outdated. Emergency service response times estimated from published data may not reflect current reality. Meeting venues require physical inspection — photographs do not reveal service entrances, stairwell access, or the actual sight lines that protect or expose the principal. Physical presence is necessary."
+    answer: "Desk research is a useful component of advance preparation but is not a substitute for physical venue assessment. Map data can be outdated. Emergency service response times estimated from published data may not reflect current reality. Meeting venues require physical inspection: photographs do not reveal service entrances, stairwell access, or the actual sight lines that protect or expose the principal. Physical presence is necessary."
 ---
 
 Advance work is the pre-visit intelligence and planning activity conducted before a principal arrives at a location. It is one of the most operationally valuable components of close protection, and one of the most frequently cut when budgets are under pressure. Understanding what advance work actually involves explains why removing it is the most common high-cost error in security planning.
@@ -37,7 +37,7 @@ A properly conducted advance for a venue or visit addresses:
 
 **Accommodation assessment.** For hotels or private residences, the advance covers access control, floor and room suitability, fire safety, and the general security standard of the property.
 
-**Emergency resources.** Identification of the nearest trauma hospital, police station, and emergency medical service access point. Advance agents should contact the local police if the visit warrants it — for high-profile principals, establishing police liaison before arrival is standard practice.
+**Emergency resources.** Identification of the nearest trauma hospital, police station, and emergency medical service access point. Advance agents should contact the local police if the visit warrants it: for high-profile principals, establishing police liaison before arrival is standard practice.
 
 **Threat intelligence.** Gathering any current local intelligence relevant to the principal's visit. This may include ongoing protests, civil unrest, criminal activity in the area, or specific threat information relevant to the principal's profile.
 
@@ -58,10 +58,10 @@ The advance transforms unknown risk into managed risk. Without it:
 
 - The protection team arrives at each location without knowledge of exits, sight lines, or crowd conditions
 - Routes are driven without knowledge of chokepoints or alternatives
-- Emergency resources have not been identified — in a medical emergency, precious minutes are lost locating the nearest hospital
+- Emergency resources have not been identified: in a medical emergency, precious minutes are lost locating the nearest hospital
 - Threat intelligence specific to the location and timing has not been gathered
 
-In standard risk environments, the practical consequences of no advance are manageable with professional improvisation. In elevated-risk environments, the advance is not optional — it is the mechanism by which improvisation is minimised.
+In standard risk environments, the practical consequences of no advance are manageable with professional improvisation. In elevated-risk environments, the advance is not optional: it is the mechanism by which improvisation is minimised.
 
 The cost of a one-day advance is one officer day rate plus travel. The cost of a security failure resulting from inadequate planning is not comparable.
 

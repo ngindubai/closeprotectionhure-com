@@ -19,11 +19,11 @@ faqs:
     answer: "Major betting shops and gaming venues need security appropriate to their cash-handling operations. This includes access control, CCTV, cash management procedures, and security personnel trained in de-escalation and emergency response. Executive level security for senior figures, particularly where the company's operations generate significant public controversy."
 ---
 
-The betting and gaming sector operates at the intersection of significant financial flows, organised crime pressure, regulatory scrutiny, and public controversy — a combination that generates a specific and often underestimated security environment.
+The betting and gaming sector operates at the intersection of significant financial flows, organised crime pressure, regulatory scrutiny, and public controversy: a combination that generates a specific and often underestimated security environment.
 
 ## Sector-Specific Threats
 
-**Organised crime and match-fixing.** Match-fixing networks are organised criminal enterprises with the same characteristics — violence capability, operational security awareness, and financial motivation — as other criminal groups. Integrity investigators who expose these networks face risks commensurate with the criminal interest they are investigating.
+**Organised crime and match-fixing.** Match-fixing networks are organised criminal enterprises with the same characteristics (violence capability, operational security awareness, and financial motivation) as other criminal groups. Integrity investigators who expose these networks face risks commensurate with the criminal interest they are investigating.
 
 **Fraud and cyber attack.** Major gaming operators are targets for sophisticated fraud operations exploiting bonus abuse, account takeover, and insider collusion. The cyber threat is significant and often the primary security investment for operators.
 

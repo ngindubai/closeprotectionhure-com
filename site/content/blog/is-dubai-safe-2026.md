@@ -28,7 +28,7 @@ faqs:
 
 Dubai has been one of the most reliable business travel destinations in the Middle East for two decades. Strong governance, low street crime, effective security services, and excellent infrastructure made it an outlier in a complex region. That fundamental picture has not reversed. But it has become more complicated.
 
-The regional escalation since 2022 — encompassing the Yemen conflict, the Iran-Israel confrontation, and the drone attack on Abu Dhabi in January 2022 — has changed the threat picture in ways that require an honest assessment rather than either complacency or overcorrection.
+The regional escalation since 2022 (encompassing the Yemen conflict, the Iran-Israel confrontation, and the drone attack on Abu Dhabi in January 2022) has changed the threat picture in ways that require an honest assessment rather than either complacency or overcorrection.
 
 ## What Has Actually Changed
 
@@ -62,7 +62,7 @@ The regional context matters for specific profiles and scenarios:
 
 **Infrastructure and energy sector visitors.** Abu Dhabi's energy infrastructure has been a target. Executives visiting ADNOC, energy sector joint ventures, or infrastructure projects in Abu Dhabi should have the regional threat included in their security briefing and operational planning.
 
-**High-profile events during escalation periods.** Major conferences — ADIPEC, GITEX, World Government Summit — concentrate senior figures at known venues and dates. During periods of active regional escalation, the risk profile of these events is higher than at baseline.
+**High-profile events during escalation periods.** Major conferences (ADIPEC, GITEX, World Government Summit) concentrate senior figures at known venues and dates. During periods of active regional escalation, the risk profile of these events is higher than at baseline.
 
 **Nationals of countries involved in regional conflict.** Israeli nationals, US military-affiliated personnel, and some other profiles carry elevated threat from Iranian state or proxy actors. For these individuals, professional security assessment is appropriate regardless of the UAE's ambient safety level.
 

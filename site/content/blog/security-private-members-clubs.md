@@ -12,24 +12,24 @@ tags:
   - "vip-privacy"
 faqs:
   - question: "What are the specific security challenges of private members clubs?"
-    answer: "Private members clubs balance exclusivity with hospitality — the environment is designed to be welcoming and discreet, not fortress-like. Security measures must be effective without disrupting the atmosphere that members pay for. The specific challenges are: controlling access to a venue with multiple entry points and a large staff rotation; managing photography and media in an era of ubiquitous smartphone cameras; and integrating visiting protection details with club security without creating friction."
+    answer: "Private members clubs balance exclusivity with hospitality: the environment is designed to be welcoming and discreet, not fortress-like. Security measures must be effective without disrupting the atmosphere that members pay for. The specific challenges are: controlling access to a venue with multiple entry points and a large staff rotation; managing photography and media in an era of ever-present smartphone cameras; and integrating visiting protection details with club security without creating friction."
   - question: "How should a protection detail integrate with club security?"
     answer: "Advance coordination is essential. The protection officer should contact the club's security team before arrival to confirm the principal's requirements, agree on positioning, and understand the club's protocols. The club has its own security interests (discretion, maintaining atmosphere) that may not align with the protection detail's default positioning. Collaboration, rather than the protection officer unilaterally imposing their preferred approach, produces better security outcomes."
   - question: "How do clubs manage photography and social media by other members?"
-    answer: "Most exclusive clubs have no-photography policies in certain areas, typically enforced by social convention and reminder rather than technical means. From a VIP protection perspective, photography policies provide a legitimate basis for intervening when a member is attempting to photograph a protected principal — staff can enforce the policy without revealing the identity of the person being protected."
+    answer: "Most exclusive clubs have no-photography policies in certain areas, typically enforced by social convention and reminder rather than technical means. From a VIP protection perspective, photography policies provide a legitimate basis for intervening when a member is attempting to photograph a protected principal: staff can enforce the policy without revealing the identity of the person being protected."
 ---
 
 Private members clubs present a specific set of security challenges that differ from both public venues and fully controlled private environments. The combination of controlled membership, luxury hospitality environment, multiple staff access points, and the expectation of discretion creates a security context that requires tailored approaches.
 
 ## The Private Club Security Environment
 
-Private members clubs — whether social clubs, dining clubs, professional or industry clubs, or luxury hospitality venues — share several characteristics relevant to security:
+Private members clubs (whether social clubs, dining clubs, professional or industry clubs, or luxury hospitality venues) share several characteristics relevant to security:
 
 **Membership access.** Entry is controlled by membership, but the membership itself may be large (hundreds to thousands of members) and members' guests add further complexity. Access control must verify membership without creating the airport-security atmosphere incompatible with the hospitality proposition.
 
 **Large staff rotation.** Clubs employ substantial hospitality, operations, and maintenance staff who have access throughout the venue. Vetting of staff and insider threat awareness are relevant.
 
-**Atmosphere requirements.** The commercial proposition of a private club is a comfortable, discreet, convivial environment. Visible security measures — uniformed guards, bag searches, CCTV cameras in member areas — are incompatible with this. Security must be effective but largely invisible.
+**Atmosphere requirements.** The commercial proposition of a private club is a comfortable, discreet, convivial environment. Visible security measures (uniformed guards, bag searches, CCTV cameras in member areas) are incompatible with this. Security must be effective but largely invisible.
 
 **Multiple access points.** Members-only venues often have multiple entrances (member entrance, guest entrance, service entrance, private event entrance), each of which requires appropriate access management.
 

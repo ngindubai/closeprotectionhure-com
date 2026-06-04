@@ -12,14 +12,14 @@ tags:
   - "collection-security"
 faqs:
   - question: "What are the main security risks for high-value vehicle collections?"
-    answer: "Theft is the primary risk — classic and exotic vehicles represent high-value, portable assets that attract professional criminal networks. Unlike art or jewellery, vehicles must move — they are driven to events, transported to shows, and serviced at external facilities — creating multiple exposure points beyond the primary storage location. Home invasion robbery is also documented for known collectors, where criminals force access to take vehicles or their keys."
+    answer: "Theft is the primary risk: classic and exotic vehicles represent high-value, portable assets that attract professional criminal networks. Unlike art or jewellery, vehicles must move: they are driven to events, transported to shows, and serviced at external facilities: creating multiple exposure points beyond the primary storage location. Home invasion robbery is also documented for known collectors, where criminals force access to take vehicles or their keys."
   - question: "What physical security should a high-value vehicle collection storage facility have?"
-    answer: "At minimum: access control with key fob or biometric entry, CCTV with remote monitoring, monitored intruder alarm with rapid response, and fire suppression appropriate for a vehicle storage environment. For collections of significant value: reinforced doors, vehicle immobilisation devices, OBD port locking, and in some cases, security personnel. Insurance requirements will specify minimum security standards — verify compliance."
+    answer: "At minimum: access control with key fob or biometric entry, CCTV with remote monitoring, monitored intruder alarm with rapid response, and fire suppression appropriate for a vehicle storage environment. For collections of significant value: reinforced doors, vehicle immobilisation devices, OBD port locking, and in some cases, security personnel. Insurance requirements will specify minimum security standards: verify compliance."
   - question: "How should high-value vehicles be protected during transport and events?"
     answer: "Enclosed transport (rather than open trailer) for most high-value vehicles, reducing exposure during transit. GPS tracking on the transport vehicle. Vetted and insured specialist transporters with experience in high-value vehicle movement. At concours events and car shows, proximity to the vehicle and vigilance during public access periods. Avoid publicising specific vehicle movements and attendance at events on social media in advance."
 ---
 
-High-value vehicle collections occupy a specific position in the asset security landscape. Unlike art held in secure museum or gallery conditions, or jewellery held in a safe, vehicles must move — they are driven, transported, and exhibited — creating multiple exposure points that require active security management.
+High-value vehicle collections occupy a specific position in the asset security landscape. Unlike art held in secure museum or gallery conditions, or jewellery held in a safe, vehicles must move (they are driven, transported, and exhibited) creating multiple exposure points that require active security management.
 
 ## The Collection Security Environment
 
@@ -46,6 +46,6 @@ For collection storage facilities:
 - Enclosed transport for high-value movements
 - GPS tracking on vehicles and transport
 - Vetted specialist transporters
-- Discreet event attendance — avoid advance social media publication
+- Discreet event attendance: avoid advance social media publication
 
 *For security consultancy and private client security services, see our [executive protection](/executive-protection/) page.*

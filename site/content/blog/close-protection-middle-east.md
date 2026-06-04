@@ -12,14 +12,14 @@ tags:
   - "executive-protection"
 faqs:
   - question: "Is the Gulf safe for corporate travel?"
-    answer: "The Gulf states — UAE, Saudi Arabia, Qatar, Kuwait, Oman, Bahrain — are generally low-crime and operationally safe for corporate travel by international standards. The specific concerns are: the regional geopolitical environment (Iran-Gulf tensions, Houthi missile and drone activity affecting parts of the region), regulatory and legal risks for Western business norms, and specific elevated risks during periods of regional conflict escalation."
+    answer: "The Gulf states (UAE, Saudi Arabia, Qatar, Kuwait, Oman, Bahrain) are generally low-crime and operationally safe for corporate travel by international standards. The specific concerns are: the regional geopolitical environment (Iran-Gulf tensions, Houthi missile and drone activity affecting parts of the region), regulatory and legal risks for Western business norms, and specific elevated risks during periods of regional conflict escalation."
   - question: "Can close protection officers carry firearms in the Gulf?"
-    answer: "Armed commercial close protection in the Gulf states is heavily regulated and generally restricted to operators with specific government licensing. Commercial bodyguards accompanying foreign executives are typically unarmed, with any armed element provided by authorised local operators or, in some cases, state-assigned security for senior visitors. The situation varies by country and by the principal's profile — government-linked visits may involve different arrangements."
+    answer: "Armed commercial close protection in the Gulf states is heavily regulated and generally restricted to operators with specific government licensing. Commercial bodyguards accompanying foreign executives are typically unarmed, with any armed element provided by authorised local operators or, in some cases, state-assigned security for senior visitors. The situation varies by country and by the principal's profile: government-linked visits may involve different arrangements."
   - question: "How has the Israel-Gaza conflict affected security in the broader Middle East?"
     answer: "The conflict has elevated regional threat levels, particularly for targets associated with Israel, the US, or Western governments perceived as supportive of Israel. This includes Western business facilities, hotels used by Western executives, and in some markets any visible Western presence. The Houthi missile and drone campaign in Yemen has affected Red Sea shipping and created periodic threat signals across the Arabian Peninsula. Threat levels are dynamic and require current assessment before travel."
 ---
 
-The Middle East encompasses some of the world's most security-conscious corporate travel destinations and some of its most dangerous. Dubai hosts more international business events than most European capitals. Baghdad requires a security posture appropriate for an active high-risk environment. The region demands careful country-by-country differentiation.
+The Middle East includes some of the world's most security-conscious corporate travel destinations and some of its most dangerous. Dubai hosts more international business events than most European capitals. Baghdad requires a security posture appropriate for an active high-risk environment. The region demands careful country-by-country differentiation.
 
 ## The Gulf States
 
@@ -33,13 +33,13 @@ The Middle East encompasses some of the world's most security-conscious corporat
 
 ## Jordan and Lebanon
 
-**Jordan** is a relatively stable anchor in the Levant. Amman is accessible for corporate travel with standard precautions. Jordan's stability is affected by proximity to conflict — Syria to the north, the West Bank and Gaza to the west. The regional situation requires monitoring.
+**Jordan** is a relatively stable anchor in the Levant. Amman is accessible for corporate travel with standard precautions. Jordan's stability is affected by proximity to conflict: Syria to the north, the West Bank and Gaza to the west. The regional situation requires monitoring.
 
 **Lebanon** presents a substantially different picture. Beirut has been through economic collapse, the 2020 Beirut port explosion (191 killed), and ongoing political dysfunction. Hezbollah's armed presence and the risk of regional escalation with Israel make Lebanon a high-risk destination requiring specialist assessment.
 
 ## Iraq
 
-Iraq remains a high-risk operating environment. Baghdad requires the security posture described in our [Baghdad city guide](/cities/baghdad/) — armoured vehicles, experienced local operators, and mandatory advance work. The Kurdistan Region (Erbil) presents a different, more accessible environment than Baghdad and central Iraq.
+Iraq remains a high-risk operating environment. Baghdad requires the security posture described in our [Baghdad city guide](/cities/baghdad/): armoured vehicles, experienced local operators, and mandatory advance work. The Kurdistan Region (Erbil) presents a different, more accessible environment than Baghdad and central Iraq.
 
 ## The Israel-Gaza Conflict Impact
 

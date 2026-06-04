@@ -21,7 +21,7 @@ faqs:
   - question: "Can foreign close protection officers work in Mumbai?"
     answer: "Foreign security personnel must have valid Indian work authorisation and comply with PSARA requirements. In practice, international operators working in India partner with PSARA-licensed Indian security companies for on-the-ground operational personnel. Foreign principals visiting Mumbai can be accompanied by their regular international security team in an advisory capacity, with Indian-licensed operators providing the formal security function."
   - question: "What is the traffic situation in Mumbai and how does it affect security?"
-    answer: "Mumbai's traffic is among the most congested in the world, particularly on the Western Express Highway, Eastern Express Highway, and across the major arterials. Journey times are highly unpredictable. A security driver's value in Mumbai is partly protective and partly logistical — managing departure times, route alternatives, and contingency for traffic-related delays is a core function."
+    answer: "Mumbai's traffic is among the most congested in the world, particularly on the Western Express Highway, Eastern Express Highway, and across the major arterials. Journey times are highly unpredictable. A security driver's value in Mumbai is partly protective and partly logistical: managing departure times, route alternatives, and contingency for traffic-related delays is a core function."
   - question: "Which areas of Mumbai require the most security awareness?"
     answer: "The BKC (Bandra-Kurla Complex) financial district and Nariman Point are the primary corporate zones with manageable security environments. Areas including Dharavi, Govandi, and parts of the eastern suburbs carry higher ambient crime risk. Late-night movement outside the primary business and hotel districts increases exposure. The specific security environment of any site visit outside central Mumbai should be assessed in advance."
 ---
@@ -32,7 +32,7 @@ For corporate visitors, Mumbai presents a security environment that rewards spec
 
 ## The Threat Picture
 
-The 2008 Lashkar-e-Taiba attacks remain the defining security event in Mumbai's modern history. The coordinated assault across multiple sites — the Taj hotel, Trident-Oberoi, Nariman House, CST station — killed 166 people over three days. Hotel security at Mumbai's five-star properties was comprehensively revised in the aftermath. Vehicle checks, baggage screening, and security infrastructure at Taj, Oberoi, Four Seasons, and equivalent hotels now operates at a standard that was not present before 2008.
+The 2008 Lashkar-e-Taiba attacks remain the defining security event in Mumbai's modern history. The coordinated assault across multiple sites (the Taj hotel, Trident-Oberoi, Nariman House, CST station) killed 166 people over three days. Hotel security at Mumbai's five-star properties was comprehensively revised in the aftermath. Vehicle checks, baggage screening, and security infrastructure at Taj, Oberoi, Four Seasons, and equivalent hotels now operates at a standard that was not present before 2008.
 
 The FCDO notes an ongoing terrorism threat in India. Pakistan-based groups maintain intent to attack Indian targets, and the threat to high-profile locations including international hotels is not absent. The intelligence services of both countries actively monitor and disrupt threats, but no monitoring system is perfect.
 
@@ -42,7 +42,7 @@ Beyond terrorism, Mumbai's security environment includes:
 
 **Business fraud and disputes.** Commercial fraud targeting foreign investors and executives is documented. Due diligence on Indian business partners is a security function as much as a business one.
 
-**Petty crime** in tourist and transport hub areas — the Colaba Causeway, Crawford Market, and Gateway of India precinct areas carry higher pickpocket risk.
+**Petty crime** in tourist and transport hub areas: the Colaba Causeway, Crawford Market, and Gateway of India precinct areas carry higher pickpocket risk.
 
 ## The PSARA Framework
 
@@ -54,7 +54,7 @@ For clients, the verification process is: ask for the Maharashtra PSARA licence 
 
 **Pre-travel.** Threat assessment covering the current intelligence picture for India, any specific alerts for Mumbai, and an assessment of the specific risks relevant to the principal's sector and profile.
 
-**Airport.** Chhatrapati Shivaji Maharaj International Airport (BOM) is Mumbai's international gateway. Pre-arranged collection inside the terminal at an agreed point. Route to hotel pre-planned — the Western Express Highway and the Bandra-Worli Sea Link have specific timing considerations.
+**Airport.** Chhatrapati Shivaji Maharaj International Airport (BOM) is Mumbai's international gateway. Pre-arranged collection inside the terminal at an agreed point. Route to hotel pre-planned: the Western Express Highway and the Bandra-Worli Sea Link have specific timing considerations.
 
 **City movement.** Security driver managing Mumbai's traffic environment. For senior principals, CPO accompanying for venue security.
 

@@ -12,18 +12,18 @@ tags:
   - "uhnwi-security"
 faqs:
   - question: "What are the specific security risks at private dining events for UHNWI principals?"
-    answer: "The risks concentrate around: the concentration of high-value principals in one location, the introduction of external catering staff into the secure environment, media interest in who is attending and what is discussed, and in some contexts, the intelligence value of conversations at senior-level private dinners. Insider threat from catering staff — whether opportunistic theft, surveillance, or deliberate intelligence gathering — is a specific concern at high-value private events."
+    answer: "The risks concentrate around: the concentration of high-value principals in one location, the introduction of external catering staff into the secure environment, media interest in who is attending and what is discussed, and in some contexts, the intelligence value of conversations at senior-level private dinners. Insider threat from catering staff (whether opportunistic theft, surveillance, or deliberate intelligence gathering) is a specific concern at high-value private events."
   - question: "How should catering staff be vetted for a high-security private event?"
     answer: "Catering staff for high-security private events should be vetted through the catering company, which should conduct criminal background checks on all staff deployed to the event. For very high-security events, the host's security team may require the staff list in advance and conduct independent verification. Staff should be briefed on confidentiality requirements and should not use personal devices in event areas without prior agreement."
   - question: "Should a protection officer be present during private dining?"
-    answer: "For principals with elevated threat profiles, yes. The protection officer's positioning during private dining requires judgment — present enough to respond to a threat, discreet enough not to disrupt the occasion. In practice, this often means the officer is in an adjacent area with line of sight to entry points, rather than in the dining room itself, unless the threat assessment warrants closer proximity."
+    answer: "For principals with elevated threat profiles, yes. The protection officer's positioning during private dining requires judgment: present enough to respond to a threat, discreet enough not to disrupt the occasion. In practice, this often means the officer is in an adjacent area with line of sight to entry points, rather than in the dining room itself, unless the threat assessment warrants closer proximity."
 ---
 
 Private dining and estate catering events for UHNWI principals create a specific security environment. They concentrate valuable principals in a residential or quasi-residential setting, introduce external service staff, and often involve sensitive conversations at the highest levels of business and politics.
 
 ## The Security Environment
 
-**Residential settings.** Private dining at an estate, townhouse, or private members club involves the principal's own security environment — which should be prepared rather than improvised for the event.
+**Residential settings.** Private dining at an estate, townhouse, or private members club involves the principal's own security environment, which should be prepared rather than improvised for the event.
 
 **External staff introduction.** Catering teams, sommelier services, entertainment, and service staff are introduced to the secure environment. Each represents an insider threat consideration that must be managed through vetting and operational protocols.
 
@@ -39,6 +39,6 @@ Private dining and estate catering events for UHNWI principals create a specific
 
 **Guest arrival management.** Controlled arrival with a clear protocol for vehicle access, parking, and entry. Separate arrival routes for guests of different profile where appropriate.
 
-**Protection officer positioning.** For protected principals hosting events, the protection officer should conduct a site survey before the event and plan positioning for all phases — arrival, dinner, departure — in advance.
+**Protection officer positioning.** For protected principals hosting events, the protection officer should conduct a site survey before the event and plan positioning for all phases (arrival, dinner, departure) in advance.
 
 *For close protection services for UHNWI principals and private event security, see our [executive protection](/executive-protection/) page.*

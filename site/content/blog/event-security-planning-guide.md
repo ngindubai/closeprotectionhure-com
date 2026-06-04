@@ -12,11 +12,11 @@ tags:
   - "crowd-management"
 faqs:
   - question: "When should event security planning begin?"
-    answer: "Security planning should begin at the same time as venue selection — not after the venue is confirmed. The venue's security characteristics (access control, sight lines, emergency egress) should be part of the selection decision, not a post-booking consideration. For major events, a preliminary security assessment at the venue-selection stage is good practice."
+    answer: "Security planning should begin at the same time as venue selection: not after the venue is confirmed. The venue's security characteristics (access control, sight lines, emergency egress) should be part of the selection decision, not a post-booking consideration. For major events, a preliminary security assessment at the venue-selection stage is good practice."
   - question: "What is the most common event security planning failure?"
-    answer: "Underestimating crowd numbers and the resulting access control requirements. Events consistently attract more attendees than planned, and the consequences — congestion at entry points, inadequate search capacity, perimeter breaches — cascade into significant security degradation. Planning for 20-30% above expected attendance in access control capacity provides necessary margin."
+    answer: "Underestimating crowd numbers and the resulting access control requirements. Events consistently attract more attendees than planned, and the consequences (congestion at entry points, inadequate search capacity, perimeter breaches) cascade into significant security degradation. Planning for 20-30% above expected attendance in access control capacity provides necessary margin."
   - question: "Do I need a licence to provide event security?"
-    answer: "In the UK, yes — event security personnel must hold SIA Door Supervisor or Security Guard licences as appropriate. In most jurisdictions, commercial security services at public events require licensing. The event organiser carries responsibility for ensuring their security contractor is properly licensed. Ask for licence numbers and verify them with the issuing authority."
+    answer: "In the UK, yes: event security personnel must hold SIA Door Supervisor or Security Guard licences as appropriate. In most jurisdictions, commercial security services at public events require licensing. The event organiser carries responsibility for ensuring their security contractor is properly licensed. Ask for licence numbers and verify them with the issuing authority."
 ---
 
 Event security planning is the process of identifying, assessing, and mitigating the security risks associated with a specific event. The scope ranges from a small corporate dinner requiring minimal additional security to a major international conference requiring extensive planning and a multi-agency security operation.
@@ -59,7 +59,7 @@ Access control is the primary mechanism for preventing unauthorised persons from
 
 For events with significant VIP attendance:
 
-- Separate VIP arrival and departure — not co-located with general attendee flow
+- Separate VIP arrival and departure: not co-located with general attendee flow
 - Holding room or green room with restricted access
 - Dedicated security detail for principal VIPs
 - Coordinated arrival timing to avoid simultaneous high-value arrivals

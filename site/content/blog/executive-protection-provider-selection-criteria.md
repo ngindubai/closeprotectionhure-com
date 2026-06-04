@@ -16,7 +16,7 @@ faqs:
   - question: "Should I use a large agency or an independent provider?"
     answer: "Both models can deliver professional service. Large agencies offer bench depth, multi-jurisdictional capacity, and administrative infrastructure. Independent operators or small teams can offer deeper operational focus and principal continuity. The selection criteria apply to both: verify licensing, check references, confirm insurance, and assess operational methodology."
   - question: "How do I verify that a close protection officer is genuinely licensed?"
-    answer: "In the UK, SIA licence numbers can be verified on the SIA public register at sia.homeoffice.gov.uk. In the US, licensing is state-by-state — verify through the relevant state licensing authority. In other jurisdictions, request the licence document and verify with the issuing authority. Never rely on the operator's assertion alone."
+    answer: "In the UK, SIA licence numbers can be verified on the SIA public register at sia.homeoffice.gov.uk. In the US, licensing is state-by-state: verify through the relevant state licensing authority. In other jurisdictions, request the licence document and verify with the issuing authority. Never rely on the operator's assertion alone."
 ---
 
 The executive protection market is uneven. At one end are highly professional, properly licensed operators with documented operational records and verifiable references. At the other are unlicensed individuals with a background in physical fitness and a confident manner. The price difference between them can be surprisingly small. The operational difference can be the difference between a well-managed incident and a catastrophic failure.
@@ -27,7 +27,7 @@ This article provides the selection criteria that security directors and procure
 
 These are hard requirements. Failure on any of them disqualifies the provider.
 
-**Licensing in the jurisdiction of operation.** In most countries, close protection is a licensed activity. In the UK, this means a current SIA Close Protection licence. In the US, state private investigator or security guard licences vary by state but are legally required. In most Middle Eastern countries, security work requires local licensing through the relevant ministry. Verify the licence directly with the issuing authority — not just by requesting a copy from the provider.
+**Licensing in the jurisdiction of operation.** In most countries, close protection is a licensed activity. In the UK, this means a current SIA Close Protection licence. In the US, state private investigator or security guard licences vary by state but are legally required. In most Middle Eastern countries, security work requires local licensing through the relevant ministry. Verify the licence directly with the issuing authority: not just by requesting a copy from the provider.
 
 **Liability insurance.** The provider must carry professional liability insurance covering their operations. Request a current certificate of insurance. This protects both the principal and the client organisation from liability arising from the provider's actions.
 
@@ -41,7 +41,7 @@ These criteria assess whether the provider can deliver effective protection.
 
 **Operational methodology.** How does the provider conduct a threat assessment? What is their advance work process? How do they structure team communications? Providers who cannot answer these questions clearly, or who describe their work primarily in terms of physical capability rather than process, are a concern.
 
-**Local operational knowledge.** For international assignments, does the provider have direct operational experience in the destination? Or are they importing a team without local knowledge? Local knowledge — hospital locations, police contacts, venue familiarity, traffic patterns — is operationally significant.
+**Local operational knowledge.** For international assignments, does the provider have direct operational experience in the destination? Or are they importing a team without local knowledge? Local knowledge (hospital locations, police contacts, venue familiarity, traffic patterns) is operationally significant.
 
 **Principal continuity.** Will the same lead officer handle the assignment throughout? Consistency matters for principal comfort and operational continuity. Ask about team turnover on extended assignments.
 

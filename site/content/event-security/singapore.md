@@ -34,7 +34,7 @@ Singapore is Southeast Asia's primary corporate event hub: home to major financi
 
 ## The security environment
 
-Singapore's violent crime rate is extremely low. Terrorism plots have been disrupted but no mass-casualty attacks have occurred since the 1990s. The Internal Security Department (ISD) maintains a robust counter-terrorism capability. For most corporate event planners, Singapore's security environment is not the primary concern.
+Singapore's violent crime rate is extremely low. Terrorism plots have been disrupted but no mass-casualty attacks have occurred since the 1990s. The Internal Security Department (ISD) maintains a strong counter-terrorism capability. For most corporate event planners, Singapore's security environment is not the primary concern.
 
 The less obvious risk categories at Singapore events are information security related. Singapore operates a sophisticated state intelligence apparatus. Commercially sensitive discussions at major corporate events should assume the possibility of surveillance. This is relevant for events involving significant M&A activity, competitive intelligence, or politically sensitive business discussions.
 

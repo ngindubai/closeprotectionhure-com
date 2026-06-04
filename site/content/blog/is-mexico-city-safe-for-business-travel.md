@@ -56,7 +56,7 @@ If your meetings or site visits take you outside the standard business districts
 
 ## Ground Transport: the Non-Negotiable
 
-This is not an area for cost-saving. The FCDO recommendation against hailing street taxis in Mexico City is one of the more specific and consistent travel safety recommendations in their Latin America guidance. The risk of a pirate taxi (one that has been set up specifically to facilitate robbery or express kidnapping) is real.
+This is not an area for cost-saving. The FCDO recommendation against hailing street taxis in Mexico City is one of the more specific and consistent travel safety recommendations in their Latin America guidance. The risk of a pirate taxi (one that has been set up specifically to enable robbery or express kidnapping) is real.
 
 Verified alternatives:
 - **Uber** within the app, verified by number plate and driver photo before entry

@@ -26,7 +26,7 @@ faqs:
     answer: "Kidnapping for ransom of foreign nationals in Karachi is documented, though frequency is lower than in historically comparable cities like Lagos or Bogota. The risk is higher for executives with publicly visible HNWI profiles, those associated with sectors with local political dimensions, and for movement outside the DHA-Clifton and PECHS corporate areas. Pre-travel kidnap risk assessment is appropriate for senior principals, particularly those in the energy and infrastructure sectors."
 ---
 
-Karachi is Pakistan's financial and commercial capital, a port city of 15-20 million people (estimates vary widely), and the headquarters of Pakistan's banking, textiles, and trading sectors. It is a city that international business visitors have historically either avoided entirely or approached with extensive security arrangements. The accurate 2026 picture is more nuanced than either of those positions.
+Karachi is Pakistan's financial and commercial capital, a port city of 15-20 million people (estimates vary widely), and the headquarters of Pakistan's banking, textiles, and trading sectors. It is a city that international business visitors have historically either avoided entirely or approached with extensive security arrangements. The accurate 2026 picture is more complex than either of those positions.
 
 ## How Karachi's security environment has changed
 

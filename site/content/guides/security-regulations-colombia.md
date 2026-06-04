@@ -38,6 +38,6 @@ Armed close protection is standard for senior executives. Armoured vehicles are 
 
 ## Regional Operations
 
-For operations outside Bogota — Medellín, Cali, Cartagena, and regional cities — verify SuperVigilancia licensing and assess current threat conditions specific to the area. The ELN and BACRIM presence varies by region and requires current assessment.
+For operations outside Bogota (Medellín, Cali, Cartagena, and regional cities) verify SuperVigilancia licensing and assess current threat conditions specific to the area. The ELN and BACRIM presence varies by region and requires current assessment.
 
 *For close protection services in Colombia, see our [Bogota](/cities/bogota/) city page.*

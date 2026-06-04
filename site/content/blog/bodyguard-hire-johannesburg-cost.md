@@ -1,6 +1,6 @@
 ---
 title: "How Much Does a Bodyguard Cost in Johannesburg?"
-description: "The cost of close protection in Johannesburg depends on PSIRA grade, whether armed cover is required, team size, and engagement duration. This guide gives sourced pricing ranges and explains what drives the differences — so you know what a legitimate quote looks like."
+description: "The cost of close protection in Johannesburg depends on PSIRA grade, whether armed cover is required, team size, and engagement duration. This guide gives sourced pricing ranges and explains what drives the differences, so you know what a legitimate quote looks like."
 date: "2026-05-29"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"

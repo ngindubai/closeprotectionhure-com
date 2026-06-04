@@ -32,7 +32,7 @@ Thailand's private security market is significant, particularly in Bangkok where
 
 Bangkok has a well-developed private security market. Major international hotel groups and corporate facilities maintain their own security teams, and there are numerous licensed operators providing executive protection and event security services.
 
-The Bangkok traffic environment is significant from a security planning perspective — journey times are highly variable and route planning must account for Bangkok's notorious congestion.
+The Bangkok traffic environment is significant from a security planning perspective: journey times are highly variable and route planning must account for Bangkok's notorious congestion.
 
 ## Southern Thailand Distinction
 

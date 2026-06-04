@@ -26,11 +26,11 @@ faqs:
     answer: "Istanbul's position at the intersection of Europe, the Middle East, and Central Asia makes it a transit and meeting point for a wide range of actors. Intelligence services from multiple countries are active. Business visitors in defence, energy, and technology sectors should apply appropriate information security and counter-surveillance awareness that goes beyond standard corporate travel precautions."
 ---
 
-Istanbul is Turkey's largest city, home to over 15 million people, and one of the world's most significant business hubs. It is also a city that experienced one of the deadliest terrorist attacks of the 2010s — the June 2016 attack on Ataturk Airport that killed 45 people and wounded over 200. The security environment in Istanbul is real, managed, and requires informed preparation rather than avoidance.
+Istanbul is Turkey's largest city, home to over 15 million people, and one of the world's most significant business hubs. It is also a city that experienced one of the deadliest terrorist attacks of the 2010s: the June 2016 attack on Ataturk Airport that killed 45 people and wounded over 200. The security environment in Istanbul is real, managed, and requires informed preparation rather than avoidance.
 
 ## The Current Threat Picture
 
-The FCDO rates the terrorism threat in Turkey as high — one of the more specific and consistent ratings in their global advisory system. Istanbul specifically has been the site of multiple attacks, including the Sultanahmet square bombing in 2016 that killed foreign nationals, the airport attack later that year, and the 2022 Istiklal Avenue bombing that killed 6 people.
+The FCDO rates the terrorism threat in Turkey as high: one of the more specific and consistent ratings in their global advisory system. Istanbul specifically has been the site of multiple attacks, including the Sultanahmet square bombing in 2016 that killed foreign nationals, the airport attack later that year, and the 2022 Istiklal Avenue bombing that killed 6 people.
 
 The threat sources are multiple: IS-affiliated actors, the PKK and its offshoots (particularly the TAK, Teyrebebazên Azadiya Kurdistan), and lone actors inspired by various extremist narratives. MIT, Turkey's intelligence service, is active and experienced in counter-terrorism. But the threat environment remains elevated and is not declining.
 
@@ -38,7 +38,7 @@ Beyond terrorism, Istanbul has a moderate crime environment by European standard
 
 ## Istanbul's Geography and Security
 
-Istanbul's unique position straddling two continents creates specific operational considerations. The Bosphorus crossing points — the Bosphorus Bridge and the Fatih Sultan Mehmet Bridge — can create predictable routes and timing for principals who cross frequently. Route variation is particularly important in Istanbul precisely because the geography constrains movement.
+Istanbul's unique position straddling two continents creates specific operational considerations. The Bosphorus crossing points, the Bosphorus Bridge and the Fatih Sultan Mehmet Bridge, can create predictable routes and timing for principals who cross frequently. Route variation is particularly important in Istanbul precisely because the geography constrains movement.
 
 Istanbul Airport (IST) on the European side handles most international traffic. The E80 motorway corridor from the airport into the city has documented incident history. Pre-arranged collection at a specific terminal point and a route-planned drive into the city is the professional standard.
 

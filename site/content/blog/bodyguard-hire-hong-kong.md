@@ -26,7 +26,7 @@ faqs:
     answer: "Hong Kong's Security and Guarding Services Ordinance applies within Hong Kong. A Hong Kong-licensed security company is the appropriate choice for close protection within HK. Mainland Chinese security companies do not hold Hong Kong SPP licences and cannot legally provide close protection services in Hong Kong. For visits that cross between Hong Kong and mainland China, two separate licenced providers are the appropriate structure."
 ---
 
-Hong Kong was, for most of its modern history, one of the safest and most legally predictable business environments in Asia. The events of 2019-2020 — the protests and the subsequent imposition of the National Security Law — changed the operating environment in ways that are more significant legally and reputationally than physically.
+Hong Kong was, for most of its modern history, one of the safest and most legally predictable business environments in Asia. The events of 2019-2020, the protests and the subsequent imposition of the National Security Law, changed the operating environment in ways that are more significant legally and reputationally than physically.
 
 For close protection professionals and for clients seeking security services in Hong Kong, the questions have shifted from the relatively straightforward pre-2020 framework to a more complex landscape.
 
@@ -48,7 +48,7 @@ The NSL's impact on business visitors is primarily legal and reputational, not p
 
 **Communications security.** Assume that electronic communications in Hong Kong may be accessible to mainland security services. Apply appropriate encryption and information security protocols for sensitive business discussions.
 
-**Legal exposure.** Activities that are routine in most jurisdictions — meeting with political activists, speaking publicly about sensitive topics, conducting research on NSL-sensitive matters — carry legal risk in Hong Kong. Brief all personnel accompanying a principal.
+**Legal exposure.** Activities that are routine in most jurisdictions (meeting with political activists, speaking publicly about sensitive topics, conducting research on NSL-sensitive matters) carry legal risk in Hong Kong. Brief all personnel accompanying a principal.
 
 **Business transitions.** Some companies have restructured their Hong Kong operations in response to the NSL. Individuals managing these transitions should take legal advice and apply security measures appropriate to the sensitivity of the process.
 

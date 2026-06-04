@@ -2,7 +2,7 @@
   "_comment": "Machine-readable batch tracker. Update after each session.",
   "blog": {
     "last_batch_completed": 8,
-    "total_articles_live": 39,
+    "total_articles_live": 108,
     "next_batch": 9,
     "next_blog_batch_topics": [
       "is-lagos-safe-for-business-travel",
@@ -13,7 +13,7 @@
     ],
     "cannibalisation_note": "security-driver-sao-paulo dropped from Batch 8 — duplicate of /security-drivers/sao-paulo/ service page built in Phase 3C Block 2. Do not blog topics already covered by Phase 3C deep pages."
   },
-  "cities": {"total_live": 70},
+  "cities": {"total_live": 93},
   "service_city_matrix": {
     "priority_cities": ["johannesburg","lagos","dubai","nairobi","mexico-city","bogota","riyadh","mumbai","sao-paulo","istanbul"],
     "blocks": {
@@ -25,18 +25,19 @@
     }
   },
   "pages": {
-    "total_live": 261,
-    "last_updated": "2026-05-29"
+    "total_live": 350,
+    "_count_note": "350 non-index content .md files + 6 root pages + section indexes (~367 Hugo pages). Reconciled 2026-06-03 from the actual content tree; prior 261 was stale.",
+    "last_updated": "2026-06-03"
   },
   "engine_alignment": {
     "1_combinatorial_generators": "DONE",
     "2_structured_data_layer": "DONE",
-    "3_bulk_blog_factory": "IN PROGRESS — 8/19 batches (39 articles)",
-    "4_internal_link_graph": "DIAGNOSTIC SCRIPT DONE — Stage 2J rewrite pending",
-    "5_qa_seo_quality_gate": "SCRIPTS DONE — Stage 2L full site pass pending",
+    "3_bulk_blog_factory": "IN PROGRESS - 108 articles live",
+    "4_internal_link_graph": "DIAGNOSTIC SCRIPT DONE - Stage 2J rewrite pending",
+    "5_qa_seo_quality_gate": "SCRIPTS DONE - Stage 2L error pass complete 2026-06-03 (0 errors); FAQ/link/description WARNINGS remain",
     "6_incremental_deploy_pipeline": "DONE",
     "7_operating_system": "DONE"
   },
   "cannibalisation_rule": "Do not blog on topics already covered by Phase 3C service x city deep pages. The deep pages ARE the definitive content for bodyguard-hire/{city}, security-drivers/{city}, executive-protection/{city}, residential-security/{city}. Blog articles on these topics should cover angles the deep pages do not: cost breakdowns, regulatory explainers, comparison pieces, question-led safety guides.",
-  "next_stage": "Stage 2L (full QA pass) then Blog Batch 9 or Phase 3D (P3 city expansion Batch 3)"
+  "next_stage": "Thin P1 city depth expansion (moscow, mumbai, manila, riyadh, sao-paulo, istanbul, bangkok, dubai, mexico-city, jakarta) to clear the FAQ-floor (<4) and internal-link (<2) WARNINGS surfaced by the 2026-06-03 QA pass; then Stage 2J internal link graph"
 }

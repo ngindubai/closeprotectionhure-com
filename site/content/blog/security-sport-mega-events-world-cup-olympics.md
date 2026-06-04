@@ -19,7 +19,7 @@ faqs:
     answer: "Yes. Mega-events are explicitly identified as attractive targets in terrorist threat assessments because of their concentration of people, global media reach, and symbolic value. FIFA World Cup venues and Olympic Games have been subject to specific plots, though most have been disrupted before execution. The 1972 Munich Olympics, the 1996 Atlanta bombing, and the 2017 Manchester Arena attack (during an Ariana Grande concert, a mega-entertainment event equivalent) all demonstrate the real-world impact of attacks on major events."
 ---
 
-Sport mega-events — the FIFA World Cup, Olympic Games, Rugby World Cup, major international championships — create security environments that are categorically different from standard corporate or even major private events. The scale, international profile, media attention, and deliberate gathering of high-value targets make them premium environments from both a security planning and a threat actor perspective.
+Sport mega-events (the FIFA World Cup, Olympic Games, Rugby World Cup, major international championships) create security environments that are categorically different from standard corporate or even major private events. The scale, international profile, media attention, and deliberate gathering of high-value targets make them premium environments from both a security planning and a threat actor perspective.
 
 ## The Mega-Event Security Environment
 

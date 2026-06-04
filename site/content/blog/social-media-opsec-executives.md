@@ -16,16 +16,16 @@ faqs:
   - question: "What is the most dangerous type of social media content from a security perspective?"
     answer: "Real-time location data combined with routine information. A single post showing you at your regular morning coffee location is low risk. The same post repeated daily at the same time creates a pattern that a surveillance operation can use to predict your movements. Strava running routes showing your home address starting point are among the most operationally dangerous content executives share without realising it."
   - question: "How should I handle family members' social media?"
-    answer: "This is a genuine operational security challenge. You cannot control adult family members' social media use, but you can have a conversation about specific risks. The most important conversations concern children — schools, sports schedules, and home location should not be visible in children's social media or in parents' posts about children. Accounts should be private. Location services should be off for photos."
+    answer: "This is a genuine operational security challenge. You cannot control adult family members' social media use, but you can have a conversation about specific risks. The most important conversations concern children: schools, sports schedules, and home location should not be visible in children's social media or in parents' posts about children. Accounts should be private. Location services should be off for photos."
 ---
 
-Social media has become the primary source of operational intelligence for threat actors targeting executives. The information executives and their families voluntarily publish — locations, routines, travel plans, family details — provides what professional surveillance operations historically required significant resources to collect.
+Social media has become the primary source of operational intelligence for threat actors targeting executives. The information executives and their families voluntarily publish (locations, routines, travel plans, family details) provides what professional surveillance operations historically required significant resources to collect.
 
 This is not an argument for going offline. It is an argument for understanding what you are publishing and making deliberate decisions about it.
 
 ## The Operational Intelligence Problem
 
-Threat actors — whether criminal groups targeting executives for kidnap, activists organising protests at residences, or stalkers — benefit from the same information:
+Threat actors (whether criminal groups targeting executives for kidnap, activists organising protests at residences, or stalkers) benefit from the same information:
 
 - Where the executive lives (home address or neighbourhood)
 - Where they are right now (real-time location tags)
@@ -39,11 +39,11 @@ Most executives publish some or all of this information without recognising its 
 
 **Real-time location tags.** Any post that includes your current location provides immediate intelligence to anyone monitoring your account. This includes Instagram location tags, Swarm/Foursquare check-ins, and Facebook location data.
 
-**Routine publication.** Posts at the same location at regular intervals reveal a pattern. The morning coffee, the gym, the regular restaurant — any routine published repeatedly creates a predictable movement signature.
+**Routine publication.** Posts at the same location at regular intervals reveal a pattern. The morning coffee, the gym, the regular restaurant: any routine published repeatedly creates a predictable movement signature.
 
 **Travel announcements.** Announcing a trip in advance tells anyone monitoring that your home will be unoccupied and when. Posting from airports reveals your travel timing and destination. Posting from hotels reveals your accommodation.
 
-**Strava and fitness apps.** Running and cycling routes that start and end at your home address publish your home location. Routes through your neighbourhood at consistent times publish your routine. Strava has been used to identify the home addresses and routines of intelligence and military personnel — the same vulnerability applies to executives.
+**Strava and fitness apps.** Running and cycling routes that start and end at your home address publish your home location. Routes through your neighbourhood at consistent times publish your routine. Strava has been used to identify the home addresses and routines of intelligence and military personnel: the same vulnerability applies to executives.
 
 **Family exposure.** Children's school name, sports team, after-school activities, and any location data associated with family members extend the attack surface beyond the executive to family members who may be easier to access.
 
@@ -57,7 +57,7 @@ Most executives publish some or all of this information without recognising its 
 
 **Set accounts to private where appropriate.** Professional accounts may need to remain public. Personal accounts, particularly Instagram, can be set to approved followers only.
 
-**Have the conversation with family.** Specifically about children — location services, school names, sports schedules. This is the most important conversation and the most frequently avoided.
+**Have the conversation with family.** Specifically about children: location services, school names, sports schedules. This is the most important conversation and the most frequently avoided.
 
 **Strava privacy zones.** Strava allows you to set a privacy zone around your home that hides the start and end points of activities within that radius. Use it.
 

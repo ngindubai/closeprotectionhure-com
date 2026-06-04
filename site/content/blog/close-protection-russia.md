@@ -14,12 +14,12 @@ faqs:
   - question: "Does the FCDO advise against travel to Russia?"
     answer: "The FCDO advises against all travel to Russia. This reflects the current risk environment including: the conflict with Ukraine and its consequences for civilian safety; the risk of arbitrary detention; the suspension of many commercial flights creating limited exit options; and the general unpredictability of the security environment for foreign nationals. Most Western companies have significantly reduced or eliminated Russia exposure since February 2022."
   - question: "Who still needs close protection services for Russia?"
-    answer: "A small number of organisations still have Russian operations — some energy companies completing long-term contracts, legal firms handling complex litigation, journalists, and NGOs. For the very limited number of individuals who must travel to Russia for compelling reasons, security planning is essential. This includes: legal risk assessment (sanctions compliance, arbitrary detention risk), travel planning that accounts for limited flight options, and in-country security support from operators who understand the current environment."
+    answer: "A small number of organisations still have Russian operations: some energy companies completing long-term contracts, legal firms handling complex litigation, journalists, and NGOs. For the very limited number of individuals who must travel to Russia for compelling reasons, security planning is essential. This includes: legal risk assessment (sanctions compliance, arbitrary detention risk), travel planning that accounts for limited flight options, and in-country security support from operators who understand the current environment."
   - question: "What is the arbitrary detention risk for foreign nationals in Russia?"
-    answer: "Since 2022, foreign nationals in Russia face elevated risk of detention on various grounds including 'discrediting the armed forces,' espionage allegations, or as leverage in bilateral disputes. US, UK, and other Western nationals have been detained. This is not a conventional security risk addressed by close protection — it requires legal preparedness, embassy registration, and in some cases, limiting travel to Russia entirely."
+    answer: "Since 2022, foreign nationals in Russia face elevated risk of detention on various grounds including 'discrediting the armed forces,' espionage allegations, or as a bargaining chip in bilateral disputes. US, UK, and other Western nationals have been detained. This is not a conventional security risk addressed by close protection: it requires legal preparedness, embassy registration, and in some cases, limiting travel to Russia entirely."
 ---
 
-Russia's security environment for foreign nationals has changed fundamentally since February 2022. What was a manageable corporate travel environment — challenging but navigable — has become a high-risk jurisdiction for most Western nationals with an advisory against all travel from most Western governments.
+Russia's security environment for foreign nationals has changed fundamentally since February 2022. What was a manageable corporate travel environment, challenging but navigable, has become a high-risk jurisdiction for most Western nationals with an advisory against all travel from most Western governments.
 
 ## The Current Environment
 
@@ -32,7 +32,7 @@ Russia's security environment for foreign nationals has changed fundamentally si
 
 **Conflict consequences.** While Moscow and most Russian cities are not in active conflict zones, the conflict has created domestic security consequences: periodic drone attacks on Moscow Oblast, military mobilisation affecting the population, and a security environment in which the Russian state has significantly expanded surveillance and control powers.
 
-**Arbitrary detention.** Western nationals, including journalists, business people, and dual nationals, have been detained in Russia since 2022. Detention has been used as leverage in diplomatic disputes. This risk is not addressed by conventional close protection.
+**Arbitrary detention.** Western nationals, including journalists, business people, and dual nationals, have been detained in Russia since 2022. Detention has been used as a bargaining chip in diplomatic disputes. This risk is not addressed by conventional close protection.
 
 ## For Organisations with Residual Russia Exposure
 

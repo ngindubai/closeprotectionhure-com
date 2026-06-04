@@ -75,7 +75,7 @@ faqs:
     answer: "The Zambian kwacha (ZMW) is the local currency. USD is accepted in many business contexts and hotels. Major international bank cards work at ATMs in Lusaka business districts. Use ATMs inside bank branches or hotel lobbies. Confirm your card provider has no restrictions on Zambia before travel."
 ---
 
-Lusaka is Zambia's capital and the country's commercial and governmental centre. At approximately 3 million people in the metropolitan area, it is southern Africa's fifth-largest city and the hub for one of the continent's most significant copper-producing economies. Zambia's strategic importance to the global electric vehicle and renewable energy transition — as a major copper and cobalt producer — has brought new international attention to the country and increased business traffic to Lusaka.
+Lusaka is Zambia's capital and the country's commercial and governmental centre. At approximately 3 million people in the metropolitan area, it is southern Africa's fifth-largest city and the hub for one of the continent's most significant copper-producing economies. Zambia's strategic importance to the global electric vehicle and renewable energy transition, as a major copper and cobalt producer, has brought new international attention to the country and increased business traffic to Lusaka.
 
 ## Why Lusaka matters commercially
 

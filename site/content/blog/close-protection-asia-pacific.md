@@ -19,7 +19,7 @@ faqs:
     answer: "China presents a distinctive challenge: the state surveillance environment means that commercial close protection operates under different constraints than in Western countries. Foreign security teams face regulatory restrictions on their operations. The intelligence risk (comprehensive state surveillance of communications and movement) is often more operationally significant than physical security risk for corporate principals. Security planning for China should include cyber and communications security alongside physical protection."
 ---
 
-Asia-Pacific spans security environments from among the world's safest (Japan, Singapore, New Zealand) to environments requiring specialist support (Philippines, Papua New Guinea). Corporate travel patterns in the region are dominated by the major hubs — Singapore, Tokyo, Hong Kong, Seoul, Sydney — which are largely accessible without enhanced security measures. The complexity arises in the second and third-tier markets.
+Asia-Pacific spans security environments from among the world's safest (Japan, Singapore, New Zealand) to environments requiring specialist support (Philippines, Papua New Guinea). Corporate travel patterns in the region are dominated by the major hubs (Singapore, Tokyo, Hong Kong, Seoul, Sydney) which are largely accessible without enhanced security measures. The complexity arises in the second and third-tier markets.
 
 ## North Asia
 
@@ -33,7 +33,7 @@ Asia-Pacific spans security environments from among the world's safest (Japan, S
 
 ## Southeast Asia
 
-**Singapore** is the region's premier corporate hub — a modern, well-policed city with minimal violent crime. Enhanced security measures are not required for most corporate travel. Executive protection is available for high-profile principals.
+**Singapore** is the region's premier corporate hub: a modern, well-policed city with minimal violent crime. Enhanced security measures are not required for most corporate travel. Executive protection is available for high-profile principals.
 
 **Thailand** is generally accessible for corporate travel to Bangkok. The south (Yala, Pattani, Narathiwat) remains a distinct high-risk environment with an active insurgency and is effectively separate from the Bangkok corporate travel environment.
 
@@ -43,6 +43,6 @@ Asia-Pacific spans security environments from among the world's safest (Japan, S
 
 ## Oceania
 
-**Australia** and **New Zealand** are standard-risk corporate travel destinations with professional law enforcement and emergency services. Both have experienced terrorism (see Sydney and Christchurch), but remain low-risk overall for corporate travel. The licensing frameworks are robust.
+**Australia** and **New Zealand** are standard-risk corporate travel destinations with professional law enforcement and emergency services. Both have experienced terrorism (see Sydney and Christchurch), but remain low-risk overall for corporate travel. The licensing frameworks are well-established.
 
 *For close protection services across Asia-Pacific, see our [executive protection](/executive-protection/) and [cities](/cities/) pages.*

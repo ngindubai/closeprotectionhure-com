@@ -18,7 +18,7 @@ components:
   - title: "Petty Crime and Scams"
     description: "Pickpocketing concentrates around Istiklal Avenue, Sultanahmet, and the Grand Bazaar. Drink spiking in nightlife areas (Beyoglu) is documented. Scam bars in tourist areas have overcharged foreign nationals by significant margins. These are lower-severity risks than terrorism but affect a higher proportion of visitors."
   - title: "Civil Unrest"
-    description: "Protests occur periodically around Taksim Square, particularly related to Kurdish political issues and political opposition movements. Police response is robust. State of emergency powers allow rapid crackdowns. Lese-majeste equivalent restrictions on political speech create legal risk for careless public statements."
+    description: "Protests occur periodically around Taksim Square, particularly related to Kurdish political issues and political opposition movements. Police response is forceful. State of emergency powers allow rapid crackdowns. Lese-majeste equivalent restrictions on political speech create legal risk for careless public statements."
   - title: "Legal and Cultural Risk"
     description: "Turkey's expanded security legislation creates risk for foreign nationals. Social media posts perceived as critical of the government, its allies, or the Turkish military can lead to arrest. This is not theoretical. British and other Western nationals have been detained. Understand what you publish before and during any visit."
 faqs:
@@ -32,7 +32,7 @@ faqs:
 
 Istanbul is Turkey's commercial capital and a major international business hub connecting Europe and Asia. It hosts the headquarters of hundreds of international companies and receives millions of business visitors annually.
 
-The security picture is genuinely mixed. Crime levels are moderate compared to other P1 cities. Police are present and reasonably responsive. But the terrorism threat is real, multi-source, and has produced attacks in recent years. Add an active seismic environment and a political climate that creates legal risk for careless behaviour, and Istanbul requires a more nuanced risk assessment than its general reputation might suggest.
+The security picture is genuinely mixed. Crime levels are moderate compared to other P1 cities. Police are present and reasonably responsive. But the terrorism threat is real, multi-source, and has produced attacks in recent years. Add an active seismic environment and a political climate that creates legal risk for careless behaviour, and Istanbul requires a more careful risk assessment than its general reputation might suggest.
 
 ## The terrorism picture
 

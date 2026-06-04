@@ -16,14 +16,14 @@ faqs:
   - question: "How should contractors manage security in remote project locations?"
     answer: "Remote project security requires a systematic approach: baseline security assessment before mobilisation, daily journey management for all vehicle movements, residential compound security with access control, communication systems that work in remote areas (satellite communication where mobile networks are unavailable), medical evacuation planning tested before deployment, and K&R insurance for all personnel."
   - question: "What is the duty of care obligation for engineering companies deploying staff internationally?"
-    answer: "Engineering companies have the same duty of care obligations as any employer — the requirement to take reasonable steps to protect employees from foreseeable harm. In practice, deploying engineering staff to a high-risk jurisdiction without adequate security preparation, threat assessment, and emergency response planning creates significant legal liability if harm occurs. The cost of security preparation is always less than the cost of a serious incident."
+    answer: "Engineering companies have the same duty of care obligations as any employer: the requirement to take reasonable steps to protect employees from foreseeable harm. In practice, deploying engineering staff to a high-risk jurisdiction without adequate security preparation, threat assessment, and emergency response planning creates significant legal liability if harm occurs. The cost of security preparation is always less than the cost of a serious incident."
 ---
 
-Infrastructure and engineering contractors are among the international workforce categories most frequently exposed to serious security incidents — working in remote locations, in countries with elevated security risk, on projects that may generate community or political opposition.
+Infrastructure and engineering contractors are among the international workforce categories most frequently exposed to serious security incidents: working in remote locations, in countries with elevated security risk, on projects that may generate community or political opposition.
 
 ## The Infrastructure Security Context
 
-**Geographic exposure.** Infrastructure projects — roads, bridges, energy facilities, telecoms, water systems — are built where they are needed, not where security conditions are comfortable. This takes engineering teams into some of the world's most challenging security environments.
+**Geographic exposure.** Infrastructure projects (roads, bridges, energy facilities, telecoms, water systems) are built where they are needed, not where security conditions are comfortable. This takes engineering teams into some of the world's most challenging security environments.
 
 **Kidnap risk.** Foreign engineering professionals represent credible kidnap targets in elevated-risk jurisdictions: their employer has resources, their employers want them back, and their presence in remote locations may make surveillance and access easier than for urban-based executives.
 

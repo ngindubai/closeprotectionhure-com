@@ -27,7 +27,7 @@ The security considerations that result are distinct from those of corporate exe
 
 **Sensitive information.** Alternative asset managers hold non-public information about portfolio companies, deal pipelines, and investment strategies. This is valuable to competitors, foreign state intelligence services (particularly where investments touch on technology or critical infrastructure), and potentially to activists monitoring fund activity.
 
-**Portfolio company exposure.** Where portfolio companies operate in contested sectors — fossil fuels, defence, private prisons, controversial supply chains — the fund managers become potential targets for activist campaigns that can include personal targeting.
+**Portfolio company exposure.** Where portfolio companies operate in contested sectors (fossil fuels, defence, private prisons, controversial supply chains) the fund managers become potential targets for activist campaigns that can include personal targeting.
 
 **Due diligence travel.** Alternative asset managers travel to evaluate investment targets and manage portfolio companies across a wide range of jurisdictions, including markets with elevated security risk.
 

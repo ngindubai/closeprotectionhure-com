@@ -77,7 +77,7 @@ Accra is the capital and commercial centre of Ghana and the most stable major bu
 
 ## Ghana's position in the West Africa business landscape
 
-For companies with West African operations, Accra often serves as a regional hub or entry point. The English-speaking business environment, functional banking system, and relative political stability make it a more operationally manageable base than Lagos or Abuja, though both carry higher commercial weight. Ghana's key economic sectors — oil and gas, gold mining, cocoa, and a growing technology cluster — draw genuine international business traffic.
+For companies with West African operations, Accra often serves as a regional hub or entry point. The English-speaking business environment, functional banking system, and relative political stability make it a more operationally manageable base than Lagos or Abuja, though both carry higher commercial weight. Ghana's key economic sectors (oil and gas, gold mining, cocoa, and a growing technology cluster) draw genuine international business traffic.
 
 ## The risk picture in context
 

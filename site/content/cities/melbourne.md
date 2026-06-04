@@ -8,7 +8,7 @@ risk_level: "moderate"
 seo_title: "Bodyguard Hire Melbourne | Close Protection & Executive Security Australia"
 threats:
   - type: "Terrorism"
-    detail: "Australia's national terrorism threat level is PROBABLE — an attack is likely. Victoria has a documented terrorism history including the 2017 Bourke Street Mall vehicle attack (6 killed) and multiple foiled plots. Melbourne CBD has been specifically targeted by lone-actor and vehicle-borne attack planning. Crowded public spaces in the CBD and major event venues are the primary risk locations."
+    detail: "Australia's national terrorism threat level is PROBABLE: an attack is likely. Victoria has a documented terrorism history including the 2017 Bourke Street Mall vehicle attack (6 killed) and multiple foiled plots. Melbourne CBD has been specifically targeted by lone-actor and vehicle-borne attack planning. Crowded public spaces in the CBD and major event venues are the primary risk locations."
   - type: "Gang and Organised Crime"
     detail: "Victoria has experienced significant gang violence over the past decade, primarily Apex gang activity and African-Australian youth gang conflicts in outer western and northern suburbs. These incidents are largely confined to specific communities and do not typically affect corporate travellers, but the presence of organised crime in greater Melbourne is a due diligence consideration for some sector-specific business operations."
   - type: "Petty Crime"
@@ -21,7 +21,7 @@ available_services:
   - name: "Security Drivers"
     description: "Trained security drivers with Melbourne road knowledge. Airport transfers from Melbourne Airport (Tullamarine) and inter-venue transport. CityLink and Monash Freeway route familiarity."
   - name: "Event Security"
-    description: "Security planning and staffing for corporate events, major conferences (MCEC, ICC Melbourne), and private functions. Melbourne hosts major international events — Grand Prix, Australian Open, AFL finals — requiring specialist event security planning."
+    description: "Security planning and staffing for corporate events, major conferences (MCEC, ICC Melbourne), and private functions. Melbourne hosts major international events (Grand Prix, Australian Open, AFL finals) requiring specialist event security planning."
   - name: "Residential Security"
     description: "Property security for hotel-based principals and short-term residence arrangements. Melbourne CBD, Southbank, and inner-eastern suburbs well-covered."
 regulations:
@@ -49,7 +49,7 @@ warnings:
   - "Australia's PROBABLE terrorism threat level is operationally real in Melbourne. The 2017 Bourke Street attack killed six people in the CBD. Crowded public locations in the CBD require situational awareness and advance venue assessment for high-profile events."
   - "Melbourne's tram network crosses major CBD intersections. Security drivers should be familiar with tram right-of-way rules to avoid route delays at critical points."
   - "Melbourne Airport (Tullamarine) is on the Tullamarine Freeway approximately 22km from the CBD. Transfer time is 30-60 minutes depending on traffic. Peak hours (7-9am, 4-7pm) significantly extend transfer times. Pre-book all transfers."
-  - "Major events — Formula 1 Grand Prix (Albert Park, March), Australian Open (Melbourne Park, January), AFL finals (MCG) — create significant crowd concentrations and transport disruption. Corporate itineraries coinciding with major events require advance venue and route assessment."
+  - "Major events (Formula 1 Grand Prix (Albert Park, March), Australian Open (Melbourne Park, January), AFL finals (MCG)) create significant crowd concentrations and transport disruption. Corporate itineraries coinciding with major events require advance venue and route assessment."
 related_cities:
   - name: "Sydney"
     slug: "sydney"
@@ -59,7 +59,7 @@ related_cities:
     slug: "singapore"
 faqs:
   - question: "Is Melbourne safe for corporate travel?"
-    answer: "Generally yes. Melbourne is a modern, well-policed city with strong emergency services. The specific concern is terrorism — PROBABLE threat level with a documented history of CBD attacks. Standard corporate security measures (pre-booked transport, advance venue assessment, situational awareness) are appropriate. Full close protection is warranted for UHNWI principals and high-profile executives."
+    answer: "Generally yes. Melbourne is a modern, well-policed city with strong emergency services. The specific concern is terrorism: PROBABLE threat level with a documented history of CBD attacks. Standard corporate security measures (pre-booked transport, advance venue assessment, situational awareness) are appropriate. Full close protection is warranted for UHNWI principals and high-profile executives."
   - question: "What licence do Melbourne security operators need?"
     answer: "A Security Industry Registration under Victoria's Private Security Act 2004, issued by Consumer Affairs Victoria / VSIRA. Close personal protection is a specific registration category. Verify registration numbers directly with the licensing authority before engagement."
   - question: "Is armed protection available in Melbourne?"
@@ -78,7 +78,7 @@ Australia's PROBABLE terrorism threat level means ASIO assesses that an attack i
 
 - Crowded public spaces present a higher baseline risk than in LOW-threat jurisdictions
 - Advance venue assessment for events and meetings in public or high-footfall venues is appropriate standard practice
-- Lone-actor attacks (vehicle, knife, or firearm) are the primary modelled scenario — both for general public and corporate principals
+- Lone-actor attacks (vehicle, knife, or firearm) are the primary modelled scenario: both for general public and corporate principals
 
 For most corporate travellers in Melbourne, the PROBABLE threat level should inform planning without requiring wholesale security measures beyond the professional baseline.
 

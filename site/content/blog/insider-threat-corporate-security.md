@@ -12,14 +12,14 @@ tags:
   - "security-management"
 faqs:
   - question: "What percentage of security incidents involve insiders?"
-    answer: "Industry studies consistently show that 20-30% of significant security incidents have an insider element — either a malicious insider acting deliberately, a negligent insider who creates a vulnerability inadvertently, or a compromised insider whose credentials or access are exploited by an external actor. The proportion varies by sector; financial services and critical infrastructure see higher insider threat rates."
+    answer: "Industry studies consistently show that 20-30% of significant security incidents have an insider element: either a malicious insider acting deliberately, a negligent insider who creates a vulnerability inadvertently, or a compromised insider whose credentials or access are exploited by an external actor. The proportion varies by sector; financial services and critical infrastructure see higher insider threat rates."
   - question: "How do you detect insider threats without creating a surveillance culture?"
     answer: "The answer is proportionality and transparency. Proportionate monitoring focuses on high-risk access points (sensitive data repositories, physical access logs for secure areas) rather than general employee behaviour. Transparency means employees know what is monitored and why, which itself is a deterrent to malicious insiders and does not significantly affect legitimate behaviour."
   - question: "What are the most common indicators of a malicious insider?"
     answer: "Behavioural indicators include: accessing systems or areas outside normal role requirements, downloading or copying large volumes of data (especially ahead of resignation), accessing sensitive information at unusual hours, unusual interest in colleagues' access credentials, expressing significant grievance against the organisation, and financial stress indicators where these are apparent. No single indicator is definitive; patterns matter more than individual instances."
 ---
 
-Insider threat is the risk that people with authorised access to an organisation's assets — employees, contractors, partners — use that access to cause harm. It is one of the most difficult security risks to manage because the controls that prevent external threats (access control, perimeter security) specifically grant the insider access.
+Insider threat is the risk that people with authorised access to an organisation's assets (employees, contractors, partners) use that access to cause harm. It is one of the most difficult security risks to manage because the controls that prevent external threats (access control, perimeter security) specifically grant the insider access.
 
 This article covers the practical management of insider threat without creating the surveillance culture that destroys the trust that productive organisations depend on.
 
@@ -50,7 +50,7 @@ Behavioural indicators include:
 - Personal circumstances changes that may create motivation for harmful actions
 - Evasiveness about work activities or access
 
-Behavioural indicators require careful handling — they are never definitive and raise significant HR and legal considerations.
+Behavioural indicators require careful handling: they are never definitive and raise significant HR and legal considerations.
 
 ## Mitigation Measures
 

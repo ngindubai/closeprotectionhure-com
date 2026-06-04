@@ -64,9 +64,9 @@
 - [ ] Resolve under-linked pages, orphans, top-inbound rebalancing
 
 ### Stage 2L -- QA + Full Site Audit
-- [ ] Run `scripts/qa_audit.py` across all silos
-- [ ] Run `scripts/check_titles.py` + `scripts/check_descriptions.py`
-- [ ] Fix any YMYL safety-guarantee patterns, banned words, or em dashes found
+- [x] **Error pass complete 03 Jun 2026:** `scripts/qa_audit.py` now PASSES with 0 errors (was 142). Fixed: 469 em dashes converted to colons/commas/parentheses across ~100 files (mostly blog); 37 banned-vocabulary occurrences reworded (leverage, robust, facilitate, nuanced, encompasses, vibrant, ubiquitous, proactive, paradigm); 1 banned phrase ("it is worth noting"); BOM stripped from bangalore/delhi/lima (front matter was unreadable). Auditor hardened: YMYL patterns now skip negated disclaimers ("does not eliminate risk", "not risk-free") and the front-matter parser tolerates a BOM.
+- [ ] **WARNINGS remain (651):** FAQ floor (cities <4), internal-link floor (<2), description length. These are the next block (thin-city depth expansion), not error-blocking.
+- [ ] Title cannibalisation follow-up: `countries/usa.md` and `countries/united-states.md` share a title (duplicate country page) - resolve in a later stage.
 
 ### Phase 3G -- P3 City Expansion Batch 6
 - [ ] Candidates: Naypyidaw, Bamako, Niamey, Mogadishu (conflict-zone advisory), Tripoli
@@ -90,3 +90,4 @@
 | 02 Jun 2026 | 3E | 6 | Medellin, Guadalajara, Accra, Maputo, Lusaka, Abidjan |
 | 02 Jun 2026 | Forms | 0 | FormSubmit wired to garethsomers@outlook.com, both forms fixed |
 | 02 Jun 2026 | 3F | 5 | Almaty, Tashkent, Islamabad, Conakry, Harare; deleted 2 test stubs |
+| 03 Jun 2026 | 2L | 0 | QA error pass: 142 errors to 0. Em dashes (469), banned words (37), banned phrase (1), BOM fixes (3). Auditor hardened (YMYL negation guard, BOM-tolerant parser). Reconciled stale counts in build_state.json (cities 70->93, blog 39->108, pages 261->350). |

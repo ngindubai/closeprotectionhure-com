@@ -16,7 +16,7 @@ faqs:
   - question: "How does organised crime target logistics operations?"
     answer: "Organised cargo theft uses multiple methods: facility theft from warehouses and depots (often involving inside knowledge), highway robbery and vehicle stop-and-robs, fictitious pick-ups (where criminals impersonate legitimate hauliers to collect loads), and cyber-enabled freight fraud (hijacking electronic communications to divert shipments). The sophistication of attacks has increased significantly in the past decade."
   - question: "What technology is most effective for supply chain security?"
-    answer: "Track and trace technology — GPS and cellular tracking on vehicles and containers, RFID for pallet and unit-level tracking, and remote monitoring platforms that provide real-time visibility of cargo in transit. Technology is most effective when combined with human security measures: vetted drivers, secure facilities, and trained security personnel at high-risk nodes."
+    answer: "Track and trace technology: GPS and cellular tracking on vehicles and containers, RFID for pallet and unit-level tracking, and remote monitoring platforms that provide real-time visibility of cargo in transit. Technology is most effective when combined with human security measures: vetted drivers, secure facilities, and trained security personnel at high-risk nodes."
 ---
 
 Supply chain and logistics security addresses the protection of goods in transit and storage across increasingly complex global supply chains. As supply chains have extended geographically and become more tightly integrated, the security vulnerabilities within them have grown proportionally.
@@ -25,11 +25,11 @@ Supply chain and logistics security addresses the protection of goods in transit
 
 **Cargo theft scale.** Global cargo theft losses run to tens of billions annually. The crime is significantly underreported because companies are concerned about reputational impact and insurance consequences. The actual financial impact on supply chains is substantially higher than published statistics suggest.
 
-**Professional criminal networks.** Organised cargo theft is not opportunistic — professional networks have supply chain knowledge, logistics industry contacts, and distribution networks for stolen goods. Some operate internationally, targeting specific cargo types with inside knowledge of valuable shipments.
+**Professional criminal networks.** Organised cargo theft is not opportunistic: professional networks have supply chain knowledge, logistics industry contacts, and distribution networks for stolen goods. Some operate internationally, targeting specific cargo types with inside knowledge of valuable shipments.
 
 **High-value cargo categories.** Electronics, pharmaceuticals, alcohol, tobacco, meat, and high-value foods are the primary targets. These categories combine high resale value with established criminal distribution networks. High-value branded goods are also systematically targeted.
 
-**Facility vulnerability.** Warehouses, distribution centres, and transport depots are the primary theft locations. Insider involvement — either direct participation or provision of information to outside criminals — is a documented risk.
+**Facility vulnerability.** Warehouses, distribution centres, and transport depots are the primary theft locations. Insider involvement, either direct participation or provision of information to outside criminals, is a documented risk.
 
 ## Security Measures
 
@@ -37,7 +37,7 @@ Supply chain and logistics security addresses the protection of goods in transit
 
 **Facility security.** Access control, CCTV, security personnel at higher-risk facilities. Supplier and contractor vetting. Visitor management and delivery documentation control.
 
-**Route security.** Risk assessment of routes with identification of high-risk sections. Driver security briefing. Rest stop protocols — avoiding pre-identified high-risk locations.
+**Route security.** Risk assessment of routes with identification of high-risk sections. Driver security briefing. Rest stop protocols: avoiding pre-identified high-risk locations.
 
 **Vetting and insider threat.** Background checks for employees with access to high-value cargo. Separation of duties to reduce single-person fraud capability.
 

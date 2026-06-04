@@ -43,6 +43,6 @@ For corporate executives visiting Nigeria:
 - Use licensed operators with verifiable NSCDC credentials
 - For Lagos operations, local knowledge and current threat intelligence are essential
 - MOPOL escort is appropriate for senior executives in high-risk areas
-- Vehicle security — including armoured vehicles for elevated threat profiles — is standard for corporate protection
+- Vehicle security, including armoured vehicles for elevated threat profiles, is standard for corporate protection
 
 *For close protection services in Nigeria, see our [Lagos](/cities/lagos/) and [Abuja](/cities/abuja/) city pages.*

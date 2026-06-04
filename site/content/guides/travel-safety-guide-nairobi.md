@@ -36,7 +36,7 @@ Nairobi is East Africa's primary commercial hub and the regional headquarters fo
 
 ## On the Ground
 
-**Transport.** Use your pre-booked driver or the Uber/Bolt app for lower-risk journeys in established business zones. Avoid public matatu minibuses for corporate travel. Do not walk in the CBD at night. Carjacking at traffic lights is a documented risk — keep doors locked and windows up in traffic.
+**Transport.** Use your pre-booked driver or the Uber/Bolt app for lower-risk journeys in established business zones. Avoid public matatu minibuses for corporate travel. Do not walk in the CBD at night. Carjacking at traffic lights is a documented risk: keep doors locked and windows up in traffic.
 
 **Stay zones.** Westlands, Gigiri, Karen, Upper Hill, and Kilimani are the established corporate zones. The Nairobi CBD is manageable during business hours with awareness. Eastlands suburbs are not appropriate for corporate visits.
 

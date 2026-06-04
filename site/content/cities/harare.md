@@ -82,7 +82,7 @@ Harare is the capital and largest city of Zimbabwe. At approximately 2 million p
 
 ## Zimbabwe's resource story
 
-Zimbabwe's platinum reserves are second only to South Africa globally. The Darwendale and Zimplats operations are among the world's most significant platinum producers. Diamond mining, gold production, chrome, and increasingly lithium deposits have attracted mining sector attention. The country's agricultural heritage — once the breadbasket of Africa — is in slow recovery following the land reform programme of the 2000s.
+Zimbabwe's platinum reserves are second only to South Africa globally. The Darwendale and Zimplats operations are among the world's most significant platinum producers. Diamond mining, gold production, chrome, and increasingly lithium deposits have attracted mining sector attention. The country's agricultural heritage, once the breadbasket of Africa, is in slow recovery following the land reform programme of the 2000s.
 
 For international business, the combination of resource wealth, a technically capable local workforce, and improving (if still unpredictable) investment environment creates genuine opportunities alongside significant risks.
 

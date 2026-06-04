@@ -38,7 +38,7 @@ Mumbai is India's commercial capital and the centre of its finance, media, and e
 
 **Transport.** Pre-booked Ola or Uber are appropriate for corporate travel. Mumbai's black-and-yellow taxis are metered and functional for shorter journeys.
 
-**Hydration.** Drink bottled water only. Mumbai's heat and humidity require proactive hydration.
+**Hydration.** Drink bottled water only. Mumbai's heat and humidity require consistent hydration.
 
 **Food safety.** International hotel restaurants and well-established restaurants in BKC are safe choices. Street food carries higher hygiene risk for visitors without built-up immunity.
 

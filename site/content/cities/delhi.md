@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Delhi"
 description: "Close protection and security services in Delhi, India. PSARA-licensed operators, discreet executive security, and vetted transport for corporate and high-profile principals."
 slug: "delhi"

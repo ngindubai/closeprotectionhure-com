@@ -82,11 +82,11 @@ Islamabad is Pakistan's purpose-built federal capital, constructed from the 1960
 
 ## The governmental hub
 
-For companies and organisations with government-facing operations in Pakistan — energy sector projects, development finance, government procurement, diplomatic engagement — Islamabad is the required destination. All ministries, the parliament, the Supreme Court, and the major international institutions are based here. Business that requires government engagement cannot be conducted from Karachi.
+For companies and organisations with government-facing operations in Pakistan (energy sector projects, development finance, government procurement, diplomatic engagement) Islamabad is the required destination. All ministries, the parliament, the Supreme Court, and the major international institutions are based here. Business that requires government engagement cannot be conducted from Karachi.
 
 ## A distinctive security environment
 
-Islamabad presents a different security profile from Karachi. The city was purpose-built with security in mind — the sector system (G-sectors, F-sectors, E-sectors, I-sectors) creates a structured urban layout with clear security infrastructure. The diplomatic enclave houses embassies behind controlled perimeters. The Red Zone has the highest concentration of security forces in Pakistan.
+Islamabad presents a different security profile from Karachi. The city was purpose-built with security in mind: the sector system (G-sectors, F-sectors, E-sectors, I-sectors) creates a structured urban layout with clear security infrastructure. The diplomatic enclave houses embassies behind controlled perimeters. The Red Zone has the highest concentration of security forces in Pakistan.
 
 The terrorism risk is real: the 2008 Marriott bombing was one of Pakistan's deadliest attacks. But Islamabad's daily crime profile is significantly lower than Karachi's. The political instability risk has been the more active concern in recent years.
 

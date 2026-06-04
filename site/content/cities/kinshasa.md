@@ -60,7 +60,7 @@ faqs:
   - question: "How does security in Kinshasa differ from eastern DRC?"
     answer: "Eastern DRC is an active conflict environment with armed groups, FARDC operations, and UN peacekeeping forces. The security requirements are fundamentally different from Kinshasa and closer to conflict-zone security than corporate risk management. Kinshasa's risks are primarily criminal rather than conflict-related, though the distinction can blur during political crises."
   - question: "What is the NGO security model in Kinshasa?"
-    answer: "Major international NGOs and UN agencies operating in DRC maintain robust security operations including compound-based accommodation, security-managed vehicle pools, and dedicated security staff. Independent corporate visitors who lack this infrastructure should replicate equivalent measures through a professional security provider with DRC experience."
+    answer: "Major international NGOs and UN agencies operating in DRC maintain well-resourced security operations including compound-based accommodation, security-managed vehicle pools, and dedicated security staff. Independent corporate visitors who lack this infrastructure should replicate equivalent measures through a professional security provider with DRC experience."
 ---
 
 Kinshasa is the capital of the Democratic Republic of Congo and the gateway to one of Africa's largest mining sectors. The DRC produces significant quantities of cobalt, copper, coltan, and other minerals, making it a destination for mining executives, commodity traders, and infrastructure investors.

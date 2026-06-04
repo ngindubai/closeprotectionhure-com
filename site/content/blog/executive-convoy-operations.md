@@ -16,7 +16,7 @@ faqs:
   - question: "What is the role of the chase vehicle in a convoy?"
     answer: "The chase vehicle (or follow vehicle) provides multiple functions: immediate back-up if the principal vehicle is disabled or attacked, additional security personnel capacity, alternative transport if the principal vehicle is compromised, and counter-surveillance capability (a follow vehicle can observe whether the principal vehicle is being followed). In full convoy operations, the chase vehicle maintains close proximity to the principal vehicle throughout the journey."
   - question: "What communications protocol should a convoy use?"
-    answer: "All vehicles should be on a dedicated comms channel with clear protocol for routine and emergency communications. Designate roles: convoy commander (typically in the principal vehicle), vehicle commanders for each vehicle, and a separate channel for liaison with the destination and any supporting units. Communication discipline matters — the channel should be clear for emergency use. Use of personal phones for convoy coordination creates gaps and delays."
+    answer: "All vehicles should be on a dedicated comms channel with clear protocol for routine and emergency communications. Designate roles: convoy commander (typically in the principal vehicle), vehicle commanders for each vehicle, and a separate channel for liaison with the destination and any supporting units. Communication discipline matters: the channel should be clear for emergency use. Use of personal phones for convoy coordination creates gaps and delays."
 ---
 
 Multi-vehicle convoy operations represent the most complex standard close protection configuration. They require coherent planning, clear communication protocols, and specific training for all operators involved. The choreography of multiple vehicles, the inter-vehicle communication, and the emergency procedures are qualitatively different from single-vehicle operations.
@@ -35,7 +35,7 @@ For most corporate security requirements, a single vehicle with a well-trained s
 
 ## Vehicle Configuration
 
-**Principal vehicle.** The vehicle carrying the principal. Typically the middle vehicle in a three-vehicle convoy, or the lead vehicle in a two-vehicle operation. Should be the most secure vehicle in the convoy — armoured where threat assessment warrants.
+**Principal vehicle.** The vehicle carrying the principal. Typically the middle vehicle in a three-vehicle convoy, or the lead vehicle in a two-vehicle operation. Should be the most secure vehicle in the convoy: armoured where threat assessment warrants.
 
 **Lead vehicle.** In three-vehicle operations, the lead vehicle travels ahead to identify route conditions, clear the path at entry points, and provide advance warning of obstacles. Carried by security personnel with local route knowledge.
 
@@ -57,7 +57,7 @@ All convoy operators must be briefed on emergency procedures before departure:
 
 **Vehicle breakdown.** Primary vehicle disabled: principal and detail transfer to chase vehicle via immediate action drill. Secondary vehicle disabled: principal vehicle continues; disabled vehicle crew follows and maintains communications.
 
-**Ambush or attack.** Break the kill zone — immediate acceleration through or away from the attack. Rally at pre-designated emergency point. All operators know the emergency rally procedures before departure.
+**Ambush or attack.** Break the kill zone: immediate acceleration through or away from the attack. Rally at pre-designated emergency point. All operators know the emergency rally procedures before departure.
 
 **Medical emergency.** The security driver knows the route to the nearest trauma facility from any point on the journey. This is briefed before departure, not improvised during an emergency.
 

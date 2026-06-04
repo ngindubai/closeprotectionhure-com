@@ -36,7 +36,7 @@ The Houthi drone attack on Abu Dhabi in January 2022 was the first direct attack
 
 For most Dubai expats, the practical impact on residential security is limited. The attack targeted infrastructure, not residential areas. But for senior executives, HNWI families, and those with profiles that could make them symbolic targets in the current regional environment, the attack was a prompt to review emergency protocols.
 
-Specifically: shelter-in-place awareness. Most UAE residential buildings do not have purpose-built shelters, but the protocol for what to do during a missile alert — which room, which wall to shelter against, whether to stay or evacuate — is now a standard element of professional security planning in the UAE in a way it was not before 2022.
+Specifically: shelter-in-place awareness. Most UAE residential buildings do not have purpose-built shelters, but the protocol for what to do during a missile alert (which room, which wall to shelter against, whether to stay or evacuate) is now a standard element of professional security planning in the UAE in a way it was not before 2022.
 
 ## The Domestic Staff Variable
 
@@ -58,6 +58,6 @@ For a Dubai villa or large apartment, a professional security assessment takes 2
 
 **Routine security:** What your daily schedule reveals to an observer. Which exit you use, at what time, whether that pattern could be exploited.
 
-The assessment produces a written report with prioritised recommendations — typically a small number of high-impact items and a longer list of lower-priority improvements.
+The assessment produces a written report with prioritised recommendations: typically a small number of high-impact items and a longer list of lower-priority improvements.
 
 For residential security service details across the UAE, see our [Dubai city page](/cities/dubai/) and [residential security service overview](/services/residential-security/).
