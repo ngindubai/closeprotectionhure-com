@@ -44,3 +44,5 @@ Beyond the licence, the quality variation is significant. Military or police clo
 ## London-specific considerations
 
 London security operations involve vehicle and route planning, awareness of firearms restrictions, protest and civil disorder contingency, and close coordination with the Metropolitan Police's Close Protection Unit for the highest-risk principals. All close protection work in London is unarmed as standard.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across United Kingdom. For a detailed local assessment, see our [London city briefing](/cities/london/).

@@ -40,3 +40,5 @@ The assessment covers: current terrorism and drone attack intelligence, detentio
 ## Our position
 
 We do not provide operator deployment in Russia. We do provide assessment services for essential travellers who need the clearest possible picture of what they are entering. We will advise directly and without qualification if we assess that a specific travel plan carries risks that make proceeding inadvisable.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Russia. For a detailed local assessment, see our [Moscow city briefing](/cities/moscow/).

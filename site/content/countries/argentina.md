@@ -42,3 +42,5 @@ Armed carjacking has been documented in affluent areas including Palermo, Recole
 Argentina's private security industry is more formally regulated than much of Latin America. Buenos Aires Province Law 12,297 provides a structured licensing framework with identifiable compliance checks. The Buenos Aires market has a significant pool of former federal police and military professionals working in licensed CP. This is a market where quality operators exist and are verifiable through the regulatory system.
 
 Source: FCDO Travel Advice: Argentina (2025). Ministerio de Seguridad de la Provincia de Buenos Aires: Registro de Empresas de Seguridad. OSAC Argentina Country Security Report 2024. US State Department Argentina Travel Advisory (2025).
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Argentina. For a detailed local assessment, see our [Buenos Aires city briefing](/cities/buenos-aires/).

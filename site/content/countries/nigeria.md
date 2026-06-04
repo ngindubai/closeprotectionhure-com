@@ -44,3 +44,5 @@ All our Nigeria operators hold current NSCDC registration. Armed security arrang
 Companies with established Nigeria operations typically use vetted private drivers with tracked vehicles, vary routes, avoid night travel on major expressways, and maintain security contacts for rapid response. Armoured vehicles are used by HNWI clients and executives with known profiles.
 
 A written pre-travel risk assessment is the correct starting point for any new Nigeria itinerary.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Nigeria. For a detailed local assessment, see our [Lagos city briefing](/cities/lagos/).

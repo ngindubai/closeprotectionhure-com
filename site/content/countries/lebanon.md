@@ -40,3 +40,5 @@ Any security operation in Lebanon must account for Hezbollah's territorial contr
 ## The reconstruction environment
 
 Lebanese reconstruction creates security requirements that combine conventional EP with community relations management, risk mapping, and complex political navigation. Security professionals operating in Lebanon need Lebanon-specific experience, not generic Middle East or conflict experience. The local knowledge component is unusually important.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Lebanon. For a detailed local assessment, see our [Beirut city briefing](/cities/beirut/).

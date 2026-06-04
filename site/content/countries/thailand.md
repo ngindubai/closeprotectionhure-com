@@ -40,3 +40,5 @@ Thailand has experienced multiple military coups in the 21st century. Protests a
 ## The road safety factor
 
 WHO road safety data ranks Thailand consistently among Asia's most dangerous countries for road fatalities. Bangkok traffic, combined with tuk-tuk, motorcycle taxi, and private car mix, creates real daily risk. Pre-booked professional drivers who know which routes to avoid and how to respond to incidents are a sound investment for any corporate visit.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Thailand. For a detailed local assessment, see our [Bangkok city briefing](/cities/bangkok/).

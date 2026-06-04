@@ -42,3 +42,5 @@ The killing of former Prime Minister Shinzo Abe at a public campaign event in Na
 Japan's extremely low crime rate does not mean zero threat. Corporate espionage and intellectual property theft are documented concerns for executives carrying sensitive commercial information. Device security during Japan visits is a genuine risk that sits outside the physical CP remit but is part of any complete pre-travel briefing.
 
 Source: FCDO Travel Advice: Japan (2024). National Police Agency Japan: Crime Statistics 2023. FCDO Advisory on North Korea ballistic missile programme.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Japan. For a detailed local assessment, see our [Tokyo city briefing](/cities/tokyo/).

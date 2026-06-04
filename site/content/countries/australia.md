@@ -44,3 +44,5 @@ Demand for crowd management, venue assessment, and event security services in Sy
 Sydney's day-to-day risk for corporate visitors is manageable. The key planning factors are airport transfers, hotel and venue assessment for high-profile visits, and crowd management for attended events. The terrorism risk is real but not concentrated in any single district or geography. Standard CP protocols and situational awareness are the appropriate response to the current threat level.
 
 Source: FCDO Travel Advice: Australia (2024). ASIO Annual Threat Assessment 2024. NSW Police: Security Licensing and Enforcement Directorate. ASIAL Standards documentation.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Australia. For a detailed local assessment, see our [Sydney city briefing](/cities/sydney/).

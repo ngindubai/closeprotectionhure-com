@@ -42,3 +42,5 @@ Kuwait City is the only significant commercial and residential hub. The city is 
 The oil and gas sector drives most international corporate presence in Kuwait. Executives working in the energy sector often have defined travel patterns to industrial facilities outside Kuwait City. Security planning for these movements requires specific route assessment.
 
 Source: US State Department Travel Advisory: Kuwait (2025). FCDO Travel Advice: Kuwait (2024). Kuwait Higher Committee for Execution of UN Resolutions: Landmine Clearance Data. CENTCOM Regional Threat Assessment 2024.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Kuwait. For a detailed local assessment, see our [Kuwait City city briefing](/cities/kuwait-city/).

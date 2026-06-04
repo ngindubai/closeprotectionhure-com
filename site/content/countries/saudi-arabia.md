@@ -42,3 +42,5 @@ For corporate visitors, this is a contextual risk rather than a daily concern. A
 ## The legal compliance dimension
 
 Nowhere else in the P1 network does legal compliance require as specific a briefing as Saudi Arabia. The consequences of violations (drug possession, alcohol offences, social media content) include arrest, heavy fines, and deportation. Employment dispute travel bans are enforceable. Understanding these parameters before arrival is mandatory preparation.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Saudi Arabia. For a detailed local assessment, see our [Riyadh city briefing](/cities/riyadh/).

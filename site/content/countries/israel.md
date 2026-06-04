@@ -42,3 +42,5 @@ Ben Gurion Airport has remained open throughout the conflict period, though with
 No deployment to Israel should proceed without a current written risk assessment addressing: rocket and drone threat levels, specific travel dates and conflict status, shelter-in-place protocols for all venues and accommodation, medical care availability, and evacuation routes. This is the minimum baseline. The risk assessment must be dated within 30 days of travel given the rate of change in the operational environment.
 
 Source: FCDO Travel Advice: Israel (2025, updated February 2025). US State Department Israel Travel Advisory Level 4 (2025). OSAC Israel Country Security Report 2024. IDF and Israeli police public incident reporting (2025).
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Israel. For a detailed local assessment, see our [Tel Aviv city briefing](/cities/tel-aviv/).

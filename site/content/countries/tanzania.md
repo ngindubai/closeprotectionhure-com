@@ -46,3 +46,5 @@ Several Tanzanian carriers appear on the UK Air Safety List, which prohibits or 
 Tanzania's private security industry operates with limited formal regulation compared to Kenya or South Africa. There is no centralised licensing register. Operator quality varies widely. Documented vetting through company registration, reference checks, and background screening is the only reliable quality assurance mechanism in this market.
 
 Source: FCDO Travel Advice: Tanzania (2025). OSAC Tanzania Country Security Report 2024. UK Air Safety List (Civil Aviation Authority, 2025).
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Tanzania. For a detailed local assessment, see our [Dar es Salaam city briefing](/cities/dar-es-salaam/).

@@ -40,3 +40,5 @@ For corporate travellers, the operational implication is hotel selection: establ
 ## The ground transport risk
 
 India's road fatality rate is a real operational concern, not a bureaucratic disclaimer. Mumbai's traffic density, unpredictability, and road conditions make pre-booked private cars the professional minimum for corporate ground movement. Rideshare apps (Ola, Uber) are acceptable for standard movements. Local trains are not appropriate for corporate or security-conscious travel.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across India. For a detailed local assessment, see our [Mumbai city briefing](/cities/mumbai/).

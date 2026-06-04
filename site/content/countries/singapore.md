@@ -42,3 +42,5 @@ The legal and social rules in Singapore are strict and enforced without the disc
 Singapore is the primary corporate gateway for South-East Asia. Executives travelling to Indonesia, Thailand, or the Philippines often stage through Singapore. Security handoffs, where international CP transitions to local in-country operators, frequently occur here. The infrastructure for professional security management in Singapore is well-developed. The challenge is ensuring the quality of operators covering onward regional destinations, not Singapore itself.
 
 Source: FCDO Travel Advice: Singapore (2024). Singapore Police Force: Singapore Crime Statistics 2023. Singapore Private Security Industry Act.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Singapore. For a detailed local assessment, see our [Singapore city briefing](/cities/singapore/).

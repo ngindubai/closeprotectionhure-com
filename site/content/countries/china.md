@@ -48,3 +48,5 @@ This structure is not unique to us: it is the only legal framework available. An
 Corporate espionage and device compromise are active concerns for executives carrying commercially sensitive information into China. State surveillance infrastructure is extensive. Device security during China visits, including the management of personal and corporate phones, laptops, and cloud access, is a distinct but related risk that sits alongside physical CP. A complete China deployment plan addresses both.
 
 Source: FCDO Travel Advice: China (2024). US State Department China Country Report 2024. National Security Law (2020). PRC Regulations on Administration of Security Services (2010).
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) across China. For detailed local assessments, see our [Beijing city briefing](/cities/beijing/) and [Shanghai city briefing](/cities/shanghai/).
