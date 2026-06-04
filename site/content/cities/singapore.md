@@ -101,3 +101,4 @@ Corporate intelligence operations targeting executives in Singapore are a docume
 Consistently rated among the world's best airports. Security standards are genuine. Pre-booked transfers are professional standard but the environment is not hostile for independent movement. Allow adequate time for immigration at busy periods.
 
 *Sources: UK FCDO Singapore travel advice (April 2026). US State Department Level 1 advisory (April 2026). Private Security Industry Act (Cap 250A). PLRD licensing requirements, Singapore Police Force.*
+For comparable operating environments in our network, see our [Hong Kong city briefing](/cities/hong-kong/) and [Tokyo city briefing](/cities/tokyo/).

@@ -110,3 +110,4 @@ We deploy security drivers, close protection officers, and residential security 
 All enquiries are handled with maximum discretion. Client details are not retained on any public-facing system.
 
 *Sources: FCDO Travel Advice for Morocco (April 2026). US State Department Travel Advisory for Morocco, Level 2 (April 2026). FCDO: December 2018 Imlil murders. USGS seismic data: September 2023 Morocco earthquake, approximately 2,946 confirmed fatalities.*
+For comparable operating environments in our network, see our [Cairo city briefing](/cities/cairo/) and [Lagos city briefing](/cities/lagos/).

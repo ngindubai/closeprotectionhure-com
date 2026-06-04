@@ -89,3 +89,4 @@ The 2024 post-election unrest added a political instability dimension to what wa
 Maputo's medical facilities are inadequate for serious cases. The Johannesburg evacuation corridor is the standard contingency. This planning element must be in place before arrival.
 
 *Sources: FCDO Mozambique travel advice. US State Department Level 2 advisory Mozambique (Level 4 for Cabo Delgado). ACLED conflict data Cabo Delgado.*
+For comparable operating environments in our network, see our [Johannesburg city briefing](/cities/johannesburg/) and [Lusaka city briefing](/cities/lusaka/).

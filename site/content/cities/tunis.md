@@ -87,3 +87,4 @@ Les Berges du Lac has developed into a modern business district with European-st
 The coast north of Tunis (La Marsa, Gammarth, Sidi Bou Said) provides residential and leisure options for longer assignments with lower ambient crime risk.
 
 *Sources: FCDO Tunisia travel advice, May 2026. US State Department Level 2: Exercise Increased Caution.*
+For comparable operating environments in our network, see our [Cairo city briefing](/cities/cairo/) and [Casablanca city briefing](/cities/casablanca/).

@@ -104,3 +104,4 @@ We deploy close protection officers and security drivers across Berlin and acros
 All operators hold Sachkundeprüfung certification and our internal vetting requirements. Operators working sensitive assignments receive updated threat briefings on current protest schedules and terrorism alert levels.
 
 *Source: FCDO Germany travel advice (April 2026). German Federal Office for the Protection of the Constitution (BfV) terrorism threat assessments. Bewachungsverordnung licensing requirements.*
+For comparable operating environments in our network, see our [London city briefing](/cities/london/) and [Paris city briefing](/cities/paris/).

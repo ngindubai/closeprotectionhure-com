@@ -110,3 +110,4 @@ We deploy vetted operators in Buenos Aires with current Argentine licensing, doc
 All enquiries are handled under strict confidentiality protocols. No client information is retained on any public-facing system.
 
 *Source: FCDO Argentina travel advice, April 2026. US State Department Argentina travel advisory (Level 2), April 2026. Buenos Aires City Police public security data.*
+For comparable operating environments in our network, see our [Lima city briefing](/cities/lima/) and [Bogota city briefing](/cities/bogota/).

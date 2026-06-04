@@ -104,3 +104,4 @@ We deploy close protection officers, security drivers, and event security teams 
 All assignments receive a current Vigipirate alert level briefing and real-time transport situation updates. Venue and hotel advance work is conducted as standard for all assignments of 48 hours or longer.
 
 *Source: FCDO France travel advice (April 2026). CNAPS licensing requirements. Vigipirate public security plan documentation. Prefecture de Police Paris.*
+For comparable operating environments in our network, see our [London city briefing](/cities/london/) and [Berlin city briefing](/cities/berlin/).

@@ -92,3 +92,4 @@ Tokyo's earthquake risk is a permanent background factor. Japan has extensive pr
 We maintain a vetted operator network in Tokyo with Japanese registration compliance and operational experience in corporate protection. Security drivers with Tokyo knowledge are available for hotel, airport, and venue transfers. Event security for corporate functions can be arranged with appropriate lead time.
 
 *Source: FCDO Japan travel advice (April 2026). US State Dept Level 1 advisory for Japan. OSAC crime rating (LOW) for Tokyo. Cabinet Office Japan - J-ALERT system documentation.*
+For comparable operating environments in our network, see our [Singapore city briefing](/cities/singapore/) and [Hong Kong city briefing](/cities/hong-kong/).

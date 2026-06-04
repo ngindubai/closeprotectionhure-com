@@ -95,3 +95,4 @@ Victoria's Private Security Act 2004 governs all security personnel. Consumer Af
 ASIAL is the peak industry body. Members commit to professional standards above the statutory minimum. Operators without current registration should not be engaged.
 
 *Sources: UK FCDO Australia travel advice (2026). US State Department Level 1 advisory. ASIO Annual Threat Assessment. Victorian Private Security Act 2004.*
+For comparable operating environments in our network, see our [Sydney city briefing](/cities/sydney/) and [Auckland city briefing](/cities/auckland/).

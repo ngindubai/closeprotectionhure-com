@@ -104,3 +104,4 @@ ASIAL is the peak industry body. Members commit to professional standards above 
 Outside the terrorism consideration, Sydney is a manageable city. Roads are left-hand traffic. Sydney Kingsford Smith is a well-secured international airport. Pre-booked transfers are the professional standard from the international terminal. The CBD is walkable and low-crime during business hours. Eastern Suburbs hotels offer a good balance of proximity to business districts and residential security.
 
 *Sources: UK FCDO Australia travel advice (April 2026). US State Department Level 1 advisory. ASIO Annual Threat Assessment 2025. NSW Security Industry Act 1997. Australian national terrorism threat level statement, April 2026.*
+For comparable operating environments in our network, see our [Melbourne city briefing](/cities/melbourne/) and [Singapore city briefing](/cities/singapore/).

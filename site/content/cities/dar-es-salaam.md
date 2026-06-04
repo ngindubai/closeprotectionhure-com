@@ -116,3 +116,4 @@ Dar es Salaam has not experienced a major city-centre attack since 1998. The ris
 Tanzanian police have documented corruption issues. Officers at checkpoints may request informal payments. Do not pay. Ask for a government control number for any fine. Random house searches and device checks without authorisation have been reported. Authorities do not always notify embassies when foreign nationals are detained.
 
 *Sources: UK FCDO Tanzania travel advice (April 2026). US State Department Level 2 advisory Tanzania (April 2026). OSAC Crime Rating: HIGH. UK Air Safety List (gov.uk, current). October 2025 election protests: FCDO Tanzania travel advice update.*
+For comparable operating environments in our network, see our [Nairobi city briefing](/cities/nairobi/) and [Addis Ababa city briefing](/cities/addis-ababa/).

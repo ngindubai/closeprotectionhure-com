@@ -91,3 +91,4 @@ For international business, the combination of resource wealth, a technically ca
 Borrowdale and Avondale in northern Harare provide the core operating zone for business visitors. International hotels with adequate security, vetted transport, and USD cash logistics are the minimum preparation requirements. The Johannesburg evacuation corridor for medical emergencies must be pre-planned.
 
 *Sources: FCDO Zimbabwe travel advice. US State Department Level 2 advisory Zimbabwe. Zimbabwe Investment and Development Agency. IMF Zimbabwe Article IV consultation.*
+For comparable operating environments in our network, see our [Johannesburg city briefing](/cities/johannesburg/) and [Lusaka city briefing](/cities/lusaka/).

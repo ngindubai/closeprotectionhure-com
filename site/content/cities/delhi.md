@@ -110,3 +110,4 @@ PSARA (2005) governs private security in India at the state level. Delhi-based o
 We work with PSARA-licensed Delhi operators with documented close protection and secure transport experience. Every assignment begins with a briefing specific to the itinerary, covering current terrorism indicators, transport risk assessment, and, for female principals, a specific security plan that reflects the documented threat.
 
 *Source: FCDO India travel advice (April 2026). US State Department India advisory (April 2026). OSAC India 2026 Crime and Safety Report.*
+For comparable operating environments in our network, see our [Mumbai city briefing](/cities/mumbai/) and [Karachi city briefing](/cities/karachi/).

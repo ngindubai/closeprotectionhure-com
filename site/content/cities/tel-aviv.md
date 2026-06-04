@@ -119,3 +119,4 @@ Given the AGAINST_ALL_TRAVEL designation, we conduct a dedicated pre-deployment 
 All enquiries are handled under strict confidentiality. Client details are not retained on any public-facing system.
 
 *Sources: FCDO Travel Advice for Israel (April 2026). US State Department Travel Advisory for Israel, Level 4 (April 2026). Home Front Command public guidance. FCDO incident reporting: Tel Aviv bus bombings February 2025. Houthi attack on Eilat, September 2025.*
+For comparable operating environments in our network, see our [Istanbul city briefing](/cities/istanbul/) and [Dubai city briefing](/cities/dubai/).

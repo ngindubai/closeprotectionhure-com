@@ -90,3 +90,4 @@ Lusaka is a medium-risk environment that is significantly more manageable than L
 The Copperbelt adds complexity: visiting the mining operations requires intercity movement with its own risk profile, including road accident risk and more limited emergency service coverage.
 
 *Sources: FCDO Zambia travel advice. US State Department Level 2 advisory Zambia. US Embassy Lusaka security report.*
+For comparable operating environments in our network, see our [Johannesburg city briefing](/cities/johannesburg/) and [Maputo city briefing](/cities/maputo/).

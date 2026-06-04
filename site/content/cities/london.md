@@ -106,3 +106,4 @@ We deploy close protection officers, security drivers, and event security teams 
 All enquiries are handled under strict confidentiality. Client details are not retained on any public-facing system.
 
 *Source: MI5 threat level assessments (current as of April 2026). FCDO UK domestic security guidance. SIA licensing requirements under PSIA 2001.*
+For comparable operating environments in our network, see our [New York city briefing](/cities/new-york/) and [Paris city briefing](/cities/paris/).

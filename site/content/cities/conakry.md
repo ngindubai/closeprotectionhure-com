@@ -84,3 +84,4 @@ Guinea holds the world's largest bauxite reserves (the raw material for aluminiu
 The 2021 military coup removed a president who had controversially amended the constitution to extend his rule. The new military government has its own approach to the mining sector, renegotiating contracts and asserting state interests. For companies with active operations or projects in Guinea, the relationship with the CNRD military government and its commercial priorities is the central business risk variable: alongside the physical security environment.
 
 *Sources: FCDO Guinea travel advice. US State Department Level 3 advisory Guinea. ACLED Guinea conflict data. Mining sector operational reports.*
+For comparable operating environments in our network, see our [Dakar city briefing](/cities/dakar/) and [Accra city briefing](/cities/accra/).

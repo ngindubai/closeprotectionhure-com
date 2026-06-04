@@ -103,3 +103,4 @@ The MTR remains among Asia's safest rapid transit systems. Roads are well-mainta
 The primary concern is knowing your principal's profile, having a clear understanding of the NSL risk factors, and having contingency arrangements in place if contact is lost or an exit ban is imposed. Those preparations take a day. Failing to make them has ended executive careers.
 
 *Sources: UK FCDO Hong Kong travel advice (April 2026). US State Department Level 2 advisory (April 2026). National Security Law (2020). Safeguarding National Security Ordinance (2024). Security and Guarding Services Ordinance Cap 460 (Hong Kong).*
+For comparable operating environments in our network, see our [Singapore city briefing](/cities/singapore/) and [Tokyo city briefing](/cities/tokyo/).

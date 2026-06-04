@@ -91,3 +91,4 @@ For corporate visitors, this means accommodation selection matters beyond comfor
 ## Our network in Kathmandu
 
 We maintain vetted operators in Kathmandu with current registration under Nepal's private security framework. Operators are selected for Kathmandu-specific knowledge including political geography awareness, bandh response protocols, and familiarity with the development sector operating environment.
+For comparable operating environments in our network, see our [Bangkok city briefing](/cities/bangkok/) and [Mumbai city briefing](/cities/mumbai/).

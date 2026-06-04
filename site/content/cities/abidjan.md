@@ -95,3 +95,4 @@ For business visitors, the operational security requirements are similar to Daka
 Abidjan is a French-speaking city. This distinguishes it from Lagos, Accra, and Nairobi as a business destination and creates a practical requirement for Francophone capability in local business relationships.
 
 *Sources: FCDO Ivory Coast travel advice. US State Department Level 2 advisory Cote d'Ivoire. ACLED West Africa conflict data.*
+For comparable operating environments in our network, see our [Dakar city briefing](/cities/dakar/) and [Accra city briefing](/cities/accra/).

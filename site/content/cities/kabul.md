@@ -92,3 +92,4 @@ For corporate visitors outside these frameworks, the question is whether any com
 Any Afghanistan engagement begins with a pre-visit assessment that covers current IS-KP activity patterns, Taliban policy environment relevant to the visitor's profile, evacuation options (overland routes, charter flight availability, consular options through third-country embassies that remain in Kabul), and medical evacuation capacity.
 
 We do not treat Afghanistan as a standard assignment. The planning process is longer, the operator selection criteria are stricter, and the emergency protocols are more detailed than for any other city we cover.
+For comparable operating environments in our network, see our [Karachi city briefing](/cities/karachi/) and [Mumbai city briefing](/cities/mumbai/).

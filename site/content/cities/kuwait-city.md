@@ -109,3 +109,4 @@ The Ministry of Interior licensing process for foreign operators is formal and r
 Kuwait City's international hotel zone along the Gulf Road and in Salmiya is professionally managed and broadly secure. Kuwait International Airport is adequate rather than world-class. Pre-booked transfers are standard. The core business districts are navigable with appropriate local knowledge.
 
 *Sources: UK FCDO Kuwait travel advice (April 2026). US State Department Level 3 advisory (April 2026). Kuwait Ministry of Interior security sector requirements. OSAC Kuwait Country Security Report.*
+For comparable operating environments in our network, see our [Doha city briefing](/cities/doha/) and [Riyadh city briefing](/cities/riyadh/).

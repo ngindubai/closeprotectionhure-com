@@ -97,3 +97,4 @@ For any business operation in Baghdad:
 Private security in Iraq is regulated by the Ministry of Interior. Companies must be registered and personnel must hold individual permits. The framework has evolved significantly since the post-2003 environment and requires current legal advice. Reputable providers will have current registration and will be able to demonstrate compliance.
 
 *Sources: FCDO Iraq travel advice (current). US State Department Level 4 Do Not Travel advisory. Iraqi Ministry of Interior security licensing framework.*
+For comparable operating environments in our network, see our [Kabul city briefing](/cities/kabul/) and [Amman city briefing](/cities/amman/).

@@ -107,3 +107,4 @@ We deploy close protection officers and security drivers across Manhattan, the f
 All client details are handled under strict confidentiality. Enquiries are not acknowledged on public-facing channels.
 
 *Source: NYPD crime statistics (2024-2025). DHS National Terrorism Advisory System bulletins. US State Dept Level 2 advisory for the United States. OSAC crime rating (HIGH) for New York City.*
+For comparable operating environments in our network, see our [London city briefing](/cities/london/) and [Paris city briefing](/cities/paris/).

@@ -95,3 +95,4 @@ Venezuela's intelligence apparatus is active and surveillance is a genuine risk 
 ## Essential visit management
 
 We approach Venezuela assignments with a higher pre-visit assessment requirement than any other city in our network. This includes current gang-geography intelligence, route planning that avoids barrio areas entirely, profile-specific threat analysis, pre-booking of vetted USD-compensated operators, and confirmed medical evacuation protocol. Caracas is manageable for essential visits but the planning overhead is significant.
+For comparable operating environments in our network, see our [Bogota city briefing](/cities/bogota/) and [Lima city briefing](/cities/lima/).

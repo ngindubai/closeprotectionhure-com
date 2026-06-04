@@ -110,3 +110,4 @@ We provide legal risk briefings, vetted transport arrangements, and security con
 All enquiries are handled under strict confidentiality. No client details are retained on any public-facing system.
 
 *Source: FCDO China travel advice, April 2026. US State Department China travel advisory (Level 2), April 2026. British Embassy Beijing consular guidance.*
+For comparable operating environments in our network, see our [Shanghai city briefing](/cities/shanghai/) and [Hong Kong city briefing](/cities/hong-kong/).

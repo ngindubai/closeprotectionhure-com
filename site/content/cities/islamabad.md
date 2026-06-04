@@ -91,3 +91,4 @@ Islamabad presents a different security profile from Karachi. The city was purpo
 The terrorism risk is real: the 2008 Marriott bombing was one of Pakistan's deadliest attacks. But Islamabad's daily crime profile is significantly lower than Karachi's. The political instability risk has been the more active concern in recent years.
 
 *Sources: FCDO Pakistan travel advice. US State Department Level 3 advisory Pakistan. Islamabad Capital Territory Administration security assessments.*
+For comparable operating environments in our network, see our [Karachi city briefing](/cities/karachi/) and [Dubai city briefing](/cities/dubai/).

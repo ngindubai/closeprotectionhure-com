@@ -87,3 +87,4 @@ The established hotel and financial district areas (Punta Pacifica, Miraflores, 
 A pre-booked driver is the practical baseline for all visits. Familiarity with which districts are on and off the corporate itinerary, and using pre-booked transport rather than street taxis for evening movement, covers the majority of risk for standard business visits.
 
 *Sources: FCDO Panama travel advice, May 2026. US State Department Level 1: Exercise Normal Precautions (higher advisories for Darien).*
+For comparable operating environments in our network, see our [Bogota city briefing](/cities/bogota/) and [Mexico City city briefing](/cities/mexico-city/).

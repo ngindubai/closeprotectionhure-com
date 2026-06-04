@@ -91,3 +91,4 @@ Movement outside El Poblado should be by pre-booked vetted vehicle. The Parque L
 Jose Maria Cordova International Airport is located in Rionegro, approximately 40km east of Medellin's city centre. The journey takes 60-90 minutes depending on traffic and weather on the mountain road. This distance matters for security planning: airport runs are not short, and informal or unlicensed taxis from the airport to El Poblado are a documented risk point. Pre-book the transfer before arrival.
 
 *Sources: Colombian National Police crime statistics 2025. InSight Crime Colombia organised crime analysis. US State Department Level 3 advisory Colombia. FCDO Colombia travel advice.*
+For comparable operating environments in our network, see our [Bogota city briefing](/cities/bogota/) and [Panama City city briefing](/cities/panama-city/).

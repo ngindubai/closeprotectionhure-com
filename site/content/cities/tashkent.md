@@ -86,3 +86,4 @@ Under President Islam Karimov (1991-2016), Uzbekistan was one of the most closed
 Tashkent is unusual in this network in that the physical crime environment is relatively low-risk. The more significant risks for business visitors are institutional: surveillance, legal unpredictability, and the influence of state and politically connected interests in commercial matters. These risks require legal, intelligence, and due diligence preparation that sits alongside conventional physical security planning.
 
 *Sources: FCDO Uzbekistan travel advice. US State Department Level 2 advisory Uzbekistan. EBRD Uzbekistan transition assessment.*
+For comparable operating environments in our network, see our [Almaty city briefing](/cities/almaty/) and [Baku city briefing](/cities/baku/).
