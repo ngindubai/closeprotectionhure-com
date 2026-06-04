@@ -66,6 +66,10 @@ faqs:
     answer: "Strikes occur without reliable advance warning (air raid sirens provide minutes of notice). Staying in hotels with bunkers, knowing shelter locations on your route, and not ignoring air raid alerts are the minimum practical adjustments. Strikes have hit central Kyiv including commercial and hotel areas. Treating them as a genuine daily operational constraint is the correct posture."
   - question: "What about power and communications in Kyiv?"
     answer: "Power outages of 8-16 hours are typical. Mobile networks remain functional in most conditions. Internet is available. Generator-powered accommodation is the standard for serious business visits. Satellite communication devices provide backup if mobile networks are disrupted near strike zones."
+  - question: "How do you get into and out of Kyiv with the airspace closed?"
+    answer: "Ukrainian airspace is closed to civil aviation. The standard route is to fly to a neighbouring hub, most commonly Warsaw or Rzeszow in Poland, and then travel overland by rail or road into Ukraine. The Kyiv rail link is the most reliable option and operates with notable resilience despite the conflict. Border crossing times are variable and the overland leg requires its own route and timing assessment. The return journey must be planned with the same rigour as arrival, including contingency for rail disruption after strikes on infrastructure."
+  - question: "What insurance and medical provisions are required for a Kyiv visit?"
+    answer: "Standard travel insurance does not cover travel to a country under an FCDO against-all-travel advisory. Specialist war-risk cover, including medical evacuation provisions appropriate to a wartime environment, is essential and must be arranged before travel. Given that general medical capacity is reduced and trauma resources are prioritised for military casualties, the medical plan should identify capable facilities in advance and account for the genuine complexity of evacuation from Ukraine if a person is seriously injured."
 ---
 
 Kyiv is the capital of Ukraine, a country of 44 million people engaged in a full-scale war with Russia since February 2022. This page exists for those with essential requirements that make Kyiv travel unavoidable: humanitarian organisations, media, diplomatic personnel, reconstruction professionals, and family circumstances.
@@ -89,3 +93,5 @@ Ukraine's energy grid has been severely degraded by sustained strikes. Power out
 ## Our approach
 
 We do not normalise Kyiv as a standard business destination. We assist those with genuine essential requirements by providing the most current available picture, practical protocols, and, where deployment is feasible, operators with active Ukraine experience.
+
+Most Kyiv visits begin overland from Poland. Our [Warsaw city page](/cities/warsaw/) covers the NATO-region staging environment and the Ukraine-support logistics hub, and our [Istanbul city page](/cities/istanbul/) covers an alternative regional transit point.
