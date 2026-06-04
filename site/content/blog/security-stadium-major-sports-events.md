@@ -55,3 +55,5 @@ For executive suite occupants and high-profile guests:
 - Emergency evacuation route specific to the VIP areas: not the general concourse
 
 *For security services at sports venues and events, see our [event security](/event-security/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

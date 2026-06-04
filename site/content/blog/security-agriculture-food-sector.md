@@ -48,3 +48,5 @@ Animal rights and environmental activism targeting farming operations has escala
 Food fraud (adulteration, substitution, and mislabelling) represents a significant economic and food safety risk. Testing and traceability regimes are the primary countermeasures, supported by supply chain due diligence.
 
 *For security services relevant to agricultural and food sector operations, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

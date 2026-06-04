@@ -52,3 +52,5 @@ Organisations should plan for the post-incident phase:
 - Post-incident security review
 
 *For security consultancy services including threat assessment and security programme design, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

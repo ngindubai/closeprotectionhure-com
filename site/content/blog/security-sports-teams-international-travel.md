@@ -42,3 +42,5 @@ Professional sports teams on international travel present a distinctive security
 **Individual athlete security.** For athletes with specific threat profiles, personal close protection for off-schedule activities. Social media monitoring for specific threat indicators. Clear protocols for staff on managing approach situations.
 
 *For security services for professional sports organisations and athlete protection, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

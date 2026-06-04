@@ -58,3 +58,5 @@ The technology is now accessible enough that sophisticated criminal groups are u
 5. Document everything: call number, content, payment demands
 
 *For security awareness training and corporate security programme design, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

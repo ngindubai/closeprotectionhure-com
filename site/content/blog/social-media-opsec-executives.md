@@ -62,3 +62,5 @@ Most executives publish some or all of this information without recognising its 
 **Strava privacy zones.** Strava allows you to set a privacy zone around your home that hides the start and end points of activities within that radius. Use it.
 
 *For executive digital security and TSCM services, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

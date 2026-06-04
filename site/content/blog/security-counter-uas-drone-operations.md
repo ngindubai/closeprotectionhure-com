@@ -40,3 +40,5 @@ Unmanned aerial systems (UAS), drones, have transitioned from specialist tool to
 **Venue and event planning.** For high-security events, selecting venues with natural or constructed shielding from overhead observation, or deploying temporary overhead screening in specific areas, reduces surveillance effectiveness.
 
 *For security consultancy including counter-UAS threat assessment, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

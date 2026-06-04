@@ -78,3 +78,5 @@ For commercial providers taking government official assignments:
 5. Brief all operators on protocol, communications protocols, and the command relationship with state protection
 
 *For close protection services for senior officials and visiting dignitaries, contact us directly to discuss requirements.*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

@@ -51,3 +51,5 @@ For specifically threatened judicial figures:
 - Digital footprint review: reducing publicly available personal information
 
 *For security consultancy services relevant to judicial and legal professional security, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

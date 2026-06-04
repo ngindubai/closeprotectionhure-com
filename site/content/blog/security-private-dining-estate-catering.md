@@ -42,3 +42,5 @@ Private dining and estate catering events for UHNWI principals create a specific
 **Protection officer positioning.** For protected principals hosting events, the protection officer should conduct a site survey before the event and plan positioning for all phases (arrival, dinner, departure) in advance.
 
 *For close protection services for UHNWI principals and private event security, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

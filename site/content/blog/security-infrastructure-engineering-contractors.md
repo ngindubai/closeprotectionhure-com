@@ -42,3 +42,5 @@ Infrastructure and engineering contractors are among the international workforce
 **Emergency response.** Medical evacuation plan tested before deployment. Communication plan for incident reporting. Evacuation plan for sudden deterioration of security conditions.
 
 *For security consultancy and field security management services, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

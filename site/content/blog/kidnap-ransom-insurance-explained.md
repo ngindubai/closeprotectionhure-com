@@ -54,3 +54,5 @@ K&R policies vary significantly. Key considerations:
 Use a specialist broker with K&R market experience: this is not a standard business insurance product and general insurance brokers often lack the market knowledge to advise effectively.
 
 *For physical security services complementary to K&R insurance programmes, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

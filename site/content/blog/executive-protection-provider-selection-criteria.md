@@ -73,3 +73,5 @@ The following should disqualify a provider regardless of any other positive indi
 We operate as a platform that matches clients with pre-vetted, licensed operators across jurisdictions. Our vetting process includes licence verification, insurance confirmation, and reference assessment. Operators who do not meet our criteria are not listed. This does not replace your due diligence, but it establishes a baseline that eliminates the most common failure modes in provider selection.
 
 *For further guidance on security planning, see our [how to vet a close protection company](/blog/how-to-vet-a-close-protection-company/) article.*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

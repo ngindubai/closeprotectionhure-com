@@ -42,3 +42,5 @@ Political fundraising events occupy a specific position in the event security la
 **Contingency planning.** What happens if a protest breaches the perimeter? What if a specific threat is received during the event? Clear escalation authority and tested protocols.
 
 *For event security services at political and high-profile private events, see our [event security](/event-security/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

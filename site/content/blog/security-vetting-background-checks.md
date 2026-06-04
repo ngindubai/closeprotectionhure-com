@@ -56,3 +56,5 @@ Vetting must comply with:
 - Sector-specific regulations (FCA, CQC, Ofsted, DBS requirements)
 
 *For security vetting and background check services for close protection and security personnel, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

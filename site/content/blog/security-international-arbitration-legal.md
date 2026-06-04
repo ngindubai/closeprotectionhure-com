@@ -40,3 +40,5 @@ International arbitration and major cross-border litigation concentrate enormous
 **Witness protection.** Secure transportation and accommodation arrangements for vulnerable witnesses. Separation of witness accommodation from the main team's hotel where witnesses are at specific risk.
 
 *For security services relevant to international legal proceedings, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

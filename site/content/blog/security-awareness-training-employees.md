@@ -54,3 +54,5 @@ Good security awareness training addresses all three: it explains the specific t
 **Leadership engagement.** Training is more effective when visible leadership takes it seriously. If the CEO is exempt, employees notice.
 
 *For executive security briefing and training services, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

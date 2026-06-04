@@ -65,3 +65,5 @@ Behavioural indicators require careful handling: they are never definitive and r
 **Security culture.** An organisation where employees understand the purpose of security measures and where security concerns can be raised without stigma is more likely to identify insider threats early. The majority of insider threats are detected by colleagues rather than technical systems.
 
 *For security consultancy services including insider threat programme design, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

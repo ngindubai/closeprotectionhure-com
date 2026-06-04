@@ -48,3 +48,5 @@ For corporate travel across Central America:
 - Have current contact for the relevant embassy in each country visited
 
 *For close protection services in Central America, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [Panama City briefing](/cities/panama-city/) and [San Jose city briefing](/cities/san-jose/).

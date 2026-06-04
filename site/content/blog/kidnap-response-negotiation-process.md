@@ -57,3 +57,5 @@ Following safe return, the victim requires comprehensive post-incident support:
 - Security review to address the vulnerability that led to the abduction
 
 *For K&R insurance guidance and executive protection services, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

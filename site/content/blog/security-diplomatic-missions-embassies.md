@@ -55,3 +55,5 @@ For diplomats who require personal protection:
 - Close protection officer coordination with host-nation police escorts where applicable
 
 *For security services relevant to diplomatic personnel and visiting officials, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

@@ -45,3 +45,5 @@ For UHNWI visitors to the Caribbean on superyachts or at exclusive properties:
 - Medical evacuation planning given distance from trauma facilities
 
 *For close protection services in the Caribbean, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

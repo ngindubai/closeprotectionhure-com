@@ -76,3 +76,5 @@ The event security plan must include emergency response protocols:
 - Command: who has authority to make emergency decisions and how is this communicated
 
 *For professional event security services, see our [event security](/event-security/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

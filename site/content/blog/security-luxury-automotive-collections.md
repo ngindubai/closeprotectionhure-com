@@ -49,3 +49,5 @@ For collection storage facilities:
 - Discreet event attendance: avoid advance social media publication
 
 *For security consultancy and private client security services, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [residential security service](/services/residential-security/) and [executive protection service](/services/executive-protection/).

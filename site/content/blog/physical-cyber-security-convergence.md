@@ -52,3 +52,5 @@ The minimum elements of a converged approach:
 5. Joint tabletop exercises that involve both physical and cyber security teams
 
 *For security consultancy services including converged security programme design, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

@@ -56,3 +56,5 @@ The protection officer visiting a club with a principal should:
 5. Establish communication with club security for incident response
 
 *For close protection services for UHNWI principals at luxury venues, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

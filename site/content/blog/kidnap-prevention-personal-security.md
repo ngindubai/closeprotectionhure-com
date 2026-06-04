@@ -73,3 +73,5 @@ K&R policies typically require a security consultant's assessment before a high-
 For principals in high-risk jurisdictions or with specific threat profiles, close protection is not about reacting to an incident: it is about making the principal a sufficiently difficult target that threat actors redirect to easier opportunities. An experienced close protection team will implement anti-surveillance detection, route variation, and advance work as standard operational components.
 
 *For close protection services in high-risk jurisdictions, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

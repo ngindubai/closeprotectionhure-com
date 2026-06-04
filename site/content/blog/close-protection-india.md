@@ -51,3 +51,5 @@ The state-by-state licensing requirement means that a security company licensed 
 **Religious and political events.** India's religious and political calendar creates periodic large gatherings and protest activities that can significantly affect movement in major cities. Current awareness of the local event calendar is part of effective advance work.
 
 *For close protection services in India, see our [cities](/cities/) section including Mumbai, Delhi, and Bangalore pages.*
+
+For tailored support on the issues covered here, see our [Mumbai city briefing](/cities/mumbai/) and [India security services](/countries/india/).

@@ -55,3 +55,5 @@ Mega-events are held in cities that may not normally be within the corporate tra
 - Emergency response capability and resources
 
 *For security services at major sporting events and delegations, see our [event security](/event-security/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

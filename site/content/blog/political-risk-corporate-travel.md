@@ -62,3 +62,5 @@ For travel to politically unstable destinations:
 - Have clear escalation criteria: at what point does the team initiate departure?
 
 *For close protection and travel security services in politically complex environments, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

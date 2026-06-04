@@ -48,3 +48,5 @@ Shopping centres and retail parks are among the most complex public security env
 For retail destinations that attract high-profile visitors (luxury retail, flagship stores, celebrity appearances) specific security arrangements including close protection coordination with venue security, controlled access, and media management.
 
 *For event security and close protection services relevant to retail environments, see our [event security](/event-security/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

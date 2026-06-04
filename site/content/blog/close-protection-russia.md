@@ -45,3 +45,5 @@ For the limited number of organisations that maintain any Russia presence:
 **Security support.** Operators who can provide security support in Russia are limited given the departure of most Western security companies. Planning for in-country security must be based on current capability assessment.
 
 *For high-risk security consultancy services, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [Moscow city briefing](/cities/moscow/) and [executive protection service](/services/executive-protection/).

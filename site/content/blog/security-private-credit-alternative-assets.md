@@ -42,3 +42,5 @@ The security considerations that result are distinct from those of corporate exe
 **Digital footprint management.** Review of what is publicly visible about principals' wealth, routines, and family. Social media audit for information that creates targeting opportunities.
 
 *For executive protection and security consultancy services relevant to alternative asset managers, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

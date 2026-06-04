@@ -73,3 +73,5 @@ The programme must define how the organisation responds when security incidents 
 Security risk is a board-level governance issue. The security programme needs a reporting mechanism that gives the board adequate visibility of security risk without requiring executive decision on operational matters. An annual security risk review at board level, with quarterly updates for material changes, is appropriate for most organisations with significant security risk exposure.
 
 *For executive protection, travel security, and risk assessment services supporting corporate security programmes, see our [services](/services/) page.*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

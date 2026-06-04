@@ -44,3 +44,5 @@ Remote and off-grid operations (mining exploration, scientific research, energy 
 **Helicopter evacuation capability.** For operations beyond road-accessible areas, pre-arranged helicopter evacuation with a service provider who has confirmed availability.
 
 *For security consultancy and field security management for remote operations, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

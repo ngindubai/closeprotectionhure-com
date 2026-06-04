@@ -49,3 +49,5 @@ For sports integrity investigators and compliance personnel working on match-fix
 - Close protection for meetings with informants or in high-risk environments
 
 *For executive protection and security consultancy services in the gaming sector, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

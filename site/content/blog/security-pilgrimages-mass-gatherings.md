@@ -40,3 +40,5 @@ Mass religious gatherings (the Hajj in Mecca, the Kumbh Mela in India, major pap
 **Communication capability.** Multilingual security communications. Signage and public address in relevant languages. Technology-assisted communication for large-area coordination.
 
 *For security consultancy and close protection services relevant to large events and gatherings, see our [event security](/event-security/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

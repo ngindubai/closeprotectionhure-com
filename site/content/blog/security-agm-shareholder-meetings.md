@@ -46,3 +46,5 @@ The combination of predictable timing, publicised location, mandatory executive 
 **Incident management.** Clear authority for security decisions during the meeting. Who can authorise removal of a disruptive attendee? What are the grounds? Legal advice should inform these protocols before the event.
 
 *For event security services at AGMs and shareholder meetings, see our [event security](/event-security/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

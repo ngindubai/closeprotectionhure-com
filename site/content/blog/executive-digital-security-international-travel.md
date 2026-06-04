@@ -52,3 +52,5 @@ International travel creates specific digital security risks that do not apply i
 **Debrief.** Any unusual incidents (requests for device access at borders, unexpected contacts, suspicious IT activity) should be reported to the security function on return.
 
 *For executive digital security and TSCM services, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

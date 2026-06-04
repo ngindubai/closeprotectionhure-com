@@ -52,3 +52,5 @@ Ultra-high-net-worth individuals face a threat environment shaped by wealth visi
 **Domestic staff management.** Vetting protocols, security briefings, and operational protocols for domestic staff. Non-disclosure agreements supplemented by security awareness training.
 
 *For private client security programmes and UHNWI protection, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [residential security service](/services/residential-security/) and [executive protection service](/services/executive-protection/).

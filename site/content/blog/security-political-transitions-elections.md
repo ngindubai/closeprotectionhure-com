@@ -46,3 +46,5 @@ Political transitions and elections generate security risk through several mecha
 **Monitoring.** Real-time monitoring of local news, social media, and government communications during the election period. A designated security monitoring responsibility within the organisation's travel security function.
 
 *For security support during high-risk election and political transition periods, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

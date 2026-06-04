@@ -67,3 +67,5 @@ For crypto executives travelling internationally, the threat environment varies 
 For any jurisdiction where the executive's crypto holdings are publicly known, travel itinerary publication should be minimised and secure transport arrangements made in advance.
 
 *For executive protection services relevant to fintech and crypto sector principals, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

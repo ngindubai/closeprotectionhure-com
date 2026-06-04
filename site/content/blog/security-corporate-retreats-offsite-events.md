@@ -55,3 +55,5 @@ For retreats attended by senior executives or high-profile principals:
 - Staff briefing on access control protocols
 
 *For security planning and event security services at corporate retreats, see our [event security](/event-security/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

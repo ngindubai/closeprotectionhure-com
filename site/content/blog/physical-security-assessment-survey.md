@@ -62,3 +62,5 @@ Assessment findings rarely all warrant equal urgency. A risk-based approach prio
 5. Long-term upgrades that improve security standards over time
 
 *For physical security assessment services for corporate facilities and residential properties, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

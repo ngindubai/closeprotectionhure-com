@@ -40,3 +40,5 @@ Law firms and legal professionals occupy an unusual security position: they hold
 **Lone working.** Protocols for lawyers and staff meeting clients or working alone, particularly for practitioners in high-risk client categories.
 
 *For security consultancy services relevant to legal professional practice, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).
