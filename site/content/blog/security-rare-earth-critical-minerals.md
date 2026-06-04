@@ -17,6 +17,10 @@ faqs:
     answer: "The Democratic Republic of Congo (cobalt, coltan), parts of West Africa (lithium, gold), Myanmar (rare earths (although largely Chinese-controlled), Afghanistan (lithium, though effectively inaccessible), and parts of Latin America with political instability (lithium triangle) Chile, Argentina, Bolivia). Each presents different combinations of state actor interest, community conflict, and criminal threat."
   - question: "What is the community conflict risk in critical minerals mining?"
     answer: "Mining operations in developing countries frequently face conflict with local communities over land rights, environmental impact, and revenue distribution. This is not simply a reputational risk: community protests have blocked operations, destroyed equipment, and in some cases resulted in violence against mining personnel. Community relations programmes that genuinely address local concerns are a security measure as much as an ESG requirement."
+  - question: "What geopolitical risks affect critical minerals operations?"
+    answer: "Critical minerals sit at the centre of strategic competition, which adds state interest, export-control sensitivity, and the risk of abrupt policy or contractual change to ordinary site security concerns. Operations can become exposed to political pressure as well as physical threat."
+  - question: "How should operators manage community and site security in mining regions?"
+    answer: "Many deposits are in remote or fragile regions where community relations directly affect security, so a model built on local engagement, fair grievance handling, and proportionate physical protection works better than guarding alone. Poor community relations are themselves a security risk."
 ---
 
 The global race to secure critical minerals supply chains has created a sector operating in some of the world's most challenging security environments, under the gaze of major power competition, with community conflict dynamics that can rapidly become physical security threats.

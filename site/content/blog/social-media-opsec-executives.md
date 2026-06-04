@@ -17,6 +17,10 @@ faqs:
     answer: "Real-time location data combined with routine information. A single post showing you at your regular morning coffee location is low risk. The same post repeated daily at the same time creates a pattern that a surveillance operation can use to predict your movements. Strava running routes showing your home address starting point are among the most operationally dangerous content executives share without realising it."
   - question: "How should I handle family members' social media?"
     answer: "This is a genuine operational security challenge. You cannot control adult family members' social media use, but you can have a conversation about specific risks. The most important conversations concern children: schools, sports schedules, and home location should not be visible in children's social media or in parents' posts about children. Accounts should be private. Location services should be off for photos."
+  - question: "How should executives manage location disclosure on social media?"
+    answer: "The main risk is revealing patterns and real-time location, so delaying posts until after leaving a place, disabling location tagging, and avoiding disclosure of routines and travel plans materially reduce exposure. The content can still be shared; the timing and precision are what matter."
+  - question: "How should an executive handle family members' online presence?"
+    answer: "Family accounts often leak information about an executive's home, schools, and movements, so agreed household guidelines and awareness for partners and children are part of the picture. The aim is consistency across the family rather than locking down the principal alone."
 ---
 
 Social media has become the primary source of operational intelligence for threat actors targeting executives. The information executives and their families voluntarily publish (locations, routines, travel plans, family details) provides what professional surveillance operations historically required significant resources to collect.

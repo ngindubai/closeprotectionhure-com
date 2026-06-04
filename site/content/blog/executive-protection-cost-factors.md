@@ -19,6 +19,8 @@ faqs:
     answer: "No. For most corporate travel in lower-risk environments, a standard saloon with an experienced security driver is appropriate. Armoured vehicles are recommended when the threat assessment indicates a specific vehicle-borne threat, when the principal's profile is unusually high, or when operating in cities where vehicle attacks are a documented risk. Your security consultant should make this assessment case by case."
   - question: "What is advance work and why does it add to the cost?"
     answer: "An advance is the pre-visit inspection and planning process conducted by a member of the security team before the principal arrives. The advance officer assesses the hotel, meeting venues, and routes; identifies emergency resources; and establishes local contacts. This is typically billed as additional days at the officer day rate, plus travel costs. Cutting the advance to reduce cost increases the risk of undetected vulnerabilities."
+  - question: "Why do quoted day rates sometimes exclude significant costs?"
+    answer: "A headline operator day rate often excludes vehicles, additional team members, accommodation, travel, and equipment, which can substantially change the total. Comparing providers on the all-in cost for the specific task, rather than a single advertised figure, gives a realistic picture."
 ---
 
 The question comes up in almost every initial conversation: what does executive protection cost? The honest answer is that it depends on more variables than most buyers expect, and understanding those variables is the difference between a security budget that reflects genuine risk and one that is either over-specified or dangerously thin.

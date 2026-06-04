@@ -17,6 +17,10 @@ faqs:
     answer: "This is a risk-based decision that depends on the specific election environment and operational necessity. For elections with documented violence risk, a brief suspension of in-country movement by foreign nationals and a move to remote working for local staff in high-risk areas is prudent. Maintaining flexibility to accelerate departure if pre-election conditions deteriorate is more important than a fixed suspension decision made weeks in advance."
   - question: "What happens to security after an election in a contested environment?"
     answer: "The post-election period is often more dangerous than the election itself if results are contested. The period between announcement of results and the transition of power (which can take weeks or months) is when violence typically peaks in contested elections. Security planning should extend through this period, not conclude on election day."
+  - question: "How should businesses prepare staff for an election period in a volatile country?"
+    answer: "Preparation includes monitoring the political calendar, pre-positioning contingency and evacuation options, restricting non-essential travel around key dates, and briefing staff on areas and behaviours to avoid. Unrest often concentrates around results announcements and disputed outcomes."
+  - question: "What are the security risks in the post-election period?"
+    answer: "Contested results can produce protest, violence, communication shutdowns, and curfews that persist well after polling day. Plans should therefore extend beyond the vote itself to cover the transition period, with clear thresholds for relocating or withdrawing staff."
 ---
 
 Elections and political transitions create predictable windows of elevated security risk that require specific planning. They are, in many ways, the most plannable security risks because they are scheduled: unlike coups or sudden political crises, elections give advance notice that a period of elevated risk is approaching.

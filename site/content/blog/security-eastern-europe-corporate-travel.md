@@ -17,6 +17,10 @@ faqs:
     answer: "For most corporate travellers, full close protection is not required in Warsaw or Prague. Both cities have low violent crime rates and professional emergency services. The case for CP arises for UHNWI principals, executives with specific threat profiles, or visits coinciding with high-profile events. Standard corporate security measures (pre-booked secure transport, vetted hotels, advance venue assessment) are appropriate baseline measures."
   - question: "What about travel close to the Ukraine border?"
     answer: "Travel to border regions of Poland and Romania adjacent to Ukraine requires specific risk assessment. These areas are not combat zones but experience elevated refugee flows, secondary effects of the conflict, and intelligence activity. Any business travel within 50km of Ukraine or Belarus should involve a current threat assessment from a qualified security adviser."
+  - question: "How does proximity to the Ukraine conflict affect regional travel?"
+    answer: "Countries bordering the conflict, particularly Poland, have seen heightened intelligence activity and documented sabotage incidents, which mainly affects principals connected to defence or Ukraine support rather than routine business travellers. Our Warsaw city briefing covers this hybrid-threat environment in detail."
+  - question: "What is the general security picture for business travel to Eastern European capitals?"
+    answer: "Capitals such as Warsaw, Prague, and Bucharest are manageable for standard business travel, with day-to-day crime low by European standards. The elevated considerations are specific to certain profiles and to the eastern border zones rather than to ordinary corporate visits."
 ---
 
 Eastern Europe spans an enormous range of risk environments. Tallinn is operationally comparable to a Nordic capital. Kyiv is an active conflict zone. Most corporate itineraries fall somewhere between those extremes, and the region's risk profile has shifted materially since Russia's 2022 full-scale invasion of Ukraine.

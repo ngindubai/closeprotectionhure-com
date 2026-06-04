@@ -17,6 +17,10 @@ faqs:
     answer: "VIP and executive suite guests typically access the venue through dedicated entry points with separate access credentials and less congested processing. Within the venue, suite areas have their own access control that separates them from general concourse areas. Suite security combines venue security with the specific requirements of the suites' organisers, which may include personal protection for individual high-profile guests."
   - question: "What are the legal powers of stadium security staff?"
     answer: "In the UK, stadium security staff typically operate under SIA Door Supervisor or Security Guard licences. Their powers are those of any private citizen plus contractual authority to refuse entry or remove individuals who breach ground regulations. They do not have police powers of arrest beyond citizen's arrest in narrow circumstances. Understanding the legal framework for removal and restraint is essential for security providers at sports venues."
+  - question: "How are crowd safety and security managed together at stadiums?"
+    answer: "Modern stadium operations integrate crowd safety, such as flow, capacity, and egress, with security measures like searching, surveillance, and response, since the two overlap in any incident. Licensed stewarding and police coordination underpin both."
+  - question: "What planning protects VIP and executive areas at stadiums?"
+    answer: "VIP and executive suites are managed through separate credentialed access, controlled routes, and discreet protection for individual principals where warranted. Separating these flows from general admission is the core measure."
 ---
 
 Stadiums and major sports venues present one of the most complex security management environments in the event industry. They combine large crowds, passionate and sometimes confrontational atmosphere, segregated competitor supporter groups, high-profile participants, and physical environments designed for spectacle rather than security.

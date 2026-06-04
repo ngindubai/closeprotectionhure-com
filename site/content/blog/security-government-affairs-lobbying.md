@@ -17,6 +17,10 @@ faqs:
     answer: "Lobbying firms hold commercially valuable information about client strategy, political positions, and government intelligence. Foreign state intelligence services target lobbying firms to understand client vulnerabilities, identify pressure points in regulatory processes, and monitor the political positions of companies in sectors of strategic interest. This creates cyber and HUMINT targeting of lobbying operations that firms may not anticipate."
   - question: "How should government affairs teams manage security in access-sensitive environments?"
     answer: "Proximity to political principals, government buildings, and classified briefings creates specific security obligations: device management (many government facilities prohibit personal devices in sensitive areas), communication security (conversations about client strategy in uncontrolled environments risk intelligence collection), and vetting of staff with access to sensitive client information and government contacts."
+  - question: "What intelligence and confidentiality risks face lobbying firms?"
+    answer: "Government affairs work involves sensitive client positions and access, which makes firms targets for information gathering by competitors, activists, and in some cases state actors. Information security, disciplined handling of client material, and awareness of surveillance are the central measures."
+  - question: "Do public affairs professionals face physical security risks?"
+    answer: "Physical risk is usually lower than information risk, but high-profile or controversial campaigns can attract protest, harassment, and occasional threats. The proportionate response is event and travel planning and clear reporting routes rather than routine close protection."
 ---
 
 Government affairs and lobbying operations occupy an interesting security position: they are not typically perceived as high-risk environments, yet they handle commercially sensitive information, operate in proximity to political principals, and in some contexts attract intelligence and activist attention.

@@ -17,6 +17,10 @@ faqs:
     answer: "AGM attendees have legal rights to attend and speak, which limits the security measures that can be applied to credentialed shareholders. However, disruptive behaviour beyond reasonable protest can be managed through venue security, with clear protocols for what constitutes grounds for removal. Security planning should anticipate disruption and have clear, legally reviewed protocols for response: not improvised on the day."
   - question: "How should executive arrivals and departures be managed at AGMs?"
     answer: "AGM executive arrivals and departures are predictable exposure points. The arrival location and timing should be managed to avoid coinciding with peak protester presence outside the venue. A dedicated arrival route, separate from general shareholder access, provides appropriate separation. Executive departures should be planned for after the peak of any external protest activity where possible."
+  - question: "How is protest activity at an AGM managed lawfully?"
+    answer: "Lawful protest cannot simply be prevented, so planning focuses on managing access, separating disruptive activity from proceedings, and protecting principals during arrivals, departures, and any platform appearance. Coordination with the venue and, where appropriate, police underpins a measured response that avoids escalation."
+  - question: "What advance work supports a secure AGM?"
+    answer: "Effective AGM security begins with a venue assessment, a review of likely protest or activist interest, and agreed arrival and departure plans for directors. Briefing venue staff and aligning the protection detail with venue security in advance prevents friction on the day."
 ---
 
 Annual general meetings and major shareholder events create a specific security environment: a known, publicised gathering of company leadership with legally required public-facing access and the potential for organised disruption.

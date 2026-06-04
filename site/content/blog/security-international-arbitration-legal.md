@@ -17,6 +17,10 @@ faqs:
     answer: "Unlike domestic criminal proceedings, international arbitration does not have a formal witness protection system. Parties to arbitrations involving sensitive or intimidatable witnesses must arrange their own protective measures. For high-value proceedings, this may include: secure transportation for witnesses, separate accommodation from the main legal team, communications security, and in some cases close protection during the proceedings period."
   - question: "What security should be applied to arbitration hearing venues?"
     answer: "For sensitive arbitrations, the hearing venue should be assessed for audio surveillance vulnerability and swept for listening devices (TSCM) before confidential proceedings. The choice of venue (avoiding hotels in jurisdictions with aggressive state intelligence collection, choosing facilities with controlled access and sound isolation) is itself a security decision. Arbitration centres in London, Geneva, Singapore, and Stockholm generally offer facilities with appropriate security standards."
+  - question: "What confidentiality measures protect sensitive arbitration proceedings?"
+    answer: "High-value arbitration can attract intelligence gathering and pressure on parties, so measures include secure handling of documents and devices, vetted venue arrangements, and disciplined communications. The aim is to protect both the participants and the integrity of confidential proceedings."
+  - question: "When is protective security justified around arbitration?"
+    answer: "Protective measures are proportionate where there is a credible threat to parties, witnesses, or counsel, particularly in disputes involving state interests or large sums. A specific threat assessment, rather than the value of the dispute alone, should determine the posture."
 ---
 
 International arbitration and major cross-border litigation concentrate enormous financial stakes, involve parties from varied jurisdictions with different intelligence and legal traditions, and proceed under confidentiality obligations that make the proceedings themselves targets for unauthorised access.

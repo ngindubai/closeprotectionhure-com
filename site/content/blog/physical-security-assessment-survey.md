@@ -17,6 +17,10 @@ faqs:
     answer: "For a single site such as a corporate office, a professional assessment typically takes one to two days on site plus time for report writing. For complex multi-site assessments or large facilities such as data centres, manufacturing plants, or campus environments, the timeline extends accordingly. The on-site work involves physical inspection of all areas, interviews with security and facilities staff, and review of existing documentation."
   - question: "What qualifications should a security assessor have?"
     answer: "Look for: professional security membership (Security Institute, ASIS International), relevant credentials (CPP (Certified Protection Professional, PSP) Physical Security Professional), and documented experience with assessments in your sector and risk environment. Ask for example reports (suitably anonymised) to assess the quality and depth of their previous work."
+  - question: "What does a physical security assessment typically examine?"
+    answer: "An assessment reviews perimeter and access control, surveillance coverage, lighting, intrusion detection, procedures, and the human factors around how security is actually operated day to day. The output is a prioritised set of findings and recommendations rather than a simple pass or fail."
+  - question: "How often should a physical security assessment be repeated?"
+    answer: "A reassessment is appropriate after significant change, such as a move, a refurbishment, a new threat, or an incident, and otherwise on a periodic cycle, commonly every one to two years for higher-risk sites. Security degrades over time as procedures slip and the environment changes, so a one-off survey has a limited shelf life."
 ---
 
 A physical security assessment is the systematic examination of a facility, property, or environment to identify security vulnerabilities, evaluate existing security measures, and provide recommendations for improvement. It is the foundational input for security investment decisions: without a current, professional assessment, security spending is guesswork.

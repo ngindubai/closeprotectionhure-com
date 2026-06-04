@@ -17,6 +17,10 @@ faqs:
     answer: "Social engineering: the manipulation of people to obtain information or access. Phishing, vishing (voice phishing), pretexting, and physical social engineering (tailgating, impersonation) are responsible for a large proportion of significant security incidents. Technical controls can stop a lot, but a trained employee who does not click the phishing link or challenge the unfamiliar person in the secure area is the most effective last line of defence."
   - question: "How do you measure whether security awareness training is working?"
     answer: "Key metrics: phishing simulation click rates (do they go down after training?), security incident reporting rates (do employees report more concerns?), physical security testing results (do employees challenge unfamiliar persons?). Compliance completion rates measure participation, not learning. Behavioural metrics measure whether training has produced the intended change."
+  - question: "What makes security awareness training effective rather than a tick-box exercise?"
+    answer: "Training works when it is role-relevant, repeated, and reinforced by leadership and real procedures, rather than delivered once and forgotten. Short, frequent, scenario-based sessions tend to change behaviour more than annual slide decks. Measuring reporting rates and tested behaviours shows whether it is landing."
+  - question: "How should training address travel and remote-working risks?"
+    answer: "With more staff travelling and working remotely, awareness training should cover travel preparation, device and communications discipline, and how to report concerns from outside the office. Tailoring content to how the workforce actually operates keeps it relevant."
 ---
 
 Security awareness training is one of the most cost-effective investments in corporate security, and one of the most frequently wasted. The difference between training that produces genuine behavioural change and training that produces compliance records is significant, and it lies in design, delivery, and measurement.

@@ -17,6 +17,10 @@ faqs:
     answer: "Catering staff for high-security private events should be vetted through the catering company, which should conduct criminal background checks on all staff deployed to the event. For very high-security events, the host's security team may require the staff list in advance and conduct independent verification. Staff should be briefed on confidentiality requirements and should not use personal devices in event areas without prior agreement."
   - question: "Should a protection officer be present during private dining?"
     answer: "For principals with elevated threat profiles, yes. The protection officer's positioning during private dining requires judgment: present enough to respond to a threat, discreet enough not to disrupt the occasion. In practice, this often means the officer is in an adjacent area with line of sight to entry points, rather than in the dining room itself, unless the threat assessment warrants closer proximity."
+  - question: "How should catering and event staff be vetted for a high-security private event?"
+    answer: "Temporary catering and service staff have close access to principals and guests, so vetting, supervised access, and clear zoning of staff areas are the core controls. For UHNWI events, confirming staff identities against the agreed list and managing their movement are basic measures."
+  - question: "What protective presence is appropriate at a private dining event?"
+    answer: "For most private dinners a discreet posture is preferable, with protection officers positioned to manage access and respond if needed rather than standing over the table. The level scales with the principals present and any specific threat, and is coordinated with the host and venue."
 ---
 
 Private dining and estate catering events for UHNWI principals create a specific security environment. They concentrate valuable principals in a residential or quasi-residential setting, introduce external service staff, and often involve sensitive conversations at the highest levels of business and politics.

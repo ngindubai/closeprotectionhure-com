@@ -17,6 +17,10 @@ faqs:
     answer: "The most high-profile F1 drivers maintain close protection arrangements, particularly for public appearances and travel outside the secure paddock environment. Their celebrity profile, fan intensity, and in some cases political associations (drivers have been involved in activism that has generated hostile responses) create genuine security requirements. The FIA and circuit organisers provide perimeter and event security; personal protection for individual drivers is arranged independently."
   - question: "What are the security challenges for rally events?"
     answer: "Rally events take place on public roads through diverse environments (forests, mountain passes, urban stages) with spectators lining the route without the perimeter control of a circuit. Spectator safety (rather than principal protection) is the primary security management challenge. Crowd management along the route, spectator exclusion zones at high-risk corners, and medical access to remote stages are the main operational concerns."
+  - question: "What security challenges are specific to large motorsport venues?"
+    answer: "Race events combine very large crowds, sprawling venues, valuable equipment, and high-profile guests across paddock and hospitality areas. Access control between public, hospitality, and restricted technical zones is central, alongside crowd and traffic management around the circuit."
+  - question: "How is hospitality and VIP security managed at events like Formula 1?"
+    answer: "Premium hospitality and paddock access concentrate high-profile guests, which calls for credentialed access, discreet protection for individual principals, and coordination with the event's own security. The approach favours low-profile management over visible presence in these settings."
 ---
 
 Major motorsport events combine the characteristics of large public events, UHNWI hospitality, high-profile principal protection, and in some cases challenging international environments into a distinctive security management challenge.

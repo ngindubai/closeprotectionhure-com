@@ -17,6 +17,10 @@ faqs:
     answer: "Advance coordination is essential. The protection officer should contact the club's security team before arrival to confirm the principal's requirements, agree on positioning, and understand the club's protocols. The club has its own security interests (discretion, maintaining atmosphere) that may not align with the protection detail's default positioning. Collaboration, rather than the protection officer unilaterally imposing their preferred approach, produces better security outcomes."
   - question: "How do clubs manage photography and social media by other members?"
     answer: "Most exclusive clubs have no-photography policies in certain areas, typically enforced by social convention and reminder rather than technical means. From a VIP protection perspective, photography policies provide a legitimate basis for intervening when a member is attempting to photograph a protected principal: staff can enforce the policy without revealing the identity of the person being protected."
+  - question: "How does a protection detail work within a private members club's own rules?"
+    answer: "Clubs have strong privacy norms and their own house rules, so an external detail must coordinate with club security and operate discreetly within those expectations. Agreeing in advance how the detail positions itself avoids friction with the club and other members."
+  - question: "How do clubs protect member privacy against photography and disclosure?"
+    answer: "Many clubs enforce no-photography rules and discretion expectations among members and staff, supported by access control that keeps non-members out. For a high-profile principal, confirming these protections and how they are enforced is part of selecting a venue."
 ---
 
 Private members clubs present a specific set of security challenges that differ from both public venues and fully controlled private environments. The combination of controlled membership, luxury hospitality environment, multiple staff access points, and the expectation of discretion creates a security context that requires tailored approaches.

@@ -17,6 +17,10 @@ faqs:
     answer: "Remote project security requires a systematic approach: baseline security assessment before mobilisation, daily journey management for all vehicle movements, residential compound security with access control, communication systems that work in remote areas (satellite communication where mobile networks are unavailable), medical evacuation planning tested before deployment, and K&R insurance for all personnel."
   - question: "What is the duty of care obligation for engineering companies deploying staff internationally?"
     answer: "Engineering companies have the same duty of care obligations as any employer: the requirement to take reasonable steps to protect employees from foreseeable harm. In practice, deploying engineering staff to a high-risk jurisdiction without adequate security preparation, threat assessment, and emergency response planning creates significant legal liability if harm occurs. The cost of security preparation is always less than the cost of a serious incident."
+  - question: "How should contractors secure staff on remote international projects?"
+    answer: "Remote projects require site security, controlled and escorted movement, medical and evacuation planning, and clear communications, with the journey to and from site often the highest-risk element. Pre-deployment briefing and hostile-environment training are appropriate where the location warrants it."
+  - question: "What duty of care steps apply when deploying engineers abroad?"
+    answer: "Companies should conduct destination risk assessment, provide appropriate training and insurance, track deployed staff, and maintain a defined response capability. These steps tie directly to the organisation's legal and ethical duty of care toward staff sent into elevated-risk environments."
 ---
 
 Infrastructure and engineering contractors are among the international workforce categories most frequently exposed to serious security incidents: working in remote locations, in countries with elevated security risk, on projects that may generate community or political opposition.

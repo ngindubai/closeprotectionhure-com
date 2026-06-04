@@ -17,6 +17,10 @@ faqs:
     answer: "Virtual kidnapping calls typically: spoof (fake) a phone number belonging to a known contact or the apparent victim; use pre-recorded audio of distress sounds or screaming to create urgency; demand immediate wire transfer or crypto payment; maintain pressure by keeping the recipient on the phone; and threaten harm if police are contacted. AI voice cloning is increasingly used to generate convincing fake audio of the apparent victim's voice."
   - question: "What is the correct immediate response to a potential virtual kidnapping call?"
     answer: "Do not hang up, but also do not panic and pay immediately. Try to slow the call: say you need to verify the situation. Simultaneously have someone else contact the person claimed to be kidnapped through a different channel: call them directly, contact their workplace, use a family code word system. If you can reach them and confirm they are safe, the call is fraudulent. If you cannot reach them, contact law enforcement while keeping the fraudster on the call."
+  - question: "How can families reduce the impact of a virtual kidnapping attempt?"
+    answer: "Because virtual kidnapping relies on fear and the inability to reach the supposed victim, agreed check-in habits, a family code word, and caution over publicly shared travel information all blunt the scam. Being able to quickly verify a person's safety removes the extortionist's advantage."
+  - question: "What should a recipient do during a suspected virtual kidnapping call?"
+    answer: "The recommended approach is to stay calm, avoid confirming names or details, attempt to verify the supposed victim's safety through another channel, and not rush a payment. Keeping the caller talking while a second person checks on the individual is a practical step, followed by reporting to police."
 ---
 
 Virtual kidnapping is one of the fastest-growing fraud categories targeting high-net-worth families and corporate executives. It exploits the most powerful human emotion, fear for a loved one's safety, to create the conditions for rapid, unreasoned payment before the fraud can be detected.

@@ -17,6 +17,10 @@ faqs:
     answer: "Integrity investigators who identify match-fixing operations are investigating organised criminal networks who have significant financial interests in the outcome. Investigators who get close to specific networks have faced threats, and in some jurisdictions, direct intimidation. This creates a genuine close protection requirement for integrity personnel in markets with significant organised crime involvement in sports corruption."
   - question: "What physical security do major betting operators need?"
     answer: "Major betting shops and gaming venues need security appropriate to their cash-handling operations. This includes access control, CCTV, cash management procedures, and security personnel trained in de-escalation and emergency response. Executive level security for senior figures, particularly where the company's operations generate significant public controversy."
+  - question: "How do betting operators manage threats to staff and premises?"
+    answer: "Licensed operators combine venue security, cash-handling controls, and staff training against robbery and aggression, with additional measures for senior staff who may face pressure linked to disputes or integrity investigations. The mix reflects both ordinary commercial crime and sector-specific threats."
+  - question: "What security supports sporting integrity work?"
+    answer: "Integrity and anti-corruption investigations can expose staff to intimidation from those with a financial interest in match outcomes. Protecting investigators, securing evidence and data, and managing the confidentiality of integrity operations are the relevant measures."
 ---
 
 The betting and gaming sector operates at the intersection of significant financial flows, organised crime pressure, regulatory scrutiny, and public controversy: a combination that generates a specific and often underestimated security environment.

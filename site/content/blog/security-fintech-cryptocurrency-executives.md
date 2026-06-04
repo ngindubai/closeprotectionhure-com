@@ -17,6 +17,10 @@ faqs:
     answer: "The priorities are: digital footprint reduction (reducing the public visibility of wealth and routine), secure communications, residential security review, and pre-booked secure transport for significant journeys. For executives with large publicly-known crypto holdings, close protection for high-profile events and travel to elevated-risk jurisdictions is increasingly standard."
   - question: "Is the threat from crypto-focused criminals different from traditional kidnap groups?"
     answer: "Yes in several respects. Crypto-focused criminal groups have demonstrated willingness to use violence rapidly to obtain seed phrases or private keys: the immediate access to funds incentivises speed. Traditional kidnap-for-ransom operations involve negotiation and delay. This changes the security response: the emphasis shifts toward preventing access rather than managing a post-kidnap scenario."
+  - question: "Why does visible crypto wealth change the personal threat picture?"
+    answer: "Public association with significant, potentially liquid holdings has been linked to a pattern of targeted robberies and coercion attempts against individuals in the sector. The practical response includes a low public profile about holdings, residential security where warranted, and care over routines and online disclosure."
+  - question: "What digital-physical crossover risks should fintech principals consider?"
+    answer: "For this group, physical coercion aimed at extracting account access or keys is a recognised concern, which links personal security directly to information security. Measures that separate the principal from sole physical control of critical access reduce the value of coercing them."
 ---
 
 The fintech and cryptocurrency sector has created a new category of visible wealth that carries distinctive physical security implications. Unlike traditional UHNWI principals whose wealth may be less immediately accessible, senior cryptocurrency executives and large holders face a specific threat: their wealth can in some cases be transferred instantly if an attacker obtains access to private keys.

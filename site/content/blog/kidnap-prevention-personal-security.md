@@ -17,6 +17,10 @@ faqs:
     answer: "Virtual kidnap is a fraud in which criminals contact a target's family or employer claiming to have kidnapped them, and demand ransom before the deception is discovered. The target is not actually in danger but the psychological pressure often leads to payment. Protection involves establishing a family communication protocol, a duress word or check-in schedule, so that family members can verify a loved one's safety quickly rather than assuming kidnap."
   - question: "Is kidnap and ransom insurance sufficient protection?"
     answer: "K&R insurance is an important component of a comprehensive security programme but does not replace physical security measures. Insurance responds after a kidnap occurs. Prevention measures (threat assessment, route security, anti-surveillance protocols) reduce the probability of the incident occurring. Both are appropriate for principals with elevated risk profiles."
+  - question: "What routine behaviours most reduce kidnap risk?"
+    answer: "Varying routes and timings, maintaining a low public profile about wealth and movements, using vetted transport, and being alert to surveillance are the measures that most reduce opportunity. Most kidnaps follow a period of target observation, so disrupting predictability is central to prevention."
+  - question: "How should families prepare for kidnap risk in higher-risk postings?"
+    answer: "Families on higher-risk assignments benefit from awareness briefings, agreed communication and check-in protocols, and a clear plan for who to contact in an emergency. Children and domestic staff should be included in proportionate awareness measures. Preparation reduces panic and improves the quality of the early response if an incident occurs."
 ---
 
 Kidnapping is not a random act. Professional kidnap teams conduct surveillance, establish routines, and select targets based on assessed vulnerability and financial reward. This means kidnap is preventable in most cases: not through physical invincibility but through making yourself a harder target than the alternatives.

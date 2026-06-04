@@ -17,6 +17,10 @@ faqs:
     answer: "Predictable exposure in uncontrolled environments. Conferences concentrate high-value targets in locations with multiple access points, large crowds, and significant media presence. The networking and public accessibility that makes conferences valuable from a business perspective creates security exposure. The specific risk profile depends on the principal: for some, the risk is protest or activist confrontation; for others, it is surveillance by commercial or state intelligence actors; for others, it is the general elevated risk of crowded venues."
   - question: "Should principals speak from a lectern or a fixed position at conferences?"
     answer: "From a security perspective, a fixed position with known sight lines is preferable to open-stage movement. The advance agent should assess the stage layout, the audience sight lines, and the entry and exit routes from the speaking position. Where possible, the protection officer should be positioned to provide cover without being visible in media coverage: this is achievable in most conference settings."
+  - question: "How is a principal's conference schedule secured in advance?"
+    answer: "Advance work covers the venue layout, arrival and departure points, the route to and from the stage or meeting room, and identified safe areas, briefed to the detail before the principal arrives. This preparation is what allows a low-profile presence on the day."
+  - question: "How do protection details coordinate with conference organisers and venue security?"
+    answer: "Effective coverage depends on early liaison with organisers and venue security over access, credentials, and contingency, so the personal detail and venue staff operate to a shared plan. Turning up without this coordination causes friction and gaps at access points."
 ---
 
 Conferences and major corporate events present a specific set of security challenges for VIP and executive protection. They combine the concentration of high-value targets, open-access environments with multiple entry points, significant media presence, and often complex venue geography: all factors that create security complexity.
