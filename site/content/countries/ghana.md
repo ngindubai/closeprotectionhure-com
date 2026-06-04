@@ -48,3 +48,5 @@ Unarmed close protection is the standard commercial model in Ghana. Supplementar
 For visiting executives in Accra, the primary risk management priorities are: vetted airport transfers, hotel and venue selection avoiding known hotspots, and route variation. Advance planning reduces exposure to the most common criminal methodologies. A written pre-travel assessment is appropriate for any first-time Ghana itinerary.
 
 Source: FCDO Travel Advice: Ghana (2025). Ghana Police Service: Private Security Licensing. OSAC Ghana Country Security Report 2024.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Ghana. For a detailed local assessment, see our [Accra city briefing](/cities/accra/).

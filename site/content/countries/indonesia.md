@@ -38,3 +38,5 @@ The 2002 Bali bombings (202 dead), the 2003 and 2009 Jakarta Marriott and Ritz-C
 ## Drug laws: zero latitude
 
 Indonesia's mandatory penalties for drug trafficking include capital punishment. This has been applied to foreign nationals. Possession of any amount of certain substances carries severe sentences. For visitors, this means documentation for all medications, no accepting packages from strangers, and treating customs compliance as a hard requirement, not a bureaucratic formality.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Indonesia. For a detailed local assessment, see our [Jakarta city briefing](/cities/jakarta/).

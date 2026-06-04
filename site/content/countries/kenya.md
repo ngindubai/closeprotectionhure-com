@@ -42,3 +42,5 @@ For corporate travellers, this means that venue selection in Nairobi is a securi
 ## Ground transport risks
 
 Carjacking concentrates on Mombasa Road and Thika Road after dark. JKIA airport has specific arrival risks from unlicensed taxis. The recommended approach is pre-arranged hotel or operator transfer, vetted drivers with tracked vehicles, and daylight travel for all non-essential movements.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Kenya. For a detailed local assessment, see our [Nairobi city briefing](/cities/nairobi/).

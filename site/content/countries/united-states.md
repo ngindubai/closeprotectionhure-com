@@ -44,3 +44,5 @@ This reassessment is structural rather than temporary. Requests for written thre
 Elevated crime in New York is concentrated in specific areas including parts of Midtown South, Harlem, East New York, and the South Bronx. The commercial and hotel districts where corporate visitors operate carry significantly lower day-to-day risk. Key planning points include airport-to-hotel corridor management, pre-arrival venue assessment, and anti-surveillance protocols for high-profile principals.
 
 Source: NYPD CompStat 2024. DHS NTAS Advisory Bulletin 2025. US State Department Travel Advisory: United States.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across United States. For a detailed local assessment, see our [New York city briefing](/cities/new-york/).

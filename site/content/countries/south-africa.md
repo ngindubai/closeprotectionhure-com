@@ -40,3 +40,5 @@ Load shedding creates predictable risk windows that a prepared security team can
 ## Firearms and the armed security market
 
 South Africa is unusual in the P1 network in having a well-functioning legal market for armed close protection. Licensed security companies hold business firearms licences. CPOs carry while on duty under their licensing. Armoured vehicles are routinely used by HNWIs. This infrastructure is available to clients through our PSIRA-registered operators.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across South Africa. For a detailed local assessment, see our [Johannesburg city briefing](/cities/johannesburg/).

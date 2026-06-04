@@ -50,3 +50,5 @@ Fuel shortages are an operational variable that affects ground transport plannin
 Ethiopia is one country where no travel should proceed without a current written risk assessment from an operator with verified regional knowledge. The conflict map changes. FCDO designations change. What was passable last quarter may now be under FCDO against-all-travel. A risk assessment that is six months old is not adequate for Ethiopia.
 
 Source: FCDO Travel Advice: Ethiopia (2025, updated January 2026). UN OCHA Ethiopia Situation Reports (2025-2026). OSAC Ethiopia Country Security Report 2024. Amnesty International: Ethiopia Arbitrary Detention Reporting (2024).
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Ethiopia. For a detailed local assessment, see our [Addis Ababa city briefing](/cities/addis-ababa/).

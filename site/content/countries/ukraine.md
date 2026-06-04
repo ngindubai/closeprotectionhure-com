@@ -40,3 +40,5 @@ International reconstruction and donor programmes for Ukraine have security requ
 ## Warzone EP competencies
 
 Operating effectively in Ukraine requires competencies that differ from peacetime EP. Understanding of air defence systems, ability to identify incoming threats, shelter procedures, first aid trauma management (tourniquet application, wound packing), and communication under electronic warfare conditions are all required skills. Not all security professionals have these. Operators must be vetted specifically for warzone operational competence, not general EP credentials.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Ukraine. For a detailed local assessment, see our [Kyiv city briefing](/cities/kyiv/).

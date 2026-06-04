@@ -44,3 +44,5 @@ Itinerary planning for Chile should flag these dates and build in routing flexib
 Chile is the world's largest copper producer and a major lithium producer. The mining sector generates the majority of CP demand in Chile. Mine site operations, executive visits to northern regions including Antofagasta and Calama, and in-country movement for extractive-sector clients represent the core professional CP market. This is a market with established norms, experienced operators, and a regulatory framework that supports professional deployment.
 
 Source: FCDO Travel Advice: Chile (2025). RNGDS: Registro Nacional de Guardias de Seguridad. OSAC Chile Country Security Report 2024. US State Department Chile Travel Advisory (2025).
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Chile. For a detailed local assessment, see our [Santiago city briefing](/cities/santiago/).

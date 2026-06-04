@@ -42,3 +42,5 @@ A current risk assessment for UAE travel will reflect the latest FCDO position a
 ## SIRA-regulated market
 
 The UAE's security industry is regulated by SIRA (Security Industry Regulatory Agency). This creates one of the more transparent and professionally regulated markets in our network. All security companies must be SIRA-registered. Close protection is unarmed. The market is primarily driven by events, HNWI clients, and corporate executives rather than the crime-prevention requirements that dominate other P1 cities.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across UAE. For a detailed local assessment, see our [Dubai city briefing](/cities/dubai/).

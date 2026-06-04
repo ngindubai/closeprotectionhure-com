@@ -38,3 +38,5 @@ Abu Sayyaf and IS-Philippines affiliates have conducted attacks including kidnap
 ## Firearms and the armed security market
 
 The Philippines has one of the more permissive firearms licensing environments in the region, which directly shapes the security industry. Many professional operators are PNP or AFP alumni with weapons experience. Armed security is available and legally structured. For corporate visitors, the appropriate level of security response depends on the specific profile, activity, and travel pattern being assessed.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Philippines. For a detailed local assessment, see our [Manila city briefing](/cities/manila/).

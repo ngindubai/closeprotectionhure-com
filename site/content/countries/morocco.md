@@ -46,3 +46,5 @@ Moroccan counter-terrorism capability is noteworthy. The DGST has a sustained re
 For Casablanca-based corporate operations, the primary practical risks are motorcycle drive-by theft, vehicle crime, and counterfeit alcohol. A vetted driver with a tracked vehicle, accommodation in licensed hotels, and standard personal security awareness are the appropriate baseline. Additional close protection is relevant for high-profile individuals and for any itinerary involving movement outside central Casablanca.
 
 Source: FCDO Travel Advice: Morocco (2025). OSAC Morocco Country Security Report 2024. Human Rights Watch: 2018 Imlil Attack Reporting. US Geological Survey: 2023 Morocco Earthquake Data. US State Department Morocco Travel Advisory (2025).
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Morocco. For a detailed local assessment, see our [Casablanca city briefing](/cities/casablanca/).

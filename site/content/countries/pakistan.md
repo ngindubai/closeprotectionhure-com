@@ -42,3 +42,5 @@ Our Pakistan operators have documented experience in Karachi and Islamabad. They
 ## The kidnapping threat
 
 FCDO rates kidnapping risk in Pakistan as critical. Western nationals, businesspeople with visible profiles, and anyone associated with Chinese infrastructure projects carry elevated kidnapping profiles. This is not a low-frequency risk: Pakistan is one of a small number of markets in our network where kidnap-specific security planning is a standard recommendation rather than an optional element.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Pakistan. For a detailed local assessment, see our [Karachi city briefing](/cities/karachi/).

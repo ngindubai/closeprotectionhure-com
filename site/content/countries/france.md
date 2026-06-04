@@ -44,3 +44,5 @@ Security planning for France should address residential security at hotel and pr
 Political protest is woven into French civic culture in a way that distinguishes Paris from other European capitals. The practical security implication is that route disruption is predictable but the specific timing and location of flashpoints is not always foreseeable. Security drivers working Paris need local knowledge and real-time information sources. Pre-planned alternative routes are not optional.
 
 Source: FCDO Travel Advice: France (2024). Direction Centrale de la Police Judiciaire kidnapping statistics. CNAPS register of authorised operators.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across France. For a detailed local assessment, see our [Paris city briefing](/cities/paris/).

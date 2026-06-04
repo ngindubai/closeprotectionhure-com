@@ -44,3 +44,5 @@ Counter-terrorism planning is standard for large events, crowded spaces, and hig
 London is one of the world's leading UHNWI cities. The CP market reflects this precisely. Discretion is the defining operational requirement for this client base. Operators who understand the low-profile brief and the lifestyle environment in which principals move are in consistent demand, particularly during the summer season when the principal population in London is at its highest concentration.
 
 Source: MI5 national threat level assessment (current). FCDO Travel Advice: United Kingdom (2024).
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across United Kingdom. For a detailed local assessment, see our [London city briefing](/cities/london/).

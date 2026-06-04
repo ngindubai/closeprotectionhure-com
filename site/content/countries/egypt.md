@@ -48,3 +48,5 @@ FCDO has documented sexual assaults at Red Sea resort properties by hotel staff.
 Egypt's drug laws require specific briefing for every traveller. Life imprisonment and the death penalty apply. Travellers carrying medication of any kind must verify its legal status in Egypt before travel. This is not a risk category that is mitigated by professional security: it is a compliance matter that requires personal legal verification.
 
 Source: FCDO Travel Advice: Egypt (2025). OSAC Egypt Country Security Report 2024. US State Department Egypt Travel Advisory (2025). Egyptian Narcotics Control Authority documentation (2024).
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Egypt. For a detailed local assessment, see our [Cairo city briefing](/cities/cairo/).

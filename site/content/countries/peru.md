@@ -46,3 +46,5 @@ Peru's political instability since 2022 has produced repeated protest cycles, ro
 Peru's SUCAMEC framework provides a regulatory baseline that is more structured than many comparable markets. Licensed operators are identifiable. Armed close protection teams from military and national police backgrounds are available and practised. The quality gradient between licensed SUCAMEC operators and informal providers is significant.
 
 Source: FCDO Travel Advice: Peru (2025). SUCAMEC: Registro de Empresas de Seguridad Privada. OSAC Peru Country Security Report 2024. US State Department Peru Travel Advisory (2025).
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Peru. For a detailed local assessment, see our [Lima city briefing](/cities/lima/).

@@ -40,3 +40,5 @@ Colombia has a mature executive protection industry. Decades of conflict produce
 ## Regulatory framework
 
 Supervigilancia (Superintendencia de Vigilancia y Seguridad Privada) regulates Colombia's private security industry. Current licensing is the minimum standard. Our Colombia operators hold Supervigilancia licences and have been vetted beyond the regulatory baseline.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Colombia. For a detailed local assessment, see our [Bogota city briefing](/cities/bogota/).

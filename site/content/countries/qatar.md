@@ -42,3 +42,5 @@ Business disputes in Qatar can result in travel bans issued by Qatari courts, pr
 Qatar's road fatality statistics are documented by the World Health Organisation and referenced in FCDO advisories. High-speed dual carriageway driving, unpredictable lane changes, and the concentration of heavy goods vehicles on major roads create conditions that require a trained security driver, not a standard hotel taxi or rental vehicle, for high-value principals. Route planning and departure timing to avoid peak traffic periods are standard operational considerations.
 
 Source: FCDO Travel Advice: Qatar (2024). World Health Organisation: Road Traffic Fatality Statistics, Gulf Region. Qatar Penal Code (2004, as amended).
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Qatar. For a detailed local assessment, see our [Doha city briefing](/cities/doha/).

@@ -42,3 +42,5 @@ Business visitors with standard commercial itineraries are at lower legal risk, 
 ## The earthquake factor
 
 Istanbul's seismic risk is not a hypothetical. The North Anatolian Fault passes south of the city. The 2025 Sea of Marmara earthquake was a reminder. Emergency protocols for a corporate visit should include seismic response procedures alongside the standard security elements.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Turkey. For a detailed local assessment, see our [Istanbul city briefing](/cities/istanbul/).

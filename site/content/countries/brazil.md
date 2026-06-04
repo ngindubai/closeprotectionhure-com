@@ -40,3 +40,5 @@ Brazil's private armoured vehicle fleet is not an accident of geography. It is a
 ## The regulatory context
 
 Brazil's private security regulatory framework exists at federal level (Policia Federal) and state level. The industry is large and includes both professional, well-regulated firms and informal operators. Our Brazil operators hold current federal and state licensing. Given the quality gap in the Brazilian market, documented vetting is particularly important here.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Brazil. For a detailed local assessment, see our [Sao Paulo city briefing](/cities/sao-paulo/).

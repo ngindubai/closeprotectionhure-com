@@ -40,3 +40,5 @@ New York's threat environment concentrates on terrorism (DHS SEVERE equivalent),
 ## Armed versus unarmed protection
 
 The US armed protection market is mature. Many corporate close protection details in Texas, Florida, and other permissive states operate armed as standard. New York City remains primarily unarmed for most commercial operations due to licensing constraints. The armed/unarmed decision is location-specific and driven by threat assessment and principal preference.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across United States. For a detailed local assessment, see our [New York city briefing](/cities/new-york/).

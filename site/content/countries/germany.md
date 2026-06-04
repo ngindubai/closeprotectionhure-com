@@ -42,3 +42,5 @@ Germany's unarmed default is different from most P1 and P2 countries in the netw
 Berlin hosts a concentrated diplomatic community, significant UHNWI visitors, and a large international corporate travel flow. The city's political environment includes active far-right protest and counter-protest activity, which creates periodic disruption. Areas around the Reichstag, Alexanderplatz, and Potsdamer Platz have hosted significant protest events. Security planning for political or high-profile visits must include protest calendar monitoring.
 
 Source: FCDO Travel Advice: Germany (2024). BKA Annual Report on Terrorism (2023). IHK Berlin: Sachkundeprüfung Bewachungsgewerbe.
+
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Germany. For a detailed local assessment, see our [Berlin city briefing](/cities/berlin/).
