@@ -53,20 +53,22 @@
 - [x] **Deployed 02 Jun 2026:** Almaty, Tashkent, Islamabad, Conakry, Harare
 - [x] Deleted test stubs (auto-deploy-test.md, test-deploy.md) from cities
 
-**~98 city pages live. ~325+ total pages.**
+**93 city pages live (true tree count). ~350 non-index content pages (304 audited by qa_audit.py). 108 blog, 38 countries, 24 guides, 18 risk-assessments, 18 event-security, 5 service overview pages + 5 service x city silos.**
 
 ---
 
 ## Remaining Stages
 
 ### Stage 2J -- Internal Link Graph
-- [ ] Run `scripts/rebuild_link_graph.py` diagnostic
-- [ ] Resolve under-linked pages, orphans, top-inbound rebalancing
+- [x] Run `scripts/rebuild_link_graph.py` diagnostic
+- [x] **Country-hub block done 04 Jun 2026:** all 38 country pages given descriptive-anchor prose links down to their city pages and across to the executive-protection and security-drivers service silos. Total internal links 281 to 395; avg per page 0.92 to 1.30; 38 country link-floor warnings cleared. (Note: the link/QA scripts count only prose body links, not the city/service links templates render from front matter, so on-page hubs were never true orphans.)
+- [ ] Remaining: prose-link pass over blog (many 0-1 link articles), event-security (18) and risk-assessment (18) silos; top-inbound rebalancing
 
 ### Stage 2L -- QA + Full Site Audit
 - [x] **Error pass complete 03 Jun 2026:** `scripts/qa_audit.py` now PASSES with 0 errors (was 142). Fixed: 469 em dashes converted to colons/commas/parentheses across ~100 files (mostly blog); 37 banned-vocabulary occurrences reworded (leverage, robust, facilitate, nuanced, encompasses, vibrant, ubiquitous, proactive, paradigm); 1 banned phrase ("it is worth noting"); BOM stripped from bangalore/delhi/lima (front matter was unreadable). Auditor hardened: YMYL patterns now skip negated disclaimers ("does not eliminate risk", "not risk-free") and the front-matter parser tolerates a BOM.
-- [ ] **WARNINGS remain (651):** FAQ floor (cities <4), internal-link floor (<2), description length. These are the next block (thin-city depth expansion), not error-blocking.
-- [ ] Title cannibalisation follow-up: `countries/usa.md` and `countries/united-states.md` share a title (duplicate country page) - resolve in a later stage.
+- [x] **Thin-city depth expansion done 04 Jun 2026:** all city pages that sat at 3 FAQs brought to full depth (5 FAQs, 4+ body sections, 2+ prose links) across batches 2-10, clearing their FAQ-floor warnings.
+- [ ] **WARNINGS remain (463, was 651):** cities at exactly 4 FAQs, prose-link floors on blog/event-security/risk-assessment pages, description length. Not error-blocking; next blocks.
+- [ ] Title cannibalisation follow-up: `countries/uk.md` + `countries/united-kingdom.md` and `countries/usa.md` + `countries/united-states.md` are duplicate country pages sharing titles - resolve (canonical/redirect) in a later stage.
 
 ### Phase 3G -- P3 City Expansion Batch 6
 - [ ] Candidates: Naypyidaw, Bamako, Niamey, Mogadishu (conflict-zone advisory), Tripoli
@@ -90,4 +92,7 @@
 | 02 Jun 2026 | 3E | 6 | Medellin, Guadalajara, Accra, Maputo, Lusaka, Abidjan |
 | 02 Jun 2026 | Forms | 0 | FormSubmit wired to garethsomers@outlook.com, both forms fixed |
 | 02 Jun 2026 | 3F | 5 | Almaty, Tashkent, Islamabad, Conakry, Harare; deleted 2 test stubs |
+| 03 Jun 2026 | 2L | 0 | QA error pass: 142 errors to 0 (em dashes, banned words, BOM fixes, auditor hardening) |
+| 04 Jun 2026 | Thin-city expansion | 0 | Batches 2-10: ~45 city pages at 3 FAQs expanded to full depth (5 FAQs, 4+ sections, 2+ prose links). Warnings 651 to 463 |
+| 04 Jun 2026 | 2J (country-hub block) | 0 | All 38 country pages prose-linked to their cities + service silos. Internal links 281 to 395; avg 0.92 to 1.30 |
 | 03 Jun 2026 | 2L | 0 | QA error pass: 142 errors to 0. Em dashes (469), banned words (37), banned phrase (1), BOM fixes (3). Auditor hardened (YMYL negation guard, BOM-tolerant parser). Reconciled stale counts in build_state.json (cities 70->93, blog 39->108, pages 261->350). |
