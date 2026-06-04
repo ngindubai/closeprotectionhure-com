@@ -3,6 +3,7 @@ title: "Kampala"
 description: "Security services in Kampala, Uganda. Close protection, security drivers, and risk assessment for corporate travel in East Africa's rapidly growing business hub."
 slug: "kampala"
 h1: "Close Protection in Kampala"
+seo_title: "Bodyguard Hire Kampala | Close Protection Uganda"
 country: "Uganda"
 risk_level: "high"
 hero_image: "hero.jpg"
@@ -20,7 +21,7 @@ threats:
     detail: "Kampala traffic is chaotic. Boda boda motorcycle taxis create significant accident risk. Road conditions deteriorate rapidly outside the city centre. Night driving is strongly discouraged."
 available_services:
   - name: "Bodyguard Hire"
-    description: "Close protection for corporate visits and HNW clients. Ugandan-licensed operators with Kampala operational experience."
+    description: "Close protection for corporate visits and HNWI clients. Ugandan-licensed operators with Kampala operational experience."
   - name: "Executive Protection"
     description: "Security details for executives visiting Kampala for business, investment meetings, or government engagement."
   - name: "Security Drivers"
@@ -61,29 +62,43 @@ related_cities:
     slug: "accra"
 faqs:
   - question: "What is the ADF terrorism threat in Kampala?"
-    answer: "The Allied Democratic Forces (ADF) is a Ugandan rebel group operating primarily from eastern DRC with IS affiliation. The 2021 Kampala bombings (at a restaurant and near parliament) demonstrated active capability inside the capital. Uganda's security forces have increased Kampala security posture significantly since 2021. The threat exists and requires awareness."
+    answer: "The Allied Democratic Forces (ADF) is a Ugandan rebel group operating primarily from eastern DRC with IS affiliation. The 2021 Kampala bombings (at a restaurant and near parliament) demonstrated active capability inside the capital. Uganda's security forces have increased Kampala's security posture significantly since 2021. The threat exists and requires active awareness."
   - question: "Is Kampala a growing business destination?"
     answer: "Yes. Uganda has consistent economic growth, a young population, and natural resources attracting international investment. Kampala's Nakasero business district has developed considerably. The oil sector (Albertine Graben) has attracted significant international energy company presence. Business visits to Kampala are increasing."
   - question: "How does Kampala compare to Nairobi for corporate risk?"
-    answer: "Both are East African capitals with high terrorism risk assessments. Nairobi is larger with more developed corporate infrastructure. Kampala has higher political violence risk relative to Nairobi's crime-dominated profile. Both require professional security management. Nairobi has a larger expatriate community and more developed security service market."
+    answer: "Both are East African capitals with high terrorism risk assessments. Nairobi is larger with more developed corporate infrastructure. Kampala has higher political violence risk relative to Nairobi's crime-dominated profile. Both require professional security management. Nairobi has a larger expatriate community and a more developed security service market."
+  - question: "What security arrangements are appropriate for Uganda's oil sector?"
+    answer: "The Albertine Graben oil fields are in western Uganda, a region requiring separate security assessment from Kampala. International oil companies operating in Uganda maintain their own security protocols for staff movement to Hoima and the wider western operations area. Corporate visitors to Kampala for oil sector meetings operate within the standard city security framework: vetted transport, pre-arranged transfers, and accommodation in Nakasero or Kololo. Any site visit beyond Kampala requires a current route assessment and appropriate security cover."
+  - question: "How do I verify a licensed security operator in Kampala?"
+    answer: "Security companies in Uganda must be registered under the Private Security Organisations Act with the Uganda Police Force Private Security registry. Ask any proposed operator for their current UPF registration certificate and the individual registration details of officers proposed for the assignment. Foreign security companies operating in Uganda must do so through a locally licensed Ugandan partner. Verify the partnership arrangement and the Ugandan partner's UPF registration before engagement."
 ---
 
-Kampala is the capital and commercial centre of Uganda, a landlocked East African country of 50 million people. Uganda has maintained consistent economic growth over recent decades. Kampala is increasingly a destination for international investment, particularly in oil and gas, agriculture, and technology.
+Kampala is the capital and commercial centre of Uganda, a landlocked East African country of 50 million people. Uganda has maintained consistent economic growth over recent decades and Kampala is increasingly a destination for international investment, particularly in oil and gas, agriculture, and technology. The city carries a high security risk rating, with terrorism and political unrest as the defining factors alongside standard urban crime.
 
-FCDO advises caution across Uganda and specifically warns against travel to the western border regions (DRC conflict proximity), northern Uganda (post-LRA legacy risks), and Karamoja region. Kampala carries a high risk rating, with terrorism and political unrest as primary factors alongside crime.
+FCDO advises caution across Uganda and specifically warns against travel to the western border regions (DRC conflict proximity), northern Uganda, and Karamoja region.
 
 ## The terrorism dimension
 
-Uganda's involvement in AMISOM (now ATMIS) operations in Somalia has made it a target for Al-Shabaab. The July 2010 Kampala World Cup bombings (76 killed) established the Al-Shabaab threat. The October 2021 bombings (three explosions including near parliament) were attributed to ADF with IS affiliation.
+Uganda's role in AMISOM (now ATMIS) operations in Somalia has made it a target for Al-Shabaab. The July 2010 Kampala World Cup bombings, which killed 76 people, established the Al-Shabaab threat profile. The October 2021 bombings (three explosions including near parliament) were attributed to ADF with IS affiliation, demonstrating a second active threat stream.
 
-Uganda's security forces have invested significantly in counter-terrorism capability since 2010. This response creates a more security-aware urban environment but the threat remains active.
+Uganda's security forces have invested significantly in counter-terrorism capability since 2010. This creates a more security-aware urban environment but does not eliminate the threat. Soft-target awareness, including bars, markets, and transport nodes, remains relevant for corporate visitors.
 
 ## Political risk
 
-Uganda's political landscape, dominated by President Museveni since 1986, has experienced periods of significant unrest, particularly around elections. The 2021 election period saw violence and security force operations. Opposition activities and demonstrations carry risk for participants and bystanders.
+Uganda's political landscape, dominated by President Museveni since 1986, has experienced periods of significant unrest, particularly around elections. The 2021 election period saw violence and security force operations that affected movement in Kampala. Opposition activities and demonstrations can escalate and attract aggressive police responses.
 
-Corporate visitors are not a primary political target. The operational implication is awareness: avoiding large gatherings, monitoring political events calendar, and having a security protocol for unrest scenarios is standard preparation for Kampala visits.
+Corporate visitors are not a primary political target. The practical implication is awareness: avoiding large gatherings, monitoring the political calendar, and having a contingency protocol for unrest scenarios is standard preparation for any Kampala visit.
 
-## The emerging business market
+## Moving in Kampala
 
-Kampala's growing economic profile has attracted a larger expatriate business community. The Nakasero area has established international hotels and conference facilities. The Lake Victoria Basin's natural resources and Uganda's service sector are driving international business interest. Security services have developed alongside this market.
+Transport in Kampala requires specific planning. Boda boda motorcycle taxis are the primary vehicle for opportunistic street crime: phone snatching from vehicles in traffic is frequent, and boda boda riders have been involved in targeted theft operations against vehicles. Keep phones and valuables away from windows in traffic.
+
+Night driving outside established areas is strongly discouraged. Road conditions and security risk both increase significantly after dark. Pre-arranged transfers from a known operator are the appropriate baseline for all movements, including airport runs. The area between Entebbe Airport and central Kampala, particularly at night, requires specific attention given documented targeting of arriving visitors.
+
+## Our operations in Kampala
+
+Our operators work through Uganda Police Force-registered Ugandan partners and have East Africa operational experience. We provide close protection, security drivers, and event security for corporate, investment, and energy sector clients.
+
+For East Africa context see our [Nairobi city page](/cities/nairobi/). For a comparison of security conditions across sub-Saharan Africa's business hubs, see our [Accra city page](/cities/accra/).
+
+*Source: FCDO Uganda travel advisory (April 2026). Uganda Police Force Private Security registry. OSAC Uganda Country Security Report 2025. ADF and Al-Shabaab incident reporting 2010-2024.*
