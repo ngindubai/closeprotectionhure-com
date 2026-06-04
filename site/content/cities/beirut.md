@@ -3,6 +3,7 @@ title: "Beirut"
 description: "Security services in Beirut, Lebanon. Close protection and risk assessment for essential travel to a city recovering from economic collapse and the 2024 conflict."
 slug: "beirut"
 h1: "Close Protection in Beirut"
+seo_title: "Bodyguard Hire Beirut | Close Protection Lebanon"
 country: "Lebanon"
 risk_level: "critical"
 hero_image: "hero.jpg"
@@ -65,25 +66,39 @@ faqs:
   - question: "What is the practical cash situation in Beirut?"
     answer: "Lebanon's banking system has been in crisis since October 2019. Foreign card transactions do not work reliably. USD cash is the accepted currency for almost all business and accommodation transactions. Bring sufficient cash for the full visit plus contingency. Do not rely on being able to access more funds once in-country."
   - question: "How much has the 2024 conflict changed Beirut's risk profile?"
-    answer: "The 2024 conflict (Israeli operations against Hezbollah in Dahieh and southern Lebanon) caused significant physical damage in specific areas, particularly the southern suburbs. Central Beirut and the Achrafieh/Hamra zones were less directly affected. The ceasefire has held but is fragile. The city's overall critical risk rating reflects the combination of conflict aftermath, economic dysfunction, and armed faction presence."
+    answer: "The 2024 conflict (Israeli operations against Hezbollah in Dahieh and southern Lebanon) caused significant physical damage in specific areas, particularly the southern suburbs. Central Beirut and the Achrafieh and Hamra zones were less directly affected. The ceasefire has held but is fragile. The city's overall critical risk rating reflects the combination of conflict aftermath, economic dysfunction, and armed faction presence."
+  - question: "What communications and connectivity should I plan for?"
+    answer: "Mobile networks in Lebanon are functional under normal conditions and Lebanese SIM cards are available. Internet access is available but affected by power outages. A local SIM provides more reliable connectivity than roaming. For extended or higher-risk visits, a satellite communication device provides backup if mobile networks are disrupted near active areas. WhatsApp and Signal are the standard communications tools for the international community in Beirut. Do not rely on your accommodation's backup power extending to Wi-Fi for critical communications."
+  - question: "What medical and evacuation provisions are needed for a Beirut visit?"
+    answer: "Standard travel insurance does not cover travel under an FCDO against-all-but-essential-travel advisory. Specialist war-risk or conflict-zone cover, with medical evacuation provisions, is essential and must be arranged before departure. Lebanese hospital capacity has been severely reduced by the economic crisis: medical staff have emigrated and equipment is limited. For serious medical emergencies, the recommended approach is evacuation to Cyprus or Jordan, the nearest functioning medical destinations. Any visit plan should include a named evacuation provider and a pre-agreed evacuation trigger threshold."
 ---
 
 Beirut is the capital of Lebanon, a country of 6 million people at a crossroads of Middle East politics. It remains an important business and cultural hub for the Levant region, with a significant diaspora of Lebanese professionals and business people maintaining ties to the city.
 
-FCDO advises against all but essential travel to Lebanon. The combination of the 2024 conflict aftermath, chronic economic collapse, and the continued presence of armed factions makes Beirut one of our most challenging P2 cities.
+FCDO advises against all but essential travel to Lebanon. The combination of the 2024 conflict aftermath, chronic economic collapse, and the continued presence of armed factions makes Beirut one of our most challenging operating environments.
 
 ## The 2024 conflict: current status
 
-Israeli military operations against Hezbollah in 2024 resulted in significant damage to Dahieh (Beirut's southern suburbs, Hezbollah heartland) and parts of southern Lebanon. A ceasefire came into effect in late 2024. The ceasefire holds but is assessed as fragile. The physical damage in Dahieh is extensive.
+Israeli military operations against Hezbollah in 2024 resulted in significant damage to Dahieh, Beirut's southern suburbs and Hezbollah heartland, and parts of southern Lebanon. A ceasefire came into effect in late 2024. The ceasefire holds but is assessed as fragile. The physical damage in Dahieh is extensive and the area remains off-limits for corporate visitors.
 
-For corporate visitors, Dahieh is entirely off-limits. Central Beirut, Achrafieh, Hamra, and the established international hotel zone were less directly affected. The psychological and operational atmosphere of the city has changed. Security awareness is high. Armed checkpoints remain present.
+Central Beirut, Achrafieh, Hamra, and the established international hotel zone were less directly affected. The overall atmosphere of the city has changed: security awareness is high, armed checkpoints remain present, and the conditions that produced the conflict have not been resolved.
 
 ## Economic collapse: the operational reality
 
-Lebanon's banking system froze foreign deposits in late 2019 following the financial crisis. Five years on, the situation has not normalised. Foreign cards do not work. USD cash dominates the economy. The Lebanese pound has lost over 98% of its value. Fuel shortages have historically been severe and generator-dependent infrastructure is normal.
+Lebanon's banking system froze foreign deposits in late 2019 following the financial crisis. Five years on, the situation has not normalised. Foreign cards do not work. USD cash dominates the economy. The Lebanese pound has lost over 98% of its value. Hospital capacity has been severely degraded as medical staff have emigrated and equipment maintenance has been deferred.
 
-For corporate visitors, this means cash logistics require advance planning. Accommodation payment, driver costs, security costs, and all incidental expenses must be covered in cash. This is not a temporary inconvenience. It is the current operational reality for Lebanon.
+For corporate visitors, this means cash logistics require advance planning. Accommodation, transport, security costs, and all incidental expenses must be covered in cash. This is not a temporary inconvenience. It is the operational baseline for Lebanon.
+
+## Profile-specific threats and kidnapping risk
+
+Not all visitors to Beirut carry the same threat profile. Nationals or employees of governments with active presence in regional conflicts, individuals associated with organisations that armed factions view as adversarial, and people with media or intelligence-adjacent roles carry materially higher risk than standard corporate visitors. The Bekaa Valley and Palestinian refugee camps are areas where state authority does not apply and kidnapping risk is higher.
+
+A pre-travel profile assessment is the appropriate starting point for any non-standard visit. Our [Lebanon country page](/countries/lebanon/) provides the broader regulatory and advisory context.
 
 ## Essential visit planning
 
-Essential visits to Beirut require a current risk assessment that reflects the ceasefire status, the security environment in your specific operating zones, profile-specific threat analysis (some organisations and nationalities carry specific risk in the Lebanese context), and emergency protocols suited to the city's limited medical and consular infrastructure.
+Essential visits to Beirut require a current risk assessment covering the ceasefire status, conditions in your specific operating zones, profile-specific threat analysis, and emergency protocols suited to the city's limited medical and consular infrastructure. Evacuation planning, including a named medical evacuation provider, is a baseline requirement rather than a contingency consideration.
+
+For regional staging context, Istanbul is the most practical transit hub for Beirut visits. See our [Istanbul city page](/cities/istanbul/) for the broader regional access picture.
+
+*Source: FCDO Lebanon travel advisory (April 2026). Lebanese Internal Security Forces framework. OSAC Lebanon Country Security Report 2025. Lebanese banking crisis documentation (Banque du Liban, 2019-2026).*
