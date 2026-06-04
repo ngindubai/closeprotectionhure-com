@@ -1,6 +1,6 @@
 ---
 title: "Supply Chain and Logistics Security Operations"
-description: "Security management for supply chains and logistics operations. Covers cargo theft, route security, warehouse and depot security, technology solutions for tracking and monitoring, and security for high-value cargo."
+description: "Security management for supply chains and logistics operations. Covers cargo theft, route security, warehouse and depot security, technology solutions for tracking."
 date: "2026-02-18"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -42,3 +42,5 @@ Supply chain and logistics security addresses the protection of goods in transit
 **Vetting and insider threat.** Background checks for employees with access to high-value cargo. Separation of duties to reduce single-person fraud capability.
 
 *For cargo security and logistics security services, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [security drivers service](/services/security-drivers/) and [executive protection service](/services/executive-protection/).

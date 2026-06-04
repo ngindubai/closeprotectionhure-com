@@ -1,6 +1,6 @@
 ---
 title: "Is Mexico City Safe for Business Travel? A 2026 Security Assessment"
-description: "Mexico City receives millions of business travellers annually. The threat picture is mixed: low conventional crime risk in business districts, a persistent carjacking and express kidnapping concern, and a cartel presence that requires specific awareness. Here is an honest assessment."
+description: "Mexico City receives millions of business travellers annually. The threat picture is mixed: low conventional crime risk in business districts, a persistent carjacking."
 date: "2026-05-27"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"

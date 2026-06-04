@@ -70,6 +70,10 @@ faqs:
     answer: "The combination of extreme crime rates, institutional collapse, politically-aligned armed groups (colectivos), state surveillance risk, cash-only economy, and degraded medical infrastructure places Caracas in a different category from cities like Lima or Bogota. The operational overhead for managing a Caracas assignment safely is significantly higher than for other Latin American cities."
   - question: "Who should we use for security in Caracas given that most Western firms have pulled out?"
     answer: "Vetted local Venezuelan operators with documented corporate security track records are the functional option. Selection criteria must go beyond SENAS registration to include references from known multinational clients, current in-country operational activity, and assessment of gang-geography knowledge. We can identify suitable operators but due diligence requirements are higher for Venezuela than for any other city in our network."
+  - question: "What is the practical cash and payment situation in Caracas?"
+    answer: "Venezuela operates as a largely cash, US-dollar economy after years of hyperinflation, and foreign cards are unreliable. Visitors must plan to carry sufficient USD for the full visit, including accommodation, transport, and security costs, while managing the elevated robbery risk that carrying cash creates. This is a core part of the security plan, not a separate logistics matter."
+  - question: "How should airport transfers from Maiquetia be handled?"
+    answer: "The road between Maiquetia (Simon Bolivar International Airport) and Caracas descends through areas with a documented history of robbery and illegal checkpoints, and the airport arrival itself is a recognised targeting point. Pre-arranged transfers with a vetted operator, daylight movement where possible, and no use of informal taxis are the baseline. The transfer is one of the highest-risk elements of any Caracas visit."
 ---
 
 Caracas is the capital of Venezuela, a country of 32 million people sitting on the world's largest proven oil reserves. Once one of Latin America's wealthiest cities, Caracas has experienced one of the most severe economic collapses in modern Latin American history, with consequences that define the current security environment.
@@ -95,3 +99,4 @@ Venezuela's intelligence apparatus is active and surveillance is a genuine risk 
 ## Essential visit management
 
 We approach Venezuela assignments with a higher pre-visit assessment requirement than any other city in our network. This includes current gang-geography intelligence, route planning that avoids barrio areas entirely, profile-specific threat analysis, pre-booking of vetted USD-compensated operators, and confirmed medical evacuation protocol. Caracas is manageable for essential visits but the planning overhead is significant.
+For comparable operating environments in our network, see our [Bogota city briefing](/cities/bogota/) and [Lima city briefing](/cities/lima/).

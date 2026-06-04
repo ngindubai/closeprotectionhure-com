@@ -1,6 +1,6 @@
 ---
 title: "Event Security in Dubai"
-description: "Corporate event security in Dubai. Venue assessment, access control, VIP close protection, and secure transport for conferences, exhibitions, and private functions across Dubai."
+description: "Corporate event security in Dubai. Venue assessment, access control, VIP close protection, and secure transport for conferences, exhibitions, and private functions across."
 slug: "dubai"
 h1: "Event Security in Dubai"
 city: "Dubai"
@@ -45,3 +45,4 @@ We begin with a venue assessment conducted by an operator with current Dubai kno
 For the security plan, we focus on access control, VIP protection, and communications security. Transport coordination is standard for any event with senior executive attendees. All operators are SIRA-licensed.
 
 We do not provide generic crowd management. What we provide is security planning informed by the specific threat environment and the specific guest profile of your event.
+For the wider security picture, see our [Dubai city security briefing](/cities/dubai/), and our [event security service](/services/event-security/) for how we structure protective coverage.

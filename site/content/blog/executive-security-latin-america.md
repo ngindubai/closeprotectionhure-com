@@ -1,6 +1,6 @@
 ---
 title: "Executive Security in Latin America: A Regional Guide"
-description: "Close protection and executive security considerations across Latin America. Covers Brazil, Mexico, Colombia, Venezuela, Argentina, and Peru. Threat profiles, licensing requirements, and operational guidance for corporate travel and executive protection in the region."
+description: "Close protection and executive security considerations across Latin America. Covers Brazil, Mexico, Colombia, Venezuela, Argentina, and Peru."
 date: "2026-04-05"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

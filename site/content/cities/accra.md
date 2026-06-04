@@ -88,3 +88,4 @@ Accra's risk profile is lower than most West African capitals. The absence of la
 The Airport Residential Area and Cantonments provide the core operating zone for business visitors. International hotels, diplomatic missions, and major corporate offices are concentrated here. The proximity to the airport is operationally convenient and the area has the highest private security infrastructure concentration in the city.
 
 *Sources: FCDO Ghana travel advice. US State Department Level 2 advisory Ghana. US Embassy Accra security report.*
+For comparable operating environments in our network, see our [Lagos city briefing](/cities/lagos/) and [Dakar city briefing](/cities/dakar/).

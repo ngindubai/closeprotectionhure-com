@@ -1,6 +1,6 @@
 ---
 title: "Event Security in Johannesburg"
-description: "Event security in Johannesburg for conferences, corporate functions, and private events. Venue assessment, armed close protection, and access control in South Africa's business capital."
+description: "Event security in Johannesburg for conferences, corporate functions, and private events. Venue assessment, close protection, and access control."
 slug: "johannesburg"
 h1: "Event Security in Johannesburg"
 city: "Johannesburg"
@@ -45,3 +45,4 @@ Venue selection has security implications that go beyond hospitality quality. A 
 Event transport is a specific risk management requirement in Johannesburg, not an optional upgrade. We build transport security into every Johannesburg event plan from the first conversation.
 
 Our operators hold PSIRA Grade A registration as a minimum. For principals requiring armed cover, operators hold valid SAPS-issued firearms competency certificates and licences. We do not work with operators below PSIRA Grade B regardless of cost considerations.
+For the wider security picture, see our [Johannesburg city security briefing](/cities/johannesburg/), and our [event security service](/services/event-security/) for how we structure protective coverage.

@@ -1,6 +1,6 @@
 ---
 title: "Security in Eastern Europe for Corporate Travel: What Executives Need to Know"
-description: "A practical guide to corporate security in Eastern Europe. Covers Poland, Romania, Czech Republic, Hungary, and the Baltic states. Risk levels, licensing rules, and operational advice for business travellers in 2026."
+description: "A practical guide to corporate security in Eastern Europe. Covers Poland, Romania, Czech Republic, Hungary, and the Baltic states."
 date: "2026-04-10"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

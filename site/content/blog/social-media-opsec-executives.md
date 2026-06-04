@@ -1,6 +1,6 @@
 ---
 title: "Social Media OPSEC for Executives: What to Share and What Not To"
-description: "Operational security guidance for executives using social media. Covers the specific risks of location tagging, routine publication, family exposure, travel announcements, and how to reduce your digital attack surface without going offline."
+description: "Operational security guidance for executives using social media. Covers the specific risks of location tagging, routine publication, family exposure, travel announcements."
 date: "2026-04-12"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -62,3 +62,5 @@ Most executives publish some or all of this information without recognising its 
 **Strava privacy zones.** Strava allows you to set a privacy zone around your home that hides the start and end points of activities within that radius. Use it.
 
 *For executive digital security and TSCM services, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

@@ -1,6 +1,6 @@
 ---
 title: "Do Bodyguards Need a Licence in the UAE? SIRA Rules Explained"
-description: "Private security licensing in the UAE. What SIRA certification means, which bodyguards can legally operate in Dubai and Abu Dhabi, and what it means for foreign nationals hiring close protection in the Emirates."
+description: "Private security licensing in the UAE. What SIRA certification means, which bodyguards can legally operate in Dubai and Abu Dhabi, and what it means for foreign nationals."
 date: "2026-05-27"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"

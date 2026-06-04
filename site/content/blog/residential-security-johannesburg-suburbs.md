@@ -1,11 +1,11 @@
 ---
 title: "Residential Security for Expats in Johannesburg: Which Suburbs and What Standard"
-description: "Johannesburg has more private residential security per capita than almost any city in the world. For expats arriving or reviewing their security, the question is not whether to have residential security but whether what they have is actually adequate. This guide covers the suburb-by-suburb picture and what a professional assessment covers."
+description: "Johannesburg has more private residential security per capita than almost any city in the world. For expats arriving or reviewing their security, the question is not whether."
 date: "2026-05-28"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "residential-security-johannesburg-suburbs"
-seo_title: "Residential Security Johannesburg Suburbs | Expat Home Protection Guide"
+seo_title: "Residential Security Johannesburg Suburbs"
 tags:
   - "johannesburg"
   - "south-africa"

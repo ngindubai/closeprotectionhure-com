@@ -1,11 +1,11 @@
 ---
 title: "Close Protection in India: A Practical Guide"
-description: "Close protection and executive security in India. Covers the regulatory framework under PSARA, city-by-city risk profiles for Mumbai, Delhi, Bangalore, and Hyderabad, armed and unarmed protection options, and operational guidance for visiting principals."
+description: "Close protection and executive security in India. Covers the regulatory framework under PSARA, city-by-city risk profiles for Mumbai, Delhi, Bangalore, and Hyderabad."
 date: "2026-03-12"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "close-protection-india"
-seo_title: "Close Protection India | Executive Security Guide | CloseProtectionHire.com"
+seo_title: "Close Protection India | Executive Security Guide"
 tags:
   - "india"
   - "close-protection"
@@ -51,3 +51,5 @@ The state-by-state licensing requirement means that a security company licensed 
 **Religious and political events.** India's religious and political calendar creates periodic large gatherings and protest activities that can significantly affect movement in major cities. Current awareness of the local event calendar is part of effective advance work.
 
 *For close protection services in India, see our [cities](/cities/) section including Mumbai, Delhi, and Bangalore pages.*
+
+For tailored support on the issues covered here, see our [Mumbai city briefing](/cities/mumbai/) and [India security services](/countries/india/).

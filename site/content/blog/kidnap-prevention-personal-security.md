@@ -1,6 +1,6 @@
 ---
 title: "Kidnap Prevention and Personal Security: A Practical Guide"
-description: "Practical measures to reduce kidnap risk for corporate executives and high-net-worth individuals. Covers threat assessment, route security, digital footprint reduction, travel protocols, and what to do if you believe you are being followed."
+description: "Practical measures to reduce kidnap risk for corporate executives and high-net-worth individuals. Covers threat assessment, route security, digital footprint reduction."
 date: "2026-05-01"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -73,3 +73,5 @@ K&R policies typically require a security consultant's assessment before a high-
 For principals in high-risk jurisdictions or with specific threat profiles, close protection is not about reacting to an incident: it is about making the principal a sufficiently difficult target that threat actors redirect to easier opportunities. An experienced close protection team will implement anti-surveillance detection, route variation, and advance work as standard operational components.
 
 *For close protection services in high-risk jurisdictions, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

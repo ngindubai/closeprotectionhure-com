@@ -1,11 +1,11 @@
 ---
 title: "Bodyguard Licence in India: The PSARA Framework Explained"
-description: "India's private security industry employs over nine million people and is governed by the Private Security Agencies (Regulation) Act 2005. For corporate clients hiring close protection in Mumbai, Delhi, or Bangalore, understanding PSARA is essential. This guide covers state licensing, training standards, and what to ask your provider."
+description: "India's private security industry employs over nine million people and is governed by the Private Security Agencies (Regulation) Act 2005."
 date: "2026-05-28"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"
 slug: "bodyguard-licence-india-psara"
-seo_title: "Bodyguard Licence India | PSARA Framework Explained | Close Protection Compliance"
+seo_title: "Bodyguard Licence India | PSARA Framework Explained"
 tags:
   - "india"
   - "psara"

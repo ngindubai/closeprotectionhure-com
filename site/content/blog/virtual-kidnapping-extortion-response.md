@@ -1,6 +1,6 @@
 ---
 title: "Virtual Kidnapping and Extortion: How to Recognise and Respond"
-description: "A practical guide to virtual kidnapping scams and extortion attempts targeting executives and their families. Covers how virtual kidnapping works, warning signs, immediate response protocols, and how to protect against becoming a target."
+description: "A practical guide to virtual kidnapping scams and extortion targeting executives and their families. Covers how it works, warning signs, and the response."
 date: "2025-11-20"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -58,3 +58,5 @@ The technology is now accessible enough that sophisticated criminal groups are u
 5. Document everything: call number, content, payment demands
 
 *For security awareness training and corporate security programme design, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

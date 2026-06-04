@@ -1,6 +1,6 @@
 ---
 title: "Physical and Cyber Security Convergence: Why It Matters and How to Address It"
-description: "The convergence of physical and cyber security: what it means, why the organisational separation between the two functions creates risk, and how to build a security programme that addresses both domains coherently."
+description: "The convergence of physical and cyber security: what it means, why the organisational separation between the two functions creates risk, and how to build a security programme."
 date: "2026-02-15"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -52,3 +52,5 @@ The minimum elements of a converged approach:
 5. Joint tabletop exercises that involve both physical and cyber security teams
 
 *For security consultancy services including converged security programme design, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

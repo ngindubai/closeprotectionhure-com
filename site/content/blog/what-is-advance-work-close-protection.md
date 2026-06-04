@@ -1,6 +1,6 @@
 ---
 title: "What Is Advance Work in Close Protection?"
-description: "A practical explanation of advance work in close protection operations. Covers what an advance entails, who conducts it, what it assesses, and why removing the advance is the most common and costly security planning error."
+description: "A practical explanation of advance work in close protection operations. Covers what an advance entails, who conducts it, what it assesses, and why removing the advance is."
 date: "2026-04-15"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -66,3 +66,5 @@ In standard risk environments, the practical consequences of no advance are mana
 The cost of a one-day advance is one officer day rate plus travel. The cost of a security failure resulting from inadequate planning is not comparable.
 
 *For close protection services with professional advance work built in as standard, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

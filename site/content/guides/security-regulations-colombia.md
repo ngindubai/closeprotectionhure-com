@@ -1,6 +1,6 @@
 ---
 title: "Private Security Regulations in Colombia: A Guide for Operators and Corporate Clients"
-description: "A guide to private security regulations in Colombia. Covers Superintendencia de Vigilancia y Seguridad Privada (SuperVigilancia) licensing, armed security provisions, and what foreign executives need to know when using security services in Bogota and throughout Colombia."
+description: "A guide to private security regulations in Colombia. Covers Superintendencia de Vigilancia y Seguridad Privada (SuperVigilancia) licensing, armed security provisions,."
 date: "2025-12-20"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-regulations-colombia"
@@ -41,3 +41,4 @@ Armed close protection is standard for senior executives. Armoured vehicles are 
 For operations outside Bogota (Medellín, Cali, Cartagena, and regional cities) verify SuperVigilancia licensing and assess current threat conditions specific to the area. The ELN and BACRIM presence varies by region and requires current assessment.
 
 *For close protection services in Colombia, see our [Bogota](/cities/bogota/) city page.*
+For the country overview see our [Colombia security services page](/countries/colombia/), and our [bodyguard hire service](/services/bodyguard-hire/) for deployment detail.

@@ -1,6 +1,6 @@
 ---
 title: "Berlin"
-description: "Close protection and executive security in Berlin. German-licensed operators for corporate executives and high-profile principals. Terrorism awareness and event security across Germany's capital."
+description: "Close protection and executive security in Berlin. German-licensed operators for corporate executives and high-profile principals."
 slug: "berlin"
 h1: "Close Protection in Berlin"
 country: "Germany"
@@ -104,3 +104,4 @@ We deploy close protection officers and security drivers across Berlin and acros
 All operators hold Sachkundeprüfung certification and our internal vetting requirements. Operators working sensitive assignments receive updated threat briefings on current protest schedules and terrorism alert levels.
 
 *Source: FCDO Germany travel advice (April 2026). German Federal Office for the Protection of the Constitution (BfV) terrorism threat assessments. Bewachungsverordnung licensing requirements.*
+For comparable operating environments in our network, see our [London city briefing](/cities/london/) and [Paris city briefing](/cities/paris/).

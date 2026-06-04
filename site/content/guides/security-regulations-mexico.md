@@ -1,6 +1,6 @@
 ---
 title: "Private Security Regulations in Mexico: A Guide for Operators and Corporate Clients"
-description: "A guide to private security regulations in Mexico. Covers SSPF licensing, state-level requirements, the role of the Federal Police, armed guard provisions, and what foreign executives need to know when using security services in Mexico."
+description: "A guide to private security regulations in Mexico. Covers SSPF licensing, state-level requirements, the role of the Federal Police, armed guard provisions, and what foreign."
 date: "2026-02-10"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-regulations-mexico"
@@ -44,3 +44,4 @@ In states with significant cartel presence (Sinaloa, Tamaulipas, Guerrero, Micho
 - Route planning and current threat intelligence are essential given cartel activity patterns
 
 *For close protection services in Mexico, see our [Mexico City](/cities/mexico-city/) city page.*
+For the country overview see our [Mexico security services page](/countries/mexico/), and our [bodyguard hire service](/services/bodyguard-hire/) for deployment detail.

@@ -1,6 +1,6 @@
 ---
 title: "Bodyguard Hire in Hong Kong: What the 2020 Security Law Changed"
-description: "Hong Kong's security environment transformed after the 2020 National Security Law. This guide covers what professional close protection looks like in Hong Kong now, how the regulatory framework works, and what business visitors should understand about the current operating environment."
+description: "Hong Kong's security environment transformed after the 2020 National Security Law. This guide covers what professional close protection looks like in Hong Kong now."
 date: "2026-05-27"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"

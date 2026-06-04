@@ -1,6 +1,6 @@
 ---
 title: "Australia"
-description: "Security services in Australia. Close protection and ASIAL-standard operators for Sydney and major Australian cities."
+description: "Security services in Australia. Close protection and ASIAL-standard operators for Sydney, Melbourne, and major Australian cities."
 slug: "australia"
 h1: "Security Services in Australia"
 risk_level: "medium"

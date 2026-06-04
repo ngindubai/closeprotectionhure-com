@@ -1,6 +1,6 @@
 ---
 title: "Security at Private Members Clubs: Managing Access and VIP Privacy"
-description: "Security considerations specific to private members clubs. Covers access control for exclusive venues, VIP privacy protection, media management, close protection integration with club security, and the specific challenges of luxury hospitality security."
+description: "Security considerations specific to private members clubs. Covers access control for exclusive venues, VIP privacy protection, media management, close protection integration."
 date: "2026-01-30"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -56,3 +56,5 @@ The protection officer visiting a club with a principal should:
 5. Establish communication with club security for incident response
 
 *For close protection services for UHNWI principals at luxury venues, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

@@ -1,9 +1,9 @@
 ---
 title: "Security Drivers in Riyadh"
-description: "MoI-authorised security drivers in Riyadh, Saudi Arabia. King Khalid International airport transfers, Diplomatic Quarter and KAFD coverage, and shelter-in-place briefed routes."
+description: "MoI-authorised security drivers in Riyadh, Saudi Arabia. King Khalid International airport transfers, Diplomatic Quarter and KAFD coverage, and shelter-in-place briefed."
 slug: "riyadh"
 h1: "Security Drivers in Riyadh, Saudi Arabia"
-seo_title: "Security Driver Riyadh | MoI Authorised Drivers | Secure Transport Saudi Arabia"
+seo_title: "Security Driver Riyadh | MoI Authorised Drivers"
 service: "security-drivers"
 city: "Riyadh"
 country: "Saudi Arabia"

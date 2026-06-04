@@ -1,6 +1,6 @@
 ---
 title: "How to Vet a Close Protection Company: A Corporate Buyer's Checklist"
-description: "What to ask before hiring a close protection company. Licensing, vetting standards, insurance, and the red flags that separate credible operators from marketing exercises. Practical guidance for corporate security directors and HNWIs."
+description: "What to ask before hiring a close protection company. Licensing, vetting standards, insurance, and the red flags that separate credible operators from marketing exercises."
 date: "2026-05-27"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"

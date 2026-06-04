@@ -1,6 +1,6 @@
 ---
 title: "Close Protection in Central America"
-description: "Close protection and executive security in Central America. Covers Guatemala, Belize, Honduras, El Salvador, Nicaragua, Costa Rica, and Panama. Threat profiles, kidnapping risk, gang activity, and operational guidance for corporate travel in the region."
+description: "Close protection and executive security in Central America. Covers Guatemala, Belize, Honduras, El Salvador, Nicaragua, Costa Rica, and Panama."
 date: "2025-12-22"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -48,3 +48,5 @@ For corporate travel across Central America:
 - Have current contact for the relevant embassy in each country visited
 
 *For close protection services in Central America, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [Panama City briefing](/cities/panama-city/) and [San Jose city briefing](/cities/san-jose/).

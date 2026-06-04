@@ -1,11 +1,11 @@
 ---
 title: "Is Dubai Safe in 2026? The Regional Tension Picture for Business Travellers"
-description: "Dubai has historically been one of the Middle East's safer cities for business travel. The regional escalation since 2022 has changed the threat picture. This guide covers what has changed, what the FCDO and US State Department actually say, and what professional security looks like in the current environment."
+description: "Dubai has historically been one of the Middle East's safer cities for business travel. The regional escalation since 2022 has changed the threat picture."
 date: "2026-05-27"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"
 slug: "is-dubai-safe-2026"
-seo_title: "Is Dubai Safe in 2026? Business Travel Security Assessment | Regional Tensions"
+seo_title: "Is Dubai Safe in 2026? Business Travel Security Assessment"
 tags:
   - "dubai"
   - "uae"

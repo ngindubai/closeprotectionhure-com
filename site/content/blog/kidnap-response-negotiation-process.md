@@ -1,6 +1,6 @@
 ---
 title: "Kidnap Response and Negotiation Process: What Happens After an Abduction"
-description: "An overview of the kidnap response and negotiation process. Covers the first hours after an abduction, how professional crisis management teams operate, the negotiation process, communication with authorities, and the principal's return."
+description: "An overview of the kidnap response and negotiation process. Covers the first hours after an abduction, how professional crisis management teams operate, the negotiation."
 date: "2025-11-28"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -57,3 +57,5 @@ Following safe return, the victim requires comprehensive post-incident support:
 - Security review to address the vulnerability that led to the abduction
 
 *For K&R insurance guidance and executive protection services, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

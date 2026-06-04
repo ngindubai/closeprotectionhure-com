@@ -1,6 +1,6 @@
 ---
 title: "Manila Travel Safety Guide: What to Know Before You Go"
-description: "Practical travel safety guide for Manila, Philippines. Pre-trip security checklist, transport, accommodation, medical, communications, and emergency protocols for business travellers."
+description: "Practical travel safety guide for Manila, Philippines. Pre-trip security checklist, transport, accommodation, medical, communications, and emergency protocols for business."
 date: "2026-05-28"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "travel-safety-guide-manila"
@@ -52,3 +52,4 @@ Manila is the Philippines' national capital and the centre of its commercial, fi
 - US Embassy Manila: +63 2 5301 2000
 
 *For vetted close protection and security drivers in Manila, see our [Manila security services page](/cities/manila/).*
+See our [Manila city security briefing](/cities/manila/) and [Manila risk assessment](/risk-assessments/manila/) for the operational detail behind this guide.

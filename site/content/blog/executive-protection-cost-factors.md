@@ -1,6 +1,6 @@
 ---
 title: "Executive Protection Cost Factors: What Determines the Day Rate?"
-description: "Why executive protection costs vary so widely, and what actually drives the price. Threat level, location, team size, armoured vehicles, and advance work all affect the day rate. A guide for corporate security directors and travel risk managers."
+description: "Why executive protection costs vary so widely, and what actually drives the price. Threat level, location, team size, armoured vehicles, and advance work all affect the day."
 date: "2026-05-27"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

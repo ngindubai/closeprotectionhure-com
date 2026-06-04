@@ -1,6 +1,6 @@
 ---
 title: "Security for AGMs and Shareholder Meetings"
-description: "Security planning for annual general meetings and shareholder events. Covers the specific threats at AGMs including activist shareholders, protest groups, and media, plus access control, executive protection, and incident management."
+description: "Security planning for annual general meetings and shareholder events. Covers the specific threats at AGMs including activist shareholders, protest groups."
 date: "2026-02-05"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -46,3 +46,5 @@ The combination of predictable timing, publicised location, mandatory executive 
 **Incident management.** Clear authority for security decisions during the meeting. Who can authorise removal of a disruptive attendee? What are the grounds? Legal advice should inform these protocols before the event.
 
 *For event security services at AGMs and shareholder meetings, see our [event security](/event-security/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

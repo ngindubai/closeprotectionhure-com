@@ -109,3 +109,4 @@ We deploy vetted operators in Santiago with current RNGDS registration, document
 All enquiries are handled under strict confidentiality. No client information is retained on any public-facing system.
 
 *Source: FCDO Chile travel advice, April 2026. US State Department Chile travel advisory (Level 2), April 2026. Carabineros de Chile public security information.*
+For comparable operating environments in our network, see our [Buenos Aires city briefing](/cities/buenos-aires/) and [Lima city briefing](/cities/lima/).

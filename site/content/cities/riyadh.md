@@ -1,6 +1,6 @@
 ---
 title: "Riyadh"
-description: "Close protection and executive security in Riyadh, Saudi Arabia. The entire Riyadh Province is under FCDO against-essential-travel advisory due to missile and drone attack risk."
+description: "Close protection and executive security in Riyadh, Saudi Arabia. The entire Riyadh Province is under FCDO against-essential-travel advisory due to missile and drone attack."
 slug: "riyadh"
 h1: "Close Protection in Riyadh"
 seo_title: "Bodyguard Hire Riyadh | Close Protection Saudi Arabia"

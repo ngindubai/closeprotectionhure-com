@@ -1,6 +1,6 @@
 ---
 title: "Security for Diplomatic Missions and Embassies"
-description: "Security considerations for diplomatic missions, embassies, and their personnel. Covers the layered security model for embassy premises, close protection for diplomatic staff, residential security for posted diplomats, and security for diplomatic travel in high-risk jurisdictions."
+description: "Security considerations for diplomatic missions, embassies, and their personnel. Covers the layered security model for embassy premises, close protection for diplomatic."
 date: "2025-12-28"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -55,3 +55,5 @@ For diplomats who require personal protection:
 - Close protection officer coordination with host-nation police escorts where applicable
 
 *For security services relevant to diplomatic personnel and visiting officials, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

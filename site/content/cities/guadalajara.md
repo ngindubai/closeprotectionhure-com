@@ -89,3 +89,4 @@ For business visitors, the CJNG presence means that cartel-related violence (sho
 A pre-booked vetted driver from Miguel Hidalgo y Costilla airport is mandatory. All in-city movement by pre-booked vehicle. Accommodation in Providencia or the Zapopan commercial zone. No street-hailed taxis.
 
 *Sources: Mexican National Security Commission data 2025. InSight Crime Jalisco analysis. US State Department Level 3 advisory Jalisco. FCDO Mexico state-by-state travel advice.*
+For comparable operating environments in our network, see our [Mexico City city briefing](/cities/mexico-city/) and [Bogota city briefing](/cities/bogota/).

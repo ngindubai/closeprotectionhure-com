@@ -1,6 +1,6 @@
 ---
 title: "Security for Family Offices: Protecting Ultra-High-Net-Worth Principals and Their Families"
-description: "A guide to security programmes for family offices managing ultra-high-net-worth principals. Covers the specific threat profile of UHNWI families, residential security, close protection, travel security, digital security, and domestic staff management."
+description: "A guide to security programmes for family offices managing ultra-high-net-worth principals. Covers the specific threat profile of UHNWI families, residential security."
 date: "2026-03-18"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -52,3 +52,5 @@ Ultra-high-net-worth individuals face a threat environment shaped by wealth visi
 **Domestic staff management.** Vetting protocols, security briefings, and operational protocols for domestic staff. Non-disclosure agreements supplemented by security awareness training.
 
 *For private client security programmes and UHNWI protection, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [residential security service](/services/residential-security/) and [executive protection service](/services/executive-protection/).

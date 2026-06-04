@@ -1,6 +1,6 @@
 ---
 title: "Doha"
-description: "Close protection and executive security in Doha. FCDO advises against all but essential travel to Qatar due to regional security tensions. Road conditions are the primary operational risk. All CP is unarmed. Strict laws on alcohol, drugs, and public behaviour apply to all visitors."
+description: "Close protection and executive security in Doha. FCDO advises against all but essential travel to Qatar due to regional security tensions."
 slug: "doha"
 h1: "Close Protection in Doha"
 country: "Qatar"
@@ -104,3 +104,4 @@ All private CP in Qatar is unarmed. This is not negotiable. Armed protection is 
 Hamad International Airport is world-class. Security standards are genuine. The hotel infrastructure in West Bay and Pearl-Qatar is excellent. The Doha Metro is operationally reliable for routine movement. Pre-booked transfers for airport arrivals are standard practice.
 
 *Sources: UK FCDO Qatar travel advice (April 2026). US State Department Level 2 advisory. Qatar Ministry of Interior security sector guidance. FCDO road safety assessment.*
+For comparable operating environments in our network, see our [Dubai city briefing](/cities/dubai/) and [Riyadh city briefing](/cities/riyadh/).

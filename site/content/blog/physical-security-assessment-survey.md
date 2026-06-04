@@ -1,6 +1,6 @@
 ---
 title: "Physical Security Assessment: What It Covers and Why You Need One"
-description: "A guide to physical security assessments for corporate facilities, residential properties, and event venues. Covers what assessors examine, what a good report contains, how findings translate into recommendations, and how to prioritise investment."
+description: "A guide to physical security assessments for corporate facilities, residential properties, and event venues. Covers what assessors examine, what a good report contains."
 date: "2025-12-15"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -62,3 +62,5 @@ Assessment findings rarely all warrant equal urgency. A risk-based approach prio
 5. Long-term upgrades that improve security standards over time
 
 *For physical security assessment services for corporate facilities and residential properties, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

@@ -1,6 +1,6 @@
 ---
 title: "Private Security Regulations in Kenya: A Guide for Operators and Corporate Clients"
-description: "A guide to private security regulations in Kenya. Covers Private Security Regulatory Authority (PSRA) licensing, close protection rules, armed guard provisions, and what foreign executives need to know when using security services in Nairobi and throughout Kenya."
+description: "A guide to private security regulations in Kenya. Covers Private Security Regulatory Authority (PSRA) licensing, close protection rules, armed guard provisions, and what."
 date: "2025-12-15"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-regulations-kenya"
@@ -41,3 +41,4 @@ The specific terrorism dimension in Nairobi, the 2013 Westgate attack and 2019 D
 For operations outside Nairobi (Mombasa, Kisumu, and rural operations particularly in counties bordering Somalia) verify PSRA licensing specifically and obtain current threat assessment. The security environment in northern and coastal Kenya is affected by Al-Shabaab spillover to a greater extent than Nairobi.
 
 *For close protection services in Kenya, see our [Nairobi](/cities/nairobi/) city page.*
+For the country overview see our [Kenya security services page](/countries/kenya/), and our [bodyguard hire service](/services/bodyguard-hire/) for deployment detail.

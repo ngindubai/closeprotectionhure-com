@@ -1,6 +1,6 @@
 ---
 title: "San Jose"
-description: "Close protection and security services in San Jose, Costa Rica. Security drivers, executive protection, and risk assessment for corporate travel to Central America's most stable democracy."
+description: "Close protection and security services in San Jose, Costa Rica. Security drivers, executive protection, and risk assessment for corporate travel to Central America's most."
 slug: "san-jose"
 h1: "Close Protection in San Jose, Costa Rica"
 country: "Costa Rica"
@@ -87,3 +87,4 @@ Escazu and Santa Ana have developed as a purpose-built corporate district with i
 A vetted driver and standard personal security awareness are the practical requirements for most corporate visits to San Jose. The city does not demand the security overhead of Port of Spain, Bogota, or Nairobi. It does reward professional habits: vehicle security, ATM awareness, and pre-booked transport rather than street-hailing, which covers the majority of risk in a manageable environment.
 
 *Sources: FCDO Costa Rica travel advice, May 2026. US State Department Level 2: Exercise Increased Caution.*
+For comparable operating environments in our network, see our [Panama City city briefing](/cities/panama-city/) and [Bogota city briefing](/cities/bogota/).

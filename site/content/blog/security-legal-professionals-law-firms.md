@@ -1,6 +1,6 @@
 ---
 title: "Security for Legal Professionals and Law Firms"
-description: "Security considerations for law firms, barristers' chambers, and individual legal professionals. Covers threats to solicitors and barristers handling high-risk cases, client security requirements, information security for privileged communications, and office security."
+description: "Security considerations for law firms, barristers' chambers, and individual legal professionals. Covers threats to solicitors and barristers handling high-risk cases."
 date: "2026-01-22"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -40,3 +40,5 @@ Law firms and legal professionals occupy an unusual security position: they hold
 **Lone working.** Protocols for lawyers and staff meeting clients or working alone, particularly for practitioners in high-risk client categories.
 
 *For security consultancy services relevant to legal professional practice, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

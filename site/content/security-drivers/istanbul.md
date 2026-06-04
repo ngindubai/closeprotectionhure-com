@@ -1,9 +1,9 @@
 ---
 title: "Security Drivers in Istanbul"
-description: "OGG-certified security drivers in Istanbul, Turkey. IST and SAW airport transfers, Bosphorus geography planning, and counter-surveillance awareness for the European and Asian sides."
+description: "OGG-certified security drivers in Istanbul, Turkey. IST and SAW airport transfers, Bosphorus geography planning, and counter-surveillance awareness for the European and Asian."
 slug: "istanbul"
 h1: "Security Drivers in Istanbul, Turkey"
-seo_title: "Security Driver Istanbul | OGG-Certified Drivers | Secure Transport Turkey"
+seo_title: "Security Driver Istanbul | OGG-Certified Drivers"
 service: "security-drivers"
 city: "Istanbul"
 country: "Turkey"

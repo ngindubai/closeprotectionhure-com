@@ -1,6 +1,6 @@
 ---
 title: "Is Bangkok Safe for Business Travel? A 2026 Risk Assessment"
-description: "Bangkok is one of Asia's most significant business hubs. Its security environment is markedly different from most other markets we cover. This guide assesses the genuine threat picture for corporate visitors, where the real risks are, and when professional security adds value beyond standard travel arrangements."
+description: "Bangkok is one of Asia's most significant business hubs. Its security environment is markedly different from most other markets we cover."
 date: "2026-05-28"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

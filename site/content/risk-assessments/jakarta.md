@@ -45,3 +45,4 @@ This creates an unusual situation: the threat is documented and the response is 
 The assessment covers current terrorism intelligence, hotel and venue selection against the soft-target attack methodology, transport planning for ground movement and airport transfers, drug law compliance (a mandatory element of any visit briefing), and wet season flood risk if applicable to travel dates.
 
 Emergency protocols include procedures specific to Jakarta: shelter locations during terrorist incidents, flood evacuation routes, and communications during the network outages that accompany serious civil incidents.
+A risk assessment is the first step. See our [Jakarta city security briefing](/cities/jakarta/) for the operating picture, and our [executive protection service](/services/executive-protection/) for deployment options.

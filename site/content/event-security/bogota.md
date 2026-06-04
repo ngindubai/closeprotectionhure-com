@@ -1,6 +1,6 @@
 ---
 title: "Event Security in Bogota"
-description: "Corporate event security in Bogota, Colombia. Kidnap risk management, armed close protection, and venue assessment for conferences and business events in the Colombian capital."
+description: "Corporate event security in Bogota, Colombia. Kidnap risk management, armed close protection, and venue assessment for conferences and business events in the Colombian."
 slug: "bogota"
 h1: "Event Security in Bogota"
 city: "Bogota"
@@ -45,3 +45,4 @@ The corporate event zones in Bogota (Zona Rosa, El Nogal, Chapinero Alto) have r
 Transport security is the single most important element of a Bogota event security plan. The transfer from El Dorado airport to the hotel, and the daily hotel-to-venue run, are the primary vulnerability windows. Our security drivers hold Supervigilancia certification and operate with counter-surveillance awareness as a standard practice.
 
 For events with named senior executive attendance, we include kidnap risk protocols in the standard security plan. This reflects the operational environment, not exceptional circumstances.
+For the wider security picture, see our [Bogota city security briefing](/cities/bogota/), and our [event security service](/services/event-security/) for how we structure protective coverage.

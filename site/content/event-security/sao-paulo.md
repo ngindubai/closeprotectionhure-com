@@ -1,6 +1,6 @@
 ---
 title: "Event Security in Sao Paulo"
-description: "Corporate event security in Sao Paulo, Brazil. DPF-authorised operators, Faria Lima and WTC venue assessment, and armed robbery mitigation for GRU transfers during the event period."
+description: "Corporate event security in Sao Paulo, Brazil. DPF-authorised operators, Faria Lima and WTC venue assessment, and armed robbery mitigation for GRU transfers during the event."
 slug: "sao-paulo"
 h1: "Event Security in Sao Paulo"
 city: "Sao Paulo"

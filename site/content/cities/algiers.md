@@ -89,3 +89,4 @@ For foreign business visitors, the practical implication of this security archit
 The risk picture for southern Algeria (Tamanrasset, In Amenas, Illizi) is fundamentally different from Algiers. AQIM kidnapping operations have targeted foreign energy workers in these regions. The In Amenas gas facility attack in 2013 (38 foreign workers killed) established the scale of risk for foreign nationals working in southern Algeria. Any assignment outside Algiers and the northern cities requires a separate, detailed security assessment.
 
 *Sources: FCDO Algeria travel advice, May 2026. US State Department Level 2: Exercise Increased Caution (higher advisories for border regions).*
+For comparable operating environments in our network, see our [Tunis city briefing](/cities/tunis/) and [Casablanca city briefing](/cities/casablanca/).

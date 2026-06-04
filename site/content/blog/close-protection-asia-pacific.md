@@ -1,6 +1,6 @@
 ---
 title: "Close Protection in Asia-Pacific: A Regional Overview"
-description: "Executive security and close protection across Asia-Pacific. Covers Japan, South Korea, China, Hong Kong, Singapore, Thailand, Indonesia, Philippines, Australia, and New Zealand. Risk profiles, licensing requirements, and operational guidance."
+description: "Executive security and close protection across Asia-Pacific. Covers Japan, South Korea, China, Hong Kong, Singapore, Thailand, Indonesia, Philippines, Australia, and New."
 date: "2026-03-22"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

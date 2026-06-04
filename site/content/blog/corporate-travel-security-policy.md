@@ -1,6 +1,6 @@
 ---
 title: "Corporate Travel Security Policy: What It Should Cover"
-description: "A guide to developing an effective corporate travel security policy. Covers pre-travel approval, destination risk ratings, duty of care obligations, close protection thresholds, traveller responsibilities, and incident response."
+description: "A guide to developing an effective corporate travel security policy. Covers pre-travel approval, destination risk ratings, duty of care obligations, close protection."
 date: "2026-04-19"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

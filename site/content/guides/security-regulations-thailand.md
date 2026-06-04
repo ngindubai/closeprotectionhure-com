@@ -1,6 +1,6 @@
 ---
 title: "Private Security Regulations in Thailand: A Guide for Operators and Corporate Clients"
-description: "A guide to private security regulations in Thailand. Covers licensing under the Private Security Business Act, close protection rules for foreign executives, the southern Thailand exception, and practical considerations for Bangkok operations."
+description: "A guide to private security regulations in Thailand. Covers licensing under the Private Security Business Act, close protection rules for foreign executives, the southern."
 date: "2026-01-15"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-regulations-thailand"
@@ -39,3 +39,4 @@ The Bangkok traffic environment is significant from a security planning perspect
 Thailand's southern border provinces (Yala, Pattani, Narathiwat, parts of Songkhla) operate under martial law conditions due to the ongoing separatist insurgency. Operations in this region require a fundamentally different security approach and cannot be served by Bangkok-oriented operators without specific southern Thailand experience.
 
 *For close protection services in Thailand, see our [Bangkok](/cities/bangkok/) city page.*
+For the country overview see our [Thailand security services page](/countries/thailand/), and our [bodyguard hire service](/services/bodyguard-hire/) for deployment detail.

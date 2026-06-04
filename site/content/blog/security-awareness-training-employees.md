@@ -1,6 +1,6 @@
 ---
 title: "Security Awareness Training for Employees: What Good Looks Like"
-description: "A guide to effective security awareness training for corporate employees. Covers content priorities (social engineering, travel security, device security, physical security), delivery methods, measuring effectiveness, and the difference between tick-box compliance and genuine behavioural change."
+description: "A guide to effective security awareness training for corporate employees. Covers content priorities (social engineering, travel security, device security, physical security)."
 date: "2025-11-15"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -54,3 +54,5 @@ Good security awareness training addresses all three: it explains the specific t
 **Leadership engagement.** Training is more effective when visible leadership takes it seriously. If the CEO is exempt, employees notice.
 
 *For executive security briefing and training services, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

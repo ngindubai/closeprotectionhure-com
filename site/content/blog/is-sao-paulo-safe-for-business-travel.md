@@ -1,6 +1,6 @@
 ---
 title: "Is Sao Paulo Safe for Business Travel? A 2026 Security Assessment"
-description: "Sao Paulo is Latin America's largest business city. Armed robbery, express kidnapping, carjacking, and the pichação gang environment create a specific threat picture for corporate visitors. Here is an honest assessment for 2026."
+description: "Sao Paulo is Latin America's largest business city. Armed robbery, express kidnapping, carjacking, and the pichação gang environment create a specific threat picture."
 date: "2026-05-27"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"

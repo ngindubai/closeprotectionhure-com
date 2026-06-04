@@ -49,3 +49,4 @@ For executives carrying sensitive business information, communications security 
 ## What Dubai security services cover
 
 Dubai's security service market is driven by events, HNWI clients, celebrity visits, and the regional corporate sector. Our vetted operators are SIRA-registered (Security Industry Regulatory Agency). Close protection in Dubai is unarmed: firearms are prohibited for private security. This is appropriate for the threat environment.
+A risk assessment is the first step. See our [Dubai city security briefing](/cities/dubai/) for the operating picture, and our [executive protection service](/services/executive-protection/) for deployment options.

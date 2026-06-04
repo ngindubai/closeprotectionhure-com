@@ -1,11 +1,11 @@
 ---
 title: "Sydney"
-description: "Close protection and executive security in Sydney. Australia's national terrorism threat level is PROBABLE following mass-casualty attacks in 2024 and 2025. NSW Security Industry Act 1997 governs all security operators. Licensed close protection, secure transport, and event security for corporate principals."
+description: "Close protection and executive security in Sydney. Australia's national terrorism threat level is PROBABLE following mass-casualty attacks in 2024 and 2025."
 slug: "sydney"
 h1: "Close Protection in Sydney"
 country: "Australia"
 risk_level: "moderate"
-seo_title: "Bodyguard Hire Sydney | Close Protection & Executive Security Australia"
+seo_title: "Bodyguard Hire Sydney | Close Protection Australia"
 threats:
   - type: "Terrorism"
     detail: "Australia's national terrorism threat level is PROBABLE, meaning an attack is likely. Sydney has suffered two significant mass-casualty incidents in consecutive years: the April 2024 Westfield Bondi Junction stabbings (6 killed) and the December 2025 Bondi Beach antisemitic attack (15 killed). Lone-actor attacks at crowded public venues are the primary threat vector. Jewish and Israeli-linked venues face elevated threat in the context of the Israel-Gaza conflict, per FCDO guidance (April 2026)."
@@ -104,3 +104,4 @@ ASIAL is the peak industry body. Members commit to professional standards above 
 Outside the terrorism consideration, Sydney is a manageable city. Roads are left-hand traffic. Sydney Kingsford Smith is a well-secured international airport. Pre-booked transfers are the professional standard from the international terminal. The CBD is walkable and low-crime during business hours. Eastern Suburbs hotels offer a good balance of proximity to business districts and residential security.
 
 *Sources: UK FCDO Australia travel advice (April 2026). US State Department Level 1 advisory. ASIO Annual Threat Assessment 2025. NSW Security Industry Act 1997. Australian national terrorism threat level statement, April 2026.*
+For comparable operating environments in our network, see our [Melbourne city briefing](/cities/melbourne/) and [Singapore city briefing](/cities/singapore/).

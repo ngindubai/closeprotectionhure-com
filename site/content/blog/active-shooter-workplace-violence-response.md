@@ -1,6 +1,6 @@
 ---
 title: "Active Shooter and Workplace Violence Response: What Organisations Need"
-description: "Practical guidance on active shooter and workplace violence preparedness for organisations. Covers threat assessment, response protocols, training, lockdown procedures, and the role of close protection in high-risk environments."
+description: "Practical guidance on active shooter and workplace violence preparedness for organisations. Covers threat assessment, response protocols, training, lockdown procedures,."
 date: "2026-03-01"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -52,3 +52,5 @@ Organisations should plan for the post-incident phase:
 - Post-incident security review
 
 *For security consultancy services including threat assessment and security programme design, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

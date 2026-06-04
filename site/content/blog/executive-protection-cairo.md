@@ -1,6 +1,6 @@
 ---
 title: "Executive Protection in Cairo: The Security Picture in 2026"
-description: "Cairo is Egypt's capital and a major destination for energy, infrastructure, and regional finance. Executive protection in Cairo is shaped by a specific threat picture: terrorism risk, regional spillover, and a complex ground transport environment. This guide covers the current situation, Egypt's private security framework, and what a professional EP engagement looks like."
+description: "Cairo is Egypt's capital and a major destination for energy, infrastructure, and regional finance. Executive protection in Cairo is shaped by a specific threat picture."
 date: "2026-05-29"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

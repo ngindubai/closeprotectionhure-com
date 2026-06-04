@@ -1,6 +1,6 @@
 ---
 title: "Lagos Travel Safety Guide: What to Know Before You Go"
-description: "Practical travel safety guide for Lagos, Nigeria. Pre-trip security checklist, ground transport, accommodation, medical, communications, and emergency protocols for business travellers."
+description: "Practical travel safety guide for Lagos, Nigeria. Pre-trip security checklist, ground transport, accommodation, medical, communications, and emergency protocols for business."
 date: "2026-05-28"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "travel-safety-guide-lagos"
@@ -56,3 +56,4 @@ Lagos is Nigeria's commercial capital and the most economically significant city
 - US Consulate Lagos: +234 1 460 3400
 
 *For vetted security drivers and close protection in Lagos, see our [Lagos security services page](/cities/lagos/).*
+See our [Lagos city security briefing](/cities/lagos/) and [Lagos risk assessment](/risk-assessments/lagos/) for the operational detail behind this guide.

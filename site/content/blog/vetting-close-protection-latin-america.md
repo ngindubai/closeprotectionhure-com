@@ -1,11 +1,11 @@
 ---
 title: "Vetting a Close Protection Company in Latin America: What the Checklists Miss"
-description: "Latin America's close protection market is experienced but fragmented. The standard vetting checklist you might use for a UK or US provider breaks at several points. Here is where to probe harder and what the regional regulatory picture actually looks like."
+description: "Latin America's close protection market is experienced but fragmented. The standard vetting checklist you might use for a UK or US provider breaks at several points."
 date: "2026-05-27"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"
 slug: "vetting-close-protection-latin-america"
-seo_title: "Vetting a Close Protection Company in Latin America | CloseProtectionHire.com"
+seo_title: "Vetting a Close Protection Company in Latin America"
 tags:
   - "latin-america"
   - "executive-protection"

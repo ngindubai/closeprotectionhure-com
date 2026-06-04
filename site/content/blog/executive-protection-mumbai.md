@@ -1,11 +1,11 @@
 ---
 title: "Executive Protection in Mumbai: What Corporate Visitors Need to Know"
-description: "Mumbai is India's financial capital and a major destination for executive travel. The security environment is more complex than the city's business reputation suggests. This guide covers threat assessment, the Indian regulatory framework for private security, and what a professional EP engagement looks like in the city."
+description: "Mumbai is India's financial capital and a major destination for executive travel. The security environment is more complex than the city's business reputation suggests."
 date: "2026-05-27"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "executive-protection-mumbai"
-seo_title: "Executive Protection in Mumbai | India Bodyguard Guide | Security Services"
+seo_title: "Executive Protection in Mumbai | India Bodyguard Guide"
 tags:
   - "mumbai"
   - "india"

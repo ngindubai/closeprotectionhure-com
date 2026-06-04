@@ -1,6 +1,6 @@
 ---
 title: "Baghdad"
-description: "Close protection and executive security in Baghdad, Iraq. Baghdad remains a HIGH-risk security environment with active threats from militia groups, kidnapping, and improvised explosive devices. All operations require current threat assessment and experienced local operators. This page outlines the operational security requirements for business travel to Baghdad."
+description: "Close protection and executive security in Baghdad, Iraq. Baghdad remains a HIGH-risk security environment with active threats from militia groups, kidnapping, and improvised."
 slug: "baghdad"
 h1: "Close Protection in Baghdad"
 country: "Iraq"
@@ -97,3 +97,4 @@ For any business operation in Baghdad:
 Private security in Iraq is regulated by the Ministry of Interior. Companies must be registered and personnel must hold individual permits. The framework has evolved significantly since the post-2003 environment and requires current legal advice. Reputable providers will have current registration and will be able to demonstrate compliance.
 
 *Sources: FCDO Iraq travel advice (current). US State Department Level 4 Do Not Travel advisory. Iraqi Ministry of Interior security licensing framework.*
+For comparable operating environments in our network, see our [Kabul city briefing](/cities/kabul/) and [Amman city briefing](/cities/amman/).

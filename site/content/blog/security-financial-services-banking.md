@@ -1,11 +1,11 @@
 ---
 title: "Security for Financial Services and Banking: Executive Protection Considerations"
-description: "Close protection and corporate security considerations specific to the financial services sector. Covers threat profiles for banking executives, activist targeting, physical security at financial institutions, and travel risk for finance sector principals."
+description: "Close protection and corporate security considerations specific to the financial services sector. Covers threat profiles for banking executives, activist targeting."
 date: "2026-04-15"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-financial-services-banking"
-seo_title: "Executive Security for Banking & Financial Services | CloseProtectionHire.com"
+seo_title: "Executive Security for Banking & Financial Services"
 tags:
   - "financial-services"
   - "banking"

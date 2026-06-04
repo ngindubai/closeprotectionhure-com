@@ -1,10 +1,10 @@
 ---
 title: "Moscow Travel Safety Guide: Essential Reading Before You Go"
-description: "Travel safety assessment for Moscow, Russia. Given FCDO advice against all travel, this guide covers the risks, legal exposure, and protocols for those with unavoidable requirements."
+description: "Travel safety assessment for Moscow, Russia. Given FCDO advice against all travel, this guide covers the risks, legal exposure, and protocols for those with unavoidable."
 date: "2026-05-28"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "travel-safety-guide-moscow"
-seo_title: "Moscow Travel Safety Guide 2026 | Risk Assessment for Business Travellers"
+seo_title: "Moscow Travel Safety Guide 2026"
 tags:
   - "moscow"
   - "russia"
@@ -56,3 +56,4 @@ If travel to Moscow is unavoidable:
 - US Embassy Moscow: +7 495 728 5000 (reduced staffing)
 
 *For security assessment of Russia travel, contact us directly.*
+See our [Moscow city security briefing](/cities/moscow/) and [Moscow risk assessment](/risk-assessments/moscow/) for the operational detail behind this guide.

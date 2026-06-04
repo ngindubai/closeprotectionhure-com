@@ -40,3 +40,4 @@ The assessment covers the complete security picture: perimeter integrity, gate a
 ## What you receive
 
 A written report with findings, risk ratings, and prioritised recommendations. We distinguish between immediate actions (addressing critical vulnerabilities), short-term improvements (upgrades that should be completed within weeks), and longer-term enhancements. The report is accompanied by a briefing with the household and any existing security staff.
+See our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/) for how assessment findings translate into protective coverage.

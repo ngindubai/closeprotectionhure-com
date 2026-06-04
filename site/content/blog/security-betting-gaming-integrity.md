@@ -1,11 +1,11 @@
 ---
 title: "Security for Betting, Gaming, and Integrity Operations"
-description: "Security considerations for the betting and gaming sector. Covers match-fixing investigations, executive protection for gaming company leadership, premises security, regulatory compliance, and the specific threats facing senior figures in the gambling industry."
+description: "Security considerations for the betting and gaming sector. Covers match-fixing investigations, executive protection for gaming company leadership, premises security."
 date: "2026-04-15"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-betting-gaming-integrity"
-seo_title: "Security for Betting & Gaming | Integrity Operations | CloseProtectionHire.com"
+seo_title: "Security for Betting & Gaming | Integrity Operations"
 tags:
   - "betting"
   - "gaming"
@@ -49,3 +49,5 @@ For sports integrity investigators and compliance personnel working on match-fix
 - Close protection for meetings with informants or in high-risk environments
 
 *For executive protection and security consultancy services in the gaming sector, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

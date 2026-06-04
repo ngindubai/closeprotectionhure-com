@@ -1,6 +1,6 @@
 ---
 title: "Private Security Regulations in India: A Guide for Operators and Corporate Clients"
-description: "A guide to private security regulations in India. Covers the PSARA framework, state-level licensing complexity, close protection rules, armed guard provisions, and what foreign executives need to know when using security services across India's major cities."
+description: "A guide to private security regulations in India. Covers the PSARA framework, state-level licensing complexity, close protection rules, armed guard provisions, and what."
 date: "2025-12-10"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-regulations-india"

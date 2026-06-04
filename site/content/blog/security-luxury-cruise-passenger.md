@@ -1,11 +1,11 @@
 ---
 title: "Security for Luxury Cruise Passengers and Superyacht Operations"
-description: "Security considerations for luxury cruise passengers and superyacht voyages. Covers piracy risk by region, UHNWI yacht security, port security, shore excursion risk, and close protection integration for high-profile principals at sea."
+description: "Security considerations for luxury cruise passengers and superyacht voyages. Covers piracy risk by region, UHNWI yacht security, port security, shore excursion risk,."
 date: "2026-03-08"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-luxury-cruise-passenger"
-seo_title: "Security for Luxury Cruise Passengers & Superyachts | CloseProtectionHire.com"
+seo_title: "Security for Luxury Cruise Passengers & Superyachts"
 tags:
   - "cruise-security"
   - "superyacht"
@@ -42,3 +42,5 @@ For UHNWI principals on superyachts with elevated security requirements:
 **Medical capability.** For extended offshore operations, medical capability aboard proportionate to the distance from medical facilities.
 
 *For maritime security services and superyacht protection, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [security drivers service](/services/security-drivers/) and [executive protection service](/services/executive-protection/).

@@ -1,6 +1,6 @@
 ---
 title: "Abu Dhabi"
-description: "Close protection and executive security in Abu Dhabi. FCDO advises against all but essential travel due to regional security tensions. Houthi missile and drone attacks on UAE infrastructure are documented. Road conditions are the primary daily risk. All CP is unarmed under Abu Dhabi's licensing framework."
+description: "Close protection and executive security in Abu Dhabi. FCDO advises against all but essential travel due to regional security tensions."
 slug: "abu-dhabi"
 h1: "Close Protection in Abu Dhabi"
 country: "United Arab Emirates"
@@ -110,3 +110,4 @@ Abu Dhabi's road network is modern, well-maintained, and genuinely dangerous. Th
 A road traffic incident is the single most statistically probable physical event during a business visit to Abu Dhabi. Pre-book all transfers. Do not use unvetted services. And do not drive yourself unless you have prior experience in this road environment.
 
 *Source: FCDO Travel Advice UAE (April 2026). OSAC Abu Dhabi Crime and Safety Report. UAE Ministry of Interior. Abu Dhabi Police.*
+For comparable operating environments in our network, see our [Dubai city briefing](/cities/dubai/) and [Riyadh city briefing](/cities/riyadh/).

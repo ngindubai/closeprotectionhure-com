@@ -1,11 +1,11 @@
 ---
 title: "Security During Political Transitions and Elections"
-description: "How to manage corporate travel security and executive protection during elections, political transitions, and periods of political uncertainty. Covers pre-election intelligence, movement restrictions, contingency planning, and the specific risks that political transitions create for foreign nationals and businesses."
+description: "How to manage corporate travel security and executive protection during elections, political transitions, and periods of political uncertainty."
 date: "2026-01-25"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-political-transitions-elections"
-seo_title: "Security During Political Transitions & Elections | CloseProtectionHire.com"
+seo_title: "Security During Political Transitions & Elections"
 tags:
   - "elections"
   - "political-risk"
@@ -46,3 +46,5 @@ Political transitions and elections generate security risk through several mecha
 **Monitoring.** Real-time monitoring of local news, social media, and government communications during the election period. A designated security monitoring responsibility within the organisation's travel security function.
 
 *For security support during high-risk election and political transition periods, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

@@ -89,3 +89,4 @@ Dakar's Plateau business district has a reasonable concentration of internationa
 Most corporate visits to Dakar are manageable with a pre-booked driver and standard security awareness. The market for professional security services exists and is developing alongside Dakar's growing role as a regional business centre.
 
 *Sources: FCDO Senegal travel advice, May 2026. US State Department Level 2: Exercise Increased Caution.*
+For comparable operating environments in our network, see our [Accra city briefing](/cities/accra/) and [Abuja city briefing](/cities/abuja/).

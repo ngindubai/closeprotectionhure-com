@@ -45,3 +45,4 @@ The implication for corporate travellers is that general counter-terrorism aware
 The April 2025 Sea of Marmara earthquake served as a reminder that Istanbul's earthquake risk is not hypothetical. A major seismic event would have catastrophic consequences for parts of the city. Emergency response planning for a corporate visit should include building evacuation routes and, where possible, accommodation in post-1999 construction.
 
 Our assessments flag seismic risk for specific venues where data is available and include basic emergency protocols for seismic events.
+A risk assessment is the first step. See our [Istanbul city security briefing](/cities/istanbul/) for the operating picture, and our [executive protection service](/services/executive-protection/) for deployment options.

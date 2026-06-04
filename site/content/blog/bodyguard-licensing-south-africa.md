@@ -1,11 +1,11 @@
 ---
 title: "Bodyguard Licensing in South Africa: What the Law Actually Requires"
-description: "South Africa has one of Africa's most regulated private security industries. Here is what PSIRA registration means for close protection operators, what clients should verify, and the red flags to watch for when hiring in Johannesburg or Cape Town."
+description: "South Africa has one of Africa's most regulated private security industries. Here is what PSIRA registration means for close protection operators, what clients should verify."
 date: "2026-05-27"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "bodyguard-licensing-south-africa"
-seo_title: "Bodyguard Licensing in South Africa | PSIRA Rules Explained | CloseProtectionHire.com"
+seo_title: "Bodyguard Licensing in South Africa | PSIRA Rules Explained"
 tags:
   - "south-africa"
   - "regulation"

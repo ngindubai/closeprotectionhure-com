@@ -1,6 +1,6 @@
 ---
 title: "Security for Agriculture and Food Sector Operations"
-description: "Security considerations for the agriculture and food sector. Covers food fraud, supply chain security, activism targeting farming operations, rural crime, agri-food export security, and protection for executives in the sector."
+description: "Security considerations for the agriculture and food sector. Covers food fraud, supply chain security, activism targeting farming operations, rural crime, agri-food export."
 date: "2026-02-10"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -48,3 +48,5 @@ Animal rights and environmental activism targeting farming operations has escala
 Food fraud (adulteration, substitution, and mislabelling) represents a significant economic and food safety risk. Testing and traceability regimes are the primary countermeasures, supported by supply chain due diligence.
 
 *For security services relevant to agricultural and food sector operations, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

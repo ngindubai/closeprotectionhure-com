@@ -1,6 +1,6 @@
 ---
 title: "Security for Luxury Automotive Collections"
-description: "Security for high-value classic and luxury vehicle collections. Covers storage facility security, transport security for high-value vehicles, insurance requirements, theft prevention technology, and close protection considerations during vehicle events."
+description: "Security for high-value classic and luxury vehicle collections. Covers storage facility security, transport security for high-value vehicles, insurance requirements."
 date: "2026-01-28"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -49,3 +49,5 @@ For collection storage facilities:
 - Discreet event attendance: avoid advance social media publication
 
 *For security consultancy and private client security services, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [residential security service](/services/residential-security/) and [executive protection service](/services/executive-protection/).

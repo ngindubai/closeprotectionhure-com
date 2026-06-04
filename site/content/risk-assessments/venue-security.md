@@ -1,6 +1,6 @@
 ---
 title: "Venue Security Assessment"
-description: "Security assessment for corporate event venues, conference facilities, and meeting locations in high-risk cities."
+description: "Security assessment for corporate event venues, conference facilities, and meeting locations in high-risk cities, covering access, perimeter, and emergencies."
 slug: "venue-security"
 hero_image: "assessment-venue-hero.jpg"
 parallax_image: "assessment-venue-parallax.jpg"
@@ -40,3 +40,4 @@ The assessment covers the physical security of the venue (perimeter, access poin
 ## What you receive
 
 A detailed report with findings and recommendations, prioritised by risk level. The report includes a site map with security annotations, recommended security personnel deployment, and a draft emergency response plan for the event.
+See our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/) for how assessment findings translate into protective coverage.

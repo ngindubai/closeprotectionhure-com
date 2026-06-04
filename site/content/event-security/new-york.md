@@ -1,6 +1,6 @@
 ---
 title: "Event Security in New York"
-description: "Corporate event security in New York City for conferences, investor summits, and private functions. SLA-licensed close protection, venue assessment, and counter-terrorism planning."
+description: "Corporate event security in New York City for conferences, investor summits, and private functions. SLA-licensed close protection, venue assessment, and counter-terrorism."
 slug: "new-york"
 h1: "Event Security in New York"
 city: "New York"
@@ -45,3 +45,4 @@ New York's major conference venues have developed security infrastructure. The J
 The key additions our security team provides for New York events are: close protection for identified high-risk principals, access control beyond standard hotel provision, emergency response planning that goes beyond fire evacuation, and protest risk assessment for relevant events.
 
 All operators are licensed under New York State Article 7A. Armed operators carry valid New York State firearms licences. We do not work with out-of-state security companies who have not verified their New York licensing status.
+For the wider security picture, see our [New York city security briefing](/cities/new-york/), and our [event security service](/services/event-security/) for how we structure protective coverage.

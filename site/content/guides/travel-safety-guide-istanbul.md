@@ -1,6 +1,6 @@
 ---
 title: "Istanbul Travel Safety Guide: What to Know Before You Go"
-description: "Practical travel safety guide for Istanbul, Turkey. Pre-trip security checklist, transport, accommodation, medical, communications, and emergency protocols for business travellers."
+description: "Practical travel safety guide for Istanbul, Turkey. Pre-trip security checklist, transport, accommodation, medical, communications, and emergency protocols for business."
 date: "2026-05-28"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "travel-safety-guide-istanbul"
@@ -51,3 +51,4 @@ Istanbul sits at the intersection of Europe and Asia and is Turkey's commercial,
 - US Consulate Istanbul: +90 212 335 9000
 
 *For vetted close protection and security drivers in Istanbul, see our [Istanbul security services page](/cities/istanbul/).*
+See our [Istanbul city security briefing](/cities/istanbul/) and [Istanbul risk assessment](/risk-assessments/istanbul/) for the operational detail behind this guide.

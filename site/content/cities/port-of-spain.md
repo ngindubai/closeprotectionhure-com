@@ -1,6 +1,6 @@
 ---
 title: "Port of Spain"
-description: "Close protection and security services in Port of Spain, Trinidad and Tobago. Executive protection, security drivers, and risk assessment for business travel to the Caribbean's energy hub."
+description: "Close protection and security services in Port of Spain, Trinidad and Tobago. Executive protection, security drivers, and risk assessment for business travel."
 slug: "port-of-spain"
 h1: "Close Protection in Port of Spain, Trinidad"
 country: "Trinidad and Tobago"
@@ -90,3 +90,4 @@ For business visitors, the practical threat is primarily armed robbery and carja
 The energy sector operates with established security protocols. Major international companies have in-house security programmes that cover their direct staff. Visitors and contractors coming in without institutional support need to establish equivalent protection independently. The physical security infrastructure for energy sector work exists in Trinidad; accessing it requires engaging the right operators.
 
 *Sources: FCDO Trinidad and Tobago travel advice, May 2026. US State Department Level 2: Exercise Increased Caution.*
+For comparable operating environments in our network, see our [Bogota city briefing](/cities/bogota/) and [Panama City city briefing](/cities/panama-city/).

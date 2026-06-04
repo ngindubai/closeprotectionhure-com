@@ -1,11 +1,11 @@
 ---
 title: "Security for Motorsport: Formula 1, Endurance Racing, and Rally Events"
-description: "Security planning for major motorsport events. Covers Formula 1 circuit security, paddock access management, VIP hospitality protection, driver and team principal security, and security for rally events in challenging environments."
+description: "Security planning for major motorsport events. Covers Formula 1 circuit security, paddock access management, VIP hospitality protection, driver and team principal security."
 date: "2026-02-28"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-racing-motorsport"
-seo_title: "Security for Motorsport Events | F1 & Rally Security | CloseProtectionHire.com"
+seo_title: "Security for Motorsport Events | F1 & Rally Security"
 tags:
   - "motorsport"
   - "formula-1"
@@ -44,3 +44,5 @@ World Rally Championship and other rally events create different security challe
 **Service park security.** The service park is the rally equivalent of a paddock: a controlled zone with commercial interests requiring access management.
 
 *For event security services at major motorsport events, see our [event security](/event-security/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

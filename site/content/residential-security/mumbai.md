@@ -1,6 +1,6 @@
 ---
 title: "Residential Security in Mumbai"
-description: "Residential security for expatriates in Mumbai, India. PSARA-licensed operators, BKC and South Mumbai property assessment, domestic staff vetting, and post-2008 security context."
+description: "Residential security for expatriates in Mumbai, India. PSARA-licensed operators, BKC and South Mumbai property assessment, domestic staff vetting, and post-2008 security."
 slug: "mumbai"
 h1: "Residential Security in Mumbai, India"
 country: "India"

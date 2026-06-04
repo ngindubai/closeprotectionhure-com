@@ -1,6 +1,6 @@
 ---
 title: "Event Security in Nairobi"
-description: "Event security for corporate conferences, summits, and private functions in Nairobi. Venue assessment, armed close protection, access control, and emergency planning for Nairobi's high-risk environment."
+description: "Event security for corporate conferences, summits, and private functions in Nairobi. Venue assessment, armed close protection, access control, and emergency planning."
 slug: "nairobi"
 h1: "Event Security in Nairobi"
 city: "Nairobi"
@@ -47,3 +47,4 @@ We produce a written security plan for every Nairobi event engagement. The plan 
 ## Our operators in Nairobi
 
 Operators are KSIA-licensed, locally based, and have operating experience in Nairobi's event and commercial security environment. Where the event profile warrants armed protection, our operators hold valid firearms permits under Kenyan law. We do not contract unlicensed or informally organised security teams regardless of cost pressure.
+For the wider security picture, see our [Nairobi city security briefing](/cities/nairobi/), and our [event security service](/services/event-security/) for how we structure protective coverage.

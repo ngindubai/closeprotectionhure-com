@@ -1,6 +1,6 @@
 ---
 title: "Close Protection in South America: Country-by-Country Guide"
-description: "A country-by-country guide to close protection in South America. Covers Brazil, Argentina, Colombia, Chile, Peru, Venezuela, Bolivia, and Ecuador. Licensing requirements, threat profiles, and operational guidance."
+description: "A country-by-country guide to close protection in South America. Covers Brazil, Argentina, Colombia, Chile, Peru, Venezuela, Bolivia, and Ecuador."
 date: "2026-03-28"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

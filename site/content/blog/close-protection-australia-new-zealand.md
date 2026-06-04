@@ -1,6 +1,6 @@
 ---
 title: "Close Protection in Australia and New Zealand"
-description: "A guide to close protection in Australia and New Zealand. Covers the licensing frameworks in each Australian state and New Zealand, the threat environment, available services, and operational guidance for visiting principals."
+description: "A guide to close protection in Australia and New Zealand. Covers the licensing frameworks in each Australian state and New Zealand, the threat environment."
 date: "2026-02-25"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

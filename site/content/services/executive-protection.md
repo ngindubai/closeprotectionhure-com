@@ -63,3 +63,4 @@ A standard executive protection detail in a high-risk city consists of a team le
 Before arrival, the advance operative surveys every location on the principal's itinerary. Meeting venues, restaurants, hotels, airports. They identify entry and exit points, emergency routes, and the nearest medical facilities.
 
 During the assignment, the team maintains continuous communication. The close protection officer manages immediate proximity. The driver maintains vehicle readiness. The team leader coordinates with our operations centre, which monitors local threat feeds and intelligence sources.
+We deploy this service across our city network, including [Lagos](/cities/lagos/) and [Johannesburg](/cities/johannesburg/). See also our [executive protection service](/services/executive-protection/).

@@ -1,6 +1,6 @@
 ---
 title: "Panama City"
-description: "Close protection and security services in Panama City, Panama. Executive protection, security drivers, and risk assessment for corporate travel to Central America's financial hub."
+description: "Close protection and security services in Panama City, Panama. Executive protection, security drivers, and risk assessment for corporate travel to Central America's financial."
 slug: "panama-city"
 h1: "Close Protection in Panama City, Panama"
 country: "Panama"
@@ -87,3 +87,4 @@ The established hotel and financial district areas (Punta Pacifica, Miraflores, 
 A pre-booked driver is the practical baseline for all visits. Familiarity with which districts are on and off the corporate itinerary, and using pre-booked transport rather than street taxis for evening movement, covers the majority of risk for standard business visits.
 
 *Sources: FCDO Panama travel advice, May 2026. US State Department Level 1: Exercise Normal Precautions (higher advisories for Darien).*
+For comparable operating environments in our network, see our [Bogota city briefing](/cities/bogota/) and [Mexico City city briefing](/cities/mexico-city/).

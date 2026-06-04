@@ -1,6 +1,6 @@
 ---
 title: "Security for Stadium and Major Sports Events"
-description: "A guide to security at stadiums and major sports events. Covers physical security architecture, access control, crowd management, VIP and executive suites, protest and disruption management, and post-incident response."
+description: "A guide to security at stadiums and major sports events. Covers physical security architecture, access control, crowd management, VIP and executive suites."
 date: "2026-01-10"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -55,3 +55,5 @@ For executive suite occupants and high-profile guests:
 - Emergency evacuation route specific to the VIP areas: not the general concourse
 
 *For security services at sports venues and events, see our [event security](/event-security/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

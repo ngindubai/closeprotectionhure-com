@@ -1,6 +1,6 @@
 ---
 title: "Security for Shopping Centres and Retail Parks"
-description: "Security management for shopping centres, retail parks, and high street retail. Covers access control, crowd management, terrorism preparedness, VIP retail visits, CCTV, and the specific security challenges of large public retail environments."
+description: "Security management for shopping centres, retail parks, and high street retail. Covers access control, crowd management, terrorism preparedness, VIP retail visits, CCTV,."
 date: "2026-04-20"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -48,3 +48,5 @@ Shopping centres and retail parks are among the most complex public security env
 For retail destinations that attract high-profile visitors (luxury retail, flagship stores, celebrity appearances) specific security arrangements including close protection coordination with venue security, controlled access, and media management.
 
 *For event security and close protection services relevant to retail environments, see our [event security](/event-security/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

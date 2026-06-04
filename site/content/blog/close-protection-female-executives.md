@@ -1,11 +1,11 @@
 ---
 title: "Close Protection for Female Executives: What Works, What to Ask, and Where the Gaps Are"
-description: "Female executives travelling to high-risk destinations face a security environment that is not identical to their male counterparts. This guide covers the specific threat dimensions, what professional close protection arrangements look like for female principals, and the questions to ask any provider before engaging them."
+description: "Female executives travelling to high-risk destinations face a security environment that is not identical to their male counterparts."
 date: "2026-05-27"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"
 slug: "close-protection-female-executives"
-seo_title: "Close Protection for Female Executives | Women's Security Guide for Business Travel"
+seo_title: "Close Protection for Female Executives"
 tags:
   - "executive-protection"
   - "female-security"

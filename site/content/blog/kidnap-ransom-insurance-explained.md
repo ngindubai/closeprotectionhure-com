@@ -1,6 +1,6 @@
 ---
 title: "Kidnap and Ransom Insurance Explained"
-description: "A clear explanation of kidnap and ransom (K&R) insurance. Covers what it covers, what it excludes, how to select a policy, the role of the response consultant, and how K&R insurance interacts with physical security planning."
+description: "A clear explanation of kidnap and ransom (K&R) insurance. Covers what it covers, what it excludes, how to select a policy, the role of the response consultant, and how K&R."
 date: "2026-03-15"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -54,3 +54,5 @@ K&R policies vary significantly. Key considerations:
 Use a specialist broker with K&R market experience: this is not a standard business insurance product and general insurance brokers often lack the market knowledge to advise effectively.
 
 *For physical security services complementary to K&R insurance programmes, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

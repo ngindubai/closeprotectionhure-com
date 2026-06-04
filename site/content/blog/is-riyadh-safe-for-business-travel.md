@@ -1,11 +1,11 @@
 ---
 title: "Is Riyadh Safe for Business Travel? A 2026 Security Assessment"
-description: "Riyadh is one of the world's most significant business destinations in 2026. Vision 2030 has transformed its corporate landscape. This guide covers the genuine threat picture, FCDO and State Department advisories, and what professional security looks like in the Saudi capital."
+description: "Riyadh is one of the world's most significant business destinations in 2026. Vision 2030 has transformed its corporate landscape."
 date: "2026-05-27"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"
 slug: "is-riyadh-safe-for-business-travel"
-seo_title: "Is Riyadh Safe for Business Travel in 2026? | Saudi Arabia Security Assessment"
+seo_title: "Is Riyadh Safe for Business Travel in 2026?"
 tags:
   - "riyadh"
   - "saudi-arabia"

@@ -1,6 +1,6 @@
 ---
 title: "Cape Town"
-description: "Close protection and executive security in Cape Town. OSAC rates crime as CRITICAL. Carjacking, follow-home robberies from the airport, fake police operations, and armed kidnapping are all documented threats."
+description: "Close protection and executive security in Cape Town. OSAC rates crime as CRITICAL. Carjacking, follow-home robberies from the airport, fake police operations, and armed."
 slug: "cape-town"
 h1: "Close Protection in Cape Town"
 country: "South Africa"
@@ -110,3 +110,4 @@ Carjacking at traffic lights, junctions, petrol stations, and residential drivew
 Keep doors locked and windows up at all times while driving. Know the counter-carjacking protocol before departure. If confronted: comply. Do not resist. South African robbery statistics show a consistent correlation between resistance and serious injury or death. The vehicle and its contents are replaceable. The principal is not.
 
 *Sources: UK FCDO South Africa travel advice (April 2026). US State Department Level 2 advisory South Africa (April 2026). OSAC Crime Rating: CRITICAL. PSIRA (psira.co.za).*
+For comparable operating environments in our network, see our [Johannesburg city briefing](/cities/johannesburg/) and [Nairobi city briefing](/cities/nairobi/).

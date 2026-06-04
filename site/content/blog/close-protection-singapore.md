@@ -1,6 +1,6 @@
 ---
 title: "Close Protection in Singapore: What Corporate Visitors Need to Know"
-description: "Singapore has one of the lowest violent crime rates in the world and a mature, well-regulated private security industry. This guide covers when close protection adds value in Singapore, how the SPF licensing framework works, and what professional security looks like in the city-state."
+description: "Singapore has one of the lowest violent crime rates in the world and a mature, well-regulated private security industry."
 date: "2026-05-28"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

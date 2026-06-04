@@ -1,6 +1,6 @@
 ---
 title: "Ukraine"
-description: "Security assessments and close protection for essential travel to Ukraine. Expert guidance on operating in an active conflict environment from operators with Ukraine experience."
+description: "Security assessments and close protection for essential travel to Ukraine. Expert guidance on operating in an active conflict environment from operators with Ukraine."
 slug: "ukraine"
 h1: "Security Services in Ukraine"
 risk_level: "critical"

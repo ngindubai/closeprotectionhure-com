@@ -1,6 +1,6 @@
 ---
 title: "Sao Paulo"
-description: "Close protection and executive security in Sao Paulo, Brazil. Armed robbery, express kidnapping, and carjacking make armoured transport and licensed operators essential for corporate visits."
+description: "Close protection and executive security in Sao Paulo, Brazil. Armed robbery, express kidnapping, and carjacking make armoured transport and licensed operators essential."
 slug: "sao-paulo"
 h1: "Close Protection in Sao Paulo"
 seo_title: "Bodyguard Hire Sao Paulo | Close Protection Brazil"

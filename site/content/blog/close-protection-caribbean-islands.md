@@ -1,6 +1,6 @@
 ---
 title: "Close Protection in the Caribbean Islands"
-description: "Close protection and executive security across the Caribbean. Covers the major island groups, risk profiles for Jamaica, Trinidad, Haiti, the Dominican Republic, and the British, French, and Dutch territories. Guidance for yacht security and UHNWI visitors."
+description: "Close protection and executive security across the Caribbean. Covers the major island groups, risk profiles for Jamaica, Trinidad, Haiti, the Dominican Republic."
 date: "2026-03-10"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -45,3 +45,5 @@ For UHNWI visitors to the Caribbean on superyachts or at exclusive properties:
 - Medical evacuation planning given distance from trauma facilities
 
 *For close protection services in the Caribbean, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

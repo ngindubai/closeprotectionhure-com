@@ -1,11 +1,11 @@
 ---
 title: "Security for Pilgrimages and Mass Religious Gatherings"
-description: "Security planning for religious pilgrimages and mass gatherings. Covers crowd safety, terrorism risk, VIP protection for religious leaders, medical preparedness, and the specific challenges of managing large devout crowds in complex environments."
+description: "Security planning for religious pilgrimages and mass gatherings. Covers crowd safety, terrorism risk, VIP protection for religious leaders, medical preparedness."
 date: "2026-04-10"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-pilgrimages-mass-gatherings"
-seo_title: "Security for Pilgrimages & Mass Religious Gatherings | CloseProtectionHire.com"
+seo_title: "Security for Pilgrimages & Mass Religious Gatherings"
 tags:
   - "mass-gatherings"
   - "pilgrimage"
@@ -40,3 +40,5 @@ Mass religious gatherings (the Hajj in Mecca, the Kumbh Mela in India, major pap
 **Communication capability.** Multilingual security communications. Signage and public address in relevant languages. Technology-assisted communication for large-area coordination.
 
 *For security consultancy and close protection services relevant to large events and gatherings, see our [event security](/event-security/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

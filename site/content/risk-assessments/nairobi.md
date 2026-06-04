@@ -49,3 +49,4 @@ The private security sector in Nairobi is well-developed and professional. Vette
 ## What a Nairobi assessment covers
 
 A pre-travel assessment for Nairobi includes current threat analysis drawing on FCDO and OSAC data, venue assessment for your specific hotels and meeting locations, transport route planning with identified alternatives, and recommended security measures calibrated to your profile and duration of stay.
+A risk assessment is the first step. See our [Nairobi city security briefing](/cities/nairobi/) for the operating picture, and our [executive protection service](/services/executive-protection/) for deployment options.

@@ -1,11 +1,11 @@
 ---
 title: "Security for Corporate Retreats and Offsite Events"
-description: "Security considerations for corporate retreats, leadership offsites, and residential business events. Covers venue selection, access control, executive protection during retreats, accommodation security, and managing external threats in rural and resort environments."
+description: "Security considerations for corporate retreats, leadership offsites, and residential business events. Covers venue selection, access control, executive protection during."
 date: "2026-01-05"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-corporate-retreats-offsite-events"
-seo_title: "Security for Corporate Retreats & Offsite Events | CloseProtectionHire.com"
+seo_title: "Security for Corporate Retreats & Offsite Events"
 tags:
   - "corporate-retreats"
   - "offsite-events"
@@ -55,3 +55,5 @@ For retreats attended by senior executives or high-profile principals:
 - Staff briefing on access control protocols
 
 *For security planning and event security services at corporate retreats, see our [event security](/event-security/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

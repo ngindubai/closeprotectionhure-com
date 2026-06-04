@@ -1,6 +1,6 @@
 ---
 title: "Security for Major Sport Events: World Cup, Olympics, and Mega-Events"
-description: "Security planning for sport mega-events including the FIFA World Cup, Olympic Games, and similar major international competitions. Covers host-city risk, VIP protection, crowd management, terrorism preparedness, and the security role of visiting delegations."
+description: "Security planning for sport mega-events including the FIFA World Cup, Olympic Games, and similar major international competitions."
 date: "2026-01-15"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -55,3 +55,5 @@ Mega-events are held in cities that may not normally be within the corporate tra
 - Emergency response capability and resources
 
 *For security services at major sporting events and delegations, see our [event security](/event-security/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

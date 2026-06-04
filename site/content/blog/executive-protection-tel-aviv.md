@@ -1,6 +1,6 @@
 ---
 title: "Executive Protection in Tel Aviv: Operating in a Changed Security Environment"
-description: "Tel Aviv is Israel's commercial capital and a major business hub. The security environment has changed materially since October 2023. This guide covers the current threat picture, the Israeli private security regulatory framework, and what professional EP looks like in the city."
+description: "Tel Aviv is Israel's commercial capital and a major business hub. The security environment has changed materially since October 2023."
 date: "2026-05-28"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"

@@ -97,3 +97,4 @@ Female travellers should note that the FCDO's documented warnings about sexual a
 We work with PSARA-licensed Karnataka operators with specific experience in the technology and corporate sector. Campus security requirements, IT corridor route knowledge, and Cauvery protest monitoring are part of the Bangalore operational brief. Female close protection officers are available.
 
 *Source: FCDO India travel advice (April 2026). US State Department India advisory (April 2026). OSAC India 2026 Crime and Safety Report.*
+For comparable operating environments in our network, see our [Delhi city briefing](/cities/delhi/) and [Mumbai city briefing](/cities/mumbai/).

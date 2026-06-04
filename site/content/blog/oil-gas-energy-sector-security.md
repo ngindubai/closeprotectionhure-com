@@ -1,6 +1,6 @@
 ---
 title: "Oil, Gas, and Energy Sector Security: Executive and Field Operations"
-description: "Security considerations for executives and field operations in the oil, gas, and energy sector. Covers threats specific to the energy sector, executive protection for energy company leadership, field security for operations in high-risk regions, and the activist targeting of energy sector principals."
+description: "Security considerations for executives and field operations in the oil, gas, and energy sector. Covers threats specific to the energy sector, executive protection for energy."
 date: "2026-02-20"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

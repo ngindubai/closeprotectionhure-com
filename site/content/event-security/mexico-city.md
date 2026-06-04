@@ -45,3 +45,4 @@ Polanco is the standard corporate event district: developed private security inf
 For any event with named senior executives in public attendance, our security plan includes counter-surveillance protocols for transport, limiting public exposure of the event schedule, and kidnap risk management procedures. This is not crisis planning. It is standard operating practice in Mexico City.
 
 Our operators hold valid DGSP federal registration. Where armoured vehicles are required, these are arranged through vetted providers with current mechanical certification. We do not use informal armoured vehicle providers regardless of availability and cost.
+For the wider security picture, see our [Mexico City city security briefing](/cities/mexico-city/), and our [event security service](/services/event-security/) for how we structure protective coverage.

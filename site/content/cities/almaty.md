@@ -89,3 +89,4 @@ Almaty experienced serious civil unrest in January 2022, triggered by fuel price
 The situation stabilised and political conditions have been broadly normal since. The event is not a reason to avoid Almaty for business, but it is context for contingency planning.
 
 *Sources: FCDO Kazakhstan travel advice. US State Department Level 2 advisory Kazakhstan. EBRD Kazakhstan country assessment.*
+For comparable operating environments in our network, see our [Baku city briefing](/cities/baku/) and [Tbilisi city briefing](/cities/tbilisi/).

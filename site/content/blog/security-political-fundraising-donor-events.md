@@ -1,11 +1,11 @@
 ---
 title: "Security for Political Fundraising and Donor Events"
-description: "Security planning for political fundraising events and high-value donor gatherings. Covers access control, protest management, VIP protection for political principals, media management, and the specific security environment of politically charged events."
+description: "Security planning for political fundraising events and high-value donor gatherings. Covers access control, protest management, VIP protection for political principals."
 date: "2026-02-15"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-political-fundraising-donor-events"
-seo_title: "Security for Political Fundraising & Donor Events | CloseProtectionHire.com"
+seo_title: "Security for Political Fundraising & Donor Events"
 tags:
   - "political-events"
   - "fundraising"
@@ -42,3 +42,5 @@ Political fundraising events occupy a specific position in the event security la
 **Contingency planning.** What happens if a protest breaches the perimeter? What if a specific threat is received during the event? Clear escalation authority and tested protocols.
 
 *For event security services at political and high-profile private events, see our [event security](/event-security/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

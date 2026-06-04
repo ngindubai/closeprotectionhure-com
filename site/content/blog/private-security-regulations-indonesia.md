@@ -1,6 +1,6 @@
 ---
 title: "Private Security Regulations in Indonesia: What Corporate Clients Need to Know"
-description: "Indonesia's private security industry is regulated by the National Police (POLRI) through a licensing framework that governs close protection, manned guarding, and security driver services. This guide covers what BUJP licensing involves, what it means for clients, and how to verify compliance."
+description: "Indonesia's private security industry is regulated by the National Police (POLRI) through a licensing framework that governs close protection, manned guarding, and security."
 date: "2026-05-29"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"

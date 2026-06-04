@@ -1,6 +1,6 @@
 ---
 title: "Bangkok Travel Safety Guide: What to Know Before You Go"
-description: "Practical travel safety guide for Bangkok, Thailand. Pre-trip security checklist, transport, accommodation, medical, communications, and emergency protocols for business travellers."
+description: "Practical travel safety guide for Bangkok, Thailand. Pre-trip security checklist, transport, accommodation, medical, communications, and emergency protocols for business."
 date: "2026-05-28"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "travel-safety-guide-bangkok"
@@ -50,3 +50,4 @@ Bangkok is Thailand's capital and the country's dominant commercial and logistic
 - US Embassy Bangkok: +66 2 205 4000
 
 *For vetted close protection and security drivers in Bangkok, see our [Bangkok security services page](/cities/bangkok/).*
+See our [Bangkok city security briefing](/cities/bangkok/) and [Bangkok risk assessment](/risk-assessments/bangkok/) for the operational detail behind this guide.

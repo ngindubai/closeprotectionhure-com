@@ -1,6 +1,6 @@
 ---
 title: "Residential Security in Dubai"
-description: "Residential security for expatriates and HNWI families in Dubai. SIRA-licensed operators, villa and apartment security assessment, domestic staff vetting, and regional tension protocols."
+description: "Residential security for expatriates and HNWI families in Dubai. SIRA-licensed operators, villa and apartment security assessment, domestic staff vetting, and regional."
 slug: "dubai"
 h1: "Residential Security in Dubai, UAE"
 country: "UAE"

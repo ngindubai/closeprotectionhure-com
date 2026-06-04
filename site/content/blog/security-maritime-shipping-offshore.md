@@ -1,11 +1,11 @@
 ---
 title: "Maritime Security: Shipping, Offshore Platforms, and Port Operations"
-description: "A guide to maritime security covering merchant shipping, offshore oil and gas platforms, port security, and the specific threat of piracy. Covers armed guards, Vessel Protection Detachments, the ISPS Code, and current piracy risk by region."
+description: "A guide to maritime security covering merchant shipping, offshore oil and gas platforms, port security, and the specific threat of piracy."
 date: "2026-02-12"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-maritime-shipping-offshore"
-seo_title: "Maritime Security: Shipping, Offshore & Ports | CloseProtectionHire.com"
+seo_title: "Maritime Security: Shipping, Offshore & Ports"
 tags:
   - "maritime"
   - "shipping"
@@ -46,3 +46,5 @@ For commercial vessels and port facilities, ISPS compliance is a mandatory basel
 Offshore oil and gas platforms have specific security requirements under the PFSO (Port Facility Security Officer) framework in the UK and comparable regimes elsewhere. Physical access control, personnel identity management, and emergency response capability are core requirements.
 
 *For maritime security services, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [security drivers service](/services/security-drivers/) and [executive protection service](/services/executive-protection/).

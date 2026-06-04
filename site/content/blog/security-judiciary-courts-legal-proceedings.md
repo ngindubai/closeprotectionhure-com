@@ -1,11 +1,11 @@
 ---
 title: "Security for the Judiciary, Courts, and Legal Proceedings"
-description: "Security for judges, magistrates, and court facilities. Covers the specific threats to judicial figures, court security architecture, personal protection for threatened judges, and security for high-profile trials."
+description: "Security for judges, magistrates, and court facilities. Covers the specific threats to judicial figures, court security architecture, personal protection for threatened."
 date: "2026-01-25"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-judiciary-courts-legal-proceedings"
-seo_title: "Security for Judiciary, Courts & Legal Proceedings | CloseProtectionHire.com"
+seo_title: "Security for Judiciary, Courts & Legal Proceedings"
 tags:
   - "judiciary"
   - "courts"
@@ -51,3 +51,5 @@ For specifically threatened judicial figures:
 - Digital footprint review: reducing publicly available personal information
 
 *For security consultancy services relevant to judicial and legal professional security, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

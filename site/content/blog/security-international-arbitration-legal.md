@@ -1,11 +1,11 @@
 ---
 title: "Security for International Arbitration and Legal Proceedings"
-description: "Security considerations for international arbitration, major litigation, and cross-border legal proceedings. Covers intelligence risks during proceedings, witness protection, document security, and security for parties in high-value international disputes."
+description: "Security considerations for international arbitration, major litigation, and cross-border legal proceedings. Covers intelligence risks during proceedings, witness protection."
 date: "2026-01-18"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-international-arbitration-legal"
-seo_title: "Security for International Arbitration & Legal Proceedings | CloseProtectionHire.com"
+seo_title: "Security for International Arbitration & Legal Proceedings"
 tags:
   - "arbitration"
   - "international-legal"
@@ -40,3 +40,5 @@ International arbitration and major cross-border litigation concentrate enormous
 **Witness protection.** Secure transportation and accommodation arrangements for vulnerable witnesses. Separation of witness accommodation from the main team's hotel where witnesses are at specific risk.
 
 *For security services relevant to international legal proceedings, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

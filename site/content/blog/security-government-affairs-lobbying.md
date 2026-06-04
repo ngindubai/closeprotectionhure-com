@@ -1,6 +1,6 @@
 ---
 title: "Security for Government Affairs and Lobbying Operations"
-description: "Security considerations for government affairs and lobbying professionals. Covers the specific threats to lobbyists and public affairs teams, intelligence risks, protective security for advocacy operations, and security in the proximity of political principals."
+description: "Security considerations for government affairs and lobbying professionals. Covers the specific threats to lobbyists and public affairs teams, intelligence risks."
 date: "2026-02-05"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -40,3 +40,5 @@ Government affairs and lobbying operations occupy an interesting security positi
 **Physical security.** Office security appropriate to the information held. Visitor management. Clean desk policy. Document security.
 
 *For security consultancy relevant to government affairs operations, contact us through our [quote form](#quote-form).*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

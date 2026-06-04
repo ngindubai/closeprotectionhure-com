@@ -45,3 +45,4 @@ Shopping malls, which are central to Manila's commercial and social life, are th
 Corporate visitors who stay in BGC and Makati, use Grab rideshare for urban movement, and use vetted private drivers for any travel outside these zones are operating in a substantially more manageable threat environment than the overall Manila OSAC rating suggests.
 
 The critical principle is not to improvise transport or wander into unassessed areas. Manila's risk gradient between districts is among the steepest in the P1 network.
+A risk assessment is the first step. See our [Manila city security briefing](/cities/manila/) for the operating picture, and our [executive protection service](/services/executive-protection/) for deployment options.

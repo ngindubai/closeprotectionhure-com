@@ -1,6 +1,6 @@
 ---
 title: "Close Protection in Japan and South Korea"
-description: "Close protection and executive security in Japan and South Korea. Covers the security environment, licensing frameworks, specific considerations for high-profile principals, and operational guidance for visiting executives."
+description: "Close protection and executive security in Japan and South Korea. Covers the security environment, licensing frameworks, specific considerations for high-profile principals."
 date: "2026-03-15"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -48,3 +48,5 @@ Specific considerations:
 **Political environment.** South Korea has experienced periodic large-scale domestic protests. Current awareness of protest activity is appropriate for corporate travel planning.
 
 *For close protection services in Japan and South Korea, see our [Tokyo](/cities/tokyo/) city page.*
+
+For tailored support on the issues covered here, see our [Tokyo city briefing](/cities/tokyo/) and [executive protection service](/services/executive-protection/).

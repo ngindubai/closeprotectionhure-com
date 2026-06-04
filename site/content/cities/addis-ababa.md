@@ -1,6 +1,6 @@
 ---
 title: "Addis Ababa"
-description: "Close protection and executive security in Addis Ababa, Ethiopia. Active armed conflicts in Tigray, Amhara, and Oromia as of April 2026. Arbitrary detention risk, fuel shortages, and knifepoint attacks in the Bole district are current operational realities."
+description: "Close protection and executive security in Addis Ababa, Ethiopia. Active armed conflicts in Tigray, Amhara, and Oromia as of April 2026."
 slug: "addis-ababa"
 h1: "Close Protection in Addis Ababa"
 country: "Ethiopia"
@@ -118,3 +118,4 @@ The requirements here go beyond standard corporate CP. Ground-level intelligence
 Operations outside Addis Ababa require specialist security escort, advance route intelligence, and communication protocols that do not depend on mobile networks. The Ethiopia operating environment rewards specific local expertise. General CP competence is not enough.
 
 *Sources: UK FCDO Ethiopia travel advice (April 2026). US State Department Level 3 advisory Ethiopia (April 2026). OSAC Crime Rating: HIGH. British Embassy Addis Ababa: +251 11 617 0100.*
+For comparable operating environments in our network, see our [Nairobi city briefing](/cities/nairobi/) and [Dar es Salaam city briefing](/cities/dar-es-salaam/).

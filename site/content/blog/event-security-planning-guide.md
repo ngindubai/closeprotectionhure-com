@@ -1,6 +1,6 @@
 ---
 title: "Event Security Planning Guide: From Risk Assessment to On-the-Day Operations"
-description: "A comprehensive guide to event security planning for corporate events, conferences, private functions, and public gatherings. Covers threat assessment, venue security, access control, crowd management, VIP protection, and emergency response."
+description: "A comprehensive guide to event security planning for corporate events, conferences, private functions, and public gatherings."
 date: "2026-04-08"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -76,3 +76,5 @@ The event security plan must include emergency response protocols:
 - Command: who has authority to make emergency decisions and how is this communicated
 
 *For professional event security services, see our [event security](/event-security/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

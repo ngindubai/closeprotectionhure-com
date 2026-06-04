@@ -1,11 +1,11 @@
 ---
 title: "Executive Protection Cost in Johannesburg: What to Budget and Why"
-description: "What does executive protection cost in Johannesburg? Daily rates, the variables that move the price, and what corners get cut when you pay below market. Practical guidance for corporate security directors and travel risk managers."
+description: "What does executive protection cost in Johannesburg? Daily rates, the variables that move the price, and what corners get cut when you pay below market."
 date: "2026-05-27"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"
 slug: "executive-protection-cost-johannesburg"
-seo_title: "Executive Protection Cost Johannesburg | Rates & Buyer's Guide | CloseProtectionHire.com"
+seo_title: "Executive Protection Cost Johannesburg | Rates & Buyer's Guide"
 tags:
   - "johannesburg"
   - "executive-protection"

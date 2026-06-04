@@ -1,11 +1,11 @@
 ---
 title: "Do Bodyguards Need a Licence in South Africa?"
-description: "South Africa has one of the world's most regulated private security industries. Here is what PSIRA registration means in practice, what it covers, and what to check before hiring a close protection officer in Johannesburg or Cape Town."
+description: "South Africa has one of the world's most regulated private security industries. Here is what PSIRA registration means in practice, what it covers, and what to check before."
 date: "2026-05-27"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "do-bodyguards-need-a-licence-in-south-africa"
-seo_title: "Do Bodyguards Need a Licence in South Africa? | CloseProtectionHire.com"
+seo_title: "Do Bodyguards Need a Licence in South Africa?"
 tags:
   - "south-africa"
   - "licensing"

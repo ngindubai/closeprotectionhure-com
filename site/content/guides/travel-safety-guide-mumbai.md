@@ -1,6 +1,6 @@
 ---
 title: "Mumbai Travel Safety Guide: What to Know Before You Go"
-description: "Practical travel safety guide for Mumbai, India. Pre-trip security checklist, transport, accommodation, medical, communications, and emergency protocols for business travellers."
+description: "Practical travel safety guide for Mumbai, India. Pre-trip security checklist, transport, accommodation, medical, communications, and emergency protocols for business."
 date: "2026-05-28"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "travel-safety-guide-mumbai"
@@ -54,3 +54,4 @@ Mumbai is India's commercial capital and the centre of its finance, media, and e
 - US Consulate General Mumbai: +91 22 2672 4000
 
 *For vetted close protection and security drivers in Mumbai, see our [Mumbai security services page](/cities/mumbai/).*
+See our [Mumbai city security briefing](/cities/mumbai/) and [Mumbai risk assessment](/risk-assessments/mumbai/) for the operational detail behind this guide.

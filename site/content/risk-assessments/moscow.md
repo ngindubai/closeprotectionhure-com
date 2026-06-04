@@ -51,3 +51,4 @@ Emergency protocols must account for the near-total absence of consular assistan
 ## Our position on Moscow operations
 
 We do not deploy operators inside Russia under current conditions. The legal, financial, and operational constraints make responsible security service provision not viable. Our Moscow assessment covers advance planning, threat awareness, and emergency protocols for essential travellers. We will be direct if we assess that a specific travel plan carries risks we cannot adequately address.
+A risk assessment is the first step. See our [Moscow city security briefing](/cities/moscow/) for the operating picture, and our [executive protection service](/services/executive-protection/) for deployment options.

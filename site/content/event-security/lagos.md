@@ -45,3 +45,4 @@ The security plan for a Lagos event starts with the venue. Not all Lagos venues 
 For events with international executive attendees, the security plan includes transport protocols for every transfer from arrival at Murtala Muhammed International to departure. This is not belt-and-braces caution. It reflects the specific risk windows that Lagos creates during vehicle transit.
 
 Our operators in Lagos are NSCDC-licensed, locally based, and have experience of Lagos's corporate events sector. For events requiring armed cover, operators hold valid firearms permits under Nigerian law.
+For the wider security picture, see our [Lagos city security briefing](/cities/lagos/), and our [event security service](/services/event-security/) for how we structure protective coverage.

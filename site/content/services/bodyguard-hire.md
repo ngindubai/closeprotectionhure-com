@@ -65,3 +65,4 @@ We do not subcontract to agencies we have not vetted. You receive named operator
 Before you arrive, your operator conducts advance reconnaissance: surveying routes between your hotel, meeting locations, and the airport. They identify safe havens, map the locations of hospitals and police stations, and establish communication protocols.
 
 During the assignment, your operator remains within immediate response distance. They manage ground movements, screen approaches, monitor the local security situation in real time, and maintain communication with our operations desk.
+We deploy this service across our city network, including [Lagos](/cities/lagos/) and [Nairobi](/cities/nairobi/). See also our [executive protection service](/services/executive-protection/).

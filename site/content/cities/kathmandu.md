@@ -1,6 +1,6 @@
 ---
 title: "Kathmandu"
-description: "Security services in Kathmandu, Nepal. Close protection and risk assessment for corporate travel in a city where political strikes, earthquake risk, and tourist-area crime require specific planning."
+description: "Security services in Kathmandu, Nepal. Close protection and risk assessment for corporate travel in a city where political strikes, earthquake risk, and tourist-area crime."
 slug: "kathmandu"
 h1: "Close Protection in Kathmandu"
 country: "Nepal"
@@ -70,6 +70,10 @@ faqs:
     answer: "Yes. Nepal remains in a seismically active zone and engineers have noted that earthquake risk has increased rather than decreased since 2015 as stress has been redistributed. The practical implication for corporate visitors is to assess accommodation quality, identify building evacuation routes, and include earthquake response in any emergency protocol."
   - question: "Do I need professional security for a Kathmandu visit?"
     answer: "For development sector and lower-profile corporate visits, a vetted driver and local liaison may be sufficient. For executive-level visits or assignments involving politically sensitive sectors (energy, mining, government engagement), professional close protection is the appropriate baseline. Profile assessment determines the right level."
+  - question: "How do political bandhs affect movement in Kathmandu?"
+    answer: "A bandh is a general strike that can shut down transport, businesses, and road access across Kathmandu, sometimes at short notice and occasionally with enforcement by activists. They can prevent airport access and strand visitors. Monitoring the political calendar, maintaining schedule flexibility, and having a local liaison who tracks bandh announcements are the practical responses."
+  - question: "What are the road safety risks beyond the Kathmandu Valley?"
+    answer: "Road travel outside the Kathmandu Valley, particularly on mountain routes, carries significant accident risk from poor road conditions, weather, and driving standards. The FCDO notes road accidents as a leading cause of injury to foreign nationals in Nepal. For any travel beyond the valley, a vetted driver, daylight movement, and realistic journey timing are the baseline precautions."
 ---
 
 Kathmandu is the capital of Nepal, a landlocked country of 30 million people between China and India. It is the base for development organisations, NGOs, and a growing corporate sector connected to regional infrastructure projects, hydropower development, and tourism infrastructure.
@@ -91,3 +95,4 @@ For corporate visitors, this means accommodation selection matters beyond comfor
 ## Our network in Kathmandu
 
 We maintain vetted operators in Kathmandu with current registration under Nepal's private security framework. Operators are selected for Kathmandu-specific knowledge including political geography awareness, bandh response protocols, and familiarity with the development sector operating environment.
+For comparable operating environments in our network, see our [Bangkok city briefing](/cities/bangkok/) and [Mumbai city briefing](/cities/mumbai/).

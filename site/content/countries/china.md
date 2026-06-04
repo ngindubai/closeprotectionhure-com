@@ -1,6 +1,6 @@
 ---
 title: "China"
-description: "Security services in China. Close protection and legal risk advisory for Beijing, Shanghai, and major Chinese cities."
+description: "Security services in China. Close protection and legal risk advisory for Beijing, Shanghai, and major Chinese cities, with locally compliant operators."
 slug: "china"
 h1: "Security Services in China"
 risk_level: "medium"

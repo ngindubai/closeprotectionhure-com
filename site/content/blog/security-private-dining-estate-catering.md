@@ -1,11 +1,11 @@
 ---
 title: "Security for Private Dining and Estate Catering Events"
-description: "Security considerations for high-end private dining, estate events, and bespoke catering for UHNWI principals. Covers guest vetting, staff management, venue security, VIP arrival, and protection for principals hosting sensitive events."
+description: "Security for high-end private dining, estate events, and bespoke catering for UHNWI principals. Covers guest vetting, staff management, and venue security."
 date: "2026-04-18"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-private-dining-estate-catering"
-seo_title: "Security for Private Dining & Estate Catering | CloseProtectionHire.com"
+seo_title: "Security for Private Dining & Estate Catering"
 tags:
   - "private-dining"
   - "estate-events"
@@ -42,3 +42,5 @@ Private dining and estate catering events for UHNWI principals create a specific
 **Protection officer positioning.** For protected principals hosting events, the protection officer should conduct a site survey before the event and plan positioning for all phases (arrival, dinner, departure) in advance.
 
 *For close protection services for UHNWI principals and private event security, see our [executive protection](/executive-protection/) page.*
+
+For tailored support on the issues covered here, see our [event security service](/services/event-security/) and [executive protection service](/services/executive-protection/).

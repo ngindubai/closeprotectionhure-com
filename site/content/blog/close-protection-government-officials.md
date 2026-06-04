@@ -1,6 +1,6 @@
 ---
 title: "Close Protection for Government Officials: Protocols and Considerations"
-description: "Security considerations specific to government officials requiring close protection. Covers threat profiles, the interface between state protection and commercial providers, visiting dignitary security, and protocol requirements for official travel."
+description: "Security considerations specific to government officials requiring close protection. Covers threat profiles, the interface between state protection and commercial providers."
 date: "2026-04-25"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
@@ -78,3 +78,5 @@ For commercial providers taking government official assignments:
 5. Brief all operators on protocol, communications protocols, and the command relationship with state protection
 
 *For close protection services for senior officials and visiting dignitaries, contact us directly to discuss requirements.*
+
+For tailored support on the issues covered here, see our [executive protection service](/services/executive-protection/) and [bodyguard hire service](/services/bodyguard-hire/).

@@ -1,6 +1,6 @@
 ---
 title: "Russia"
-description: "Security assessment for Russia. FCDO advises against all travel. Terrorism, Ukraine conflict spillover, detention risk, and the limited security options available for essential travel."
+description: "Security assessment for Russia. FCDO advises against all travel. Terrorism, Ukraine conflict spillover, detention risk, and the limited security options available."
 slug: "russia"
 h1: "Security in Russia: Essential Travel Assessment"
 risk_level: "critical"

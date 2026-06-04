@@ -1,6 +1,6 @@
 ---
 title: "Sao Paulo Travel Safety Guide: What to Know Before You Go"
-description: "Practical travel safety guide for Sao Paulo, Brazil. Pre-trip security checklist, transport, accommodation, medical, communications, and emergency protocols for business travellers."
+description: "Practical travel safety guide for Sao Paulo, Brazil. Pre-trip security checklist, transport, accommodation, medical, communications, and emergency protocols for business."
 date: "2026-05-28"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "travel-safety-guide-sao-paulo"
@@ -50,3 +50,4 @@ Sao Paulo is the largest city in the Southern Hemisphere and Brazil's economic e
 - US Consulate General Sao Paulo: +55 11 3250 5000
 
 *For vetted close protection and security drivers in Sao Paulo, see our [Sao Paulo security services page](/cities/sao-paulo/).*
+See our [Sao Paulo city security briefing](/cities/sao-paulo/) and [Sao Paulo risk assessment](/risk-assessments/sao-paulo/) for the operational detail behind this guide.

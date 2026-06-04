@@ -1,11 +1,11 @@
 ---
 title: "Women Business Travellers in Mumbai: A Practical Safety Guide"
-description: "Is Mumbai safe for women is one of the highest-volume safety queries in India. For female business travellers attending meetings in Mumbai, the question deserves a more specific answer than generic safety guides provide. This article covers the threat picture, practical measures, and when professional security adds value."
+description: "Is Mumbai safe for women is one of the highest-volume safety queries in India. For female business travellers attending meetings in Mumbai, the question deserves a more."
 date: "2026-05-28"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "women-business-travellers-mumbai-safety"
-seo_title: "Women Business Travellers Mumbai Safety Guide 2026 | India Female Executive Travel"
+seo_title: "Women Business Travellers Mumbai Safety Guide 2026"
 tags:
   - "mumbai"
   - "india"

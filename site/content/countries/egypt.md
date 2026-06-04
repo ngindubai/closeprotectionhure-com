@@ -1,6 +1,6 @@
 ---
 title: "Egypt"
-description: "Security services in Egypt. Close protection and secure transport for Cairo from vetted local operators. FCDO advises against essential travel to parts of Egypt. Detention risk and severe drug laws require specific briefing."
+description: "Security services in Egypt. Close protection and secure transport for Cairo from vetted local operators. FCDO advises against essential travel to parts of Egypt."
 slug: "egypt"
 h1: "Security Services in Egypt"
 risk_level: "high"

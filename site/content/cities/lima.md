@@ -1,6 +1,6 @@
 ---
 title: "Lima"
-description: "Close protection and security services in Lima, Peru. SUCAMEC-registered operators for corporate protection, secure transport, and personal security in a high-risk urban environment."
+description: "Close protection and security services in Lima, Peru. SUCAMEC-registered operators for corporate protection, secure transport, and personal security in a high-risk urban."
 slug: "lima"
 h1: "Close Protection in Lima"
 country: "Peru"
@@ -110,3 +110,4 @@ Peru's private security industry is regulated by SUCAMEC. Armed close protection
 We work with SUCAMEC-registered operators who have direct Lima experience, including current knowledge of the airport express kidnapping threat, district-level risk mapping, and protest-monitoring protocols during periods of political instability. Airport arrivals are treated as a specific security moment in every Lima assignment.
 
 *Source: FCDO Peru travel advice (April 2026). US State Department Peru advisory (April 2026). OSAC Peru 2026 Crime and Safety Report.*
+For comparable operating environments in our network, see our [Bogota city briefing](/cities/bogota/) and [Sao Paulo city briefing](/cities/sao-paulo/).

@@ -1,6 +1,6 @@
 ---
 title: "Event Security in Paris"
-description: "Corporate event security in Paris for conferences, private functions, and major summits. Terrorism risk management, CNAPS-licensed protection, and venue assessment in France's capital."
+description: "Corporate event security in Paris for conferences, private functions, and major summits. Terrorism risk management, CNAPS-licensed protection, and venue assessment."
 slug: "paris"
 h1: "Event Security in Paris"
 city: "Paris"
@@ -45,3 +45,4 @@ The French private security regulatory framework is among the most developed in 
 For events with named high-risk principals (government officials, executives from sectors with specific threat histories, HNWI clients), we recommend dedicated close protection from CNAPS-authorised operators with specific counter-terrorism training.
 
 Vehicle exclusion management is a practical requirement for Paris events in central locations. Vehicle ramming has been used in France. Physical exclusion barriers at venue approaches are increasingly standard for large-format events.
+For the wider security picture, see our [Paris city security briefing](/cities/paris/), and our [event security service](/services/event-security/) for how we structure protective coverage.

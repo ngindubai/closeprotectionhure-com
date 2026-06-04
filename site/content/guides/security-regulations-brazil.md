@@ -1,6 +1,6 @@
 ---
 title: "Private Security Regulations in Brazil: A Guide for Operators and Corporate Clients"
-description: "A guide to private security regulations in Brazil. Covers SUSEP licensing, armed guard provisions, Federal Police involvement, the role of Policia Militar escorts, and what foreign executives need to know about using security services in Brazil."
+description: "A guide to private security regulations in Brazil. Covers SUSEP licensing, armed guard provisions, Federal Police involvement, the role of Policia Militar escorts, and what."
 date: "2026-02-15"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-regulations-brazil"
@@ -44,3 +44,4 @@ For senior corporate principals, armoured vehicle hire with licensed armed opera
 - Local knowledge is critical: São Paulo and Rio geography requires specialist familiarity
 
 *For close protection services in Brazil, see our [São Paulo](/cities/sao-paulo/) city page.*
+For the country overview see our [Brazil security services page](/countries/brazil/), and our [bodyguard hire service](/services/bodyguard-hire/) for deployment detail.

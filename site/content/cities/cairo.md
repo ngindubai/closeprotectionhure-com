@@ -111,3 +111,4 @@ We deploy close protection officers, security drivers, and residential security 
 All enquiries are treated with maximum discretion. Client details are not retained on any public-facing system.
 
 *Sources: FCDO Travel Advice for Egypt (April 2026). US State Department Travel Advisory for Egypt, Level 2 (April 2026). British Embassy Cairo public advisories. FCDO incident reports: Alexandria shooting 2023, Alexandria shooting 2024.*
+For comparable operating environments in our network, see our [Tel Aviv city briefing](/cities/tel-aviv/) and [Istanbul city briefing](/cities/istanbul/).

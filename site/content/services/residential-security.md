@@ -46,3 +46,4 @@ From the assessment, we develop a residential security plan that includes guard 
 Good residential security is quiet and professional. Guards are alert, presentable, and responsive without being aggressive or intrusive. Access control is firm but polite. Patrol schedules are unpredictable to potential observers. Communication between the security team, the household, and our operations centre is continuous.
 
 The household should feel safer without feeling like they live in a compound.
+See our [executive protection service](/services/executive-protection/) and [security drivers service](/services/security-drivers/) for related coverage.

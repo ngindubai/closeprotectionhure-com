@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Security services in Israel. Close protection for Tel Aviv from operators with ex-IDF and Shin Bet backgrounds. FCDO advises against all travel to Israel. Any operation requires a current specific risk assessment."
+description: "Security services in Israel. Close protection for Tel Aviv from operators with ex-IDF and Shin Bet backgrounds. FCDO advises against all travel to Israel."
 slug: "israel"
 h1: "Security Services in Israel"
 risk_level: "critical"

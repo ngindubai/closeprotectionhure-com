@@ -1,6 +1,6 @@
 ---
 title: "Event Security in London"
-description: "Corporate event security in London for conferences, product launches, and private functions. Terrorism-aware venue assessment, SIA-licensed close protection, and access control from vetted operators."
+description: "Corporate event security in London for conferences, product launches, and private functions. Terrorism-aware venue assessment, SIA-licensed close protection, and access."
 slug: "london"
 h1: "Event Security in London"
 city: "London"
@@ -45,3 +45,4 @@ The UK has a developed private security regulatory framework. All close protecti
 Vehicle exclusion is a standard consideration for London events in central locations. The 2017 vehicle ramming attacks demonstrated that vehicle access management is an operational requirement rather than an aesthetic choice.
 
 For events on politically sensitive topics, protest risk assessment is part of the planning process. London's protest culture is active and Protected protests can affect venue access and event logistics.
+For the wider security picture, see our [London city security briefing](/cities/london/), and our [event security service](/services/event-security/) for how we structure protective coverage.
