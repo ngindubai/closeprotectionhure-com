@@ -17,6 +17,10 @@ faqs:
     answer: "Security measures scale with threat level and vessel profile. Baseline measures include: crew security awareness training, controlled boarding procedures, anchor watch when in populated anchorages, AIS management (privacy mode where legally permissible), secure communication equipment, and medical capability for offshore operations. In higher-risk regions: armed security team aboard, citadel (secure room) for worst-case shelter, and coordination with naval patrols where available."
   - question: "How should shore excursions be managed for high-profile superyacht principals?"
     answer: "Shore excursions are the primary exposure point for superyacht principals in elevated-risk environments: the vessel itself is a controlled security environment, the shore is not. Planning should include: pre-arrival intelligence on the port and surrounding area, vetted local transport rather than tendering to random locations, advance work for any venues visited, and close protection officers accompanying the principal ashore in higher-risk ports."
+  - question: "How should shore excursions be planned for high-profile principals?"
+    answer: "Shore stops are the main exposure point of a cruise or superyacht itinerary, since the controlled vessel environment gives way to an unfamiliar destination. Pre-assessed excursions, vetted local transport, and discreet protection scaled to the location are the standard measures."
+  - question: "What access and crew controls suit a superyacht?"
+    answer: "Vessel security combines access control at the marina and gangway, crew vetting, and awareness of local maritime crime patterns. For high-profile principals these measures are coordinated with the captain and crew as part of the overall security plan."
 ---
 
 Luxury cruising and superyacht voyages create a security environment that combines the relatively controlled setting of the vessel with the unpredictability of port calls, shore excursions, and maritime routing through areas of varying threat.

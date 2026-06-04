@@ -17,6 +17,10 @@ faqs:
     answer: "Diplomatic protection is provided by state agencies (police, military, specialist units) and operates under government authority. It can involve powers, equipment, and coordination mechanisms not available to commercial operators. Commercial close protection must operate within the legal framework applicable to private security in each jurisdiction. The two can work alongside each other but the lead, coordination, and command sits with the state element."
   - question: "How is protocol handled in close protection for officials?"
     answer: "Protocol (the rules governing official conduct, seating, precedence, and public presentation) is a consideration that does not apply in standard corporate close protection. Officers working in this environment must understand and respect protocol requirements without allowing them to compromise security. This requires both training and briefing specific to each assignment."
+  - question: "When do serving officials engage private close protection?"
+    answer: "Serving heads of state and senior ministers are normally protected by state agencies, but former officials, officials travelling in a private capacity, and lower-tier officials without a state detail frequently engage commercial providers. The provider's role is to deliver protection while coordinating with any host-nation or state security involved."
+  - question: "How is liaison with state security handled for protected officials?"
+    answer: "Where a principal also has state protection or attends events with state protectees present, advance coordination prevents friction at access points and confusion over armed personnel. Experienced providers treat this liaison as a routine part of advance planning rather than an afterthought."
 ---
 
 Security for government officials operates in a more complex environment than standard corporate close protection. The threat profile is often higher, the public exposure is greater, the protocol requirements are more demanding, and the interface with state security apparatus creates coordination considerations that do not apply in the private sector.

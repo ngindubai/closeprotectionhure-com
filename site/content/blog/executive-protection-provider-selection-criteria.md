@@ -17,6 +17,10 @@ faqs:
     answer: "Both models can deliver professional service. Large agencies offer bench depth, multi-jurisdictional capacity, and administrative infrastructure. Independent operators or small teams can offer deeper operational focus and principal continuity. The selection criteria apply to both: verify licensing, check references, confirm insurance, and assess operational methodology."
   - question: "How do I verify that a close protection officer is genuinely licensed?"
     answer: "In the UK, SIA licence numbers can be verified on the SIA public register at sia.homeoffice.gov.uk. In the US, licensing is state-by-state: verify through the relevant state licensing authority. In other jurisdictions, request the licence document and verify with the issuing authority. Never rely on the operator's assertion alone."
+  - question: "What contractual and insurance checks should a buyer make?"
+    answer: "A credible provider carries appropriate liability insurance, can produce evidence of operator licensing and vetting, and works to a written contract that defines scope, command arrangements, and incident reporting. Buyers should ask for these documents directly rather than relying on marketing claims."
+  - question: "How can a client assess a provider's local capability in a specific city?"
+    answer: "Ask for evidence of current, recent operations in that city, the licensing of the specific operators proposed, and references from comparable clients. Genuine local capability shows in detailed knowledge of the city's geography, hospitals, and access procedures rather than general assurances."
 ---
 
 The executive protection market is uneven. At one end are highly professional, properly licensed operators with documented operational records and verifiable references. At the other are unlicensed individuals with a background in physical fitness and a confident manner. The price difference between them can be surprisingly small. The operational difference can be the difference between a well-managed incident and a catastrophic failure.

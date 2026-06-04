@@ -17,6 +17,10 @@ faqs:
     answer: "The answer is proportionality and transparency. Proportionate monitoring focuses on high-risk access points (sensitive data repositories, physical access logs for secure areas) rather than general employee behaviour. Transparency means employees know what is monitored and why, which itself is a deterrent to malicious insiders and does not significantly affect legitimate behaviour."
   - question: "What are the most common indicators of a malicious insider?"
     answer: "Behavioural indicators include: accessing systems or areas outside normal role requirements, downloading or copying large volumes of data (especially ahead of resignation), accessing sensitive information at unusual hours, unusual interest in colleagues' access credentials, expressing significant grievance against the organisation, and financial stress indicators where these are apparent. No single indicator is definitive; patterns matter more than individual instances."
+  - question: "How should organisations respond to a suspected insider threat?"
+    answer: "Response should follow a pre-agreed process involving security, HR, and legal, with care to protect evidence and the rights of the individual. Acting on suspicion without a structured process risks both legal exposure and tipping off a genuine threat actor. A documented escalation route prepared in advance is the key control."
+  - question: "What role does access control play in mitigating insider risk?"
+    answer: "Limiting access to sensitive systems and locations on a need-to-know basis reduces the damage any single insider can do. Regular review of access rights, prompt removal of access when roles change or staff leave, and logging of access to critical assets are basic and effective measures."
 ---
 
 Insider threat is the risk that people with authorised access to an organisation's assets (employees, contractors, partners) use that access to cause harm. It is one of the most difficult security risks to manage because the controls that prevent external threats (access control, perimeter security) specifically grant the insider access.

@@ -17,6 +17,10 @@ faqs:
     answer: "Legal professional privilege means law firms hold highly sensitive information about clients' most confidential matters. This makes them targets for corporate espionage, foreign state intelligence collection, and in some practice areas, criminal intelligence operations. Strong cyber security is essential: law firms are specifically targeted by sophisticated threat actors. Physical security for paper files and document storage matters too, even in the digital age."
   - question: "Is close protection ever required for legal professionals?"
     answer: "Yes, in specific circumstances. Lawyers handling major organised crime cases have required personal protection in the UK, particularly those working with witness protection and in jurisdictions with significant organised crime. Lawyers working internationally in high-risk jurisdictions may require protective security. Human rights lawyers in certain countries face systematic targeting by state actors. The specific threat assessment drives the protective response."
+  - question: "When do legal professionals require close protection?"
+    answer: "Close protection is occasionally warranted for lawyers handling cases that attract serious threats, such as organised-crime prosecutions or high-stakes disputes involving dangerous parties. For most practitioners the relevant measures are information security and awareness rather than personal protection."
+  - question: "How should law firms protect privileged information physically?"
+    answer: "Protecting privilege has a physical dimension: controlling access to case material, securing devices and documents, and managing visitors and cleaning or contractor access to sensitive areas. These measures complement the firm's cyber controls."
 ---
 
 Law firms and legal professionals occupy an unusual security position: they hold highly sensitive client information under professional privilege, they represent clients in adversarial proceedings that can generate intense opposing party hostility, and they work in an environment where security is not always culturally prioritised.

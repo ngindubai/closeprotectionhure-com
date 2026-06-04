@@ -17,6 +17,10 @@ faqs:
     answer: "Organised cargo theft uses multiple methods: facility theft from warehouses and depots (often involving inside knowledge), highway robbery and vehicle stop-and-robs, fictitious pick-ups (where criminals impersonate legitimate hauliers to collect loads), and cyber-enabled freight fraud (hijacking electronic communications to divert shipments). The sophistication of attacks has increased significantly in the past decade."
   - question: "What technology is most effective for supply chain security?"
     answer: "Track and trace technology: GPS and cellular tracking on vehicles and containers, RFID for pallet and unit-level tracking, and remote monitoring platforms that provide real-time visibility of cargo in transit. Technology is most effective when combined with human security measures: vetted drivers, secure facilities, and trained security personnel at high-risk nodes."
+  - question: "How is cargo theft from logistics operations reduced?"
+    answer: "Cargo theft is reduced through route planning, secure parking, tracking, seal integrity checks, and vetting of drivers and partners, since organised crime often exploits predictable stops and insider knowledge. The weakest points are typically stationary periods and handovers."
+  - question: "How should companies secure complex international supply chains?"
+    answer: "Securing a supply chain means assessing partners and sites along the route, building visibility through tracking, and planning for disruption from crime, conflict, or chokepoint closures. Resilience and continuity planning are as important as preventing individual losses."
 ---
 
 Supply chain and logistics security addresses the protection of goods in transit and storage across increasingly complex global supply chains. As supply chains have extended geographically and become more tightly integrated, the security vulnerabilities within them have grown proportionally.

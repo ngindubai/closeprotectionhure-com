@@ -17,6 +17,10 @@ faqs:
     answer: "Animal rights activists have significantly escalated their targeting of farming operations in recent years. This includes: night-time incursions to film conditions for social media campaigns, release of livestock, physical obstruction of farm vehicles, harassment of farm staff, and in some documented cases, threats against farm owners and staff. For intensive livestock, fur, and laboratory animal operations, activist targeting is a serious physical and operational security concern."
   - question: "How should farms protect against equipment theft?"
     answer: "Agricultural equipment theft requires a multi-layered approach: GPS tracking on all high-value equipment (covert backup trackers in addition to primary systems), key management controls, secure storage for keys and electronic fobs, perimeter security for equipment storage areas, and participation in farm watch schemes for intelligence sharing with neighbouring farms and police. Marking and registration of equipment reduces its value to thieves."
+  - question: "How should agricultural businesses approach rural site security?"
+    answer: "Farms and processing sites are often remote with long response times, so layered measures matter: perimeter controls, lighting, asset marking, secure storage for high-value equipment and agrochemicals, and clear reporting routes. Relationships with local police and neighbouring operators add useful early warning."
+  - question: "What food-supply integrity risks should the sector plan for?"
+    answer: "Beyond theft, the sector faces risks of contamination, sabotage, and disruption to supply that can carry serious public-safety and reputational consequences. Access control at processing facilities, staff vetting, and traceability systems are the core measures for protecting product integrity."
 ---
 
 The agriculture and food sector faces a diverse security challenge that ranges from the very traditional, rural crime and equipment theft, to the contemporary: activist infiltration of farming operations and sophisticated food fraud supply chain attacks.

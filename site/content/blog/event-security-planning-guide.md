@@ -17,6 +17,10 @@ faqs:
     answer: "Underestimating crowd numbers and the resulting access control requirements. Events consistently attract more attendees than planned, and the consequences (congestion at entry points, inadequate search capacity, perimeter breaches) cascade into significant security degradation. Planning for 20-30% above expected attendance in access control capacity provides necessary margin."
   - question: "Do I need a licence to provide event security?"
     answer: "In the UK, yes: event security personnel must hold SIA Door Supervisor or Security Guard licences as appropriate. In most jurisdictions, commercial security services at public events require licensing. The event organiser carries responsibility for ensuring their security contractor is properly licensed. Ask for licence numbers and verify them with the issuing authority."
+  - question: "How is event security resourcing calculated?"
+    answer: "Resourcing follows the risk assessment and the event profile: attendee numbers, the presence of high-profile guests, venue layout, and the threat picture all drive officer numbers and specialisations. Resourcing by a fixed ratio without reference to the specific risks is a common planning error."
+  - question: "What coordination with venues and authorities should event planning include?"
+    answer: "Effective event security involves advance liaison with the venue's own security, local police where appropriate, and medical and fire services. For larger events this coordination, including agreed communications and a shared incident plan, is as important as the on-the-day staffing."
 ---
 
 Event security planning is the process of identifying, assessing, and mitigating the security risks associated with a specific event. The scope ranges from a small corporate dinner requiring minimal additional security to a major international conference requiring extensive planning and a multi-agency security operation.

@@ -17,6 +17,10 @@ faqs:
     answer: "For a single-day visit, the advance typically takes place the day before and/or the morning of the visit. For complex multi-day programmes, advance work may begin several days earlier. The advance agent needs enough time to conduct a thorough assessment, establish contacts, and communicate findings to the team: rushing the advance defeats its purpose."
   - question: "Can advance work be done remotely using open-source research?"
     answer: "Desk research is a useful component of advance preparation but is not a substitute for physical venue assessment. Map data can be outdated. Emergency service response times estimated from published data may not reflect current reality. Meeting venues require physical inspection: photographs do not reveal service entrances, stairwell access, or the actual sight lines that protect or expose the principal. Physical presence is necessary."
+  - question: "What does an advance team produce for the principal's visit?"
+    answer: "The advance produces practical outputs: assessed routes and timings, venue and accommodation notes, identified hospitals and safe havens, and contingency plans, so the protection on the day runs against a known picture. Good advance work is what makes the visible detail look effortless."
+  - question: "How does advance work differ for a low-profile versus high-threat visit?"
+    answer: "For a routine low-profile visit the advance may be light, covering logistics and basic venue checks, while a high-threat visit involves detailed route analysis, liaison with local authorities, and rehearsed contingencies. The depth scales with the assessed threat and the principal's profile."
 ---
 
 Advance work is the pre-visit intelligence and planning activity conducted before a principal arrives at a location. It is one of the most operationally valuable components of close protection, and one of the most frequently cut when budgets are under pressure. Understanding what advance work actually involves explains why removing it is the most common high-cost error in security planning.

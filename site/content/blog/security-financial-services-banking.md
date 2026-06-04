@@ -17,6 +17,10 @@ faqs:
     answer: "Institutional security at major banks typically includes access control, visitor management, executive floor protocols, and in some cases residential security assessments for C-suite principals. The gap is usually in personal security during transit and travel: the period when the executive is outside institutional protections."
   - question: "How should banks handle activist protest threats?"
     answer: "Protest activity targeting financial institutions is predictable and manageable with professional planning. The key is advance intelligence on planned actions, route flexibility for executive arrivals and departures, and clear protocols for building access during active demonstrations. Most protest-related security incidents result from poor planning rather than organised violence."
+  - question: "What threats most affect senior banking executives?"
+    answer: "Banking executives can face activist protest, grievance-driven threats, and targeting linked to specific transactions or restructurings. Most exposure is managed through event and travel planning, residential assessment where warranted, and information security around movements rather than a permanent protective detail."
+  - question: "How should financial institutions handle protest at premises and events?"
+    answer: "Planning combines access control, separation of protest from operations, and protection of executives during arrivals and platform appearances, coordinated with the venue and police where appropriate. Anticipating activist interest around results announcements and AGMs is part of the calendar."
 ---
 
 Financial services executives operate in a sector that generates disproportionate public attention, political scrutiny, and in some cases active targeting. This is not hypothetical. The attempted assassination of UnitedHealthcare CEO Brian Thompson in December 2024 demonstrated that senior executives in finance-adjacent sectors face credible physical threats, and that perpetrators can be motivated by perceived institutional harm rather than personal grievance.

@@ -17,6 +17,10 @@ faqs:
     answer: "At minimum: access control with key fob or biometric entry, CCTV with remote monitoring, monitored intruder alarm with rapid response, and fire suppression appropriate for a vehicle storage environment. For collections of significant value: reinforced doors, vehicle immobilisation devices, OBD port locking, and in some cases, security personnel. Insurance requirements will specify minimum security standards: verify compliance."
   - question: "How should high-value vehicles be protected during transport and events?"
     answer: "Enclosed transport (rather than open trailer) for most high-value vehicles, reducing exposure during transit. GPS tracking on the transport vehicle. Vetted and insured specialist transporters with experience in high-value vehicle movement. At concours events and car shows, proximity to the vehicle and vigilance during public access periods. Avoid publicising specific vehicle movements and attendance at events on social media in advance."
+  - question: "How should a high-value vehicle collection be secured at rest?"
+    answer: "A storage facility benefits from layered measures: strong access control, intrusion detection, surveillance, fire suppression appropriate to fuel and battery risks, and discretion about the collection's location and contents. Insurer requirements often set a useful baseline to build on."
+  - question: "What are the risks when moving or displaying high-value vehicles?"
+    answer: "Movement and public display are points of elevated exposure to theft and targeting. Vetted transport, confidential logistics, and event-specific security planning, including managing who knows the schedule, reduce the opportunity for organised theft."
 ---
 
 High-value vehicle collections occupy a specific position in the asset security landscape. Unlike art held in secure museum or gallery conditions, or jewellery held in a safe, vehicles must move (they are driven, transported, and exhibited) creating multiple exposure points that require active security management.

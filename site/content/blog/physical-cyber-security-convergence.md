@@ -17,6 +17,10 @@ faqs:
     answer: "Physical access to network-connected systems. An attacker with physical access to an office (whether through tailgating, social engineering a receptionist, or after-hours access) can connect devices to the network, bypass many cyber controls, and access physical file stores containing sensitive documents. The access control that guards the door and the network access that guards the data are typically managed by different teams with different risk frameworks."
   - question: "How should organisations structure security to address convergence?"
     answer: "The structural answer is the Chief Security Officer (CSO) model: a single executive accountable for both physical and cyber security who can drive integrated risk assessment and response. For organisations not yet at that structural maturity, the minimum viable approach is a joint security committee or working group with both physical and cyber security representation, joint threat assessment processes, and shared incident response protocols."
+  - question: "How can attackers move between physical and cyber domains?"
+    answer: "Convergence works both ways: physical access to a building can enable a network compromise, while a cyber intrusion can disable cameras, access control, or alarms. Treating the two as separate disciplines leaves the seams between them exposed, which is exactly where capable attackers operate."
+  - question: "What governance change best supports convergence?"
+    answer: "Aligning physical and cyber security under shared oversight, with joint risk assessment and incident response, addresses the gap that siloed teams create. Even where the teams remain separate, a common reporting line and shared exercises help close the coordination weaknesses."
 ---
 
 The separation between physical security and cybersecurity is an organisational convention that does not reflect how attacks actually work. Sophisticated threat actors (state actors, organised criminal groups, advanced persistent threat teams) exploit the gaps that this separation creates.

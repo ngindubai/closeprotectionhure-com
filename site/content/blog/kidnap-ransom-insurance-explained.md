@@ -17,6 +17,10 @@ faqs:
     answer: "Yes, emphatically. The existence of K&R coverage should not be disclosed to people outside those who need to know for response purposes. Disclosure that an organisation or individual is insured against kidnap creates an incentive for targeting and may affect ransom demands. Most K&R policies include a confidentiality requirement. The policy should be held securely and access limited."
   - question: "Does having K&R insurance mean I don't need security measures?"
     answer: "No. K&R insurance responds after an incident occurs. Physical security measures (close protection, secure transport, advance work, residential security) reduce the probability that an incident occurs. K&R insurance and security measures are complementary, not alternatives. Most specialist K&R insurers expect and encourage appropriate security measures; some policies include pre-incident security consultancy services."
+  - question: "Who typically arranges and holds a K&R policy?"
+    answer: "K&R cover is usually arranged by the employing organisation or, for UHNWI families, through a specialist broker, and the existence and terms are kept tightly confidential. A defining feature is that the policy funds access to a professional response consultancy, which is often the most valuable element in practice."
+  - question: "Does K&R insurance pay ransoms directly?"
+    answer: "Policies typically reimburse a ransom paid by the insured and cover associated costs such as the response consultant, medical care, and legal expenses, rather than the insurer paying a kidnapper directly. The exact mechanism and the legal constraints on ransom payment vary by jurisdiction, which is why specialist advice matters."
 ---
 
 Kidnap and ransom (K&R) insurance is one of the most misunderstood products in the corporate risk management toolkit. It is not a substitute for security planning, it is not a guarantee of safe recovery, and its existence should be treated as confidential. What it does provide, when a kidnapping occurs, is access to experienced specialist response resources that can make a material difference to the outcome.

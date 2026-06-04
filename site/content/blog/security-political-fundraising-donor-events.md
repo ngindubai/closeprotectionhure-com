@@ -17,6 +17,10 @@ faqs:
     answer: "Donor confidentiality is both a legal requirement (in some jurisdictions) and an operational security consideration. Photography and recording by guests or staff creates a record of attendance that can be used politically. Security planning should include: a clear no-photography policy with enforcement, NDAs for event staff, and positioning of security to prevent photography of attendee check-in and registration. Venue selection should consider the ability to control external sight lines."
   - question: "What is the standard security configuration for a senior political principal at a fundraising event?"
     answer: "For cabinet-level or senior elected officials, dedicated close protection (either official protection or private, depending on the jurisdiction and the individual's status) plus venue security coordination. The political principal's arrival and departure, typically the highest risk periods, require specific planning including vehicle positioning, controlled access route, and media management."
+  - question: "How is donor confidentiality protected at political events?"
+    answer: "Protecting attendee identities involves controlling guest lists, managing photography and media access, and securing the venue against intrusion or surveillance. For sensitive events, discretion about the location and attendees is part of the security plan."
+  - question: "What protective posture suits a senior political principal at a fundraiser?"
+    answer: "The typical configuration combines a personal protection element with venue security, advance work on arrivals and departures, and coordination with any state protection the principal carries. The posture is scaled to the principal's status and any current specific threat."
 ---
 
 Political fundraising events occupy a specific position in the event security landscape. They are targeted by opposition researchers, journalists, and activists; they concentrate politically exposed persons; and they occur in a charged environment where security incidents have political as well as physical consequences.

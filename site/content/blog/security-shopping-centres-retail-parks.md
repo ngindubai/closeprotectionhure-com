@@ -17,6 +17,10 @@ faqs:
     answer: "Through a combination of physical measures (hostile vehicle mitigation barriers, CCTV, security personnel), intelligence (liaison with police Counter Terrorism Security Adviser and sharing of threat information), training (ACT Awareness Counter Terrorism training for all staff), and planning (tested lockdown and evacuation protocols). The objective is to detect and deter, and to minimise harm if an incident occurs through rapid response."
   - question: "What licence do shopping centre security personnel need in the UK?"
     answer: "Security personnel in shopping centres must hold SIA Door Supervisor or Security Guard licences as appropriate. CCTV operators must hold a CCTV licence. Management roles in security may require additional qualifications. All security contractors must be SIA-licensed, and centres must ensure their security provider is an SIA Approved Contractor where required."
+  - question: "How do shopping centres balance open access with security?"
+    answer: "Centres are deliberately open to the public, so security relies on visible patrolling, surveillance, control of service and back-of-house areas, and well-rehearsed incident and evacuation procedures rather than hard access control. Crowd management at peak times is a constant consideration."
+  - question: "How is terrorism risk addressed at crowded retail venues?"
+    answer: "Crowded retail sites address terrorism risk through staff vigilance and training, hostile-reconnaissance awareness, vehicle-mitigation at entrances where warranted, and tested evacuation and invacuation plans. UK venues increasingly align this with protective-security guidance for crowded places."
 ---
 
 Shopping centres and retail parks are among the most complex public security environments: combining high footfall, open access by design, diverse user populations, and the commercial imperative of a welcoming atmosphere that cannot be compromised by visible fortress-like security measures.

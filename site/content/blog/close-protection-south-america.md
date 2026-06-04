@@ -17,6 +17,10 @@ faqs:
     answer: "Language matters operationally. A protection team without Portuguese capability in Brazil operates at a significant disadvantage: communication with local emergency services, reading threat indicators in local media, and effective advance work all require Portuguese. Quality security providers in Brazil will have native Portuguese-speaking operators. Importing an English-speaking team without local language support creates operational gaps."
   - question: "What is the kidnap situation in South America currently?"
     answer: "Brazil has the region's highest kidnap volume, concentrated in Rio de Janeiro and São Paulo. Colombia maintains elevated risk despite improvements following the FARC peace process; BACRIM criminal groups and the ELN continue operations. Venezuela is effectively ungoverned in many areas and has significant kidnap risk. Chile, Uruguay, and Argentina present lower kidnap risk relative to other regional markets."
+  - question: "How should security teams handle the variation in risk across South America?"
+    answer: "Risk varies sharply between and within countries, so a single regional plan is inappropriate. Caracas and parts of Venezuela sit at the extreme end, while Santiago and much of Chile are comparatively low-risk. Each itinerary needs a country-specific and city-specific assessment rather than a continental generalisation."
+  - question: "What ground transport measures are standard in higher-risk South American cities?"
+    answer: "In cities with significant express-kidnapping and carjacking risk, vetted drivers with tracked vehicles, varied routing, and avoidance of stationary exposure at predictable points are the standard measures. Street-hailed taxis are a documented risk vector and are avoided."
 ---
 
 South America's security landscape is one of the most varied of any world region. Countries separated by a few hundred kilometres can present radically different security environments: compare Uruguay's relative stability with Venezuela's near-collapse, or Santiago's manageable corporate security environment with Caracas's extreme risk profile.

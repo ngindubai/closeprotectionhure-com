@@ -17,6 +17,10 @@ faqs:
     answer: "Policy should specify clear triggers rather than leaving it to ad hoc decision. Standard triggers include: FCDO Level 3 (Advise Against All But Essential Travel) or Level 4 destinations; threat intelligence indicating a specific threat to the individual or organisation; post-incident travel in the aftermath of a security event; and travel to destinations with kidnap risk ratings above a defined threshold. The threshold should be specific and reviewable."
   - question: "How often should a travel security policy be reviewed?"
     answer: "Annually as a minimum, and whenever there is a material change in the organisation's risk profile or operating geography. Following a significant incident involving a peer organisation or a major change in the threat environment in a key destination, interim review is appropriate. Policy should have a named owner and a clear review date."
+  - question: "Who should own and enforce a corporate travel security policy?"
+    answer: "Ownership usually sits with a security, risk, or HR function with clear executive backing, because a policy without enforcement is of little value. Effective policies define who approves higher-risk travel, what pre-travel steps are mandatory, and the consequences of bypassing the process."
+  - question: "How should a travel policy handle employees already in-country when a situation deteriorates?"
+    answer: "The policy should pre-define monitoring, decision thresholds, and a response capability rather than improvising during a crisis. This includes how staff are tracked, who decides on relocation or evacuation, and which provider executes it. Planning this in advance is the difference between a controlled response and a scramble."
 ---
 
 A corporate travel security policy defines how the organisation manages the security risks associated with employee and executive travel. It is both a governance document and an operational guide, and it serves a critical duty of care function.

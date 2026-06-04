@@ -17,6 +17,10 @@ faqs:
     answer: "For passports, cash, and documents: yes. Hotel safes provide adequate protection against opportunistic access, though they are not impenetrable. Never store device passwords, encryption keys, or highly sensitive documents in a hotel safe in high-risk jurisdictions: room access by hotel staff or third parties cannot always be ruled out."
   - question: "How do I know if my room has been accessed?"
     answer: "Standard indicators: drawers or luggage moved from where you left them, items disturbed in the bathroom, laptop or device moved, a toilet roll end refolded (a common hotel housekeeping practice that also indicates entry). In high-risk environments, use a door alarm or small tell-tale (a piece of paper under the door) if you have concerns."
+  - question: "What should a business traveller check when selecting a hotel?"
+    answer: "Relevant factors include access control to guest floors, the quality of the hotel's own security, the neighbourhood, and proximity to medical facilities. International-standard properties in established business districts generally offer better baseline security than budget options in unfamiliar areas."
+  - question: "How should travellers handle hotel arrivals and departures?"
+    answer: "Arrivals and departures are predictable points of exposure. Pre-arranged transfers, avoiding lingering in the lobby with luggage, and using a side or secured entrance where a principal has a profile all reduce risk. For higher-profile guests, advance coordination with hotel security is appropriate."
 ---
 
 Hotels represent the most consistent physical security gap in corporate travel. They are shared buildings with multiple access points, limited control over who enters, and frequent turnover of both guests and staff. For most business travellers, a few basic practices close the most significant risks.

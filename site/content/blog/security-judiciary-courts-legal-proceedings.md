@@ -17,6 +17,10 @@ faqs:
     answer: "UK judicial security is managed through a combination of court security (managed by HMCTS), police protective security for specific threatened individuals, and judicial awareness and personal security guidance provided by the Judicial Security Branch. Judges who receive specific threats or are assessed as facing elevated risk are provided with appropriate protective measures. The level of protection is proportionate to the specific threat assessment."
   - question: "What security is required for high-profile trials?"
     answer: "High-profile trials (involving organised crime, terrorism, or major public interest cases) require specific security planning beyond the baseline. This covers: defendant security in custody and in court, witness protection if required, juror security considerations, management of public and press access, and in some cases, armed police presence for the highest-risk proceedings."
+  - question: "What measures protect judges facing threats?"
+    answer: "Protection for judicial figures can include residential security assessment, secure travel arrangements, and, in serious cases, personal protection, usually coordinated with the relevant authorities. The trigger is a specific assessed threat linked to particular cases or roles."
+  - question: "How is security managed for high-profile or sensitive trials?"
+    answer: "High-profile trials involve enhanced court security, managed access, protection of witnesses and jurors where required, and planning for the arrival and departure of at-risk participants. This is normally led by court and police authorities with specialist support as needed."
 ---
 
 Judicial security addresses a distinctive threat environment: judicial figures make high-consequence decisions that generate intense individual grievance, in proceedings where the identities of decision-makers are public record, creating targeting opportunities that most professions do not face.
