@@ -1,6 +1,6 @@
 ---
 title: "Panama City"
-description: "Close protection and security services in Panama City, Panama. Executive protection, security drivers, and risk assessment for corporate travel to Central America's financial hub."
+description: "Close protection and security services in Panama City, Panama. Executive protection, security drivers, and risk assessment for corporate travel to Central America's financial."
 slug: "panama-city"
 h1: "Close Protection in Panama City, Panama"
 country: "Panama"

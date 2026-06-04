@@ -1,6 +1,6 @@
 ---
 title: "Active Shooter and Workplace Violence Response: What Organisations Need"
-description: "Practical guidance on active shooter and workplace violence preparedness for organisations. Covers threat assessment, response protocols, training, lockdown procedures, and the role of close protection in high-risk environments."
+description: "Practical guidance on active shooter and workplace violence preparedness for organisations. Covers threat assessment, response protocols, training, lockdown procedures,."
 date: "2026-03-01"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

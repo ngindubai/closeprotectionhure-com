@@ -1,6 +1,6 @@
 ---
 title: "Security for AGMs and Shareholder Meetings"
-description: "Security planning for annual general meetings and shareholder events. Covers the specific threats at AGMs including activist shareholders, protest groups, and media, plus access control, executive protection, and incident management."
+description: "Security planning for annual general meetings and shareholder events. Covers the specific threats at AGMs including activist shareholders, protest groups."
 date: "2026-02-05"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

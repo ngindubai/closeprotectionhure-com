@@ -1,6 +1,6 @@
 ---
 title: "Event Security in Sydney"
-description: "Corporate event security in Sydney for conferences, major summits, and private functions. Terrorism-aware venue assessment, licensed close protection, and access control in Australia's business capital."
+description: "Corporate event security in Sydney for conferences, major summits, and private functions. Terrorism-aware venue assessment, licensed close protection, and access control."
 slug: "sydney"
 h1: "Event Security in Sydney"
 city: "Sydney"

@@ -1,6 +1,6 @@
 ---
 title: "New York"
-description: "Close protection and executive security in New York City. Licensed operators for corporate executives, UHNWI principals, and high-profile visitors to Manhattan and the wider metro area."
+description: "Close protection and executive security in New York City. Licensed operators for corporate executives, UHNWI principals, and high-profile visitors to Manhattan and the wider."
 slug: "new-york"
 h1: "Close Protection in New York"
 country: "United States"

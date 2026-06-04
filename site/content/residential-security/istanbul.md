@@ -1,6 +1,6 @@
 ---
 title: "Residential Security in Istanbul"
-description: "Residential security for expatriates in Istanbul, Turkey. OGG-certified operators, European and Asian side property assessment, domestic staff vetting, and terrorism awareness."
+description: "Residential security for expatriates in Istanbul, Turkey. OGG-certified operators, European and Asian side property assessment, domestic staff vetting, and terrorism."
 slug: "istanbul"
 h1: "Residential Security in Istanbul, Turkey"
 country: "Turkey"

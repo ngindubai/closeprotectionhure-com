@@ -1,6 +1,6 @@
 ---
 title: "Close Protection in the Caribbean Islands"
-description: "Close protection and executive security across the Caribbean. Covers the major island groups, risk profiles for Jamaica, Trinidad, Haiti, the Dominican Republic, and the British, French, and Dutch territories. Guidance for yacht security and UHNWI visitors."
+description: "Close protection and executive security across the Caribbean. Covers the major island groups, risk profiles for Jamaica, Trinidad, Haiti, the Dominican Republic."
 date: "2026-03-10"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

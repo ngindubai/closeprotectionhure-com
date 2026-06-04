@@ -1,11 +1,11 @@
 ---
 title: "Close Protection in India: A Practical Guide"
-description: "Close protection and executive security in India. Covers the regulatory framework under PSARA, city-by-city risk profiles for Mumbai, Delhi, Bangalore, and Hyderabad, armed and unarmed protection options, and operational guidance for visiting principals."
+description: "Close protection and executive security in India. Covers the regulatory framework under PSARA, city-by-city risk profiles for Mumbai, Delhi, Bangalore, and Hyderabad."
 date: "2026-03-12"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "close-protection-india"
-seo_title: "Close Protection India | Executive Security Guide | CloseProtectionHire.com"
+seo_title: "Close Protection India | Executive Security Guide"
 tags:
   - "india"
   - "close-protection"

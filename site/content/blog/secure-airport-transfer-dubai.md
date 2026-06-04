@@ -1,6 +1,6 @@
 ---
 title: "Secure Airport Transfer Dubai: What to Expect and How to Book"
-description: "What a professional secure airport transfer in Dubai involves, how it differs from a standard taxi or ride-hailing service, and what to look for when booking. Practical guidance for executives and HNWIs arriving at DXB or DWC."
+description: "What a professional secure airport transfer in Dubai involves, how it differs from a standard taxi or ride-hailing service, and what to look for when booking."
 date: "2026-05-27"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

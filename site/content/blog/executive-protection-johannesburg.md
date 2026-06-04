@@ -1,11 +1,11 @@
 ---
 title: "Executive Protection in Johannesburg: What a Professional Detail Actually Involves"
-description: "Johannesburg has one of the most active private security markets in Africa. This guide covers what a close protection engagement in Johannesburg looks like in practice, the PSIRA regulatory framework, armoured vehicle options, and what distinguishes genuine operators from those offering the label without the substance."
+description: "Johannesburg has one of the most active private security markets in Africa. This guide covers what a close protection engagement in Johannesburg looks like in practice,."
 date: "2026-05-27"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "executive-protection-johannesburg"
-seo_title: "Executive Protection in Johannesburg | Close Protection South Africa Guide"
+seo_title: "Executive Protection in Johannesburg"
 tags:
   - "johannesburg"
   - "south-africa"

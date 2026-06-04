@@ -1,6 +1,6 @@
 ---
 title: "Security Drivers in Nairobi: What the Carjacking Risk Actually Looks Like"
-description: "Nairobi's carjacking and robbery environment for vehicles is documented and specific. This guide explains what the risk actually is, which routes and times carry elevated danger, and what a vetted security driver does differently from a standard Uber booking."
+description: "Nairobi's carjacking and robbery environment for vehicles is documented and specific. This guide explains what the risk actually is, which routes and times carry elevated."
 date: "2026-05-27"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

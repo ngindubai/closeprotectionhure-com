@@ -1,6 +1,6 @@
 ---
 title: "Residential Security in Sao Paulo"
-description: "Residential security for expatriates in Sao Paulo, Brazil. DPF-authorised operators, Jardins and Itaim Bibi property assessment, domestic staff vetting, and armed robbery protocols."
+description: "Residential security for expatriates in Sao Paulo, Brazil. DPF-authorised operators, Jardins and Itaim Bibi property assessment, domestic staff vetting, and armed robbery."
 slug: "sao-paulo"
 h1: "Residential Security in Sao Paulo, Brazil"
 country: "Brazil"

@@ -1,6 +1,6 @@
 ---
 title: "Security for Government Affairs and Lobbying Operations"
-description: "Security considerations for government affairs and lobbying professionals. Covers the specific threats to lobbyists and public affairs teams, intelligence risks, protective security for advocacy operations, and security in the proximity of political principals."
+description: "Security considerations for government affairs and lobbying professionals. Covers the specific threats to lobbyists and public affairs teams, intelligence risks."
 date: "2026-02-05"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

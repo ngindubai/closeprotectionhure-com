@@ -1,6 +1,6 @@
 ---
 title: "Riyadh Travel Safety Guide: What to Know Before You Go"
-description: "Practical travel safety guide for Riyadh, Saudi Arabia. Pre-trip security checklist, cultural requirements, transport, accommodation, medical, and emergency protocols for business travellers."
+description: "Practical travel safety guide for Riyadh, Saudi Arabia. Pre-trip security checklist, cultural requirements, transport, accommodation, medical, and emergency protocols."
 date: "2026-05-28"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "travel-safety-guide-riyadh"

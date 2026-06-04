@@ -1,6 +1,6 @@
 ---
 title: "Security for Fintech and Cryptocurrency Executives"
-description: "Close protection and corporate security considerations specific to fintech and cryptocurrency sector executives. Covers physical threats from crypto holdings, exchange operator risks, activist targeting, and travel security for digital asset sector principals."
+description: "Close protection and corporate security considerations specific to fintech and cryptocurrency sector executives. Covers physical threats from crypto holdings."
 date: "2026-04-28"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

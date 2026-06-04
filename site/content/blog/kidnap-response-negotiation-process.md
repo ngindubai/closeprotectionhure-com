@@ -1,6 +1,6 @@
 ---
 title: "Kidnap Response and Negotiation Process: What Happens After an Abduction"
-description: "An overview of the kidnap response and negotiation process. Covers the first hours after an abduction, how professional crisis management teams operate, the negotiation process, communication with authorities, and the principal's return."
+description: "An overview of the kidnap response and negotiation process. Covers the first hours after an abduction, how professional crisis management teams operate, the negotiation."
 date: "2025-11-28"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

@@ -1,6 +1,6 @@
 ---
 title: "Event Security"
-description: "Security planning and on-ground teams for corporate events, conferences, and private functions in high-risk cities."
+description: "Security planning and on-ground teams for corporate events, conferences, and private functions in high-risk cities, from venue assessment to VIP protection."
 slug: "event-security"
 hero_image: "service-event-security-hero.jpg"
 parallax_image: "service-event-security-parallax.jpg"

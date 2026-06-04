@@ -1,6 +1,6 @@
 ---
 title: "Corporate Security Programme Design: A Framework for Security Directors"
-description: "A practical framework for designing and implementing a corporate security programme. Covers threat assessment, security architecture, policy development, vendor management, incident response, and the integration of physical and cyber security."
+description: "A practical framework for designing and implementing a corporate security programme. Covers threat assessment, security architecture, policy development, vendor management."
 date: "2026-04-18"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

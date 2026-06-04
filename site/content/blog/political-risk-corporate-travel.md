@@ -1,6 +1,6 @@
 ---
 title: "Political Risk and Corporate Travel: What Security Teams Need to Know"
-description: "How political risk affects corporate travel security. Covers elections, civil unrest, coups, sanctions, and the practical implications for business travellers and security planning teams managing travel in politically unstable environments."
+description: "How political risk affects corporate travel security. Covers elections, civil unrest, coups, sanctions, and the practical implications for business travellers and security."
 date: "2026-04-02"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

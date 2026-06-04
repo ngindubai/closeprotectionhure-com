@@ -1,6 +1,6 @@
 ---
 title: "Executive Protection in Lagos"
-description: "Comprehensive executive protection in Lagos, Nigeria. NSCDC-licensed CPOs, armed cover, kidnap risk assessment, and pre-travel threat briefing for Nigeria's commercial capital."
+description: "Comprehensive executive protection in Lagos, Nigeria. NSCDC-licensed CPOs, armed cover, kidnap risk assessment, and pre-travel threat briefing for Nigeria's commercial."
 slug: "lagos"
 h1: "Executive Protection Services in Lagos, Nigeria"
 seo_title: "Executive Protection Lagos | NSCDC EP Services | Nigeria"

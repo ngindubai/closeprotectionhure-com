@@ -1,6 +1,6 @@
 ---
 title: "Berlin"
-description: "Close protection and executive security in Berlin. German-licensed operators for corporate executives and high-profile principals. Terrorism awareness and event security across Germany's capital."
+description: "Close protection and executive security in Berlin. German-licensed operators for corporate executives and high-profile principals."
 slug: "berlin"
 h1: "Close Protection in Berlin"
 country: "Germany"

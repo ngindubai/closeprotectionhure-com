@@ -1,6 +1,6 @@
 ---
 title: "Close Protection in Japan and South Korea"
-description: "Close protection and executive security in Japan and South Korea. Covers the security environment, licensing frameworks, specific considerations for high-profile principals, and operational guidance for visiting executives."
+description: "Close protection and executive security in Japan and South Korea. Covers the security environment, licensing frameworks, specific considerations for high-profile principals."
 date: "2026-03-15"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

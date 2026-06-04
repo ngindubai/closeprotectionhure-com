@@ -1,6 +1,6 @@
 ---
 title: "Terms and Conditions"
-description: "Terms governing the use of CloseProtectionHire.com and the arrangement of security services through this platform."
+description: "Terms governing the use of CloseProtectionHire.com and the arrangement of security services through this platform, including liability and acceptable use."
 slug: "terms"
 ---
 

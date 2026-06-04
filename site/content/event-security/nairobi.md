@@ -1,6 +1,6 @@
 ---
 title: "Event Security in Nairobi"
-description: "Event security for corporate conferences, summits, and private functions in Nairobi. Venue assessment, armed close protection, access control, and emergency planning for Nairobi's high-risk environment."
+description: "Event security for corporate conferences, summits, and private functions in Nairobi. Venue assessment, armed close protection, access control, and emergency planning."
 slug: "nairobi"
 h1: "Event Security in Nairobi"
 city: "Nairobi"

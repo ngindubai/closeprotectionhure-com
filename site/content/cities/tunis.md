@@ -1,6 +1,6 @@
 ---
 title: "Tunis"
-description: "Close protection and security services in Tunis, Tunisia. Executive protection, security drivers, and risk assessment for corporate travel to North Africa's Mediterranean capital."
+description: "Close protection and security services in Tunis, Tunisia. Executive protection, security drivers, and risk assessment for corporate travel to North Africa's Mediterranean."
 slug: "tunis"
 h1: "Close Protection in Tunis, Tunisia"
 country: "Tunisia"

@@ -1,6 +1,6 @@
 ---
 title: "What Is Advance Work in Close Protection?"
-description: "A practical explanation of advance work in close protection operations. Covers what an advance entails, who conducts it, what it assesses, and why removing the advance is the most common and costly security planning error."
+description: "A practical explanation of advance work in close protection operations. Covers what an advance entails, who conducts it, what it assesses, and why removing the advance is."
 date: "2026-04-15"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

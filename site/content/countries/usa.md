@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "Executive protection and close protection services across the United States. Licensed bodyguards in New York, Los Angeles, Miami, and all major US cities from vetted operators."
+description: "Executive protection and close protection services across the United States. Licensed bodyguards in New York, Los Angeles, Miami, and all major US cities from vetted."
 slug: "usa"
 h1: "Security Services in the United States"
 risk_level: "medium"

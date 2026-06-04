@@ -1,11 +1,11 @@
 ---
 title: "Is Manila Safe for Business Travel? A Security Assessment for Corporate Visitors"
-description: "Manila combines a significant business environment with genuine security challenges. Kidnapping, crime in specific districts, and infrastructure limitations create a threat picture that requires honest assessment rather than blanket reassurance."
+description: "Manila combines a significant business environment with genuine security challenges. Kidnapping, crime in specific districts, and infrastructure limitations create a threat."
 date: "2026-05-27"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"
 slug: "is-manila-safe-for-business-travel"
-seo_title: "Is Manila Safe for Business Travel? | Philippines Security Assessment 2026"
+seo_title: "Is Manila Safe for Business Travel?"
 tags:
   - "manila"
   - "philippines"

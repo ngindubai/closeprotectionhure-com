@@ -1,6 +1,6 @@
 ---
 title: "Venue Security Assessment"
-description: "Security assessment for corporate event venues, conference facilities, and meeting locations in high-risk cities."
+description: "Security assessment for corporate event venues, conference facilities, and meeting locations in high-risk cities, covering access, perimeter, and emergencies."
 slug: "venue-security"
 hero_image: "assessment-venue-hero.jpg"
 parallax_image: "assessment-venue-parallax.jpg"

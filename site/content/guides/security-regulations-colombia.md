@@ -1,6 +1,6 @@
 ---
 title: "Private Security Regulations in Colombia: A Guide for Operators and Corporate Clients"
-description: "A guide to private security regulations in Colombia. Covers Superintendencia de Vigilancia y Seguridad Privada (SuperVigilancia) licensing, armed security provisions, and what foreign executives need to know when using security services in Bogota and throughout Colombia."
+description: "A guide to private security regulations in Colombia. Covers Superintendencia de Vigilancia y Seguridad Privada (SuperVigilancia) licensing, armed security provisions,."
 date: "2025-12-20"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-regulations-colombia"

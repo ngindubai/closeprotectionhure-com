@@ -1,11 +1,11 @@
 ---
 title: "Security Driver vs Taxi: Why Executives in Lagos Travel Differently"
-description: "In Lagos, how you move is as important as where you go. This guide explains why corporate travellers and executives choose vetted security drivers over conventional transport, what the Lagos ground transport risk picture actually looks like, and what a professional driving detail involves."
+description: "In Lagos, how you move is as important as where you go. This guide explains why corporate travellers and executives choose vetted security drivers over conventional."
 date: "2026-05-27"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-driver-lagos-vs-taxi"
-seo_title: "Security Driver in Lagos | Why Executives Don't Use Taxis | CloseProtectionHire.com"
+seo_title: "Security Driver in Lagos | Why Executives Don't Use Taxis"
 tags:
   - "lagos"
   - "nigeria"

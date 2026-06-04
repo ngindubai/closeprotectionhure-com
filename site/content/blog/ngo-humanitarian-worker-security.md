@@ -1,6 +1,6 @@
 ---
 title: "NGO and Humanitarian Worker Security: Principles and Practice"
-description: "Security principles and practical measures for NGO and humanitarian workers operating in high-risk environments. Covers acceptance, deterrence, and protection strategies, duty of care for NGOs, field security management, and the specific risks facing aid workers."
+description: "Security principles and practical measures for NGO and humanitarian workers operating in high-risk environments. Covers acceptance, deterrence, and protection strategies."
 date: "2026-03-08"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

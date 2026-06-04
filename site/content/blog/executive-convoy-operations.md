@@ -1,6 +1,6 @@
 ---
 title: "Executive Convoy Operations: Planning and Execution"
-description: "A practical guide to executive convoy operations. Covers vehicle selection, team configuration, communication protocols, route planning, counter-surveillance, and emergency procedures for multi-vehicle close protection operations."
+description: "A practical guide to executive convoy operations. Covers vehicle selection, team configuration, communication protocols, route planning, counter-surveillance, and emergency."
 date: "2026-02-10"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

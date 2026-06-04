@@ -1,6 +1,6 @@
 ---
 title: "Security Vetting and Background Checks: A Corporate Guide"
-description: "A practical guide to security vetting and background checks for corporate organisations. Covers the purpose of vetting, check types (DBS, credit, reference, employment history), proportionality to role, legal requirements, and what to do when a check raises concerns."
+description: "A practical guide to security vetting and background checks for corporate organisations. Covers the purpose of vetting and the main check types."
 date: "2025-12-10"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

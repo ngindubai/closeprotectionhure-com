@@ -1,6 +1,6 @@
 ---
 title: "Baghdad"
-description: "Close protection and executive security in Baghdad, Iraq. Baghdad remains a HIGH-risk security environment with active threats from militia groups, kidnapping, and improvised explosive devices. All operations require current threat assessment and experienced local operators. This page outlines the operational security requirements for business travel to Baghdad."
+description: "Close protection and executive security in Baghdad, Iraq. Baghdad remains a HIGH-risk security environment with active threats from militia groups, kidnapping, and improvised."
 slug: "baghdad"
 h1: "Close Protection in Baghdad"
 country: "Iraq"

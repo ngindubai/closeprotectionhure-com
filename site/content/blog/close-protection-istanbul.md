@@ -1,11 +1,11 @@
 ---
 title: "Close Protection in Istanbul: What Corporate Visitors Need to Know"
-description: "Istanbul is Turkey's largest city and a major business hub connecting Europe and Asia. This guide covers the current threat picture, the Law 5188 licensing framework for close protection operators, and what a professional security engagement looks like in the city."
+description: "Istanbul is Turkey's largest city and a major business hub connecting Europe and Asia. This guide covers the current threat picture, the Law 5188 licensing framework."
 date: "2026-05-27"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "close-protection-istanbul"
-seo_title: "Close Protection in Istanbul | Turkey Bodyguard Guide | Security Services"
+seo_title: "Close Protection in Istanbul | Turkey Bodyguard Guide"
 tags:
   - "istanbul"
   - "turkey"

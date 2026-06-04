@@ -1,6 +1,6 @@
 ---
 title: "Tokyo"
-description: "Executive protection and security services in Tokyo. One of the world's safest major cities, with specific risks in entertainment districts and for high-profile visiting principals."
+description: "Executive protection and security services in Tokyo. One of the world's safest major cities, with specific risks in entertainment districts and for high-profile visiting."
 slug: "tokyo"
 h1: "Executive Protection in Tokyo"
 country: "Japan"

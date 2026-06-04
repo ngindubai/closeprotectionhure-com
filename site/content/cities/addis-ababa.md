@@ -1,6 +1,6 @@
 ---
 title: "Addis Ababa"
-description: "Close protection and executive security in Addis Ababa, Ethiopia. Active armed conflicts in Tigray, Amhara, and Oromia as of April 2026. Arbitrary detention risk, fuel shortages, and knifepoint attacks in the Bole district are current operational realities."
+description: "Close protection and executive security in Addis Ababa, Ethiopia. Active armed conflicts in Tigray, Amhara, and Oromia as of April 2026."
 slug: "addis-ababa"
 h1: "Close Protection in Addis Ababa"
 country: "Ethiopia"

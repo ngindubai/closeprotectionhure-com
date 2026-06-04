@@ -1,6 +1,6 @@
 ---
 title: "Dar es Salaam"
-description: "Close protection and executive security in Dar es Salaam, Tanzania. Express kidnapping forcing ATM and Western Union transfers, October 2025 election fatalities, UK Air Safety List airlines, and Al-Shabaab regional presence."
+description: "Close protection and executive security in Dar es Salaam, Tanzania. Express kidnapping forcing ATM and Western Union transfers, October 2025 election fatalities, UK Air."
 slug: "dar-es-salaam"
 h1: "Close Protection in Dar es Salaam"
 country: "Tanzania"

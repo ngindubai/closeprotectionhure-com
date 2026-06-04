@@ -1,6 +1,6 @@
 ---
 title: "Kathmandu"
-description: "Security services in Kathmandu, Nepal. Close protection and risk assessment for corporate travel in a city where political strikes, earthquake risk, and tourist-area crime require specific planning."
+description: "Security services in Kathmandu, Nepal. Close protection and risk assessment for corporate travel in a city where political strikes, earthquake risk, and tourist-area crime."
 slug: "kathmandu"
 h1: "Close Protection in Kathmandu"
 country: "Nepal"

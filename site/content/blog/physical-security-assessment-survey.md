@@ -1,6 +1,6 @@
 ---
 title: "Physical Security Assessment: What It Covers and Why You Need One"
-description: "A guide to physical security assessments for corporate facilities, residential properties, and event venues. Covers what assessors examine, what a good report contains, how findings translate into recommendations, and how to prioritise investment."
+description: "A guide to physical security assessments for corporate facilities, residential properties, and event venues. Covers what assessors examine, what a good report contains."
 date: "2025-12-15"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

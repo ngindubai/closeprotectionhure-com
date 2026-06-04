@@ -1,11 +1,11 @@
 ---
 title: "How to Select an Executive Protection Provider: Key Criteria"
-description: "The criteria that actually matter when selecting a close protection provider. Covers licensing verification, vetting standards, operational experience, insurance, and the red flags that disqualify providers regardless of price."
+description: "The criteria that actually matter when selecting a close protection provider. Covers licensing verification, vetting standards, operational experience, insurance, and the red."
 date: "2026-04-20"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "executive-protection-provider-selection-criteria"
-seo_title: "Executive Protection Provider Selection Criteria | CloseProtectionHire.com"
+seo_title: "Executive Protection Provider Selection Criteria"
 tags:
   - "executive-protection"
   - "provider-selection"

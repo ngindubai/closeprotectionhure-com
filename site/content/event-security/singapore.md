@@ -1,6 +1,6 @@
 ---
 title: "Event Security in Singapore"
-description: "Corporate event security in Singapore for conferences, investor summits, and private functions. SIRD-licensed protection, access control, and communications security for events in the regional hub."
+description: "Corporate event security in Singapore for conferences, investor summits, and private functions. SIRD-licensed protection, access control, and communications security."
 slug: "singapore"
 h1: "Event Security in Singapore"
 city: "Singapore"

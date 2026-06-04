@@ -1,6 +1,6 @@
 ---
 title: "Security for Luxury Automotive Collections"
-description: "Security for high-value classic and luxury vehicle collections. Covers storage facility security, transport security for high-value vehicles, insurance requirements, theft prevention technology, and close protection considerations during vehicle events."
+description: "Security for high-value classic and luxury vehicle collections. Covers storage facility security, transport security for high-value vehicles, insurance requirements."
 date: "2026-01-28"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

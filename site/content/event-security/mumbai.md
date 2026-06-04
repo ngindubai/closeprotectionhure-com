@@ -1,6 +1,6 @@
 ---
 title: "Event Security in Mumbai"
-description: "Corporate event security in Mumbai for business conferences, investor summits, and private functions. Terrorism risk management, VIP protection, and access control in India's financial capital."
+description: "Corporate event security in Mumbai for business conferences, investor summits, and private functions. Terrorism risk management and VIP protection."
 slug: "mumbai"
 h1: "Event Security in Mumbai"
 city: "Mumbai"

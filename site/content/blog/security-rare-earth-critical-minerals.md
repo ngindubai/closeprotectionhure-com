@@ -1,6 +1,6 @@
 ---
 title: "Security for Rare Earth and Critical Minerals Operations"
-description: "Security considerations for executives and operations in the rare earth and critical minerals sector. Covers the geopolitical context, field security in mining regions, executive protection for sector leadership, and the targeting of critical minerals supply chains by state actors."
+description: "Security considerations for executives and operations in the rare earth and critical minerals sector. Covers the geopolitical context, field security in mining regions."
 date: "2026-03-20"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

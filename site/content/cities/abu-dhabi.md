@@ -1,6 +1,6 @@
 ---
 title: "Abu Dhabi"
-description: "Close protection and executive security in Abu Dhabi. FCDO advises against all but essential travel due to regional security tensions. Houthi missile and drone attacks on UAE infrastructure are documented. Road conditions are the primary daily risk. All CP is unarmed under Abu Dhabi's licensing framework."
+description: "Close protection and executive security in Abu Dhabi. FCDO advises against all but essential travel due to regional security tensions."
 slug: "abu-dhabi"
 h1: "Close Protection in Abu Dhabi"
 country: "United Arab Emirates"

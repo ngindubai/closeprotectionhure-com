@@ -1,6 +1,6 @@
 ---
 title: "Private Security Regulations in Thailand: A Guide for Operators and Corporate Clients"
-description: "A guide to private security regulations in Thailand. Covers licensing under the Private Security Business Act, close protection rules for foreign executives, the southern Thailand exception, and practical considerations for Bangkok operations."
+description: "A guide to private security regulations in Thailand. Covers licensing under the Private Security Business Act, close protection rules for foreign executives, the southern."
 date: "2026-01-15"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-regulations-thailand"

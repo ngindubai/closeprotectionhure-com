@@ -1,6 +1,6 @@
 ---
 title: "Security for Remote and Off-Grid Operations"
-description: "Security planning for remote and off-grid operations. Covers field security in isolated environments, communication systems, medical evacuation planning, hostile environment training, and the specific challenges of providing security support far from emergency services."
+description: "Security planning for remote and off-grid operations. Covers field security in isolated environments, communication systems, medical evacuation planning, hostile environment."
 date: "2026-02-08"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

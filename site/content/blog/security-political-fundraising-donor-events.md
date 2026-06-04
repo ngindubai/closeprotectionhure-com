@@ -1,11 +1,11 @@
 ---
 title: "Security for Political Fundraising and Donor Events"
-description: "Security planning for political fundraising events and high-value donor gatherings. Covers access control, protest management, VIP protection for political principals, media management, and the specific security environment of politically charged events."
+description: "Security planning for political fundraising events and high-value donor gatherings. Covers access control, protest management, VIP protection for political principals."
 date: "2026-02-15"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-political-fundraising-donor-events"
-seo_title: "Security for Political Fundraising & Donor Events | CloseProtectionHire.com"
+seo_title: "Security for Political Fundraising & Donor Events"
 tags:
   - "political-events"
   - "fundraising"

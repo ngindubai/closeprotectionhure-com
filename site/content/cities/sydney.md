@@ -1,11 +1,11 @@
 ---
 title: "Sydney"
-description: "Close protection and executive security in Sydney. Australia's national terrorism threat level is PROBABLE following mass-casualty attacks in 2024 and 2025. NSW Security Industry Act 1997 governs all security operators. Licensed close protection, secure transport, and event security for corporate principals."
+description: "Close protection and executive security in Sydney. Australia's national terrorism threat level is PROBABLE following mass-casualty attacks in 2024 and 2025."
 slug: "sydney"
 h1: "Close Protection in Sydney"
 country: "Australia"
 risk_level: "moderate"
-seo_title: "Bodyguard Hire Sydney | Close Protection & Executive Security Australia"
+seo_title: "Bodyguard Hire Sydney | Close Protection Australia"
 threats:
   - type: "Terrorism"
     detail: "Australia's national terrorism threat level is PROBABLE, meaning an attack is likely. Sydney has suffered two significant mass-casualty incidents in consecutive years: the April 2024 Westfield Bondi Junction stabbings (6 killed) and the December 2025 Bondi Beach antisemitic attack (15 killed). Lone-actor attacks at crowded public venues are the primary threat vector. Jewish and Israeli-linked venues face elevated threat in the context of the Israel-Gaza conflict, per FCDO guidance (April 2026)."

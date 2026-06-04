@@ -1,11 +1,11 @@
 ---
 title: "Maritime Security: Shipping, Offshore Platforms, and Port Operations"
-description: "A guide to maritime security covering merchant shipping, offshore oil and gas platforms, port security, and the specific threat of piracy. Covers armed guards, Vessel Protection Detachments, the ISPS Code, and current piracy risk by region."
+description: "A guide to maritime security covering merchant shipping, offshore oil and gas platforms, port security, and the specific threat of piracy."
 date: "2026-02-12"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-maritime-shipping-offshore"
-seo_title: "Maritime Security: Shipping, Offshore & Ports | CloseProtectionHire.com"
+seo_title: "Maritime Security: Shipping, Offshore & Ports"
 tags:
   - "maritime"
   - "shipping"

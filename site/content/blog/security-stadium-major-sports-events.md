@@ -1,6 +1,6 @@
 ---
 title: "Security for Stadium and Major Sports Events"
-description: "A guide to security at stadiums and major sports events. Covers physical security architecture, access control, crowd management, VIP and executive suites, protest and disruption management, and post-incident response."
+description: "A guide to security at stadiums and major sports events. Covers physical security architecture, access control, crowd management, VIP and executive suites."
 date: "2026-01-10"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

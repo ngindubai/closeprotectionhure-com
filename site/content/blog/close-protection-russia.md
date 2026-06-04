@@ -1,11 +1,11 @@
 ---
 title: "Close Protection in Russia: Current Assessment"
-description: "An assessment of close protection and executive security in Russia in the current environment. Covers the FCDO advisory, sanctions implications, the operational environment for remaining businesses, and the security risks for foreign nationals who must travel to Russia."
+description: "An assessment of close protection and executive security in Russia in the current environment. Covers the FCDO advisory, sanctions implications, the operational environment."
 date: "2026-03-02"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "close-protection-russia"
-seo_title: "Close Protection Russia | Current Security Assessment | CloseProtectionHire.com"
+seo_title: "Close Protection Russia | Current Security Assessment"
 tags:
   - "russia"
   - "close-protection"

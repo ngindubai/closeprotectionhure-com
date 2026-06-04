@@ -1,6 +1,6 @@
 ---
 title: "Singapore"
-description: "Close protection and executive security in Singapore. One of the world's lowest-risk cities for physical threats. Strict legal framework under the Private Security Industry Act. Security Industry Act / PLRD licensing requirements apply to all operators."
+description: "Close protection and executive security in Singapore. One of the world's lowest-risk cities for physical threats. Strict legal framework under the Private Security Industry."
 slug: "singapore"
 h1: "Close Protection in Singapore"
 country: "Singapore"

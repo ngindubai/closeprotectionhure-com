@@ -1,6 +1,6 @@
 ---
 title: "Security for Shopping Centres and Retail Parks"
-description: "Security management for shopping centres, retail parks, and high street retail. Covers access control, crowd management, terrorism preparedness, VIP retail visits, CCTV, and the specific security challenges of large public retail environments."
+description: "Security management for shopping centres, retail parks, and high street retail. Covers access control, crowd management, terrorism preparedness, VIP retail visits, CCTV,."
 date: "2026-04-20"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

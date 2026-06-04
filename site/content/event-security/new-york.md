@@ -1,6 +1,6 @@
 ---
 title: "Event Security in New York"
-description: "Corporate event security in New York City for conferences, investor summits, and private functions. SLA-licensed close protection, venue assessment, and counter-terrorism planning."
+description: "Corporate event security in New York City for conferences, investor summits, and private functions. SLA-licensed close protection, venue assessment, and counter-terrorism."
 slug: "new-york"
 h1: "Event Security in New York"
 city: "New York"

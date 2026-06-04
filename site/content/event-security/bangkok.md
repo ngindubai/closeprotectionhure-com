@@ -1,6 +1,6 @@
 ---
 title: "Event Security in Bangkok"
-description: "Corporate event security in Bangkok for regional conferences, private functions, and investor summits. Venue assessment, VIP protection, and anti-scam intelligence for events in Thailand's capital."
+description: "Corporate event security in Bangkok for regional conferences, private functions, and investor summits. Venue assessment, VIP protection, and anti-scam intelligence for events."
 slug: "bangkok"
 h1: "Event Security in Bangkok"
 city: "Bangkok"

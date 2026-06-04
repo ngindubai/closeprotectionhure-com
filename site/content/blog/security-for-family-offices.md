@@ -1,6 +1,6 @@
 ---
 title: "Security for Family Offices: Protecting Ultra-High-Net-Worth Principals and Their Families"
-description: "A guide to security programmes for family offices managing ultra-high-net-worth principals. Covers the specific threat profile of UHNWI families, residential security, close protection, travel security, digital security, and domestic staff management."
+description: "A guide to security programmes for family offices managing ultra-high-net-worth principals. Covers the specific threat profile of UHNWI families, residential security."
 date: "2026-03-18"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

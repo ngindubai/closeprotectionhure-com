@@ -1,6 +1,6 @@
 ---
 title: "Paris"
-description: "Close protection and executive security in Paris. CNAPS-licensed operators for corporate executives, UHNWI principals, and visiting delegations. Terrorism and protest risk management."
+description: "Close protection and executive security in Paris. CNAPS-licensed operators for corporate executives, UHNWI principals, and visiting delegations."
 slug: "paris"
 h1: "Close Protection in Paris"
 country: "France"

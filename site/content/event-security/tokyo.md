@@ -1,6 +1,6 @@
 ---
 title: "Event Security in Tokyo"
-description: "Corporate event security in Tokyo for conferences, investor roadshows, and private functions. Licensed close protection, access control, and stalking threat management in Japan's capital."
+description: "Corporate event security in Tokyo for conferences, investor roadshows, and private functions. Licensed close protection, access control, and stalking threat management."
 slug: "tokyo"
 h1: "Event Security in Tokyo"
 city: "Tokyo"

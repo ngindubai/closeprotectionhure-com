@@ -1,6 +1,6 @@
 ---
 title: "Event Security in Riyadh"
-description: "Corporate event security in Riyadh, Saudi Arabia. MoI-authorised operators, venue assessment for KAFD and Diplomatic Quarter events, and regional threat briefing for principals attending Vision 2030 conferences."
+description: "Corporate event security in Riyadh, Saudi Arabia. MoI-authorised operators, venue assessment for KAFD and Diplomatic Quarter events, and regional threat briefing."
 slug: "riyadh"
 h1: "Event Security in Riyadh"
 city: "Riyadh"

@@ -1,6 +1,6 @@
 ---
 title: "Security at Private Members Clubs: Managing Access and VIP Privacy"
-description: "Security considerations specific to private members clubs. Covers access control for exclusive venues, VIP privacy protection, media management, close protection integration with club security, and the specific challenges of luxury hospitality security."
+description: "Security considerations specific to private members clubs. Covers access control for exclusive venues, VIP privacy protection, media management, close protection integration."
 date: "2026-01-30"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

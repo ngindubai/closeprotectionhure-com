@@ -1,6 +1,6 @@
 ---
 title: "Is Nairobi Safe for Business Travel? A Security Consultant's Assessment"
-description: "Nairobi's security environment for corporate travellers. Crime data, terrorism risk, safe districts, airport transfer risks, and what a realistic security plan looks like for a business trip to Kenya's capital."
+description: "Nairobi's security environment for corporate travellers. Crime data, terrorism risk, safe districts, airport transfer risks, and what a realistic security plan looks like."
 date: "2026-05-27"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"

@@ -1,11 +1,11 @@
 ---
 title: "Private Security Regulations in Turkey: What Operators and Clients Need to Know"
-description: "Turkey's private security sector is regulated, growing, and distinct from Western European models. This guide covers the Law 5188 licensing framework, what Ozel Guvenlik Gorevlisi certification means, and what restrictions apply to foreign security personnel operating in Istanbul and Ankara."
+description: "Turkey's private security sector is regulated, growing, and distinct from Western European models. This guide covers the Law 5188 licensing framework, what Ozel Guvenlik."
 date: "2026-05-27"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"
 slug: "private-security-regulations-turkey"
-seo_title: "Private Security Regulations in Turkey | Istanbul & Ankara Security Law Guide"
+seo_title: "Private Security Regulations in Turkey"
 tags:
   - "turkey"
   - "istanbul"

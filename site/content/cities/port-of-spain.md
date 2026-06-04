@@ -1,6 +1,6 @@
 ---
 title: "Port of Spain"
-description: "Close protection and security services in Port of Spain, Trinidad and Tobago. Executive protection, security drivers, and risk assessment for business travel to the Caribbean's energy hub."
+description: "Close protection and security services in Port of Spain, Trinidad and Tobago. Executive protection, security drivers, and risk assessment for business travel."
 slug: "port-of-spain"
 h1: "Close Protection in Port of Spain, Trinidad"
 country: "Trinidad and Tobago"

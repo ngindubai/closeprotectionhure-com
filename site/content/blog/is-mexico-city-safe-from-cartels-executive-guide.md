@@ -1,6 +1,6 @@
 ---
 title: "Is Mexico City Safe from Cartels? An Executive Travel Guide"
-description: "Is Mexico City safe from cartels is among the most searched safety queries in Latin America. This guide gives corporate travellers a sourced picture of what the risk actually is in CDMX, what professional security looks like, and which precautions matter most."
+description: "Is Mexico City safe from cartels is among the most searched safety queries in Latin America. This guide gives corporate travellers a sourced picture of what the risk actually."
 date: "2026-05-28"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

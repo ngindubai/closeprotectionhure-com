@@ -1,6 +1,6 @@
 ---
 title: "Cape Town"
-description: "Close protection and executive security in Cape Town. OSAC rates crime as CRITICAL. Carjacking, follow-home robberies from the airport, fake police operations, and armed kidnapping are all documented threats."
+description: "Close protection and executive security in Cape Town. OSAC rates crime as CRITICAL. Carjacking, follow-home robberies from the airport, fake police operations, and armed."
 slug: "cape-town"
 h1: "Close Protection in Cape Town"
 country: "South Africa"

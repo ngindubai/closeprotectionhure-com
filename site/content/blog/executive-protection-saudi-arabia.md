@@ -1,11 +1,11 @@
 ---
 title: "Executive Protection in Saudi Arabia: What Corporate Travellers Need to Know"
-description: "Saudi Arabia's Vision 2030 programme has brought a significant increase in corporate visitors. The security environment has changed, but not disappeared. This guide covers the regulatory framework for private security in the Kingdom, the current threat picture for business travellers, and what an executive protection engagement looks like in Riyadh."
+description: "Saudi Arabia's Vision 2030 programme has brought a significant increase in corporate visitors. The security environment has changed, but not disappeared."
 date: "2026-05-27"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"
 slug: "executive-protection-saudi-arabia"
-seo_title: "Executive Protection in Saudi Arabia | Riyadh Security Guide | CloseProtectionHire.com"
+seo_title: "Executive Protection in Saudi Arabia | Riyadh Security Guide"
 tags:
   - "saudi-arabia"
   - "riyadh"

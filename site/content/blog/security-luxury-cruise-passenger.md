@@ -1,11 +1,11 @@
 ---
 title: "Security for Luxury Cruise Passengers and Superyacht Operations"
-description: "Security considerations for luxury cruise passengers and superyacht voyages. Covers piracy risk by region, UHNWI yacht security, port security, shore excursion risk, and close protection integration for high-profile principals at sea."
+description: "Security considerations for luxury cruise passengers and superyacht voyages. Covers piracy risk by region, UHNWI yacht security, port security, shore excursion risk,."
 date: "2026-03-08"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-luxury-cruise-passenger"
-seo_title: "Security for Luxury Cruise Passengers & Superyachts | CloseProtectionHire.com"
+seo_title: "Security for Luxury Cruise Passengers & Superyachts"
 tags:
   - "cruise-security"
   - "superyacht"

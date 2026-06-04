@@ -1,6 +1,6 @@
 ---
 title: "Event Security in Dubai"
-description: "Corporate event security in Dubai. Venue assessment, access control, VIP close protection, and secure transport for conferences, exhibitions, and private functions across Dubai."
+description: "Corporate event security in Dubai. Venue assessment, access control, VIP close protection, and secure transport for conferences, exhibitions, and private functions across."
 slug: "dubai"
 h1: "Event Security in Dubai"
 city: "Dubai"

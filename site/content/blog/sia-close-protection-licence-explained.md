@@ -1,6 +1,6 @@
 ---
 title: "The SIA Close Protection Licence: What It Is, What It Proves, and How to Verify It"
-description: "The Security Industry Authority Close Protection licence is the legal baseline for all bodyguards working in England and Wales. This guide explains what the licence covers, what the vetting process involves, and how to verify any operator's credentials before you hire them."
+description: "The Security Industry Authority Close Protection licence is the legal baseline for all bodyguards working in England and Wales."
 date: "2026-05-27"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"

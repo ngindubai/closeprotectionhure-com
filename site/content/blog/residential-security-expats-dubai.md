@@ -1,11 +1,11 @@
 ---
 title: "Residential Security for Expats in Dubai: What the Regional Tension Changes"
-description: "Dubai's residential security market has changed since the 2022 Abu Dhabi attack and the ongoing regional escalation. This guide covers what expat residential security involves, how the threat picture has evolved, and what a professional residential security assessment covers."
+description: "Dubai's residential security market has changed since the 2022 Abu Dhabi attack and the ongoing regional escalation. This guide covers what expat residential security."
 date: "2026-05-27"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"
 slug: "residential-security-expats-dubai"
-seo_title: "Residential Security for Expats in Dubai | UAE Home Protection Guide 2026"
+seo_title: "Residential Security for Expats in Dubai"
 tags:
   - "dubai"
   - "uae"

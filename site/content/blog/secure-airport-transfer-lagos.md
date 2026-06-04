@@ -1,6 +1,6 @@
 ---
 title: "Secure Airport Transfer from Lagos Airport: The MMIA Arrival Guide for Business Travellers"
-description: "Murtala Muhammed International Airport to Victoria Island or Ikoyi is one of the highest-risk airport transfers in Africa. This guide covers what actually happens on that route, why the risk is specific and documented, and what a professional secure transfer involves from the terminal door to your hotel."
+description: "Murtala Muhammed International Airport to Victoria Island or Ikoyi is one of the highest-risk airport transfers in Africa."
 date: "2026-05-27"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

@@ -1,6 +1,6 @@
 ---
 title: "Close Protection in Central America"
-description: "Close protection and executive security in Central America. Covers Guatemala, Belize, Honduras, El Salvador, Nicaragua, Costa Rica, and Panama. Threat profiles, kidnapping risk, gang activity, and operational guidance for corporate travel in the region."
+description: "Close protection and executive security in Central America. Covers Guatemala, Belize, Honduras, El Salvador, Nicaragua, Costa Rica, and Panama."
 date: "2025-12-22"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

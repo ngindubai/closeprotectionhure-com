@@ -1,11 +1,11 @@
 ---
 title: "Security for Infrastructure and Engineering Contractors"
-description: "Security considerations for infrastructure and engineering contractors working internationally. Covers field security in construction environments, personnel safety in high-risk jurisdictions, equipment security, and kidnap risk for engineering teams."
+description: "Security considerations for infrastructure and engineering contractors working internationally. Covers field security in construction environments, personnel safety."
 date: "2026-02-20"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-infrastructure-engineering-contractors"
-seo_title: "Security for Infrastructure & Engineering Contractors | CloseProtectionHire.com"
+seo_title: "Security for Infrastructure & Engineering Contractors"
 tags:
   - "infrastructure"
   - "construction"

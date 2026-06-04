@@ -1,6 +1,6 @@
 ---
 title: "Doha"
-description: "Close protection and executive security in Doha. FCDO advises against all but essential travel to Qatar due to regional security tensions. Road conditions are the primary operational risk. All CP is unarmed. Strict laws on alcohol, drugs, and public behaviour apply to all visitors."
+description: "Close protection and executive security in Doha. FCDO advises against all but essential travel to Qatar due to regional security tensions."
 slug: "doha"
 h1: "Close Protection in Doha"
 country: "Qatar"

@@ -1,6 +1,6 @@
 ---
 title: "Security Drivers in Dubai"
-description: "SIRA-licensed security drivers in Dubai, UAE. DXB and DWC airport transfers, DIFC and Palm Jumeirah coverage, and shelter-in-place briefed routes during regional tension periods."
+description: "SIRA-licensed security drivers in Dubai, UAE. DXB and DWC airport transfers, DIFC and Palm Jumeirah coverage, and shelter-in-place briefed routes during regional tension."
 slug: "dubai"
 h1: "Security Drivers in Dubai, UAE"
 seo_title: "Security Driver Dubai | SIRA-Licensed Drivers | Secure Transport UAE"

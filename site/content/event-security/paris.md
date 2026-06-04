@@ -1,6 +1,6 @@
 ---
 title: "Event Security in Paris"
-description: "Corporate event security in Paris for conferences, private functions, and major summits. Terrorism risk management, CNAPS-licensed protection, and venue assessment in France's capital."
+description: "Corporate event security in Paris for conferences, private functions, and major summits. Terrorism risk management, CNAPS-licensed protection, and venue assessment."
 slug: "paris"
 h1: "Event Security in Paris"
 city: "Paris"

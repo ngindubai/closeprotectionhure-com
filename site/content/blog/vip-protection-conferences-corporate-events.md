@@ -1,11 +1,11 @@
 ---
 title: "VIP Protection at Conferences and Corporate Events"
-description: "A practical guide to VIP and executive protection at conferences, forums, and corporate events. Covers advance work, access control, motorcade planning, on-site positioning, and the coordination between event security and personal protection details."
+description: "A practical guide to VIP and executive protection at conferences, forums, and corporate events. Covers advance work, access control, motorcade planning, on-site positioning."
 date: "2026-03-05"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "vip-protection-conferences-corporate-events"
-seo_title: "VIP Protection Conferences & Corporate Events | CloseProtectionHire.com"
+seo_title: "VIP Protection Conferences & Corporate Events"
 tags:
   - "vip-protection"
   - "conferences"

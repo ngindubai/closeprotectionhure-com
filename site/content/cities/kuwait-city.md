@@ -1,11 +1,11 @@
 ---
 title: "Kuwait City"
-description: "Close protection and executive security in Kuwait City. US State Dept Level 3 advisory. Iran-aligned militia attacks on US bases. Landmines near borders. Ministry of Interior licensed operators. Armed CP possible under appropriate licensing for oil and gas sector assignments."
+description: "Close protection and executive security in Kuwait City. US State Dept Level 3 advisory. Iran-aligned militia attacks on US bases. Landmines near borders."
 slug: "kuwait-city"
 h1: "Close Protection in Kuwait City"
 country: "Kuwait"
 risk_level: "high"
-seo_title: "Bodyguard Hire Kuwait City | Executive Protection & Close Protection Kuwait"
+seo_title: "Bodyguard Hire Kuwait City | Close Protection Kuwait"
 threats:
   - type: "Iran-Aligned Militia Attacks"
     detail: "US military bases in Kuwait, including Camp Arifjan and Camp Buehring, have been targeted by missile and drone fire from Iran-aligned militia groups including Kataib Hezbollah (KH) and PMF affiliates. The threat is directed primarily at US government and military interests. Western civilian contractors operating near or in support of US military activities face elevated risk from this threat vector. The US State Dept Level 3 advisory (April 2026) directly references this threat."

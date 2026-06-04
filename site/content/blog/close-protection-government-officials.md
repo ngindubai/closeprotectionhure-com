@@ -1,6 +1,6 @@
 ---
 title: "Close Protection for Government Officials: Protocols and Considerations"
-description: "Security considerations specific to government officials requiring close protection. Covers threat profiles, the interface between state protection and commercial providers, visiting dignitary security, and protocol requirements for official travel."
+description: "Security considerations specific to government officials requiring close protection. Covers threat profiles, the interface between state protection and commercial providers."
 date: "2026-04-25"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

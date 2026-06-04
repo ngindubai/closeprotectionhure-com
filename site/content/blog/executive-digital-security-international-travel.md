@@ -1,11 +1,11 @@
 ---
 title: "Executive Digital Security for International Travel"
-description: "Protecting corporate devices and data during international travel. Covers device preparation, communication security, data handling in high-surveillance jurisdictions, hotel WiFi risks, TSCM considerations, and return-to-office security protocols."
+description: "Protecting corporate devices and data during international travel. Covers device preparation, communication security, data handling in high-surveillance jurisdictions."
 date: "2025-12-05"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "executive-digital-security-international-travel"
-seo_title: "Executive Digital Security International Travel | CloseProtectionHire.com"
+seo_title: "Executive Digital Security International Travel"
 tags:
   - "digital-security"
   - "travel-security"

@@ -1,6 +1,6 @@
 ---
 title: "Lima"
-description: "Close protection and security services in Lima, Peru. SUCAMEC-registered operators for corporate protection, secure transport, and personal security in a high-risk urban environment."
+description: "Close protection and security services in Lima, Peru. SUCAMEC-registered operators for corporate protection, secure transport, and personal security in a high-risk urban."
 slug: "lima"
 h1: "Close Protection in Lima"
 country: "Peru"

@@ -1,6 +1,6 @@
 ---
 title: "San Jose"
-description: "Close protection and security services in San Jose, Costa Rica. Security drivers, executive protection, and risk assessment for corporate travel to Central America's most stable democracy."
+description: "Close protection and security services in San Jose, Costa Rica. Security drivers, executive protection, and risk assessment for corporate travel to Central America's most."
 slug: "san-jose"
 h1: "Close Protection in San Jose, Costa Rica"
 country: "Costa Rica"

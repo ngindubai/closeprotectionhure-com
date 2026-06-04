@@ -1,6 +1,6 @@
 ---
 title: "Is Beijing Safe for Business Travel? A 2026 Risk Assessment"
-description: "Beijing is China's political capital and a major destination for corporate visitors. The threat picture is unlike most other cities on this site: violent crime is low, but the intelligence environment, legal risks, and information security considerations are acute. This guide covers what business visitors actually face."
+description: "Beijing is China's political capital and a major destination for corporate visitors. The threat picture is unlike most other cities on this site: violent crime is low."
 date: "2026-05-28"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"

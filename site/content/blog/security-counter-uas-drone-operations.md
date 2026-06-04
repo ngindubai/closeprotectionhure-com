@@ -1,11 +1,11 @@
 ---
 title: "Counter-UAS and Drone Security for Corporate Operations"
-description: "The growing threat of hostile drones to corporate operations and executive security. Covers detection and defeat options, regulatory framework for counter-UAS, protective measures for events and facilities, and drone security for UHNWI principals."
+description: "The growing threat of hostile drones to corporate operations and executive security. Covers detection and defeat options, regulatory framework for counter-UAS."
 date: "2026-02-02"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-counter-uas-drone-operations"
-seo_title: "Counter-UAS & Drone Security | Corporate Operations | CloseProtectionHire.com"
+seo_title: "Counter-UAS & Drone Security | Corporate Operations"
 tags:
   - "counter-uas"
   - "drone-security"

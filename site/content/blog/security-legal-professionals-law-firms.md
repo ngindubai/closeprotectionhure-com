@@ -1,6 +1,6 @@
 ---
 title: "Security for Legal Professionals and Law Firms"
-description: "Security considerations for law firms, barristers' chambers, and individual legal professionals. Covers threats to solicitors and barristers handling high-risk cases, client security requirements, information security for privileged communications, and office security."
+description: "Security considerations for law firms, barristers' chambers, and individual legal professionals. Covers threats to solicitors and barristers handling high-risk cases."
 date: "2026-01-22"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

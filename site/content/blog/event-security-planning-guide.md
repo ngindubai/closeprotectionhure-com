@@ -1,6 +1,6 @@
 ---
 title: "Event Security Planning Guide: From Risk Assessment to On-the-Day Operations"
-description: "A comprehensive guide to event security planning for corporate events, conferences, private functions, and public gatherings. Covers threat assessment, venue security, access control, crowd management, VIP protection, and emergency response."
+description: "A comprehensive guide to event security planning for corporate events, conferences, private functions, and public gatherings."
 date: "2026-04-08"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

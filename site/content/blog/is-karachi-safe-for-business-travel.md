@@ -1,11 +1,11 @@
 ---
 title: "Is Karachi Safe for Business Travel? A 2026 Risk Assessment"
-description: "Karachi is Pakistan's commercial capital and a major port city with a security environment that has changed significantly since the peak violence of the early 2010s. This guide covers the current threat picture, what the FCDO and US State Department advise, and what professional security looks like for corporate visitors."
+description: "Karachi is Pakistan's commercial capital and a major port city with a security environment that has changed significantly since the peak violence of the early 2010s."
 date: "2026-05-29"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "is-karachi-safe-for-business-travel"
-seo_title: "Is Karachi Safe for Business Travel 2026? | Pakistan Security Assessment"
+seo_title: "Is Karachi Safe for Business Travel 2026?"
 tags:
   - "karachi"
   - "pakistan"

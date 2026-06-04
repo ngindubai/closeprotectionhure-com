@@ -1,11 +1,11 @@
 ---
 title: "Security During Political Transitions and Elections"
-description: "How to manage corporate travel security and executive protection during elections, political transitions, and periods of political uncertainty. Covers pre-election intelligence, movement restrictions, contingency planning, and the specific risks that political transitions create for foreign nationals and businesses."
+description: "How to manage corporate travel security and executive protection during elections, political transitions, and periods of political uncertainty."
 date: "2026-01-25"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-political-transitions-elections"
-seo_title: "Security During Political Transitions & Elections | CloseProtectionHire.com"
+seo_title: "Security During Political Transitions & Elections"
 tags:
   - "elections"
   - "political-risk"

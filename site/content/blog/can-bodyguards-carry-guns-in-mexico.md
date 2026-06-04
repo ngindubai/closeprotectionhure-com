@@ -1,6 +1,6 @@
 ---
 title: "Can Bodyguards Carry Guns in Mexico? The Legal Framework Explained"
-description: "Mexico has some of the strictest firearms laws in the world, yet operates one of the largest private security industries in Latin America. This guide explains how armed close protection works legally in Mexico, what SEDENA authorisation involves, and what corporate clients should verify."
+description: "Mexico has some of the strictest firearms laws in the world, yet operates one of the largest private security industries in Latin America."
 date: "2026-05-28"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"

@@ -1,6 +1,6 @@
 ---
 title: "Event Security in Johannesburg"
-description: "Event security in Johannesburg for conferences, corporate functions, and private events. Venue assessment, armed close protection, and access control in South Africa's business capital."
+description: "Event security in Johannesburg for conferences, corporate functions, and private events. Venue assessment, close protection, and access control."
 slug: "johannesburg"
 h1: "Event Security in Johannesburg"
 city: "Johannesburg"

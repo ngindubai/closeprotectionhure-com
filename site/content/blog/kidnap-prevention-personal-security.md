@@ -1,6 +1,6 @@
 ---
 title: "Kidnap Prevention and Personal Security: A Practical Guide"
-description: "Practical measures to reduce kidnap risk for corporate executives and high-net-worth individuals. Covers threat assessment, route security, digital footprint reduction, travel protocols, and what to do if you believe you are being followed."
+description: "Practical measures to reduce kidnap risk for corporate executives and high-net-worth individuals. Covers threat assessment, route security, digital footprint reduction."
 date: "2026-05-01"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

@@ -1,6 +1,6 @@
 ---
 title: "Security Awareness Training for Employees: What Good Looks Like"
-description: "A guide to effective security awareness training for corporate employees. Covers content priorities (social engineering, travel security, device security, physical security), delivery methods, measuring effectiveness, and the difference between tick-box compliance and genuine behavioural change."
+description: "A guide to effective security awareness training for corporate employees. Covers content priorities (social engineering, travel security, device security, physical security)."
 date: "2025-11-15"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

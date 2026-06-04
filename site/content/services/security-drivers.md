@@ -1,6 +1,6 @@
 ---
 title: "Security Drivers"
-description: "Trained security drivers with armoured vehicle access and real-time route intelligence in high-risk cities worldwide."
+description: "Trained security drivers with armoured vehicle access and real-time route intelligence for executive transport in high-risk cities worldwide."
 slug: "security-drivers"
 hero_image: "service-security-drivers-hero.jpg"
 parallax_image: "service-security-drivers-parallax.jpg"

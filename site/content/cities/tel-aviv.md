@@ -1,6 +1,6 @@
 ---
 title: "Tel Aviv"
-description: "Close protection in Tel Aviv, Israel. FCDO advises against all travel to the country. Specialist operators with IDF and Shin Bet backgrounds. Armed CP standard. Any deployment requires a dedicated threat assessment."
+description: "Close protection in Tel Aviv, Israel. FCDO advises against all travel to the country. Specialist operators with IDF and Shin Bet backgrounds. Armed CP standard."
 slug: "tel-aviv"
 h1: "Close Protection in Tel Aviv"
 country: "Israel"

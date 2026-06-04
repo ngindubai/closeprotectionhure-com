@@ -1,6 +1,6 @@
 ---
 title: "Kidnap and Ransom Insurance Explained"
-description: "A clear explanation of kidnap and ransom (K&R) insurance. Covers what it covers, what it excludes, how to select a policy, the role of the response consultant, and how K&R insurance interacts with physical security planning."
+description: "A clear explanation of kidnap and ransom (K&R) insurance. Covers what it covers, what it excludes, how to select a policy, the role of the response consultant, and how K&R."
 date: "2026-03-15"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

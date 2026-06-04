@@ -1,6 +1,6 @@
 ---
 title: "Morocco"
-description: "Security services in Morocco. Close protection and secure transport for Casablanca from vetted local operators. Terrorism risk is assessed as likely. Specific risks include motorcycle theft, counterfeit alcohol, and post-earthquake infrastructure in mountain regions."
+description: "Security services in Morocco. Close protection and secure transport for Casablanca from vetted local operators. Terrorism risk is assessed as likely."
 slug: "morocco"
 h1: "Security Services in Morocco"
 risk_level: "high"

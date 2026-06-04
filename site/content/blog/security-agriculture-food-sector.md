@@ -1,6 +1,6 @@
 ---
 title: "Security for Agriculture and Food Sector Operations"
-description: "Security considerations for the agriculture and food sector. Covers food fraud, supply chain security, activism targeting farming operations, rural crime, agri-food export security, and protection for executives in the sector."
+description: "Security considerations for the agriculture and food sector. Covers food fraud, supply chain security, activism targeting farming operations, rural crime, agri-food export."
 date: "2026-02-10"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

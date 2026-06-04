@@ -1,6 +1,6 @@
 ---
 title: "Supply Chain and Logistics Security Operations"
-description: "Security management for supply chains and logistics operations. Covers cargo theft, route security, warehouse and depot security, technology solutions for tracking and monitoring, and security for high-value cargo."
+description: "Security management for supply chains and logistics operations. Covers cargo theft, route security, warehouse and depot security, technology solutions for tracking."
 date: "2026-02-18"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

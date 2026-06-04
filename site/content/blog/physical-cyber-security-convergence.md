@@ -1,6 +1,6 @@
 ---
 title: "Physical and Cyber Security Convergence: Why It Matters and How to Address It"
-description: "The convergence of physical and cyber security: what it means, why the organisational separation between the two functions creates risk, and how to build a security programme that addresses both domains coherently."
+description: "The convergence of physical and cyber security: what it means, why the organisational separation between the two functions creates risk, and how to build a security programme."
 date: "2026-02-15"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

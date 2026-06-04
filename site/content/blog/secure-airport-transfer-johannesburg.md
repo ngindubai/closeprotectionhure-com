@@ -1,11 +1,11 @@
 ---
 title: "Secure Airport Transfer in Johannesburg: OR Tambo to Sandton and Beyond"
-description: "The route from OR Tambo International Airport to Johannesburg's business districts is one of the most carjacking-exposed journeys in Africa. Here is what makes it different from a standard airport transfer, who needs a professional secure transfer, and what one looks like in practice."
+description: "The route from OR Tambo International Airport to Johannesburg's business districts is one of the most carjacking-exposed journeys in Africa."
 date: "2026-05-27"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "secure-airport-transfer-johannesburg"
-seo_title: "Secure Airport Transfer Johannesburg | OR Tambo to Sandton | CloseProtectionHire.com"
+seo_title: "Secure Airport Transfer Johannesburg | OR Tambo to Sandton"
 tags:
   - "johannesburg"
   - "south-africa"

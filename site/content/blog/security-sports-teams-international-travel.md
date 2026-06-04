@@ -1,11 +1,11 @@
 ---
 title: "Security for Sports Teams on International Travel"
-description: "Security planning for professional sports teams travelling internationally. Covers threat assessment for team travel, crowd and fan management, executive protection for high-profile athletes, venue security, and the specific challenges of high-profile sports travel in elevated-risk jurisdictions."
+description: "Security planning for professional sports teams travelling internationally. Covers threat assessment for team travel, crowd and fan management, executive protection."
 date: "2026-01-20"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-sports-teams-international-travel"
-seo_title: "Security for Sports Teams International Travel | CloseProtectionHire.com"
+seo_title: "Security for Sports Teams International Travel"
 tags:
   - "sports-security"
   - "team-travel"

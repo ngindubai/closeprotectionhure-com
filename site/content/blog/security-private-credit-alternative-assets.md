@@ -1,11 +1,11 @@
 ---
 title: "Security for Private Credit and Alternative Asset Managers"
-description: "Security considerations for executives and teams in private credit, private equity, hedge funds, and alternative asset management. Covers the specific threat profile, travel security, residential protection, and digital security for fund managers."
+description: "Security considerations for executives and teams in private credit, private equity, hedge funds, and alternative asset management."
 date: "2026-04-25"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-private-credit-alternative-assets"
-seo_title: "Security for Private Credit & Alternative Asset Managers | CloseProtectionHire.com"
+seo_title: "Security for Private Credit & Alternative Asset Managers"
 tags:
   - "private-credit"
   - "alternative-assets"

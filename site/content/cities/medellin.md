@@ -1,6 +1,6 @@
 ---
 title: "Medellin"
-description: "Close protection and executive security in Medellin, Colombia. Security drivers, bodyguard hire, and risk assessment for Colombia's second city and Latin America's fastest-growing tech hub."
+description: "Close protection and executive security in Medellin, Colombia. Security drivers, bodyguard hire, and risk assessment for Colombia's second city."
 slug: "medellin"
 h1: "Close Protection in Medellin, Colombia"
 country: "Colombia"

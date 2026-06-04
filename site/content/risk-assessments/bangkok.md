@@ -1,6 +1,6 @@
 ---
 title: "Bangkok Security Assessment"
-description: "Pre-travel risk assessment for Bangkok, Thailand. Drink spiking, motorcycle fatality risk, sexual assault warnings, political instability, and southern province threat analysed."
+description: "Pre-travel risk assessment for Bangkok, Thailand. Drink spiking, motorcycle fatality risk, sexual assault warnings, political instability, and southern province threat."
 slug: "bangkok"
 hero_image: "city-bangkok-hero.jpg"
 parallax_image: "city-bangkok-street.jpg"

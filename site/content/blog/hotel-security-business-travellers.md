@@ -1,6 +1,6 @@
 ---
 title: "Hotel Security for Business Travellers: A Practical Guide"
-description: "Practical hotel security measures for corporate executives and business travellers. Covers hotel selection, room security, floor positioning, fire safety, safe use of hotel facilities, and what to do if you suspect a room has been accessed."
+description: "Practical hotel security measures for corporate executives and business travellers. Covers hotel selection, room security, floor positioning, fire safety, safe use of hotel."
 date: "2026-04-22"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

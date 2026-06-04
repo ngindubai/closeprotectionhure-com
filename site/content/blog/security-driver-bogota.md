@@ -1,11 +1,11 @@
 ---
 title: "Security Driver in Bogota: Why Ground Transport Is Your First Decision"
-description: "Bogota's express kidnapping environment, carjacking risk, and the Transmilenio vs taxi vs security driver question answered. What corporate travellers need to know before they land at El Dorado."
+description: "Bogota's express kidnapping environment, carjacking risk, and the Transmilenio vs taxi vs security driver question answered."
 date: "2026-05-27"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-driver-bogota"
-seo_title: "Security Driver in Bogota, Colombia | Why It Matters for Corporate Travellers"
+seo_title: "Security Driver in Bogota, Colombia"
 tags:
   - "bogota"
   - "colombia"

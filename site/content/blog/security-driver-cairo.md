@@ -1,6 +1,6 @@
 ---
 title: "Security Drivers in Cairo: What Corporate Travellers Should Know"
-description: "Cairo is a key business destination for energy, infrastructure, and regional finance. The Egyptian security environment is dominated less by violent crime and more by political volatility and a specific logistical risk profile. This guide covers when professional security driving adds value and how the regulatory framework works."
+description: "A guide to hiring a security driver in Cairo. Covers the threat environment, protective driving, operator vetting, and what secure transport involves."
 date: "2026-05-28"
 type: "blog"
 author: "James Calloway, Senior Security Consultant"

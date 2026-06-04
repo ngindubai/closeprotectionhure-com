@@ -1,6 +1,6 @@
 ---
 title: "Event Security in Moscow"
-description: "Security assessment for corporate events in Moscow. Current advisory: most Western governments advise against all travel to Russia. If operating in Moscow, specialist advice is mandatory."
+description: "Security assessment for corporate events in Moscow. Current advisory: most Western governments advise against all travel to Russia."
 slug: "moscow"
 h1: "Event Security in Moscow"
 city: "Moscow"

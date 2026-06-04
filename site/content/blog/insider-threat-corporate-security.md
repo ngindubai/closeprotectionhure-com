@@ -1,6 +1,6 @@
 ---
 title: "Insider Threat in Corporate Security: Detection and Mitigation"
-description: "A practical guide to insider threat in corporate security. Covers the categories of insider threat, detection indicators, mitigation measures, the role of security culture, and how to structure an insider threat programme without destroying trust."
+description: "A practical guide to insider threat in corporate security. Covers the categories of insider threat, detection indicators, mitigation measures, the role of security culture."
 date: "2026-04-10"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

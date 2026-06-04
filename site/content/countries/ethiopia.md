@@ -1,6 +1,6 @@
 ---
 title: "Ethiopia"
-description: "Security services in Ethiopia. Close protection and specialist escort for Addis Ababa from vetted operators. Against-all-travel designations apply to multiple regions. Pre-travel risk assessment is mandatory."
+description: "Security services in Ethiopia. Close protection and specialist escort for Addis Ababa from vetted operators. Against-all-travel designations apply to multiple regions."
 slug: "ethiopia"
 h1: "Security Services in Ethiopia"
 risk_level: "critical"

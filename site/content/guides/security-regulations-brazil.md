@@ -1,6 +1,6 @@
 ---
 title: "Private Security Regulations in Brazil: A Guide for Operators and Corporate Clients"
-description: "A guide to private security regulations in Brazil. Covers SUSEP licensing, armed guard provisions, Federal Police involvement, the role of Policia Militar escorts, and what foreign executives need to know about using security services in Brazil."
+description: "A guide to private security regulations in Brazil. Covers SUSEP licensing, armed guard provisions, Federal Police involvement, the role of Policia Militar escorts, and what."
 date: "2026-02-15"
 author: "Marcus Webb, Security Operations Adviser"
 slug: "security-regulations-brazil"

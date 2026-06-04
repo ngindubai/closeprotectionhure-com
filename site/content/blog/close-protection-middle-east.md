@@ -1,6 +1,6 @@
 ---
 title: "Close Protection in the Middle East: A Regional Guide"
-description: "Executive security and close protection across the Middle East. Covers the UAE, Saudi Arabia, Qatar, Kuwait, Bahrain, Oman, Jordan, Lebanon, and Iraq. Risk profiles, licensing requirements, and operational guidance for the region."
+description: "Executive security and close protection across the Middle East. Covers the UAE, Saudi Arabia, Qatar, Kuwait, Bahrain, Oman, Jordan, Lebanon, and Iraq."
 date: "2026-03-25"
 type: "blog"
 author: "Marcus Webb, Security Operations Adviser"

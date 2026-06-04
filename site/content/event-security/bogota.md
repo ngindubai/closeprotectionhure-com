@@ -1,6 +1,6 @@
 ---
 title: "Event Security in Bogota"
-description: "Corporate event security in Bogota, Colombia. Kidnap risk management, armed close protection, and venue assessment for conferences and business events in the Colombian capital."
+description: "Corporate event security in Bogota, Colombia. Kidnap risk management, armed close protection, and venue assessment for conferences and business events in the Colombian."
 slug: "bogota"
 h1: "Event Security in Bogota"
 city: "Bogota"

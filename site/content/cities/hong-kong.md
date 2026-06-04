@@ -1,6 +1,6 @@
 ---
 title: "Hong Kong"
-description: "Close protection and executive security in Hong Kong. Legal risk under the National Security Law 2020 is the primary threat for visiting executives. Locally licensed and vetted CP operators, discreet personal protection, and secure transport for corporate travellers and UHNWI principals."
+description: "Close protection and executive security in Hong Kong. Legal risk under the National Security Law 2020 is the primary threat for visiting executives."
 slug: "hong-kong"
 h1: "Close Protection in Hong Kong"
 country: "China (SAR)"

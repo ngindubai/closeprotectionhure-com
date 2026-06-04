@@ -1,11 +1,11 @@
 ---
 title: "Melbourne"
-description: "Close protection and executive security in Melbourne. Victoria's terrorism threat level follows Australia's national PROBABLE assessment. Victorian Security Industry Regulatory Authority (VSIRA) governs all security operators under the Private Security Act 2004. Licensed close protection, secure transport, and event security for corporate principals."
+description: "Close protection and executive security in Melbourne. Victoria's terrorism threat level follows Australia's national PROBABLE assessment."
 slug: "melbourne"
 h1: "Close Protection in Melbourne"
 country: "Australia"
 risk_level: "moderate"
-seo_title: "Bodyguard Hire Melbourne | Close Protection & Executive Security Australia"
+seo_title: "Bodyguard Hire Melbourne | Close Protection Australia"
 threats:
   - type: "Terrorism"
     detail: "Australia's national terrorism threat level is PROBABLE: an attack is likely. Victoria has a documented terrorism history including the 2017 Bourke Street Mall vehicle attack (6 killed) and multiple foiled plots. Melbourne CBD has been specifically targeted by lone-actor and vehicle-borne attack planning. Crowded public spaces in the CBD and major event venues are the primary risk locations."
