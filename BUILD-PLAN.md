@@ -92,6 +92,7 @@ Switched to batch builds of up to 4 blocks per run, 2 runs/day, to fit the 15-ru
 | 05 Jun 2026 | 3G | 5 | Naypyidaw, Bamako, Niamey, Mogadishu, Tripoli |
 | 05 Jun 2026 | Routine config | 0 | Switched to batch builds of up to 4 blocks per run, 2 runs/day, to fit the 15-run routine cap. One commit and one deploy per run. Pointer-based skip (no same-day skip). Docs only (CLAUDE.md + this file). No content built this entry. |
 | 05 Jun 2026 | 3C matrix expansion (4 blocks) | 42 | Block 1: close-protection-officers x 10 priority cities (JHB, Lagos, Dubai, Nairobi, MEX, Bogota, Riyadh, Mumbai, SP, Istanbul). Block 2: secure-airport-transfers x 10 priority cities (same). Block 3: bodyguard-hire x 10 non-priority cities (London, Paris, NYC, SG, HK, Sydney, Tokyo, Beijing, Berlin, Cape Town). Block 4: security-drivers x same 10 non-priority cities. QA: 0 errors. |
+| 05 Jun 2026 | 3C matrix expansion (4 blocks) | 40 | Block 1: executive-protection x 10 non-priority cities. Block 2: residential-security x 10 non-priority cities. Block 3: close-protection-officers x 10 non-priority cities. Block 4: secure-airport-transfers x 10 non-priority cities. All 7 services now cover top 20 cities. QA: 0 errors across all 40 pages. |
 
 ---
 
@@ -153,6 +154,7 @@ At 2 runs per day, each a batch of up to 4 blocks (up to 8 blocks per day), the 
 | 5 Jun 2026 | Plan rebuild | 0 | Growth mode installed: 7-service x 250-city matrix (~1,750 pages), city expansion to 250, country hubs to 120, blog to 600. build_state.json next_stage points at close-protection-officers across the 10 priority cities. No content built this entry. |
 | 5 Jun 2026 | Routine config | 0 | Switched to batch builds of up to 4 blocks per run, 2 runs/day, to fit the 15-run routine cap. One commit and one deploy per run. No content built this entry. |
 | 5 Jun 2026 | 3C matrix expansion (4 blocks) | 42 | Block 1: close-protection-officers x 10 priority cities. Block 2: secure-airport-transfers x 10 priority cities. Block 3: bodyguard-hire x 10 non-priority cities. Block 4: security-drivers x 10 non-priority cities. QA 0 errors. |
+| 5 Jun 2026 | 3C matrix expansion (4 blocks) | 40 | Block 1: executive-protection x 10 non-priority. Block 2: residential-security x 10 non-priority. Block 3: close-protection-officers x 10 non-priority. Block 4: secure-airport-transfers x 10 non-priority. All 7 services now cover 20 cities. QA 0 errors. |
 
 ---
 
