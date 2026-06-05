@@ -70,7 +70,7 @@ This site replicates pet-transport's compounding architecture. Every block of wo
 | 6 | Incremental deploy pipeline | Done — build-and-publish + Hostinger OAuth | `.github/workflows/build-and-publish.yml` |
 | 7 | Operating system (discipline) | Done | `CLAUDE.md`, `AGENTS.md`, `workforce/`, `BUILD-PLAN.md`, `bodyguard-cascading-build-plan.html`, `MEMORY.md`, `ERRORS.md`, `build_state.json` |
 
-**The one rule of Engine 7:** every page goes through the same loop: real data → authored voice → humanised → QA gate → preview → approve → commit one block → stop. Skipping any step is how the funeral-stub failure mode happens. If a session ever pressures you to bypass the loop, that pressure is itself the warning sign.
+**The one rule of Engine 7:** every page goes through the same loop: real data → authored voice → humanised → QA gate → preview → approve → commit. A run may build a batch of up to 4 blocks, but every block goes through that full loop and the whole batch is committed once. Skipping any step is how the funeral-stub failure mode happens. If a session ever pressures you to bypass the loop, that pressure is itself the warning sign.
 
 ---
 
@@ -139,14 +139,14 @@ This is the only acceptable cadence. Skipping a step is a process failure, regar
 2. **Read** `BUILD-PLAN.md` and `build_state.json` → confirm the mirrored checklist matches.
 3. **Read** `ERRORS.md` → confirm you are not about to re-debug something already solved.
 4. **Read** `DESIGN-PLAN.md` (if a layout is involved) → confirm design tokens and components you'll reuse.
-5. **Pick the smallest defensible block.** One service × ten cities. One blog batch of five. One layout fix. Never more. Pet-transport's 411 articles were built five at a time, not 411 at a time.
-6. **Build** the deliverable, generating new pages from the existing Hugo templates only. Hugo's `_default/single.html` fallback covers new sections without their own layout file — use that fallback rather than inventing layouts.
-7. **Run the quality gate** (mirror the audit logic inline if the scripts are not runnable in the current environment). Banned vocabulary, YMYL safety-guarantee patterns, em dashes, front matter completeness, FAQ count, internal-link count. **A block with QA failures does not ship.**
+5. **Pick a batch of up to 4 defensible blocks.** A block = one service × ten cities, or one blog batch of five, or one layout fix. Floor is 1 block, ceiling is 4 per run. Each block is small and individually defensible — pet-transport's 411 articles were built five at a time, never 411 at a time. Quality first: if you cannot do 4 cleanly, do as many as you can do well (minimum 1) and note the shortfall.
+6. **Build** each block in the batch, generating new pages from the existing Hugo templates only. Hugo's `_default/single.html` fallback covers new sections without their own layout file — use that fallback rather than inventing layouts.
+7. **Run the quality gate on every block** (mirror the audit logic inline if the scripts are not runnable in the current environment). Banned vocabulary, YMYL safety-guarantee patterns, em dashes, front matter completeness, FAQ count, internal-link count. **A block with QA failures does not ship; build the rest of the batch without it.**
 8. **HTML preview, await approval.** Never commit before explicit approval. "approve" / "approve batch N" / "ship it" — those are the green lights. Silence is not approval.
-9. **Update** `BUILD-PLAN.md`, `build_state.json`, and `bodyguard-cascading-build-plan.html` to reflect what was completed. Add a session log entry to `BUILD-PLAN.md`.
-10. **Commit** with a descriptive message and push to `master` (NEVER `main`).
-11. **Output live review links** in chat — one clickable URL per new page, so the user can verify before the session closes. Base URL `https://closeprotectionhire.com`, permalink pattern `/{section}/{slug}/`.
-12. **Stop.** One block per session. Do not start the next block. If there is time and energy left, document something in `ERRORS.md` or `MEMORY.md` instead.
+9. **Update** `BUILD-PLAN.md`, `build_state.json`, and `bodyguard-cascading-build-plan.html` to reflect what was completed, ONCE for the whole batch. Add a session log entry to `BUILD-PLAN.md`.
+10. **Commit the whole batch ONCE** with a descriptive message and push to `master` (NEVER `main`). One commit, one push, one deploy per run, so concurrent deploys never clobber each other.
+11. **Output live review links** in chat — one clickable URL per new page in the batch, so the user can verify before the session closes. Base URL `https://closeprotectionhire.com`, permalink pattern `/{section}/{slug}/`.
+12. **Stop.** One batch (up to 4 blocks) per run. Do not start another batch. If there is time and energy left, document something in `ERRORS.md` or `MEMORY.md` instead.
 
 ---
 
@@ -185,7 +185,7 @@ This is the only acceptable cadence. Skipping a step is a process failure, regar
 - Whenever a workflow change is needed: give Gareth the **full file** to paste, not a diff. Remind him this is a manual paste. Confirm in the next turn that it was applied. See `ERRORS.md` entry on the YAML duplicate-key incident.
 
 ### Deploy (current architecture, 2026-05-28 onwards)
-Push to `master` → `.github/workflows/build-and-publish.yml` builds Hugo with `--gc --minify` → `peaceiris/actions-gh-pages@v4` force-pushes `site/public/` to the `live` branch (orphan, single clean commit) → Hostinger GitHub OAuth integration receives a webhook → auto-deploys `live` branch contents to `public_html/`. Every push to `master` goes live within ~3 minutes, fully automated.
+Push to `master` → `.github/workflows/build-and-publish.yml` builds Hugo with `--gc --minify` → `peaceiris/actions-gh-pages@v4` force-pushes `site/public/` to the `live` branch (orphan, single clean commit) → Hostinger GitHub OAuth integration receives a webhook → auto-deploys `live` branch contents to `public_html/`. Every push to `master` goes live within ~3 minutes, fully automated. Commit the whole batch once so there is a single push and a single deploy per run.
 
 **Do not re-enable the legacy FTP workflow.** It is disabled in the Actions tab for a reason — FTPS data-channel silent failure on Hostinger's shared host. See ERRORS.md.
 
@@ -209,7 +209,7 @@ These come from real failures in the deploy migration and earlier sessions. Each
 - **Do not modify `site/hugo.toml` baseURL or permalinks** without reading the corresponding `ERRORS.md` entry first. The `sections[1:]` permalink trick is what produced `/london/` instead of `/cities/london/`.
 - **Do not invent a new Hugo layout** to render a new content section. Use Hugo's `_default/single.html` fallback.
 - **Do not commit a content block without running the QA logic** (banned words, YMYL safety-guarantee patterns, em-dash check, internal-link count). The scripts in `scripts/` are the canonical check.
-- **Do not push more than one block per session.** "While I'm at it" is the failure mode that produces thin pages at scale.
+- **Do not push more than one batch (up to 4 blocks) per run.** "While I'm at it" beyond the batch ceiling is the failure mode that produces thin pages at scale. Bulk-generation scripts that skip the per-block quality gate remain banned: a batch is N individually quality-gated blocks, not a mass-generation script.
 - **Do not skip the HTML preview step.** Even if the content looks obviously fine. The preview is the contract.
 - **Do not paraphrase the safety-guarantee patterns into something that means the same thing.** "Will keep you safe" is just as bad as "guaranteed safety". The auditor will fail it either way.
 - **Do not write content that cannot be sourced.** If FCDO, US State Dept, the relevant national licensing body, or named local police statistics don't back the claim, the claim is cut.
@@ -222,6 +222,7 @@ These come from real failures in the deploy migration and earlier sessions. Each
 - **Travel safety guides live:** 15 (all P1 cities).
 - **City hero:** enhanced hero promoted to the standard `cities/single.html` (02 Jun 2026); Almaty is the reference implementation with `hero_image: service-executive-protection-hero.jpg`.
 - **Forms:** both homepage forms wired to FormSubmit (`garethsomers@outlook.com`). Gareth must complete the one-time FormSubmit activation email.
+- **Run cadence:** batch builds of up to 4 blocks per run, 2 runs/day, to fit the 15-run routine cap (set 5 June 2026). One commit and one deploy per run. Bulk-generation scripts remain banned.
 - **Next recommended block:** audit and expand the genuinely thin P1 city pages (bangkok, mumbai, manila, riyadh, moscow, sao-paulo, istanbul, dubai, mexico-city ~3.7-4.6KB) to full depth — the real thin-content protection, ahead of any further template work.
 - **Then:** vary city-page hero images across the network so they are not all the generic default; Stage 2J internal link graph; doc reconciliation (BUILD-PLAN/build_state/MEMORY counts are stale).
 - **Strategic note:** This market is credential-gated and referral-driven. After 2–3 combinatorial batches ship, revisit the keep-or-redeploy decision from the replication study before pouring in more build time.
