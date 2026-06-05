@@ -13,7 +13,7 @@
     ],
     "cannibalisation_note": "security-driver-sao-paulo dropped from Batch 8 — duplicate of /security-drivers/sao-paulo/ service page built in Phase 3C Block 2. Do not blog topics already covered by Phase 3C deep pages."
   },
-  "cities": {"total_live": 93},
+  "cities": {"total_live": 98},
   "service_city_matrix": {
     "priority_cities": ["johannesburg","lagos","dubai","nairobi","mexico-city","bogota","riyadh","mumbai","sao-paulo","istanbul"],
     "blocks": {
@@ -25,9 +25,9 @@
     }
   },
   "pages": {
-    "total_live": 350,
-    "_count_note": "350 non-index content .md files + 6 root pages + section indexes (~367 Hugo pages). Reconciled 2026-06-03 from the actual content tree; prior 261 was stale.",
-    "last_updated": "2026-06-03"
+    "total_live": 355,
+    "_count_note": "355 non-index content .md files + 6 root pages + section indexes (~372 Hugo pages). Updated 2026-06-05: Phase 3G added 5 city pages (Naypyidaw, Bamako, Niamey, Mogadishu, Tripoli).",
+    "last_updated": "2026-06-05"
   },
   "engine_alignment": {
     "1_combinatorial_generators": "DONE",
@@ -40,5 +40,5 @@
   },
   "cannibalisation_rule": "Do not blog on topics already covered by Phase 3C service x city deep pages. The deep pages ARE the definitive content for bodyguard-hire/{city}, security-drivers/{city}, executive-protection/{city}, residential-security/{city}. Blog articles on these topics should cover angles the deep pages do not: cost breakdowns, regulatory explainers, comparison pieces, question-led safety guides.",
   "thin_city_expansion": {"status": "DONE", "date": "2026-06-04", "note": "All cities that were at 3 FAQs expanded to full depth (5 FAQs, 4+ body sections, 2+ prose links) across batches 2-10. Cleared FAQ-floor warnings for those cities."},
-  "next_stage": "QA gate fully green (0 errors, 0 warnings). Next candidates: (1) resolve the 2 duplicate country pages (uk/united-kingdom, usa/united-states) via canonical or redirect; (2) Stage 2J refinement - top-inbound link rebalancing and a backlink strategy doc; (3) blog factory continuation through the keyword matrix; (4) revisit the keep-or-redeploy decision per the replication study."
+  "next_stage": "Phase 3G complete (2026-06-05): Naypyidaw, Bamako, Niamey, Mogadishu, Tripoli live. QA gate: 0 errors, 0 warnings. Next candidates: (1) blog batch 9 (5 articles from keyword matrix); (2) resolve duplicate country pages (uk/united-kingdom, usa/united-states); (3) Stage 2J refinement - top-inbound link rebalancing; (4) revisit keep-or-redeploy decision."
 }

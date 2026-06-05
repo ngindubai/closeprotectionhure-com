@@ -53,7 +53,7 @@
 - [x] **Deployed 02 Jun 2026:** Almaty, Tashkent, Islamabad, Conakry, Harare
 - [x] Deleted test stubs (auto-deploy-test.md, test-deploy.md) from cities
 
-**93 city pages live (true tree count). ~350 non-index content pages (304 audited by qa_audit.py). 108 blog, 38 countries, 24 guides, 18 risk-assessments, 18 event-security, 5 service overview pages + 5 service x city silos.**
+**98 city pages live (true tree count). ~355 non-index content pages (309 audited by qa_audit.py). 108 blog, 38 countries, 24 guides, 18 risk-assessments, 18 event-security, 5 service overview pages + 5 service x city silos.**
 
 ---
 
@@ -72,7 +72,7 @@
 - [ ] Title cannibalisation follow-up: `countries/uk.md` + `countries/united-kingdom.md` and `countries/usa.md` + `countries/united-states.md` are duplicate country pages sharing titles - resolve (canonical/redirect) in a later stage. (`check_titles.py` still flags these 2.)
 
 ### Phase 3G -- P3 City Expansion Batch 6
-- [ ] Candidates: Naypyidaw, Bamako, Niamey, Mogadishu (conflict-zone advisory), Tripoli
+- [x] **Deployed 05 Jun 2026:** Naypyidaw, Bamako, Niamey, Mogadishu, Tripoli (all critical-risk, conflict-zone cities)
 
 ### Blog Factory continuation
 - [ ] Continue through keyword matrix
@@ -100,3 +100,4 @@
 | 04 Jun 2026 | Title/description fixes | 0 | 53 seo_titles shortened to <=70; 187 descriptions trimmed/rewritten to 120-175 |
 | 04 Jun 2026 | FAQ floors | 0 | 3 cities + 67 blog articles brought to >=5 FAQs (134 authored blog FAQs). QA gate now 0 errors, 0 warnings |
 | 03 Jun 2026 | 2L | 0 | QA error pass: 142 errors to 0. Em dashes (469), banned words (37), banned phrase (1), BOM fixes (3). Auditor hardened (YMYL negation guard, BOM-tolerant parser). Reconciled stale counts in build_state.json (cities 70->93, blog 39->108, pages 261->350). |
+| 05 Jun 2026 | 3G | 5 | Naypyidaw, Bamako, Niamey, Mogadishu, Tripoli. All critical-risk conflict-zone cities. QA gate: 0 errors, 0 warnings. |
