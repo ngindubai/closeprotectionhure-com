@@ -3,7 +3,7 @@
 > **Primary tracker:** Always reference `bodyguard-cascading-build-plan.html` for full stage detail, scope, and DONE/IN PROGRESS/TODO badges.
 > This file is the mirrored checklist. Both files must be updated at the end of every run.
 > **NOTE: This BUILD-PLAN is on `master`. All commits go to `master` only.**
-> **AUTONOMY (5 June 2026): the build routine runs unattended. One block per run, full QA gate, commit to master, post live links to Slack as a record. There is no approval step, no wait-for-go, and no stop condition. See GROWTH MODE at the foot of this file for what to build.**
+> **CADENCE (5 June 2026): the build routine runs a batch of up to 4 blocks per run, 2 runs/day, to fit the 15-run routine cap (changed from one block per run). Full QA gate on every block, commit the whole batch to master ONCE, post live links to Slack as a record. See GROWTH MODE at the foot of this file for what to build.**
 
 ## Status Legend
 - `[x]` Completed
@@ -61,6 +61,12 @@
 
 ---
 
+## Routine cadence note (5 June 2026)
+
+Switched to batch builds of up to 4 blocks per run, 2 runs/day, to fit the 15-run routine cap. A block here = one service x 10 cities, or one blog batch of 5, or one layout fix. A run builds up to 4 such blocks (floor 1), each through the full QA gate, then commits the whole batch to master ONCE (one commit, one push, one deploy) so concurrent deploys never clobber each other. The HTML-preview-then-approval step in CLAUDE.md still applies before the commit. Bulk-generation scripts that skip the per-block QA gate remain banned: a batch is N individually quality-gated blocks, never a mass-generation script. Skip rule: skip a block whose slugs already exist; skip the whole run only when nothing is left to build across the active tracks. Do NOT skip just because a build ran earlier today; this routine runs twice a day on purpose.
+
+---
+
 ## Remaining refinement (non-blocking)
 
 ### Stage 2J -- Internal Link Graph
@@ -84,12 +90,13 @@
 | 03 Jun 2026 | 2L | 0 | QA error pass: 142 errors to 0 |
 | 04 Jun 2026 | 2J, 2L | 0 | Link floors, FAQ floors, title/description fixes. QA gate 0 errors, 0 warnings |
 | 05 Jun 2026 | 3G | 5 | Naypyidaw, Bamako, Niamey, Mogadishu, Tripoli |
+| 05 Jun 2026 | Routine config | 0 | Switched to batch builds of up to 4 blocks per run, 2 runs/day, to fit the 15-run routine cap. One commit and one deploy per run. Pointer-based skip (no same-day skip). Docs only (CLAUDE.md + this file). No content built this entry. |
 
 ---
 
 ## GROWTH MODE -- THE SERVICE x CITY MATRIX (added 5 June 2026)
 
-> This is the growth engine that takes the site from ~355 pages to ~2,400. The routine runs autonomously: one block per run, full QA gate, commit to master, post live links to Slack as a record. There is no approval step, no wait-for-go, and no stop condition. When one track completes, move to the next in build order. `build_state.json` holds the machine-readable state the routine reads to pick the next block.
+> This is the growth engine that takes the site from ~355 pages to ~2,400. The routine runs a batch of up to 4 blocks per run, full QA gate on every block, commit to master once, post live links to Slack as a record. When one track completes, move to the next in build order. `build_state.json` holds the machine-readable state the routine reads to pick the next block.
 
 ### The opportunity
 
@@ -108,22 +115,22 @@ Seven services across every live city:
 7. secure-airport-transfers (new silo)
 
 - 7 services x 250 target cities = approximately **1,750 service-city deep pages.**
-- Build one block of 10 service-city pages per run.
-- Rotation: extend bodyguard-hire across its next 10 uncovered cities, then security-drivers across its next 10, then executive-protection, residential-security, event-security, close-protection-officers, secure-airport-transfers, then back to bodyguard-hire for the next 10 cities. This fills the matrix evenly rather than finishing one service before starting the next.
+- A block = 10 service-city pages. A run builds up to 4 such blocks (up to 40 service-city pages), committed once.
+- Rotation: extend bodyguard-hire across its next 10 uncovered cities, then security-drivers across its next 10, then executive-protection, residential-security, event-security, close-protection-officers, secure-airport-transfers, then back to bodyguard-hire for the next 10 cities. This fills the matrix evenly rather than finishing one service before starting the next. Within a single run, take the next 4 blocks in this rotation.
 - Skip-check: before building, read site/content/{service}/ for slugs already on disk. Skip any present, take the next uncovered city.
 - Start point: close-protection-officers and secure-airport-transfers are the two not-started services. Begin by building close-protection-officers across the 10 priority cities, then secure-airport-transfers across the 10 priority cities, then resume the rotation extending all seven services to non-priority cities.
 
 ### Track 2 -- City expansion (P4 queue)
 
-Grow the city universe from 98 to 250. Each new city is high-leverage because it unlocks 7 new matrix pages. Build the next 5 to 10 cities per block from the P4 queue in build_state.json (`city_expansion.next_p4_queue`): next-tier business-travel and high-net-worth destinations, regional capitals, financial centres, energy and resource hubs. Verify any city marked "(verify)" is not already live before building.
+Grow the city universe from 98 to 250. Each new city is high-leverage because it unlocks 7 new matrix pages. A block = the next 5 to 10 cities from the P4 queue in build_state.json (`city_expansion.next_p4_queue`); a run may build up to 4 such blocks: next-tier business-travel and high-net-worth destinations, regional capitals, financial centres, energy and resource hubs. Verify any city marked "(verify)" is not already live before building.
 
 ### Track 3 -- Country hub expansion
 
-Grow country hubs from 38 to ~120 so every city has a parent country hub and the site captures country-level queries. Build the next 5 country hubs per block for any country that has live cities but no hub. Resolve the two known duplicate country pages (uk/united-kingdom, usa/united-states) as part of this track via canonical or redirect.
+Grow country hubs from 38 to ~120 so every city has a parent country hub and the site captures country-level queries. A block = the next 5 country hubs for any country that has live cities but no hub. Resolve the two known duplicate country pages (uk/united-kingdom, usa/united-states) as part of this track via canonical or redirect.
 
 ### Track 4 -- Blog factory (parallel)
 
-Continue the keyword-matrix blog to a target of 600 articles. Built only on a run where the next matrix/city/country block is already committed. Five articles per batch, non-cannibalising angles only (cost breakdowns, regulatory explainers, comparisons, question-led safety guides), checked against existing slugs first.
+Continue the keyword-matrix blog to a target of 600 articles. Built only on a run where the next matrix/city/country blocks are already committed, or to fill out a batch. One block = 5 articles, non-cannibalising angles only (cost breakdowns, regulatory explainers, comparisons, question-led safety guides), checked against existing slugs first.
 
 ### Build order each run
 
@@ -132,18 +139,19 @@ Continue the keyword-matrix blog to a target of 600 articles. Built only on a ru
 3. Then next country-hub block.
 4. Then next blog batch.
 
-The routine reads `build_state.json` `next_stage` and the per-track blocks to choose. Every new matrix page must pass qa_audit.py (0 errors), carry >=4 FAQs, >=2 prose internal links to its city and service-silo parents, a safely past date, no byline (city and service pages carry no author), no em dashes, no banned vocab, no safety guarantees (use "reduce risk" / "trained professionals"). Re-run scripts/rebuild_link_graph.py after each matrix batch.
+A single run pulls up to 4 blocks in this build order, then commits them together. The routine reads `build_state.json` `next_stage` and the per-track blocks to choose. Every new matrix page must pass qa_audit.py (0 errors), carry >=4 FAQs, >=2 prose internal links to its city and service-silo parents, a safely past date, no byline (city and service pages carry no author), no em dashes, no banned vocab, no safety guarantees (use "reduce risk" / "trained professionals"). Re-run scripts/rebuild_link_graph.py after each matrix batch.
 
 ### Scale and timeline
 
-At 8 blocks per day, 7 days a week (56 blocks per week), the matrix plus city and country expansion (approximately 2,000 new pages) completes in roughly 25 weeks. The priority-city matrix gap (the two new services across the top 10 cities) closes in the first 2 to 3 runs.
+At 2 runs per day, each a batch of up to 4 blocks (up to 8 blocks per day), the matrix plus city and country expansion (approximately 2,000 new pages) completes in roughly 25 weeks. The priority-city matrix gap (the two new services across the top 10 cities) closes in the first 1 to 2 runs.
 
 ### New growth session log
 
 | Date | Track | Pages Added | Notes |
 |------|-------|-------------|-------|
-| 5 Jun 2026 | Plan rebuild | 0 | Growth mode installed: 7-service x 250-city matrix (~1,750 pages), city expansion to 250, country hubs to 120, blog to 600. Autonomy confirmed (no approval gate). build_state.json next_stage points at close-protection-officers across the 10 priority cities. No content built this entry. |
+| 5 Jun 2026 | Plan rebuild | 0 | Growth mode installed: 7-service x 250-city matrix (~1,750 pages), city expansion to 250, country hubs to 120, blog to 600. build_state.json next_stage points at close-protection-officers across the 10 priority cities. No content built this entry. |
+| 5 Jun 2026 | Routine config | 0 | Switched to batch builds of up to 4 blocks per run, 2 runs/day, to fit the 15-run routine cap. One commit and one deploy per run. No content built this entry. |
 
 ---
 
-*Growth mode added 5 June 2026. Autonomous: one block per run, QA gate, commit to master, post live links. No approval step. No stop condition.*
+*Cadence updated 5 June 2026: a batch of up to 4 blocks per run, 2 runs/day, QA gate on every block, commit to master once, post live links. Skip only when nothing is left to build.*
