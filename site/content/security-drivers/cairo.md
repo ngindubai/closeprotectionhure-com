@@ -1,0 +1,48 @@
+---
+title: "Security Drivers in Cairo"
+description: "MoI-licensed security drivers in Cairo. Vetted chauffeurs for executives on Cairo International Airport and city routes. Armoured vehicles available for high-risk principals."
+slug: "cairo"
+h1: "Security Drivers in Cairo, Egypt"
+seo_title: "Security Driver Cairo | Vetted Chauffeur Egypt"
+service: "security-drivers"
+city: "Cairo"
+country: "Egypt"
+risk_level: "high"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-06-03"
+cta_text: "Requiring a vetted security driver in Cairo? Request a MoI-licensed chauffeur for Cairo International or city routes."
+components:
+  - title: "Egypt Ministry of Interior Licensing"
+    description: "Private security in Egypt is regulated by the Ministry of Interior (MoI). Security companies providing driver services with a security function must be licensed by the MoI, and individual security personnel must hold MoI personal licences. Egypt's tourist police and state security apparatus are highly visible throughout Cairo, particularly at significant hotels, government buildings, and tourist sites. For foreign organisations engaging security driver services in Cairo, the relevant verification is the operator's current MoI security company licence and the driver's MoI personal licence. Both should be confirmed before deployment."
+  - title: "Cairo International Airport Transfer Logistics"
+    description: "Cairo International Airport (CAI) has two primary terminals for international arrivals: Terminal 2 (operated by EgyptAir and some African and Middle Eastern carriers) and Terminal 3 (the newer terminal serving most European, Gulf, and international airlines). The terminals are separate and served by different car parks. Security drivers must confirm which terminal the principal's flight arrives at before positioning. Transfer times from CAI to downtown Cairo (central business district) are 20 to 40 minutes depending on traffic. To Heliopolis (immediate east of the airport) is approximately 10 minutes. To Zamalek, the diplomatic and HNWI residential island, is approximately 40 to 50 minutes. To the New Administrative Capital (Egypt's new government city, 45 kilometres east) is approximately one hour."
+  - title: "Cairo Traffic Conditions"
+    description: "Cairo traffic is among the most severe in the MENA region. The city of approximately 22 million people has a road network that was not designed for its current vehicle density. Peak hours extend from 08:00 to 10:30 and 15:00 to 20:00. The main arterials, including the Corniche Al Nil, Ramses Street, and the ring road (Cairo Ring Road), can be near-stationary during peak periods. Security drivers in Cairo use live traffic monitoring and local knowledge of secondary routes through residential districts to maintain practical journey times. Advance departure timing is the primary mitigation for time-critical movements."
+  - title: "Armoured Vehicles and High-Risk Operations"
+    description: "Armoured vehicles are available through MoI-licensed operators in Cairo for principals whose threat assessment indicates the requirement. Egypt has a domestic armoured vehicle market serving diplomatic, corporate, and government clients. The availability and specification of armoured vehicles in Cairo should be confirmed at the planning stage, as the market is smaller than in some other regional cities and lead times vary. For most corporate and visiting HNWI engagements in Cairo, a standard high-specification vehicle with a vetted MoI-licensed driver is the appropriate baseline."
+  - title: "Security Environment for Foreign Nationals"
+    description: "The FCDO advises against all travel to the Sinai Peninsula and advises heightened awareness in Cairo and throughout Egypt. Cairo itself has not experienced major terrorism incidents targeting foreign nationals in recent years, though the broader Egyptian threat environment from groups including those formerly associated with the Sinai conflict remains a background consideration. Female executives travelling in Cairo should be briefed on local cultural norms and, in some contexts, the additional attention on public roads that women may receive. Security drivers with experience of foreign HNWI and executive clients in Cairo are familiar with these operational factors."
+  - title: "Currency Instability and Pricing"
+    description: "Egypt's currency, the Egyptian pound (EGP), has experienced significant devaluation since 2022. As at June 2026, the EGP exchange rate against sterling and the US dollar remains volatile, and all pricing information should be confirmed immediately before engagement. Security driver engagements in Cairo range from approximately EGP 1,500 to EGP 5,000 per day at local market rates as at June 2026, though the equivalent cost in sterling or dollars depends on the prevailing exchange rate at the time of engagement. Operators offering fixed USD or EUR pricing provide greater cost certainty for foreign organisations."
+faqs:
+  - question: "What is the security threat level in Cairo for foreign executives?"
+    answer: "The FCDO rates Egypt's overall threat level with an advisory to be vigilant in Cairo and to avoid the Sinai Peninsula entirely. The specific risk of terrorist attack in central Cairo targeted at foreign executives in transit is not the dominant threat pattern as at June 2026. The more common risks are petty crime (pickpocketing, vehicle theft), traffic incidents on Cairo's congested and variable-standard roads, and the occasional civil or bureaucratic difficulty that can arise from regulatory uncertainty or misunderstandings. Security drivers with experience of Cairo's environment mitigate these risks through local knowledge and operational familiarity."
+  - question: "Which terminal does my flight arrive at in Cairo?"
+    answer: "Cairo International Airport has three terminals. Terminal 1 handles domestic traffic. Terminal 2 serves EgyptAir and some African, Middle Eastern, and charter carriers. Terminal 3 is the newer international terminal serving most European, Gulf, and major international airlines, including British Airways, Lufthansa, Emirates, and Qatar Airways. Confirm the terminal on your flight confirmation or by checking with the airline before briefing the security driver. The terminals are connected by an airside transit bus but are separate for arriving passenger exits."
+  - question: "Are armoured vehicles available for security driver engagements in Cairo?"
+    answer: "Yes. Armoured vehicles are available through MoI-licensed specialist operators in Cairo. The available armour level ranges from B4 to B6 depending on operator and vehicle availability. Armoured vehicle requests should be raised at the planning stage, as availability is more limited than in larger markets such as Riyadh or Dubai. For most corporate and HNWI engagements in Cairo, the threat assessment does not require an armoured vehicle, and a standard high-specification saloon or SUV with a vetted, MoI-licensed driver is the appropriate specification."
+  - question: "How does Egypt's currency volatility affect security driver pricing?"
+    answer: "The Egyptian pound has devalued significantly since 2022, meaning that EGP-denominated security driver rates have increased in local currency terms while the equivalent USD or sterling cost has fluctuated. Foreign organisations should confirm pricing in their preferred currency at the time of booking rather than relying on rates quoted in previous periods. Operators with established international client bases may be able to quote in USD or EUR, which simplifies budgeting. All pricing information should be treated as indicative and confirmed before engagement, given the ongoing currency volatility as at June 2026."
+---
+
+Cairo is a high-complexity security driver operating environment, combining severe traffic conditions, a moderate security threat level, significant cultural and operational differences from Western European norms, and currency volatility that affects pricing planning. Security drivers operating in Cairo for foreign principals need deep local knowledge of the city's road network, established relationships with MoI licensing authorities, and experience of the specific operational requirements of HNWI and corporate foreign clients in the Egyptian environment.
+
+## The New Administrative Capital as a growing destination
+
+Egypt's New Administrative Capital (NAC), located approximately 45 kilometres east of central Cairo along the Suez Road, is increasingly a destination for foreign executives attending government meetings and state enterprise engagements. The NAC is a designated government and diplomatic zone and is not served by Cairo's urban road network; all movements require the Suez Road corridor. Security drivers covering NAC movements must plan for the specific access procedures for the government district, the limited fuel and support facilities on the NAC access routes, and the approximately one-hour return journey to Cairo hotels.
+
+## Zamalek and the diplomatic quarter
+
+Zamalek, on the northern part of Gezira Island in the Nile, is Cairo's primary diplomatic and HNWI residential district, hosting many foreign embassies, the Marriott Mena House, and the Cairo Gezira Club. Security drivers covering Zamalek movements navigate the bridge access points from both the east bank (Tahrir, Corniche) and west bank (Agouza, Mohandeseen) of the island, which can be subject to closure or congestion depending on events at the Cairo Opera House or at the island's sports venues.
+
+For complementary services, see our [Cairo city page](/cities/cairo/) and [bodyguard hire in Cairo](/bodyguard-hire/cairo/).
