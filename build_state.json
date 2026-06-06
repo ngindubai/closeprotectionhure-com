@@ -18,15 +18,16 @@
   "cities": {"total_live": 98, "target": 250},
   "services": ["bodyguard-hire", "security-drivers", "executive-protection", "residential-security", "event-security", "close-protection-officers", "secure-airport-transfers"],
   "service_city_matrix": {
-    "_goal": "THE GROWTH ENGINE. Every service silo across every live city. 7 services x 250 target cities = ~1,750 service-city deep pages. Currently only the 10 priority cities are covered for 5 services (50 pages). Expand to the full city set, one service-city block of 10 pages per run.",
+    "_goal": "THE GROWTH ENGINE. Every service silo across every live city. 7 services x 250 target cities = ~1,750 service-city deep pages. Currently all 7 services cover the top 20 cities (priority-10 + non-priority batch1). Expanding to full city set, one service-city block of 10 pages per run.",
     "priority_cities": ["johannesburg","lagos","dubai","nairobi","mexico-city","bogota","riyadh","mumbai","sao-paulo","istanbul"],
     "non_priority_batch1": ["london","paris","new-york","singapore","hong-kong","sydney","tokyo","beijing","berlin","cape-town"],
+    "batch2_cities": ["bangkok","abu-dhabi","amsterdam","kuala-lumpur","madrid","toronto","moscow","doha","vienna","zurich"],
     "blocks": {
-      "bodyguard-hire": {"status": "BATCH1-DONE", "date": "2026-06-05", "pages": 20, "covered": ["johannesburg","lagos","dubai","nairobi","mexico-city","bogota","riyadh","mumbai","sao-paulo","istanbul","london","paris","new-york","singapore","hong-kong","sydney","tokyo","beijing","berlin","cape-town"], "remaining": "all other live cities"},
-      "security-drivers": {"status": "BATCH1-DONE", "date": "2026-06-05", "pages": 20, "covered": ["johannesburg","lagos","dubai","nairobi","mexico-city","bogota","riyadh","mumbai","sao-paulo","istanbul","london","paris","new-york","singapore","hong-kong","sydney","tokyo","beijing","berlin","cape-town"], "remaining": "all other live cities"},
-      "executive-protection": {"status": "BATCH1-DONE", "date": "2026-06-05", "pages": 20, "covered": ["johannesburg","lagos","dubai","nairobi","mexico-city","bogota","riyadh","mumbai","sao-paulo","istanbul","london","paris","new-york","singapore","hong-kong","sydney","tokyo","beijing","berlin","cape-town"], "remaining": "all other live cities"},
+      "bodyguard-hire": {"status": "BATCH2-DONE", "date": "2026-06-06", "pages": 30, "covered": ["johannesburg","lagos","dubai","nairobi","mexico-city","bogota","riyadh","mumbai","sao-paulo","istanbul","london","paris","new-york","singapore","hong-kong","sydney","tokyo","beijing","berlin","cape-town","bangkok","abu-dhabi","amsterdam","kuala-lumpur","madrid","toronto","moscow","doha","vienna","zurich"], "remaining": "all other live cities"},
+      "security-drivers": {"status": "BATCH2-DONE", "date": "2026-06-06", "pages": 30, "covered": ["johannesburg","lagos","dubai","nairobi","mexico-city","bogota","riyadh","mumbai","sao-paulo","istanbul","london","paris","new-york","singapore","hong-kong","sydney","tokyo","beijing","berlin","cape-town","bangkok","abu-dhabi","amsterdam","kuala-lumpur","madrid","toronto","moscow","doha","vienna","zurich"], "remaining": "all other live cities"},
+      "executive-protection": {"status": "BATCH2-DONE", "date": "2026-06-06", "pages": 30, "covered": ["johannesburg","lagos","dubai","nairobi","mexico-city","bogota","riyadh","mumbai","sao-paulo","istanbul","london","paris","new-york","singapore","hong-kong","sydney","tokyo","beijing","berlin","cape-town","bangkok","abu-dhabi","amsterdam","kuala-lumpur","madrid","toronto","moscow","doha","vienna","zurich"], "remaining": "all other live cities"},
       "residential-security": {"status": "BATCH1-DONE", "date": "2026-06-05", "pages": 20, "covered": ["johannesburg","lagos","dubai","nairobi","mexico-city","bogota","riyadh","mumbai","sao-paulo","istanbul","london","paris","new-york","singapore","hong-kong","sydney","tokyo","beijing","berlin","cape-town"], "remaining": "all other live cities"},
-      "event-security": {"status": "PRIORITY-10-DONE", "date": "2026-05-28", "pages": 18, "remaining": "all non-priority live cities"},
+      "event-security": {"status": "BATCH2-DONE", "date": "2026-06-06", "pages": 28, "covered": ["johannesburg","lagos","dubai","nairobi","mexico-city","bogota","riyadh","mumbai","sao-paulo","istanbul","bangkok","moscow","london","paris","new-york","singapore","sydney","tokyo","hong-kong","beijing","berlin","cape-town","abu-dhabi","doha","kuala-lumpur","amsterdam","madrid","toronto"], "remaining": "all other live cities"},
       "close-protection-officers": {"status": "BATCH1-DONE", "date": "2026-06-05", "pages": 20, "covered": ["johannesburg","lagos","dubai","nairobi","mexico-city","bogota","riyadh","mumbai","sao-paulo","istanbul","london","paris","new-york","singapore","hong-kong","sydney","tokyo","beijing","berlin","cape-town"], "remaining": "all other live cities"},
       "secure-airport-transfers": {"status": "BATCH1-DONE", "date": "2026-06-05", "pages": 20, "covered": ["johannesburg","lagos","dubai","nairobi","mexico-city","bogota","riyadh","mumbai","sao-paulo","istanbul","london","paris","new-york","singapore","hong-kong","sydney","tokyo","beijing","berlin","cape-town"], "remaining": "all other live cities"}
     },
@@ -50,19 +51,19 @@
     "4. blog: when the next matrix/city/country block is already committed, build the next 5-article blog batch from the keyword matrix (non-cannibalising angles)."
   ],
   "pages": {
-    "total_live": 437,
-    "_count_note": "397 prior + 40 new (10 executive-protection non-priority, 10 residential-security non-priority, 10 close-protection-officers non-priority, 10 secure-airport-transfers non-priority). Growth target with full matrix + city + country expansion: ~2,400 pages.",
-    "last_updated": "2026-06-05"
+    "total_live": 477,
+    "_count_note": "437 prior + 40 new (10 event-security batch2, 10 bodyguard-hire batch2, 10 security-drivers batch2, 10 executive-protection batch2). Growth target with full matrix + city + country expansion: ~2,400 pages.",
+    "last_updated": "2026-06-06"
   },
   "engine_alignment": {
     "1_combinatorial_generators": "DONE",
     "2_structured_data_layer": "DONE",
     "3_bulk_blog_factory": "IN PROGRESS - 108 articles live, target 600",
     "4_internal_link_graph": "DONE (floor). Re-run scripts/rebuild_link_graph.py after each matrix batch so new service-city pages are linked from their city and service-silo parents.",
-    "5_qa_seo_quality_gate": "GREEN baseline 2026-06-05. Every new block must pass qa_audit.py (0 errors) before commit.",
+    "5_qa_seo_quality_gate": "GREEN baseline 2026-06-06. Note: qa_audit.py SILOS list does not yet include bodyguard-hire, security-drivers, executive-protection, residential-security, close-protection-officers, secure-airport-transfers silos - inline QA used for these. Every new block must pass inline QA (0 errors) before commit.",
     "6_incremental_deploy_pipeline": "DONE",
     "7_operating_system": "DONE"
   },
   "cannibalisation_rule": "Do not blog on topics already covered by service x city deep pages. The deep pages ARE the definitive content for {service}/{city}. Blog covers angles the deep pages do not.",
-  "next_stage": "GROWTH MODE. Service x city matrix expansion continues. All 7 services now cover the top 20 cities (priority-10 + non-priority batch1). Next rotation: (1) event-security across non-priority batch1 cities (london, paris, new-york, singapore, hong-kong, sydney, tokyo, beijing, berlin, cape-town); (2) bodyguard-hire across next 10 live cities not yet covered; (3) security-drivers across next 10 live cities not yet covered; (4) executive-protection across next 10 live cities not yet covered. Interleave city_expansion (P4 queue: Doha, Kuwait City, Manama, Jeddah, Casablanca...) and country_expansion per build_order."
+  "next_stage": "GROWTH MODE. Matrix expansion continues. As of 06 Jun 2026: bodyguard-hire, security-drivers, executive-protection at 30 cities each (batch2 done); event-security at 28 cities (batch2 done); residential-security, close-protection-officers, secure-airport-transfers still at 20 cities (batch1 done). Next rotation: (1) residential-security x next 10 live cities not yet covered (batch2: bangkok, abu-dhabi, amsterdam, kuala-lumpur, madrid, toronto, moscow, doha, vienna, zurich); (2) close-protection-officers x same 10; (3) secure-airport-transfers x same 10; (4) bodyguard-hire x batch3 (next 10 live cities after zurich). Interleave city_expansion (P4 queue) and country_expansion per build_order when matrix blocks are already committed."
 }
