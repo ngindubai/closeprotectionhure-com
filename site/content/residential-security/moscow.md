@@ -1,0 +1,48 @@
+---
+title: "Residential Security in Moscow"
+description: "Residential security for diplomatic missions and essential operations in Moscow. Rosgvardia-licensed operators, threat assessment, and access control."
+slug: "moscow"
+h1: "Residential Security in Moscow, Russia"
+seo_title: "Residential Security Moscow | High-Risk Residential Protection"
+service: "residential-security"
+city: "Moscow"
+country: "Russia"
+risk_level: "high"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-06-05"
+cta_text: "Require residential security planning for Moscow? Contact us for a confidential brief."
+components:
+  - title: "FCDO Travel Advisory and Context"
+    description: "The UK Foreign, Commonwealth and Development Office (FCDO) advises against all travel to Russia as at 2024, in response to the ongoing Russia-Ukraine conflict and the associated risks to foreign nationals in Russia, including the legal risks created by Russia's domestic legislation on foreign activities and media. The information on this page is provided for organisations and individuals maintaining a necessary presence in Moscow (diplomatic missions, international organisations, essential humanitarian or commercial operations) and is not intended to encourage travel to Russia contrary to UK government advice."
+  - title: "Rosgvardia Licensing for Private Security"
+    description: "Private security in Russia is governed by Federal Law No. 2487-I of 11 March 1992 on Private Detective and Security Activities, as amended. Both private security companies (chastnye okhrannye organizatsii, or ChOO) and individual security guards must hold licences from Rosgvardia (the Federal Service of the National Guard, or Rosgvardiya). The licence is categorised: guards may be unarmed or armed (with a specific higher-category licence and authorised weapon). Moscow's private security market is large and well-established; the Rosgvardia licensing database provides the verification reference for company and individual licences."
+  - title: "Residential Security for Diplomatic and International Staff"
+    description: "Foreign diplomatic missions and international organisations maintaining staff accommodation in Moscow face a specific residential security environment characterised by elevated counter-intelligence awareness, monitoring of foreign national movements, and the legal risks created by Russia's foreign-agent legislation. Residential security for this community focuses on: physical property security (reinforced access points, CCTV, alarm systems), access control for household staff with detailed vetting, operational security (OPSEC) in communications and routine, and coordination with the relevant national embassy security apparatus."
+  - title: "Domestic Staff Vetting Considerations in Moscow"
+    description: "Household staff in Moscow for foreign principals present elevated vetting complexity compared with most markets. Russian domestic workers may be subject to domestic intelligence service contact and information requests as a matter of state practice, which is distinct from the standard insider-risk considerations in Western markets. Vetting covers standard employment history and reference verification, but the operational security advice for foreign household principals in Moscow extends to limiting staff awareness of the principal's schedule, movements, and communications. This is a materially different regime from domestic staff management in most European or Asian cities."
+  - title: "Physical Property Security in Moscow"
+    description: "Moscow's HNWI and senior diplomatic residential zones are primarily along the Rublyovo-Uspenskoye Highway (Rublyovka), in Krylatskoe, Ramenki, and within the Moscow Garden Ring (Sadovoye Koltso) in Patriarch's Ponds and Prechistenka areas. Physical security for Moscow properties in the current environment centres on: reinforced access control (entry doors and gate systems), alarm monitoring through a local authorised monitoring company, CCTV with off-site recording where technically achievable, and a property emergency protocol agreed with the relevant embassy or international organisation."
+  - title: "Emergency Departure Planning"
+    description: "For foreign nationals and diplomatic staff in Moscow, an emergency departure plan is a required element of any residential security assessment in the current environment. This covers the confirmed departure route and transport (typically through Sheremetyevo or Domodedovo, with alternative modes identified), the documentation and personal items to be immediately accessible (passports, medications, essential communications devices), the communication chain with the relevant embassy security attache or organisation security manager, and the threshold criteria for initiating the departure. Emergency departure planning is not speculation; it is standard practice for every major embassy in Moscow."
+faqs:
+  - question: "Should foreign nationals be in Moscow at all?"
+    answer: "The UK FCDO advises against all travel to Russia as at 2024. The information on this page applies to individuals who are in Moscow as part of diplomatic, international organisation, humanitarian, or essential business functions that require a Moscow presence despite the advisory. The FCDO advisory reflects real and documented risks to foreign nationals in Russia, including arrest under broadly-worded domestic legislation, detention for questioning, and the general legal vulnerability of foreign nationals in the current political environment. Anyone considering travel to Russia should consult their national government's current travel advice before doing so."
+  - question: "How is Russian private security licensed?"
+    answer: "Private security companies in Russia (ChOO - chastnye okhrannye organizatsii) must hold a licence from Rosgvardia (Federal Service of the National Guard). Individual guards must also be individually licensed, with armed guards requiring a higher-category licence with specific weapons authorisation. The Rosgvardia licensing database is the verification reference. For foreign organisations engaging residential security in Moscow, additional considerations apply: the operating company's relationship with domestic state structures is a due-diligence factor that goes beyond the formal licensing check."
+  - question: "What are the specific residential security risks for foreign nationals in Moscow?"
+    answer: "The residential security risks for foreign nationals in Moscow in the current environment include: targeted surveillance of movements and communications by domestic intelligence services (FSB), legal risks from broadly-worded legislation that criminalises certain foreign-origin activities and communications, standard property crime risks (burglary, vehicle theft) that are documented in Moscow city crime statistics, and the risk of being caught in a civil emergency or rapidly-escalating political situation that makes departure difficult. The threat picture is materially more complex than residential security planning in most European or Asian cities."
+  - question: "What does residential security assessment cover for Moscow?"
+    answer: "For a Moscow residential security engagement, the assessment covers: physical property security (access control, CCTV, alarm systems appropriate to the regulatory environment), domestic staff vetting with operational security considerations specific to Russia, emergency departure planning, coordination with the relevant embassy or organisation security structure, and a threat assessment specific to the principal's profile and sector. Communications security is also addressed as part of any Moscow residential security brief, as the threat to electronic communications is documented and significant in the current environment."
+---
+
+Moscow residential security in the current environment is a specialist discipline that sits at the intersection of conventional property security and high-risk counter-intelligence awareness. The FCDO advises against all travel to Russia as at 2024; the residential security information on this page applies exclusively to organisations and individuals maintaining a necessary presence in Moscow despite that advice, including diplomatic missions, international organisations, and essential commercial operations.
+
+## The regulatory and intelligence environment
+
+Private security in Russia operates under Federal Law No. 2487-I (1992, as amended), with Rosgvardia licensing for both companies and individuals. The regulatory framework is functional, but the operational environment for foreign principals in Moscow requires a due-diligence assessment of any local security company that goes beyond the formal licence check. The domestic intelligence dimension makes the Moscow residential security assessment significantly more complex than equivalent work in European cities.
+
+## Physical security, staff management, and emergency planning
+
+The three pillars of Moscow residential security for foreign principals are physical property hardening, rigorous operational security in domestic staff management, and a rehearsed emergency departure plan coordinated with the relevant embassy or organisation. These three elements work together: physical security reduces the ease of physical access; staff management reduces the information available to external parties through household personnel; emergency planning ensures that if conditions deteriorate, the principal can depart without improvising under pressure.
+
+For the broader threat picture for Moscow, see our [Moscow city page](/cities/moscow/) and [executive protection in Moscow](/executive-protection/moscow/).
