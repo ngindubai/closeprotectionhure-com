@@ -1,0 +1,46 @@
+---
+title: "Executive Protection in Tel Aviv"
+description: "Executive protection in Tel Aviv. RAAS-licensed CPOs with armed capability for a FCDO Level 4 conflict environment. Rocket alert protocols and advance work for Israel deployments."
+slug: "tel-aviv"
+h1: "Executive Protection in Tel Aviv, Israel"
+seo_title: "Executive Protection Tel Aviv | Armed EP Israel"
+service: "executive-protection"
+city: "Tel Aviv"
+country: "Israel"
+risk_level: "critical"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-06-05"
+cta_text: "Deploying to Tel Aviv? Request a current conflict-environment EP brief before any Israel programme is confirmed."
+components:
+  - title: "Israeli RAAS Private Security Regulation"
+    description: "Private security and executive protection in Israel are regulated by the Regulatory Authority for Private Security Services (RAAS) under the Ministry of Public Security (Misrad HaBitahon HaPnim). Security companies must hold RAAS company licences, and individual CPOs must hold RAAS personal licences at the appropriate level. Armed CPOs require individual RAAS firearms permits authorised through coordination with Israel Police; firearms authorisations for private security are specific to the individual and the engagement type. Israel has a high density of experienced CPOs with backgrounds in the IDF, Shin Bet (ISA), Israeli Police, and the Mossad; ex-IDF personnel with special forces or intelligence unit backgrounds are commonly deployed on elevated-risk EP engagements. RAAS personal licence and company licence are the regulatory baseline; ex-IDF or ISA background is the operational quality differentiator in the Israeli market."
+  - title: "FCDO Level 4 and Conflict Zone Assessment"
+    description: "Israel is the only destination in this directory where the FCDO advises against all travel to the entire country. The US State Department rates Israel at Level 4 (Do Not Travel). These are not elevated crime assessments: Israel is an active conflict environment. As at June 2026, ongoing Hamas rocket fire from Gaza, the fragile Hezbollah ceasefire on the northern border, Houthi ballistic missile and drone attacks on Israeli territory (April 2025 impact in the Tel Aviv area), and the residual hostage situation following October 2023 define an EP operating context with no direct parallel in standard commercial EP markets. Every Tel Aviv deployment requires a specific, current threat assessment drawing on RAAS-level intelligence and pre-travel specialist briefing, not standard corporate EP protocols."
+  - title: "Rocket Alert Protocols and Shelter Planning"
+    description: "Rocket and missile alerts (Tzeva Adom - Red Alert) are a standard operational reality for EP teams in Tel Aviv. The Iron Dome system provides partial interception but does not neutralise every projectile; residents are required to reach shelter within 90 seconds of an alert in the Tel Aviv area. EP planning in Tel Aviv integrates shelter point mapping into every advance element: every hotel, meeting venue, principal residence, and vehicle route is assessed for shelter point locations and time-to-shelter. When an alert sounds during a CPO-covered movement, the immediate action is to stop the vehicle, exit, and reach shelter -- the vehicle provides no protection from rocket or fragment impact. Principals who deploy to Tel Aviv are briefed on this protocol before arrival and confirm understanding as part of the pre-deployment brief."
+  - title: "Surface Attack and Vehicle Ramming Awareness"
+    description: "In addition to the rocket threat, Tel Aviv faces documented surface attack risk: the February 2025 bus bombing attacks (three devices detonated, two further devices found before detonation), vehicle ramming attacks across Israeli urban environments, and knife and firearms attacks at commercial and public spaces are all documented in the post-October 2023 operational environment. EP in Tel Aviv avoids public transport entirely for principal movements; only private vetted vehicles are used. Route planning addresses vehicle ramming risk at pedestrianised areas; movement through crowded market areas, transport hubs, and publicly accessible entertainment districts is assessed on a case-by-case basis and often avoided during elevated threat periods. The March 2023 attack near the US Embassy on HaYarkon Street is a reference incident for route planning in central Tel Aviv."
+  - title: "EP Team Structure for Tel Aviv Deployments"
+    description: "Tel Aviv EP team structures are typically more robust than those used in comparable commercial markets, reflecting the conflict environment. Minimum deployments involve an armed CPO and a security driver; higher-profile or elevated-threat engagements use a team with a dedicated operations controller maintaining real-time threat intelligence, an advance CPO, close protection CPOs, and a dedicated vehicle team. Ex-IDF and ex-ISA CPOs bring specific value in the Israeli environment: knowledge of PIKUD HAOREF (IDF Home Front Command) alert systems and protocols, familiarity with Israeli military checkpoint procedures, and the tactical awareness relevant to the current conflict environment. All Tel Aviv EP deployments are preceded by a mandatory current-environment briefing from a specialist provider with active Israel intelligence."
+faqs:
+  - question: "Is it possible to run a Tel Aviv EP deployment safely given the current conflict?"
+    answer: "The FCDO advises against all travel to Israel, and any Tel Aviv deployment requires a specific, current risk assessment. EP provision is a necessary component of any deployment that does proceed after the principal and their advisers have made an informed risk decision -- EP does not make a FCDO Level 4 deployment safe, it reduces the risk exposure within the deployment. Armed CPO teams with ex-IDF backgrounds, rocket alert shelter planning, private vehicle-only transport, and real-time operations controller intelligence support are the baseline EP infrastructure for any Tel Aviv deployment in the current environment."
+  - question: "What does the rocket alert protocol mean for EP operations in Tel Aviv?"
+    answer: "The Red Alert (Tzeva Adom) siren requires reaching shelter within 90 seconds. EP teams have shelter points mapped for every location on the itinerary. When an alert sounds during a vehicle movement, the immediate action is to stop the vehicle and exit -- the vehicle provides no protection. CPOs and principals are briefed on this before arrival. The operations controller monitors PIKUD HAOREF alerts in real time and pre-warns the CP team of escalating threat periods where intelligence permits."
+  - question: "Why is armed EP the standard approach for Tel Aviv?"
+    answer: "Armed EP is the standard approach in Tel Aviv because the threat profile -- rocket attacks, surface attacks, vehicle rammings, bombings of transport infrastructure -- requires CPOs with defensive firearms capability and the tactical awareness to respond appropriately. The Israeli private security market has a deep pool of ex-IDF and ISA personnel with directly relevant conflict-environment experience. RAAS individual firearms permits and company licences provide the regulatory basis for armed EP in Israel."
+  - question: "What does executive protection cost per day in Tel Aviv?"
+    answer: "EP day rates in Tel Aviv for a RAAS-licensed, armed, ex-IDF-background CPO typically range from USD 500 to USD 900 per day; full team deployments with operations controller, advance, and vehicle team typically range from USD 1,500 to USD 3,000 per day plus vehicle and communications costs, as at June 2026. The conflict environment premium reflects both the elevated operational requirements and the specialist skill set required. All deployments include a pre-engagement current-environment briefing as a standard component."
+---
+
+Tel Aviv executive protection operates in an active conflict environment where FCDO advises against all travel to Israel and the US State Department rates the country at Level 4. RAAS licensing under the Ministry of Public Security provides the regulatory framework; armed CPOs with ex-IDF and ISA backgrounds, rocket alert shelter planning, and current-environment intelligence integration are the operational standards for every Tel Aviv EP deployment.
+
+## Israeli RAAS regulatory framework
+
+Tel Aviv CPOs hold RAAS personal licences with RAAS firearms permits for armed personnel. Operating companies hold RAAS company licences. All credentials are confirmed; armed personnel hold specific firearms authorisations issued through coordination with Israel Police.
+
+## Tel Aviv EP operational environment
+
+Every deployment begins with a mandatory current-environment briefing. Shelter points are mapped for every location. Rocket alert protocols are briefed to principals before arrival. Armed CPO teams with ex-IDF or ISA backgrounds are the standard; team size scales with threat assessment, from a minimum two-person armed CPO-and-driver team to a full multi-element team with operations controller.
+
+For the broader Tel Aviv security overview, see our [Tel Aviv city page](/cities/tel-aviv/) and our [security drivers in Tel Aviv](/security-drivers/tel-aviv/) and [bodyguard hire in Tel Aviv](/bodyguard-hire/tel-aviv/) pages.

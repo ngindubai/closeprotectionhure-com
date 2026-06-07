@@ -1,0 +1,46 @@
+---
+title: "Executive Protection in Milan"
+description: "Executive protection in Milan. TULPS Prefettura-licensed CPOs for fashion sector executives and HNWI principals during Fashion Week, Salone del Mobile, and corporate engagements."
+slug: "milan"
+h1: "Executive Protection in Milan, Italy"
+seo_title: "Executive Protection Milan | GPG EP Italy"
+service: "executive-protection"
+city: "Milan"
+country: "Italy"
+risk_level: "low"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-06-05"
+cta_text: "Attending Milan Fashion Week or Salone del Mobile with a high-profile principal? Request a Prefettura-licensed EP brief."
+components:
+  - title: "Italian TULPS and Prefettura GPG Licensing"
+    description: "Executive protection in Italy is governed by the Testo Unico delle Leggi di Pubblica Sicurezza (TULPS, R.D. 773/1931) and its implementing regulation (R.D. 635/1940). Security companies and individual Guardie Particolari Giurate (GPG) must obtain authorisation from the relevant Prefettura (prefecture). In Milan, this is the Prefettura di Milano. Individual GPG authorisation requires Italian or equivalent EU citizenship, background investigation, physical fitness certification, and completion of Prefettura-approved security training. Security companies must hold a Prefettura company authorisation for GPG activities covering the specific province. Armed GPG personnel require separate Prefettura firearms authorisations. The Prefettura di Milano maintains the register of authorised operators and is the primary due diligence reference for clients engaging EP services in the city."
+  - title: "Milan Fashion Week and Salone del Mobile Threat Context"
+    description: "Milan Fashion Week (February-March Autumn-Winter and September-October Spring-Summer) and Salone del Mobile design fair (April-May) are the two periods when EP demand in Milan is highest. FCDO Italy travel advice (2024) and Italian Polizia di Stato crime data document professional theft operations specifically targeting luxury sector principals during these events: watch and jewellery theft, handbag snatching, and vehicle break-ins targeting high-specification vehicles at hotel departures. For EP purposes, Fashion Week creates a compressed window during which the Quadrilatero della Moda (Via Montenapoleone, Via della Spiga, Via Manzoni, Via Sant'Andrea) concentrates internationally recognisable luxury sector principals at predictable locations in a geographically small area. EP advance work during these periods prioritises hotel departure management, venue egress planning, and vehicle security protocols for show venues."
+  - title: "Advance Work and Milan Venue Assessment"
+    description: "Milan EP advance work covers the principal's hotel, runway show venue access, corporate showroom and buyer meeting logistics, and Malpensa or Linate airport transfer. The Four Seasons Hotel Milan, Bulgari Hotel Milan, and Armani Hotel Milan in the Quadrilatero are the primary luxury hotel venues for Fashion Week principals. The Grand Hotel et de Milan and Mandarin Oriental Milan are used by some senior corporate and arts sector principals for Salone del Mobile. Advance work at Quadrilatero hotels covers: vehicle approach logistics on Via Manzoni and Via Montenapoleone (narrow streets with significant pedestrian and press activity during Fashion Week), hotel security provision and CPO lobby access, alternative departure routes, and ZTL (Zona a Traffico Limitato) pass requirements for restricted zone vehicle access."
+  - title: "Italian Terrorism Awareness"
+    description: "Italy maintains a high terrorism threat rating from FCDO. AISI (Agenzia Informazioni e Sicurezza Interna), Italy's domestic intelligence service, actively monitors Islamist and anarchist threat streams; the Polizia di Stato DIGOS counter-terrorism units maintain a visible protective presence at major public events. Milan's Malpensa and Linate airports, Stazione Centrale, and Piazza del Duomo are assessed as primary target categories in Italy's terrorism threat picture. EP advance work for these venues includes awareness of AISI and Polizia di Stato counter-terrorism protocols, confirmation of DIGOS liaison for high-profile principal visits to symbolic Milan locations, and integration of emergency extraction planning into the venue assessment for Piazza del Duomo and the Galleria Vittorio Emanuele II."
+  - title: "Operational Profile and Cultural Calibration"
+    description: "Milan EP operations require a discretion standard consistent with Italian fashion and corporate culture: the city's professional and creative sectors place high value on understated elegance, and conspicuous security presence is particularly counterproductive at fashion industry events where the EP team's visibility reflects on the principal. CPOs operating in Milan's Quadrilatero and at Fashion Week venues dress to the professional standard of the environment; overt tactical appearance is not appropriate for this operational setting. The balance between effective protection and low-profile professional presentation is a critical calibration for Milan EP, particularly for principals whose Fashion Week attendance is a business development activity where the EP team's behaviour directly affects the principal's industry relationships."
+faqs:
+  - question: "What Prefettura and GPG licensing applies to Milan EP CPOs?"
+    answer: "Milan EP CPOs must hold individual GPG authorisation from the Prefettura di Milano under TULPS (R.D. 773/1931). Armed CPOs additionally hold Prefettura firearms authorisations. Operating companies must hold Prefettura company authorisation for GPG activities in the province of Milan. The Prefettura di Milano register is the primary verification reference. Both company and individual CPO authorisations should be confirmed before engagement."
+  - question: "What is the specific EP threat during Milan Fashion Week?"
+    answer: "During Milan Fashion Week, professional theft teams specifically target luxury sector principals at predictable Quadrilatero locations: watch and jewellery theft at hotel departures on Via Montenapoleone and Via Manzoni is documented in FCDO Italy travel advice and Polizia di Stato crime data. The compressed period and geographic concentration of internationally known principals at specific venues creates a high-value targeting environment. EP advance work during Fashion Week prioritises hotel departure management, anti-surveillance protocols at Quadrilatero venues, and vehicle security for show venue transfers in collaboration with the principal's fashion house security teams."
+  - question: "How does the ZTL restriction affect EP operations in Milan?"
+    answer: "Milan's Zona a Traffico Limitato (ZTL) restricts vehicle access to the historic centre including the Quadrilatero della Moda and the Duomo area. Security driver and EP vehicles require current ZTL pass credentials for the specific zones relevant to the principal's hotel and meeting locations. ZTL exceptions apply during certain event periods; EP advance work confirms the ZTL access requirements for each day of the engagement. Failure to hold the correct ZTL pass results in automatic fine enforcement through ANPR cameras throughout the restricted zone."
+  - question: "What does executive protection cost per day in Milan?"
+    answer: "EP day rates in Milan for a Prefettura-authorised, vetted GPG CPO typically range from EUR 400 to EUR 700 per day; two-person team rates with a CPO and security driver run EUR 750 to EUR 1,200 per day plus vehicle costs, as at June 2026. Fashion Week and Salone del Mobile period engagements carry an event-period premium. Malpensa transfer engagements at 50 km are factored into the vehicle cost element. Multi-day Fashion Week retainers are the standard commercial structure for the event period."
+---
+
+Milan executive protection serves the fashion sector, luxury goods industry, and corporate principal base that concentrates in the city during Fashion Week and Salone del Mobile. TULPS and Prefettura di Milano GPG licensing provides the regulatory framework; professional theft targeting of luxury sector principals during event periods is the primary threat specific to Milan, requiring advance work and hotel departure protocols calibrated to the Quadrilatero environment.
+
+## Italian TULPS and Prefettura compliance
+
+Milan CPOs hold Prefettura di Milano GPG authorisations under TULPS (R.D. 773/1931). Armed CPOs hold Prefettura firearms authorisations. Operating companies hold Prefettura company authorisations. All credentials confirmed before deployment.
+
+## Milan EP operational environment
+
+Advance work covers Quadrilatero hotel departure security during Fashion Week and Salone del Mobile, Malpensa and Linate airport transfer logistics, ZTL-compliant vehicle access for the restricted centre, Italian terrorism awareness at Malpensa, Linate, and Stazione Centrale, and operational profile calibration for the fashion industry professional environment.
+
+For the broader Milan security overview, see our [Milan city page](/cities/milan/) and our [security drivers in Milan](/security-drivers/milan/) and [bodyguard hire in Milan](/bodyguard-hire/milan/) pages.
