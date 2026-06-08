@@ -1,0 +1,50 @@
+---
+title: "Close Protection Officers in Miami"
+seo_title: "Close Protection Officers Miami | Florida CPO Hire"
+description: "Florida Division of Licensing-compliant CPOs in Miami. Discreet close protection for HNWI principals, executives, and corporate visitors to South Florida."
+slug: "miami"
+h1: "Close Protection Officers in Miami, USA"
+service: "close-protection-officers"
+city: "Miami"
+country: "USA"
+risk_level: "medium"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-06-05"
+cta_text: "Visiting Miami for business or private travel? Request a Florida-licensed CPO brief today."
+components:
+  - title: "Florida Division of Licensing: Class D and Class G Licences"
+    description: "Florida regulates security personnel under Florida Statutes Chapter 493, administered by the Florida Division of Licensing within the Department of Agriculture and Consumer Services. Unarmed security officers require a Class D licence, while armed officers must hold a Class G licence, which requires completion of a qualifying firearms course and ongoing requalification. Employing companies must also hold a Class B licence as a security agency. All CPO personnel supplied for Miami engagements hold current, individually verified Florida Division of Licensing credentials under F.S. Chapter 493."
+  - title: "Crime Profile: US OSAC Assessment and Targeted Risk"
+    description: "Miami-Dade County is not a benign security environment. The US OSAC Miami Crime and Safety Report 2023 documents robbery, vehicle theft, and carjacking, with elevated concentrations in Liberty City, Overtown, and parts of the urban core. Beyond ambient crime, Miami's position as a global financial hub and HNWI gathering point creates a targeted-crime environment: corporate principals and ultra-high-net-worth individuals are subject to surveillance and financially motivated crime in Brickell, South Beach, and at high-profile social events. CPO cover reduces the predictability and accessibility that targeted crime relies upon."
+  - title: "HNWI and Corporate Sector: Brickell, South Beach, and Coral Gables"
+    description: "Miami's corporate and HNWI activity clusters in Brickell (financial district), Coconut Grove (private family offices), Coral Gables (multinational corporate headquarters), and South Beach (entertainment, arts, and hospitality). Each of these environments carries distinct CPO operating requirements: Brickell's high-density professional environment favours discreet business-attire cover, while South Beach's high-profile social scene requires low-visibility CPO teams capable of integrating into private event environments. CPO packages are tailored to the specific venues and social contexts of each Miami engagement."
+  - title: "Art, Entertainment, and Event Security"
+    description: "Miami is a global hub for the arts (Art Basel Miami Beach, December), fashion, music, and entertainment industries. These sectors generate concentrated HNWI and celebrity principal movement across private events, art fair openings, and entertainment venues that present specific CPO challenges: large crowds, limited access control, high media presence, and principals with significant public profiles. CPO teams for Miami event engagements are experienced in these environments, working within the event security infrastructure while maintaining a focused principal protection posture."
+  - title: "Organised Crime and Financial Crime Awareness"
+    description: "Miami has a documented history of organised crime and money-laundering activity, reported by the US FBI Miami Field Office and referenced in FinCEN advisories for South Florida financial institutions. For corporate principals involved in commercial transactions, real estate, or financial services in Miami, the CPO function extends to threat intelligence awareness about counter-parties and meeting environments. This is not a physical protection issue alone: CPO teams advise on venue selection, meeting security, and the indicators of commercially motivated surveillance."
+  - title: "Discreet Cover for Private and Family Office Principals"
+    description: "A significant portion of Miami's CPO demand comes from family offices, private equity principals, and HNWI clients whose requirement is discretion above all else. These principals seek CPO teams that are invisible in social environments, protect privacy as vigorously as physical security, and are accustomed to operating in high-value residential settings in Miami Beach, Surfside, and Fisher Island. CPO packages for this client profile emphasise residential security surveys, discreet transport arrangements, and protection that does not impede the principal's normal social and professional life."
+faqs:
+  - question: "What licence must a CPO hold to work in Miami, Florida?"
+    answer: "Florida Statutes Chapter 493, administered by the Florida Division of Licensing, requires all security personnel to hold individual state licences. An unarmed close protection officer must hold a Class D licence. An armed officer must additionally hold a Class G licence, which requires completion of a qualifying firearms training course and periodic requalification. The employing security company must hold a Class B agency licence. These are individual licences tied to the person, not just the company. Requesting sight of the officer's current Division of Licensing credentials before deployment is standard due diligence."
+  - question: "How does US OSAC rate crime risk in Miami for business visitors?"
+    answer: "The US OSAC Miami Crime and Safety Report 2023 describes Miami-Dade as a high-crime urban environment by US standards, with documented robbery, vehicle theft, and carjacking across multiple areas. The report specifically notes elevated risk in Liberty City, Overtown, and parts of the city centre. For HNWI and corporate principals, the more significant risk is targeted crime: surveillance-led robbery, vehicular assault, and financial crime conducted in proximity to Miami's established wealth concentrations in Brickell, South Beach, and Coral Gables. CPO cover is a recognised mitigation for this category of threat."
+  - question: "Is armed CPO cover available in Miami?"
+    answer: "Armed CPO cover is available in Miami through operators holding Class G-licensed personnel under Florida Statutes Chapter 493. Florida has a relatively accessible armed security licensing framework compared to some US states, but individual officer requalification requirements mean that not all agencies maintain armed-capable CPO teams year-round. For most corporate and HNWI CPO engagements in Miami, the decision on armed cover is made on the basis of a threat assessment: the majority of South Beach and Brickell engagements operate with unarmed discreet cover, while higher-risk principals or specific operational contexts may warrant armed capability."
+  - question: "What are the main CPO challenges at events like Art Basel Miami Beach?"
+    answer: "Art Basel Miami Beach (held annually in December at the Miami Beach Convention Centre and satellite venues across Miami Beach and Wynwood) presents concentrated HNWI and high-profile principal movement across multiple venues, high media and paparazzi presence, and significant crowd density in relatively uncontrolled public spaces. CPO challenges include: maintaining low-profile cover while the principal is in the public eye; managing access to private events and VIP spaces; coordinating with event security, hotel security, and private venue staff; and managing the principal's transport in an area with heavy traffic and limited controlled arrival points. Pre-advance of all venues and pre-agreed departure procedures are essential."
+  - question: "Do CPO teams in Miami typically wear suits or blend with casual environments?"
+    answer: "The correct dress standard for a Miami CPO engagement depends entirely on the principal's itinerary and social environment. Brickell corporate environments typically call for business attire. South Beach and Wynwood social environments call for smart-casual or event-appropriate dress that does not create the visibility of a suited security detail. CPO teams operating in Miami are briefed on each day's environment and dress to blend with the principal's social context rather than conforming to a single visible standard. This discipline is particularly important in entertainment and art-world environments where overt security postures are commercially and socially counterproductive."
+---
+
+Miami occupies a unique position in the global security landscape: it is simultaneously a world-class financial and cultural hub and a high-crime urban environment by US standards. The US OSAC Miami Crime and Safety Report 2023 documents vehicle crime, robbery, and carjacking across Miami-Dade, while the city's role as a global gathering point for HNWI principals, corporate executives, and entertainment-industry figures creates a distinct targeted-crime and surveillance environment.
+
+## Regulatory framework
+
+Florida's private security sector is regulated under Florida Statutes Chapter 493 by the Florida Division of Licensing. Individual CPOs hold Class D (unarmed) or Class G (armed) licences. All CPO personnel supplied for Miami engagements hold current Florida Division of Licensing credentials, and employing agencies hold Class B agency registration.
+
+## CPO priorities in Miami
+
+CPO cover in Miami is calibrated to the specific environment of each engagement. Brickell and Coral Gables corporate details demand discreet business-appropriate cover. South Beach and art-world engagements require CPO teams capable of operating invisibly in high-profile social environments. Art Basel Miami Beach and similar concentrated HNWI events require pre-advanced venue plans and coordinated departure procedures.
+
+For broader context on Miami's security profile, see our [Miami city page](/cities/miami/) and [bodyguard hire in Miami](/bodyguard-hire/miami/).
