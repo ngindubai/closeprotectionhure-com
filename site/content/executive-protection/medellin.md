@@ -1,0 +1,38 @@
+---
+title: "Executive Protection in Medellin"
+description: "Supervigilancia-licensed executive protection in Medellin. Organised crime risk profiling, scopolamine awareness and vetted EP teams for Colombia's second city."
+slug: "medellin"
+h1: "Executive Protection in Medellin, Colombia"
+seo_title: "Executive Protection Medellin | EP Colombia"
+service: "executive-protection"
+city: "Medellin"
+country: "Colombia"
+risk_level: "high"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-06-08"
+cta_text: "Visiting Medellin for corporate leadership, technology sector work, or investment? Request a Supervigilancia-licensed EP team briefing."
+components:
+  - title: "Supervigilancia Licensing"
+    description: "Private security in Colombia is regulated by the Superintendencia de Vigilancia y Seguridad Privada (Supervigilancia) under the Ministry of Defence. Executive protection companies and their personnel must hold valid Supervigilancia registration. The Colombian regulatory framework is among the more developed in South America, with consistent national standards for EP training, licensing, and operational procedures. All our Medellin EP partners hold current Supervigilancia registration and carry corporate references for international technology sector, manufacturing, development finance, and private equity client work. Verify operator registration with Supervigilancia before engagement."
+  - title: "Principal Risk Profiling for the Medellin Context"
+    description: "Medellin attracts a specific and growing international principal category: technology sector executives (Medellin has developed a significant tech and startup ecosystem centred on El Poblado), manufacturing and nearshoring investors, private equity and venture capital principals, and real estate developers. Each category carries a different risk profile in the Medellin context. Technology sector principals with public media profiles attract higher surveillance risk. Real estate and development investors with large local transaction values attract organised crime intelligence. EP planning begins with a principal risk assessment that maps the principal's sector profile against the Medellin organised crime landscape, which is more complex and segmented than a simple high/medium/low framework."
+  - title: "Organised Crime Landscape and Zone Discipline"
+    description: "Medellin's organised crime ecosystem -- primarily the Oficina de Envigado network and affiliated groups -- maintains territorial control in significant portions of the city outside the El Poblado-Laureles core. The visible transformation of El Poblado reflects a genuine improvement in that zone's crime profile, but the broader city's criminal infrastructure has not been eliminated. EP operations in Medellin maintain strict zone discipline: El Poblado, Laureles, Envigado, and El Centro during business hours are the operational zones; peripheral communes are excluded from any principal movement without a specific current security assessment. The EP team also maintains awareness of which business and social venues in El Poblado attract organised crime intelligence-gathering activity, and advises the principal on venue selection accordingly."
+  - title: "Scopolamine (Burundanga) Risk and Venue Management"
+    description: "Scopolamine-facilitated crimes are documented in Medellin and represent a specific EP focus. The drug is administered covertly through drinks, food, or physical contact, and renders the victim compliant and amnesiac. EP operations address scopolamine risk as a standing operating protocol: advance venue vetting for all dining and networking engagements, briefing the principal on administration methods and prevention behaviour, restriction on accepting unsolicited food or beverages in any setting, and avoidance of isolation with unknown individuals. Night venues in El Poblado's party area carry heightened scopolamine exposure. The EP team provides a physical presence that both deters approach and enables immediate response if signs of administration appear."
+  - title: "40km Airport Transfer and Emergency Extraction"
+    description: "Jose Maria Cordova International Airport (MDE) is 40 kilometres east of Medellin via mountain tunnel. EP operations treat this transfer as a distinct planning element: 45-70 minute duration, road accident risk in wet conditions, periods of limited police visibility on the mountain route. Inside-terminal EP collection is standard. The transfer is pre-planned with timing coordinated to avoid peak tunnel congestion. Emergency extraction planning for Medellin EP assignments covers: confirmed route from the principal's accommodation to MDE, La Catedral Olaya Herrera Airport (OLL, inside the city) as a backup for regional extraction, communications tree for emergency deployment, and medical planning with identified private clinic contacts in El Poblado and evacuation to Bogota or Panama City for serious cases."
+faqs:
+  - question: "What principal type requires executive protection in Medellin?"
+    answer: "Technology sector executives with a public media profile, private equity and venture capital principals involved in high-value Medellin transactions, and real estate developers with large local asset exposure warrant dedicated EP. The risk is primarily organised crime intelligence-gathering and targeted robbery rather than terrorism or political risk. The scopolamine threat is relevant for any principal with a social itinerary in El Poblado night venues."
+  - question: "How does the EP team manage scopolamine risk in practice?"
+    answer: "Advance venue vetting before every dining or networking engagement. Pre-deployment principal briefing on scopolamine administration methods. Standing restriction on accepting unsolicited food or beverages. Avoidance of isolation situations. Physical EP presence in all social settings. Immediate response protocol if administration signs appear. The EP team's presence both deters approach and enables early intervention."
+  - question: "What Supervigilancia licensing applies to Medellin EP operators?"
+    answer: "All EP operators in Colombia must hold Supervigilancia registration under the Ministry of Defence. The framework is among South America's more consistently enforced. Verify registration directly with Supervigilancia and obtain corporate references from international clients with Colombia EP experience before engagement."
+  - question: "How is emergency extraction managed given the 40km airport distance?"
+    answer: "The primary extraction route is pre-confirmed to Jose Maria Cordova Airport (MDE) via the mountain tunnel. La Catedral Olaya Herrera Airport (OLL), inside the city, provides a backup for regional destinations. Medical planning identifies private clinic contacts in El Poblado and evacuation routing to Bogota or Panama City for serious cases. Departure timing is pre-confirmed with cushion for tunnel congestion and weather-related delays."
+---
+
+Medellin executive protection is calibrated to Colombia's second city: Supervigilancia-licensed operators, organised crime principal risk profiling, scopolamine awareness and venue management, and the 40km Jose Maria Cordova Airport transfer as a distinct planning element.
+
+For the full Medellin security picture, see our [Medellin city briefing](/cities/medellin/). For vetted secure transport alongside the EP team, [security drivers in Medellin](/security-drivers/medellin/) covers the Colombia driver programme.
