@@ -1,0 +1,62 @@
+---
+title: "Executive Protection in Conakry"
+description: "Executive protection in Conakry for mining, diplomatic, and NGO principals. DNSP-licensed operators, post-coup risk assessment, and medevac planning to Dakar."
+slug: "conakry"
+h1: "Executive Protection in Conakry, Guinea"
+seo_title: "Executive Protection Conakry | EP Guinea"
+service: "executive-protection"
+city: "Conakry"
+country: "Guinea"
+risk_level: "high"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-06-09"
+cta_text: "Request a tailored EP programme for Conakry today."
+components:
+  - title: "Licensing and Regulatory Framework in Guinea"
+    description: "Private security in Guinea is regulated through the Direction Nationale de la Securite Publique (DNSP), which operates under the Ministry of Interior. Operators are required to register with the DNSP and ensure that personnel meet minimum vetting and training standards, though enforcement capacity is constrained by the country's limited institutional infrastructure. Following the September 2021 coup led by the CNRD (Conseil National du Rassemblement et du Developpement) under Colonel Mamadi Doumbouya, the regulatory environment has become less predictable: security sector reform is ongoing and operator relationships with state security entities require careful ongoing management. Clients should verify that their EP provider holds current DNSP registration, maintains documented vetting records for all personnel, and has an established working relationship with relevant ministry contacts under the transitional government. International operators working in Guinea typically partner with a local licensed company to ensure compliance and to maintain the access relationships that are essential for operating in a post-coup environment. Armed EP is available for high-risk principals through licensed operators, subject to DNSP authorisation."
+
+  - title: "Crime and Armed Robbery Risk"
+    description: "Conakry carries a well-documented armed robbery and carjacking risk, affecting both expatriate residents and transiting business principals. The UK FCDO advises against all but essential travel to Guinea and highlights the risks of street crime, including robbery with violence. Criminal actors in Conakry have targeted vehicles at traffic intersections, at poorly lit road sections on the peninsula, and in markets and commercial areas. Carjacking is most prevalent after dark and at predictable transition points such as hotel approaches and airport exits. EP teams counter these risks through consistent anti-surveillance, route variation, and avoidance of predictable patterns. The Kaloum peninsula, which houses the central business district and most government ministries, and the Dixinn zone, where many embassies and international organisations are located, are the primary operational areas for EP clients. Both zones require dynamic route planning given Conakry's chronically congested road network on the narrow peninsula. The post-coup political environment adds an additional dimension: public gatherings and political events have turned confrontational in Guinea's recent history, and EP programmes include monitoring and avoidance protocols for such situations."
+
+  - title: "Operational EP Protocols in Conakry"
+    description: "Conakry's geography presents a specific operational constraint: the city is built on a narrow peninsula approximately 36 kilometres long and 5 kilometres wide at its broadest point. The single main arterial road, Route Nationale 1, is the primary route for virtually all movements between the airport, the city centre, and the main residential and diplomatic zones. This creates predictability risk that EP teams must actively manage through timing variation, secondary routes where available, and pre-movement area checks. Ahmed Sekou Toure International Airport (CKY) is located at the northern tip of the peninsula, approximately 15 kilometres from central Conakry. Airport transfers are a high-exposure movement: the approach road has been the site of criminal incidents and requires advance coordination, confirmed pick-up protocols, and where warranted, an armed escort. EP programmes in Conakry typically include an armoured vehicle for the principal's movements given the carjacking risk. Driver selection is critical: local drivers with detailed knowledge of Conakry's secondary road network provide route flexibility that a non-local team cannot replicate. Advance work at hotels, offices, and meeting venues is conducted before each principal movement."
+
+  - title: "Mining Sector Context and Principal Profile"
+    description: "Guinea holds approximately one-third of the world's known bauxite reserves and significant gold deposits, making it a critical destination for mining sector principals from Australia, Canada, the UK, and China. The Boke bauxite corridor north of Conakry is a major operational hub for companies including Emirates Global Aluminium (EGA) through its Guinea Alumina Corporation project, and CBG (Compagnie des Bauxites de Guinee). Corporate executives, mine management, and project finance principals visiting Guinea typically base in Conakry before onward movement to site. The CNRD junta government has renegotiated several mining sector agreements since the 2021 coup, creating additional political risk for company representatives engaged in contract discussions with the transitional government. Kidnapping of mining sector personnel, while not frequent in Guinea, has occurred in the broader West Africa region, and EP programmes for mining principals incorporate counter-kidnap protocols alongside the standard CP programme. NGO and diplomatic principals also represent a significant client segment in Conakry, given Guinea's role as a host for UN agencies, the EU mission, and various bilateral development programmes."
+
+  - title: "Medical and Emergency Evacuation Planning"
+    description: "Guinea's medical infrastructure is severely limited. Conakry's public hospital system, including Donka Hospital and Ignace Deen Hospital, is under-resourced and not considered adequate for trauma or complex medical emergencies by international standards. The private clinic sector in Conakry offers a modest improvement but remains constrained in its capability. For any serious medical emergency affecting a principal, evacuation rather than local treatment is the planning assumption. The standard medevac destinations from Conakry are Dakar, Senegal (approximately 1 hour 30 minutes by air) and Abidjan, Cote d'Ivoire (approximately 1 hour 10 minutes by air). Both cities have internationally accredited hospitals capable of managing trauma and complex cases. EP programmes operating in Conakry must have a medevac provider on retainer before the principal's arrival, with aircraft availability confirmed and the activation protocol documented in the emergency action plan. A first-aid-qualified CPO or dedicated medic embedded in the EP team is standard practice given the response time limitations of local emergency services. The EP programme's medical plan should name the receiving facility, the ground ambulance coordination contact at the airport, and the medevac provider's 24-hour operations line."
+faqs:
+  - question: "Is armed executive protection available in Conakry?"
+    answer: "Yes. DNSP-registered operators can provide armed close-protection officers in Conakry, subject to Ministry of Interior authorisation. Armed EP is the recommended configuration for mining sector, diplomatic, and other higher-risk principals given the documented carjacking and armed robbery risk in the city."
+
+  - question: "How does the CNRD junta affect EP operations in Conakry?"
+    answer: "The post-coup transitional government has altered the security sector relationships that EP operators depend on for liaison and access. Reputable providers maintain current working relationships with DNSP and relevant ministry contacts under the CNRD. Clients should confirm their provider's post-coup access and relationship status before committing to an engagement."
+
+  - question: "What is the airport transfer risk at Conakry's Ahmed Sekou Toure Airport?"
+    answer: "The airport access road has been the site of criminal incidents including robbery. EP teams use confirmed pick-up protocols, pre-positioned vehicles, and where appropriate, an armed escort for airport transfers. Arrival and departure timing is varied to reduce predictability, and the transfer vehicle is confirmed and positioned before the principal clears the terminal."
+
+  - question: "Where are medical cases evacuated to from Conakry?"
+    answer: "Standard medevac destinations from Conakry are Dakar, Senegal (approximately 1 hour 30 minutes by air) and Abidjan, Cote d'Ivoire (approximately 1 hour 10 minutes). Local hospital capability is limited, so the planning assumption for serious cases is evacuation rather than local treatment. A medevac provider should be on retainer before the principal arrives."
+
+  - question: "Which zones in Conakry are relevant for EP client operations?"
+    answer: "The Kaloum peninsula houses the central business district and government ministries. Dixinn is the primary diplomatic and international organisation zone. Both areas are connected by the single main peninsula artery, which requires careful timing and route management given Conakry's significant traffic congestion."
+---
+
+Executive protection in Conakry serves a client base defined primarily by the mining sector, diplomatic missions, and international organisations operating in a post-coup West African capital with high crime rates, limited medical infrastructure, and an unpredictable political environment. Programmes are built around DNSP-licensed local operators with current post-coup access relationships, armed EP capability, and a medevac plan to Dakar or Abidjan as the foundational safety net.
+
+## The Conakry security environment
+
+The UK FCDO advises against all but essential travel to Guinea, citing armed robbery, carjacking, political instability, and the risks associated with the September 2021 military coup. The CNRD junta under Colonel Mamadi Doumbouya dissolved the constitution and suspended political parties on seizing power; the transitional government has since renegotiated multiple mining sector agreements and periodically restricted movement and assembly. The political situation remains fluid as of 2026, with no confirmed electoral timetable.
+
+Criminal risk is persistent and operates across the full principal movement cycle. Conakry's geography, a narrow peninsula with a single main arterial road, creates structural predictability in all vehicle movements. Criminal actors exploit this predictability at intersections, market approaches, and hotel exits. Carjacking is the most frequently reported crime affecting the expatriate and business community, with incidents concentrated in the evening and overnight hours but documented at all times of day.
+
+Medical infrastructure in Conakry is insufficient for complex emergencies. The planning assumption for any serious incident is that the principal will need to be evacuated to Dakar or Abidjan rather than treated locally, making medevac arrangements a non-negotiable part of the EP programme setup.
+
+## What executive protection covers in Conakry
+
+An EP programme in Conakry is built around the principal's movement profile on the peninsula: airport transfers, government ministry meetings in Kaloum, corporate and embassy engagements in Dixinn, and any onward movement to mining sites in the Boke corridor. The team includes an armed CPO with the principal vehicle, advance work at all venues, and a documented emergency action plan covering medical emergency, vehicle compromise, and protest or civil disturbance.
+
+The programme incorporates daily route variation to break predictability on the peninsula road, a confirmed medevac provider on retainer, and a first-aid-qualified team member as standard. Driver selection is built into the programme: Conakry drivers with working knowledge of secondary routes and neighbourhood access roads provide movement flexibility when the main artery is compromised.
+
+For the full Conakry security picture, see our [Conakry city briefing](/cities/conakry/). For vetted secure transport alongside the EP team, [security drivers in Conakry](/security-drivers/conakry/) covers the Guinea driver programme.
