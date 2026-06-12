@@ -95,7 +95,7 @@
             {{ range $i, $comp := . }}
             <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay="{{ printf `%.1fs` (mul $i 0.2) }}">
                 <div class="bg-dark rounded-1 p-40 h-100">
-                    {{ if kindIs "map" $comp }}
+                    {{ if reflect.IsMap $comp }}
                     <h4>{{ $comp.title }}</h4>
                     <p class="mb-0">{{ $comp.description }}</p>
                     {{ else }}
