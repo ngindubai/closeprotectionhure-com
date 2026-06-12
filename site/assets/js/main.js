@@ -67,6 +67,45 @@
             var data = new FormData(form);
             data.delete('website');
 
+            // ===== CRM fire-and-forget (parallel with FormSubmit) =====
+            var cpQs = new URLSearchParams(window.location.search);
+            var cpFd2 = new FormData(form);  // fresh copy after honeypot deletion
+            var cpName = (cpFd2.get('name') || '').toString().trim() ||
+                         (cpFd2.get('email') || '').toString().split('@')[0] ||
+                         'Website enquiry';
+            var cpMsg = [
+                cpFd2.get('service_type') ? 'Service: ' + cpFd2.get('service_type') : '',
+                cpFd2.get('location') ? 'Location: ' + cpFd2.get('location') : '',
+                cpFd2.get('duration') ? 'Duration: ' + cpFd2.get('duration') : '',
+                cpFd2.get('start_date') ? 'Start date: ' + cpFd2.get('start_date') : '',
+                cpFd2.get('company') ? 'Company: ' + cpFd2.get('company') : '',
+                cpFd2.get('message') || ''
+            ].filter(Boolean).join('\n');
+            try {
+                fetch('https://logistics-crm.onrender.com/api/public/leads', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json', 'x-api-key': 'uRc1IHymlMUnYfAB9i79iA3NUARQKFJdRCdo+4VDY/A=' },
+                    keepalive: true,
+                    body: JSON.stringify({
+                        company: 'close-protection',
+                        name: cpName,
+                        email: cpFd2.get('email') || undefined,
+                        phone: cpFd2.get('phone') || undefined,
+                        source: 'Close Protection website',
+                        landing_page: window.location.href,
+                        utm_source: cpQs.get('utm_source') || undefined,
+                        utm_medium: cpQs.get('utm_medium') || undefined,
+                        utm_campaign: cpQs.get('utm_campaign') || undefined,
+                        message: cpMsg || undefined,
+                        fields: {
+                            serviceType: cpFd2.get('service_type') || undefined,
+                            location: cpFd2.get('location') || undefined,
+                            startDate: cpFd2.get('start_date') || undefined
+                        }
+                    })
+                });
+            } catch (e) { /* swallow */ }
+
             fetch(endpoint, { method: 'POST', body: data })
                 .then(function (res) {
                     if (res.ok) {
