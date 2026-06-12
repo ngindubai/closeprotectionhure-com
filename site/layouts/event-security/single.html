@@ -93,7 +93,7 @@
         </div>
         <div class="row g-4">
             {{ range $i, $comp := . }}
-            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay="{{ printf \"%.1fs\" (mul $i 0.2) }}">
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay="{{ printf `%.1fs` (mul $i 0.2) }}">
                 <div class="bg-dark rounded-1 p-40 h-100">
                     {{ if kindIs "map" $comp }}
                     <h4>{{ $comp.title }}</h4>
