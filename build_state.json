@@ -104,9 +104,9 @@
     ],
     "blocks": {
       "bodyguard-hire": {
-        "status": "BATCH8-DONE",
-        "date": "2026-06-11",
-        "pages": 90,
+        "status": "BATCH9-DONE",
+        "date": "2026-06-12",
+        "pages": 98,
         "covered": [
           "johannesburg",
           "lagos",
@@ -197,14 +197,22 @@
           "mogadishu",
           "tripoli",
           "guadalajara",
-          "port-of-spain"
+          "port-of-spain",
+          "caracas",
+          "kabul",
+          "karachi",
+          "kathmandu",
+          "kuwait-city",
+          "panama-city",
+          "san-jose",
+          "santiago"
         ],
         "remaining": "all other live cities"
       },
       "security-drivers": {
-        "status": "BATCH8-DONE",
-        "date": "2026-06-11",
-        "pages": 90,
+        "status": "BATCH9-DONE",
+        "date": "2026-06-12",
+        "pages": 98,
         "covered": [
           "johannesburg",
           "lagos",
@@ -295,14 +303,22 @@
           "mogadishu",
           "tripoli",
           "guadalajara",
-          "port-of-spain"
+          "port-of-spain",
+          "caracas",
+          "kabul",
+          "karachi",
+          "kathmandu",
+          "kuwait-city",
+          "panama-city",
+          "san-jose",
+          "santiago"
         ],
         "remaining": "all other live cities"
       },
       "executive-protection": {
-        "status": "BATCH8-DONE",
-        "date": "2026-06-11",
-        "pages": 90,
+        "status": "BATCH9-DONE",
+        "date": "2026-06-12",
+        "pages": 98,
         "covered": [
           "johannesburg",
           "lagos",
@@ -393,14 +409,22 @@
           "mogadishu",
           "tripoli",
           "guadalajara",
-          "port-of-spain"
+          "port-of-spain",
+          "caracas",
+          "kabul",
+          "karachi",
+          "kathmandu",
+          "kuwait-city",
+          "panama-city",
+          "san-jose",
+          "santiago"
         ],
         "remaining": "all other live cities"
       },
       "residential-security": {
-        "status": "BATCH8-DONE",
-        "date": "2026-06-11",
-        "pages": 90,
+        "status": "BATCH9-DONE",
+        "date": "2026-06-12",
+        "pages": 98,
         "covered": [
           "johannesburg",
           "lagos",
@@ -491,14 +515,22 @@
           "mogadishu",
           "tripoli",
           "guadalajara",
-          "port-of-spain"
+          "port-of-spain",
+          "caracas",
+          "kabul",
+          "karachi",
+          "kathmandu",
+          "kuwait-city",
+          "panama-city",
+          "san-jose",
+          "santiago"
         ],
         "remaining": "all other live cities"
       },
       "event-security": {
-        "status": "BATCH8-DONE",
-        "date": "2026-06-11",
-        "pages": 88,
+        "status": "BATCH9-DONE",
+        "date": "2026-06-12",
+        "pages": 98,
         "covered": [
           "johannesburg",
           "lagos",
@@ -587,14 +619,24 @@
           "mogadishu",
           "tripoli",
           "kinshasa",
-          "port-of-spain"
+          "port-of-spain",
+          "caracas",
+          "kabul",
+          "karachi",
+          "kathmandu",
+          "kuwait-city",
+          "panama-city",
+          "san-jose",
+          "santiago",
+          "tunis",
+          "yangon"
         ],
         "remaining": "all other live cities"
       },
       "close-protection-officers": {
-        "status": "BATCH8-DONE",
-        "date": "2026-06-11",
-        "pages": 90,
+        "status": "BATCH9-DONE",
+        "date": "2026-06-12",
+        "pages": 98,
         "covered": [
           "johannesburg",
           "lagos",
@@ -685,14 +727,22 @@
           "mogadishu",
           "tripoli",
           "guadalajara",
-          "port-of-spain"
+          "port-of-spain",
+          "caracas",
+          "kabul",
+          "karachi",
+          "kathmandu",
+          "kuwait-city",
+          "panama-city",
+          "san-jose",
+          "santiago"
         ],
         "remaining": "all other live cities"
       },
       "secure-airport-transfers": {
-        "status": "BATCH8-DONE",
-        "date": "2026-06-11",
-        "pages": 90,
+        "status": "BATCH9-DONE",
+        "date": "2026-06-12",
+        "pages": 98,
         "covered": [
           "johannesburg",
           "lagos",
@@ -783,7 +833,15 @@
           "mogadishu",
           "tripoli",
           "guadalajara",
-          "port-of-spain"
+          "port-of-spain",
+          "caracas",
+          "kabul",
+          "karachi",
+          "kathmandu",
+          "kuwait-city",
+          "panama-city",
+          "san-jose",
+          "santiago"
         ],
         "remaining": "all other live cities"
       }
@@ -861,9 +919,9 @@
     "4. blog: when the next matrix/city/country block is already committed, build the next 5-article blog batch from the keyword matrix (non-cannibalising angles)."
   ],
   "pages": {
-    "total_live": 927,
-    "_count_note": "877 prior + 50 new (10 executive-protection batch8, 10 residential-security batch8, 10 event-security batch8, 10 CPO batch8, 10 SAT batch8). Growth target with full matrix + city + country expansion: ~2,400 pages.",
-    "last_updated": "2026-06-11"
+    "total_live": 985,
+    "_count_note": "927 prior + 58 new (batch9: all 7 services x 8 cities caracas/kabul/karachi/kathmandu/kuwait-city/panama-city/san-jose/santiago, plus event-security x tunis+yangon). All 7 services now cover all 98 live cities.",
+    "last_updated": "2026-06-12"
   },
   "engine_alignment": {
     "1_combinatorial_generators": "DONE",
@@ -875,5 +933,5 @@
     "7_operating_system": "DONE"
   },
   "cannibalisation_rule": "Do not blog on topics already covered by service x city deep pages. The deep pages ARE the definitive content for {service}/{city}. Blog covers angles the deep pages do not.",
-  "next_stage": "GROWTH MODE. Matrix expansion continues. As of 11 Jun 2026 (run 2): all 7 services now at 88-90 cities each (batch8 complete). Next run rotation: extend all 7 services to batch9 cities. bodyguard-hire and security-drivers at 90 cities (batch8 done); executive-protection/residential-security/CPO/SAT at 90 cities (batch8 done); event-security at 88 cities (batch8 done, used medellin+kinshasa as replacements for already-covered guadalajara+harare). Batch9 next 10 cities for all services: beirut (BH/SD already covered -- skip), dar-es-salaam (BH/SD already covered -- skip). Use next uncovered set: yangon, tunis, medellin (EP/RS/CPO/SAT only -- ES already done), kinshasa (EP/RS/CPO/SAT only), plus new P4 cities from city_expansion queue. Recommended: build batch9 using the next 10 P4 cities not yet in any service (Kuwait City, Manama, Jeddah, Lahore, Phnom Penh, Quito, Port Harcourt, Kano, Douala, Santo Domingo) -- first add city pages for them, then extend all 7 services. Alternatively extend all 7 services to the remaining uncovered cities from the current 98-city set that are still missing for some services."
+  "next_stage": "GROWTH MODE. Matrix batch9 complete: all 7 services now cover all 98 live cities. Next run: city_expansion track -- add 5-10 new P4 cities from queue (Manama, Jeddah, Erbil, Lahore, Phnom Penh, Quito, Port Harcourt, Kano, Douala, Santo Domingo), then extend all 7 services to those new cities. Also: blog batch 9 (5 articles from keyword matrix)."
 }
