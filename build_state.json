@@ -230,9 +230,9 @@
         "remaining": "all other live cities"
       },
       "security-drivers": {
-        "status": "BATCH10-DONE",
-        "date": "2026-06-12",
-        "pages": 108,
+        "status": "BATCH12-DONE",
+        "date": "2026-06-14",
+        "pages": 118,
         "covered": [
           "johannesburg",
           "lagos",
@@ -341,14 +341,24 @@
           "port-harcourt",
           "kano",
           "douala",
-          "santo-domingo"
+          "santo-domingo",
+          "chittagong",
+          "vientiane",
+          "ulaanbaatar",
+          "bishkek",
+          "dushanbe",
+          "ashgabat",
+          "la-paz",
+          "asuncion",
+          "montevideo",
+          "guayaquil"
         ],
-        "remaining": "all other live cities"
+        "remaining": "all other live cities not yet in covered list"
       },
       "executive-protection": {
-        "status": "BATCH10-DONE",
-        "date": "2026-06-12",
-        "pages": 108,
+        "status": "BATCH12-DONE",
+        "date": "2026-06-14",
+        "pages": 118,
         "covered": [
           "johannesburg",
           "lagos",
@@ -457,14 +467,24 @@
           "port-harcourt",
           "kano",
           "douala",
-          "santo-domingo"
+          "santo-domingo",
+          "chittagong",
+          "vientiane",
+          "ulaanbaatar",
+          "bishkek",
+          "dushanbe",
+          "ashgabat",
+          "la-paz",
+          "asuncion",
+          "montevideo",
+          "guayaquil"
         ],
-        "remaining": "all other live cities"
+        "remaining": "all other live cities not yet in covered list"
       },
       "residential-security": {
-        "status": "BATCH10-DONE",
-        "date": "2026-06-12",
-        "pages": 108,
+        "status": "BATCH12-DONE",
+        "date": "2026-06-14",
+        "pages": 118,
         "covered": [
           "johannesburg",
           "lagos",
@@ -573,14 +593,24 @@
           "port-harcourt",
           "kano",
           "douala",
-          "santo-domingo"
+          "santo-domingo",
+          "chittagong",
+          "vientiane",
+          "ulaanbaatar",
+          "bishkek",
+          "dushanbe",
+          "ashgabat",
+          "la-paz",
+          "asuncion",
+          "montevideo",
+          "guayaquil"
         ],
-        "remaining": "all other live cities"
+        "remaining": "all other live cities not yet in covered list"
       },
       "event-security": {
-        "status": "BATCH11-DONE",
-        "date": "2026-06-13",
-        "pages": 108,
+        "status": "BATCH12-DONE",
+        "date": "2026-06-14",
+        "pages": 118,
         "covered": [
           "johannesburg",
           "lagos",
@@ -689,14 +719,24 @@
           "port-harcourt",
           "kano",
           "douala",
-          "santo-domingo"
+          "santo-domingo",
+          "chittagong",
+          "vientiane",
+          "ulaanbaatar",
+          "bishkek",
+          "dushanbe",
+          "ashgabat",
+          "la-paz",
+          "asuncion",
+          "montevideo",
+          "guayaquil"
         ],
-        "remaining": "all other live cities"
+        "remaining": "all other live cities not yet in covered list"
       },
       "close-protection-officers": {
-        "status": "BATCH11-DONE",
-        "date": "2026-06-13",
-        "pages": 108,
+        "status": "BATCH12-DONE",
+        "date": "2026-06-14",
+        "pages": 118,
         "covered": [
           "johannesburg",
           "lagos",
@@ -805,9 +845,19 @@
           "port-harcourt",
           "kano",
           "douala",
-          "santo-domingo"
+          "santo-domingo",
+          "chittagong",
+          "vientiane",
+          "ulaanbaatar",
+          "bishkek",
+          "dushanbe",
+          "ashgabat",
+          "la-paz",
+          "asuncion",
+          "montevideo",
+          "guayaquil"
         ],
-        "remaining": "all other live cities"
+        "remaining": "all other live cities not yet in covered list"
       },
       "secure-airport-transfers": {
         "status": "BATCH11-DONE",
@@ -974,9 +1024,9 @@
     "4. blog: when the next matrix/city/country block is already committed, build the next 5-article blog batch from the keyword matrix (non-cannibalising angles)."
   ],
   "pages": {
-    "total_live": 1085,
-    "_count_note": "1035 prior + 50 new (batch11: event-security/CPO/SAT x 10 batch10 cities + 10 new P4 city pages + bodyguard-hire x 10 new cities = 50 pages). New cities: Chittagong, Vientiane, Ulaanbaatar, Bishkek, Dushanbe, Ashgabat, La Paz, Asuncion, Montevideo, Guayaquil.",
-    "last_updated": "2026-06-13"
+    "total_live": 1135,
+    "_count_note": "1085 prior + 50 new (batch12: security-drivers/executive-protection/residential-security/event-security/close-protection-officers x 10 batch11 P4 cities = 50 pages). Cities covered: Chittagong, Vientiane, Ulaanbaatar, Bishkek, Dushanbe, Ashgabat, La Paz, Asuncion, Montevideo, Guayaquil. SAT still to cover these 10 cities (next run).",
+    "last_updated": "2026-06-14"
   },
   "engine_alignment": {
     "1_combinatorial_generators": "DONE",
@@ -988,5 +1038,5 @@
     "7_operating_system": "DONE"
   },
   "cannibalisation_rule": "Do not blog on topics already covered by service x city deep pages. The deep pages ARE the definitive content for {service}/{city}. Blog covers angles the deep pages do not.",
-  "next_stage": "GROWTH MODE. Batch11 complete: event-security/CPO/SAT x 10 batch10 cities + 10 new P4 cities (Chittagong, Vientiane, Ulaanbaatar, Bishkek, Dushanbe, Ashgabat, La Paz, Asuncion, Montevideo, Guayaquil) + bodyguard-hire x same 10. Next run: extend security-drivers, executive-protection, residential-security, event-security, CPO, SAT to the 10 new P4 cities (60 pages across 6 service blocks). Then build the next P4 city expansion batch."
+  "next_stage": "GROWTH MODE. Batch12 complete: security-drivers/executive-protection/residential-security/event-security/close-protection-officers x 10 batch11 P4 cities (Chittagong, Vientiane, Ulaanbaatar, Bishkek, Dushanbe, Ashgabat, La Paz, Asuncion, Montevideo, Guayaquil). Next run: (1) secure-airport-transfers x same 10 P4 cities (10 pages, completes full 7-service matrix for these cities); (2) next P4 city expansion batch (next 10 cities from next_p4_queue: Kingston, Georgetown, Paramaribo, Port-au-Prince, Tegucigalda, San Salvador, Guatemala City, Managua, Belize City, Yaounde); (3) bodyguard-hire + security-drivers + executive-protection x new cities; (4) residential-security x new cities."
 }
