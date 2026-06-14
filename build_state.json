@@ -860,9 +860,9 @@
         "remaining": "all other live cities not yet in covered list"
       },
       "secure-airport-transfers": {
-        "status": "BATCH11-DONE",
-        "date": "2026-06-13",
-        "pages": 108,
+        "status": "BATCH13-DONE",
+        "date": "2026-06-14",
+        "pages": 118,
         "covered": [
           "johannesburg",
           "lagos",
@@ -971,7 +971,17 @@
           "port-harcourt",
           "kano",
           "douala",
-          "santo-domingo"
+          "santo-domingo",
+          "chittagong",
+          "vientiane",
+          "ulaanbaatar",
+          "bishkek",
+          "dushanbe",
+          "ashgabat",
+          "la-paz",
+          "asuncion",
+          "montevideo",
+          "guayaquil"
         ],
         "remaining": "all other live cities"
       }
@@ -979,20 +989,10 @@
     "expansion_order": "For each service in the services list, build that service across the next 10 live cities not yet covered for it (read cities from site/content/cities/, skip any service-city slug already on disk). Rotate which service is extended each block so the matrix fills evenly: bodyguard-hire batch, then security-drivers batch, then executive-protection, residential-security, event-security, close-protection-officers, secure-airport-transfers, then back to bodyguard-hire for the next 10 cities. One 10-page block per run."
   },
   "city_expansion": {
-    "_goal": "Grow the city universe from 118 to 250. Each city unlocks 7 new service-city matrix pages, so cities are high-leverage. Build the next 5-10 cities per block from the P4 city queue (next-tier business-travel and high-net-worth destinations: regional capitals, financial centres, and resource/energy hubs not yet covered).",
-    "live": 118,
+    "_goal": "Grow the city universe from 128 to 250. Each city unlocks 7 new service-city matrix pages, so cities are high-leverage. Build the next 5-10 cities per block from the P4 city queue (next-tier business-travel and high-net-worth destinations: regional capitals, financial centres, and resource/energy hubs not yet covered).",
+    "live": 128,
     "target": 250,
     "next_p4_queue": [
-      "Kingston",
-      "Georgetown",
-      "Paramaribo",
-      "Port-au-Prince",
-      "Tegucigalpa",
-      "San Salvador",
-      "Guatemala City",
-      "Managua",
-      "Belize City",
-      "Yaounde",
       "Libreville",
       "Brazzaville",
       "Bangui",
@@ -1010,6 +1010,18 @@
       "Windhoek",
       "Maseru",
       "Mbabane"
+    ],
+    "_completed_p4_batch13": [
+      "Kingston",
+      "Georgetown",
+      "Paramaribo",
+      "Port-au-Prince",
+      "Tegucigalpa",
+      "San Salvador",
+      "Guatemala City",
+      "Managua",
+      "Belize City",
+      "Yaounde"
     ]
   },
   "country_expansion": {
@@ -1024,8 +1036,8 @@
     "4. blog: when the next matrix/city/country block is already committed, build the next 5-article blog batch from the keyword matrix (non-cannibalising angles)."
   ],
   "pages": {
-    "total_live": 1135,
-    "_count_note": "1085 prior + 50 new (batch12: security-drivers/executive-protection/residential-security/event-security/close-protection-officers x 10 batch11 P4 cities = 50 pages). Cities covered: Chittagong, Vientiane, Ulaanbaatar, Bishkek, Dushanbe, Ashgabat, La Paz, Asuncion, Montevideo, Guayaquil. SAT still to cover these 10 cities (next run).",
+    "total_live": 1185,
+    "_count_note": "1135 prior + 50 new (batch13: SAT x 10 batch11 P4 cities + 10 new P4 city pages + bodyguard-hire/security-drivers/executive-protection x 10 new P4 cities = 50 pages). New cities: Kingston, Georgetown, Paramaribo, Port-au-Prince, Tegucigalpa, San Salvador, Guatemala City, Managua, Belize City, Yaounde. Cities live: 128. All 7 services now cover 128 cities. Plus 3 pre-existing QA fixes (islamabad EP/event-security, tripoli event-security).",
     "last_updated": "2026-06-14"
   },
   "engine_alignment": {
@@ -1033,10 +1045,10 @@
     "2_structured_data_layer": "DONE",
     "3_bulk_blog_factory": "IN PROGRESS - 108 articles live, target 600",
     "4_internal_link_graph": "DONE (floor). Re-run scripts/rebuild_link_graph.py after each matrix batch so new service-city pages are linked from their city and service-silo parents.",
-    "5_qa_seo_quality_gate": "GREEN. Inline QA used for new silos. All 50 pages in this run passed 0-error gate.",
+    "5_qa_seo_quality_gate": "GREEN. 0 errors, 6 advisory warnings (description length). All 50 new pages passed 0-error gate. Also fixed 3 pre-existing banned-word errors (robust x2, facilitate x1).",
     "6_incremental_deploy_pipeline": "DONE",
     "7_operating_system": "DONE"
   },
   "cannibalisation_rule": "Do not blog on topics already covered by service x city deep pages. The deep pages ARE the definitive content for {service}/{city}. Blog covers angles the deep pages do not.",
-  "next_stage": "GROWTH MODE. Batch12 complete: security-drivers/executive-protection/residential-security/event-security/close-protection-officers x 10 batch11 P4 cities (Chittagong, Vientiane, Ulaanbaatar, Bishkek, Dushanbe, Ashgabat, La Paz, Asuncion, Montevideo, Guayaquil). Next run: (1) secure-airport-transfers x same 10 P4 cities (10 pages, completes full 7-service matrix for these cities); (2) next P4 city expansion batch (next 10 cities from next_p4_queue: Kingston, Georgetown, Paramaribo, Port-au-Prince, Tegucigalda, San Salvador, Guatemala City, Managua, Belize City, Yaounde); (3) bodyguard-hire + security-drivers + executive-protection x new cities; (4) residential-security x new cities."
+  "next_stage": "GROWTH MODE. Batch13 complete: SAT x 10 batch11 P4 cities (completes 7-service matrix for Chittagong through Guayaquil) + 10 new P4 city pages (Kingston through Yaounde) + BH/SD/EP x same 10 new cities. Cities live: 128. Next run: (1) residential-security x 10 new P4 cities (Kingston through Yaounde); (2) event-security x same 10; (3) close-protection-officers x same 10; (4) secure-airport-transfers x same 10; then city expansion batch14 from next_p4_queue (Libreville, Brazzaville, Bangui, Ndjamena, Khartoum, Juba, Asmara, Djibouti, Hargeisa, Bujumbura)."
 }

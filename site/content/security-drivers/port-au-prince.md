@@ -1,0 +1,42 @@
+---
+title: "Security Drivers in Port-au-Prince"
+description: "Armoured vehicle security drivers in Port-au-Prince, Haiti. FCDO against all travel. Gang-controlled routes require armed escort and real-time route intelligence."
+slug: "port-au-prince"
+h1: "Security Drivers in Port-au-Prince, Haiti"
+seo_title: "Security Drivers Port-au-Prince | Armoured Haiti"
+service: "security-drivers"
+city: "Port-au-Prince"
+country: "Haiti"
+risk_level: "Extreme"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-06-10"
+cta_text: "Request specialist security driver cover for Haiti operations"
+components:
+  - title: "Toussaint Louverture Airport Transfer Protocol"
+    description: "Toussaint Louverture International Airport (PAP) has been subject to intermittent closures and gang threat in 2024 and 2025, consistent with BINUH reporting on gang expansion across the Port-au-Prince metropolitan area. Where PAP is operational, the transfer from the airport into the city crosses territory with active gang presence. All airport transfers require armoured vehicles and an armed escort element. Consider Cap-Haitien (CAP) as an alternative entry point for operations focused on northern Haiti. Pre-movement intelligence on gang activity along the route is mandatory before any transfer departs."
+  - title: "Route Intelligence: Port-au-Prince"
+    description: "BINUH (UN Integrated Office in Haiti) reporting for 2024-2025 estimates that armed gangs control approximately 85% of the Port-au-Prince metropolitan area. There is no route into or through PAP that can be treated as unconditionally passable without real-time intelligence. Gang territorial boundaries shift; routes open yesterday may be blockaded today. Route intelligence is updated before every individual movement. Gang-associated road blockades and vehicle ambush are documented risks on all primary arteries in and around the capital (FCDO Haiti, 2026)."
+  - title: "Vehicle Selection and Preparation"
+    description: "Soft-skin vehicles are not appropriate for most operational movements in Port-au-Prince. The standard vehicle for this environment is an armoured SUV rated to B6 or above, operated by a driver with verified Haiti operational experience. Communications arrangements include satellite communication where cellular infrastructure is compromised, and coordination with an armed escort team. Medevac planning, including the nearest functioning medical facility and evacuation route, is completed before any movement begins."
+  - title: "Haiti Security Driver Regulatory Context"
+    description: "Haiti's formal private security regulatory framework has not functioned effectively during the sustained gang crisis. International operators with vetted local networks are the only viable option for operations in Port-au-Prince. Engagement with unknown local operators without verified international oversight carries significant risk. All personnel must be assessed and approved by an experienced security management structure before any Haiti deployment. This is not an environment for ad-hoc transport arrangements."
+  - title: "Night Movement Protocols"
+    description: "Night movement in Port-au-Prince is considered extremely high-risk and is avoided entirely in almost all circumstances. FCDO (2026) advises against all travel to Haiti; night movement substantially increases already-extreme exposure to gang ambush, kidnapping, and vehicle targeting. Where night movement cannot be avoided due to operational necessity, it requires command-level authorisation, full armed escort, armoured vehicles, active communications with an operations centre, and a confirmed medevac plan."
+  - title: "Corporate Account and Recurring Cover"
+    description: "Organisations operating in Haiti for humanitarian, development, energy, or other critical purposes require a standing security management structure rather than ad-hoc transport bookings. Recurring cover includes dedicated security advisers familiar with the PAP environment, pre-approved route protocols reviewed weekly against BINUH and FCDO updates, standing armed escort coordination, and medevac retainer arrangements. Haiti operations at any tempo require a security management framework."
+faqs:
+  - question: "Why use a security driver rather than a regular taxi in Port-au-Prince?"
+    answer: "Regular taxis in Port-au-Prince operate in an environment where BINUH estimates gangs control approximately 85% of the metropolitan area (2024-2025). Using an informal taxi means placing a principal in an unvetted vehicle, driven by an unknown individual, on a route with no real-time intelligence assessment, through an area with active gang blockades and documented vehicle ambush. FCDO (2026) advises against all travel to Haiti. Where travel is operationally necessary, only armoured vehicles operated by vetted drivers with real-time route intelligence are appropriate."
+  - question: "Are armoured vehicles available in Port-au-Prince?"
+    answer: "Yes. Armoured vehicles rated to B6 or above are the baseline vehicle requirement for operations in Port-au-Prince. The threat environment documented by BINUH (2024-2025) and FCDO (2026) makes soft-skin vehicles inappropriate for most movements in the capital. Armoured vehicles must be operated by drivers with verified Haiti experience and coordinated with an armed escort element. Vehicle availability is confirmed as part of the pre-deployment planning process."
+  - question: "What is the highest-risk moment in a Port-au-Prince transfer?"
+    answer: "All vehicle movement in Port-au-Prince carries extreme risk, but the airport transfer, route transitions between gang-controlled areas, and any unplanned vehicle stop represent the highest-risk moments. BINUH reporting (2024-2025) documents kidnapping from vehicles as a primary gang revenue tactic in the PAP metropolitan area. Roadblocks and armed ambush are documented on major arteries. Real-time intelligence before each movement is the only way to reduce exposure; no route should be treated as clear without a current assessment."
+  - question: "How far is Toussaint Louverture Airport from Port-au-Prince centre?"
+    answer: "Toussaint Louverture International Airport is approximately 10km north of central Port-au-Prince. In a stable environment, this transfer would take 20 to 30 minutes. In the current environment, the transfer crosses gang-controlled or gang-contested territory and the actual time is contingent on real-time route intelligence, roadblock status, and whether an armed escort route is viable at the planned departure time. Airport operational status must be confirmed before any arrival or departure is scheduled."
+---
+
+Port-au-Prince is classified by the FCDO (2026) as a destination against all travel, the highest advisory level. The US State Department rates Haiti at Level 4 (Do Not Travel) as of 2026. BINUH reporting for 2024-2025 documents that armed gangs control approximately 85% of the Port-au-Prince metropolitan area, with kidnapping from vehicles, armed roadblocks, and vehicle ambush among the primary tactics used by gang organisations operating in the capital. Toussaint Louverture International Airport has been subject to gang threat and intermittent closure during this period. No movement in Port-au-Prince can be planned without real-time gang activity intelligence, and no vehicle movement is appropriate in a soft-skin vehicle on most routes.
+
+For organisations with genuine operational necessity in Haiti, including humanitarian, development, energy sector, and diplomatic missions, security driver arrangements in Port-au-Prince require an armoured vehicle, an armed escort element, a medevac plan, and a security management structure capable of providing real-time route intelligence before every movement. This is not a transport booking: it is an operational security deployment. Organisations should also assess whether Cap-Haitien (CAP) provides a viable alternative entry point, and whether operations can be structured to minimise PAP transit exposure entirely.
+
+For the full Haiti risk picture and area-by-area assessment, see our [Port-au-Prince city page](/cities/port-au-prince/). Clients requiring integrated close protection alongside armoured transport in Haiti can review [bodyguard hire in Port-au-Prince](/bodyguard-hire/port-au-prince/) for a full protective security structure appropriate to this environment.
