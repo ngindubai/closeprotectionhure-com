@@ -104,9 +104,9 @@
     ],
     "blocks": {
       "bodyguard-hire": {
-        "status": "BATCH11-DONE",
-        "date": "2026-06-13",
-        "pages": 118,
+        "status": "BATCH15-DONE",
+        "date": "2026-06-15",
+        "pages": 128,
         "covered": [
           "johannesburg",
           "lagos",
@@ -225,14 +225,24 @@
           "la-paz",
           "asuncion",
           "montevideo",
-          "guayaquil"
+          "guayaquil",
+          "libreville",
+          "brazzaville",
+          "bangui",
+          "ndjamena",
+          "khartoum",
+          "juba",
+          "asmara",
+          "djibouti-city",
+          "hargeisa",
+          "bujumbura"
         ],
         "remaining": "all other live cities"
       },
       "security-drivers": {
-        "status": "BATCH12-DONE",
-        "date": "2026-06-14",
-        "pages": 118,
+        "status": "BATCH15-DONE",
+        "date": "2026-06-15",
+        "pages": 128,
         "covered": [
           "johannesburg",
           "lagos",
@@ -351,14 +361,24 @@
           "la-paz",
           "asuncion",
           "montevideo",
-          "guayaquil"
+          "guayaquil",
+          "libreville",
+          "brazzaville",
+          "bangui",
+          "ndjamena",
+          "khartoum",
+          "juba",
+          "asmara",
+          "djibouti-city",
+          "hargeisa",
+          "bujumbura"
         ],
         "remaining": "all other live cities not yet in covered list"
       },
       "executive-protection": {
-        "status": "BATCH12-DONE",
-        "date": "2026-06-14",
-        "pages": 118,
+        "status": "BATCH15-DONE",
+        "date": "2026-06-15",
+        "pages": 128,
         "covered": [
           "johannesburg",
           "lagos",
@@ -477,14 +497,24 @@
           "la-paz",
           "asuncion",
           "montevideo",
-          "guayaquil"
+          "guayaquil",
+          "libreville",
+          "brazzaville",
+          "bangui",
+          "ndjamena",
+          "khartoum",
+          "juba",
+          "asmara",
+          "djibouti-city",
+          "hargeisa",
+          "bujumbura"
         ],
         "remaining": "all other live cities not yet in covered list"
       },
       "residential-security": {
-        "status": "BATCH14-DONE",
+        "status": "BATCH15-DONE",
         "date": "2026-06-15",
-        "pages": 128,
+        "pages": 138,
         "covered": [
           "johannesburg",
           "lagos",
@@ -613,7 +643,17 @@
           "guatemala-city",
           "managua",
           "belize-city",
-          "yaounde"
+          "yaounde",
+          "libreville",
+          "brazzaville",
+          "bangui",
+          "ndjamena",
+          "khartoum",
+          "juba",
+          "asmara",
+          "djibouti-city",
+          "hargeisa",
+          "bujumbura"
         ],
         "remaining": "all other live cities not yet in covered list"
       },
@@ -1030,9 +1070,21 @@
   },
   "city_expansion": {
     "_goal": "Grow the city universe from 138 to 250. Each city unlocks 7 new service-city matrix pages, so cities are high-leverage. Build the next 5-10 cities per block from the P4 city queue (next-tier business-travel and high-net-worth destinations: regional capitals, financial centres, and resource/energy hubs not yet covered).",
-    "live": 138,
+    "live": 148,
     "target": 250,
     "next_p4_queue": [
+      "Malabo",
+      "Lome",
+      "Cotonou",
+      "Praia",
+      "Yerevan",
+      "Chisinau",
+      "Tirana",
+      "Podgorica",
+      "Sarajevo",
+      "Skopje"
+    ],
+    "_completed_p4_batch15": [
       "Antananarivo",
       "Port Louis",
       "Victoria-Seychelles",
@@ -1081,8 +1133,8 @@
     "4. blog: when the next matrix/city/country block is already committed, build the next 5-article blog batch from the keyword matrix (non-cannibalising angles)."
   ],
   "pages": {
-    "total_live": 1235,
-    "_count_note": "1185 prior + 50 new (batch14: residential-security/event-security/CPO/SAT x 10 batch13 cities (Kingston-Yaounde) + 10 new P4 city pages (Libreville-Bujumbura) = 50 pages). Cities live: 138. All 7 services now cover 128 cities (batch14 cities not yet matrix-built).",
+    "total_live": 1285,
+    "_count_note": "1235 prior + 50 new (batch15: BH/SD/EP/RS x 10 batch14 cities (Libreville-Bujumbura) + 10 new P4 city pages (Antananarivo-Ouagadougou) = 50 pages). Cities live: 148. BH/SD/EP cover 128 cities; RS covers 138 cities; ES/CPO/SAT cover 128 cities.",
     "last_updated": "2026-06-15"
   },
   "engine_alignment": {
@@ -1090,10 +1142,10 @@
     "2_structured_data_layer": "DONE",
     "3_bulk_blog_factory": "IN PROGRESS - 108 articles live, target 600",
     "4_internal_link_graph": "DONE (floor). Re-run scripts/rebuild_link_graph.py after each matrix batch so new service-city pages are linked from their city and service-silo parents.",
-    "5_qa_seo_quality_gate": "GREEN. 0 errors, 6 advisory warnings (description length). All 50 new pages passed 0-error gate. Also fixed 3 pre-existing banned-word errors (robust x2, facilitate x1).",
+    "5_qa_seo_quality_gate": "GREEN. 0 errors, 6 advisory warnings (description length). All 50 batch15 pages passed 0-error gate. 6 description lengths fixed before commit.",
     "6_incremental_deploy_pipeline": "DONE",
     "7_operating_system": "DONE"
   },
   "cannibalisation_rule": "Do not blog on topics already covered by service x city deep pages. The deep pages ARE the definitive content for {service}/{city}. Blog covers angles the deep pages do not.",
-  "next_stage": "GROWTH MODE. Batch14 complete: residential-security/event-security/CPO/SAT x 10 batch13 cities (Kingston-Yaounde) + 10 new P4 city pages (Libreville-Bujumbura). Cities live: 138. All 7 services cover 128 cities (the batch14 cities are live but not yet matrix-built). Next run: (1) bodyguard-hire x 10 batch14 cities (libreville, brazzaville, bangui, ndjamena, khartoum, juba, asmara, djibouti-city, hargeisa, bujumbura); (2) security-drivers x same 10; (3) executive-protection x same 10; (4) residential-security x same 10; then city expansion batch15 from next_p4_queue (Antananarivo, Port Louis, Victoria-Seychelles, Gaborone, Windhoek, Maseru, Mbabane, Freetown, Monrovia, Ouagadougou)."
+  "next_stage": "GROWTH MODE. Batch15 complete: BH/SD/EP/RS x 10 batch14 cities (Libreville-Bujumbura) + 10 new P4 city pages (Antananarivo-Ouagadougou). Cities live: 148. Coverage gaps: BH/SD/EP/ES/CPO/SAT missing 20 cities (Kingston-Yaounde + Antananarivo-Ouagadougou). RS missing 10 cities (Antananarivo-Ouagadougou). Next run: (1) BH x 10 batch13 cities (kingston, georgetown, paramaribo, port-au-prince, tegucigalpa, san-salvador, guatemala-city, managua, belize-city, yaounde); (2) SD x same 10; (3) EP x same 10; (4) RS x 10 batch15 expansion cities (antananarivo, port-louis, victoria-seychelles, gaborone, windhoek, maseru, mbabane, freetown, monrovia, ouagadougou). Then city expansion batch16 from next_p4_queue (Malabo, Lome, Cotonou, Praia, Yerevan, Chisinau, Tirana, Podgorica, Sarajevo, Skopje)."
 }

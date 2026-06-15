@@ -1,0 +1,40 @@
+---
+title: "Executive Protection in Asmara"
+description: "Executive protection context for Asmara, Eritrea. No commercial armed security sector. Surveillance-aware CP planning for mining and diplomatic principals in a closed state."
+slug: "asmara"
+h1: "Executive Protection in Asmara, Eritrea"
+seo_title: "Executive Protection Asmara | EP Eritrea Security Context"
+service: "executive-protection"
+city: "Asmara"
+country: "Eritrea"
+risk_level: "high"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-06-12"
+cta_text: "Contact us to discuss executive protection planning requirements for Asmara."
+components:
+  - title: "Executive Risk Profile: Asmara"
+    description: "Asmara's executive risk profile is shaped primarily by Eritrea's authoritarian government rather than by street-level crime. The Eritrean government maintains systematic surveillance of foreign nationals, restricts freedom of movement, and has a documented record of arbitrarily detaining foreign visitors. The US State Department rates Eritrea at Level 3 (Reconsider Travel) as of 2026, and FCDO advises a high degree of caution. At street level, Asmara is calm; the risks are political, surveillance-related, and government-action risks rather than criminal violence risks. Source: FCDO Eritrea travel advice (2026); US State Dept Eritrea Level 3 advisory (2026)."
+  - title: "No Commercial Armed EP Sector in Eritrea"
+    description: "Eritrea does not have an independent commercial private security sector. Armed close protection as practised in other African markets does not exist here through commercial operators. EP planning for Asmara must work within these fundamental structural constraints: overt armed protection is unavailable through any legitimate commercial channel. The protective framework available is unarmed, low-profile, and surveillance-aware -- designed to navigate the government's monitoring environment rather than to counter conventional security threats."
+  - title: "Surveillance-Aware Close Protection"
+    description: "The operative close protection concept in Asmara is surveillance-aware personal security rather than armed protection. This means: maintaining a low profile at all times, avoiding conduct that could appear like intelligence collection, ensuring documentation is in order and available for government inspection at all times, understanding which movements and meetings are appropriate in the context of government monitoring, and having pre-established responses to approaches by government security personnel. This requires CPOs with specific Eritrea experience and country knowledge rather than generalist Africa experience."
+  - title: "Mining Sector EP Framework"
+    description: "The primary commercial EP client profile for Asmara is the mining sector, specifically executives connected with the Bisha gold and copper mine (Zijin Mining, formerly Nevsun Resources). Mining sector principals typically access Eritrea through coordinated government and mine operator arrangements rather than independent commercial EP. EP planning for mining visits must be integrated with the mine operator's in-country logistics and government liaison function, as independent commercial security arrangements are difficult to establish within Eritrea's environment."
+  - title: "Ethiopia Border Restriction"
+    description: "FCDO advises against all travel within 25 km of the Eritrea-Ethiopia border, a legacy of the Tigray conflict and ongoing border sensitivities. Any itinerary element that approaches the southern border area requires specific assessment against this restriction. EP planning for Asmara confirms that all proposed movements remain within the permissible area and that the proposed itinerary does not inadvertently approach the exclusion zone. Source: FCDO Eritrea travel advice (2026)."
+  - title: "Government Encounter Protocols"
+    description: "A specific element of Asmara EP preparation is the protocol for encounters with Eritrean government security personnel. Arbitrary stopping, questioning, and documentation checks of foreign nationals are documented occurrences. EP teams must be briefed on the appropriate response to government security encounters: calm cooperation, immediate documentation production, and no behaviour that could be construed as resistance or evasion. Pre-trip registration with the relevant embassy and confirmed embassy emergency contact procedures are standard."
+faqs:
+  - question: "Why is there no commercial armed EP in Eritrea?"
+    answer: "Eritrea's centralised, authoritarian government does not permit an independent commercial private security industry. A Western-style armed EP sector cannot legally operate in Eritrea. This is a fundamental structural constraint of the operating environment, not a temporary gap. Security planning for Asmara must work within what is available: unarmed, low-profile, surveillance-aware personal security from CPOs with specific Eritrea knowledge. Source: FCDO Eritrea travel advice (2026)."
+  - question: "What is the primary risk for executives visiting Asmara?"
+    answer: "The primary risk for executives in Asmara is the government's authoritarian security environment: systematic surveillance of foreign nationals, restrictions on freedom of movement, and a documented record of arbitrarily detaining foreign visitors. Street crime is not the primary concern; the risk of government action, arbitrary detention, or restrictions on departure is what warrants professional security planning for Asmara visits. US State Dept Level 3 advisory reflects this. Source: US State Dept Eritrea Level 3 advisory (2026)."
+  - question: "How are mining sector executives typically protected in Asmara?"
+    answer: "Executives visiting Asmara for mining sector purposes (Bisha mine, exploration activities) typically access in-country movement through government-coordinated and mine-operator arrangements rather than independent commercial EP. The mine operator's logistics function manages airport collection, city movement, and government liaison. Independent commercial EP is supplementary to this framework, providing surveillance-aware personal security within the movement structure that the mine operator has established with government approval."
+  - question: "What should executives know about Eritrean government registration requirements?"
+    answer: "Foreign nationals visiting Eritrea must comply with government registration and movement permit requirements. These requirements are more extensive than in most comparable African states. Pre-trip registration with the Eritrean government through the appropriate channel (visa application, invitation letter from a government-affiliated host) is mandatory. Movement outside Asmara to other parts of Eritrea requires specific permits. EP planning for Asmara confirms full compliance with all government registration and movement requirements before any visit is confirmed."
+---
+
+Asmara presents a fundamentally different EP challenge from other African capitals. Eritrea's authoritarian government, the absence of a commercial private security sector, and the systematic surveillance of foreign nationals mean that conventional armed EP is unavailable and inappropriate. The US State Department rates Eritrea at Level 3 (Reconsider Travel) as of 2026, and FCDO advises a high degree of caution. The operative protective framework is unarmed, low-profile, and surveillance-aware.
+
+Mining sector executives (Bisha mine) typically access protection through mine-operator and government-coordinated arrangements supplemented by surveillance-aware personal security from CPOs with specific Eritrea experience. Government encounter protocols, Ethiopia border restriction awareness, and full compliance with government registration requirements are standard EP preparation elements for Asmara. For the full security picture, see our [Asmara city briefing](/cities/asmara/) and [security drivers in Asmara](/security-drivers/asmara/) for transport security context in Eritrea.

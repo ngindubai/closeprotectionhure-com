@@ -1,0 +1,40 @@
+---
+title: "Residential Security in Asmara"
+description: "Residential security context for Asmara, Eritrea. No private security sector exists. Surveillance-aware residential planning for mining and diplomatic personnel."
+slug: "asmara"
+h1: "Residential Security in Asmara, Eritrea"
+seo_title: "Residential Security Asmara | Eritrea Residential Security Context"
+service: "residential-security"
+city: "Asmara"
+country: "Eritrea"
+risk_level: "high"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-06-12"
+cta_text: "Contact us to discuss residential security planning for Asmara before a programme is confirmed."
+components:
+  - title: "No Commercial Private Security Sector in Eritrea"
+    description: "Eritrea does not have an independent commercial private security sector. Security guard companies and residential security operators as they exist in other African markets are not available in Eritrea. Residential security planning for Asmara must work within this fundamental structural constraint: the security framework available is government-tolerated, low-profile, and confined to measures that do not require the deployment of commercial armed personnel."
+  - title: "Government Surveillance and the Residential Environment"
+    description: "The primary security concern for international residents in Asmara is the Eritrean government's systematic monitoring of foreign nationals. Residential premises used by international personnel are known to be subject to surveillance. This shapes residential security planning fundamentally: access control and staff vetting must be conducted with awareness that the process itself may be monitored, and residential protocols must not appear to be security measures designed to impede government access. Source: FCDO Eritrea travel advice (2026)."
+  - title: "Residential Zones for International Personnel"
+    description: "International personnel in Asmara -- typically diplomatic mission staff, mining sector employees (Bisha mine) and their families, and a very small number of NGO and UN agency personnel -- typically reside in the central Asmara districts around the diplomatic area or in compound accommodation associated with their employing organisation. The colonial-era Italian architecture of central Asmara is generally intact and provides structurally sound accommodation. Outer areas of the city have less infrastructure for international-standard residential accommodation."
+  - title: "Staff Vetting in an Authoritarian Environment"
+    description: "Domestic staff vetting in Asmara presents specific challenges in an authoritarian state where the government controls civil registry access and police clearance processes. Vetting in this environment relies on identity document verification, reference checking with identified previous employers, and structured probationary assessment with restricted access. Staff connected to the government security apparatus may be placed in domestic roles as a government monitoring mechanism; this possibility is a standard briefing element for residential programme participants in Asmara."
+  - title: "Property Security Measures Available in Asmara"
+    description: "Available residential security measures in Asmara that do not require commercial security guard deployment include: reinforced entry doors and window locks, CCTV systems (noting that footage may be subject to government access), reliable communication systems (noting Eritrea's restricted telecommunications environment), verified emergency contact procedures with the relevant diplomatic mission, and clear documentation of all residential arrangements with the government as required. These measures are adapted to the operational constraints of a closed authoritarian state."
+  - title: "Emergency Response and Medevac Planning"
+    description: "Medical facilities in Asmara include Halibet Hospital and Orotta National Referral Hospital; capacity for specialist treatment is limited. Medical evacuation planning for Asmara typically routes to Addis Ababa (Ethiopia, approximately 1 hour by air from Asmara International Airport, ASM) or Nairobi for serious conditions. Government clearance for emergency medical evacuation should be addressed in pre-deployment planning. Eritrea's restricted exit visa requirements mean that emergency departure planning is more complex than in most African countries."
+faqs:
+  - question: "Why is there no commercial residential security sector in Eritrea?"
+    answer: "Eritrea's centralised, authoritarian government does not permit independent commercial security operations. A commercial private security sector -- guard companies, residential security operators -- does not legally exist in Eritrea in the form it takes in other African markets. Residential security planning must work within the structural constraints of the environment: government-tolerated, low-profile measures that do not require deploying commercial armed personnel. Source: FCDO Eritrea travel advice (2026)."
+  - question: "What is the primary residential security risk in Asmara?"
+    answer: "The primary risk for international residents in Asmara is the political and surveillance environment, not street crime. Systematic government surveillance of foreign nationals is documented, domestic staff may have government connections, and the potential for arbitrary government action (restrictions on movement or departure, detention for questioning) is higher than in most African capitals. Street crime in central Asmara is low. Residential security planning addresses the government monitoring environment rather than conventional crime risk. Source: US State Dept Eritrea Level 3 advisory (2026)."
+  - question: "How do diplomatic missions manage residential security in Asmara?"
+    answer: "Diplomatic missions in Asmara -- a small number maintain presence despite the challenging environment -- typically operate compound-style accommodation that provides physical security measures within the diplomatic inviolability framework. Security measures must be calibrated to be non-provocative to the Eritrean government while providing appropriate protection for diplomatic personnel. Residential security coordination between missions is common given the small international community in Asmara."
+  - question: "What are the emergency evacuation constraints specific to Eritrea?"
+    answer: "Eritrea requires exit visas for foreign nationals, and the government has restricted departure for some foreign nationals in the past. Emergency evacuation planning for Asmara must address this constraint: pre-departure registration with the relevant embassy, maintenance of current exit documentation, and a confirmed embassy emergency contact who can assist with departure authorisation in a genuine emergency. Asmara International Airport (ASM) has limited international connectivity; flights to Addis Ababa and Cairo provide the primary departure options."
+---
+
+Residential security in Asmara operates within constraints that have no parallel in other African capitals: no commercial private security sector, systematic government surveillance of foreign nationals, exit visa requirements, and the structural realities of one of Africa's most closed authoritarian states. The US State Department rates Eritrea at Level 3 (Reconsider Travel) as of 2026, and FCDO advises a high degree of caution. The international resident population in Asmara is very small: diplomatic mission staff, mining sector employees connected with the Bisha mine, and a limited UN and NGO presence.
+
+Residential security planning for Asmara focuses on surveillance-aware measures, staff vetting adapted to the authoritarian environment, and emergency response protocols that account for Eritrea's exit visa requirements and limited medical infrastructure. For the full Asmara security picture, see our [Asmara city briefing](/cities/asmara/). Clients requiring security planning for Eritrea visits can review [executive protection in Asmara](/executive-protection/asmara/).

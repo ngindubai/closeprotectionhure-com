@@ -1,0 +1,40 @@
+---
+title: "Executive Protection in N'Djamena"
+description: "Executive protection in N'Djamena, Chad. Licensed CPOs for oil-sector, development, and diplomatic executives in a high-risk Sahelian capital under transitional governance."
+slug: "ndjamena"
+h1: "Executive Protection in N'Djamena, Chad"
+seo_title: "Executive Protection N'Djamena | EP Programme Chad"
+service: "executive-protection"
+city: "N'Djamena"
+country: "Chad"
+risk_level: "high"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-06-12"
+cta_text: "Request an executive protection assessment for N'Djamena before Chad travel is confirmed."
+components:
+  - title: "Executive Risk Profile: N'Djamena"
+    description: "N'Djamena carries a high risk rating shaped by Chad's transitional military governance following the death of President Idriss Deby in 2021, the country's long history of armed rebellion and cross-border incursions, and the regional Sahel insecurity context. The US State Department rates Chad at Level 3 (Reconsider Travel) as of 2026, and FCDO advises against travel to border regions with Sudan, Libya, Nigeria, and the CAR. Within N'Djamena, the risk for corporate executives centres on robbery, political demonstrations, and the unpredictability of transitional governance. Oil sector (ExxonMobil, CNPC, TotalEnergies) and humanitarian organisation executives are the primary EP client profile. Source: FCDO Chad travel advice (2026)."
+  - title: "Pre-Advance and Venue Assessment"
+    description: "Pre-advance for N'Djamena EP covers Hassan Djamous International Airport (NDJ) transfer route, the principal's accommodation in the Bololo or central diplomatic area, and all confirmed meeting venues. Government ministry venues require particular advance coordination given the transitional military governance environment; access and timing cannot be assumed from previous visit experience. Hotel assessment confirms security posture and access control. For principals with itineraries that approach any FCDO border restriction area, a specific route assessment is completed before the itinerary is confirmed."
+  - title: "Political and Transitional Risk"
+    description: "Chad's Transitional Military Council (CMT) has governed since May 2021. Presidential elections were held in 2024, with Mahamat Idriss Deby (son of the late president) elected. The political environment remains less stable and predictable than under a fully normalised civilian government. Demonstrations, military movements in the capital, and policy announcements affecting foreign commercial interests can occur without advance notice. EP protective intelligence in N'Djamena monitors the political environment as a standard element of the deployment brief."
+  - title: "Sahel Regional Risk Context"
+    description: "Chad borders six countries including Sudan (active civil war since April 2023), Libya (ongoing instability), and the Central African Republic (armed conflict). The Lake Chad Basin carries jihadist activity (Boko Haram and Islamic State West Africa Province). FCDO advises against all travel within border areas of Chad adjoining these countries. N'Djamena is not directly affected by these border conflicts, but the regional context shapes the overall EP requirement and means that any itinerary element outside the capital requires a specific, enhanced security assessment."
+  - title: "Movement Security and Motorcade"
+    description: "N'Djamena EP movements use a minimum two-person team: a licensed CPO and a security-trained driver. For higher-profile principals or itineraries outside the Bololo and central commercial districts, a three-person team with a second vehicle is recommended. Counter-surveillance protocols apply from the NDJ airport collection. All movements are GPS tracked with operations controller oversight. Night movement outside confirmed secure locations is minimised and specifically assessed before being approved."
+  - title: "Crisis Response and Evacuation"
+    description: "N'Djamena EP crisis plans cover medical emergency (Hopital de l'Amitie Tchad-Chine for acute care, supplemented by private clinic options; capacity limitations mean medevac planning is essential), political incident response, and extraction via Hassan Djamous International Airport (NDJ). Medical evacuation to Nairobi, Addis Ababa, or France is the standard response for serious conditions. NDJ has direct or one-stop connections to relevant medevac destinations. Plans are confirmed with the client's travel insurance provider before deployment."
+faqs:
+  - question: "How does Chad's transitional governance affect EP in N'Djamena?"
+    answer: "The Transitional Military Council and the subsequent election of Mahamat Idriss Deby have maintained relative stability in N'Djamena, but the political environment remains less predictable than under established civilian governance. Government access for commercial executives is more complex, policy announcements can affect business operations without warning, and military movements in the city are an additional environmental variable. EP intelligence monitoring covers transitional political developments as a standard brief element. Source: FCDO Chad travel advice (2026); US State Dept Chad Level 3 advisory (2026)."
+  - question: "Which sectors most commonly use EP in N'Djamena?"
+    answer: "Oil and gas (ExxonMobil, CNPC, TotalEnergies, operating the Chad-Cameroon pipeline) and humanitarian organisations (UNHCR, WFP, ICRC) with significant Chad presence are the dominant EP client sectors. Development finance visitors, government affairs executives, and mining exploration companies are also EP clients. The humanitarian sector is particularly active given Chad's position hosting large refugee populations from Sudan, CAR, and other neighbours."
+  - question: "Is armed EP available in N'Djamena?"
+    answer: "Armed EP is available in N'Djamena under Chadian Ministry of Public Security authorisation. For most standard corporate executive visits to the central commercial and diplomatic districts, a professional EP team with vetted transport provides an appropriate baseline. Armed EP is recommended for higher-profile principals, those assessed at specific elevated threat, or executives with itineraries that include field site visits outside N'Djamena."
+  - question: "What is the EP requirement for oil field visits outside N'Djamena?"
+    answer: "The southern oilfields (operated by ExxonMobil, CNPC, and TotalEnergies via the TOTCO pipeline infrastructure) are a separate EP planning context from N'Djamena. Road travel from N'Djamena to the southern fields involves several hours on road conditions that are poor in the rainy season, and the field area has its own operator security protocols. A stand-alone EP and transport security plan for field site visits is required; this cannot be delivered under the standard N'Djamena city EP framework."
+---
+
+N'Djamena is the capital of Chad, a Sahelian country whose oil economy draws corporate visitors and whose enormous humanitarian sector hosts major UN agency and NGO operations. The transitional military council and the 2024 presidential election have produced some political stabilisation, but the operating environment remains high risk given the country's six-country border exposure, Sahel regional instability, and the legacy of decades of armed conflict. The US State Department rates Chad at Level 3 (Reconsider Travel) as of 2026, and FCDO advises against travel to all border regions.
+
+A standard N'Djamena EP programme covers pre-advance of the NDJ transfer and all confirmed venues, counter-surveillance from airport collection, team configurations scaled to the principal's risk profile, political environment monitoring, and crisis response via Hassan Djamous International Airport. For the full N'Djamena security picture, see our [N'Djamena city briefing](/cities/ndjamena/) and [security drivers in N'Djamena](/security-drivers/ndjamena/) for vetted transport alongside executive protection.
