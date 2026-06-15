@@ -482,9 +482,9 @@
         "remaining": "all other live cities not yet in covered list"
       },
       "residential-security": {
-        "status": "BATCH12-DONE",
-        "date": "2026-06-14",
-        "pages": 118,
+        "status": "BATCH14-DONE",
+        "date": "2026-06-15",
+        "pages": 128,
         "covered": [
           "johannesburg",
           "lagos",
@@ -603,14 +603,24 @@
           "la-paz",
           "asuncion",
           "montevideo",
-          "guayaquil"
+          "guayaquil",
+          "kingston",
+          "georgetown",
+          "paramaribo",
+          "port-au-prince",
+          "tegucigalpa",
+          "san-salvador",
+          "guatemala-city",
+          "managua",
+          "belize-city",
+          "yaounde"
         ],
         "remaining": "all other live cities not yet in covered list"
       },
       "event-security": {
-        "status": "BATCH12-DONE",
-        "date": "2026-06-14",
-        "pages": 118,
+        "status": "BATCH14-DONE",
+        "date": "2026-06-15",
+        "pages": 128,
         "covered": [
           "johannesburg",
           "lagos",
@@ -729,14 +739,24 @@
           "la-paz",
           "asuncion",
           "montevideo",
-          "guayaquil"
+          "guayaquil",
+          "kingston",
+          "georgetown",
+          "paramaribo",
+          "port-au-prince",
+          "tegucigalpa",
+          "san-salvador",
+          "guatemala-city",
+          "managua",
+          "belize-city",
+          "yaounde"
         ],
         "remaining": "all other live cities not yet in covered list"
       },
       "close-protection-officers": {
-        "status": "BATCH12-DONE",
-        "date": "2026-06-14",
-        "pages": 118,
+        "status": "BATCH14-DONE",
+        "date": "2026-06-15",
+        "pages": 128,
         "covered": [
           "johannesburg",
           "lagos",
@@ -855,14 +875,24 @@
           "la-paz",
           "asuncion",
           "montevideo",
-          "guayaquil"
+          "guayaquil",
+          "kingston",
+          "georgetown",
+          "paramaribo",
+          "port-au-prince",
+          "tegucigalpa",
+          "san-salvador",
+          "guatemala-city",
+          "managua",
+          "belize-city",
+          "yaounde"
         ],
         "remaining": "all other live cities not yet in covered list"
       },
       "secure-airport-transfers": {
-        "status": "BATCH13-DONE",
-        "date": "2026-06-14",
-        "pages": 118,
+        "status": "BATCH14-DONE",
+        "date": "2026-06-15",
+        "pages": 128,
         "covered": [
           "johannesburg",
           "lagos",
@@ -981,7 +1011,17 @@
           "la-paz",
           "asuncion",
           "montevideo",
-          "guayaquil"
+          "guayaquil",
+          "kingston",
+          "georgetown",
+          "paramaribo",
+          "port-au-prince",
+          "tegucigalpa",
+          "san-salvador",
+          "guatemala-city",
+          "managua",
+          "belize-city",
+          "yaounde"
         ],
         "remaining": "all other live cities"
       }
@@ -989,27 +1029,20 @@
     "expansion_order": "For each service in the services list, build that service across the next 10 live cities not yet covered for it (read cities from site/content/cities/, skip any service-city slug already on disk). Rotate which service is extended each block so the matrix fills evenly: bodyguard-hire batch, then security-drivers batch, then executive-protection, residential-security, event-security, close-protection-officers, secure-airport-transfers, then back to bodyguard-hire for the next 10 cities. One 10-page block per run."
   },
   "city_expansion": {
-    "_goal": "Grow the city universe from 128 to 250. Each city unlocks 7 new service-city matrix pages, so cities are high-leverage. Build the next 5-10 cities per block from the P4 city queue (next-tier business-travel and high-net-worth destinations: regional capitals, financial centres, and resource/energy hubs not yet covered).",
-    "live": 128,
+    "_goal": "Grow the city universe from 138 to 250. Each city unlocks 7 new service-city matrix pages, so cities are high-leverage. Build the next 5-10 cities per block from the P4 city queue (next-tier business-travel and high-net-worth destinations: regional capitals, financial centres, and resource/energy hubs not yet covered).",
+    "live": 138,
     "target": 250,
     "next_p4_queue": [
-      "Libreville",
-      "Brazzaville",
-      "Bangui",
-      "Ndjamena",
-      "Khartoum",
-      "Juba",
-      "Asmara",
-      "Djibouti",
-      "Hargeisa",
-      "Bujumbura",
       "Antananarivo",
       "Port Louis",
       "Victoria-Seychelles",
       "Gaborone",
       "Windhoek",
       "Maseru",
-      "Mbabane"
+      "Mbabane",
+      "Freetown",
+      "Monrovia",
+      "Ouagadougou"
     ],
     "_completed_p4_batch13": [
       "Kingston",
@@ -1022,6 +1055,18 @@
       "Managua",
       "Belize City",
       "Yaounde"
+    ],
+    "_completed_p4_batch14": [
+      "Libreville",
+      "Brazzaville",
+      "Bangui",
+      "Ndjamena",
+      "Khartoum",
+      "Juba",
+      "Asmara",
+      "Djibouti City",
+      "Hargeisa",
+      "Bujumbura"
     ]
   },
   "country_expansion": {
@@ -1036,9 +1081,9 @@
     "4. blog: when the next matrix/city/country block is already committed, build the next 5-article blog batch from the keyword matrix (non-cannibalising angles)."
   ],
   "pages": {
-    "total_live": 1185,
-    "_count_note": "1135 prior + 50 new (batch13: SAT x 10 batch11 P4 cities + 10 new P4 city pages + bodyguard-hire/security-drivers/executive-protection x 10 new P4 cities = 50 pages). New cities: Kingston, Georgetown, Paramaribo, Port-au-Prince, Tegucigalpa, San Salvador, Guatemala City, Managua, Belize City, Yaounde. Cities live: 128. All 7 services now cover 128 cities. Plus 3 pre-existing QA fixes (islamabad EP/event-security, tripoli event-security).",
-    "last_updated": "2026-06-14"
+    "total_live": 1235,
+    "_count_note": "1185 prior + 50 new (batch14: residential-security/event-security/CPO/SAT x 10 batch13 cities (Kingston-Yaounde) + 10 new P4 city pages (Libreville-Bujumbura) = 50 pages). Cities live: 138. All 7 services now cover 128 cities (batch14 cities not yet matrix-built).",
+    "last_updated": "2026-06-15"
   },
   "engine_alignment": {
     "1_combinatorial_generators": "DONE",
@@ -1050,5 +1095,5 @@
     "7_operating_system": "DONE"
   },
   "cannibalisation_rule": "Do not blog on topics already covered by service x city deep pages. The deep pages ARE the definitive content for {service}/{city}. Blog covers angles the deep pages do not.",
-  "next_stage": "GROWTH MODE. Batch13 complete: SAT x 10 batch11 P4 cities (completes 7-service matrix for Chittagong through Guayaquil) + 10 new P4 city pages (Kingston through Yaounde) + BH/SD/EP x same 10 new cities. Cities live: 128. Next run: (1) residential-security x 10 new P4 cities (Kingston through Yaounde); (2) event-security x same 10; (3) close-protection-officers x same 10; (4) secure-airport-transfers x same 10; then city expansion batch14 from next_p4_queue (Libreville, Brazzaville, Bangui, Ndjamena, Khartoum, Juba, Asmara, Djibouti, Hargeisa, Bujumbura)."
+  "next_stage": "GROWTH MODE. Batch14 complete: residential-security/event-security/CPO/SAT x 10 batch13 cities (Kingston-Yaounde) + 10 new P4 city pages (Libreville-Bujumbura). Cities live: 138. All 7 services cover 128 cities (the batch14 cities are live but not yet matrix-built). Next run: (1) bodyguard-hire x 10 batch14 cities (libreville, brazzaville, bangui, ndjamena, khartoum, juba, asmara, djibouti-city, hargeisa, bujumbura); (2) security-drivers x same 10; (3) executive-protection x same 10; (4) residential-security x same 10; then city expansion batch15 from next_p4_queue (Antananarivo, Port Louis, Victoria-Seychelles, Gaborone, Windhoek, Maseru, Mbabane, Freetown, Monrovia, Ouagadougou)."
 }
