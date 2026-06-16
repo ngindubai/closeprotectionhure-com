@@ -1,3 +1,6 @@
+# Claude Code session data
+.claude/
+
 # Hugo build output — never commit
 public/
 
