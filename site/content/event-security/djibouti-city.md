@@ -50,7 +50,7 @@ Djibouti City occupies a strategic position at the Bab-el-Mandeb strait, a choke
 
 ## The Djibouti City event security environment
 
-The Plateau du Serpent and its Kempinski Palace Hotel anchor the city's international conference activity. The multi-base military environment creates a unique planning context: events involving naval officers, defence industry representatives or maritime security professionals attract a delegate population with an elevated threat profile, and the information security environment for sensitive commercial discussions is more complex than in a standard civilian setting. The FFDJ and US CJTF-HOA maintain established relationships with Djiboutian security services, which can be an asset for event planners who identify and leverage those relationships at the planning stage. Source: FCDO Djibouti travel advice (2026).
+The Plateau du Serpent and its Kempinski Palace Hotel anchor the city's international conference activity. The multi-base military environment creates a unique planning context: events involving naval officers, defence industry representatives or maritime security professionals attract a delegate population with an elevated threat profile, and the information security environment for sensitive commercial discussions is more complex than in a standard civilian setting. The FFDJ and US CJTF-HOA maintain established relationships with Djiboutian security services, which can be an asset for event planners who identify and build on those relationships at the planning stage. Source: FCDO Djibouti travel advice (2026).
 
 ## Planning events in Djibouti City
 
