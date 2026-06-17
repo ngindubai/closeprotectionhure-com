@@ -16,7 +16,7 @@
     "cannibalisation_note": "Do not blog topics already covered by service x city deep pages. Blog covers angles the deep pages do not: cost breakdowns, regulatory explainers, comparisons, question-led safety guides."
   },
   "cities": {
-    "total_live": 118,
+    "total_live": 158,
     "target": 250
   },
   "services": [
@@ -1166,23 +1166,31 @@
         "remaining": "all other live cities"
       }
     },
-    "expansion_order": "For each service in the services list, build that service across the next 10 live cities not yet covered for it (read cities from site/content/cities/, skip any service-city slug already on disk). Rotate which service is extended each block so the matrix fills evenly: bodyguard-hire batch, then security-drivers batch, then executive-protection, residential-security, event-security, close-protection-officers, secure-airport-transfers, then back to bodyguard-hire for the next 10 cities. One 10-page block per run."
+    "expansion_order": "For each service in the services list, build that service across the next 10 live cities not yet covered for it (read cities from site/content/cities/, skip any service-city slug already on disk). Rotate which service is extended each block so the matrix fills evenly: bodyguard-hire batch, then security-drivers batch, then executive-protection, residential-security, event-security, close-protection-officers, secure-airport-transfers, then back to bodyguard-hire for the next 10 cities. One 10-page block per run.",
+    "current_coverage_note": "BH/SD/EP/RS cover 158 cities. ES/CPO/SAT cover 148 cities (batch16 cities pending for ES/CPO/SAT -- next run). Batch18 (17 Jun 2026) built batch16 city pages + BH/SD/EP/RS x batch16.",
+    "cities_covered_bh": 158,
+    "cities_covered_sd": 158,
+    "cities_covered_ep": 158,
+    "cities_covered_rs": 158,
+    "cities_covered_es": 148,
+    "cities_covered_cpo": 148,
+    "cities_covered_sat": 148
   },
   "city_expansion": {
     "_goal": "Grow the city universe from 138 to 250. Each city unlocks 7 new service-city matrix pages, so cities are high-leverage. Build the next 5-10 cities per block from the P4 city queue (next-tier business-travel and high-net-worth destinations: regional capitals, financial centres, and resource/energy hubs not yet covered).",
     "live": 148,
     "target": 250,
     "next_p4_queue": [
-      "Malabo",
-      "Lome",
-      "Cotonou",
-      "Praia",
-      "Yerevan",
-      "Chisinau",
-      "Tirana",
-      "Podgorica",
-      "Sarajevo",
-      "Skopje"
+      "Valletta",
+      "Nicosia",
+      "Riga",
+      "Vilnius",
+      "Tallinn",
+      "Ljubljana",
+      "Zagreb",
+      "Bratislava",
+      "Sofia",
+      "Minsk"
     ],
     "_completed_p4_batch15": [
       "Antananarivo",
@@ -1219,6 +1227,18 @@
       "Djibouti City",
       "Hargeisa",
       "Bujumbura"
+    ],
+    "batch16_completed": [
+      "Malabo",
+      "Lome",
+      "Cotonou",
+      "Praia",
+      "Yerevan",
+      "Chisinau",
+      "Tirana",
+      "Podgorica",
+      "Sarajevo",
+      "Skopje"
     ]
   },
   "country_expansion": {
@@ -1247,5 +1267,5 @@
     "7_operating_system": "DONE"
   },
   "cannibalisation_rule": "Do not blog on topics already covered by service x city deep pages. The deep pages ARE the definitive content for {service}/{city}. Blog covers angles the deep pages do not.",
-  "next_stage": "BATCH17 COMPLETE: EP/RS/ES/CPO/SAT x batch15 (antananarivo-ouagadougou) = 50 pages. All 7 services now cover 148 cities. Next: expand all 7 services x 10 batch16 cities from next_p4_queue (Malabo, Lome, Cotonou, Praia, Yerevan, Chisinau, Tirana, Podgorica, Sarajevo, Skopje). Or: city_expansion -- build city pages for next_p4_queue batch first, then service x city matrix follows."
+  "next_stage": "BATCH18 COMPLETE: batch16 city pages (Malabo-Skopje) + BH/SD/EP/RS x batch16 = 50 pages. 158 cities live. Next: ES/CPO/SAT x batch16 (30 pages) + city expansion batch17 (Valletta-Minsk) + BH/SD x batch17."
 }

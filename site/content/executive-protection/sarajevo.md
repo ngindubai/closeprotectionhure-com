@@ -1,0 +1,42 @@
+---
+title: "Executive Protection in Sarajevo, Bosnia and Herzegovina"
+description: "Executive protection in Sarajevo. Medium risk environment. Advance work, principal protection, emergency response for Bosnia and Herzegovina operations."
+slug: "sarajevo"
+h1: "Executive Protection in Sarajevo, Bosnia and Herzegovina"
+seo_title: "Executive Protection Sarajevo | EP Services Bosnia and Herzegovina"
+service: "executive-protection"
+city: "Sarajevo"
+country: "Bosnia and Herzegovina"
+risk_level: "medium"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-06-14"
+cta_text: "Contact us for a confidential executive protection assessment for Sarajevo."
+components:
+  - title: "Executive Protection Risk Assessment: Sarajevo"
+    description: "Medium risk rating. Sarajevo city centre is safe for commercial operations. Primary risks are the post-conflict political instability of the Dayton governance structure, organised crime requiring due-diligence for business dealings, and the landmine hazard in rural and mountain areas outside the city (approximately 1,000 sq km contaminated per BHMAC, 2025). FCDO advises a high degree of caution (FCDO BiH, 2026)."
+  - title: "Bosnia and Herzegovina Licensing and Operator Vetting"
+    description: "Executive protection operators deploying in Sarajevo must meet the licensing requirements of the Federation of BiH Ministry of Interior (cantonal level) under the Federation BiH private security cantonal licensing framework. For international principals, the operator selection process must include verification of: current local licensing, demonstrated Bosnia and Herzegovina operational experience, team language capability relevant to the Bosnian post-conflict and Dayton governance environment, and documented emergency response protocols. Any gap in these criteria represents unacceptable risk to the principal. Request written compliance documentation before committing to any Sarajevo EP deployment."
+  - title: "Advance Work and Site Surveys"
+    description: "Professional executive protection in Sarajevo begins well before the principal arrives. Advance work includes: pre-arrival threat assessment specific to the principal's profile and itinerary, hotel and venue security surveys, route pre-surveys for all planned movements, liaison with local law enforcement or security services where appropriate, and confirmation of emergency protocols with the medical evacuation provider. No principal should move in Sarajevo without completed advance work for each new venue or route."
+  - title: "Principal Briefing and Protective Posture"
+    description: "The protective posture for Sarajevo is calibrated to both the destination risk rating (medium) and the individual principal's threat profile. In Bosnian post-conflict and Dayton governance environment, the standard posture includes: vetted transport for all movements, a dedicated close protection officer for higher-risk principals or engagements, and a residential security arrangement that provides adequate overnight protection. The principal should be briefed on the specific risks of the Bosnian post-conflict and Dayton governance environment and on emergency procedures before arrival."
+  - title: "Communications and Emergency Protocols"
+    description: "All executive protection deployments in Sarajevo require a confirmed communications plan covering: primary and backup communications between the EP team and the principal, contact details for local police, fire, and University Clinical Centre Sarajevo, medevac provider pre-authorisation to Vienna or Zagreb, and a crisis communications protocol for principal family or organisation. Communications equipment appropriate to Sarajevo's network environment -- including satellite communications if local network reliability is a concern -- must be in place before the principal arrives."
+  - title: "Post-Deployment Review"
+    description: "After each Sarajevo deployment, the EP team lead should produce a debrief noting: any security incidents or near-misses, route performance, supplier and hotel security performance, and recommended adjustments for future visits. This discipline produces a continuously improving protective posture for recurring Sarajevo travel, and the debrief record provides corporate audit documentation relevant to duty-of-care obligations under UK corporate governance standards."
+faqs:
+  - question: "What executive protection services are available in Sarajevo?"
+    answer: "Executive protection in Sarajevo covers: advance work (threat assessment, hotel and venue surveys, route surveys), principal movement protection with vetted security drivers, residential security for longer stays, emergency response planning, and post-deployment debriefs. Deployments are calibrated to the medium risk rating of Sarajevo and the individual principal's threat profile. Fcdo advises a high degree of caution and warns of landmine risk outside urban areas; us state dept level 2 (2026). Contact a specialist operator to discuss the appropriate protective posture."
+  - question: "What advance work is required before an executive visit to Sarajevo?"
+    answer: "Advance work for a Sarajevo executive visit includes: pre-arrival threat assessment specific to the principal's profile and itinerary, hotel and venue security surveys, route pre-surveys for all planned movements, liaison with the Federation of BiH Ministry of Interior (cantonal level) or local law enforcement where appropriate, confirmation of emergency protocols with the medevac provider for Vienna or Zagreb, and a principal briefing document on the specific risks of Bosnian post-conflict and Dayton governance environment. Advance work should be completed at least 72 hours before the principal's arrival for standard visits."
+  - question: "How does the duty of care obligation affect executive protection in Sarajevo?"
+    answer: "UK organisations sending personnel or principals to Sarajevo carry a duty-of-care obligation under the Health and Safety at Work Act 1974 and related duty-of-care frameworks. This requires a documented risk assessment for the destination (FCDO advises a high degree of caution and warns of landmine risk outside urban areas; US State Dept Level 2 (2026)), appropriate protective measures calibrated to the risk rating, emergency response planning including medevac pre-arrangement to Vienna or Zagreb, and confirmation that all personnel have been briefed on the risks of Bosnian post-conflict and Dayton governance environment. A professional EP deployment provides the audit trail required to demonstrate duty-of-care compliance."
+  - question: "What does post-deployment review add to executive protection for Sarajevo?"
+    answer: "Post-deployment review after each Sarajevo visit provides: a record of any security incidents or near-misses, performance assessment of suppliers and venues, route assessment for future visits, and recommended adjustments to the protective posture. This creates a continuously improving security baseline for organisations with recurring Sarajevo travel requirements, and the written debrief provides corporate governance documentation relevant to duty-of-care audits. Most organisations with regular Sarajevo operations develop a programme-specific EP playbook over two or three visits."
+---
+
+Executive protection in Sarajevo is structured around the medium risk rating of Bosnian post-conflict and Dayton governance environment. Fcdo advises a high degree of caution and warns of landmine risk outside urban areas; us state dept level 2 (2026).
+
+A professional EP deployment for Sarajevo begins with advance work -- threat assessment, hotel and venue surveys, route pre-surveys, and medevac pre-arrangement to Vienna or Zagreb -- completed before the principal arrives. The protective posture during the visit covers: vetted transport for all movements from Sarajevo International Airport (SJJ), dedicated close protection for higher-risk engagements, residential security, and a documented emergency response plan. Post-deployment review produces a continuously improving security baseline for organisations with recurring Sarajevo travel.
+
+For regional EP context, see our [executive protection in Podgorica](/executive-protection/podgorica/) and our [Sarajevo city security briefing](/cities/sarajevo/). For transport security, see our [security drivers in Sarajevo](/security-drivers/sarajevo/).
