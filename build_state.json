@@ -1219,11 +1219,11 @@
     "expansion_order": "For each service in the services list, build that service across the next 10 live cities not yet covered for it (read cities from site/content/cities/, skip any service-city slug already on disk). Rotate which service is extended each block so the matrix fills evenly: bodyguard-hire batch, then security-drivers batch, then executive-protection, residential-security, event-security, close-protection-officers, secure-airport-transfers, then back to bodyguard-hire for the next 10 cities. One 10-page block per run.",
     "current_coverage_note": "BH covers 168 cities (all 158 prior + batch17). SD/EP/RS cover 158 cities (batch17 pending). ES/CPO/SAT now cover 158 cities (batch16 complete). Batch19 (17 Jun 2026) built ES/CPO/SAT x batch16 + batch17 cities + BH x batch17.",
     "cities_covered_bh": 168,
-    "cities_covered_sd": 158,
-    "cities_covered_ep": 158,
-    "cities_covered_rs": 158,
-    "cities_covered_es": 158,
-    "cities_covered_cpo": 158,
+    "cities_covered_sd": 168,
+    "cities_covered_ep": 168,
+    "cities_covered_rs": 168,
+    "cities_covered_es": 168,
+    "cities_covered_cpo": 168,
     "cities_covered_sat": 158
   },
   "city_expansion": {
@@ -1329,5 +1329,5 @@
     "7_operating_system": "DONE"
   },
   "cannibalisation_rule": "Do not blog on topics already covered by service x city deep pages. The deep pages ARE the definitive content for {service}/{city}. Blog covers angles the deep pages do not.",
-  "next_stage": "BATCH19 COMPLETE: ES/CPO/SAT x batch16 (30 pages) + batch17 city pages (Valletta-Minsk, 10) + BH x batch17 (10) = 50 pages. 168 cities live. Next: SD/EP/RS/ES/CPO/SAT x batch17 (Valletta-Minsk) = 60 pages, then city expansion batch18."
+  "next_stage": "BATCH20 COMPLETE: SD/EP/RS/ES/CPO x batch17 (Valletta-Minsk) = 50 pages. All services except SAT now cover all 168 cities. Next: SAT x batch17 (10 pages) + city expansion batch18 (10 new cities) + matrix x new cities."
 }

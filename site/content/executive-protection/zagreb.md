@@ -1,0 +1,42 @@
+---
+title: "Executive Protection in Zagreb, Croatia"
+description: "Executive protection in Zagreb, Croatia. Low risk. Advance work, principal protection, emergency response."
+slug: "zagreb"
+h1: "Executive Protection in Zagreb, Croatia"
+seo_title: "Executive Protection Zagreb | EP Services Croatia"
+service: "executive-protection"
+city: "Zagreb"
+country: "Croatia"
+risk_level: "low"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-06-15"
+cta_text: "Contact us for a confidential executive protection assessment for Zagreb."
+components:
+  - title: "Executive Protection Risk Assessment: Zagreb"
+    description: "Low risk rating. Normal precautions for croatia (2026); US State Dept Level 1 (Exercise Normal Precautions) for Croatia (2026). A magnitude 6.2 earthquake struck Zagreb in March 2020. As of 2026, reconstruction is ongoing in the upper town (Gornji Grad) and around Kaptol Cathedral. Some heritage buildings remain scaffolded or partially closed; pedestrian and vehicle routes near active rebuilding sites require advance awareness. For principals operating in the Adriatic business travel, EU accession-linked investment, infrastructure, and tourism sector principals, a professional executive protection assessment calibrated to the individual's profile and itinerary is the appropriate starting point. The ambient risk rating is one input into that assessment, not the conclusion."
+  - title: "Croatia Licensing and Operator Vetting"
+    description: "Executive protection operators deploying in Zagreb must meet the licensing requirements of the Private Security Act (2018), administered by the Croatian Ministry of Interior. Operator selection must verify: current local licensing, demonstrated Zagreb operational experience, team language capability relevant to the Croatia environment, and documented emergency response protocols including medevac pre-arrangement to Vienna or Ljubljana. Any gap in these criteria represents unacceptable risk to the principal. Request written compliance documentation before committing to any Zagreb EP deployment."
+  - title: "Advance Work and Site Surveys"
+    description: "Professional executive protection in Zagreb begins before the principal arrives. Advance work includes: pre-arrival threat assessment specific to the principal's profile and itinerary, hotel and venue security surveys, route pre-surveys for all planned movements from Franjo Tudman International Airport (ZAG) and within Zagreb, liaison with local law enforcement where appropriate, and confirmation of emergency protocols with the medevac provider for Vienna or Ljubljana. No principal should move in Zagreb without completed advance work for each new venue or route on the itinerary."
+  - title: "Principal Briefing and Protective Posture"
+    description: "The protective posture for Zagreb is calibrated to the low risk rating and the individual principal's threat profile. The standard posture includes: vetted transport for all movements from Franjo Tudman International Airport (ZAG), a dedicated close protection officer for higher-risk principals or engagements, and a residential or hotel security arrangement that provides adequate overnight protection. The principal must be briefed on the specific operational environment of Zagreb, emergency procedures, and communications protocols before arrival. A magnitude 6.2 earthquake struck Zagreb in March 2020. As of 2026, reconstruction is ongoing in the upper town (Gornji Grad) and around Kaptol Cathedral. Some heritage buildings remain scaffolded or partially closed; pedestrian and vehicle routes near active rebuilding sites require advance awareness."
+  - title: "Communications and Emergency Protocols"
+    description: "All executive protection deployments in Zagreb require a confirmed communications plan covering: primary and backup communications between the EP team and the principal, contact details for local police (112 / 192 (Croatian Police)), fire and ambulance services, the nearest medical facility (University Hospital Centre Zagreb (KBC Zagreb), medevac pre-authorisation to Vienna or Ljubljana, and a crisis communications protocol for the principal's family or organisation. Communications equipment appropriate to Zagreb's network environment must be in place before the principal arrives."
+  - title: "Post-Deployment Review"
+    description: "After each Zagreb deployment, the EP team lead produces a debrief noting: any security incidents or near-misses, route performance, supplier and hotel security performance, and recommended adjustments for future visits. This discipline produces a continuously improving protective posture for recurring Zagreb travel and provides corporate audit documentation relevant to duty-of-care obligations under UK corporate governance standards. Most organisations with regular Zagreb operations develop a programme-specific EP playbook over two or three visits."
+faqs:
+  - question: "What executive protection services are available in Zagreb?"
+    answer: "Executive protection in Zagreb covers: advance work (threat assessment, venue and hotel surveys, route pre-surveys), principal movement protection with vetted security drivers, residential or hotel security, emergency response planning, and post-deployment debrief. Deployments are calibrated to the low risk rating and the individual principal's profile. Normal precautions for croatia (2026); US State Dept Level 1 (Exercise Normal Precautions) for Croatia (2026)."
+  - question: "What advance work is required before an executive visit to Zagreb?"
+    answer: "Advance work for a Zagreb executive visit includes: pre-arrival threat assessment, hotel and venue security surveys, route pre-surveys for all planned movements from ZAG, medevac pre-arrangement to Vienna or Ljubljana, and a principal briefing document on the specific Croatia operational environment. Advance work should be completed at least 72 hours before the principal's arrival for standard visits."
+  - question: "How does the duty of care obligation affect executive protection in Zagreb?"
+    answer: "UK organisations sending personnel to Zagreb carry a duty-of-care obligation under the Health and Safety at Work Act 1974. This requires a documented risk assessment for Croatia (Normal precautions for croatia (2026); US State Dept Level 1 (Exercise Normal Precautions) for Croatia (2026)), appropriate protective measures, emergency response planning including medevac pre-arrangement to Vienna or Ljubljana, and confirmation that all personnel have been briefed on the Croatia risk environment. A professional EP deployment provides the audit trail required to demonstrate duty-of-care compliance."
+  - question: "What post-deployment review process applies to executive protection in Zagreb?"
+    answer: "Post-deployment review after each Zagreb visit provides: a record of security incidents or near-misses, performance assessment of suppliers and venues, route assessment for future visits, and recommended adjustments to the protective posture. This creates a continuously improving security baseline for organisations with recurring Zagreb travel requirements and provides corporate governance documentation for duty-of-care audits."
+---
+
+Executive protection in Zagreb is structured around the low risk rating for Croatia and the specific operational requirements of Zagreb's principal movement corridors, venues, and emergency response infrastructure. Normal precautions for croatia (2026); US State Dept Level 1 (Exercise Normal Precautions) for Croatia (2026).
+
+A professional EP deployment begins with advance work -- threat assessment, hotel and venue surveys, route pre-surveys, and medevac pre-arrangement to Vienna or Ljubljana -- completed before the principal arrives at Franjo Tudman International Airport (ZAG). The protective posture during the visit covers vetted transport for all movements, dedicated close protection for higher-risk engagements, residential or hotel security, and a documented emergency response plan. Post-deployment review produces a continuously improving security baseline.
+
+For regional EP context, see our [Bodyguard Hire Ljubljana](/bodyguard-hire/ljubljana/) and our [Zagreb city security briefing](/cities/zagreb/). For transport security, see our [security drivers in Zagreb](/security-drivers/zagreb/).

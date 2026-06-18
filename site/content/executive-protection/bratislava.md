@@ -1,0 +1,42 @@
+---
+title: "Executive Protection in Bratislava, Slovakia"
+description: "Executive protection in Bratislava, Slovakia. Low risk. Advance work, principal protection, emergency response."
+slug: "bratislava"
+h1: "Executive Protection in Bratislava, Slovakia"
+seo_title: "Executive Protection Bratislava | EP Services Slovakia"
+service: "executive-protection"
+city: "Bratislava"
+country: "Slovakia"
+risk_level: "low"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-06-15"
+cta_text: "Contact us for a confidential executive protection assessment for Bratislava."
+components:
+  - title: "Executive Protection Risk Assessment: Bratislava"
+    description: "Low risk rating. Normal precautions for slovakia (2026); US State Dept Level 1 (Exercise Normal Precautions) for Slovakia (2026). Slovakia's political environment saw the assassination attempt on Prime Minister Robert Fico in May 2024. Standard situational awareness around public demonstrations and government venues is advisable. Vienna Airport (VIE) is 60km from Bratislava and serves many international visitors to Slovakia. For principals operating in the automotive, financial services, and government-adjacent corporate principals; Vienna-Bratislava corridor travellers, a professional executive protection assessment calibrated to the individual's profile and itinerary is the appropriate starting point. The ambient risk rating is one input into that assessment, not the conclusion."
+  - title: "Slovakia Licensing and Operator Vetting"
+    description: "Executive protection operators deploying in Bratislava must meet the licensing requirements of the Act on Private Security (Act No. 473/2005 Coll.), administered by the Bureau of Security Service Oversight (USOO), Ministry of Interior. Operator selection must verify: current local licensing, demonstrated Bratislava operational experience, team language capability relevant to the Slovakia environment, and documented emergency response protocols including medevac pre-arrangement to Vienna or Prague. Any gap in these criteria represents unacceptable risk to the principal. Request written compliance documentation before committing to any Bratislava EP deployment."
+  - title: "Advance Work and Site Surveys"
+    description: "Professional executive protection in Bratislava begins before the principal arrives. Advance work includes: pre-arrival threat assessment specific to the principal's profile and itinerary, hotel and venue security surveys, route pre-surveys for all planned movements from Milan Rastislav Stefanik Airport (BTS) and within Bratislava, liaison with local law enforcement where appropriate, and confirmation of emergency protocols with the medevac provider for Vienna or Prague. No principal should move in Bratislava without completed advance work for each new venue or route on the itinerary."
+  - title: "Principal Briefing and Protective Posture"
+    description: "The protective posture for Bratislava is calibrated to the low risk rating and the individual principal's threat profile. The standard posture includes: vetted transport for all movements from Milan Rastislav Stefanik Airport (BTS), a dedicated close protection officer for higher-risk principals or engagements, and a residential or hotel security arrangement that provides adequate overnight protection. The principal must be briefed on the specific operational environment of Bratislava, emergency procedures, and communications protocols before arrival. Slovakia's political environment saw the assassination attempt on Prime Minister Robert Fico in May 2024. Standard situational awareness around public demonstrations and government venues is advisable. Vienna Airport (VIE) is 60km from Bratislava and serves many international visitors to Slovakia."
+  - title: "Communications and Emergency Protocols"
+    description: "All executive protection deployments in Bratislava require a confirmed communications plan covering: primary and backup communications between the EP team and the principal, contact details for local police (112 / 158 (Slovak Police)), fire and ambulance services, the nearest medical facility (University Hospital Bratislava (FNsP Bratislava), medevac pre-authorisation to Vienna or Prague, and a crisis communications protocol for the principal's family or organisation. Communications equipment appropriate to Bratislava's network environment must be in place before the principal arrives."
+  - title: "Post-Deployment Review"
+    description: "After each Bratislava deployment, the EP team lead produces a debrief noting: any security incidents or near-misses, route performance, supplier and hotel security performance, and recommended adjustments for future visits. This discipline produces a continuously improving protective posture for recurring Bratislava travel and provides corporate audit documentation relevant to duty-of-care obligations under UK corporate governance standards. Most organisations with regular Bratislava operations develop a programme-specific EP playbook over two or three visits."
+faqs:
+  - question: "What executive protection services are available in Bratislava?"
+    answer: "Executive protection in Bratislava covers: advance work (threat assessment, venue and hotel surveys, route pre-surveys), principal movement protection with vetted security drivers, residential or hotel security, emergency response planning, and post-deployment debrief. Deployments are calibrated to the low risk rating and the individual principal's profile. Normal precautions for slovakia (2026); US State Dept Level 1 (Exercise Normal Precautions) for Slovakia (2026)."
+  - question: "What advance work is required before an executive visit to Bratislava?"
+    answer: "Advance work for a Bratislava executive visit includes: pre-arrival threat assessment, hotel and venue security surveys, route pre-surveys for all planned movements from BTS, medevac pre-arrangement to Vienna or Prague, and a principal briefing document on the specific Slovakia operational environment. Advance work should be completed at least 72 hours before the principal's arrival for standard visits."
+  - question: "How does the duty of care obligation affect executive protection in Bratislava?"
+    answer: "UK organisations sending personnel to Bratislava carry a duty-of-care obligation under the Health and Safety at Work Act 1974. This requires a documented risk assessment for Slovakia (Normal precautions for slovakia (2026); US State Dept Level 1 (Exercise Normal Precautions) for Slovakia (2026)), appropriate protective measures, emergency response planning including medevac pre-arrangement to Vienna or Prague, and confirmation that all personnel have been briefed on the Slovakia risk environment. A professional EP deployment provides the audit trail required to demonstrate duty-of-care compliance."
+  - question: "What post-deployment review process applies to executive protection in Bratislava?"
+    answer: "Post-deployment review after each Bratislava visit provides: a record of security incidents or near-misses, performance assessment of suppliers and venues, route assessment for future visits, and recommended adjustments to the protective posture. This creates a continuously improving security baseline for organisations with recurring Bratislava travel requirements and provides corporate governance documentation for duty-of-care audits."
+---
+
+Executive protection in Bratislava is structured around the low risk rating for Slovakia and the specific operational requirements of Bratislava's principal movement corridors, venues, and emergency response infrastructure. Normal precautions for slovakia (2026); US State Dept Level 1 (Exercise Normal Precautions) for Slovakia (2026).
+
+A professional EP deployment begins with advance work -- threat assessment, hotel and venue surveys, route pre-surveys, and medevac pre-arrangement to Vienna or Prague -- completed before the principal arrives at Milan Rastislav Stefanik Airport (BTS). The protective posture during the visit covers vetted transport for all movements, dedicated close protection for higher-risk engagements, residential or hotel security, and a documented emergency response plan. Post-deployment review produces a continuously improving security baseline.
+
+For regional EP context, see our [Bodyguard Hire Vienna](/bodyguard-hire/vienna/) and our [Bratislava city security briefing](/cities/bratislava/). For transport security, see our [security drivers in Bratislava](/security-drivers/bratislava/).

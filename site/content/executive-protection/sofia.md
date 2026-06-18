@@ -1,0 +1,42 @@
+---
+title: "Executive Protection in Sofia, Bulgaria"
+description: "Executive protection in Sofia, Bulgaria. Medium risk. Advance work, principal protection, emergency response."
+slug: "sofia"
+h1: "Executive Protection in Sofia, Bulgaria"
+seo_title: "Executive Protection Sofia | EP Services Bulgaria"
+service: "executive-protection"
+city: "Sofia"
+country: "Bulgaria"
+risk_level: "medium"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-06-15"
+cta_text: "Contact us for a confidential executive protection assessment for Sofia."
+components:
+  - title: "Executive Protection Risk Assessment: Sofia"
+    description: "Medium risk rating. Exercise a high degree of caution in bulgaria (2026); US State Dept Level 2 (Exercise Increased Caution) for Bulgaria (2026). Anti-surveillance drills are standard for all principal movements in Sofia, not optional. Route variation on the SOF airport corridor is specifically recommended. Due diligence on locally sourced operators must extend beyond criminal records to include business connections and affiliations. For principals operating in the energy, construction, real estate, logistics, and financial services principals; organised crime exposure requires above-average operator due diligence, a professional executive protection assessment calibrated to the individual's profile and itinerary is the appropriate starting point. The ambient risk rating is one input into that assessment, not the conclusion."
+  - title: "Bulgaria Licensing and Operator Vetting"
+    description: "Executive protection operators deploying in Sofia must meet the licensing requirements of the Private Security Act (Zakon za Chastna Okhrana, ZPOO, 2004, as amended), administered by the Ministry of Interior (Ministerstvo na vatreshnite raboti). Operator selection must verify: current local licensing, demonstrated Sofia operational experience, team language capability relevant to the Bulgaria environment, and documented emergency response protocols including medevac pre-arrangement to Vienna or Athens. Any gap in these criteria represents unacceptable risk to the principal. Request written compliance documentation before committing to any Sofia EP deployment."
+  - title: "Advance Work and Site Surveys"
+    description: "Professional executive protection in Sofia begins before the principal arrives. Advance work includes: pre-arrival threat assessment specific to the principal's profile and itinerary, hotel and venue security surveys, route pre-surveys for all planned movements from Sofia Airport (SOF) and within Sofia, liaison with local law enforcement where appropriate, and confirmation of emergency protocols with the medevac provider for Vienna or Athens. No principal should move in Sofia without completed advance work for each new venue or route on the itinerary."
+  - title: "Principal Briefing and Protective Posture"
+    description: "The protective posture for Sofia is calibrated to the medium risk rating and the individual principal's threat profile. The standard posture includes: vetted transport for all movements from Sofia Airport (SOF), a dedicated close protection officer for higher-risk principals or engagements, and a residential or hotel security arrangement that provides adequate overnight protection. The principal must be briefed on the specific operational environment of Sofia, emergency procedures, and communications protocols before arrival. Anti-surveillance drills are standard for all principal movements in Sofia, not optional. Route variation on the SOF airport corridor is specifically recommended. Due diligence on locally sourced operators must extend beyond criminal records to include business connections and affiliations."
+  - title: "Communications and Emergency Protocols"
+    description: "All executive protection deployments in Sofia require a confirmed communications plan covering: primary and backup communications between the EP team and the principal, contact details for local police (112 / 166 (Bulgarian Police) / 150 (Ambulance)), fire and ambulance services, the nearest medical facility (University Hospital Aleksandrovska (public), medevac pre-authorisation to Vienna or Athens, and a crisis communications protocol for the principal's family or organisation. Communications equipment appropriate to Sofia's network environment must be in place before the principal arrives."
+  - title: "Post-Deployment Review"
+    description: "After each Sofia deployment, the EP team lead produces a debrief noting: any security incidents or near-misses, route performance, supplier and hotel security performance, and recommended adjustments for future visits. This discipline produces a continuously improving protective posture for recurring Sofia travel and provides corporate audit documentation relevant to duty-of-care obligations under UK corporate governance standards. Most organisations with regular Sofia operations develop a programme-specific EP playbook over two or three visits."
+faqs:
+  - question: "What executive protection services are available in Sofia?"
+    answer: "Executive protection in Sofia covers: advance work (threat assessment, venue and hotel surveys, route pre-surveys), principal movement protection with vetted security drivers, residential or hotel security, emergency response planning, and post-deployment debrief. Deployments are calibrated to the medium risk rating and the individual principal's profile. Exercise a high degree of caution in bulgaria (2026); US State Dept Level 2 (Exercise Increased Caution) for Bulgaria (2026)."
+  - question: "What advance work is required before an executive visit to Sofia?"
+    answer: "Advance work for a Sofia executive visit includes: pre-arrival threat assessment, hotel and venue security surveys, route pre-surveys for all planned movements from SOF, medevac pre-arrangement to Vienna or Athens, and a principal briefing document on the specific Bulgaria operational environment. Advance work should be completed at least 72 hours before the principal's arrival for standard visits."
+  - question: "How does the duty of care obligation affect executive protection in Sofia?"
+    answer: "UK organisations sending personnel to Sofia carry a duty-of-care obligation under the Health and Safety at Work Act 1974. This requires a documented risk assessment for Bulgaria (Exercise a high degree of caution in bulgaria (2026); US State Dept Level 2 (Exercise Increased Caution) for Bulgaria (2026)), appropriate protective measures, emergency response planning including medevac pre-arrangement to Vienna or Athens, and confirmation that all personnel have been briefed on the Bulgaria risk environment. A professional EP deployment provides the audit trail required to demonstrate duty-of-care compliance."
+  - question: "What post-deployment review process applies to executive protection in Sofia?"
+    answer: "Post-deployment review after each Sofia visit provides: a record of security incidents or near-misses, performance assessment of suppliers and venues, route assessment for future visits, and recommended adjustments to the protective posture. This creates a continuously improving security baseline for organisations with recurring Sofia travel requirements and provides corporate governance documentation for duty-of-care audits."
+---
+
+Executive protection in Sofia is structured around the medium risk rating for Bulgaria and the specific operational requirements of Sofia's principal movement corridors, venues, and emergency response infrastructure. Exercise a high degree of caution in bulgaria (2026); US State Dept Level 2 (Exercise Increased Caution) for Bulgaria (2026).
+
+A professional EP deployment begins with advance work -- threat assessment, hotel and venue surveys, route pre-surveys, and medevac pre-arrangement to Vienna or Athens -- completed before the principal arrives at Sofia Airport (SOF). The protective posture during the visit covers vetted transport for all movements, dedicated close protection for higher-risk engagements, residential or hotel security, and a documented emergency response plan. Post-deployment review produces a continuously improving security baseline.
+
+For regional EP context, see our [Bodyguard Hire Tirana](/bodyguard-hire/tirana/) and our [Sofia city security briefing](/cities/sofia/). For transport security, see our [security drivers in Sofia](/security-drivers/sofia/).
