@@ -592,9 +592,9 @@
         "remaining": "all other live cities not yet in covered list"
       },
       "residential-security": {
-        "status": "BATCH17-DONE",
-        "date": "2026-06-16",
-        "pages": 148,
+        "status": "BATCH22-DONE",
+        "date": "2026-06-19",
+        "pages": 158,
         "covered": [
           "johannesburg",
           "lagos",
@@ -743,14 +743,24 @@
           "mbabane",
           "freetown",
           "monrovia",
-          "ouagadougou"
+          "ouagadougou",
+          "bucharest",
+          "prague",
+          "budapest",
+          "belgrade",
+          "athens",
+          "helsinki",
+          "stockholm",
+          "oslo",
+          "copenhagen",
+          "dublin"
         ],
         "remaining": "all other live cities not yet in covered list"
       },
       "event-security": {
-        "status": "BATCH19-DONE",
-        "date": "2026-06-17",
-        "pages": 158,
+        "status": "BATCH22-DONE",
+        "date": "2026-06-19",
+        "pages": 168,
         "covered": [
           "johannesburg",
           "lagos",
@@ -909,14 +919,24 @@
           "tirana",
           "podgorica",
           "sarajevo",
-          "skopje"
+          "skopje",
+          "bucharest",
+          "prague",
+          "budapest",
+          "belgrade",
+          "athens",
+          "helsinki",
+          "stockholm",
+          "oslo",
+          "copenhagen",
+          "dublin"
         ],
         "remaining": "all other live cities not yet in covered list"
       },
       "close-protection-officers": {
-        "status": "BATCH19-DONE",
-        "date": "2026-06-17",
-        "pages": 158,
+        "status": "BATCH22-DONE",
+        "date": "2026-06-19",
+        "pages": 168,
         "covered": [
           "johannesburg",
           "lagos",
@@ -1075,14 +1095,24 @@
           "tirana",
           "podgorica",
           "sarajevo",
-          "skopje"
+          "skopje",
+          "bucharest",
+          "prague",
+          "budapest",
+          "belgrade",
+          "athens",
+          "helsinki",
+          "stockholm",
+          "oslo",
+          "copenhagen",
+          "dublin"
         ],
         "remaining": "all other live cities not yet in covered list"
       },
       "secure-airport-transfers": {
-        "status": "BATCH21-DONE",
-        "date": "2026-06-18",
-        "pages": 168,
+        "status": "BATCH22-DONE",
+        "date": "2026-06-19",
+        "pages": 178,
         "covered": [
           "johannesburg",
           "lagos",
@@ -1251,7 +1281,17 @@
           "zagreb",
           "bratislava",
           "sofia",
-          "minsk"
+          "minsk",
+          "bucharest",
+          "prague",
+          "budapest",
+          "belgrade",
+          "athens",
+          "helsinki",
+          "stockholm",
+          "oslo",
+          "copenhagen",
+          "dublin"
         ],
         "remaining": "all other live cities"
       }
@@ -1381,5 +1421,5 @@
     "7_operating_system": "DONE"
   },
   "cannibalisation_rule": "Do not blog on topics already covered by service x city deep pages. The deep pages ARE the definitive content for {service}/{city}. Blog covers angles the deep pages do not.",
-  "next_stage": "BATCH21 COMPLETE (18 Jun 2026): SAT x batch17 (valletta-minsk, 10 pages) + batch18 expansion (bucharest-dublin, 10 new cities) + BH/SD/EP x batch18 (30 pages) = 50 pages. All 7 services now cover all 168+ cities. Next: RS/ES/CPO/SAT x batch18 (10 new cities each = 40 pages) + then city expansion batch19 (Lisbon-Edinburgh)."
+  "next_stage": "BATCH22 COMPLETE (19 Jun 2026): RS/ES/CPO/SAT x batch18 (bucharest-dublin, 10 cities each = 40 pages). All 7 services now cover all 178 cities. Next: city expansion batch19 (Lisbon, Brussels, Munich, Barcelona, Frankfurt, Hamburg, Luxembourg City, Reykjavik, Lyon, Edinburgh = 10 new cities) to grow city universe from 178 to 188. Then service-city matrix batch19 for all 7 services x 10 new cities."
 }
