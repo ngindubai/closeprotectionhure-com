@@ -1,0 +1,40 @@
+---
+title: "Executive Protection in Brussels, Belgium"
+description: "Executive protection in Brussels. Advance work, threat assessment, principal protection and emergency response planning for the medium risk environment."
+slug: "brussels"
+h1: "Executive Protection in Brussels, Belgium"
+seo_title: "Executive Protection Brussels | EP Services Belgium"
+service: "executive-protection"
+city: "Brussels"
+country: "Belgium"
+risk_level: "medium"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-06-16"
+cta_text: "Contact us for a confidential executive protection assessment for Brussels."
+components:
+  - title: "Executive Protection Risk Assessment: Brussels"
+    description: "Medium risk rating. FCDO advises normal precautions with heightened terrorism awareness, Belgium (2026). US State Department Level 2 (Increased Caution - terrorism), Belgium (2026). Terrorism risk at eu institutions and transport hubs and petty crime at Midi/Zuid station and Grand-Place tourist area are the principal threat considerations for executive operations in Brussels. For principals operating in European Quarter (Ixelles/Etterbeek) and Avenue Louise business corridor, a professional executive protection assessment calibrated to the individual's profile, sector, and planned itinerary is the appropriate starting point. The ambient risk rating is one input into that assessment, not the conclusion."
+  - title: "Licensing and Operator Vetting in Belgium"
+    description: "Executive protection operators deploying in Brussels must meet the requirements of Belgian Act of 10 April 1990 on private and special security. Operator selection must verify: current local licensing, demonstrated Brussels operational experience, team language capability, and documented emergency response protocols including medevac pre-arrangement to London or Frankfurt. Any gap in these criteria represents unacceptable operational risk to the principal. Request written compliance documentation before committing to any Brussels EP deployment. Belgian Federal Police (112 all emergencies) is the competent police authority."
+  - title: "Advance Work and Site Surveys in Brussels"
+    description: "Professional executive protection in Brussels begins before the principal arrives. Advance work includes: pre-arrival threat assessment specific to the principal's profile and itinerary, hotel and venue security surveys across European Quarter (Ixelles/Etterbeek) and Avenue Louise business corridor, route pre-surveys for all planned movements from Brussels Airport (BRU) and within Brussels, liaison with Belgian Federal Police (112 all emergencies) where appropriate, and confirmation of emergency protocols with the medevac provider for London or Frankfurt. No principal should move in Brussels without completed advance work for each new venue or route on the itinerary."
+  - title: "Principal Briefing and Protective Posture"
+    description: "The protective posture for Brussels is calibrated to the medium risk rating and the individual principal's threat profile. The standard posture includes vetted transport for all movements from BRU, a dedicated close protection officer for higher-risk principals or engagements, and a residential or hotel security arrangement providing overnight protection. The principal must be briefed on Brussels's specific operational environment, including terrorism risk at EU institutions and transport hubs, emergency procedures, and communications protocols before arrival."
+  - title: "Communications and Emergency Protocols"
+    description: "All executive protection deployments in Brussels require a confirmed communications plan covering: primary and backup communications between the EP team and the principal, contact details for Belgian Federal Police (112 all emergencies) (101), UZ Brussel (+32 2 477 6111), medevac pre-authorisation to London or Frankfurt, and a crisis communications protocol for the principal's family or organisation. Communications equipment appropriate to Brussels's network environment must be in place before the principal arrives."
+  - title: "Post-Deployment Review"
+    description: "After each Brussels deployment, the EP team lead produces a debrief noting any security incidents or near-misses, route performance, supplier and hotel security performance, and recommended adjustments for future visits. This produces a continuously improving protective posture for recurring Brussels travel and provides corporate audit documentation relevant to duty-of-care obligations under UK corporate governance standards. Organisations with regular Brussels operations develop a programme-specific EP playbook over two or three visits."
+faqs:
+  - question: "What executive protection services are available in Brussels?"
+    answer: "Executive protection in Brussels covers: advance work (threat assessment, venue and hotel surveys, route pre-surveys), principal movement protection with vetted security drivers, residential or hotel security, emergency response planning, and post-deployment debrief. All deployments calibrated to the medium risk rating and the principal's profile. FCDO advises normal precautions with heightened terrorism awareness, Belgium (2026); US State Dept Level 2 (Increased Caution - terrorism), Belgium (2026)."
+  - question: "What advance work is required before an executive visit to Brussels?"
+    answer: "Advance work for a Brussels executive visit includes: pre-arrival threat assessment, hotel and venue security surveys in European Quarter (Ixelles/Etterbeek) and Avenue Louise business corridor, route pre-surveys for all planned movements from BRU, medevac pre-arrangement to London or Frankfurt, and a principal briefing on the Brussels operational environment. Advance work should be completed at least 72 hours before the principal's arrival for standard visits."
+  - question: "How does duty-of-care apply to executive protection in Brussels?"
+    answer: "UK organisations sending personnel to Brussels carry a duty-of-care obligation under the Health and Safety at Work Act 1974. This requires a documented risk assessment for Brussels (FCDO normal precautions with heightened terrorism awareness, Belgium (2026); US State Dept Level 2 (Increased Caution - terrorism), Belgium (2026)), appropriate protective measures, emergency response planning with medevac pre-arrangement to London or Frankfurt, and confirmation that all personnel have been briefed on the Brussels risk environment. A professional EP deployment provides the audit trail required to demonstrate compliance."
+  - question: "What post-deployment review applies to executive protection in Brussels?"
+    answer: "Post-deployment review after each Brussels visit provides: a record of security incidents or near-misses, performance assessment of suppliers and venues, route assessment for future visits, and recommended adjustments to the protective posture. This creates a continuously improving security baseline for organisations with recurring Brussels travel and provides corporate governance documentation for duty-of-care audits."
+---
+
+Executive protection in Brussels is structured around the medium risk rating and the specific operational requirements of European Quarter (Ixelles/Etterbeek) and Avenue Louise business corridor and the BRU arrival corridor. FCDO advises normal precautions with heightened terrorism awareness, Belgium (2026); US State Dept Level 2 (Increased Caution - terrorism), Belgium (2026).
+
+A professional EP deployment begins with advance work completed before the principal arrives: threat assessment, hotel and venue surveys, route pre-surveys from BRU, and medevac pre-arrangement to London or Frankfurt. The protective posture covers vetted transport for all movements, dedicated close protection for higher-risk engagements, and post-deployment review. For transport security, see our [security drivers in Brussels](/security-drivers/brussels/). For full city context, see our [Brussels security briefing](/cities/brussels/). For regional EP context, see our [executive protection in Amsterdam](/executive-protection/amsterdam/).

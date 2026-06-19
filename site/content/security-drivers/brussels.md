@@ -1,0 +1,40 @@
+---
+title: "Security Drivers in Brussels, Belgium"
+description: "Vetted security drivers in Brussels. Airport transfers, route planning, licensed operators for corporate and executive principal movements. Medium risk environment."
+slug: "brussels"
+h1: "Security Drivers in Brussels, Belgium"
+seo_title: "Security Drivers Brussels | Vetted Executive Transport Belgium"
+service: "security-drivers"
+city: "Brussels"
+country: "Belgium"
+risk_level: "medium"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-06-16"
+cta_text: "Request vetted security driver services for Brussels."
+components:
+  - title: "Security Driver Assessment: Brussels"
+    description: "Medium risk environment. FCDO advises normal precautions with heightened terrorism awareness, Belgium (2026). US State Department Level 2 (Increased Caution - terrorism), Belgium (2026). Terrorism risk at eu institutions and transport hubs and petty crime at Midi/Zuid station and Grand-Place tourist area are the primary considerations for executive transport planning in Brussels. The professional requirements for a vetted security driver are not reduced by the ambient risk level: operator vetting, advance route survey, and pre-positioned vehicles are the baseline standard for all principal movements regardless of the national threat picture."
+  - title: "Driver Licensing and Vetting in Belgium"
+    description: "Security drivers operating in Brussels on close protection assignments must comply with Belgian Act of 10 April 1990 on private and special security. Vetting requirements include: identity verification, criminal record disclosure, professional references from prior executive transport or close protection roles, a practical route knowledge assessment of Brussels's principal movement corridors, and current first aid certification. All CloseProtectionHire.com drivers undergo multi-point vetting covering employment history, financial background indicators, and professional standing checks. No driver is deployed who has not cleared the full vetting standard."
+  - title: "Airport Transfer Procedures: Brussels Airport (BRU)"
+    description: "Brussels Airport (BRU) is 12km northeast of the city centre. For principal arrivals requiring a discreet profile, the driver is pre-positioned in the arrivals pick-up zone before the principal exits customs, with the vehicle fuelled and mechanically confirmed. The transfer route from BRU to the principal's destination is pre-surveyed with primary and at least one alternative identified. Private aviation arrivals are co-ordinated with handling agents for positioning. No app-based or informal transport is used for principal movements."
+  - title: "Route Planning and Counter-Surveillance in Brussels"
+    description: "Route planning for security driver operations in Brussels requires advance survey of all planned principal movements. Terrorism risk at eu institutions and transport hubs requires specific routing considerations. Counter-surveillance awareness is maintained throughout all movements, with active protocols calibrated to the principal's risk profile. Route variation is applied to repeated journeys between fixed points. Communications between the driver and the protection team or principal are maintained throughout all movements. The driver is briefed on emergency procedures and the location of the nearest medical facility (UZ Brussel) before each deployment."
+  - title: "Vehicle Selection and Maintenance"
+    description: "Vehicle selection for Brussels should prioritise discretion, reliability, and suitability for the local traffic environment. Locally registered vehicles that blend with the prevailing traffic profile in European Quarter (Ixelles/Etterbeek) and Avenue Louise business corridor are preferred. All deployment vehicles must be mechanically confirmed before each movement, carry a first aid kit, maintain communications capability with the protection team, and be fuelled for the planned route plus contingency. Armoured vehicles are assessed on request where the principal's individual risk profile warrants the additional capability. Personal mobile devices must not be used by the driver during principal movements."
+  - title: "Night and Extended Operations"
+    description: "Night movements in Brussels require individual risk assessment as part of the deployment plan. Petty crime at midi/zuid station and grand-place tourist area means that night operations may carry a different profile from daytime movements and must be assessed separately. All night principal movements are conducted with a pre-surveyed route, a vetted vehicle, and active communications with the protection team or operator. For multi-day deployments, driver shift management ensures that no driver operates beyond a fatigue threshold that could compromise handling or situational awareness. Post-operation debrief is standard after any extended deployment."
+faqs:
+  - question: "What security driver services are available in Brussels?"
+    answer: "Security driver services in Brussels cover: BRU airport transfers, city movements throughout European Quarter (Ixelles/Etterbeek) and Avenue Louise business corridor and surrounding areas, event and meeting-day vehicle support, and inter-city road transfers where required. All drivers are vetted to the standard of Belgian Act of 10 April 1990 on private and special security. FCDO advises normal precautions with heightened terrorism awareness, Belgium (2026); US State Dept Level 2 (Increased Caution - terrorism), Belgium (2026)."
+  - question: "How are security drivers vetted for Brussels operations?"
+    answer: "Driver vetting for Brussels operations includes identity verification, criminal record check under the Belgium licensing framework, professional references from prior close protection or executive transport roles, route knowledge assessment of Brussels's principal movement corridors, and current first aid certification. Drivers not meeting the full vetting standard are not deployed for principal movements."
+  - question: "What vehicles are used for security driving in Brussels?"
+    answer: "Vehicle selection for Brussels depends on the principal's profile and the medium risk environment. Standard deployments use discreet, locally registered vehicles appropriate to European Quarter (Ixelles/Etterbeek) and Avenue Louise business corridor. Conspicuous or visually distinctive vehicles are not appropriate for executive principal movements in Brussels. Armoured vehicles are assessed on request where the principal's individual risk profile warrants additional capability."
+  - question: "What is the airport transfer procedure for Brussels Airport (BRU)?"
+    answer: "Brussels Airport (BRU) is 12km northeast of the city centre. Transfer procedure: the vetted driver is pre-positioned before the principal exits customs, vehicle fuelled and mechanically confirmed, route to destination pre-surveyed with at least one alternative identified, communications confirmed with the protection team or operator. No informal or app-based transport is used for principal movements."
+---
+
+Security driver services in Brussels are structured around the medium risk environment and the specific operational requirements of European Quarter (Ixelles/Etterbeek) and Avenue Louise business corridor and the BRU airport transfer corridor. FCDO advises normal precautions with heightened terrorism awareness, Belgium (2026); US State Dept Level 2 (Increased Caution - terrorism), Belgium (2026).
+
+All vetted security drivers for Brussels operations comply with Belgian Act of 10 April 1990 on private and special security and are multi-point vetted for identity, criminal history, driving competence, and route knowledge. For additional security services, see our [bodyguard hire in Brussels](/bodyguard-hire/brussels/) and our [Brussels city security briefing](/cities/brussels/). For regional transport coverage, see our [security drivers in Amsterdam](/security-drivers/amsterdam/).
