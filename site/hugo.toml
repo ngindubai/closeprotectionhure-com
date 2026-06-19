@@ -33,6 +33,12 @@ buildFuture = true
     guides = "/guides/:slug/"
     "event-security" = "/event-security/:slug/"
     "risk-assessments" = "/risk-assessments/:slug/"
+    "bodyguard-hire" = "/bodyguard-hire/:slug/"
+    "close-protection-officers" = "/close-protection-officers/:slug/"
+    "executive-protection" = "/executive-protection/:slug/"
+    "residential-security" = "/residential-security/:slug/"
+    "secure-airport-transfers" = "/secure-airport-transfers/:slug/"
+    "security-drivers" = "/security-drivers/:slug/"
 
 [params]
   brand = "CloseProtectionHire.com"
