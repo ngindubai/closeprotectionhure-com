@@ -1,0 +1,19 @@
+# AI search & retrieval — drive citations, keep allowed
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: GPTBot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://closeprotectionhire.com/sitemap.xml
+# LLM map: https://closeprotectionhire.com/llms.txt
