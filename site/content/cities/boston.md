@@ -1,6 +1,6 @@
 ---
 title: "Boston"
-description: "Executive protection and close protection in Boston, United States. Massachusetts-licensed operators covering the Financial District, Back Bay, and Seaport for corporate principals."
+description: "Executive protection and close protection in Boston, United States. Massachusetts-licensed operators for corporate principals across Back Bay, the Seaport, and Cambridge."
 slug: "boston"
 h1: "Security in Boston, United States"
 country: "United States"

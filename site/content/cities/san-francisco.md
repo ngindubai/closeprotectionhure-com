@@ -1,6 +1,6 @@
 ---
 title: "San Francisco"
-description: "Executive protection and close protection in San Francisco, United States. California BSIS-licensed operators covering the Financial District, Union Square, and Pacific Heights."
+description: "Executive protection and close protection in San Francisco, United States. BSIS-licensed operators for corporate principals in the Financial District and Pacific Heights."
 slug: "san-francisco"
 h1: "Security in San Francisco, United States"
 country: "United States"
