@@ -16,7 +16,7 @@
     "cannibalisation_note": "Do not blog topics already covered by service x city deep pages. Blog covers angles the deep pages do not: cost breakdowns, regulatory explainers, comparisons, question-led safety guides."
   },
   "cities": {
-    "total_live": 198,
+    "total_live": 208,
     "target": 250
   },
   "services": [
@@ -1547,14 +1547,26 @@
       }
     },
     "expansion_order": "For each service in the services list, build that service across the next 10 live cities not yet covered for it (read cities from site/content/cities/, skip any service-city slug already on disk). Rotate which service is extended each block so the matrix fills evenly: bodyguard-hire batch, then security-drivers batch, then executive-protection, residential-security, event-security, close-protection-officers, secure-airport-transfers, then back to bodyguard-hire for the next 10 cities. One 10-page block per run.",
-    "current_coverage_note": "Batch24 (20 Jun 2026): ES/CPO/SAT x batch19 cities complete (188 coverage). BH x batch20 cities complete (198 coverage). Cities live: 198. SD/EP/RS still at 188 (need batch20 coverage = 30 pages). ES/CPO/SAT still at 188 (need batch20 coverage = 30 pages). Next run: SD x batch20 cities (chicago-atlanta).",
-    "cities_covered_bh": 198,
-    "cities_covered_sd": 188,
-    "cities_covered_ep": 188,
-    "cities_covered_rs": 188,
-    "cities_covered_es": 188,
-    "cities_covered_cpo": 188,
-    "cities_covered_sat": 188,
+    "current_coverage_note": "Batch26 (21 Jun 2026): 10 new P4 city pages batch21 (dallas-denver) + BH/SD/EP/RS x same 10. Cities live: 208. BH/SD/EP/RS now cover 208 cities. ES/CPO/SAT still at 198 (batch21 cities pending = 30 pages). Next run: ES x 10 batch21 cities, CPO x same 10, SAT x same 10, then city expansion batch22.",
+    "cities_covered_bh": 208,
+    "cities_covered_sd": 208,
+    "cities_covered_ep": 208,
+    "cities_covered_rs": 208,
+    "cities_covered_es": 198,
+    "cities_covered_cpo": 198,
+    "cities_covered_sat": 198,
+    "batch21_cities": [
+      "dallas",
+      "seattle",
+      "philadelphia",
+      "brisbane",
+      "perth",
+      "calgary",
+      "busan",
+      "porto",
+      "glasgow",
+      "denver"
+    ],
     "batch19_cities": [
       "lisbon",
       "brussels",
@@ -1582,9 +1594,21 @@
   },
   "city_expansion": {
     "_goal": "Grow the city universe from 138 to 250. Each city unlocks 7 new service-city matrix pages, so cities are high-leverage. Build the next 5-10 cities per block from the P4 city queue (next-tier business-travel and high-net-worth destinations: regional capitals, financial centres, and resource/energy hubs not yet covered).",
-    "live": 198,
+    "live": 208,
     "target": 250,
     "next_p4_queue": [
+      "Seoul",
+      "Austin",
+      "Hanoi",
+      "Phoenix",
+      "Kolkata",
+      "Chennai",
+      "Wellington",
+      "Adelaide",
+      "Ottawa",
+      "Hyderabad"
+    ],
+    "_batch21_completed": [
       "Dallas",
       "Seattle",
       "Philadelphia",
@@ -1705,9 +1729,9 @@
     "4. blog: when the next matrix/city/country block is already committed, build the next 5-article blog batch from the keyword matrix (non-cannibalising angles)."
   ],
   "pages": {
-    "total_live": 1725,
-    "_count_note": "1675 prior + 50 new (batch24: event-security/close-protection-officers/secure-airport-transfers x 10 batch19 cities (Lisbon-Edinburgh) + 10 new city pages batch20 (Chicago-Atlanta) + bodyguard-hire x same 10). Cities live: 198. BH covers 198; SD/EP/RS/ES/CPO/SAT cover 188.",
-    "last_updated": "2026-06-20"
+    "total_live": 1775,
+    "_count_note": "1725 prior + 50 new (batch26: 10 new P4 city pages batch21 dallas/seattle/philadelphia/brisbane/perth/calgary/busan/porto/glasgow/denver + BH/SD/EP/RS x same 10). Cities live: 208. BH/SD/EP/RS cover 208; ES/CPO/SAT cover 198.",
+    "last_updated": "2026-06-21"
   },
   "engine_alignment": {
     "1_combinatorial_generators": "DONE",
@@ -1719,5 +1743,5 @@
     "7_operating_system": "DONE"
   },
   "cannibalisation_rule": "Do not blog on topics already covered by service x city deep pages. The deep pages ARE the definitive content for {service}/{city}. Blog covers angles the deep pages do not.",
-  "next_stage": "BATCH24 COMPLETE (20 Jun 2026): ES/CPO/SAT x 10 batch19 cities (Lisbon-Edinburgh) + 10 new city pages batch20 (Chicago, Los Angeles, San Francisco, Houston, Manchester, Vancouver, Osaka, Taipei, Boston, Atlanta) + BH x same 10 = 50 pages. Cities live: 198. BH covers 198; SD/EP/RS/ES/CPO/SAT cover 188. Next: SD x 10 batch20 cities (chicago-atlanta) = 10 pages (block 1 of 6 to close batch20 gap)."
+  "next_stage": "BATCH26 COMPLETE (21 Jun 2026): 10 new P4 city pages batch21 (Dallas, Seattle, Philadelphia, Brisbane, Perth, Calgary, Busan, Porto, Glasgow, Denver) + BH/SD/EP/RS x same 10 = 50 pages. Cities live: 208. BH/SD/EP/RS cover 208; ES/CPO/SAT cover 198. Next: ES x 10 batch21 cities + CPO x same 10 + SAT x same 10 = 30 pages (closes batch21 gap for all 7 services), then city expansion batch22 (Seoul, Austin, Hanoi, Phoenix, Kolkata, Chennai, Wellington, Adelaide, Ottawa, Hyderabad)."
 }
