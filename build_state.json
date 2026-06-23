@@ -1644,9 +1644,33 @@
   },
   "city_expansion": {
     "_goal": "Grow the city universe from 138 to 250. Each city unlocks 7 new service-city matrix pages, so cities are high-leverage. Build the next 5-10 cities per block from the P4 city queue (next-tier business-travel and high-net-worth destinations: regional capitals, financial centres, and resource/energy hubs not yet covered).",
-    "live": 208,
+    "live": 228,
     "target": 250,
     "next_p4_queue": [
+      "Port Moresby",
+      "Lilongwe",
+      "Mandalay",
+      "Wuhan",
+      "Recife",
+      "Fortaleza",
+      "Cali",
+      "Macao",
+      "Nanjing",
+      "Sharm el-Sheikh"
+    ],
+    "_batch23_completed": [
+      "Shenzhen",
+      "Guangzhou",
+      "Chengdu",
+      "Monterrey",
+      "Durban",
+      "Pune",
+      "Porto Alegre",
+      "Barranquilla",
+      "Surabaya",
+      "Cebu"
+    ],
+    "_batch22_completed": [
       "Seoul",
       "Austin",
       "Hanoi",
@@ -1779,19 +1803,19 @@
     "4. blog: when the next matrix/city/country block is already committed, build the next 5-article blog batch from the keyword matrix (non-cannibalising angles)."
   ],
   "pages": {
-    "total_live": 1825,
-    "_count_note": "1775 prior + 50 new (batch27: ES/CPO/SAT x batch21 cities (dallas/seattle/philadelphia/brisbane/perth/calgary/busan/porto/glasgow/denver) = 30 pages; 10 new P4 city pages batch22 (seoul/austin/hanoi/phoenix/kolkata/chennai/wellington/adelaide/ottawa/hyderabad); BH x batch22 = 10 pages. Cities live: 218. All 7 services now cover all 208 prior cities; BH covers 218; SD/EP/RS/ES/CPO/SAT cover 208).",
-    "last_updated": "2026-06-21"
+    "total_live": 1875,
+    "_count_note": "1825 prior + 50 new (batch29: SAT x batch22 cities (seoul/austin/hanoi/phoenix/kolkata/chennai/wellington/adelaide/ottawa/hyderabad) = 10 pages; 10 new P4 city pages batch23 (shenzhen/guangzhou/chengdu/monterrey/durban/pune/porto-alegre/barranquilla/surabaya/cebu); BH/SD/EP x batch23 = 30 pages. Cities live: 228. SAT now covers 218 cities; BH/SD/EP now cover 228 cities; RS/ES/CPO cover 218 cities).",
+    "last_updated": "2026-06-23"
   },
   "engine_alignment": {
     "1_combinatorial_generators": "DONE",
     "2_structured_data_layer": "DONE",
     "3_bulk_blog_factory": "IN PROGRESS - 108 articles live, target 600",
     "4_internal_link_graph": "DONE (floor). Re-run scripts/rebuild_link_graph.py after each matrix batch so new service-city pages are linked from their city and service-silo parents.",
-    "5_qa_seo_quality_gate": "GREEN. 0 errors, 6 advisory warnings (description length, pre-existing). All 50 batch27 pages passed 0-error gate.",
+    "5_qa_seo_quality_gate": "GREEN. 0 errors across all 50 batch29 pages.",
     "6_incremental_deploy_pipeline": "DONE",
     "7_operating_system": "DONE"
   },
   "cannibalisation_rule": "Do not blog on topics already covered by service x city deep pages. The deep pages ARE the definitive content for {service}/{city}. Blog covers angles the deep pages do not.",
-  "next_stage": "BATCH28 COMPLETE (22 Jun 2026): SD/EP/RS/ES/CPO x 10 batch22 cities (seoul/austin/hanoi/phoenix/kolkata/chennai/wellington/adelaide/ottawa/hyderabad) = 50 pages. All 5 services now cover 208 cities; SAT remains at 198 cities. Next: SAT x batch21 cities (dallas/seattle/philadelphia/brisbane/perth/calgary/busan/porto/glasgow/denver) = 10 pages + SAT x batch22 cities (10) + new P4 city expansion batch23 (10 cities) + BH/SD/EP/RS x batch23 cities = 50 pages."
+  "next_stage": "BATCH29 COMPLETE (23 Jun 2026): SAT x batch22 cities (10) + 10 new P4 city pages batch23 (shenzhen/guangzhou/chengdu/monterrey/durban/pune/porto-alegre/barranquilla/surabaya/cebu) + BH/SD/EP x batch23 (30) = 50 pages. Cities live: 228. BH/SD/EP cover 228; SAT/RS/ES/CPO cover 218. Next: RS x batch23 cities (10) + ES x batch23 cities (10) + CPO x batch23 cities (10) + SAT x batch23 cities (10) = 40 pages, then new city expansion batch24 (10 cities) + BH/SD/EP x batch24."
 }
