@@ -118,50 +118,50 @@
         "remaining": "none -- all 248 cities covered"
       },
       "executive-protection": {
-        "status": "BATCH31-DONE",
-        "date": "2026-06-24",
-        "pages": 238,
-        "covered": "all 238 pre-batch25 cities",
-        "remaining": "batch25 cities (astana/bern/las-vegas/krakow/basra/marseille/valencia/kumasi/ibadan/havana) -- next run"
+        "status": "BATCH33-DONE",
+        "date": "2026-06-26",
+        "pages": 248,
+        "covered": "all 248 live cities (batch25 added in batch33)",
+        "remaining": "none -- all 248 cities covered"
       },
       "residential-security": {
-        "status": "BATCH31-DONE",
-        "date": "2026-06-24",
-        "pages": 238,
-        "covered": "all 238 pre-batch25 cities",
-        "remaining": "batch25 cities -- next run"
+        "status": "BATCH33-DONE",
+        "date": "2026-06-26",
+        "pages": 248,
+        "covered": "all 248 live cities (batch25 added in batch33)",
+        "remaining": "none -- all 248 cities covered"
       },
       "event-security": {
-        "status": "BATCH31-DONE",
-        "date": "2026-06-24",
-        "pages": 238,
-        "covered": "all 238 pre-batch25 cities",
-        "remaining": "batch25 cities -- next run"
+        "status": "BATCH33-DONE",
+        "date": "2026-06-26",
+        "pages": 248,
+        "covered": "all 248 live cities (batch25 added in batch33)",
+        "remaining": "none -- all 248 cities covered"
       },
       "close-protection-officers": {
-        "status": "BATCH32-DONE",
-        "date": "2026-06-25",
-        "pages": 238,
-        "covered": "all 238 pre-batch25 cities (batch24 added in batch32)",
-        "remaining": "batch25 cities (astana/bern/las-vegas/krakow/basra/marseille/valencia/kumasi/ibadan/havana) -- next run"
+        "status": "BATCH33-DONE",
+        "date": "2026-06-26",
+        "pages": 248,
+        "covered": "all 248 live cities (batch25 added in batch33)",
+        "remaining": "none -- all 248 cities covered"
       },
       "secure-airport-transfers": {
-        "status": "BATCH32-DONE",
-        "date": "2026-06-25",
-        "pages": 238,
-        "covered": "all 238 pre-batch25 cities (batch24 added in batch32)",
-        "remaining": "batch25 cities -- next run"
+        "status": "BATCH33-DONE",
+        "date": "2026-06-26",
+        "pages": 248,
+        "covered": "all 248 live cities (batch25 added in batch33)",
+        "remaining": "none -- all 248 cities covered"
       }
     },
     "expansion_order": "For each service in the services list, build that service across the next 10 live cities not yet covered for it (read cities from site/content/cities/, skip any service-city slug already on disk). Rotate which service is extended each block so the matrix fills evenly: bodyguard-hire batch, then security-drivers batch, then executive-protection, residential-security, event-security, close-protection-officers, secure-airport-transfers, then back to bodyguard-hire for the next 10 cities. One 10-page block per run.",
-    "current_coverage_note": "Batch32 (25 Jun 2026): CPO/SAT x 10 batch24 cities (20 pages) + 10 new batch25 city pages + BH/SD x batch25 cities (20 pages) = 50 pages. BH/SD now cover all 248 cities. CPO/SAT cover all 238 pre-batch25 cities. EP/RS/ES still at 238 (batch25 = 30 pages, next run). CPO/SAT also need batch25 (20 pages). Cities live: 248.",
+    "current_coverage_note": "Batch33 (26 Jun 2026): EP/RS/ES/CPO/SAT x 10 batch25 cities (50 pages). All 7 services now cover all 248 live cities. Cities live: 248. Total pages: 2075.",
     "cities_covered_bh": 248,
     "cities_covered_sd": 248,
-    "cities_covered_ep": 238,
-    "cities_covered_rs": 238,
-    "cities_covered_es": 238,
-    "cities_covered_cpo": 238,
-    "cities_covered_sat": 238,
+    "cities_covered_ep": 248,
+    "cities_covered_rs": 248,
+    "cities_covered_es": 248,
+    "cities_covered_cpo": 248,
+    "cities_covered_sat": 248,
     "batch25_cities": [
       "astana",
       "bern",
@@ -254,16 +254,16 @@
     "next_p4_queue": [
       "Las Palmas de Gran Canaria",
       "Tenerife",
-      "Casablanca (done -- already live)",
       "Thessaloniki",
       "Izmir",
       "Maracaibo",
-      "Guadalajara (done)",
-      "Mombasa (done)",
       "Dammam",
-      "Medina"
+      "Medina",
+      "Colombo",
+      "Phnom Penh",
+      "Lima"
     ],
-    "_note_p4_queue": "Review this queue before building -- cross-check against site/content/cities/ first. Items marked 'done' should be removed next pass.",
+    "_note_p4_queue": "Casablanca/Guadalajara/Mombasa removed (already live). 10 cities in queue for batch26.",
     "_batch25_completed": [
       "Astana",
       "Bern",
@@ -433,9 +433,9 @@
     "4. blog: when the next matrix/city/country block is already committed, build the next 5-article blog batch from the keyword matrix (non-cannibalising angles)."
   ],
   "pages": {
-    "total_live": 2025,
-    "_count_note": "1975 prior + 50 new (batch32: CPO/SAT x batch24 cities (20 pages) + 10 new batch25 city pages + BH/SD x batch25 cities (20 pages)). BH/SD cover all 248 cities. CPO/SAT cover 238 (all pre-batch25). EP/RS/ES cover 238.",
-    "last_updated": "2026-06-25"
+    "total_live": 2075,
+    "_count_note": "2025 prior + 50 new (batch33: EP/RS/ES/CPO/SAT x batch25 cities). All 7 services now cover all 248 cities.",
+    "last_updated": "2026-06-26"
   },
   "engine_alignment": {
     "1_combinatorial_generators": "DONE",
@@ -447,5 +447,5 @@
     "7_operating_system": "DONE"
   },
   "cannibalisation_rule": "Do not blog on topics already covered by service x city deep pages. The deep pages ARE the definitive content for {service}/{city}. Blog covers angles the deep pages do not.",
-  "next_stage": "BATCH32 COMPLETE (25 Jun 2026): CPO/SAT x batch24 (20) + 10 new batch25 cities + BH/SD x batch25 (20) = 50 pages. Cities live: 248. BH/SD cover 248. CPO/SAT cover 238. EP/RS/ES cover 238. Next: EP x batch25 cities (10) + RS x batch25 (10) + ES x batch25 (10) + CPO x batch25 (10) + SAT x batch25 (10) = 50 pages. Then city expansion batch26 (target 260 cities). Then country expansion (5 hubs). Then blog batch 9."
+  "next_stage": "BATCH33 COMPLETE (26 Jun 2026): EP/RS/ES/CPO/SAT x batch25 cities (50 pages). All 7 services now cover all 248 cities. Next: city expansion batch26 -- 10 new P4+ cities (target 258 live cities: Las Palmas, Tenerife, Thessaloniki, Izmir, Maracaibo, Dammam, Medina, + 3 new additions). Then service matrix x new cities (7 services x 10 = 70 pages over 7 runs). Then blog batch 9 (5 articles)."
 }
