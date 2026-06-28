@@ -1,0 +1,48 @@
+---
+title: "Security Drivers in Eindhoven, Netherlands"
+description: "WPBR-registered security drivers in Eindhoven. Vetted chauffeurs for EIN and AMS airports, ASML campus transfers, and corporate visits in North Brabant."
+slug: "eindhoven"
+h1: "Security Drivers in Eindhoven, Netherlands"
+seo_title: "Security Drivers Eindhoven | Secure Chauffeur Netherlands"
+service: "security-drivers"
+city: "Eindhoven"
+country: "Netherlands"
+risk_level: "low"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-06-24"
+cta_text: "Request secure ground transport in Eindhoven"
+components:
+  - title: "Licensing and Vehicle Standards"
+    description: "Security drivers in Eindhoven must comply with the Netherlands' dual licensing framework. The commercial hire vehicle function requires a chauffeurskaart issued by the Rijksdienst voor het Wegverkeer (RDW) and the relevant municipality. The security overlay for a combined driver-security role is governed by the Wet Particuliere Beveiligingsorganisaties en Recherchebureaus (WPBR) 1997, requiring the employing organisation to hold a police permit (vergunning) from the local Eenheidsleiding (police unit). Individual security employees must be registered under the company's WPBR permit. Principals should confirm both the chauffeurskaart status and the company's current WPBR police permit before engagement."
+  - title: "Route Planning and Threat Assessment"
+    description: "Eindhoven is a major technology and manufacturing hub in the Netherlands, home to ASML, one of the world's most strategically significant semiconductor equipment companies, and the Eindhoven High Tech Campus. The N2 and A2 motorways are the primary north-south corridors connecting Eindhoven to Amsterdam (115km, approximately 75 minutes) and Brussels (140km, approximately 90 minutes). Many corporate visitors to Eindhoven arrive at Amsterdam Schiphol (AMS, 115km) or, for shorter-haul routes, at Eindhoven Airport (EIN, 7km south-west). The Netherlands National Coordinator for Security and Counterterrorism (NCTV) maintains a terrorism threat assessment, referenced in FCDO Netherlands advice (2024); the FCDO also notes pickpocketing at stations."
+  - title: "Fleet and Vehicle Security"
+    description: "Security driver engagements in Eindhoven use executive saloons and SUVs appropriate to the Dutch motorway and campus environment. Mercedes E-Class and S-Class, BMW 5 and 7 Series, and Volvo XC90 are standard platforms. ASML's campus in Veldhoven (5km south-west of the city centre, adjacent to the A2) has controlled vehicle access with registered visitor protocols; security drivers coordinate advance vehicle and driver registration with the ASML visitor management team. Eindhoven High Tech Campus also has access management; both sites represent the primary security driver destinations in the region."
+  - title: "Driver Training and Certification"
+    description: "Security drivers in Eindhoven hold both a chauffeurskaart and WPBR police permit registration. Training covers North Brabant road network awareness including the A2 Amsterdam-Brussels corridor, the A50 and A58 regional motorways, and the campus access procedures at ASML Veldhoven and the High Tech Campus. Counter-surveillance awareness on the AMS Schiphol arrival corridor is included in driver briefings for transfers covering the AMS-to-Eindhoven route, consistent with the awareness context applied on the Schiphol approaches. All drivers are English-speaking for international corporate principals, the majority of whom visit Eindhoven from outside the Netherlands."
+  - title: "Airport Transfer Services"
+    description: "Eindhoven Airport (EIN, ICAO: EHEH) is located approximately 7km south-west of the city centre via the N2 and A2, with a transfer time of 15 to 20 minutes. The airport has a single terminal serving primarily European routes, with significant capacity for budget carriers that some corporate principals use for convenience. Amsterdam Schiphol (AMS) is 115km north and approximately 75 minutes by road (or 60 minutes by Intercity train to Eindhoven Centraal); many senior executives and HNWI principals arrive at AMS for onward road transfer to Eindhoven. Security driver coverage for AMS arrivals includes the Schiphol terminal meet-and-greet and the A2 corridor transfer to Eindhoven."
+  - title: "Emergency Protocols"
+    description: "Emergency services in Eindhoven are reached on 112 (pan-European) and 0900 8844 (non-emergency police). The principal hospital is Catharina Ziekenhuis, a major regional hospital in Eindhoven. The British Embassy in The Hague is reachable on +31 70 427 0427 for consular assistance; the US Embassy in The Hague on +31 70 310 2209. Security drivers carry emergency contact sheets updated at the start of each engagement day, covering Catharina Ziekenhuis and alternative facilities for principals at EIN airport, ASML Veldhoven, and the High Tech Campus."
+faqs:
+  - question: "What licences must a security driver hold to operate in Eindhoven?"
+    answer: "A security driver in Eindhoven must hold a chauffeurskaart issued by the RDW and the relevant municipality for the commercial hire vehicle function. The security overlay requires the employing company to hold a WPBR 1997 police permit from the local Eenheidsleiding; individual security employees must be registered under the company's permit. Principals should request confirmation of both the driver's chauffeurskaart and the company's current WPBR police permit as standard due-diligence before engagement."
+  - question: "How does ASML's Veldhoven campus affect security driver operations in Eindhoven?"
+    answer: "ASML is one of the Netherlands' most significant technology companies and a major global destination for executive and government visitors in the semiconductor and defence-adjacent sectors. Its campus in Veldhoven has controlled vehicle access with advance visitor registration requirements. Security drivers covering ASML visits coordinate with the principal's host at ASML to complete the vehicle and driver access registration at least 24 hours before the visit. The Veldhoven campus is adjacent to the A2 motorway, approximately 5km south-west of Eindhoven city centre, with a direct approach from the A2 Veldhoven junction."
+  - question: "Should principals arriving at AMS Schiphol transfer by road or rail to Eindhoven?"
+    answer: "Both options are operationally viable for the AMS-to-Eindhoven journey. Road transfer via the A2 is approximately 75 minutes in normal conditions and offers the advantage of door-to-door security driver service without changing transport mode, maintaining vehicle security throughout. The Intercity train from Schiphol to Eindhoven Centraal is approximately 60 minutes and is convenient for principals without luggage; security driver collection at Eindhoven Centraal can be arranged. For HNWI principals or those with elevated personal threat assessments, road transfer with a vetted WPBR-registered driver from the terminal is generally preferred as it maintains the same vehicle and crew from arrival to destination."
+  - question: "What emergency contacts apply for principals in Eindhoven?"
+    answer: "Emergency services in Eindhoven: 112 (pan-European, English available), 0900 8844 (non-emergency police). Catharina Ziekenhuis is the principal hospital. British nationals contact the British Embassy The Hague on +31 70 427 0427; US nationals contact the US Embassy The Hague on +31 70 310 2209. Security drivers carry updated emergency contact sheets covering Catharina Ziekenhuis and the A2 corridor for principals transferring from AMS."
+---
+
+Eindhoven is one of the Netherlands' most technology-intensive cities, anchored by ASML in Veldhoven and the Eindhoven High Tech Campus, and draws a significant volume of senior executive and government visitors who require vetted ground transport from both Eindhoven Airport (EIN) and Amsterdam Schiphol (AMS). Security drivers in Eindhoven operate under the Netherlands' dual licensing framework: a chauffeurskaart from the RDW for the hire vehicle function and WPBR 1997 police permit registration for the security overlay. For corporate principals and HNWI clients, this compliance framework, combined with campus access coordination at ASML and High Tech Campus, is the operational baseline for vetted security driver cover in North Brabant.
+
+## Dutch licensing and Eindhoven technology campus operations
+
+Under the WPBR 1997, security companies in Eindhoven must hold a police permit from the local Eenheidsleiding; individual security drivers must be registered under that permit. The chauffeurskaart is a separate RDW requirement for the hire vehicle function. ASML Veldhoven campus access requires advance vehicle and driver registration through the principal's ASML host; this is a standard pre-engagement coordination step. The FCDO Netherlands travel advice (2024) notes pickpocketing at stations, relevant for principals using rail connections at Eindhoven Centraal.
+
+## Eindhoven's vehicle security environment
+
+The EIN airport and AMS Schiphol arrival corridors, the ASML Veldhoven and High Tech Campus transfers, and the A2 Amsterdam-Brussels motorway each present specific security driver considerations: campus access pre-registration, dual-airport transfer planning, and motorway counter-surveillance awareness. Advance campus coordination, WPBR compliance, and dual-airport service capability are the primary operational elements for security drivers based in Eindhoven.
+
+For complementary services, see our [Eindhoven city page](/cities/eindhoven/) and [bodyguard hire in Eindhoven](/bodyguard-hire/eindhoven/).

@@ -1,0 +1,44 @@
+---
+title: "Executive Protection in Zaragoza, Spain"
+description: "Professional executive protection in Zaragoza, Spain. SES-licensed CPO teams for automotive, logistics, and AVE-connected corporate principals across Aragon."
+slug: "zaragoza"
+h1: "Executive Protection Services in Zaragoza, Spain"
+seo_title: "Executive Protection Zaragoza | Corporate Security Spain"
+service: "executive-protection"
+city: "Zaragoza"
+country: "Spain"
+risk_level: "low"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-06-24"
+cta_text: "Request a protection detail in Zaragoza"
+components:
+  - title: "Licensing and CPO Standards"
+    description: "Executive protection in Spain is governed by the Ley de Seguridad Privada 5/2014. Close protection officers (escoltas privados) must hold an individual Tarjeta de Identidad Profesional (TIP) issued by the Direccion General de la Policia (DGP). Operating companies must be registered with the Secretaria de Estado de Seguridad (SES). Armed protection requires specific Ministerio del Interior authorisation and is not routinely granted for commercial executive protection; all standard Zaragoza details operate unarmed. TIP credentials are subject to periodic renewal and ongoing DGP training compliance. Clients should request sight of company SES registration and individual TIP credentials before commencing any engagement in Zaragoza."
+  - title: "Threat Assessment"
+    description: "Zaragoza presents a low threat profile for corporate executives. The FCDO Spain travel advice (2024) identifies petty theft and vehicle crime as the primary concerns for business travellers in Spain, with no elevated targeted-attack risk specific to Aragon. Zaragoza's position as a major logistics hub (PLAZA logistics platform) and its automotive sector (Stellantis Figueruelas plant, 40km west) draw delegations from international automotive and supply-chain groups, including visitors from higher-risk jurisdictions. Counter-surveillance awareness is advisable for senior executives from those delegations. Feria de Zaragoza trade events introduce crowd concentration and higher visitor flows, which are factored into movement planning."
+  - title: "Principal Movement Security"
+    description: "Principal movement in Zaragoza covers the Casco Historico (historic centre, including the Basilica del Pilar area), Zaragoza Delicias AVE station (the high-speed rail hub serving Madrid at 1h25 and Barcelona at 1h40), Zaragoza Airport (ZAZ, 10km southwest), Feria de Zaragoza exhibition centre, and the PLAZA logistics platform. The Stellantis Figueruelas automotive plant is 40km west and is covered by extended route planning. Officers operate in business-appropriate attire consistent with the automotive, logistics, and trade-fair corporate environments that characterise most Zaragoza itineraries."
+  - title: "Corporate and Event Security"
+    description: "Zaragoza's corporate security requirements centre on the automotive sector and trade fair environment. For visits to the Stellantis (Opel) Figueruelas plant, principal movement between Zaragoza city and the plant (40km by road) is managed with operations-controller tracking and pre-planned alternative routing. Feria de Zaragoza events require advance covering exhibition hall access, VIP logistics, and crowd management. The PLAZA logistics platform, one of Europe's largest inland logistics hubs, hosts international supply-chain meetings that are managed with building-access advance and discreet principal cover."
+  - title: "Secure Transit"
+    description: "All executive protection deployments in Zaragoza include secure vehicle transit. Zaragoza Airport (ZAZ) is 10km southwest of the city; arrival and departure are the highest-exposure moments of most itineraries. Zaragoza Delicias AVE station is a major high-speed rail interchange: Madrid is 1h25 by AVE, Barcelona 1h40, making rail-to-road transfers a standard component for multi-city itineraries. Transfer management at Delicias station covers inside-station collection, baggage coordination, and vehicle positioning. Route planning for the PLAZA platform and the Figueruelas plant integrates the motorway network (A-2, AP-2) and accounts for heavy goods vehicle traffic on logistics-park routes."
+  - title: "Crisis and Medical Response"
+    description: "Contingency planning covers the Spanish emergency services baseline: 112 for all emergencies, 091 Policia Nacional, 062 Guardia Civil. Medical routing to Hospital Universitario Miguel Servet, Zaragoza's principal university hospital, is pre-planned for all engagements. The British Embassy Madrid (+34 91 714 6300) and the US Embassy Madrid (+34 91 587 2200) are held in the crisis plan as consular contacts for non-Spanish principals. Medical facility routing for the Figueruelas plant location (40km west) is confirmed separately to account for the distance from city-centre hospitals."
+faqs:
+  - question: "What licensing governs executive protection officers in Zaragoza?"
+    answer: "Executive protection in Zaragoza operates under the Ley de Seguridad Privada 5/2014. Officers (escoltas privados) must hold an individual TIP issued by the DGP, and companies must hold SES registration. Armed protection requires specific Ministerio del Interior authorisation not routinely granted for corporate work; all standard details in Zaragoza are unarmed. Clients should request sight of company and individual credentials before engagement."
+  - question: "What is the realistic threat level for executives visiting Zaragoza?"
+    answer: "Zaragoza is a low-risk destination. The FCDO Spain (2024) records petty theft and vehicle crime as the primary concerns for business travellers, with no elevated targeted-attack risk in Aragon. International automotive and logistics delegations visiting from higher-risk jurisdictions benefit from counter-surveillance awareness. Feria de Zaragoza events increase crowd exposure and are factored into movement plans."
+  - question: "Can executive protection cover visits to the Stellantis Figueruelas plant near Zaragoza?"
+    answer: "Yes. Protection teams cover the Stellantis Figueruelas automotive plant, 40km west of Zaragoza. Principal movement between the city and the plant is managed with operations-controller tracking and pre-planned alternative routing on the A-2 and AP-2 motorways. Building-access advance at the Figueruelas facility confirms visitor entry protocols before the principal's arrival."
+  - question: "How are AVE high-speed rail transfers managed at Zaragoza Delicias station?"
+    answer: "Zaragoza Delicias is a major AVE interchange (Madrid 1h25, Barcelona 1h40). Protection teams provide inside-station collection at train arrival points, baggage coordination, and discreet vehicle positioning at station exits. For multi-city itineraries using AVE connections, transfer management at Delicias is coordinated with the full journey plan to eliminate exposure gaps between train arrival and vehicle pickup."
+  - question: "Does executive protection cover Feria de Zaragoza trade events?"
+    answer: "Yes. Feria de Zaragoza is Aragon's principal exhibition venue. Protection teams provide venue advance covering exhibitor hall access, VIP logistics, crowd management, and alternative egress. Early communication of specific event dates and exhibition areas allows thorough advance planning for each trade fair deployment."
+---
+
+Zaragoza is Aragon's capital and a strategically positioned logistics and automotive hub, home to the PLAZA logistics platform (one of Europe's largest inland logistics centres) and the Stellantis Figueruelas automotive plant 40km to the west. The city's Delicias AVE station connects Madrid (1h25) and Barcelona (1h40) by high-speed rail, making it a transit node for multi-city executive itineraries. The security environment is low-risk: the FCDO Spain travel advice (2024) records petty theft and vehicle crime as the primary concerns for business travellers, with no elevated threat to executives specifically.
+
+SES-registered close protection officers hold individual TIP credentials under the Ley de Seguridad Privada 5/2014 and operate in business-appropriate attire suited to the automotive, logistics, and trade-fair settings that characterise most Zaragoza executive visits. Zaragoza Airport (ZAZ) and Delicias AVE station transfers are managed with inside-terminal and inside-station collection and operations-controller tracking. Route planning for out-of-city destinations including the Figueruelas plant and PLAZA logistics platform integrates motorway network conditions and alternative routing.
+
+For the broader Zaragoza security overview, see the [Zaragoza city page](/cities/zaragoza/). Clients requiring secure ground transport alongside CPO cover will find details at [security drivers Zaragoza](/security-drivers/zaragoza/).

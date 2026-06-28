@@ -1,0 +1,48 @@
+---
+title: "Security Drivers in Bordeaux, France"
+description: "CNAPS-compliant security drivers in Bordeaux. Vetted chauffeurs for BOD airport, Saint-Emilion wine estate transfers, and corporate visits in Nouvelle-Aquitaine."
+slug: "bordeaux"
+h1: "Security Drivers in Bordeaux, France"
+seo_title: "Security Drivers Bordeaux | Secure Chauffeur France"
+service: "security-drivers"
+city: "Bordeaux"
+country: "France"
+risk_level: "low"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-06-24"
+cta_text: "Request secure ground transport in Bordeaux"
+components:
+  - title: "Licensing and Vehicle Standards"
+    description: "Security drivers in Bordeaux operate under France's private security law framework, primarily Loi 83-629 as amended, regulated by CNAPS (Conseil National des Activites Privees de Securite). The employing company must hold a CNAPS authorisation for private security activity in France. Individual drivers in a combined driver-security role must hold a carte professionnelle issued by CNAPS. The hire vehicle function requires a licence de transport de personnes (VTC licence) from the DREAL Nouvelle-Aquitaine. Security drivers are unarmed under the standard French framework. Principals and their security managers should confirm CNAPS company authorisation and the driver's individual carte professionnelle and VTC licence before engagement in Bordeaux."
+  - title: "Route Planning and Threat Assessment"
+    description: "Bordeaux is the capital of the Nouvelle-Aquitaine region and a major wine industry, aerospace, and technology business hub, approximately 580km south-west of Paris. BOD airport (Bordeaux-Merignac) is the primary arrival point; the TGV from Paris Gare Montparnasse (2h04) is increasingly used by executives for the Bordeaux-Paris route. The A630 ring motorway and the Boulevard Wilson provide the primary airport-to-city connection. Secondary transfer destinations include Saint-Emilion (40km east via D243 and D670, approximately 45 minutes), Medoc chateau properties (north via D1215, 45 to 90 minutes depending on destination), and Arcachon (60km south-west via A63). FCDO France travel advice (2024) notes petty crime, Vigipirate terrorism alert, and demonstrations in city centres."
+  - title: "Fleet and Vehicle Security"
+    description: "Security driver engagements in Bordeaux use executive saloons and SUVs appropriate to both motorway and wine estate operation. Mercedes E-Class and S-Class, BMW 5 and 7 Series, and Range Rover Sport are standard platforms. Wine estate properties in Saint-Emilion, Pomerol, and the Medoc often have private road access that is appropriate for saloons and medium SUVs; very large SUVs are not always suitable for narrow chateau approach lanes. The Bordeaux city centre has pedestrianised tram corridors and parking restrictions near the Place de la Bourse and the Quai des Chartrons wine district; security drivers pre-plan access timing for venues in these areas."
+  - title: "Driver Training and Certification"
+    description: "Security drivers in Bordeaux hold CNAPS carte professionnelle and VTC credentials. Training covers the Nouvelle-Aquitaine road network including the A63 south to Biarritz, the A10 north to Paris, the A89 east to Clermont-Ferrand, and the D-road wine estate circuits of the Medoc, Saint-Emilion, and Pessac-Leognan appellations. Chateau and domaine access often involves private single-track lanes requiring careful approach and egress planning; drivers covering wine estate clients are briefed on specific property approaches. Vigipirate awareness and crowd avoidance near public events and tram-corridor demonstrations are included in driver briefings per FCDO France advice."
+  - title: "Airport Transfer Services"
+    description: "Bordeaux-Merignac Airport (BOD, ICAO: LFBD) is located approximately 12km west of the city centre, reachable via the A630 ring motorway and Boulevard Wilson in 20 to 30 minutes depending on traffic. Terminal 2 handles long-haul and international Schengen arrivals; Terminal 1 handles domestic and some Schengen routes. Security driver meet-and-greet is conducted at the designated arrivals collection area; pre-arranged inside-terminal collection with name board is available for HNWI and senior executive arrivals. A US Consulate is located in Bordeaux (+33 5 56 48 63 80), which is relevant emergency contact information for US principals in the region."
+  - title: "Emergency Protocols"
+    description: "Emergency services in Bordeaux are reached on 112 (pan-European), 17 (Police Nationale), 15 (SAMU medical), and 18 (fire/pompiers). The principal hospital for serious cases is CHU de Bordeaux, Hopital Pellegrin, a major teaching hospital in the north of the city. The British Embassy in Paris is reachable on +33 1 44 51 31 00 for consular assistance; the US Consulate in Bordeaux on +33 5 56 48 63 80. Security drivers carry emergency contact sheets updated at the start of each engagement day, covering CHU Pellegrin and the nearest urgences to each planned venue including wine estate and Arcachon destinations."
+faqs:
+  - question: "What licences must a security driver hold to operate in Bordeaux?"
+    answer: "A security driver in Bordeaux must hold a carte professionnelle issued by CNAPS under Loi 83-629 for the security function, and a licence de transport de personnes (VTC licence) from the DREAL Nouvelle-Aquitaine for the hire vehicle function. The employing company must hold a CNAPS authorisation for security activity in France. Principals should confirm CNAPS authorisation, the driver's carte professionnelle, and VTC licence before any engagement."
+  - question: "What specific considerations apply for wine estate transfers in Bordeaux?"
+    answer: "Wine estate transfers in the Medoc, Saint-Emilion, and Pessac-Leognan appellations are a significant service segment in the Bordeaux security driver market, covering HNWI buyers, collectors, and industry executives visiting chateaux for tastings, barrel samples, or private events. Chateau and domaine properties often have private approach roads that are single-track and not always signposted; security drivers covering these engagements conduct advance route reconnaissance or coordinate property access details with the estate in advance. Transfers from BOD to Saint-Emilion are approximately 45 to 60 minutes; Medoc chateau transfers can be 45 to 90 minutes depending on the specific appellation."
+  - question: "How does the Vigipirate system affect security driver operations in Bordeaux?"
+    answer: "France's Vigipirate national security alert, cited in FCDO France advice (2024), maintains an elevated terrorism threat posture at transport hubs, public events, and government buildings across metropolitan France including Bordeaux. Security drivers apply heightened awareness when moving principals near major public gatherings, the tram-corridor demonstrations that have periodically affected Bordeaux city centre, and at BOD airport. Route planning incorporates alternative approaches to the Place de la Bourse and quayside venues when demonstration activity is anticipated near Bordeaux's central districts."
+  - question: "What emergency contacts apply for principals in Bordeaux?"
+    answer: "Emergency services in Bordeaux: 112 (pan-European, English available), 17 (Police Nationale), 15 (SAMU), 18 (pompiers). CHU de Bordeaux - Hopital Pellegrin is the principal trauma centre. British nationals contact the British Embassy Paris on +33 1 44 51 31 00; US nationals contact the US Consulate Bordeaux on +33 5 56 48 63 80. Security drivers carry updated emergency contact sheets covering Pellegrin and nearest urgences for wine estate and Arcachon destinations."
+---
+
+Bordeaux combines major aerospace and technology industries with one of the world's most prestigious wine regions, generating a distinctive security driver demand profile that spans corporate executive transfers and HNWI wine estate visits in the Medoc, Saint-Emilion, and Pessac-Leognan appellations. Security drivers in Bordeaux operate under France's CNAPS framework, holding a carte professionnelle for the security function and a VTC licence for the hire vehicle component. For corporate principals and HNWI clients, this compliance baseline, combined with wine estate road network knowledge and Vigipirate-aligned situational awareness, underpins vetted security driver cover in Nouvelle-Aquitaine.
+
+## French licensing and Bordeaux wine estate operations
+
+Under Loi 83-629 and CNAPS, security companies in Bordeaux must hold CNAPS authorisation; individual drivers must carry a carte professionnelle. The VTC licence from the DREAL Nouvelle-Aquitaine covers the hire vehicle function. FCDO France travel advice (2024) highlights petty crime, demonstrations, and the Vigipirate terrorism alert, incorporated into security driver planning in Bordeaux. Chateau and domaine approach roads in the Medoc and Saint-Emilion require advance reconnaissance; many are single-track private lanes not visible on standard navigation applications.
+
+## Bordeaux's vehicle security environment
+
+The BOD airport and TGV station arrivals, the wine estate circuit transfers, and the city centre and quayside venues each present specific security driver considerations: demonstration-aware routing on tram corridors, estate road reconnaissance for chateau approaches, and counter-surveillance awareness on the A630 airport corridor. Advance planning, VTC compliance, and estate-specific route knowledge are the primary operational elements for security drivers based in Bordeaux.
+
+For complementary services, see our [Bordeaux city page](/cities/bordeaux/) and [bodyguard hire in Bordeaux](/bodyguard-hire/bordeaux/).
