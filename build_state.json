@@ -111,39 +111,39 @@
         "remaining": "SD/EP/RS/ES/CPO/SAT still to cover 10 batch27 cities"
       },
       "security-drivers": {
-        "status": "BATCH34-DONE",
-        "date": "2026-06-27",
-        "pages": 258,
-        "covered": "all 258 live cities (batch26 added in batch34)",
-        "remaining": "batch27 cities (10) not yet covered"
+        "status": "BATCH36-DONE",
+        "date": "2026-06-28",
+        "pages": 268,
+        "covered": "all 268 live cities (batch27 added in batch36)",
+        "remaining": "none -- all 268 cities covered"
       },
       "executive-protection": {
-        "status": "BATCH34-DONE",
-        "date": "2026-06-27",
-        "pages": 258,
-        "covered": "all 258 live cities (batch26 added in batch34)",
-        "remaining": "batch27 cities (10) not yet covered"
+        "status": "BATCH36-DONE",
+        "date": "2026-06-28",
+        "pages": 268,
+        "covered": "all 268 live cities (batch27 added in batch36)",
+        "remaining": "none -- all 268 cities covered"
       },
       "residential-security": {
-        "status": "BATCH34-DONE",
-        "date": "2026-06-27",
-        "pages": 258,
-        "covered": "all 258 live cities (batch26 added in batch34)",
-        "remaining": "batch27 cities (10) not yet covered"
+        "status": "BATCH36-DONE",
+        "date": "2026-06-28",
+        "pages": 268,
+        "covered": "all 268 live cities (batch27 added in batch36)",
+        "remaining": "none -- all 268 cities covered"
       },
       "event-security": {
-        "status": "BATCH35-DONE",
-        "date": "2026-06-27",
-        "pages": 258,
-        "covered": "all 258 live cities (batch26 added in batch35)",
-        "remaining": "none -- all 258 cities covered"
+        "status": "BATCH36-DONE",
+        "date": "2026-06-28",
+        "pages": 268,
+        "covered": "all 268 live cities (batch27 added in batch36)",
+        "remaining": "none -- all 268 cities covered"
       },
       "close-protection-officers": {
-        "status": "BATCH35-DONE",
-        "date": "2026-06-27",
-        "pages": 258,
-        "covered": "all 258 live cities (batch26 added in batch35)",
-        "remaining": "none -- all 258 cities covered"
+        "status": "BATCH36-DONE",
+        "date": "2026-06-28",
+        "pages": 268,
+        "covered": "all 268 live cities (batch27 added in batch36)",
+        "remaining": "none -- all 268 cities covered"
       },
       "secure-airport-transfers": {
         "status": "BATCH35-DONE",
@@ -154,13 +154,13 @@
       }
     },
     "expansion_order": "For each service in the services list, build that service across the next 10 live cities not yet covered for it (read cities from site/content/cities/, skip any service-city slug already on disk). Rotate which service is extended each block so the matrix fills evenly: bodyguard-hire batch, then security-drivers batch, then executive-protection, residential-security, event-security, close-protection-officers, secure-airport-transfers, then back to bodyguard-hire for the next 10 cities. One 10-page block per run.",
-    "current_coverage_note": "Batch35 (27 Jun 2026): ES/CPO/SAT x batch26 (30 pages) + 10 new batch27 cities + BH x batch27 (10 pages). All 7 services now cover all 258 pre-batch27 cities. BH covers 268 cities. Cities live: 268. Total pages: 2175.",
+    "current_coverage_note": "Batch36 (28 Jun 2026): SD/EP/RS/ES/CPO x batch27 (50 pages). All 5 services now cover all 268 live cities. BH/SD/EP/RS/ES/CPO cover 268 cities. SAT still at 258 (batch27 gap: 10 pages). Cities live: 268. Total pages: 2225.",
     "cities_covered_bh": 268,
-    "cities_covered_sd": 258,
-    "cities_covered_ep": 258,
-    "cities_covered_rs": 258,
-    "cities_covered_es": 258,
-    "cities_covered_cpo": 258,
+    "cities_covered_sd": 268,
+    "cities_covered_ep": 268,
+    "cities_covered_rs": 268,
+    "cities_covered_es": 268,
+    "cities_covered_cpo": 268,
     "cities_covered_sat": 258,
     "batch27_cities": [
       "florence",
@@ -481,9 +481,9 @@
     "4. blog: when the next matrix/city/country block is already committed, build the next 5-article blog batch from the keyword matrix (non-cannibalising angles)."
   ],
   "pages": {
-    "total_live": 2175,
-    "_count_note": "2125 prior + 50 new (batch35: ES/CPO/SAT x batch26 (30) + 10 new batch27 cities + BH x batch27 (10)). All 7 services cover 258 cities; BH covers 268.",
-    "last_updated": "2026-06-27"
+    "total_live": 2225,
+    "_count_note": "2175 prior + 50 new (batch36: SD/EP/RS/ES/CPO x batch27). BH/SD/EP/RS/ES/CPO cover 268 cities; SAT covers 258.",
+    "last_updated": "2026-06-28"
   },
   "engine_alignment": {
     "1_combinatorial_generators": "DONE",
@@ -495,5 +495,5 @@
     "7_operating_system": "DONE"
   },
   "cannibalisation_rule": "Do not blog on topics already covered by service x city deep pages. The deep pages ARE the definitive content for {service}/{city}. Blog covers angles the deep pages do not.",
-  "next_stage": "BATCH35 COMPLETE (27 Jun 2026): ES/CPO/SAT x batch26 (30 pages) + 10 new batch27 cities + BH x batch27 (10 pages). All 7 services now cover all 258 pre-batch27 cities. BH covers 268 cities. Cities live: 268. Total: 2175 pages. Next: SD/EP/RS x batch27 (30 pages) + ES/CPO/SAT x batch27 (30 pages) = 60 pages across 6 blocks, or 30+30 split over 2 runs."
+  "next_stage": "BATCH36 COMPLETE (28 Jun 2026): SD/EP/RS/ES/CPO x batch27 (50 pages). BH/SD/EP/RS/ES/CPO now cover all 268 live cities. SAT still at 258 (batch27 gap). Cities live: 268. Total: 2225 pages. Next: SAT x batch27 (10 pages) + city expansion batch28 (Bologna, Genoa, Malaga, Zaragoza, Rennes, Bordeaux, Eindhoven, Utrecht, Ghent + 1 more) + BH/SD/EP/RS x batch28 cities."
 }
