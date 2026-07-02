@@ -131,6 +131,62 @@
 {{ partial "faq-accordion.html" (dict "faqs" .) }}
 {{ end }}
 
+{{/* ===== INTERNAL LINK GRAPH (related pages) ===== */}}
+{{ if .Params.city }}
+{{ $slug := .Params.slug | default .File.ContentBaseName }}
+{{ $city := .Params.city | default .Title }}
+{{ $section := .Section }}
+{{ $country := .Params.country }}
+{{ $self := .Permalink }}
+{{ $siloOrder := slice "bodyguard-hire" "executive-protection" "close-protection-officers" "security-drivers" "residential-security" "secure-airport-transfers" "event-security" }}
+{{/* This city across our other services */}}
+{{ $siblingLinks := slice }}
+{{ range $silo := $siloOrder }}
+  {{ if ne $silo $section }}
+    {{ with $.Site.GetPage (printf "/%s/%s" $silo $slug) }}{{ $siblingLinks = $siblingLinks | append . }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ $cityPage := $.Site.GetPage (printf "/cities/%s" $slug) }}
+{{/* Same service, other cities in the same country */}}
+{{ $countryPeers := slice }}
+{{ if $country }}
+  {{ range (where (where site.RegularPages "Section" $section) "Params.country" $country) }}
+    {{ if ne .Permalink $self }}{{ $countryPeers = $countryPeers | append . }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ if or $siblingLinks $countryPeers }}
+<section class="section-dark bg-dark-2 text-light related-links">
+    <div class="container">
+        <div class="row mb-4">
+            <div class="col-lg-12">
+                <div class="subtitle wow fadeInUp">Explore more</div>
+                <h2 class="wow fadeInUp" data-wow-delay=".2s">Related security services and locations</h2>
+            </div>
+        </div>
+        <div class="row g-4">
+            {{ if or $siblingLinks $cityPage }}
+            <div class="col-lg-6 wow fadeInUp">
+                <h3 class="fs-18 mb-3">{{ $city }}: our other services</h3>
+                <ul class="related-list">
+                    {{ range $siblingLinks }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}
+                    {{ with $cityPage }}<li><a href="{{ .RelPermalink }}">{{ $city }} city security overview</a></li>{{ end }}
+                </ul>
+            </div>
+            {{ end }}
+            {{ with $countryPeers }}
+            <div class="col-lg-6 wow fadeInUp" data-wow-delay=".2s">
+                <h3 class="fs-18 mb-3">{{ humanize $section }} elsewhere in {{ $country }}</h3>
+                <ul class="related-list">
+                    {{ range first 8 . }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}
+                </ul>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+
 {{/* ===== QUOTE FORM ===== */}}
 {{ partial "quote-form.html" $ }}
 

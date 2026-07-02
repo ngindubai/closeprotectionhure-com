@@ -299,7 +299,7 @@ Render path (6.1) is live and is a no-op until `answer:` front matter is populat
 
 ---
 
-# BATCH 7 — Internal link graph (MEDIUM)
+# BATCH 7 — Internal link graph (MEDIUM) — ✅ DONE (see changelog 2026-07-02)
 **Fixes Finding 9. Model: [SONNET]. Run AFTER Batch 5.**
 - Add two template-driven blocks (to `_default/single.html`), driven by `.Params.city` / `.Params.country`:
   1. **"Related security services in {city}"** — links the sibling silos for the same city (respecting any canonical/redirect decisions from Batch 5 — do not link to pages that were canonicalised away).
@@ -319,7 +319,7 @@ Render path (6.1) is live and is a no-op until `answer:` front matter is populat
 
 ---
 
-# BATCH 9 — Sitemap tuning (LOW, optional)
+# BATCH 9 — Sitemap tuning (LOW, optional) — ✅ DONE (see changelog 2026-07-02)
 **Fixes Finding 12. Model: [SONNET].**
 - Optional, low leverage (Google largely ignores sitemap priority). If done: per-section priority via a custom `sitemap.xml` template or front-matter `sitemap` params — homepage/city hubs higher (0.8), deep combinatorial pages lower (0.4).
 - Do this only after Batches 1–8 ship. Do not prioritise over anything above.
@@ -349,6 +349,24 @@ Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** wi
 
 ## Changes made and why
 *(Append-only log. Written so entries can be lifted straight into the routine build prompts. Each entry: finding ID · files/lines · what · why · verification.)*
+
+### 2026-07-02 — Batch 7: Internal link graph (Finding F9) [SONNET] — DONE
+- **File:** `site/layouts/_default/single.html` — added a template-driven "Related security services and locations" block after the FAQ partial, guarded by `{{ if .Params.city }}` so it fires only on silo pages (not utility/guides). Two columns:
+  1. **"{City}: our other services"** — links this city's page in each of the other 6 silos, built by convention (`/{silo}/{slug}/`) but resolved through `{{ .Site.GetPage }}` and appended only when the page actually exists, so no dead links; plus a link to the `/cities/{slug}/` overview.
+  2. **"{Service} elsewhere in {country}"** — the other cities in the same country and same silo, via `where (where site.RegularPages "Section" .Section) "Params.country" .Params.country`, self excluded, capped at `first 8`.
+- **File:** `site/static/css/custom.css` — appended `.related-links` / `.related-list` styling (append-only; gold chevron bullets, on-brand).
+  - *Why (F9):* the network sat at the ~2-link floor. This adds a structured, template-driven internal-link layer across all 6 fallback silos with zero per-page authoring, strengthening Engine 4 (link graph) and topical/geographic clustering. Complements (does not replace) the prose sibling cross-links added during Batch 5 differentiation.
+- **Verification:** build clean (0 errors, 2,411 pages); block renders on **1,629 pages** generating **14,616 internal links**; full sweep of those links = **0 dead links**; `cities`/`event-security` (own templates) correctly unaffected. Build time rose from ~7s to ~27s due to the per-page `RegularPages` queries — well within the 120s config timeout.
+- **Status:** committed + pushed to `master` (deploys).
+
+### 2026-07-02 — Batch 9: Sitemap priority tuning (Finding F12) [SONNET] — DONE
+- **File (new):** `site/layouts/_default/sitemap.xml` — custom sitemap template overriding the flat 0.5 config default with per-section `<priority>`: homepage 1.0; section hubs 0.8; `cities`/`countries` hubs 0.7; deep combinatorial + blog/guides/risk-assessments/services 0.6; utility pages (about/contact/faq/privacy/terms/network) 0.3; fallback 0.5. `changefreq` and `lastmod` behaviour preserved from Hugo default.
+  - *Why (F12):* low leverage (Google largely ignores priority) but a tidy, honest hierarchy signal; done last, after everything above shipped.
+- **Verification:** `public/sitemap.xml` validates as well-formed XML; ~2,395 URLs; spot-checked priorities (home 1.0, cities/lagos 0.7, bodyguard-hire/lagos 0.6, about 0.3). Distribution: 1×1.0, 13×0.8, 314×0.7, 2061×0.6, 6×0.3.
+- **Status:** committed + pushed to `master` (deploys).
+
+### 2026-07-02 — Cleanup
+- Replaced an em dash with a hyphen in the Batch 6.1 CSS comment in `custom.css` (line ~1229) for consistency with the no-em-dash rule. (Three pre-existing base-theme CSS comment em dashes left untouched — not content, not scanned by `qa_audit.py`, do not render or affect the build.)
 
 ### 2026-07-02 — Batch 1: Repair fallback template (Findings F1, F3, F4, F11)
 - **File:** `site/layouts/_default/single.html`
