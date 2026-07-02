@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency number: 911. Primary facility: Hospital San Jose TEC de Monterrey (+52-81-8347-3434). Secondary: Hospital Christus Muguerza (+52-81-8399-3400). Medical routing is pre-planned; CPOs hold current first-aid certification. The operation order includes evacuation routing from all principal accommodation."
 ---
 
-Monterrey presents a high risk environment requiring active close protection planning; the primary concern is high - kidnap, extortion, and carjacking risk; organised crime activity document. SEGOB-authorised operators provide close protection across San Pedro Garza Garcia (Valle Oriente, Vasconcelos) and Mont.
+Hiring a bodyguard in Monterrey is usually tied to a specific visit, where kidnapping, extortion, and organised-crime activity shape the plan for corporate visitors. This page covers how close protection hire works in Nuevo Leon, what a SEGOB-authorised operator does across a day of movements, and how quickly cover is arranged. Armed cover requires SEDENA permits, so hire pairs a federally authorised officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 SEGOB-authorised operators under the Ley Federal de Seguridad Privada is the regulatory baseline. SEGOB federal and Nuevo Leon state registration required; armed operators hold SEDENA authorisation; convoy protocols apply for all highway movements.
 
 Detailed city context is available on the [Monterrey city page](/cities/monterrey/). For transport security, see [vetted security drivers in Monterrey](/security-drivers/monterrey/). For regional coverage, see [bodyguard hire in Mexico City](/bodyguard-hire/mexico-city/). Firearms: armed protection available - SEDENA-licensed operators for principals requiring armed detail.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Monterrey](/executive-protection/monterrey/). To check the credentials and vetting behind the officers, see [close protection officers in Monterrey](/close-protection-officers/monterrey/).

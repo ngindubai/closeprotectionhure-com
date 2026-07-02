@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Austin for a CPO with vehicle and operations controller support range from approximately USD 640-1,100 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Austin presents an executive protection environment defined by a moderate risk profile and a regulatory framework under Texas Occupations Code, Chapter 1702 (Texas DPS Private Security Bureau). For senior executives and HNWI principals operating across Downtown Austin, The Domain, and South Congress, a structured EP programme reduces the exposure that uncoordinated travel creates. FCDO advises normal precautions for the United States (2026); no specific advisory for Austin. US State Department Level 1 (Exercise Normal Precautions) for the United States as of 2026.
+Executive protection in Austin is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against mass-event and crowd risk and civil disruption: advance work on venues and routes, a written risk assessment, an operations controller, and Texas DPS licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Austin
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Austin must be licensed under Texas Oc
 Austin's position in technology, financial services, and major events (SXSW, Formula 1 COTA) creates a specific EP operating context: principals in these sectors face both the ambient threat picture and sector-specific risks identified in the pre-travel assessment. The threat picture (moderate. APD Annual Report 2024 records elevated property crime and vehicle theft, concentrated in outer East Austin and some Downtown parking structures.) informs route planning, advance work, and situational-awareness protocols for every engagement.
 
 For related security services in Austin, see our [Austin city page](/cities/austin/), [security drivers in Austin](/security-drivers/austin/), and [bodyguard hire in Austin](/bodyguard-hire/austin/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Austin](/bodyguard-hire/austin/). For the operators who staff the programme and how they are vetted, see [close protection officers in Austin](/close-protection-officers/austin/).

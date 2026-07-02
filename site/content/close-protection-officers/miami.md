@@ -37,7 +37,7 @@ faqs:
     answer: "The correct dress standard for a Miami CPO engagement depends entirely on the principal's itinerary and social environment. Brickell corporate environments typically call for business attire. South Beach and Wynwood social environments call for smart-casual or event-appropriate dress that does not create the visibility of a suited security detail. CPO teams operating in Miami are briefed on each day's environment and dress to blend with the principal's social context rather than conforming to a single visible standard. This discipline is particularly important in entertainment and art-world environments where overt security postures are commercially and socially counterproductive."
 ---
 
-Miami occupies a unique position in the global security landscape: it is simultaneously a world-class financial and cultural hub and a high-crime urban environment by US standards. The US OSAC Miami Crime and Safety Report 2023 documents vehicle crime, robbery, and carjacking across Miami-Dade, while the city's role as a global gathering point for HNWI principals, corporate executives, and entertainment-industry figures creates a distinct targeted-crime and surveillance environment.
+This page is about the people who provide close protection in Miami: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Miami network holds Class D and Class G licensing under Florida's Chapter 493, and is assessed for local competence. It covers standard team configuration, maritime and yacht-specific experience, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Regulatory framework
 
@@ -48,3 +48,5 @@ Florida's private security sector is regulated under Florida Statutes Chapter 49
 CPO cover in Miami is calibrated to the specific environment of each engagement. Brickell and Coral Gables corporate details demand discreet business-appropriate cover. South Beach and art-world engagements require CPO teams capable of operating invisibly in high-profile social environments. Art Basel Miami Beach and similar concentrated HNWI events require pre-advanced venue plans and coordinated departure procedures.
 
 For broader context on Miami's security profile, see our [Miami city page](/cities/miami/) and [bodyguard hire in Miami](/bodyguard-hire/miami/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Miami](/bodyguard-hire/miami/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Miami](/executive-protection/miami/).

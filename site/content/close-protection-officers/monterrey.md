@@ -35,6 +35,8 @@ faqs:
     answer: "A single CNSP/SSPE-licensed CPO in Monterrey typically ranges from USD 350 to USD 650 per 10-hour operational day depending on SSPE grade, specific threat profile, and whether armed cover is required. Multi-CPO details and armed cover are priced at the higher end. Security driver integration with CPO cover is standard for most Monterrey assignments. As at June 2026, rates vary with specific operational requirement and availability."
 ---
 
-Monterrey's CPO market is one of Latin America's most professionally developed, reflecting a business community that treats close protection as standard for senior executive visits rather than an exceptional measure. CNSP federal and Nuevo Leon SSPE licensing are the required credentials, and armed cover options are available for principals with elevated threat profiles.
+This page is about the people who provide close protection in Monterrey: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Monterrey network holds federal SEGOB authorisation plus Nuevo Leon state credentials, with SEDENA permits where armed, and is assessed for local competence. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 For the full Monterrey security picture, see the [Monterrey city briefing](/cities/monterrey/) for the US State Dept advisory and the documented threat environment. For vetted airport transfers as part of a CPO detail, [secure airport transfers in Monterrey](/secure-airport-transfers/monterrey/) covers the MTY airport collection protocol and carjacking counter-protocols.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Monterrey](/bodyguard-hire/monterrey/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Monterrey](/executive-protection/monterrey/).

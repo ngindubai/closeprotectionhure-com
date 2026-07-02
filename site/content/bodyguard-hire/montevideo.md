@@ -35,7 +35,7 @@ faqs:
     answer: "The medical plan for every Montevideo assignment includes Hospital Britanico for local private care and medical evacuation to Buenos Aires for cases requiring specialist capability. Buenos Aires is accessible by air (approximately 50 minutes) or Buquebus fast ferry (approximately 2 hours). Medevac provider contacts are confirmed active before the principal's arrival. Medical evacuation insurance is the baseline requirement."
 ---
 
-Bodyguard hire in Montevideo operates within Uruguay's Ministry of Interior licensing framework, with close protection officers drawn from a vetted partner network holding valid national security authorisation.
+Hiring a bodyguard in Montevideo is typically about petty and vehicle crime and periodic demonstration risk rather than serious violent crime, within one of South America's most developed regulatory environments. This page covers how close protection hire works in Uruguay, what a Ministry of Interior licensed provider does across a day of movements, and how quickly cover is arranged. Armed cover is available through licensed providers, so hire pairs a licensed officer with secure transport, scaled to the itinerary.
 
 ## The Montevideo security environment
 
@@ -46,3 +46,5 @@ Montevideo is assessed as one of South America's safest capital cities. The prim
 A Montevideo bodyguard programme covers airport transfers with inside-terminal collection at Carrasco International Airport, accommodation in vetted properties in Pocitos or Punta Carretas, in-city movement with pre-planned routes and operations controller tracking, and a documented emergency action plan with Buenos Aires medevac provisions.
 
 For the full Montevideo security picture, see our [Montevideo city briefing](/cities/montevideo/). For comparable South American operating environments, see our [Buenos Aires city briefing](/cities/buenos-aires/) and [Santiago city briefing](/cities/santiago/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Montevideo](/executive-protection/montevideo/). To check the credentials and vetting behind the officers, see [close protection officers in Montevideo](/close-protection-officers/montevideo/).

@@ -37,7 +37,7 @@ faqs:
     answer: "GPG-qualified private security officers in Italy may in certain circumstances be authorised to carry firearms under the TULPS framework and specific prefectural authorisation. However, armed GPG deployments for civilian close protection in Milan are uncommon and require specific Prefettura approval beyond the standard GPG licence. The overwhelming majority of commercial CPO engagements in Milan are conducted on an unarmed basis, which is appropriate to the low violent crime environment. The specific configuration for any engagement is confirmed at the briefing stage based on the individual threat assessment."
 ---
 
-Milan close protection operates at the intersection of Italy's GPG regulatory framework (administered by the Prefettura di Milano under TULPS and DM 269/2010) and an operational environment defined by discretion. The FCDO Italy travel advice (2024) rates the ambient threat environment as low for violent crime, and CPO work in Milan reflects this: the dominant operational discipline is counter-surveillance and discreet cover for HNWI and corporate principals in the fashion, luxury, and finance industries, rather than the physical protection priorities that define higher-risk cities.
+This page is about the people who provide close protection in Milan: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Milan network holds GPG qualification under the TULPS framework and works through a Prefettura-licensed company, and is assessed for local competence. It covers standard team configuration, luxury-sector and HNWI experience, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Licensing: the GPG standard
 
@@ -46,3 +46,5 @@ The Guardia Particolare Giurata (GPG) qualification is Italy's regulated standar
 ## Operational profile
 
 Milan CPO engagements are consistently low-visibility, language-capable, and counter-surveillance focused. The principal venues in the quadrilateral della moda, Porta Nuova, and the city's leading hotels require CPOs who operate within the environment rather than standing apart from it. For the wider city and country context, see our [Milan city security overview](/cities/milan/) and [bodyguard hire in Milan](/bodyguard-hire/milan/) for engagement structure and service options.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Milan](/bodyguard-hire/milan/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Milan](/executive-protection/milan/).

@@ -35,7 +35,7 @@ faqs:
     answer: "A foreign close protection officer may accompany a principal into Denver as part of an international protective detail but cannot engage in commercial close protection for hire in Colorado without appropriate DORA licensing under CRS 12-58.5. For any commercial close protection work in Colorado, the operating company must hold a current Colorado Security Patrol Operator licence from DORA."
 ---
 
-Denver is the commercial and governmental hub of the Rocky Mountain region, hosting significant concentrations of energy, financial services, and technology firms along the 17th Street corridor and in the LoDo district, alongside a substantial government and defence community in the Capitol Hill precinct. The city's elevated property crime and vehicle theft rates, documented in the DPD Crime Report 2024, combined with drug-related disorder in specific corridors, make close protection a considered operational requirement for senior executives and high-profile principals visiting Colorado.
+This page is about the people who provide close protection in Denver: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Denver network holds current DORA credentials under the Colorado Private Security Act, with a Concealed Handgun Permit where armed, and is assessed for local competence. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Colorado DORA licensing framework
 
@@ -54,3 +54,5 @@ Denver's altitude at 1,609 metres above sea level is a standing operational cons
 The operational threat picture for Denver CPO work draws on the Denver Police Department (DPD) Crime Report 2024. Licensing requirements are current under Colorado Revised Statutes 12-58.5-101 as at June 2026, administered by Colorado DORA. Armed carry provisions follow CRS 18-12 Concealed Handgun Permit conditions. The altitude figure (1,609 metres) is the established elevation of downtown Denver. Rates cited are indicative for the Denver market as at June 2026 and should be confirmed at time of enquiry.
 
 For complementary services, see our [Denver city page](/cities/denver/) and [bodyguard hire in Denver](/bodyguard-hire/denver/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Denver](/bodyguard-hire/denver/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Denver](/executive-protection/denver/).

@@ -33,6 +33,8 @@ faqs:
     answer: "The primary extraction route is pre-confirmed to Jose Maria Cordova Airport (MDE) via the mountain tunnel. La Catedral Olaya Herrera Airport (OLL), inside the city, provides a backup for regional destinations. Medical planning identifies private clinic contacts in El Poblado and evacuation routing to Bogota or Panama City for serious cases. Departure timing is pre-confirmed with cushion for tunnel congestion and weather-related delays."
 ---
 
-Medellin executive protection is calibrated to Colombia's second city: Supervigilancia-licensed operators, organised crime principal risk profiling, scopolamine awareness and venue management, and the 40km Jose Maria Cordova Airport transfer as a distinct planning element.
+Executive protection in Medellin is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing organised crime, express kidnapping, and scopolamine-facilitated crime: advance work on venues and routes, a written threat assessment, an operations controller, and Supervigilancia-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 For the full Medellin security picture, see our [Medellin city briefing](/cities/medellin/). For vetted secure transport alongside the EP team, [security drivers in Medellin](/security-drivers/medellin/) covers the Colombia driver programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Medellin](/bodyguard-hire/medellin/). For the operators who staff the programme and how they are vetted, see [close protection officers in Medellin](/close-protection-officers/medellin/).

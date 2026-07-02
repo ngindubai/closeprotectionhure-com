@@ -35,7 +35,7 @@ faqs:
     answer: "Non-US operators may not carry firearms in Texas. Unarmed protective services require compliance with Texas DPS licensing. Clients should verify operator DPS licence status via the Public Security Bureau online lookup before engagement. Clients should confirm the operating structure and licensing status of any proposed CPO arrangement before travel, particularly for cross-border itineraries."
 ---
 
-Austin is a moderate-risk environment for close protection operations, drawing on APD Annual Report 2024 and FCDO advises normal precautions for the United States (2026); no specific advisory for Austin. US State Department Level 1 (Exercise Normal Precautions) for the United States as of 2026. For HNWI principals and senior executives operating across Downtown Austin, The Domain, and South Congress, licensed CPO cover provides a materially different standard of personal protection from uncoordinated or unlicensed alternatives.
+This page is about the people who provide close protection in Austin: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Austin network holds a current Texas DPS Private Security Bureau licence (Level III or IV), and is assessed for local competence. It covers standard team configuration, mass-event and crowd-management protocols, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The United States licensing framework
 
@@ -50,3 +50,5 @@ A Austin CPO detail typically begins with pre-advance work at the principal's ac
 The operations controller function maintains a real-time timeline and holds emergency contact protocols for St. David's Medical Center (512-476-7111), Dell Seton Medical Center at UT Austin (512-324-7000), and local emergency services (911).
 
 For complementary services, see our [Austin city page](/cities/austin/) and [bodyguard hire in Austin](/bodyguard-hire/austin/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Austin](/bodyguard-hire/austin/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Austin](/executive-protection/austin/).

@@ -35,7 +35,7 @@ faqs:
     answer: "The CPO positions inside Hamburg Airport Helmut Schmidt (HAM) arrivals before the principal clears baggage claim. A pre-departure vehicle check is conducted. The HAM-to-city transfer takes 25 to 30 minutes (approximately 12km). For principals with elevated threat profiles, counter-surveillance protocol is applied from the arrivals hall through the transfer to the principal's hotel."
 ---
 
-Close protection officer deployment in Hamburg is governed by Germany's Trade Regulation Act (Gewerbeordnung) Section 34a framework, with Hamburg oversight by LKA Hamburg (Landeskriminalamt Hamburg). Our Hamburg CPO teams cover Hamburg Airport Helmut Schmidt (HAM) arrivals and departures, HafenCity and Speicherstadt corporate meetings, and Innenstadt and Alstertal private engagements. BfV classifies the abstract terrorism threat in Germany as high, informing all Hamburg pre-deployment briefings.
+This page is about the people who provide close protection in Hamburg: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Hamburg network holds IHK Hamburg qualification and Gewerbeamt registration under Section 34a of the Gewerbeordnung, and is assessed for local competence. It covers standard team configuration, port-area experience, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Germany regulatory context
 
@@ -44,3 +44,5 @@ All Hamburg CPO operators hold current Germany credentials under Gewerbeordnung 
 ## Complementary Hamburg services
 
 For the full Hamburg security picture, see the [Hamburg city briefing](/cities/hamburg/) and [secure airport transfers in Hamburg](/secure-airport-transfers/hamburg/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Hamburg](/bodyguard-hire/hamburg/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Hamburg](/executive-protection/hamburg/).

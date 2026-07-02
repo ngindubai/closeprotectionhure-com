@@ -35,7 +35,7 @@ faqs:
     answer: "Miami is assessed as moderate risk for corporate travellers by the FCDO (normal precautions). The documented security considerations for senior corporate and HNWI principals are: vehicle crime in certain Miami-Dade areas (documented in MDPD annual reports), the risk profile that some Latin American principals carry from their home countries into Miami engagements, and the organised crime adjacency in specific Miami districts that is historically documented even if well-controlled in the current environment. For most corporate visitors to Brickell and Coconut Grove, Miami is a standard North American business city with a manageable security environment."
 ---
 
-Miami close protection operates within Florida's transparent, individually-verifiable Chapter 493 licensing system and a threat environment shaped more by the specific principal profiles arriving in this Latin American business gateway than by Miami's general crime statistics. The city's HNWI and private banking culture, private aviation infrastructure, and PortMiami super-yacht activity create a specific CPO market that is professional and well-developed.
+Hiring a bodyguard in Miami is usually tied to a specific visit, where HNWI targeting, maritime and yacht risk, and event-driven crowding shape the plan more than a high citywide risk level. This page covers how close protection hire works in Florida, what a Class D/Class G licensed officer does across a day of movements, and how quickly cover is arranged. Florida's relatively permissive firearms laws make armed hire straightforward, pairing a licensed officer with secure transport, scaled to the itinerary.
 
 ## The Florida regulatory framework
 
@@ -46,3 +46,5 @@ Chapter 493 Florida Statutes provides individual licensing with a public verific
 Miami CPO engagements cover Brickell financial district corporate work, Miami Beach HNWI and hospitality coverage, PortMiami yacht security, and MIA and Miami Executive Airport transfer operations. The Latin American business dimension of Miami's principal community creates specific threat-profile considerations not present in most North American cities.
 
 For the Miami city security overview, see our [Miami city page](/cities/miami/) and [United States country security page](/countries/united-states/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Miami](/executive-protection/miami/). To check the credentials and vetting behind the officers, see [close protection officers in Miami](/close-protection-officers/miami/).

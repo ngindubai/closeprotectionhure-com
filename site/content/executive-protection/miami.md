@@ -33,7 +33,7 @@ faqs:
     answer: "EP day rates in Miami for a Class D-licensed, vetted CPO typically range from USD 400 to USD 700 per day; armed Class G CPOs carry a premium on this rate. Two-person team rates (CPO plus security driver) typically range from USD 750 to USD 1,200 per day plus vehicle costs, as at June 2026. Art Basel and Miami Grand Prix period engagements carry an event-period premium. Multi-day retainer structures are available for extended-visit principals with seasonal Miami residences."
 ---
 
-Miami executive protection serves the HNWI and corporate principal base that concentrates in South Florida year-round and particularly during Art Basel, the Miami Grand Prix, and the November-to-April winter season. Florida PSA Chapter 493 licensing through the Division of Licensing provides the regulatory standard; HNWI targeting by organised criminal activity is the primary threat driver specific to Miami.
+Executive protection in Miami is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against HNWI targeting, maritime risk, and event-driven crowding: advance work on venues and routes, a written risk assessment, an operations controller, and Class D/G-licensed armed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Florida PSA 493 compliance
 
@@ -44,3 +44,5 @@ Miami CPOs hold Class D (and Class G if armed) licences from the Florida Divisio
 Advance work covers hotel and venue assessments at Brickell and Miami Beach principal locations, Art Basel event period planning, maritime-integrated transfer logistics for yacht-based principals, and MIA and FLL airport transfer management. Counter-surveillance awareness and low-profile vehicle selection address HNWI targeting risk.
 
 For the broader Miami security overview, see our [Miami city page](/cities/miami/) and our [security drivers in Miami](/security-drivers/miami/) and [bodyguard hire in Miami](/bodyguard-hire/miami/) pages.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Miami](/bodyguard-hire/miami/). For the operators who staff the programme and how they are vetted, see [close protection officers in Miami](/close-protection-officers/miami/).

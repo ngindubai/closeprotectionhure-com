@@ -35,7 +35,7 @@ faqs:
     answer: "A Prefettura-authorised close protection officer in Milan for a corporate engagement typically ranges from EUR 350 to EUR 700 per day, depending on qualifications, former Polizia di Stato, Carabinieri, or Guardia di Finanza background, and the specific operational scope. Fashion Week and Salone del Mobile periods command a premium due to concentrated demand. Multi-day engagements are structured on a weekly retainer basis. Italian employment regulations and social security contributions are reflected in the rate structure for locally contracted CPO services."
 ---
 
-Milan close protection operates in a city with low ambient personal crime risk but a well-documented organised crime footprint in Lombardia's financial and construction sectors that requires sector-specific due-diligence awareness. The TULPS and DPR 153/2008 framework provides company-level Prefettura authorisation with Questura di Milano oversight. The concentrated HNWI and corporate principal demand during Fashion Week and Salone del Mobile creates a specialised CPO market with strong operational depth.
+Hiring a bodyguard in Milan is typically about HNWI and luxury-sector targeting rather than violent street crime, alongside terrorism awareness. This page covers how close protection hire works in Italy, what a GPG-qualified officer does across a day of movements, and how quickly cover is arranged. Armed cover requires Prefettura authorisation under the TULPS framework, so hire pairs a qualified officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## The Italian regulatory framework
 
@@ -46,3 +46,5 @@ Prefettura authorisation under the TULPS and DPR 153/2008 framework governs both
 Milan CPO engagements cover Porta Nuova and financial district corporate work, Quadrilatero d'Oro and Brera HNWI coverage, Malpensa and Linate airport transfer operations, and major events security during Fashion Week and Salone del Mobile periods. The organised crime awareness component addresses the DNA-documented Ndrangheta presence in Lombardia for principals in relevant sectors.
 
 For the Milan city security overview, see our [Milan city page](/cities/milan/) and [bodyguard hire services overview](/bodyguard-hire/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Milan](/executive-protection/milan/). To check the credentials and vetting behind the officers, see [close protection officers in Milan](/close-protection-officers/milan/).

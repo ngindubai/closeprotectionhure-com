@@ -33,8 +33,10 @@ faqs:
     answer: "Jose Maria Cordova Airport is 40 kilometres and 60 to 90 minutes from El Poblado. The airport run is a significant element of every Medellin assignment. Informal airport taxis to Poblado are a documented express kidnapping risk point. Inside-terminal CPO collection with a pre-confirmed vetted vehicle is mandatory for every principal arrival."
 ---
 
-Medellin bodyguard hire operates in Colombia's second city, where the legacy of the Cartel era has been replaced by organised crime networks that use express kidnapping and scopolamine as business methods against foreign visitors. CPO operations are structured around El Poblado zone discipline, vetted transport from Jose Maria Cordova Airport, and the social itinerary awareness that the Parque Lleras environment requires.
+Hiring a bodyguard in Medellin is usually tied to a specific visit, where organised crime, express kidnapping, and scopolamine-facilitated crime shape the plan. This page covers how close protection hire works in Colombia, what a Supervigilancia-licensed officer does across a day of movements, and how quickly cover is arranged. Armed cover is available through individually licensed personnel, so hire pairs a verified officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 Supervigilancia-licensed partners with direct Medellin experience deliver close protection calibrated to these specific patterns.
 
 For the full Medellin security picture, see our [Medellin city briefing](/cities/medellin/). For principals combining Medellin with Bogota on the same Colombia itinerary, [bodyguard hire in Bogota](/bodyguard-hire/bogota/) covers the Colombia capital CPO programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Medellin](/executive-protection/medellin/). To check the credentials and vetting behind the officers, see [close protection officers in Medellin](/close-protection-officers/medellin/).

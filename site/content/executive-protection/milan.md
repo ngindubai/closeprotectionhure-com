@@ -33,7 +33,7 @@ faqs:
     answer: "EP day rates in Milan for a Prefettura-authorised, vetted GPG CPO typically range from EUR 400 to EUR 700 per day; two-person team rates with a CPO and security driver run EUR 750 to EUR 1,200 per day plus vehicle costs, as at June 2026. Fashion Week and Salone del Mobile period engagements carry an event-period premium. Malpensa transfer engagements at 50 km are factored into the vehicle cost element. Multi-day Fashion Week retainers are the standard commercial structure for the event period."
 ---
 
-Milan executive protection serves the fashion sector, luxury goods industry, and corporate principal base that concentrates in the city during Fashion Week and Salone del Mobile. TULPS and Prefettura di Milano GPG licensing provides the regulatory framework; professional theft targeting of luxury sector principals during event periods is the primary threat specific to Milan, requiring advance work and hotel departure protocols calibrated to the Quadrilatero environment.
+Executive protection in Milan is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against HNWI and luxury-sector targeting risk: advance work on venues and routes, a written risk assessment, an operations controller, and Prefettura-authorised secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Italian TULPS and Prefettura compliance
 
@@ -44,3 +44,5 @@ Milan CPOs hold Prefettura di Milano GPG authorisations under TULPS (R.D. 773/19
 Advance work covers Quadrilatero hotel departure security during Fashion Week and Salone del Mobile, Malpensa and Linate airport transfer logistics, ZTL-compliant vehicle access for the restricted centre, Italian terrorism awareness at Malpensa, Linate, and Stazione Centrale, and operational profile calibration for the fashion industry professional environment.
 
 For the broader Milan security overview, see our [Milan city page](/cities/milan/) and our [security drivers in Milan](/security-drivers/milan/) and [bodyguard hire in Milan](/bodyguard-hire/milan/) pages.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Milan](/bodyguard-hire/milan/). For the operators who staff the programme and how they are vetted, see [close protection officers in Milan](/close-protection-officers/milan/).

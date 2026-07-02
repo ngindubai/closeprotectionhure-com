@@ -35,8 +35,10 @@ faqs:
     answer: "Primary medical facility: Hospital San Jose TEC de Monterrey (+52-81-8347-3434). Emergency: 911. Medical routing is pre-planned as part of every operation order. CPOs hold current first-aid certification. Medical evacuation coordination is confirmed before deployment for principals on extended Monterrey programmes."
 ---
 
-Executive protection in Monterrey addresses a high risk environment: high - kidnap, extortion, and carjacking risk; organised crime activity document. SEGOB-authorised operators cover San Pedro Garza Garcia (Valle Oriente, Vasconcelos) and Mont with pre-surveyed routes, operations controller oversight, and pre-planned medical routing to Hospital San Jose TEC de Monterrey.
+Executive protection in Monterrey is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing kidnapping, extortion, and organised-crime activity: advance work on venues and routes, a written threat assessment, an operations controller, and SEGOB-authorised secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 SEGOB-authorised operators under the Ley Federal de Seguridad Privada is the regulatory baseline. SEGOB federal and Nuevo Leon state registration required; armed operators hold SEDENA authorisation; convoy protocols apply for all highway movements.
 
 For Monterrey city context, see our [Monterrey security briefing](/cities/monterrey/). For transport security, see [security drivers in Monterrey](/security-drivers/monterrey/). For regional context, see [executive protection in Mexico City](/executive-protection/mexico-city/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Monterrey](/bodyguard-hire/monterrey/). For the operators who staff the programme and how they are vetted, see [close protection officers in Monterrey](/close-protection-officers/monterrey/).

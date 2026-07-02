@@ -33,7 +33,7 @@ faqs:
     answer: "A single Supervigilancia-licensed CPO with a dedicated driver is the standard configuration for most senior executive visits to Medellin. Two-person teams are appropriate for higher-profile principals, visits with sensitive commercial exposure, and assignments that include movement to areas outside the El Poblado-Laureles corridor. The threat assessment at the planning stage determines the appropriate configuration for each specific visit."
 ---
 
-Medellin close protection is calibrated to Colombia's Supervigilancia regulatory framework and the city's organised crime environment: licensed CPOs managing the Jose Maria Cordova Airport corridor, El Poblado and Laureles zone operations, and anti-surveillance protocols for executives in sensitive sectors.
+This page is about the people who provide close protection in Medellin: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Medellin network holds a Supervigilancia licence, verifiable via the online register, and is assessed for local competence. It covers standard team configuration, individual armed-personnel licensing, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Medellin
 
@@ -42,3 +42,5 @@ Medellin's transformation since the 1990s has produced a sophisticated corporate
 Supervigilancia-licensed operators from our Colombia partner network deliver Medellin CPO operations with current local knowledge and the sector-specific experience that Latin America's second-tier city corporate market requires.
 
 For the full Medellin security picture, see our [Medellin city briefing](/cities/medellin/). For principals requiring residential security alongside CPO cover, [residential security in Medellin](/residential-security/medellin/) covers the Supervigilancia-licensed property programme.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Medellin](/bodyguard-hire/medellin/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Medellin](/executive-protection/medellin/).

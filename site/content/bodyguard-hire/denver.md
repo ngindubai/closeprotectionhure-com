@@ -35,6 +35,8 @@ faqs:
     answer: "Emergency number: 911. Primary facility: Denver Health Medical Center (303-436-6000). Medical routing to the nearest appropriate hospital is pre-planned, CPOs hold current first-aid certification, and medical evacuation routing is built into the operation order before deployment."
 ---
 
-Denver is a moderate-risk environment for close protection deployments. For HNWI principals and corporate executives visiting LoDo, Cherry Creek, and the Colorado Convention Center precinct, vetted bodyguards licensed under Colorado Private Security Act, House Bill 22-1232 (DORA, Division of Professions and Occupations) provide a materially different standard of personal protection from unvetted alternatives. The local police crime data informs route planning and counter-surveillance protocols applied on Denver's principal movement corridors.
+Hiring a bodyguard in Denver is usually tied to a specific visit, where drug-related street disorder and high-altitude operational considerations shape the plan alongside property crime. This page covers how close protection hire works in Colorado, what a DORA-credentialed officer does across a day of movements, and how quickly cover is arranged. Armed cover is available under a Colorado Concealed Handgun Permit, so hire pairs a credentialed officer with secure transport, scaled to the itinerary.
 
 Detailed city context, including threat analysis and zone-by-zone risk notes, is available on the [Denver city page](/cities/denver/). For transport security, see our [vetted security drivers in Denver](/security-drivers/denver/). For regional coverage, see our [bodyguard hire in Chicago](/bodyguard-hire/chicago/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Denver](/executive-protection/denver/). To check the credentials and vetting behind the officers, see [close protection officers in Denver](/close-protection-officers/denver/).

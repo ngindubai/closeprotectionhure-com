@@ -35,7 +35,7 @@ faqs:
     answer: "Every Montevideo CPO deployment includes a documented emergency action plan covering medical emergency (naming the receiving facility: Hospital Italiano or Hospital Britanico in Montevideo), vehicle compromise procedures, communications protocols, and the operations controller's emergency activation procedure."
 ---
 
-The capital of uruguay and consistently rated as one of the safest cities in latin america, with a significant financial services sector, regional corporate hub status, and a well-regulated private security industry. Close protection officers in Montevideo are deployed through licensed Uruguay operators with current ground knowledge, providing a structured CPO programme calibrated to the low-risk environment.
+This page is about the people who provide close protection in Montevideo: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Montevideo network holds Ministry of Interior licensing within one of South America's most developed regulatory frameworks, and is assessed for local competence. It covers standard team configuration, standard company licence verification practice, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Uruguay CPO licensing framework
 
@@ -44,3 +44,5 @@ CPO operations in Montevideo are regulated through the Ministry of Interior of U
 ## CPO operations in Montevideo
 
 Licensed CPO cover, vehicle-based movement for all inter-venue transfers, airport collection inside Carrasco International Airport (MVD) terminal, operations restricted to the Ciudad Vieja, Punta Carretas, and Pocitos districts for standard corporate assignments, and a written emergency plan with pre-confirmed contacts at the best available medical facilities. For the full Montevideo security picture, see our [Montevideo city page](/cities/montevideo/) and [bodyguard hire in Montevideo](/bodyguard-hire/montevideo/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Montevideo](/bodyguard-hire/montevideo/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Montevideo](/executive-protection/montevideo/).
