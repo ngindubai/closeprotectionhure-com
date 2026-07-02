@@ -35,7 +35,7 @@ faqs:
     answer: "CPO day rates in San Francisco range from approximately $600 to $1,150 per day, as at June 2026, depending on individual experience, licensing level, and engagement type. Multi-day corporate programme rates apply a reduced daily rate for three or more consecutive days. Vehicle and operations controller costs are typically quoted separately; a combined EP package rate is available on request."
 ---
 
-Close protection officers operating in San Francisco are licensed under California Bureau of Security and Investigative Services (BSIS), Business and Professions Code, with the California BSIS maintaining the registration register. For corporate executives, HNWI principals, and event organisers requiring vetted CPOs in San Francisco, the licensing framework is the starting point for due diligence. The SFPD Crime Report 2025 (vehicle break-ins among highest in California (SFPD Crime Report 2025)) informs the threat assessment that precedes every CPO deployment.
+This page is about the people who provide close protection in San Francisco: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our San Francisco network holds a current BSIS Guard Card and PPO-licensed company backing, with a firearms permit where armed, and is assessed for local competence. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 ## Licensing and due diligence
 
@@ -46,3 +46,5 @@ Confirming the individual CPO's personal licence and the operating company's reg
 CPO deployments in San Francisco cover Financial District on California Street, Pacific Heights residential, and Mission Bay technology campus and the principal movement corridors across US-101 and I-280, with the Bay Bridge and Golden Gate approach corridors. Venue advance work, operations controller integration, and transport coordination with a vetted security driver are the components that distinguish a professional CPO engagement from a standalone hired presence.
 
 For related security services in San Francisco, see our [San Francisco city page](/cities/san-francisco/), [bodyguard hire in San Francisco](/bodyguard-hire/san-francisco/), and [executive protection in San Francisco](/executive-protection/san-francisco/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in San Francisco](/bodyguard-hire/san-francisco/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in San Francisco](/executive-protection/san-francisco/).

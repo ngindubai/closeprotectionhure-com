@@ -35,6 +35,8 @@ faqs:
     answer: "Emergency number: 911. Primary facility: Harborview Medical Center (206-744-3000). Medical routing to the nearest appropriate hospital is pre-planned, CPOs hold current first-aid certification, and medical evacuation routing is built into the operation order before deployment."
 ---
 
-Seattle is a moderate-risk environment for close protection deployments. For HNWI principals and corporate executives visiting South Lake Union, Belltown, and the Downtown financial district, vetted bodyguards licensed under Security Guard Act, RCW 18.170 (Washington State DOL) provide a materially different standard of personal protection from unvetted alternatives. The local police crime data informs route planning and counter-surveillance protocols applied on Seattle's principal movement corridors.
+Hiring a bodyguard in Seattle is usually tied to a specific visit, where drug-related disorder and protest activity shape the plan alongside property and vehicle crime. This page covers how close protection hire works in Washington State, what a DOL-licensed officer with an armed endorsement does across a day of movements, and how quickly cover is arranged. Armed cover is available under a Washington CPL, so hire pairs a licensed officer with secure transport, scaled to the itinerary.
 
 Detailed city context, including threat analysis and zone-by-zone risk notes, is available on the [Seattle city page](/cities/seattle/). For transport security, see our [vetted security drivers in Seattle](/security-drivers/seattle/). For regional coverage, see our [bodyguard hire in San Francisco](/bodyguard-hire/san-francisco/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Seattle](/executive-protection/seattle/). To check the credentials and vetting behind the officers, see [close protection officers in Seattle](/close-protection-officers/seattle/).

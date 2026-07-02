@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in San Francisco for a CPO with vehicle and operations controller support range from approximately $700 to $1,350 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-San Francisco presents an executive protection environment defined by vehicle break-ins among highest in California (SFPD Crime Report 2025) and a regulatory framework under California BSIS, Business and Professions Code. For senior executives and HNWI principals operating across Financial District on California Street, Pacific Heights residential, and Mission Bay technology campus, a structured EP programme reduces the exposure that uncoordinated travel creates. The SFPD Crime Report 2025 and current advisory (FCDO normal precautions 2026; US State Dept Level 1) are the evidential baseline for every pre-travel assessment.
+Executive protection in San Francisco is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against localised street disorder and property-crime risk: advance work on venues and routes, a written risk assessment, an operations controller, and BSIS-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in San Francisco
 
@@ -46,3 +46,5 @@ All close protection officers deployed in San Francisco must be licensed under C
 San Francisco's position in technology, venture capital, biotech, and a highly visible HNWI population creates a specific EP operating context: principals in these sectors face both the ambient threat picture identified in the SFPD Crime Report 2025 and sector-specific risks, including competitive intelligence activity and, for some industries, targeted crime against high-value corporate visitors. The pre-travel assessment addresses both layers.
 
 For related security services in San Francisco, see our [San Francisco city page](/cities/san-francisco/), [security drivers in San Francisco](/security-drivers/san-francisco/), and [bodyguard hire in San Francisco](/bodyguard-hire/san-francisco/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in San Francisco](/bodyguard-hire/san-francisco/). For the operators who staff the programme and how they are vetted, see [close protection officers in San Francisco](/close-protection-officers/san-francisco/).

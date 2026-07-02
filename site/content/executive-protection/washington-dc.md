@@ -33,7 +33,7 @@ faqs:
     answer: "EP day rates in Washington DC for a multi-state-licensed, vetted CPO typically range from USD 450 to USD 750 per day; two-person team rates with a CPO and security driver run USD 850 to USD 1,300 per day plus vehicle costs, as at June 2026. Rates reflect DC's higher labour costs and multi-state licensing requirements. Multi-day engagement retainers for extended Congressional, regulatory, or corporate lobbying programmes are available at contracted daily rates."
 ---
 
-Washington DC executive protection serves a principal population defined by government, diplomatic, corporate lobbying, and defence and technology sectors. The DC political environment, foreign intelligence activity, and multi-state licensing requirements create an EP brief that extends beyond standard corporate protection. Tri-state compliance across DC, Maryland, and Virginia is the regulatory baseline for this market.
+Executive protection in Washington DC is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against the political threat environment and foreign intelligence activity: advance work on venues and routes, a written threat assessment, an operations controller, and MPD-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 ## Tri-state licensing compliance
 
@@ -44,3 +44,5 @@ DC CPOs hold licences under DC Code Title 47 (MPDC), Maryland State Police Secur
 Advance work covers Capitol Hill building security coordination, White House-adjacent venue logistics, K Street and Georgetown venue assessments, airport transfer planning across DCA, IAD, and BWI, and counter-intelligence awareness briefings for commercially sensitive engagements.
 
 For the broader DC security overview, see our [Washington DC city page](/cities/washington-dc/) and our [security drivers in Washington DC](/security-drivers/washington-dc/) and [bodyguard hire in Washington DC](/bodyguard-hire/washington-dc/) pages.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Washington DC](/bodyguard-hire/washington-dc/). For the operators who staff the programme and how they are vetted, see [close protection officers in Washington DC](/close-protection-officers/washington-dc/).

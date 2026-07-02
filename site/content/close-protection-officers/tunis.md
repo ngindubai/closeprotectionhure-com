@@ -33,7 +33,7 @@ faqs:
     answer: "Tunis has accessible international-standard medical facilities including Polyclinique les Berges du Lac and Clinique La Rose. For serious trauma, Charles-Nicolle Hospital is the primary public trauma facility. For conditions requiring specialist care beyond Tunisia's capacity, medical evacuation to Rome (approximately 1.5 hours by air) or Paris (approximately 2.5 hours) is standard. The operations controller holds medevac contacts and hospital locations as a standing brief component."
 ---
 
-Tunis close protection is calibrated to Tunisia's medium-risk profile and terrorism context: Ministry of Interior-licensed CPOs delivering airport operations, terrorism soft-target advance work, and Berges du Lac and Carthage zone management for corporate and diplomatic principals.
+This page is about the people who provide close protection in Tunis: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Tunis network holds Ministry of Interior licensing under a framework tightened since the 2011-2015 security crisis, and is assessed for local competence. It covers standard team configuration, specific armed-personnel authorisation, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Tunis
 
@@ -42,3 +42,5 @@ Tunis has a more developed corporate security environment than most North Africa
 Ministry of Interior-licensed operators from our North Africa network deliver Tunis CPO operations with current local knowledge and French and Arabic-language capability.
 
 For the full Tunis security picture, see our [Tunis city briefing](/cities/tunis/). For principals requiring residential security alongside CPO cover, [residential security in Tunis](/residential-security/tunis/) covers the Ministry-licensed property programme.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Tunis](/bodyguard-hire/tunis/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Tunis](/executive-protection/tunis/).

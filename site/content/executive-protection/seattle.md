@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Seattle for a CPO with vehicle and operations controller support range from approximately USD 650-1,150 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Seattle presents an executive protection environment defined by a moderate risk profile and a regulatory framework under Security Guard Act, RCW 18.170 (Washington State DOL). For senior executives and HNWI principals operating across South Lake Union, Belltown, and the Downtown financial district, a structured EP programme reduces the exposure that uncoordinated travel creates. Current advisory status and local police crime data are the evidential baseline for every pre-travel assessment.
+Executive protection in Seattle is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against drug-related street disorder and protest-linked disruption: advance work on venues and routes, a written risk assessment, an operations controller, and DOL-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Seattle
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Seattle must be licensed under Securit
 Seattle's position in technology, aerospace, maritime, and major conference events creates a specific EP operating context: principals in these sectors face both the ambient threat picture and sector-specific risks identified in the pre-travel assessment. The threat picture (moderate. SPD Crime Report 2024 records elevated property crime and street disorder in Pioneer Square and Third Avenue, with materially lower rates in South Lake Union and Belltown.) informs route planning, advance work, and situational-awareness protocols for every engagement.
 
 For related security services in Seattle, see our [Seattle city page](/cities/seattle/), [security drivers in Seattle](/security-drivers/seattle/), and [bodyguard hire in Seattle](/bodyguard-hire/seattle/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Seattle](/bodyguard-hire/seattle/). For the operators who staff the programme and how they are vetted, see [close protection officers in Seattle](/close-protection-officers/seattle/).

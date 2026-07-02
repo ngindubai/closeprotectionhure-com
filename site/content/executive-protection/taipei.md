@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Taipei for a CPO with vehicle and operations controller support range from approximately TWD 15,000 to TWD 32,000 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Taipei presents an executive protection environment defined by very low crime (Taiwan NPA Crime Statistics 2024) and a regulatory framework under Private Security Services Industry Act 2009, NPA/MOI. For senior executives and HNWI principals operating across Xinyi District corporate and luxury retail hub, Da'an residential, and Zhongzheng government district, a structured EP programme reduces the exposure that uncoordinated travel creates. The Taiwan NPA Crime Statistics 2024 and current advisory (FCDO normal precautions Taiwan 2026 with cross-strait note; US State Dept Level 1) are the evidential baseline for every pre-travel assessment.
+Executive protection in Taipei is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against cross-strait strategic-context awareness and nightlife-zone exposure: advance work on venues and routes, a written risk assessment, an operations controller, and NPA-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Taipei
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Taipei must be licensed under Private 
 Taipei's position in semiconductor manufacturing, technology, financial services, and government-adjacent organisations operating in the Taiwan market creates a specific EP operating context: principals in these sectors face both the ambient threat picture identified in the Taiwan NPA Crime Statistics 2024 and sector-specific risks, including competitive intelligence activity and, for some industries, targeted crime against high-value corporate visitors. The pre-travel assessment addresses both layers.
 
 For related security services in Taipei, see our [Taipei city page](/cities/taipei/), [security drivers in Taipei](/security-drivers/taipei/), and [bodyguard hire in Taipei](/bodyguard-hire/taipei/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Taipei](/bodyguard-hire/taipei/). For the operators who staff the programme and how they are vetted, see [close protection officers in Taipei](/close-protection-officers/taipei/).

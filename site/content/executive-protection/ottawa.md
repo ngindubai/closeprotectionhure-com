@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Ottawa for a CPO with vehicle and operations controller support range from approximately CAD 800-1,460 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Ottawa presents an executive protection environment defined by a low risk profile and a regulatory framework under Private Security and Investigative Services Act 2005 (PSISA), Ministry of the Solicitor General (Ontario). For senior executives and HNWI principals operating across Downtown Ottawa (Rideau Street, Sparks Street Mall, Elgin Street), Glebe, and Westboro, a structured EP programme reduces the exposure that uncoordinated travel creates. FCDO advises normal precautions for Canada (2026); FCDO specifically advises awareness of extreme winter weather and recommends travel insurance covering medical evacuation. US State Department Level 1 (Exercise Normal Precautions) for Canada as of 2026.
+Executive protection in Ottawa is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against protest activity near Parliament Hill and extreme winter operational risk: advance work on venues and routes, a written risk assessment, an operations controller, and PSISA-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 ## Licensing and due diligence in Ottawa
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Ottawa must be licensed under Private 
 Ottawa's position in government, public sector consulting, technology, and defence creates a specific EP operating context: principals in these sectors face both the ambient threat picture and sector-specific risks identified in the pre-travel assessment. The threat picture (low. Ottawa Police Service Crime Statistics 2024 record low overall crime in Downtown Ottawa, Glebe, and Westboro; Parliament Hill protest activity and severe winter conditions are the primary operational considerations.) informs route planning, advance work, and situational-awareness protocols for every engagement.
 
 For related security services in Ottawa, see our [Ottawa city page](/cities/ottawa/), [security drivers in Ottawa](/security-drivers/ottawa/), and [bodyguard hire in Ottawa](/bodyguard-hire/ottawa/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Ottawa](/bodyguard-hire/ottawa/). For the operators who staff the programme and how they are vetted, see [close protection officers in Ottawa](/close-protection-officers/ottawa/).

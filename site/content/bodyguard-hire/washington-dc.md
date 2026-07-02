@@ -35,7 +35,7 @@ faqs:
     answer: "A DC MPD-registered close protection officer in Washington DC typically ranges from USD 400 to USD 800 per day for a single officer, depending on qualifications, former law enforcement or US military background, and the specific operational scope. The DC CPO market includes a high proportion of former USSS agents, FBI personnel, and US military special operations veterans, who represent the premium segment of the market for senior diplomatic and corporate principal assignments. Multi-day engagements are structured on a weekly retainer basis."
 ---
 
-Washington DC close protection is defined by the federal law enforcement environment of the US capital, a diplomatic and government contractor principal community with specific threat profiles, and a political protest environment that requires active monitoring during politically active periods. The DC CPO market is deep with former federal law enforcement personnel, providing strong capability for diplomatic and government-adjacent principal protection.
+Hiring a bodyguard in Washington DC is usually tied to a specific visit, where the political threat environment and foreign intelligence activity shape the plan more than routine street crime. This page covers how close protection hire works in the District, what an MPD-licensed officer does across a day of movements, and how quickly cover is arranged. DC has some of the strictest firearms laws in the US, so hire is typically unarmed, pairing a licensed officer with secure transport, scaled to the itinerary.
 
 ## The DC regulatory framework
 
@@ -46,3 +46,5 @@ DC MPD Security Officers Management Branch registration under the Security Offic
 DC CPO engagements cover K Street and lobbying corridor corporate work, Capitol Hill diplomatic and governmental visits, Reagan National Airport transfer operations, and political protest monitoring during demonstration periods. Federal security protocol awareness (USSS movements, Capitol Police jurisdiction, federal building access) is a standard operational component.
 
 For the Washington DC city security overview, see our [Washington DC city page](/cities/washington-dc/) and [United States country security page](/countries/united-states/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Washington DC](/executive-protection/washington-dc/). To check the credentials and vetting behind the officers, see [close protection officers in Washington DC](/close-protection-officers/washington-dc/).

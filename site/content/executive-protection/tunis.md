@@ -33,6 +33,8 @@ faqs:
     answer: "The Medina's narrow streets are not vehicle-accessible. EP operations for Medina visits use close CPO foot escort, perimeter vehicle positioning with pre-confirmed collection points, and a specific crowd-management protocol for the Medina's high tourist density zones. The petty crime and soft-target historical exposure in the Medina make close escort the required approach rather than vehicle-based coverage."
 ---
 
-Tunis executive protection is calibrated to North Africa's most commercially active Mediterranean capital: Ministry-licensed operators, post-2015 terrorism venue advance work, Medina close escort protocol, and the political instability monitoring that Saied's consolidation makes a standing requirement.
+Executive protection in Tunis is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against terrorism awareness and political instability: advance work on venues and routes, a written threat assessment, an operations controller, and Ministry of Interior licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 For the full Tunis security picture, see our [Tunis city briefing](/cities/tunis/). For vetted secure transport alongside the EP team, [security drivers in Tunis](/security-drivers/tunis/) covers the Tunisia driver programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Tunis](/bodyguard-hire/tunis/). For the operators who staff the programme and how they are vetted, see [close protection officers in Tunis](/close-protection-officers/tunis/).

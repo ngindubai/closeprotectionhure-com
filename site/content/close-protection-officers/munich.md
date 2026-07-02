@@ -35,7 +35,7 @@ faqs:
     answer: "The CPO positions inside Munich Airport Franz Josef Strauss (MUC) arrivals before the principal clears baggage claim. A pre-departure vehicle check is conducted. The MUC-to-city transfer takes 40 to 45 minutes (approximately 28km). Transfer times increase during Oktoberfest. For principals with elevated threat profiles, counter-surveillance protocol is applied from the arrivals hall through the transfer to the principal's hotel."
 ---
 
-Close protection officer deployment in Munich is governed by Germany's Trade Regulation Act (Gewerbeordnung) Section 34a framework, with Bavarian oversight by BLKA (Bayerisches Landeskriminalamt). Our Munich CPO teams cover Munich Airport Franz Josef Strauss (MUC) arrivals and departures, Maxvorstadt and Schwabing corporate meetings, and Bogenhausen private-residence engagements. BfV classifies the abstract terrorism threat in Germany as high, informing all Munich pre-deployment briefings.
+This page is about the people who provide close protection in Munich: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Munich network is registered under the BewachV and Section 34a of the Gewerbeordnung, and is assessed for local competence. It covers standard team configuration, the specific police authorisation required for the rare armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Germany regulatory context
 
@@ -44,3 +44,5 @@ All Munich CPO operators hold current Germany credentials under Gewerbeordnung S
 ## Complementary Munich services
 
 For the full Munich security picture, see the [Munich city briefing](/cities/munich/) and [secure airport transfers in Munich](/secure-airport-transfers/munich/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Munich](/bodyguard-hire/munich/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Munich](/executive-protection/munich/).

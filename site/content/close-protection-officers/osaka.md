@@ -35,7 +35,7 @@ faqs:
     answer: "CPO day rates in Osaka range from approximately JPY 70,000 to JPY 140,000 per day, as at June 2026, depending on individual experience, licensing level, and engagement type. Multi-day corporate programme rates apply a reduced daily rate for three or more consecutive days. Vehicle and operations controller costs are typically quoted separately; a combined EP package rate is available on request."
 ---
 
-Close protection officers operating in Osaka are licensed under Security Business Act (Act No.117 of 1972), Osaka Prefectural Police approval, with the Osaka Prefectural Police maintaining the registration register. For corporate executives, HNWI principals, and event organisers requiring vetted CPOs in Osaka, the licensing framework is the starting point for due diligence. The NPA Crime Statistics 2024/2025 (very low crime (NPA Crime Statistics 2024/2025)) informs the threat assessment that precedes every CPO deployment.
+This page is about the people who provide close protection in Osaka: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Osaka network is licensed under the Security Business Act, overseen by the NPSC and Osaka Prefectural Police, and is assessed for local competence. It covers standard team configuration, the fully unarmed model Japanese law requires, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Licensing and due diligence
 
@@ -46,3 +46,5 @@ Confirming the individual CPO's personal licence and the operating company's reg
 CPO deployments in Osaka cover Umeda/Kita CBD, Nakanoshima international hotel corridor, and Namba commercial district and the principal movement corridors across the Hanshin Expressway, the Kintetsu Osaka Line, and the Nankai Airport Express from KIX. Venue advance work, operations controller integration, and transport coordination with a vetted security driver are the components that distinguish a professional CPO engagement from a standalone hired presence.
 
 For related security services in Osaka, see our [Osaka city page](/cities/osaka/), [bodyguard hire in Osaka](/bodyguard-hire/osaka/), and [executive protection in Osaka](/executive-protection/osaka/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Osaka](/bodyguard-hire/osaka/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Osaka](/executive-protection/osaka/).

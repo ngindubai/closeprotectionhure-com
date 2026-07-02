@@ -35,7 +35,7 @@ faqs:
     answer: "CPO day rates in Taipei range from approximately TWD 12,000 to TWD 26,000 per day, as at June 2026, depending on individual experience, licensing level, and engagement type. Multi-day corporate programme rates apply a reduced daily rate for three or more consecutive days. Vehicle and operations controller costs are typically quoted separately; a combined EP package rate is available on request."
 ---
 
-Close protection officers operating in Taipei are licensed under Private Security Services Industry Act 2009, National Police Agency (NPA), Ministry of the Interior (MOI), with the National Police Agency (NPA), Ministry of the Interior maintaining the registration register. For corporate executives, HNWI principals, and event organisers requiring vetted CPOs in Taipei, the licensing framework is the starting point for due diligence. The Taiwan NPA Crime Statistics 2024 (very low crime (Taiwan NPA Crime Statistics 2024)) informs the threat assessment that precedes every CPO deployment.
+This page is about the people who provide close protection in Taipei: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Taipei network holds NPA licensing under the Private Security Services Industry Act, and is assessed for local competence. It covers standard team configuration, the fully unarmed model Taiwanese law requires, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Licensing and due diligence
 
@@ -46,3 +46,5 @@ Confirming the individual CPO's personal licence and the operating company's reg
 CPO deployments in Taipei cover Xinyi District corporate and luxury retail hub, Da'an residential, and Zhongzheng government district and the principal movement corridors across the National Freeway No.1 and No.2 corridors and the Taoyuan MRT Airport Line. Venue advance work, operations controller integration, and transport coordination with a vetted security driver are the components that distinguish a professional CPO engagement from a standalone hired presence.
 
 For related security services in Taipei, see our [Taipei city page](/cities/taipei/), [bodyguard hire in Taipei](/bodyguard-hire/taipei/), and [executive protection in Taipei](/executive-protection/taipei/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Taipei](/bodyguard-hire/taipei/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Taipei](/executive-protection/taipei/).

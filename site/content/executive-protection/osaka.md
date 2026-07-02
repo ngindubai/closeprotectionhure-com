@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Osaka for a CPO with vehicle and operations controller support range from approximately JPY 80,000 to JPY 160,000 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Osaka presents an executive protection environment defined by very low crime (NPA Crime Statistics 2024/2025) and a regulatory framework under Security Business Act No.117 of 1972, Osaka Prefectural Police. For senior executives and HNWI principals operating across Umeda/Kita CBD, Nakanoshima international hotel corridor, and Namba commercial district, a structured EP programme reduces the exposure that uncoordinated travel creates. The NPA Crime Statistics 2024/2025 and current advisory (FCDO normal precautions Japan 2026 with earthquake awareness; US State Dept Level 1) are the evidential baseline for every pre-travel assessment.
+Executive protection in Osaka is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against tourist-district petty theft and natural-disaster contingencies: advance work on venues and routes, a written risk assessment, an operations controller, and Osaka Prefectural Police licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 ## Licensing and due diligence in Osaka
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Osaka must be licensed under Security 
 Osaka's position in Panasonic, Sharp, Suntory, and a concentration of manufacturing and trading company headquarters creates a specific EP operating context: principals in these sectors face both the ambient threat picture identified in the NPA Crime Statistics 2024/2025 and sector-specific risks, including competitive intelligence activity and, for some industries, targeted crime against high-value corporate visitors. The pre-travel assessment addresses both layers.
 
 For related security services in Osaka, see our [Osaka city page](/cities/osaka/), [security drivers in Osaka](/security-drivers/osaka/), and [bodyguard hire in Osaka](/bodyguard-hire/osaka/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Osaka](/bodyguard-hire/osaka/). For the operators who staff the programme and how they are vetted, see [close protection officers in Osaka](/close-protection-officers/osaka/).

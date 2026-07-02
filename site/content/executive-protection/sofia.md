@@ -35,8 +35,10 @@ faqs:
     answer: "Post-deployment review after each Sofia visit provides: a record of security incidents or near-misses, performance assessment of suppliers and venues, route assessment for future visits, and recommended adjustments to the protective posture. This creates a continuously improving security baseline for organisations with recurring Sofia travel requirements and provides corporate governance documentation for duty-of-care audits."
 ---
 
-Executive protection in Sofia is structured around the medium risk rating for Bulgaria and the specific operational requirements of Sofia's principal movement corridors, venues, and emergency response infrastructure. Exercise a high degree of caution in bulgaria (2026); US State Dept Level 2 (Exercise Increased Caution) for Bulgaria (2026).
+Executive protection in Sofia is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against organised crime and corruption-related integrity risk: advance work on venues and routes, a written threat assessment, an operations controller, and Ministry of Interior licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 A professional EP deployment begins with advance work -- threat assessment, hotel and venue surveys, route pre-surveys, and medevac pre-arrangement to Vienna or Athens -- completed before the principal arrives at Sofia Airport (SOF). The protective posture during the visit covers vetted transport for all movements, dedicated close protection for higher-risk engagements, residential or hotel security, and a documented emergency response plan. Post-deployment review produces a continuously improving security baseline.
 
 For regional EP context, see our [Bodyguard Hire Tirana](/bodyguard-hire/tirana/) and our [Sofia city security briefing](/cities/sofia/). For transport security, see our [security drivers in Sofia](/security-drivers/sofia/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Sofia](/bodyguard-hire/sofia/). For the operators who staff the programme and how they are vetted, see [close protection officers in Sofia](/close-protection-officers/sofia/).

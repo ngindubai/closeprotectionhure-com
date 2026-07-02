@@ -33,8 +33,10 @@ faqs:
     answer: "Les Berges du Lac is the appropriate operating base for most corporate visits: modern infrastructure, international hotel properties, lower crime risk, and manageable terrorism awareness. The Medina presents a significantly different profile: high tourist density, elevated petty crime, complex narrow street layout, and historical soft-target exposure. Any itinerary element in the Medina is managed with close escort protocol."
 ---
 
-Tunis bodyguard hire is calibrated to North Africa's most commercially active Mediterranean capital: the post-2015 terrorism awareness that shapes venue selection and advance work, the Les Berges du Lac business district as the appropriate corporate operating base, and the political instability monitoring that Tunisia's presidential consolidation makes a standing requirement.
+Hiring a bodyguard in Tunis is usually tied to a specific visit, where terrorism awareness and political instability shape the plan more than routine crime. This page covers how close protection hire works in Tunisia, what a Ministry of Interior licensed officer does across a day of movements, and how quickly cover is arranged. Armed cover requires specific authorisation, tightened since the 2011-2015 security crisis, so hire pairs a licensed officer with secure transport, scaled to the itinerary.
 
 Ministry of Interior-licensed operators with Tunisia experience deliver the CPO programme in both the modern business district and the Medina environments.
 
 For the full Tunis security picture, see our [Tunis city briefing](/cities/tunis/). For the broader North Africa network, [bodyguard hire in Cairo](/bodyguard-hire/cairo/) covers the Egypt CPO programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Tunis](/executive-protection/tunis/). To check the credentials and vetting behind the officers, see [close protection officers in Tunis](/close-protection-officers/tunis/).

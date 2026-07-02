@@ -35,7 +35,7 @@ faqs:
     answer: "Foreign security operators must hold an Ontario PSISA licence for commercial work in Ottawa. US operators working across the border require full Canadian licensing compliance before commencing operations. Clients should confirm the operating structure and licensing status of any proposed CPO arrangement before travel, particularly for cross-border itineraries."
 ---
 
-Ottawa is a low-risk environment for close protection operations, drawing on Ottawa Police Service Crime Statistics 2024 and FCDO advises normal precautions for Canada (2026); FCDO specifically advises awareness of extreme winter weather and recommends travel insurance covering medical evacuation. US State Department Level 1 (Exercise Normal Precautions) for Canada as of 2026. For HNWI principals and senior executives operating across Downtown Ottawa (Rideau Street, Sparks Street Mall, Elgin Street), Glebe, and Westboro, licensed CPO cover provides a materially different standard of personal protection from uncoordinated or unlicensed alternatives.
+This page is about the people who provide close protection in Ottawa: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Ottawa network holds a current PSISA licence under Ontario's Ministry of the Solicitor General, and is assessed for local competence. It covers standard team configuration, the not-standard basis for armed cover, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Canada licensing framework
 
@@ -50,3 +50,5 @@ A Ottawa CPO detail typically begins with pre-advance work at the principal's ac
 The operations controller function maintains a real-time timeline and holds emergency contact protocols for The Ottawa Hospital (613-722-7000), Montfort Hospital (613-746-4621), and local emergency services (911).
 
 For complementary services, see our [Ottawa city page](/cities/ottawa/) and [bodyguard hire in Ottawa](/bodyguard-hire/ottawa/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Ottawa](/bodyguard-hire/ottawa/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Ottawa](/executive-protection/ottawa/).

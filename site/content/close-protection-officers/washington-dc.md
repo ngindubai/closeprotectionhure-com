@@ -37,7 +37,7 @@ faqs:
     answer: "Washington DC has some of the most restrictive firearms regulations in the United States. Carrying a handgun in DC requires a Concealed Carry Pistol (CCP) licence issued by the Metropolitan Police Department under the District of Columbia Code. Eligibility criteria are stringent, and CCP licences for private security personnel are not routinely issued. In practice, the majority of commercial CPO engagements in Washington DC operate on an unarmed basis. Principals requiring armed protection in the capital should discuss this specifically during the engagement briefing, as it requires separate licensing compliance and is subject to the DC regulatory framework."
 ---
 
-Washington DC close protection operates in a regulatory environment that is more complex than most US cities: three overlapping jurisdictions (the District, Virginia, and Maryland) each with their own licensing requirements, a politically sensitive operational context shaped by the federal government presence, and a crime profile that diverges sharply between the downtown federal core and the city's eastern wards. The US OSAC Washington DC Crime and Safety Report (2024) and MPD annual crime statistics (2023) provide the current baseline for threat assessment, with carjacking and vehicle crime the primary relevant risks for corporate principals operating in the capital.
+This page is about the people who provide close protection in Washington DC: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our DC network is licensed through the MPD's Security Officers Management Branch and complies with DC and federal firearms law, and is assessed for local competence. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 ## Tri-jurisdictional licensing compliance
 
@@ -46,3 +46,5 @@ A Washington DC CPO programme that spans the District, Northern Virginia, and th
 ## Operational priorities in the capital
 
 Washington DC CPO deployments prioritise route planning around demonstration and event activity, Federal facility protocol compliance, and vehicle security in the context of the city's documented carjacking risk. For the wider city context, see our [Washington DC city security overview](/cities/washington-dc/) and [bodyguard hire in Washington DC](/bodyguard-hire/washington-dc/) for engagement structure and service options.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Washington DC](/bodyguard-hire/washington-dc/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Washington DC](/executive-protection/washington-dc/).

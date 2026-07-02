@@ -35,7 +35,7 @@ faqs:
     answer: "A foreign close protection officer may accompany a principal into Seattle as part of an international protective detail but cannot engage in commercial close protection for hire in Washington State without a current WA DOL licence under RCW 18.170. For any detail where close protection services are provided commercially in Washington, the operating company and its CPOs must hold appropriate DOL licensing."
 ---
 
-Seattle is a major Pacific Northwest technology and commerce hub, home to significant concentrations of technology firms in South Lake Union, financial services in Downtown, and port and logistics operations along the waterfront. The city's well-documented property crime environment, combined with occasional civil disruption and drug-related street disorder in the Third Avenue and Belltown corridors, makes close protection a considered operational requirement for senior executives and high-profile visitors to the region.
+This page is about the people who provide close protection in Seattle: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Seattle network holds a current Washington DOL Security Guard Licence with an armed endorsement where armed, and is assessed for local competence. It covers standard team configuration, RCW-compliant licensing, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Washington DOL licensing framework
 
@@ -54,3 +54,5 @@ Multi-venue days involving technology campuses in South Lake Union, conference f
 The operational threat picture for Seattle CPO work draws on the Seattle Police Department (SPD) Crime Report 2024, which documents property crime concentrations and disorder patterns by district. Licensing requirements are current under RCW 18.170 as at June 2026. Armed carry provisions follow RCW 9.41 Concealed Pistol Licence conditions. Rates cited are indicative for the Seattle market as at June 2026 and should be confirmed at time of enquiry.
 
 For complementary services, see our [Seattle city page](/cities/seattle/) and [bodyguard hire in Seattle](/bodyguard-hire/seattle/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Seattle](/bodyguard-hire/seattle/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Seattle](/executive-protection/seattle/).
