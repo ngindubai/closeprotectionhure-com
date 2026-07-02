@@ -35,7 +35,7 @@ faqs:
     answer: "Foreign-national CPOs may accompany principals as part of a bespoke detail but cannot conduct commercial security work in South Korea without NPA registration through a Korean-registered security company. Clients should confirm the operating structure and licensing status of any proposed CPO arrangement before travel, particularly for cross-border itineraries."
 ---
 
-Seoul is a low-risk environment for close protection operations, drawing on NPA Crime Statistics 2024 and FCDO advises normal precautions for South Korea (2026); FCDO notes North Korea geopolitical context. US State Department Level 1 (Exercise Normal Precautions) for South Korea as of 2026. For HNWI principals and senior executives operating across Gangnam, Yeouido, and Jongno, licensed CPO cover provides a materially different standard of personal protection from uncoordinated or unlicensed alternatives.
+This page is about the people who provide close protection in Seoul: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Seoul network is registered with the National Police Agency under the Guard Services Act, and is assessed for South Korea-specific competence. It covers standard team configuration, the unarmed model Korean law requires, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The South Korea licensing framework
 
@@ -50,3 +50,5 @@ A Seoul CPO detail typically begins with pre-advance work at the principal's acc
 The operations controller function maintains a real-time timeline and holds emergency contact protocols for Severance Hospital (02-2228-5800), Samsung Medical Center (02-3410-2114), and local emergency services (112).
 
 For complementary services, see our [Seoul city page](/cities/seoul/) and [bodyguard hire in Seoul](/bodyguard-hire/seoul/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Seoul](/bodyguard-hire/seoul/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Seoul](/executive-protection/seoul/).

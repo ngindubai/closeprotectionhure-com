@@ -37,7 +37,7 @@ faqs:
     answer: "Bodyguard hire provides a close protection officer. Executive protection provides a programme: pre-deployment threat assessment, integrated close protection and ground transport under a single command, SCL arrival sequence, civil unrest contingency planning, advance work at venues, and 24-hour operations controller availability. The programme is appropriate when the principal's profile, itinerary or sector creates exposure that individual close protection alone does not fully address."
 ---
 
-Santiago is South America's most stable major capital for the well-prepared executive, but that stability does not eliminate the specific, FCDO-documented threat patterns that shape executive protection planning in the city. Vehicle targeting, the SCL airport taxi scam, civil unrest on predictable dates and the carjacking risk on affluent highways are concrete operational factors that a structured executive protection programme directly addresses.
+Executive protection in Santiago is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against civil unrest and vehicle-targeting risk: advance work on venues and routes, a written threat assessment, an operations controller, and RNGDS-registered secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Programme foundations
 
@@ -52,3 +52,5 @@ Arturo Merino Benitez Airport (SCL) is where executive protection programmes beg
 Santiago is the headquarters city for Chile's copper mining industry, and mining executives represent a significant portion of executive protection clients in the city. Programmes for mining principals typically cover the Las Condes and Vitacura corporate corridor, regulatory agency visits, ministry meetings and, where the threat assessment supports it, armed close protection. Chile's RNGDS framework makes armed capability available through properly authorised operators, which distinguishes Santiago from several other South American capitals where the legal framework is less clear.
 
 For individual service components, see [bodyguard hire in Santiago](/bodyguard-hire/santiago/) and [security drivers in Santiago](/security-drivers/santiago/). For the full country context, see the [Santiago security overview](/cities/santiago/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Santiago](/bodyguard-hire/santiago/). For the operators who staff the programme and how they are vetted, see [close protection officers in Santiago](/close-protection-officers/santiago/).

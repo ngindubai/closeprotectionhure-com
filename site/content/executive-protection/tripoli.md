@@ -43,7 +43,7 @@ faqs:
     answer: "EP programmes for oil sector principals engaged in GNU energy ministry negotiations include a political risk briefing covering the GNU-LNA revenue dispute and its implications, communications security protocols for sensitive discussions, and a contact protocol for the client organisation's own government relations function. The EP programme manages physical security; political risk management is a parallel track run by the client's own team."
 ---
 
-Executive protection in Tripoli is built for one of the world's most challenging capital city environments, where armed militia factions contest territorial control within the city, Mitiga Airport operates adjacent to an active military compound, and the oil sector principals who drive most international visits face both physical security threats and the political complexities of Libya's divided governance. All programmes operate with B6-armoured vehicles, armed CPOs, and a medevac plan to Malta or Tunis as the operational baseline.
+Executive protection in Tripoli is a programme built for a militia-governed operating environment, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing documented kidnapping risk and a fragmented security authority: advance work on venues and routes, a written threat assessment, an operations controller, and GNU-authorised secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a visit, where the need is layered, documented risk management.
 
 ## The Tripoli security environment
 
@@ -60,3 +60,5 @@ An EP programme in Tripoli covers the full principal movement cycle in a militia
 The medevac plan, with Malta at approximately 1 hour and Tunis at approximately 1 hour 30 minutes as the dual evacuation options, is established before the principal arrives. A trauma-qualified CPO is standard for all Tripoli deployments.
 
 For the full Tripoli security picture, see our [Tripoli city briefing](/cities/tripoli/). For vetted armoured transport alongside the EP team, [security drivers in Tripoli](/security-drivers/tripoli/) covers the Libya driver programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Tripoli](/bodyguard-hire/tripoli/). For the operators who staff the programme and how they are vetted, see [close protection officers in Tripoli](/close-protection-officers/tripoli/).

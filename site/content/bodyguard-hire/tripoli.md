@@ -33,7 +33,7 @@ faqs:
     answer: "There is no unified Libya CPO licensing authority equivalent to PSIRA or SUCAMEC. GNU Ministry of Interior licensing exists in principle but operational verification is through militia relationships, direct operator assessment, and reference checks with verifiable previous international clients. Operators are assessed on actual capability rather than regulatory credentials; the reference check is the primary verification tool for Tripoli CPO selection."
 ---
 
-Tripoli bodyguard hire operates within Libya's militia-governed environment: the absence of a single state security authority, competing armed groups with their own enforcement interests, a documented kidnapping risk for foreign nationals, and a Mitiga International Airport approach that requires specialist operational management.
+Hiring a bodyguard in Tripoli means operating within Libya's militia-governed environment rather than a conventional state security framework. This page covers how close protection hire actually works here, what a GNU-authorised operator with established militia relationships provides across a day of movements, and how quickly cover is arranged. Kidnapping risk is documented for foreign nationals, so hire pairs a locally connected officer with specialist airport and route management, scaled to the visit.
 
 ## The Tripoli security environment
 
@@ -44,3 +44,5 @@ Tripoli is governed in practice by competing militia groups rather than a unifie
 Tripoli CPO operations require specialist Libya operators with current militia landscape knowledge and established relationships with the Rada SDF, which controls Mitiga airport and significant parts of the capital. Armed protection is standard for Tripoli assignments given the militia-governed environment and kidnapping risk.
 
 For the full Tripoli security picture, see our [Tripoli city briefing](/cities/tripoli/). For principals requiring vetted transport, [security drivers in Tripoli](/security-drivers/tripoli/) covers the specialist Libya driver programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Tripoli](/executive-protection/tripoli/). To check the credentials and vetting behind the officers, see [close protection officers in Tripoli](/close-protection-officers/tripoli/).

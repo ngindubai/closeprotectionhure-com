@@ -33,6 +33,8 @@ faqs:
     answer: "Pre-deployment planning includes confirmed routes from the principal's accommodation to the airport, identification of shelter-in-place options if airport access is disrupted, and a communications tree for emergency deployment. Medical planning: International SOS network in Luanda for acute cases; evacuation to Johannesburg or Cape Town for serious cases. Medical evacuation insurance with South Africa coverage is a pre-deployment requirement."
 ---
 
-Luanda executive protection is calibrated to Angola's oil sector capital: Ministry-licensed operators with Angola experience, armed escort as the standard team configuration, principal risk profiling for the energy sector visit category, and counter-surveillance discipline for the Talatona and Miramar operating zones.
+Executive protection in Luanda is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing armed robbery, kidnapping, and infrastructure failure: advance work on venues and routes, a written threat assessment, an operations controller, and armed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 For the full Luanda security picture, see our [Luanda city briefing](/cities/luanda/). For vetted secure transport alongside the EP team, [security drivers in Luanda](/security-drivers/luanda/) covers the Angola driver programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Luanda](/bodyguard-hire/luanda/). For the operators who staff the programme and how they are vetted, see [close protection officers in Luanda](/close-protection-officers/luanda/).

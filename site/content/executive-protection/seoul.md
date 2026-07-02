@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Seoul for a CPO with vehicle and operations controller support range from approximately KRW 750,000-1,400,000 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Seoul presents an executive protection environment defined by a low risk profile and a regulatory framework under Guard Services Act (NPA registration), National Police Agency of Korea. For senior executives and HNWI principals operating across Gangnam, Yeouido, and Jongno, a structured EP programme reduces the exposure that uncoordinated travel creates. FCDO advises normal precautions for South Korea (2026); FCDO notes North Korea geopolitical context. US State Department Level 1 (Exercise Normal Precautions) for South Korea as of 2026.
+Executive protection in Seoul is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive's discretion amid the peninsula's geopolitical context: advance work on venues and routes, a written risk assessment, an operations controller, and discreet unarmed cover integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Seoul
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Seoul must be licensed under Guard Ser
 Seoul's position in finance, technology, and manufacturing creates a specific EP operating context: principals in these sectors face both the ambient threat picture and sector-specific risks identified in the pre-travel assessment. The threat picture (low. NPA Crime Statistics 2024 record low violent crime citywide, with well-policed corporate zones in Gangnam, Yeouido, and Jongno.) informs route planning, advance work, and situational-awareness protocols for every engagement.
 
 For related security services in Seoul, see our [Seoul city page](/cities/seoul/), [security drivers in Seoul](/security-drivers/seoul/), and [bodyguard hire in Seoul](/bodyguard-hire/seoul/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Seoul](/bodyguard-hire/seoul/). For the operators who staff the programme and how they are vetted, see [close protection officers in Seoul](/close-protection-officers/seoul/).

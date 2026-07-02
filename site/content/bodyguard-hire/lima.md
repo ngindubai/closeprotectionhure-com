@@ -33,8 +33,10 @@ faqs:
     answer: "Callao is adjacent to the airport and is excluded from all principal itineraries. Airport transfers from Jorge Chavez use routes that transit through or past Callao, and the transfer vehicle management is specifically designed to minimise exposure in this area. The transfer from the airport zone to Miraflores or San Isidro is a specific operational element of every Lima CPO brief."
 ---
 
-Lima bodyguard hire addresses South America's most operationally demanding corporate security environment: a documented fake-taxi kidnapping threat at Jorge Chavez International Airport, armed robbery in Miraflores and Barranco, civil unrest that periodically blocks the airport access route, and a mining sector that generates significant HNWI and executive visitor demand for professional close protection.
+Hiring a bodyguard in Lima is usually tied to a specific visit, where express kidnapping via fake taxis and armed robbery in business districts make secure transport essential. This page covers how close protection hire works in Peru, what a SUCAMEC-registered officer does across a day of movements, and how quickly cover is arranged. Armed cover is available through registered operators, so hire pairs a certified officer with a vetted driver, scaled to the itinerary rather than a fixed contract.
 
 SUCAMEC-licensed operators with direct Lima experience deliver close protection calibrated to these specific threats, including the airport arrival protocol that FCDO guidance specifically requires.
 
 For the full Lima security picture, see our [Lima city briefing](/cities/lima/). For the broader Latin America network, [bodyguard hire in Bogota](/bodyguard-hire/bogota/) covers the Colombia CPO programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Lima](/executive-protection/lima/). To check the credentials and vetting behind the officers, see [close protection officers in Lima](/close-protection-officers/lima/).

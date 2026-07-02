@@ -33,6 +33,8 @@ faqs:
     answer: "Political monitoring through the assignment identifies elevated blockade risk before departure day. A pre-confirmed alternate route to Jorge Chavez Airport from Miraflores is prepared before every departure. A pre-identified shelter option near the airport provides a hold position if the blockade closes the primary route. Increased airport departure lead time absorbs delay scenarios during high-tension periods. Source: FCDO Peru travel advisory, 2026."
 ---
 
-Lima executive protection is calibrated to Peru's corporate capital: SUCAMEC-licensed operators, express kidnapping principal risk profiling, the non-negotiable Jorge Chavez Airport arrival protocol, and civil unrest contingency planning for the airport corridor.
+Executive protection in Lima is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing express kidnapping and armed robbery in business districts: advance work on venues and routes, a written threat assessment, an operations controller, and SUCAMEC-registered secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 For the full Lima security picture, see our [Lima city briefing](/cities/lima/). For vetted secure transport alongside the EP team, [security drivers in Lima](/security-drivers/lima/) covers the Peru driver programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Lima](/bodyguard-hire/lima/). For the operators who staff the programme and how they are vetted, see [close protection officers in Lima](/close-protection-officers/lima/).

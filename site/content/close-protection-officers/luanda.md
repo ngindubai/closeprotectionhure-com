@@ -33,7 +33,7 @@ faqs:
     answer: "All CPOs from our Angolan Ministry of Interior-licensed partner network are Portuguese-speaking and operate with local ground knowledge of Luanda's zones, police checkpoint protocols, and the oil sector accommodation and venue landscape. For principal visits that also require English-speaking liaison, bilingual CPOs are available through the same network."
 ---
 
-Luanda close protection operations are calibrated to Angola's oil sector CPO standard: Ministry of Interior-licensed operators, airport corridor management for 4 de Fevereiro's documented arrival risk, carjacking counter-protocols for all Luanda movements, and an operations controller framework with medevac-ready emergency planning.
+This page is about the people who provide close protection in Luanda: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Luanda network holds Ministry of Interior licensing under Angola's Law on Weapons and Explosive Substances, passes government vetting, and is assessed for local competence. It covers standard team configuration, armed cover for higher-risk corporate work, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Luanda
 
@@ -42,3 +42,5 @@ Luanda is sub-Saharan Africa's highest-cost city for international business visi
 Ministry of Interior-licensed Angolan partner operators deliver the CPO programme with current Luanda ground knowledge and the sector-specific experience that Angola's international visitor base requires.
 
 For the full Luanda security picture, see our [Luanda city briefing](/cities/luanda/). For principals requiring residential security alongside CPO cover, [residential security in Luanda](/residential-security/luanda/) covers the compound security programme.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Luanda](/bodyguard-hire/luanda/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Luanda](/executive-protection/luanda/).

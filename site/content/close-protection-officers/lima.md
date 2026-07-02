@@ -33,7 +33,7 @@ faqs:
     answer: "Movement to Callao, La Victoria, El Agustino, San Juan de Lurigancho, and the airport approach road through Callao requires elevated CPO escort protocols beyond the standard Miraflores-San Isidro corporate zone baseline. These areas are addressed as specific operational segments with additional route planning and heightened awareness rather than as standard corporate movement."
 ---
 
-Lima close protection is calibrated to Peru's SUCAMEC regulatory framework and the city's documented urban crime environment: licensed operators managing Jorge Chavez Airport arrivals, express kidnapping counter-protocols for all transit, and zone-specific advance work for Miraflores and San Isidro corporate operations.
+This page is about the people who provide close protection in Lima: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Lima network is registered with SUCAMEC, a publicly verifiable status, passes documented background checks, and is assessed for local competence. It covers standard team configuration, armed cover through registered operators, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Lima
 
@@ -42,3 +42,5 @@ Lima's crime environment produces specific CPO protocols for the airport Callao 
 SUCAMEC-licensed operators from our Peru partner network deliver Lima CPO operations with current local knowledge and the sector-specific experience that Latin America's corporate security market requires.
 
 For the full Lima security picture, see our [Lima city briefing](/cities/lima/). For principals requiring residential security alongside CPO cover, [residential security in Lima](/residential-security/lima/) covers the SUCAMEC-licensed property programme.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Lima](/bodyguard-hire/lima/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Lima](/executive-protection/lima/).

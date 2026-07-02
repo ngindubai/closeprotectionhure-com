@@ -33,7 +33,7 @@ faqs:
     answer: "The operating company should provide its Direction de la Securite Publique (Ministry of Interior) licence number and a reference list from verifiable previous international clients, since Senegal does not maintain a publicly accessible online CPO licence registry equivalent to South Africa's PSIRA. Reference verification is the primary supplementary check alongside the Ministry licence."
 ---
 
-Dakar close protection operations are calibrated to Senegal's medium-risk profile: Ministry of Interior-licensed operators managing the Blaise Diagne Airport corridor, Sahel terrorism soft-target awareness for international venues, and political demonstration monitoring across the Plateau and Almadies zones.
+This page is about the people who provide close protection in Dakar: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Dakar network is authorised by the Ministry of Interior's Direction de la Securite Publique, passes documented background checks, and is assessed for Senegal-specific competence. It covers standard team configuration, the restriction on foreign nationals carrying weapons, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Dakar
 
@@ -42,3 +42,5 @@ Dakar is West Africa's most stable democratic capital but the 65-kilometre airpo
 Ministry of Interior-licensed operators deliver the Dakar CPO programme with current ground knowledge and regional Sahel threat intelligence from our West Africa partner network.
 
 For the full Dakar security picture, see our [Dakar city briefing](/cities/dakar/). For principals requiring residential security alongside CPO cover, [residential security in Dakar](/residential-security/dakar/) covers the Ministry-licensed property programme.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Dakar](/bodyguard-hire/dakar/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Dakar](/executive-protection/dakar/).

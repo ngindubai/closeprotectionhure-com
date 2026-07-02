@@ -35,6 +35,8 @@ faqs:
     answer: "Emergency numbers: 112 (police), 119 (ambulance). Primary facility: Severance Hospital (02-2228-5800). Secondary: Samsung Medical Center (02-3410-2114). Medical routing to the nearest appropriate hospital is pre-planned, and CPOs hold current first-aid certification. Pre-planned medical routing is included in the operation order before deployment."
 ---
 
-Seoul is a low-risk environment for close protection deployments, with very low violent crime recorded by the NPA; principal security planning focuses primarily on discreet movement across Gangnam, Yeouido, and Jongno, with contingency protocols for the broader geopolitical context. For corporate executives and HNWI principals operating in South Korea's commercial and financial districts, Guard Services Act-registered operators provide consistent, vetted protection at an appropriate level for the environment.
+Hiring a bodyguard in Seoul is typically about geopolitical context and executive discretion rather than street crime, which is low. This page covers how close protection hire works under Korea's Guard Services Act, what an NPA-registered officer does across a day of movements, and how quickly cover is arranged. Firearms are severely restricted, so hire is unarmed and built around planning and low-profile movement, scaled to the visit rather than a fixed contract.
 
 Detailed city context is available on the [Seoul city page](/cities/seoul/). For transport security, see [vetted security drivers in Seoul](/security-drivers/seoul/). For regional coverage, see [bodyguard hire in Tokyo](/bodyguard-hire/tokyo/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Seoul](/executive-protection/seoul/). To check the credentials and vetting behind the officers, see [close protection officers in Seoul](/close-protection-officers/seoul/).

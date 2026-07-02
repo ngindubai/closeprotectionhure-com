@@ -37,7 +37,7 @@ faqs:
     answer: "Yes. Multi-country Gulf itineraries are managed as a single programme, with operator coordination in each country arranged under the same command structure. Transitions between countries are planned as specific legs of the overall protection plan, with KWI departure and arrival protocols for each crossing confirmed in advance."
 ---
 
-Kuwait City is one of the Gulf's higher-risk environments for senior executives, not because of routine crime, but because of the specific threat actors that shape the regional picture. Iran-aligned militia groups including Kataib Hezbollah and PMF affiliates have conducted and planned attacks on US military installations including Camp Arifjan and Camp Buehring. Disrupted Islamist plots in 2020 and 2024 confirm that the threat is not historic. The US State Department maintains a Level 3 advisory and FCDO advises against all but essential travel. For oil sector executives, government contractor principals and senior corporate visitors, executive protection in Kuwait City is a programme response to a documented threat environment.
+Executive protection in Kuwait City is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing Iran-aligned militia and ISIS cell activity: advance work on venues and routes, a written threat assessment, an operations controller, and licensed armed or unarmed cover integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## What executive protection covers
 
@@ -50,3 +50,5 @@ Advance work is conducted before the principal arrives in-country. Hotels, meeti
 Kuwait's Ministry of Interior framework permits armed close protection, which is rare in the Gulf region. For principals assessed at elevated threat levels, particularly those operating in proximity to US military installations or in the oil and gas industrial corridor south of the city, armed operators are available through our MOI-licensed network. Armed deployment is governed by a documented threat assessment and confirmed MOI authorisation for the specific assignment.
 
 For individual close protection services alongside a driver, see our [bodyguard hire in Kuwait City](/bodyguard-hire/kuwait-city/) and [security drivers in Kuwait City](/security-drivers/kuwait-city/) pages. For the full threat profile and country context, see the [Kuwait City security overview](/cities/kuwait-city/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Kuwait City](/bodyguard-hire/kuwait-city/). For the operators who staff the programme and how they are vetted, see [close protection officers in Kuwait City](/close-protection-officers/kuwait-city/).

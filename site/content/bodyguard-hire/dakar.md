@@ -33,8 +33,10 @@ faqs:
     answer: "The Blaise Diagne Airport to Plateau transfer is a significant operational segment: 65 kilometres, 45 to 90 minutes, with an extended road section that requires specific night protocols for evening arrivals. Inside-terminal collection and a pre-positioned vetted vehicle are the minimum. For HNWI and senior executive principals, the CPO accompanies the transfer from the inside-terminal collection point."
 ---
 
-Dakar bodyguard hire operates within West Africa's most stable democratic capital, but the Sahel terrorism context, documented political unrest cycles, and the 65-kilometre Blaise Diagne Airport transfer corridor all require professional management that general business-travel precautions do not cover.
+Hiring a bodyguard in Dakar is usually tied to a specific visit, where terrorism awareness and periodic civil unrest shape the plan more than routine street crime. This page covers how close protection hire works in Senegal, what a Ministry of Interior authorised officer does across a day of movements, and how quickly cover is arranged. Foreign nationals cannot carry weapons, so armed cover is provided only through authorised Senegalese personnel, scaled to the itinerary rather than a fixed contract.
 
 Ministry of Interior-licensed Senegalese partner operators deliver the CPO programme with current Dakar operational knowledge and regional Sahel threat intelligence.
 
 For the full Dakar security picture, see our [Dakar city briefing](/cities/dakar/). For the broader West Africa security network, [bodyguard hire in Abuja](/bodyguard-hire/abuja/) covers the Nigeria CPO programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Dakar](/executive-protection/dakar/). To check the credentials and vetting behind the officers, see [close protection officers in Dakar](/close-protection-officers/dakar/).

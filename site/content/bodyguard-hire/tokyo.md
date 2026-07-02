@@ -35,7 +35,7 @@ faqs:
     answer: "A Security Business Law-registered Jintai Keigo CPO in Tokyo ranges from approximately JPY 80,000 to JPY 180,000 per day per officer as at June 2026 (approximately GBP 420 to GBP 950). Japanese CPO rates reflect the high cost of operating in Tokyo, the specific Jintai Keigo training requirements, and the premium market served. Longer engagements and multi-principal team configurations are structured on a retainer basis."
 ---
 
-Tokyo is one of the world's largest metropolitan areas and Japan's political, financial, and cultural centre. By virtually any international crime metric, it is among the safest major cities on earth for business visitors. CPO demand in Tokyo is therefore defined almost entirely by specific principal profiles and threat categories rather than ambient risk: visiting senior officials and their private security requirements, HNWI and UHNWI visitors for the art market and private banking, corporate executives in sectors with specific intelligence exposure, and international executives who maintain a home-market security standard when travelling.
+Hiring a bodyguard in Tokyo is typically about corporate espionage exposure and natural-disaster preparedness rather than street crime, which is low. This page covers how close protection hire works under Japan's Private Security Business Act, what a prefecturally registered officer does across a day of movements, and how quickly cover is arranged. Armed cover is effectively unavailable, so hire is unarmed and built around discretion and planning, scaled to the visit rather than a fixed contract.
 
 ## The Security Business Law framework
 
@@ -46,3 +46,5 @@ Japan's Security Business Law (Keibigyo Ho, 1972, as amended) governs all commer
 Tokyo CPO engagements are characterised by: ultra-low ambient crime requiring minimal physical threat counter-protocols; high cultural and language competency requirements for effective operation in the venue environment; specific protocol awareness for diplomatic and government-adjacent engagements; and the intelligence-environment considerations relevant to executives in Japan's most sensitive commercial sectors.
 
 For complementary services in Tokyo, see our [Tokyo city page](/cities/tokyo/) and [security drivers in Tokyo](/security-drivers/tokyo/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Tokyo](/executive-protection/tokyo/). To check the credentials and vetting behind the officers, see [close protection officers in Tokyo](/close-protection-officers/tokyo/).

@@ -33,6 +33,8 @@ faqs:
     answer: "Advance CPO work evaluates each meeting and dining venue against the established Sahel soft-target templates: government area approaches, hotels with Western executive concentration, public gatherings. Venues are assessed for physical security, egress options, and crowd density before confirmation. The FCDO elevated terrorism advisory for Senegal is the standing baseline context for this work. Source: FCDO Senegal travel advisory, 2026."
 ---
 
-Dakar executive protection is calibrated to West Africa's most commercially active Atlantic capital: Ministry-licensed operators with Senegal experience, principal risk profiling for development finance and energy sector visitors, Sahel terrorism awareness in venue selection, and 65km airport corridor management.
+Executive protection in Dakar is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against terrorism awareness and periodic civil unrest: advance work on venues and routes, a written threat assessment, an operations controller, and secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 For the full Dakar security picture, see our [Dakar city briefing](/cities/dakar/). For vetted secure transport alongside the EP team, [security drivers in Dakar](/security-drivers/dakar/) covers the Senegal driver programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Dakar](/bodyguard-hire/dakar/). For the operators who staff the programme and how they are vetted, see [close protection officers in Dakar](/close-protection-officers/dakar/).

@@ -33,8 +33,10 @@ faqs:
     answer: "Generator-equipped accommodation in Talatona, Miramar, or Alvalade is the baseline. International hotel properties and managed compounds in these districts maintain their own security infrastructure and backup power. Accommodation without consistent power supply and clear access control is not appropriate for business visitors in Luanda."
 ---
 
-Luanda bodyguard hire is calibrated to Angola's oil-sector security model: armed robbery and carjacking awareness in one of sub-Saharan Africa's most demanding operating environments, airport corridor management for a documented arrival risk zone, and accommodation-zone discipline around the Talatona-Miramar-Alvalade corridor.
+Hiring a bodyguard in Luanda is usually tied to a specific visit, where armed robbery, kidnapping, and infrastructure failure shape the plan for corporate visitors. This page covers how close protection hire works in Angola, what a Ministry of Interior licensed officer does across a day of movements, and how quickly cover is arranged. Armed cover is standard practice for higher-risk corporate work, so hire pairs a licensed operator with a security driver, scaled to the itinerary rather than a fixed contract.
 
 Ministry of Interior-licensed Angolan partner operators deliver the CPO programme with current Luanda ground knowledge and the sector-specific experience that Angola's international oil and gas visitor base requires.
 
 For the full Luanda security picture, see our [Luanda city briefing](/cities/luanda/). For principals requiring vetted transport as the primary security baseline, [security drivers in Luanda](/security-drivers/luanda/) covers the Ministry-licensed chauffeur programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Luanda](/executive-protection/luanda/). To check the credentials and vetting behind the officers, see [close protection officers in Luanda](/close-protection-officers/luanda/).
