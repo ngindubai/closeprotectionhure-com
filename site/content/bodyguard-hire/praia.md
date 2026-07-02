@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency procedures for Praia deployments must be established before the principal arrives. The close protection plan must specify: police contact protocol (emergency number: confirm locally), nearest medical facility (Hospital Agostinho Neto), medevac pre-authorisation to Dakar or Lisbon, communications backup if primary network fails, and crisis comms protocol for the principal's organisation. Medevac insurance pre-authorisation is a non-negotiable requirement for any Praia deployment."
 ---
 
-Praia requires a close protection approach calibrated to its low risk rating and the specific characteristics of Cape Verde stable Atlantic island environment. Fcdo advises normal precautions; us state dept level 1 (2026).
+Hiring a bodyguard in Praia is typically about drug trafficking and gang activity and petty theft rather than violent crime targeting visitors specifically. This page covers how close protection hire works in Cape Verde, what a Ministry of Internal Administration licensed officer does across a day of movements, and how quickly cover is arranged. Commercial deployments are typically unarmed, so hire pairs a licensed officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 For corporate and high-net-worth principals visiting Praia, the standard bodyguard hire deployment includes a vetted security driver for all airport and city movements, advance work covering hotel and venue security surveys, and mobile close protection calibrated to the principal's individual threat profile. All close protection officers deployed in Cape Verde must hold licensing from the Ministry of Internal Administration of Cape Verde. Medical evacuation pre-arrangement to Dakar or Lisbon is a mandatory component of any Praia protective deployment.
 
 For regional security context, see our [Dakar security briefing](/cities/dakar/) and our [bodyguard hire services in Accra](/bodyguard-hire/accra/). See also our [Praia city security briefing](/cities/praia/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Praia](/executive-protection/praia/). To check the credentials and vetting behind the officers, see [close protection officers in Praia](/close-protection-officers/praia/).

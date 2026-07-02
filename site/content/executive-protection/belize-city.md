@@ -35,7 +35,7 @@ faqs:
     answer: "A pre-advance in Belize City is essential because of how close the south side risk zone is to the Fort George business and hotel district. Any meeting venue proposed outside the established Fort George corridor needs specific assessment before acceptance. The advance confirms that all planned venues can be accessed without routing through or near south side areas, and identifies current conditions on the Philip Goldson airport transfer route. Given the small operator pool in Belize, advance booking of operator availability is also part of the pre-deployment process."
 ---
 
-Belize City's executive protection environment reflects a high homicide rate, gang-controlled south side, and drug trafficking networks in a compact city where the boundary between safer and higher-risk zones is close at hand. The Belize Police Department recorded a murder rate of approximately 38 per 100,000 in 2022. FCDO Belize advice (2024) specifically names south side areas as against all travel, and the US State Department designates the south side at Level 3 (2026). For executives based in the Fort George diplomatic and hotel zone, professional EP planning manages the specific south side avoidance requirement and the Philip Goldson airport transfer.
+Executive protection in Belize City is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing gang violence, drug trafficking, and limited police response capacity: advance work on venues and routes, a written threat assessment, an operations controller, and Ministry-authorised secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 ## Ministry of National Security licensing
 
@@ -46,3 +46,5 @@ EP companies must hold Ministry of National Security licences under the Private 
 A Belize City EP programme covers pre-advance of the Philip Goldson transfer route and all confirmed venues with south side proximity assessment, vehicle and EP team deployment within and between Fort George and business zones, south side absolute exclusion zone discipline, and a crisis response plan with Philip Goldson extraction as the primary option.
 
 For the full Belize City security picture, see the [Belize City city briefing](/cities/belize-city/) and [close protection officers in Belize City](/close-protection-officers/belize-city/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Belize City](/bodyguard-hire/belize-city/). For the operators who staff the programme and how they are vetted, see [close protection officers in Belize City](/close-protection-officers/belize-city/).

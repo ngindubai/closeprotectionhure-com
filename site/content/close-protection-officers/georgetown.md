@@ -37,7 +37,7 @@ faqs:
     answer: "Armed close protection is available in Georgetown through Guyana Police Force-licensed operators. Given the kidnapping risk profile applicable to senior oil-sector executives, armed cover is more frequently deployed than in lower-risk South American cities. The configuration is determined by the principal's specific threat assessment."
 ---
 
-Close protection officer deployment in Georgetown is shaped primarily by Guyana's oil boom and the resulting concentration of high-value international targets in a city where robbery and kidnapping risk are both documented and active. ExxonMobil, Hess, SBM Offshore, and the associated contractor community have created a significant demand for Georgetown CPO services since offshore production began. The Marriott and Pegasus hotel zone along Kingston Seawall provides the most manageable operating environment, but consistent vehicle-based movement management, a pre-planned airport transfer protocol, and operations controller oversight are required for all principals at this level.
+This page is about the people who provide close protection in Georgetown: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Georgetown network holds PSIRA-Guyana registration under the 2016 Licensing Act, and is assessed for local competence. It covers standard team configuration, Guyana Police Force firearms licensing where armed, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Georgetown CPO licensing context
 
@@ -48,3 +48,5 @@ Guyana's security sector is regulated through the Guyana Police Force and Minist
 Georgetown's dominant CPO requirement is physical security: kidnapping and robbery risk targeting oil-sector executives requires route management, pre-advance, and vehicle-based movement as the core functions. The 41km airport transfer on a single-route highway is the most structurally vulnerable movement for any Georgetown principal.
 
 For complementary services in Georgetown, see our [Georgetown city page](/cities/georgetown/) and [event security in Georgetown](/event-security/georgetown/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Georgetown](/bodyguard-hire/georgetown/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Georgetown](/executive-protection/georgetown/).

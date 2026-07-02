@@ -37,7 +37,7 @@ faqs:
     answer: "Hurricane season (May to November) adds a weather monitoring and evacuation planning element to CPO engagements in Belize City. The operations controller maintains awareness of tropical weather systems, venue generator backup is confirmed pre-deployment, and the evacuation plan includes rapid departure from Belize via Goldson Airport in the event of a category 3 or higher storm approach."
 ---
 
-Close protection officer deployment in Belize City addresses a high-risk environment shaped primarily by gang-driven violent crime and the specific opportunistic targeting of international visitors in the central commercial zone. The Fort George district provides the most manageable operating environment for international business visitors, and the Radisson Fort George and Biltmore Plaza hotels are the anchor points for CPO planning. Hurricane season (May to November) adds a weather contingency dimension that is relevant for any multi-day engagement.
+This page is about the people who provide close protection in Belize City: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Belize City network holds Ministry of National Security authorisation under the Private Investigators and Security Guards Act, and is assessed for local competence. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Belize City SIA licensing framework
 
@@ -48,3 +48,5 @@ Belize's Security Industry Authority (SIA) administers private security licensin
 The dominant CPO function in Belize City is vehicle-based movement management and hotel pre-advance, with particular attention to the Fort George perimeter as the boundary between the manageable operating zone and the higher-risk surrounding city areas.
 
 For complementary services in Belize City, see our [Belize City city page](/cities/belize-city/) and [event security in Belize City](/event-security/belize-city/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Belize City](/bodyguard-hire/belize-city/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Belize City](/executive-protection/belize-city/).

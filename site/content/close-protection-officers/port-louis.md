@@ -37,7 +37,7 @@ faqs:
     answer: "Yes. CPO operations in Mauritius extend to Grand Baie, Flic en Flac, Belle Mare, and other resort areas used by HNWI and corporate visitors. Coast road transfers and inter-resort movement are included in the assignment scope. The overall risk level remains low across Mauritius's principal visitor areas. Resort-area movements are planned with the same inside-terminal collection and vehicle pre-positioning protocol as city assignments."
 ---
 
-Port Louis close protection operations are built around the PSIA licensing framework, the 50km MRU airport corridor, and low-profile team configurations suited to Mauritius's financial sector and HNWI visitor community.
+This page is about the people who provide close protection in Port Louis: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Port Louis network holds PSIA licensing, and is assessed for local competence. It covers standard team configuration, the tight restriction on foreign nationals carrying weapons, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Port Louis
 
@@ -46,3 +46,5 @@ Mauritius maintains a stable security environment by regional standards, with lo
 ## Planning framework for Port Louis CPO assignments
 
 Pre-deployment planning covers the MRU airport transfer protocol, Port Louis and resort-area movement map, PSIA licensing verification, and team configuration assessment. For the full Port Louis security picture, see our [Port Louis city briefing](/cities/port-louis/). For organisations managing investor events or fund meetings in the capital, [event security in Port Louis](/event-security/port-louis/) covers venue assessment and delegate management.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Port Louis](/bodyguard-hire/port-louis/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Port Louis](/executive-protection/port-louis/).

@@ -35,7 +35,7 @@ faqs:
     answer: "A pre-advance in Georgetown includes assessment of the Cheddi Jagan transfer route, the principal's accommodation, and all meeting venues before the principal arrives. It is particularly important for the airport transfer road, which is long, predictable, and cannot be significantly varied. The advance identifies current conditions on the Timehri road, confirms hotel security standards in the Kingston/Queenstown district, and establishes contingency plans for each confirmed venue."
 ---
 
-Georgetown's executive protection environment is shaped by a rapid increase in security risk since commercial oil production began in 2020, creating new kidnap and robbery exposures that executives in the oil, gas, mining, and international finance sectors need to account for. FCDO Guyana advice (2024) documents this shift explicitly, and the US State Department designates Guyana as Level 2: Exercise Increased Caution (2026). The 42-kilometre Cheddi Jagan International Airport transfer and the outer suburban areas of the city are the primary exposure points for newly arriving executives.
+Executive protection in Georgetown is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing armed robbery, violent crime, and drug trafficking: advance work on venues and routes, a written threat assessment, an operations controller, and PSIRA-Guyana licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 ## PSIRA-Guyana licensing and compliance
 
@@ -46,3 +46,5 @@ EP companies must hold PSIRA-Guyana company registration and individual officers
 A Georgetown EP programme covers pre-advance of the Cheddi Jagan transfer route and all confirmed venues, two-vehicle formation for all movements outside the Kingston/Queenstown zone, counter-surveillance from airport collection, kidnap-avoidance protocols, and a pre-agreed crisis response and extraction plan.
 
 For the full Georgetown security picture, see the [Georgetown city briefing](/cities/georgetown/) and [close protection officers in Georgetown](/close-protection-officers/georgetown/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Georgetown](/bodyguard-hire/georgetown/). For the operators who staff the programme and how they are vetted, see [close protection officers in Georgetown](/close-protection-officers/georgetown/).

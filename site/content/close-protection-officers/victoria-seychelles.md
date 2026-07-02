@@ -37,7 +37,7 @@ faqs:
     answer: "Armed CPO is available in Seychelles under the Seychelles Police Force weapons permit framework, but the standard configuration for HNWI and financial sector assignments is unarmed, low-profile cover. Seychelles's stable security environment and the expectations of the luxury and financial sector visitor community mean that armed presence is rarely the appropriate starting configuration. Armed cover is assessed for principals with a specific elevated personal risk profile."
 ---
 
-Victoria close protection operations address the SLA licensing framework, the compact SEZ airport corridor, and the inter-island logistics that define Seychelles's HNWI and financial sector CPO environment.
+This page is about the people who provide close protection in Victoria: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Victoria network holds national licensing, and is assessed for local competence including outer-island maritime awareness. It covers standard team configuration, the tight restriction on foreign nationals carrying weapons, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Victoria, Seychelles
 
@@ -46,3 +46,5 @@ Seychelles maintains one of the most stable security environments among African 
 ## Planning framework for Victoria CPO assignments
 
 Pre-deployment planning covers the SEZ airport transfer, Mahe movement map, inter-island logistics confirmation, medevac pathways to Reunion and Nairobi, and team configuration. For the full Victoria security picture, see our [Victoria city briefing](/cities/victoria-seychelles/). For private events and high-profile gatherings in Seychelles, [event security in Victoria](/event-security/victoria-seychelles/) covers venue and maritime access management.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Victoria](/bodyguard-hire/victoria-seychelles/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Victoria](/executive-protection/victoria-seychelles/).

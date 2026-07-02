@@ -37,7 +37,7 @@ faqs:
     answer: "Yes. All Kumasi details include a medical evacuation plan. Komfo Anokye Teaching Hospital is the principal facility in the city. For serious incidents, air evacuation to Accra Korle Bu Teaching Hospital or onward to South Africa or Europe can be coordinated through our established MEDEVAC contacts."
 ---
 
-Kumasi is Ghana's second-largest city and the historic and commercial capital of Ashanti Region. The city sits at the centre of one of West Africa's most significant gold-mining regions and is a key hub for agri-processing, trade, and logistics. It draws a steady flow of executives from the extractive, commodities, and investment sectors.
+Hiring a bodyguard in Kumasi is typically about street crime and communal and chieftaincy tensions rather than a high citywide risk level, with galamsey-related activity an added factor. This page covers how close protection hire works in Ghana, what a Private Security Organisation Act licensed officer does across a day of movements, and how quickly cover is arranged. Armed cover is permitted for licensed personnel, so hire pairs a licensed officer with secure transport, scaled to the itinerary.
 
 The security environment is moderate. Ghana maintains one of West Africa's more stable political and security landscapes, but Kumasi's dense commercial activity and the specific dynamics of the regional mining economy create risks that reward professional preparation. Petty crime and armed robbery in crowded areas, road security concerns on key transit routes, and the complexities of operating near informal mining activity are the principal concerns for visiting executives.
 
@@ -46,3 +46,5 @@ Our Kumasi-based protection officers hold current licences under PNDCL 320 and a
 For executives arriving via Accra Kotoka International Airport and connecting to Kumasi by domestic flight or road, we provide end-to-end cover from the point of arrival.
 
 Review the full Kumasi city security profile at [/cities/kumasi/](/cities/kumasi/) and see our [security drivers in Kumasi](/security-drivers/kumasi/) for dedicated ground transport and mining-site escort.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Kumasi](/executive-protection/kumasi/). To check the credentials and vetting behind the officers, see [close protection officers in Kumasi](/close-protection-officers/kumasi/).

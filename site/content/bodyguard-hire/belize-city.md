@@ -35,7 +35,7 @@ faqs:
     answer: "Contact our operations team with your Belize City travel dates, accommodation, and planned activities. Given the smaller pool of Ministry of National Security-licensed operators in Belize with dedicated CP capability, early booking is particularly important. We will conduct a pre-deployment threat assessment, confirm operator availability for your dates, specify the appropriate CPO configuration, and engage a Ministry-licensed Belizean partner. Advance notice of at least seven working days is recommended."
 ---
 
-Belize City's close protection environment is shaped by one of the highest murder rates in Central America (approximately 38 per 100,000, Belize Police Department 2022), gang-controlled south side areas specifically named in FCDO Belize advice (2024), and the compact city geography that places the safe Fort George zone in close proximity to the highest-risk areas. The US State Department designates south side Belize City at Level 3 (2026). For visiting executives, the Fort George zone provides a workable business base with appropriate hotel provision, but south side avoidance discipline must be absolute and professionally maintained throughout any visit.
+Hiring a bodyguard in Belize City is usually tied to a specific visit, where gang violence, drug trafficking, and armed robbery targeting visitors shape the plan alongside limited police response capacity. This page covers how close protection hire works in Belize, what a Ministry of National Security authorised officer does across a day of movements, and how quickly cover is arranged. Hire pairs an authorised officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## Ministry of National Security licensing
 
@@ -46,3 +46,5 @@ CPOs must hold Ministry of National Security licences under the Private Investig
 A vetted Belize City CPO covers: south side absolute exclusion zone discipline on all movements, Philip Goldson airport transfer via the safe highway approach, protective escort within the Fort George and central business corridor, hotel security assessment and room selection in Fort George properties, emergency response capability, and operations controller oversight throughout.
 
 For a full security picture see our [Belize City city briefing](/cities/belize-city/) and [executive protection in Belize City](/executive-protection/belize-city/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Belize City](/executive-protection/belize-city/). To check the credentials and vetting behind the officers, see [close protection officers in Belize City](/close-protection-officers/belize-city/).

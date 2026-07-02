@@ -37,7 +37,7 @@ faqs:
     answer: "Flooding during the rainy seasons (May to August and November to February) can affect road conditions in Paramaribo and on the airport highway. CPO route planning accounts for seasonal flooding: alternative routes are pre-identified and the operations controller monitors weather and road condition updates throughout the engagement."
 ---
 
-Close protection officer deployment in Paramaribo addresses a medium-risk urban environment with specific elevated-threat factors for mining and oil-sector executives. Suriname's active gold, bauxite, and developing offshore oil sectors bring international principals to Paramaribo whose profiles warrant structured CPO cover beyond a standard vetted-transport arrangement. The Torarica and Courtyard by Marriott venues along the Suriname River provide the most manageable base for international business visitors, and the 45km airport transfer from Johan Adolf Pengel Airport is the most structurally significant movement to plan.
+This page is about the people who provide close protection in Paramaribo: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Paramaribo network holds Ministry of Justice and Police authorisation, and is assessed for local competence within a less developed regulatory framework. It covers standard team configuration, extra operator vetting, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Paramaribo CPO licensing framework
 
@@ -48,3 +48,5 @@ Suriname's Ministry of Justice and Police administers private security licensing
 The dominant CPO requirement in Paramaribo is physical route management and hotel pre-advance for mining and oil-sector executives. The city does not carry the extreme crime environment of some neighbouring capitals, but the long airport transfer, seasonal flood risk, and the elevated profile of energy-sector principals all require structured operational planning.
 
 For complementary services in Paramaribo, see our [Paramaribo city page](/cities/paramaribo/) and [event security in Paramaribo](/event-security/paramaribo/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Paramaribo](/bodyguard-hire/paramaribo/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Paramaribo](/executive-protection/paramaribo/).

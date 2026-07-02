@@ -35,7 +35,7 @@ faqs:
     answer: "Contact our operations team with your Paramaribo travel dates, intended accommodation, and planned activities. We will conduct a pre-deployment threat assessment, confirm the appropriate CPO configuration for your profile, and engage a Ministry of Justice and Police-authorised Surinamese partner company for the operational delivery. Advance notice of at least five working days is recommended to confirm operator availability and complete pre-deployment planning."
 ---
 
-Paramaribo's close protection requirements arise from Suriname's documented drug trafficking connections, rising robbery activity outside the historic centre, and the long Johan Adolf Pengel airport transfer that creates the primary risk exposure for arriving executives. US State Department Level 2 (2026) and FCDO caution advisory (2024) both note these risks and advise increased caution throughout Suriname. For executives in the mining, gold, and agricultural sectors, sector-specific targeting risks add a further layer to the standard urban security considerations.
+Hiring a bodyguard in Paramaribo is usually tied to a specific visit, where drug trafficking and political instability shape the plan alongside armed robbery. This page covers how close protection hire works in Suriname, what a Ministry of Justice and Police authorised operator does across a day of movements, and how quickly cover is arranged. The regulatory framework for armed operators is less developed than in neighbouring countries, so operator vetting matters; hire pairs a vetted officer with secure transport.
 
 ## Ministry of Justice and Police licensing
 
@@ -46,3 +46,5 @@ CPOs in Suriname must hold Ministry of Justice and Police authorisation. The reg
 A vetted Paramaribo CPO covers: advance assessment of the Johan Adolf Pengel transfer route and principal accommodation, protective escort during all movements, anti-robbery protocols, emergency response capability, and operations controller oversight throughout each deployment day. Team configuration scales to the principal's risk profile.
 
 For a full security picture see our [Paramaribo city briefing](/cities/paramaribo/) and [executive protection in Paramaribo](/executive-protection/paramaribo/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Paramaribo](/executive-protection/paramaribo/). To check the credentials and vetting behind the officers, see [close protection officers in Paramaribo](/close-protection-officers/paramaribo/).

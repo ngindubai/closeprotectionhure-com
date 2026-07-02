@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency procedures for Lome deployments must be established before the principal arrives. The close protection plan must specify: police contact protocol (emergency number: confirm locally), nearest medical facility (CHU Sylvanus Olympio), medevac pre-authorisation to Accra or Abidjan, communications backup if primary network fails, and crisis comms protocol for the principal's organisation. Medevac insurance pre-authorisation is a non-negotiable requirement for any Lome deployment."
 ---
 
-Lome requires a close protection approach calibrated to its medium risk rating and the specific characteristics of Togo political and Sahel spillover environment. Fcdo advises a high degree of caution; us state dept level 2 (2026).
+Hiring a bodyguard in Lome is typically about political tension, protest risk, and northern Sahel spillover awareness rather than routine street crime. This page covers how close protection hire works in Togo, what a Ministry of Security registered operator does across a day of movements, and how quickly cover is arranged. Most deployments operate with unarmed guards, so hire pairs a registered officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 For corporate and high-net-worth principals visiting Lome, the standard bodyguard hire deployment includes a vetted security driver for all airport and city movements, advance work covering hotel and venue security surveys, and mobile close protection calibrated to the principal's individual threat profile. All close protection officers deployed in Togo must hold licensing from the Togolese Ministry of Security and Civil Protection. Medical evacuation pre-arrangement to Accra or Abidjan is a mandatory component of any Lome protective deployment.
 
 For regional security context, see our [Accra security briefing](/cities/accra/) and our [bodyguard hire services in Cotonou](/bodyguard-hire/cotonou/). See also our [Lome city security briefing](/cities/lome/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Lome](/executive-protection/lome/). To check the credentials and vetting behind the officers, see [close protection officers in Lome](/close-protection-officers/lome/).

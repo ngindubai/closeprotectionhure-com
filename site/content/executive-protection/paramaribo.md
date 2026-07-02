@@ -35,7 +35,7 @@ faqs:
     answer: "A pre-advance in Paramaribo covers the Johan Adolf Pengel transfer route, the principal's accommodation in the historic centre, and all confirmed meeting venues. It is particularly important for the 45-kilometre airport transfer road and for any venues outside the established historic centre zone. The advance identifies current route conditions, confirms hotel security standards, and establishes contingency plans for each confirmed venue on the itinerary."
 ---
 
-Paramaribo's executive protection environment is shaped by Suriname's role as a drug trafficking transshipment hub, rising street crime in areas outside the historic centre, and the 45-kilometre Johan Adolf Pengel airport transfer as the primary exposure event for arriving executives. The US State Department designates Suriname as Level 2: Exercise Increased Caution (2026). For executives in the mining, gold, and agricultural sectors, the combination of sector-specific targeting risks and the general street crime environment makes a professional EP programme appropriate for all but the lowest-profile visits.
+Executive protection in Paramaribo is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against drug trafficking and political instability: advance work on venues and routes, a written risk assessment, an operations controller, and Ministry of Justice and Police authorised secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where operator vetting matters given the developing regulatory framework.
 
 ## Ministry of Justice and Police licensing
 
@@ -46,3 +46,5 @@ EP companies must hold Ministry of Justice and Police authorisation and individu
 A Paramaribo EP programme covers pre-advance of the Johan Adolf Pengel transfer route and all confirmed venues, two-vehicle formation for the airport transfer and higher-risk movements, counter-surveillance from collection, anti-robbery protocols, and a pre-agreed crisis response and extraction plan.
 
 For the full Paramaribo security picture, see the [Paramaribo city briefing](/cities/paramaribo/) and [close protection officers in Paramaribo](/close-protection-officers/paramaribo/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Paramaribo](/bodyguard-hire/paramaribo/). For the operators who staff the programme and how they are vetted, see [close protection officers in Paramaribo](/close-protection-officers/paramaribo/).
