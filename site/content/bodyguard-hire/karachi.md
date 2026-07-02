@@ -37,7 +37,7 @@ faqs:
     answer: "Kidnap-for-ransom targeting foreign nationals is a documented feature of Karachi's threat landscape. Targets have included executives in the energy, telecommunications, and financial sectors. Patterns involve surveillance of hotel areas and known business districts before a kidnap attempt. Varied routines, advance work on venues, and armed close protection significantly reduce targeting opportunity."
 ---
 
-Karachi is Pakistan's commercial capital and one of the largest cities in the world by population. It is also one of the more complex security environments for international business visitors in South Asia. The FCDO notes a high terrorism threat across Pakistan, with Karachi specifically facing threats from Tehrik-i-Taliban Pakistan, Baloch separatist groups, and criminal kidnap networks that operate with a degree of sophistication uncommon in other regional cities. For any foreign national conducting business in Karachi, close protection combined with armoured transport is the appropriate starting point.
+Hiring a bodyguard in Karachi is usually a short-notice decision tied to a specific trip, where terrorism and kidnapping shape the plan. This page covers how close protection hire works in Pakistan, what a Sindh-licensed officer with a valid arms licence does across a day of movements, and how quickly cover is arranged. Most engagements pair an armed, licensed officer with a security driver, scaled to the itinerary rather than a fixed contract.
 
 ## The Karachi Security Environment
 
@@ -56,3 +56,5 @@ For a full picture of Karachi's threat environment, including historical inciden
 The Sindh Private Security Companies Ordinance creates a licensing framework that, when properly applied, provides a reasonable quality floor for operators. The challenge is that compliance varies significantly across the Karachi market. Non-compliant operators not only create legal exposure for clients but often represent a lower standard of training, vetting, and equipment. We conduct regulatory verification as the first step in any Karachi operator engagement, not as an afterthought.
 
 Protection planning for Karachi should begin at least ten days before arrival to allow operator briefing, vehicle arrangements, route reconnaissance, and accommodation security assessment. Clients in high-profile sectors should allow additional time for threat-specific preparation.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Karachi](/executive-protection/karachi/). To check the credentials and vetting behind the officers, see [close protection officers in Karachi](/close-protection-officers/karachi/).

@@ -35,7 +35,7 @@ faqs:
     answer: "Close protection services in Beijing through a licensed Chinese operating partner range from approximately CNY 3,000 to CNY 7,000 per day per officer as at June 2026 (approximately GBP 330 to GBP 770). Pricing varies with the complexity of the engagement, the intelligence-environment briefing elements required, and the duration of the detail. Multi-day engagements involving multiple venues and government-adjacent meetings are priced on a retainer basis."
 ---
 
-Beijing is China's capital and the seat of the central government, home to China's largest state-owned enterprise headquarters, major diplomatic missions, and the Zhongguancun technology district. For most foreign business visitors, Beijing is a low ambient-crime environment. The specific security consideration that distinguishes Beijing from other low-crime capitals is the intelligence environment: a well-documented counter-intelligence posture toward foreign business executives that MI5, the FBI, and ASIO have all publicly addressed. This shapes CPO briefing in Beijing in ways that differ from Tokyo or Singapore.
+Hiring a bodyguard in Beijing is less about street crime and more about navigating exit-ban risk and state surveillance sensitivity for foreign visitors. This page covers how close protection support works in China, what a state-regulated local provider can and cannot do across a day of movements, and how quickly it can be arranged. Private armed security for foreign nationals is not generally available, so cover is unarmed and built around planning and local compliance, scaled to the visit rather than a fixed contract.
 
 ## The regulatory framework for private security in China
 
@@ -46,3 +46,5 @@ The Regulations on Security Service (2009, as updated) govern commercial securit
 The communications security and intelligence-environment awareness elements of Beijing CPO briefings are not speculative. MI5's 2023 public statement on Chinese espionage targeting UK businesses, the FBI's repeated public assessments of Chinese intelligence activity targeting US commercial interests, and ASIO's equivalent public reporting all provide a documented basis for treating counter-intelligence awareness as a standard CPO briefing element in Beijing.
 
 For complementary services in Beijing, see our [Beijing city page](/cities/beijing/) and [security drivers in Beijing](/security-drivers/beijing/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Beijing](/executive-protection/beijing/). To check the credentials and vetting behind the officers, see [close protection officers in Beijing](/close-protection-officers/beijing/).

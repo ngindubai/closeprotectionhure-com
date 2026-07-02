@@ -35,8 +35,10 @@ faqs:
     answer: "A vetted close protection officer in Abuja for a corporate engagement typically ranges from USD 180 to USD 400 per day, depending on qualifications, experience, team size, and the specific security configuration required. Enhanced configurations involving counter-kidnapping vehicle protocols or multi-officer teams are priced accordingly. Rates as at June 2026 reflect the Nigerian market; multi-day and multi-week engagements for extractive sector and corporate clients are structured on a retainer basis."
 ---
 
-Abuja is Nigeria's federal capital and the hub for government, diplomatic, and senior corporate operations in Africa's largest economy. The city carries a FCDO 'reconsider travel' designation due to terrorism risk, with documented attacks on the UN headquarters and the Kuje Correctional Centre establishing that high-profile targets in the capital are not protected by its government character. The Abuja-Kaduna corridor is one of the most documented kidnapping routes in West Africa, and urban crime within the FCT follows patterns of vehicle targeting and opportunistic attacks on foreign nationals.
+Hiring a bodyguard in Abuja is usually a short-notice decision tied to a specific trip, where kidnapping and terrorism risk on routes to northern states shape the plan. This page covers how close protection hire works in Nigeria's capital, what an NSCDC-licensed officer does across a day of movements, and how quickly cover is arranged. Most engagements pair a licensed officer with a security driver and route planning, scaled to the itinerary rather than a fixed contract.
 
 Professional CPO cover in Abuja is not discretionary for senior corporate and diplomatic principals. NSCDC-licensed operators with documented counter-kidnapping vehicle capability, pre-advance protocols at Transcorp Hilton and Sheraton Abuja, and operations controller tracking are the baseline standard.
 
 For the Abuja city security overview, see our [Abuja city page](/cities/abuja/). For the broader Nigerian security context, see our [Nigeria country page](/countries/nigeria/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Abuja](/executive-protection/abuja/). To check the credentials and vetting behind the officers, see [close protection officers in Abuja](/close-protection-officers/abuja/).

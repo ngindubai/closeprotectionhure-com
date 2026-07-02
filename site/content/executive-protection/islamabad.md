@@ -43,7 +43,7 @@ faqs:
     answer: "Shifa International Hospital is the primary trauma receiving facility in Islamabad. For cases requiring higher-level care, medical evacuation to Dubai takes approximately 3 hours by air. EP programmes should have a medevac provider on retainer with confirmed aircraft availability before the principal arrives in Pakistan."
 ---
 
-Executive protection in Islamabad operates in one of South Asia's most complex security environments, combining a persistent terrorism threat from TTP, periodic political disruption linked to PTI demonstrations, and the operational demands of a city that hosts the full weight of Pakistan's diplomatic and governmental infrastructure. Programmes are designed around the specific principal profile, with armed EP available from PPSRA-licensed operators and vehicle selection calibrated to the assessed threat level.
+Executive protection in Islamabad is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing terrorism and political instability: advance work on venues and routes, a written threat assessment, an operations controller, and secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## The Islamabad security environment
 
@@ -60,3 +60,5 @@ An EP programme in Islamabad typically includes a close-protection officer trave
 Operational planning covers the full movement cycle: hotel selection and assessment, venue advance work, airport transfers, and documented emergency action plans for vehicle compromise, protest obstruction, and medical emergency. For higher-risk principals, armoured vehicles rated to B4 or B6 ballistic protection are sourced through vetted Islamabad-based providers.
 
 For the full Islamabad security picture, see our [Islamabad city briefing](/cities/islamabad/). For vetted secure transport alongside the EP team, [security drivers in Islamabad](/security-drivers/islamabad/) covers the Pakistan driver programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Islamabad](/bodyguard-hire/islamabad/). For the operators who staff the programme and how they are vetted, see [close protection officers in Islamabad](/close-protection-officers/islamabad/).

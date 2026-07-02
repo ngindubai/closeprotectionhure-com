@@ -37,7 +37,7 @@ faqs:
     answer: "Appropriate principals for Karachi CPO assignments include: senior executives of energy, infrastructure, and manufacturing companies with Pakistan operations; NGO and development sector staff on organisationally authorised deployments; media and journalism personnel on formally assessed assignments; and corporate executives attending meetings with Karachi-based business partners. In each case, the principal's organisation should have completed a risk assessment covering the Karachi threat picture and authorised the visit. CPO services reduce the risk of adverse incident during the visit but cannot eliminate the inherent threats of operating in Karachi's current environment."
 ---
 
-Karachi is Pakistan's commercial capital and a significant hub for energy sector, multinational corporate, and NGO activity. FCDO notes the risk of terrorism, civil unrest, and criminality across Pakistan and identifies Karachi specifically as an area with elevated threat. CPO assignments in Karachi are structured around Sindh-licensed, armed operators, armoured vehicles, a KFR-aware briefing for principals, and a bandh contingency protocol that is active from 72 hours before arrival throughout the visit. The Clifton, DHA, and Bath Island operating zone provides the appropriate environment for corporate principals.
+This page is about the people who provide close protection in Karachi: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Karachi network is licensed under the Sindh Private Security Companies Ordinance, holds a valid arms licence where armed, and is assessed for local competence. It covers standard team configuration, security clearance requirements, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Karachi threat matrix for CPO operations
 
@@ -48,3 +48,5 @@ Karachi's security environment involves three distinct armed threat actors: TTP-
 The bandh risk has no direct equivalent at most other corporate CPO destinations. A bandh can ground all transport in a city of 15 million people with hours of notice, converting a planned airport departure into a potential 24-48 hour held operation. Every CPO assignment in Karachi includes a structured bandh contingency as a standard element, not an afterthought.
 
 For the broader Karachi security picture see our [Karachi city page](/cities/karachi/) and [security drivers in Karachi](/security-drivers/karachi/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Karachi](/bodyguard-hire/karachi/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Karachi](/executive-protection/karachi/).

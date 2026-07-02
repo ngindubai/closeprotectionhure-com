@@ -33,7 +33,7 @@ faqs:
     answer: "EP day rates in Buenos Aires for a vetted, credential-holding CPO typically range from USD 300 to USD 550 per day, with team rates for a two-person CPO and security driver team running USD 550 to USD 900 per day plus vehicle costs, as at June 2026. Rates are quoted in USD due to Argentine currency volatility. Multi-day engagement retainers with a minimum commitment period are the standard commercial structure for Buenos Aires EP engagements."
 ---
 
-Buenos Aires executive protection operates against a documented and active threat: express kidnapping and vehicle-based targeting of corporate and HNWI principals is recorded in OSAC (2024), FCDO (April 2026), and Argentine Ministerio de Seguridad reporting. The Argentine regulatory framework under Ley 12.297 and CABA municipal licensing provides the CPO credential structure; the combined kidnapping, civil unrest, and political risk environment requires a substantive pre-engagement threat assessment for every Buenos Aires deployment.
+Executive protection in Buenos Aires is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing express kidnapping and armed carjacking: advance work on venues and routes, a written threat assessment, an operations controller, and secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Argentine regulatory framework
 
@@ -44,3 +44,5 @@ Buenos Aires CPOs hold Ministerio de Seguridad Bonaerense credenciales under Ley
 Advance work covers hotel and venue egress, Ezeiza airport arrival management, express kidnapping counter-measures on principal movement routes, and current political and civil unrest intelligence. CPO team structure is matched to the principal profile, with armed provision available on threat-assessed engagements.
 
 For the broader Buenos Aires security overview, see our [Buenos Aires city page](/cities/buenos-aires/) and our [security drivers in Buenos Aires](/security-drivers/buenos-aires/) and [bodyguard hire in Buenos Aires](/bodyguard-hire/buenos-aires/) pages.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Buenos Aires](/bodyguard-hire/buenos-aires/). For the operators who staff the programme and how they are vetted, see [close protection officers in Buenos Aires](/close-protection-officers/buenos-aires/).

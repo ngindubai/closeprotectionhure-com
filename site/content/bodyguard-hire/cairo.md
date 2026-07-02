@@ -35,7 +35,7 @@ faqs:
     answer: "A vetted close protection officer in Cairo typically ranges from USD 200 to USD 400 per day for a single officer, depending on qualifications, former service background, English language proficiency, and the specific engagement requirements. Multi-day corporate engagements are structured on a retainer basis. Operations controller overhead and driver provision are typically separate line items. Rates as at June 2026 reflect the Egyptian CPO market, where the large pool of former military and police candidates creates a deeper talent supply than in some smaller markets."
 ---
 
-Cairo close protection is shaped by a threat environment that combines a documented terrorism background (predominantly affecting areas outside central Cairo), significant political risk from protest and civil disturbance, and an operational challenge from Cairo's extreme traffic congestion that creates specific timing and route vulnerabilities. Egypt's large former-military CPO talent pool and well-established private security sector provide a capable market for professional principal protection.
+Hiring a bodyguard in Cairo is usually tied to a specific visit, where terrorism awareness and state surveillance sensitivity matter more than street crime. This page covers how close protection hire works in Egypt, what a Ministry of Interior licensed officer does across a day of movements, and how quickly cover is arranged. Private cover is generally unarmed, so hire pairs a licensed officer with discreet secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## The Egyptian regulatory framework
 
@@ -46,3 +46,5 @@ Egypt's Ministry of Interior provides the licensing framework for private securi
 The FCDO and US OSAC both document the specific risks for corporate and diplomatic principals in Cairo. Traffic-related vulnerability during transfers, protest activity around Tahrir Square and government districts, and terrorism awareness (particularly for NGO and oil-and-gas sector principals operating in or transitioning through higher-risk Egyptian regions) are the key operational considerations.
 
 For the Cairo city security overview, see our [Cairo city page](/cities/cairo/) and [Egypt country security page](/countries/egypt/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Cairo](/executive-protection/cairo/). To check the credentials and vetting behind the officers, see [close protection officers in Cairo](/close-protection-officers/cairo/).

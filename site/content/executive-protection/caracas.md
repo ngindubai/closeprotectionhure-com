@@ -37,7 +37,7 @@ faqs:
     answer: "Yes. In Caracas, executive protection programmes address physical security, KFR crisis response protocols, profile management, state surveillance awareness, and USD cash-handling procedures. The economic and political environment in Venezuela creates risks beyond physical attack, and a complete executive protection programme accounts for the full threat profile, not only the armed close protection component."
 ---
 
-Executive protection in Caracas is a response to one of the most concentrated KFR threat environments in the Western Hemisphere. Kidnap-for-ransom in Venezuela is not a crime of opportunity: it is a structured enterprise in which criminal networks conduct pre-selection surveillance, profile potential targets, and plan operations over days or weeks before execution. For any business executive visiting Caracas, a protection programme built specifically around this threat model is the appropriate response.
+Executive protection in Caracas is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing kidnapping, colectivo activity, and state surveillance: advance work on venues and routes, a written threat assessment, an operations controller, and secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## The KFR Threat Model in Caracas
 
@@ -56,3 +56,5 @@ For the full threat context, see the [Caracas city security overview](/cities/ca
 ## Working with SENAS-Registered Operators
 
 Venezuela's regulatory environment for private security is complicated by economic conditions, but SENAS registration remains the legal framework. Executives whose organisations require documented due diligence on security providers should insist on SENAS-verified operators, both for legal compliance and as a quality indicator. CloseProtectionHire.com verifies operator registration as part of the introduction process for all Venezuela engagements.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Caracas](/bodyguard-hire/caracas/). For the operators who staff the programme and how they are vetted, see [close protection officers in Caracas](/close-protection-officers/caracas/).

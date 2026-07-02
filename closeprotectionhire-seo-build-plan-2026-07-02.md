@@ -432,7 +432,14 @@ Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** wi
 - **Cities (5):** mumbai, moscow, bangkok, manila, jakarta (completing the 15 direct-answer cities). **Files: 15.**
 - Same treatment as sub-batch 1 (intent lede 70–81 words citing each city's regulator + signature threat: PSARA/Arms Act, Rosgvardiya, Security Guard Business Act, PNP/SOSIA, POLRI; plus sibling cross-links).
 - **Verification:** build clean (0 errors); each silo's unique lede renders once per page across all 5 cities; cross-links resolve; QA gate clean.
-- **Status:** committed + deployed to `master`. **20 of ~264 cities now differentiated (60 pages).**
+- **Status:** committed + deployed to `master`. **15 of 268 triple-silo cities now differentiated (45 pages)** — corrects the prior changelog entry's "20", which double-counted; sub-batch 1 (10) + sub-batch 2 (5) = 15.
+
+### 2026-07-02 — Batch 5 (sub-batch 3 of N): Differentiation rollout, 10 more cities [SONNET, model already locked]
+- **Model note:** session switched from Opus to Sonnet before this sub-batch. Per the plan's own 6.2.5/Batch-5 model tag, this is compliant: the differentiation rubric and pattern were already Opus-authored and user-approved (Batch 4 decision + Lagos sample sign-off), so extending it city-by-city under the QA gate is Sonnet-safe execution, not new judgement. No new rubric or scope decision was made in this sub-batch.
+- **Cities (10):** cairo, karachi, beijing, buenos-aires, kyiv, caracas, accra, abuja, almaty, islamabad — chosen for geographic/risk-profile diversity (incl. Kyiv, the network's only "critical" active-conflict city, and Beijing/Caracas, whose armed-cover and foreign-operator constraints differ sharply from the earlier tranches). **Files: 30.**
+- Same treatment as prior sub-batches: intent lede 73–84 words citing each city's own regulator/threat (Egypt MoI, Sindh Ordinance, China MPS, Argentina Law 12,297, Ukraine wartime framework, Venezuela SENAS, Ghana PSO Act, NSCDC, Kazakhstan MoIA, Pakistan ICT Administration) + sibling cross-links.
+- **Verification:** build clean (0 errors); each silo's unique lede renders once per page across all 10 cities (the one apparent "3x" match on caracas/executive-protection was confirmed to be 2 pre-existing FAQ mentions of similar but distinct phrasing + 1 new lede, not a duplicate insert); cross-links resolve; QA gate clean (no em dashes, no banned safety language).
+- **Status:** committed + pushed to `master` (deploys). **25 of 268 triple-silo cities now differentiated (75 pages).**
 
 ### 2026-07-02 — Deploy + branch-rule change (owner instruction)
 - Owner directed all work to go live and to build on the deploy branch. Corrected a misdirection first: the owner said "build on the live branch," but `live` is the auto-generated compiled-output branch (force-pushed by CI, never hand-edited). The real deploy branch is `master`.

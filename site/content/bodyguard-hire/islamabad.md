@@ -33,7 +33,7 @@ faqs:
     answer: "The principal bodyguard operating zones in Islamabad are: the Blue Area (Central Business District), F-6 (Supermarket area), F-7 (Jinnah commercial area), F-8, the diplomatic enclave, and the G-6 to G-8 corridor. The principal accommodation areas for international visitors are in the F-6 and F-7 sectors, where Islamabad's international hotels are concentrated."
 ---
 
-Islamabad bodyguard hire is calibrated to Pakistan's terrorism and political instability environment: PPSRA-registered operators, airport corridor management for the Islamabad International Airport approach, checkpoint compliance across the federal capital's access control zones, and CPO awareness of the specific threat vectors that FCDO and US State Department advisories consistently identify for Pakistan's capital.
+Hiring a bodyguard in Islamabad is usually a short-notice decision tied to a specific trip, where terrorism and political instability shape the plan. This page covers how close protection hire works in Pakistan's federal capital, what an Islamabad Capital Territory licensed operator does across a day of movements, and how quickly cover is arranged. Most engagements pair a vetted, licensed officer with a security driver, scaled to the itinerary rather than a fixed contract.
 
 ## The Islamabad security environment
 
@@ -48,3 +48,5 @@ Private security companies operating in Punjab province, including those serving
 A Islamabad bodyguard programme covers inside-terminal collection at Islamabad International Airport (ISB), accommodation in F-6, F-7, or F-8 sectors, diplomatic enclave meeting venue management, checkpoint compliance throughout, and an operations controller framework with medevac protocol to Islamabad's private hospitals and onward to Dubai or Bangkok for serious cases.
 
 For the full Islamabad security picture, see our [Islamabad city briefing](/cities/islamabad/). For principals requiring vetted ground transport, [security drivers in Islamabad](/security-drivers/islamabad/) covers the PPSRA-registered driver programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Islamabad](/executive-protection/islamabad/). To check the credentials and vetting behind the officers, see [close protection officers in Islamabad](/close-protection-officers/islamabad/).

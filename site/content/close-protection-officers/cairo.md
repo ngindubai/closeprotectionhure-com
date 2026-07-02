@@ -37,7 +37,7 @@ faqs:
     answer: "Effective CPO operations in Cairo require Arabic-speaking team members for meaningful situational awareness. English is widely spoken in the international business districts and hospitality sector, but street-level situational awareness and communication with local security personnel, venue staff, and authorities requires Arabic. Internationally deployable senior CPOs coordinating Cairo details typically work in English, with Arabic-speaking local team members providing ground-level intelligence and communication. French-speaking teams can also be arranged for francophone principals, reflecting Cairo's historic ties to French-medium international schools and diplomatic networks."
 ---
 
-Cairo is the most populous city in Africa and the Arab world, and one of the most strategically significant business hubs in the Middle East and North Africa region. Egypt's role as a diplomatic centre, infrastructure investment destination, and energy sector hub draws significant corporate travel. The FCDO Egypt travel advice (updated 2024) classifies Egypt's terrorism threat as high, with the primary concentration of activity in North Sinai. Cairo itself presents a distinct urban risk profile: street crime targeting foreign nationals, periodic political demonstrations, and a complex security environment that requires cultural awareness alongside technical CPO competence.
+This page is about the people who provide close protection in Cairo: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Cairo network holds current Ministry of Interior licensing, passes documented background checks, and is assessed for Egypt-specific competence. It covers standard team configuration, the generally unarmed model private operators work under, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Regulatory framework and operator due diligence
 
@@ -48,3 +48,5 @@ Egypt's private security sector is regulated by the Ministry of Interior. There 
 CPO teams in Cairo prioritise venue pre-advance, culturally informed low-profile cover, and structured movement procedures to reduce exposure to street crime in tourist areas and protest risk near Tahrir Square and government buildings. Airport transfers from Cairo International (CAI) are treated as the highest exposure window of any visit.
 
 For broader context on the Cairo operating environment, see our [Cairo city page](/cities/cairo/) and [bodyguard hire in Cairo](/bodyguard-hire/cairo/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Cairo](/bodyguard-hire/cairo/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Cairo](/executive-protection/cairo/).

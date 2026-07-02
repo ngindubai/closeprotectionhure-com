@@ -37,7 +37,7 @@ faqs:
     answer: "SEBIN is Venezuela's Bolivarian Intelligence Service, the principal state intelligence and surveillance body. SEBIN conducts surveillance of foreign corporate individuals and groups visiting Caracas, particularly those associated with industries or organisations the government treats as politically sensitive. CPO briefings include a SEBIN awareness component covering surveillance indicators, protocols for device security and communication, and the appropriate response if SEBIN personnel initiate contact with the principal during the assignment."
 ---
 
-Caracas is a critical-risk CPO environment. FCDO advises against all but essential travel to Venezuela, and the US State Department maintains a Level 4 advisory. The combination of one of the world's highest kidnapping rates, armed colectivo control of significant urban areas, state surveillance through SEBIN, and the operational complexity of Venezuela's USD cash economy makes CPO assignments in Caracas substantively more demanding than in most other Latin American cities. SENAS-licensed operators with current Caracas operational experience, confined to the Altamira, Chacao, and Las Mercedes eastern safe zone, provide the appropriate security layer for principals with essential travel requirements.
+This page is about the people who provide close protection in Caracas: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Caracas network holds current SENAS registration, passes documented background checks, and is assessed for Venezuela-specific competence given institutional pressures on verification. It covers standard team configuration, extra due-diligence steps, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Caracas CPO operating environment
 
@@ -48,3 +48,5 @@ Trained professionals working with SENAS-licensed operators can reduce the risk 
 Every Caracas assignment begins with the Maiquetia airport transfer. The CCS-to-city route is the highest-risk movement of any Caracas programme, and it is the point at which inadequate security arrangements most frequently produce adverse outcomes. CPO collection inside the arrivals hall, hardened vehicle, colectivo-aware routing, and operations controller monitoring are non-negotiable elements for this transfer.
 
 For the broader Caracas security picture see our [Caracas city page](/cities/caracas/) and [security drivers in Caracas](/security-drivers/caracas/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Caracas](/bodyguard-hire/caracas/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Caracas](/executive-protection/caracas/).

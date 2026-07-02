@@ -35,7 +35,7 @@ faqs:
     answer: "A vetted close protection officer in Buenos Aires for a corporate engagement typically ranges from USD 200 to USD 450 per day, depending on qualifications, experience, and operational requirements. Multi-day engagements and team deployments are structured on a retainer basis. Rates as at June 2026 reflect Argentine market conditions; due to the country's currency and economic volatility, pricing is confirmed in USD rather than Argentine pesos."
 ---
 
-Buenos Aires close protection is defined by a documented and specific threat: express kidnapping and vehicle-based targeting of corporate and HNWI principals is recorded in US OSAC, FCDO, and Argentine Ministerio de Seguridad reporting. The city's political and economic instability adds a contextual risk dimension, and the Ezeiza airport transfer route is among the higher-risk transfer corridors in South America. Professional CPO cover in Buenos Aires delivers a material operational response to a real and evidenced threat pattern.
+Hiring a bodyguard in Buenos Aires is usually tied to a specific visit, where express kidnapping and armed carjacking make secure movement the priority. This page covers how close protection hire works in Argentina, what a Law 12,297 licensed officer does across a day of movements, and how quickly cover is arranged. Armed cover is legal and available through provincially licensed operators, so hire pairs an officer with a security driver, scaled to the itinerary rather than a fixed contract.
 
 ## The Argentine regulatory framework
 
@@ -46,3 +46,5 @@ Private security in Buenos Aires operates under a provincial and municipal licen
 The FCDO and US OSAC both document express kidnapping, vehicle crime, and robbery targeting foreign nationals and affluent Argentines in Buenos Aires. CPO operations address the highest-risk threat moment: transition between secured environments. Counter-surveillance protocols, Ezeiza transfer security, and vehicle anti-kidnapping procedures are standard components.
 
 For the Buenos Aires city security overview, see our [Buenos Aires city page](/cities/buenos-aires/) and [Argentina country security page](/countries/argentina/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Buenos Aires](/executive-protection/buenos-aires/). To check the credentials and vetting behind the officers, see [close protection officers in Buenos Aires](/close-protection-officers/buenos-aires/).

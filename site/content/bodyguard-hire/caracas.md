@@ -37,7 +37,7 @@ faqs:
     answer: "The road between Simon Bolivar International Airport (Maiquetia) and central Caracas has a documented history of robbery and irregular checkpoint activity. Every airport transit requires dedicated advance work, armoured transport, and a pre-cleared route. Clients should never use standard taxis or informal transfers on this corridor."
 ---
 
-Caracas carries one of the most complex threat profiles of any capital city in South America. Venezuela's ongoing political and economic crisis has produced conditions where kidnapping, both express and organised kidnap-for-ransom, ranks among the most acute risks for any international visitor or resident. The FCDO advises against all but essential travel; the US State Department has placed Venezuela at Level 4 (Do Not Travel). For those whose work requires a presence in Caracas, close protection is not a discretionary upgrade: it is the baseline that makes operations viable.
+Hiring a bodyguard in Caracas is usually tied to a specific visit, where kidnapping, homicide, and colectivo activity make secure movement essential. This page covers how close protection hire works in Venezuela, what a SENAS-registered operator does across a day of movements, and how quickly cover is arranged. Armed cover is available through licensed companies, but institutional pressures mean extra due diligence is needed, so hire pairs a vetted officer with a security driver, scaled to the itinerary.
 
 ## The Caracas Threat Landscape
 
@@ -56,3 +56,5 @@ For broader context on the Venezuelan security environment and how it compares w
 Effective protection in Caracas is built on route discipline and avoiding patterns. Fixed schedules, predictable hotel-to-meeting routes, and standard vehicle types all increase targeting risk. Professional close protection teams in Caracas will conduct advance reconnaissance of all venues, establish alternative routes, maintain communication with local contacts for real-time threat updates, and hold contingency protocols for medical emergencies, checkpoint encounters, and infrastructure failures.
 
 Clients should plan accommodation within the safer eastern boroughs and avoid movement after dark wherever operationally possible. All requests for Caracas operations begin with a threat assessment scoped to the client's itinerary, sector, and profile, so that the protection plan reflects the actual risk rather than a generic template.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Caracas](/executive-protection/caracas/). To check the credentials and vetting behind the officers, see [close protection officers in Caracas](/close-protection-officers/caracas/).

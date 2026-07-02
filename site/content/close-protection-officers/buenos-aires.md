@@ -37,7 +37,7 @@ faqs:
     answer: "A minimum of five to seven working days is recommended for Buenos Aires CPO arrangements. This allows time for regulatory credential verification, threat-level assessment, vehicle sourcing, route planning, and CPO pre-advance of the principal's venues. For high-threat-level engagements or longer visits requiring residential or event cover, two to three weeks is preferable. Last-minute arrangements are possible but limit the quality of pre-advance intelligence and operator vetting."
 ---
 
-Buenos Aires is the commercial, political, and cultural capital of Argentina and a major destination for Latin American business travel. The city's combination of European-style architecture, active financial and legal sectors, and HNWI social scene makes it an important destination for corporate principals, delegations, and investors. However, the FCDO Argentina travel advice (updated April 2026) and the US OSAC Buenos Aires Crime and Safety Report 2024 both document meaningful crime risk for foreign business visitors, including express kidnapping, vehicle-based robbery, and targeting at predictable movement points.
+This page is about the people who provide close protection in Buenos Aires: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Buenos Aires network is licensed under Law 12,297, holds provincial weapons authorisation where armed, and is assessed for local competence. It covers standard team configuration, municipal registration in Buenos Aires City, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The regulatory environment
 
@@ -48,3 +48,5 @@ Argentina's private security sector is regulated at provincial and municipal lev
 The airport transfer from Ezeiza (EZE) via Autopista Ricchieri is consistently flagged as a high-exposure window. Beyond the transfer, CPO work focuses on disrupting predictable routines at hotels and restaurants in Palermo and Recoleta. Counter-surveillance and anti-kidnapping vehicle protocols are core deliverables, not optional additions, for any medium or high threat-level engagement in Buenos Aires.
 
 For broader security context, see our [Buenos Aires city page](/cities/buenos-aires/) and [bodyguard hire in Buenos Aires](/bodyguard-hire/buenos-aires/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Buenos Aires](/bodyguard-hire/buenos-aires/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Buenos Aires](/executive-protection/buenos-aires/).

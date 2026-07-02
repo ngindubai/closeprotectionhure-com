@@ -33,7 +33,7 @@ faqs:
     answer: "EP day rates in Cairo for a vetted, Ministry of Interior-licensed CPO typically range from USD 200 to USD 400 per day, with team rates for a CPO and security driver running USD 400 to USD 700 per day plus vehicle costs, as at June 2026. Rates vary with principal profile, engagement duration, and whether assignments involve government or diplomatic facilities with additional coordination requirements. Multi-day retainer structures are available for extended Cairo programmes."
 ---
 
-Cairo executive protection addresses a terrorism threat level described by FCDO (2024) as likely, an extensive state surveillance environment requiring specific communications security protocols, and road safety conditions that demand high-standard defensive driving. Ministry of Interior licensing through the Central Administration for Private Security provides the regulatory framework for operating companies and individual CPO personnel.
+Executive protection in Cairo is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against terrorism exposure and state surveillance sensitivity: advance work on venues and routes, a written threat assessment, an operations controller, and discreet secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Egyptian regulatory framework
 
@@ -44,3 +44,5 @@ Cairo CPOs hold Ministry of Interior authorisations; operating companies hold Mi
 Advance work covers hotel and venue assessments, CAI airport transfer logistics, government Ministry meeting coordination protocols, communications security briefings, and current terrorism threat intelligence relevant to the principal's profile. Low-profile operational presentation is the Cairo standard.
 
 For the broader Cairo security overview, see our [Cairo city page](/cities/cairo/) and our [security drivers in Cairo](/security-drivers/cairo/) and [bodyguard hire in Cairo](/bodyguard-hire/cairo/) pages.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Cairo](/bodyguard-hire/cairo/). For the operators who staff the programme and how they are vetted, see [close protection officers in Cairo](/close-protection-officers/cairo/).
