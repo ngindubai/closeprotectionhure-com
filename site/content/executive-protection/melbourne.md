@@ -33,7 +33,7 @@ faqs:
     answer: "EP day rates in Melbourne for a VSIRA Bodyguard-licensed, vetted CPO typically range from AUD 700 to AUD 1,100 per day; two-person team rates with a CPO and security driver run AUD 1,300 to AUD 1,900 per day plus vehicle costs, as at June 2026. Rates reflect Victoria's labour costs under the Security Industry Award. Australian Open, Grand Prix, and AFL Finals period engagements carry event demand premiums. Multi-day retainer structures for extended Melbourne visits are available at contracted daily rates."
 ---
 
-Melbourne executive protection operates in Victoria under Australia's PROBABLE national terrorism threat level, with the specific context of the 2017 Bourke Street Mall vehicle attack and multiple ASIO-disrupted plots in Victoria. VSIRA Bodyguard class licensing under the Private Security Act 2004 (Vic) provides the regulatory framework; major event planning across the Australian Open, Melbourne Grand Prix, and AFL Finals defines the demand cycle.
+Executive protection in Melbourne is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against terrorism awareness and organised-crime exposure: advance work on venues and routes, a written threat assessment, an operations controller, and CAV-registered secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Victorian VSIRA compliance
 
@@ -44,3 +44,5 @@ Melbourne CPOs hold VSIRA Bodyguard class licences with ACIC police checks and C
 Advance work covers Crown Towers and Grand Hyatt hotel logistics, MCEC conference venue assessment, major event period planning at Melbourne Park and Albert Park, Toorak-Southbank commute route management, and terrorism-aware venue assessment calibrated to the PROBABLE national threat level.
 
 For the broader Melbourne security overview, see our [Melbourne city page](/cities/melbourne/) and our [security drivers in Melbourne](/security-drivers/melbourne/) and [bodyguard hire in Melbourne](/bodyguard-hire/melbourne/) pages.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Melbourne](/bodyguard-hire/melbourne/). For the operators who staff the programme and how they are vetted, see [close protection officers in Melbourne](/close-protection-officers/melbourne/).

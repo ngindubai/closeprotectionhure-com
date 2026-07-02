@@ -35,7 +35,7 @@ faqs:
     answer: "The CPO positions inside Vaclav Havel Airport Prague (PRG) arrivals before the principal clears baggage claim. A pre-departure vehicle check is conducted. The PRG-to-city transfer takes 25 to 45 minutes. For principals with elevated threat profiles, counter-surveillance protocol is applied from the arrivals hall through the transfer to the principal's hotel."
 ---
 
-Close protection officer deployment in Prague is governed by Czech Republic's Act No. 69/2006 Coll. on Security Activities framework. Our Prague CPO teams cover Vaclav Havel Airport Prague (PRG) arrivals and departures, Pankrac, Chodov, and Holesovice corporate meetings, and Dejvice and Bubenec government and diplomatic engagements. Low-visibility operational profile is the standard for corporate assignments.
+This page is about the people who provide close protection in Prague: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Prague network is licensed under Czech Act 69/2006 by the Czech Police and Ministry of Interior, and is assessed for local competence. It covers standard team configuration, the availability of armed cover even though it is not the norm, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Czech Republic regulatory context
 
@@ -44,3 +44,5 @@ All Prague CPO operators hold current Czech Republic credentials under Act No. 6
 ## Complementary Prague services
 
 For the full Prague security picture, see the [Prague city briefing](/cities/prague/) and [secure airport transfers in Prague](/secure-airport-transfers/prague/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Prague](/bodyguard-hire/prague/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Prague](/executive-protection/prague/).

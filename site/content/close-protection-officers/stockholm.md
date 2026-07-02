@@ -35,7 +35,7 @@ faqs:
     answer: "The CPO positions inside Stockholm Arlanda Airport (ARN) arrivals before the principal clears baggage claim. A pre-departure vehicle check is conducted. The ARN-to-city transfer takes 30 to 50 minutes. For principals with elevated threat profiles, counter-surveillance protocol is applied from the arrivals hall through the transfer to the principal's hotel."
 ---
 
-Close protection officer deployment in Stockholm is governed by Sweden's Security Companies Act (Lag 1974:191 om bevakningsforetag) framework. Our Stockholm CPO teams cover Stockholm Arlanda Airport (ARN) arrivals and departures, Ostermalm, Kungsholmen, and Solna corporate meetings, and Ostermalm (Gardet area) government and diplomatic engagements. Low-visibility operational profile is the standard for corporate assignments.
+This page is about the people who provide close protection in Stockholm: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Stockholm network is licensed by the Swedish Police Authority under the Security Companies Act, and is assessed for local competence. It covers standard team configuration, the exceptional-authorisation basis for armed cover, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Sweden regulatory context
 
@@ -44,3 +44,5 @@ All Stockholm CPO operators hold current Sweden credentials under Security Compa
 ## Complementary Stockholm services
 
 For the full Stockholm security picture, see the [Stockholm city briefing](/cities/stockholm/) and [secure airport transfers in Stockholm](/secure-airport-transfers/stockholm/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Stockholm](/bodyguard-hire/stockholm/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Stockholm](/executive-protection/stockholm/).

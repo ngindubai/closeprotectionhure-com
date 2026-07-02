@@ -35,7 +35,7 @@ faqs:
     answer: "A SLED-licensed Close Protection Worker in Melbourne for a corporate engagement typically ranges from AUD 600 to AUD 1,100 per day (approximately GBP 300 to GBP 550), depending on qualifications, former Australian Federal Police, State Police, or ADF special operations background, and the specific operational requirements. Multi-day engagements are structured on a weekly retainer basis. Australian enterprise-level employment regulations and the SLED licensing requirements are reflected in Melbourne CPO market rates. Major events periods (Australian Open, F1 Grand Prix, Melbourne Cup) command a premium due to peak demand concentration."
 ---
 
-Melbourne close protection operates in one of the world's safest cities by ambient crime metrics, under Victoria's SLED licensing framework which provides a specifically named Close Protection Worker licence category that is publicly verifiable. CPO demand in Melbourne is driven by principals carrying external threat profiles, major international events, and the HNWI community that Melbourne's liveability attracts from across the Asia-Pacific region.
+Hiring a bodyguard in Melbourne is typically about terrorism awareness and organised-crime exposure rather than routine street crime. This page covers how close protection hire works in Victoria, what a CAV-registered officer does across a day of movements, and how quickly cover is arranged. Commercial cover is unarmed, so hire pairs a registered officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## The Victorian regulatory framework
 
@@ -46,3 +46,5 @@ The Security Industry Act 1998 (Vic) and Security Industry Regulations 2008 (Vic
 Melbourne CPO engagements cover Collins Street and Southbank CBD corporate work, Toorak and South Yarra HNWI residential coverage, Melbourne Airport transfer operations from Tullamarine, and major events security during the Australian Open, Formula 1 Grand Prix, and Melbourne Cup periods. Low-profile operations appropriate to Australia's informal social culture are the standard for all corporate and HNWI principal assignments.
 
 For the Melbourne city security overview, see our [Melbourne city page](/cities/melbourne/) and [Australia country security page](/countries/australia/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Melbourne](/executive-protection/melbourne/). To check the credentials and vetting behind the officers, see [close protection officers in Melbourne](/close-protection-officers/melbourne/).

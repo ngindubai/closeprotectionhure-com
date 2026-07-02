@@ -35,7 +35,7 @@ faqs:
     answer: "The CPO positions inside Copenhagen Airport Kastrup (CPH) arrivals before the principal clears baggage claim. A pre-departure vehicle check is conducted. The CPH-to-city transfer takes 15 to 25 minutes. For principals with elevated threat profiles, counter-surveillance protocol is applied from the arrivals hall through the transfer to the principal's hotel."
 ---
 
-Close protection officer deployment in Copenhagen is governed by Denmark's Security Guard Act (Vagtvirksomhedsloven) framework. Our Copenhagen CPO teams cover Copenhagen Airport Kastrup (CPH) arrivals and departures, Nordhavn, Osterport, and Orestaden (Amager) corporate meetings, and Osterbro and Hellerup government and diplomatic engagements. Low-visibility operational profile is the standard for corporate assignments.
+This page is about the people who provide close protection in Copenhagen: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Copenhagen network is licensed by the Danish Police under the Guard Act, and is assessed for local competence. It covers standard team configuration, the exceptional-authorisation basis for armed cover, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Denmark regulatory context
 
@@ -44,3 +44,5 @@ All Copenhagen CPO operators hold current Denmark credentials under Security Gua
 ## Complementary Copenhagen services
 
 For the full Copenhagen security picture, see the [Copenhagen city briefing](/cities/copenhagen/) and [secure airport transfers in Copenhagen](/secure-airport-transfers/copenhagen/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Copenhagen](/bodyguard-hire/copenhagen/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Copenhagen](/executive-protection/copenhagen/).

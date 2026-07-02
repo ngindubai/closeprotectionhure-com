@@ -35,7 +35,7 @@ faqs:
     answer: "Bloor-Yorkville, Toronto's primary luxury retail and hospitality district, has experienced documented incidents of high-value theft targeting wealthy individuals, including watch and jewellery theft at or near luxury retail establishments. These incidents are qualitatively different from gang-related violence in residential areas of the city; they represent targeted opportunistic crime directed specifically at the display of high-value items in a luxury retail environment. HNWI principals visiting Yorkville should be briefed on counter-surveillance and asset awareness protocols as part of their close protection engagement."
 ---
 
-Toronto is Canada's principal financial centre and a major hub for North American corporate activity. It operates under a low-risk assessment for general business travel, with the CSIS medium national terrorism threat rating and a specific HNWI targeting environment in Bloor-Yorkville defining the parameters where CPO services are warranted. Private security in Ontario is regulated under the Private Security and Investigative Services Act, 2005 (PSISA), with Ministry of the Solicitor General licensing as the mandatory baseline. CPO services in Toronto serve senior financial and technology executives, HNWI principals, and visiting corporate delegations with specific identified threat profiles.
+Hiring a bodyguard in Toronto is typically about corporate espionage and foreign state interference exposure rather than violent street crime, which is low. This page covers how close protection hire works in Ontario, what a provincially licensed officer does across a day of movements, and how quickly cover is arranged. Most corporate cover is unarmed, so hire pairs a licensed officer with discreet secure transport, scaled to the visit rather than a fixed contract.
 
 ## The PSISA Ontario licensing framework
 
@@ -46,3 +46,5 @@ The Private Security and Investigative Services Act, 2005 (PSISA) requires all c
 CSIS's documented assessments of foreign state-sponsored commercial espionage targeting Bay Street and the Toronto-Waterloo technology corridor, combined with the targeted crime environment in Yorkville and the general corporate security context of a major North American financial hub, define the circumstances where CPO cover adds measurable professional value for specific principals in Toronto.
 
 For complementary services in Toronto, see our [Toronto city page](/cities/toronto/) and [security drivers in Toronto](/security-drivers/toronto/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Toronto](/executive-protection/toronto/). To check the credentials and vetting behind the officers, see [close protection officers in Toronto](/close-protection-officers/toronto/).

@@ -35,7 +35,7 @@ faqs:
     answer: "A SLED-licensed class 1E bodyguard in Sydney ranges from approximately AUD 700 to AUD 1,500 per day per officer as at June 2026 (approximately GBP 360 to GBP 775). Sydney professional CPO rates reflect Australia's high labour costs, the specific 1E licensing requirements, and the high-end market the service addresses. HNWI residential and family protection are structured on a retainer basis."
 ---
 
-Sydney is Australia's largest city and its principal HNWI and corporate hub, with significant concentrations of wealth in the Eastern Suburbs, the Sydney Harbour waterfront, and the North Shore. It is also a city with a well-developed, professionally regulated private security industry built around NSW's Security Industry Act 1997 licensing framework. CPO demand in Sydney is driven by HNWI and UHNWI principal profiles, the specific threat histories that visiting executives bring from other markets, and the ASIO terrorism threat level that has remained at PROBABLE or above for several years.
+Hiring a bodyguard in Sydney is typically about terrorism awareness and communal-violence risk rather than routine street crime. This page covers how close protection hire works in New South Wales, what a Class 1E licensed officer does across a day of movements, and how quickly cover is arranged. Armed cover is not standard practice, so hire pairs a licensed officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## NSW security licensing
 
@@ -46,3 +46,5 @@ The Security Licensing and Enforcement Directorate (SLED) administers NSW securi
 Sydney CPO engagements are typically for HNWI principals who maintain a permanent close protection team, corporate executives from Asia-Pacific markets where CPO cover is a standard business travel norm, visiting entertainment and sports figures with specific audience management requirements, and corporate executives who have received threat communications relevant to their specific sector or public position.
 
 For complementary services in Sydney, see our [Sydney city page](/cities/sydney/) and [security drivers in Sydney](/security-drivers/sydney/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Sydney](/executive-protection/sydney/). To check the credentials and vetting behind the officers, see [close protection officers in Sydney](/close-protection-officers/sydney/).

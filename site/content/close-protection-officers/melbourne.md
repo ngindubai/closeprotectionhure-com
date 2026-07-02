@@ -37,7 +37,7 @@ faqs:
     answer: "Private close protection in Victoria is conducted on an unarmed basis for the overwhelming majority of commercial engagements. The Private Security Act 2004 (Vic) and associated licensing categories do not provide a general route to armed CPO operations in Victoria; specialist armed security functions exist under separate regulatory frameworks and are not relevant to standard commercial CPO work. Melbourne's low-violence environment means that unarmed, professionally qualified CPOs operating on a discreet-profile basis are the appropriate and standard configuration for corporate and HNWI principal protection in the city."
 ---
 
-Melbourne close protection operates in one of Australia's most commercially active cities against a low ambient crime backdrop, under a clear regulatory framework administered by Consumer Affairs Victoria under the Private Security Act 2004 (Vic). The FCDO Australia travel advice (2024) does not flag significant security concerns for Melbourne, and Victoria Police crime statistics confirm the CBD and inner suburbs as a low violent-crime environment for principals operating outside late-night hospitality zones. The CPO market in Melbourne is driven by the HNWI and family-office principal base, the visiting international business community, and the city's exceptional roster of global sporting events.
+This page is about the people who provide close protection in Melbourne: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Melbourne network holds a Security Industry Registration from Consumer Affairs Victoria, and is assessed for local competence. It covers standard team configuration, the unarmed model standard across Australian close protection, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Licensing and compliance in Victoria
 
@@ -46,3 +46,5 @@ Consumer Affairs Victoria issues both the individual bodyguard licence and the c
 ## Melbourne's events-driven CPO market
 
 The Australian Open, Formula 1 Grand Prix, and AFL Grand Final create three defined annual peaks in Melbourne's CPO engagement calendar, each requiring advance work at specific venues. Visiting international principals who travel with protection elsewhere should confirm CPO arrangements for Melbourne in advance of these periods, as demand concentrates and capacity is absorbed quickly. For the full city context, see our [Melbourne city security overview](/cities/melbourne/) and [bodyguard hire in Melbourne](/bodyguard-hire/melbourne/) for engagement structure and service options.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Melbourne](/bodyguard-hire/melbourne/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Melbourne](/executive-protection/melbourne/).

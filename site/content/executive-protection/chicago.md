@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Chicago for a CPO with vehicle and operations controller support range from approximately $600 to $1,100 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Chicago presents an executive protection environment defined by carjacking elevated citywide (CPD Crime Report 2025) and a regulatory framework under Illinois PSISA 2004 (IDFPR). For senior executives and HNWI principals operating across The Loop financial core, River North hospitality district, and Gold Coast residential, a structured EP programme reduces the exposure that uncoordinated travel creates. The CPD Crime Report 2025 and current advisory (FCDO normal precautions 2026; US State Dept Level 1) are the evidential baseline for every pre-travel assessment.
+Executive protection in Chicago is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against sharply varying neighbourhood risk and carjacking exposure: advance work on venues and routes, a written threat assessment, an operations controller, and IDFPR-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Chicago
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Chicago must be licensed under Illinoi
 Chicago's position in financial trading, commodities, law, and a large corporate events ecosystem creates a specific EP operating context: principals in these sectors face both the ambient threat picture identified in the CPD Crime Report 2025 and sector-specific risks, including competitive intelligence activity and, for some industries, targeted crime against high-value corporate visitors. The pre-travel assessment addresses both layers.
 
 For related security services in Chicago, see our [Chicago city page](/cities/chicago/), [security drivers in Chicago](/security-drivers/chicago/), and [bodyguard hire in Chicago](/bodyguard-hire/chicago/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Chicago](/bodyguard-hire/chicago/). For the operators who staff the programme and how they are vetted, see [close protection officers in Chicago](/close-protection-officers/chicago/).

@@ -35,6 +35,8 @@ faqs:
     answer: "Emergency number: 911. Primary facility: Northwestern Memorial Hospital (312-926-2000). Medical routing to the nearest appropriate hospital is pre-planned, CPOs hold current first-aid certification, and medical evacuation routing is built into the operation order before deployment."
 ---
 
-Chicago is a moderate-risk environment where the headline crime figures overstate the picture for corporate principals: CPD Crime Report 2025 concentrates elevated violent crime in specific South and West Side neighbourhoods, while the Loop, River North, and Gold Coast are materially calmer. Carjacking incidents are elevated citywide, making vehicle security discipline a consistent operational priority. All close protection in Illinois is provided by operators licensed under the Private Security Act 2004 and regulated by the IDFPR.
+Hiring a bodyguard in Chicago is usually tied to a specific visit, where neighbourhood crime disparity and carjacking shape the plan more than a single citywide risk level. This page covers how close protection hire works in Illinois, what an IDFPR-licensed officer with Concealed Carry authority does across a day of movements, and how quickly cover is arranged. Most engagements pair a licensed officer with a security driver, scaled to the itinerary rather than a fixed contract.
 
 Detailed city context, including threat analysis and zone-by-zone risk notes, is available on the [Chicago city page](/cities/chicago/). For transport security, see our [vetted security drivers in Chicago](/security-drivers/chicago/). For regional coverage, see our [bodyguard hire in Houston](/bodyguard-hire/houston/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Chicago](/executive-protection/chicago/). To check the credentials and vetting behind the officers, see [close protection officers in Chicago](/close-protection-officers/chicago/).

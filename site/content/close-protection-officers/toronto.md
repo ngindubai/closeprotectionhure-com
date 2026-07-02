@@ -35,7 +35,7 @@ faqs:
     answer: "The Toronto Police Service (TPS) does not actively coordinate with private CPO operators in normal corporate protection engagements. For high-profile event security involving VIP principals (visiting heads of state, internationally recognised figures), the TPS liaises with the RCMP (Royal Canadian Mounted Police) Protective Operations group, which is responsible for federal dignitary protection. Private CPOs operating in Toronto must be aware of TPS jurisdictional authority and the legal boundaries of private security intervention under the Ontario Trespass to Property Act and the Criminal Code of Canada."
 ---
 
-Toronto close protection operates within a well-regulated Ontario licensing framework, a low-to-moderate ambient risk environment, and a corporate geography that is straightforward to navigate from a vehicle-based operational perspective. The Financial District and Yorkville provide compact, operationally accessible CPO operating zones, and the market includes experienced operators with former RCMP, Ontario Provincial Police, and Canadian Armed Forces backgrounds.
+This page is about the people who provide close protection in Toronto: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Toronto network is licensed under Ontario's Private Security and Investigative Services Act, and is assessed for local competence. It covers standard team configuration, the mostly unarmed model, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Ontario regulatory framework for CPOs
 
@@ -46,3 +46,5 @@ The Private Security and Investigative Services Act 2005 (PSIA) provides the reg
 Toronto CPO engagements focus on the Financial District and Bay Street corridor for corporate assignments, Yorkville for HNWI and hospitality coverage, and Pearson Airport for arrival and departure transfer operations. Unarmed operations within the reasonable-force framework apply throughout.
 
 For related services in Toronto, see our [Toronto city page](/cities/toronto/) and [security drivers in Toronto](/security-drivers/toronto/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Toronto](/bodyguard-hire/toronto/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Toronto](/executive-protection/toronto/).

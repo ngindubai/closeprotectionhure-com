@@ -35,7 +35,7 @@ faqs:
     answer: "CPO day rates in Chicago range from approximately $500 to $950 per day, as at June 2026, depending on individual experience, licensing level, and engagement type. Multi-day corporate programme rates apply a reduced daily rate for three or more consecutive days. Vehicle and operations controller costs are typically quoted separately; a combined EP package rate is available on request."
 ---
 
-Close protection officers operating in Chicago are licensed under Illinois Private Detective, Private Alarm, Private Security, Fingerprint Vendor, and Locksmith Act 2004 (IDFPR), with the Illinois Department of Financial and Professional Regulation maintaining the registration register. For corporate executives, HNWI principals, and event organisers requiring vetted CPOs in Chicago, the licensing framework is the starting point for due diligence. The CPD Crime Report 2025 (carjacking elevated citywide (CPD Crime Report 2025)) informs the threat assessment that precedes every CPO deployment.
+This page is about the people who provide close protection in Chicago: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Chicago network holds current IDFPR licensing, with FOID and Concealed Carry authority where armed, and is assessed for Illinois-specific competence. It covers standard team configuration, city-level licensing requirements, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Licensing and due diligence
 
@@ -46,3 +46,5 @@ Confirming the individual CPO's personal licence and the operating company's reg
 CPO deployments in Chicago cover The Loop financial core, River North hospitality district, and Gold Coast residential and the principal movement corridors across I-90/94 Dan Ryan and Kennedy expressways, with the Magnificent Mile on Michigan Avenue. Venue advance work, operations controller integration, and transport coordination with a vetted security driver are the components that distinguish a professional CPO engagement from a standalone hired presence.
 
 For related security services in Chicago, see our [Chicago city page](/cities/chicago/), [bodyguard hire in Chicago](/bodyguard-hire/chicago/), and [executive protection in Chicago](/executive-protection/chicago/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Chicago](/bodyguard-hire/chicago/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Chicago](/executive-protection/chicago/).
