@@ -35,7 +35,7 @@ faqs:
     answer: "A PASARA-compliant CPO in Mumbai ranges from approximately INR 7,000 to INR 18,000 per day per officer as at June 2026 (approximately GBP 65 to GBP 170). Two-person configurations with a dedicated vetted driver are the standard for senior executive engagements. Pricing varies with the threat profile, duration, and whether advance work at hotels and meeting venues is included."
 ---
 
-Mumbai is India's financial capital and one of Asia's largest commercial hubs, hosting the headquarters of major Indian and international corporations alongside the Bombay Stock Exchange and the Reserve Bank of India. The city combines high commercial importance with a specific security history, most directly the November 2008 attacks, and a complex operational environment characterised by extreme traffic, monsoon flooding, and periodic civil disruption.
+This page is about the people who provide close protection in Mumbai: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Mumbai network is certified under PSARA, passes documented background checks, and is assessed for Mumbai-specific competence. It covers standard team configuration, armed cover only under Arms Act licensing and Maharashtra Police permission, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The PASARA framework in Maharashtra
 
@@ -46,3 +46,5 @@ India's Private Security Agencies Regulation Act (PASARA) 2005 provides the nati
 BKC (Bandra Kurla Complex) has become Mumbai's primary financial district, hosting international banks, insurance companies, and the National Stock Exchange. South Mumbai's Nariman Point and Fort area retain significant legacy financial and legal occupancy. CPO pre-advance work at either zone covers hotel proximity to meeting venues, vehicle access points, and the specific security posture at each business address.
 
 For complementary services in Mumbai, see our [Mumbai city page](/cities/mumbai/) and [bodyguard hire in Mumbai](/bodyguard-hire/mumbai/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Mumbai](/bodyguard-hire/mumbai/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Mumbai](/executive-protection/mumbai/).

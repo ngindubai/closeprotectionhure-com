@@ -34,7 +34,7 @@ faqs:
     answer: "A standard single-officer Mumbai EP engagement ranges from INR 18,000 to INR 40,000 per day inclusive of security driver. Female CPO arrangements and multi-city India coordination are priced on the specific scope. As at May 2026, pricing depends on profile, team configuration, and whether the engagement spans multiple Indian states requiring separate PSARA licensing."
 ---
 
-Mumbai executive protection is shaped by the city's dual character: a world-class financial centre with well-developed hotel and venue security infrastructure, and a city where the 2008 terrorist attacks remain the reference point for the terrorism risk that has never been wholly eliminated. Professional EP in Mumbai integrates with the existing hotel security infrastructure, applies PSARA-compliant local operators, and addresses the specific requirements of female executives as a standard rather than a specialised offering.
+Executive protection in Mumbai is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against a documented terrorism history and dense-city exposure: advance work on venues and routes, a written threat assessment, an operations controller, and secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## The EP requirement in Mumbai
 
@@ -51,3 +51,5 @@ Maharashtra PSARA licensing is the regulatory requirement for EP in Mumbai. For 
 Our Mumbai EP engagements are built around Maharashtra PSARA-licensed local operators with specific BKC and South Mumbai experience, female CPO options, post-2008 hotel security integration, and multi-city India coordination for itineraries that extend beyond Mumbai.
 
 For related services, see our [Mumbai city page](/cities/mumbai/), [security drivers Mumbai](/security-drivers/mumbai/), and our [executive protection Mumbai overview](/blog/executive-protection-mumbai/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Mumbai](/bodyguard-hire/mumbai/). For the operators who staff the programme and how they are vetted, see [close protection officers in Mumbai](/close-protection-officers/mumbai/).

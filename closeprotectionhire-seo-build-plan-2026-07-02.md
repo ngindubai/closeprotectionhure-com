@@ -426,7 +426,13 @@ Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** wi
 - **Change per page:** (1) replaced the opening body lede with an intent-framed, city-specific paragraph (bodyguard-hire = transactional hire; executive-protection = corporate programme/duty of care; close-protection-officers = operators/credentials), each 72–85 words citing the city's own regulator + signature threat; (2) appended an intent-specific cross-link paragraph linking the two sibling silos (also advances Batch 7 internal-linking for these cities).
 - **Verification:** build clean (0 errors); each silo's unique lede phrase renders once per page; all three siblings confirmed distinct across sampled cities (dubai, lagos, riyadh, sao-paulo); sibling cross-links resolve; QA gate clean (no em dashes, no safety-guarantee language) across all 30.
 - **Status:** committed.
-- **REMAINING (Batch 5 sub-batches 2..N):** ~254 more cities × 3 silos (~760 pages) still on the old overlapping ledes. Apply the SAME model + treatment, staged ~10 cities per run, Opus-authored ledes (or Sonnet under the "genuinely specific or leave" guardrail). Priority: finish the remaining 5 answer-block cities (mumbai, moscow, bangkok, manila, jakarta) next, then the wider network.
+- **REMAINING (Batch 5 sub-batches 3..N):** ~249 more cities × 3 silos (~745 pages) still on the old overlapping ledes. Apply the SAME model + treatment, staged ~10 cities per run, Opus-authored ledes (or Sonnet under the "genuinely specific or leave" guardrail).
+
+### 2026-07-02 — Batch 5 (sub-batch 2 of N): Differentiation rollout, 5 answer-block cities [OPUS-AUTHORED]
+- **Cities (5):** mumbai, moscow, bangkok, manila, jakarta (completing the 15 direct-answer cities). **Files: 15.**
+- Same treatment as sub-batch 1 (intent lede 70–81 words citing each city's regulator + signature threat: PSARA/Arms Act, Rosgvardiya, Security Guard Business Act, PNP/SOSIA, POLRI; plus sibling cross-links).
+- **Verification:** build clean (0 errors); each silo's unique lede renders once per page across all 5 cities; cross-links resolve; QA gate clean.
+- **Status:** committed + deployed to `master`. **20 of ~264 cities now differentiated (60 pages).**
 
 ### 2026-07-02 — Deploy + branch-rule change (owner instruction)
 - Owner directed all work to go live and to build on the deploy branch. Corrected a misdirection first: the owner said "build on the live branch," but `live` is the auto-generated compiled-output branch (force-pushed by CI, never hand-edited). The real deploy branch is `master`.

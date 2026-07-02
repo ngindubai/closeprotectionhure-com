@@ -33,7 +33,7 @@ faqs:
     answer: "EP day rates in Manila for a vetted, PNP and SOSIA-licensed CPO typically range from USD 150 to USD 300 per day; two-person team rates with an armed CPO and security driver run USD 300 to USD 600 per day plus vehicle costs, as at June 2026. Armoured vehicle provision adds to the base rate. Multi-day retainer structures for extended Manila programmes are available at contracted daily rates with a minimum commitment period."
 ---
 
-Manila executive protection addresses a documented and critical KFR threat environment assessed by OSAC (2024) as critical. PNP and SOSIA licensing under Republic Act 5487 provides the regulatory baseline; ex-PNP and ex-AFP CPOs with Metro Manila KFR-environment experience provide the operational standard. Armed EP determination requires pre-engagement threat assessment -- it is not a default in Manila but it is a genuine consideration that lower-threat cities do not require.
+Executive protection in Manila is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing kidnap for ransom and armed robbery: advance work on venues and routes, a written threat assessment, an operations controller, and secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Philippine regulatory compliance
 
@@ -44,3 +44,5 @@ Manila CPOs hold PNP Security Guard Licences administered through SOSIA under RA
 Advance work covers NAIA airport arrival management, Makati CBD and BGC venue assessments, KFR counter-surveillance protocols, traffic intelligence for journey management, and armed vs. unarmed determination based on pre-engagement threat assessment.
 
 For the broader Manila security overview, see our [Manila city page](/cities/manila/) and our [security drivers in Manila](/security-drivers/manila/) and [bodyguard hire in Manila](/bodyguard-hire/manila/) pages.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Manila](/bodyguard-hire/manila/). For the operators who staff the programme and how they are vetted, see [close protection officers in Manila](/close-protection-officers/manila/).

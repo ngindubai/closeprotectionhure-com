@@ -35,7 +35,7 @@ faqs:
     answer: "A PNP-SOSIA-licensed close protection officer in Manila typically ranges from USD 150 to USD 350 per day for unarmed cover, with armed CPO rates at the higher end of this range and above, depending on qualifications, former PNP or AFP (Armed Forces of the Philippines) special operations background, and the specific operational requirements. Multi-day engagements are structured on a retainer basis. The Philippines' large licensed security guard pool creates a wide range of quality and price points; professional operators with documented CPO training and verifiable SOSIA licences represent the appropriate selection for senior principal protection."
 ---
 
-Manila close protection is shaped by a documented kidnap-for-ransom risk that is more significant for corporate principals in Metro Manila than in most other Southeast Asian capitals, a PNP-regulated market with a well-established armed security culture, and an extreme traffic environment that creates specific route security challenges. The FCDO and OSAC both document the elevated awareness requirement; professional CPO cover for Manila delivers proportionate operational protection against these specific and evidenced risks.
+Hiring a bodyguard in Manila is usually tied to a specific visit, where kidnap for ransom, armed robbery, and heavy traffic congestion make secure movement the priority. This page covers how close protection hire works in the Philippines, what a PNP-licensed officer does across a day of movements, and how quickly cover is arranged. Armed cover is standard and available through PNP-licensed agencies, so hire pairs an officer with a security driver, scaled to the itinerary rather than a fixed contract.
 
 ## The Philippine regulatory framework
 
@@ -46,3 +46,5 @@ Republic Act 5487 (as amended by RA 11767) and PNP-SOSIA licensing provide the r
 Manila CPO engagements incorporate anti-kidnapping protocols as a standard component alongside conventional close protection. Makati CBD and BGC district coverage, NAIA airport transfer security, and traffic route planning through Metro Manila's extreme congestion environment are the primary operational elements. Armed cover is available and regulated for threat profiles that justify it.
 
 For the Manila city security overview, see our [Manila city page](/cities/manila/) and [Philippines country security page](/countries/philippines/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Manila](/executive-protection/manila/). To check the credentials and vetting behind the officers, see [close protection officers in Manila](/close-protection-officers/manila/).

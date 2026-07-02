@@ -37,7 +37,7 @@ faqs:
     answer: "The Philippines permits licensed private security personnel to carry firearms under certain conditions governed by the Firearms and Ammunition Regulation Act and PNP firearms regulations. Whether a CPO engagement in Manila includes armed cover depends on the threat assessment for the specific principal and is confirmed at the engagement briefing stage. Armed security is more commonly deployed in the Philippines than in most European markets, reflecting the threat environment. All firearms carry must be covered by current PNP licences for both the individual and the operating company."
 ---
 
-Manila close protection addresses a demanding operational environment combining a documented kidnapping-for-ransom risk for foreign principals, chronic traffic congestion that affects every movement decision, and a regulatory baseline under the PNP Security Industry Unit that requires both company and individual verification. The US OSAC Manila Crime and Safety Report (2024) explicitly identifies corporate executives and HNWI visitors as elevated targets for ransom activity in Metro Manila, making anti-surveillance and route unpredictability the defining priorities of any CPO engagement in the city.
+This page is about the people who provide close protection in Manila: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Manila network holds a PNP security guard licence through a SOSIA-regulated agency, passes documented background checks, and is assessed for local competence. It covers standard team configuration, armed cover through PNP-licensed agencies, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Licensing and verification
 
@@ -46,3 +46,5 @@ Republic Act 5487 (as amended 1992) and PNP-SIU licensing provide the regulatory
 ## Operational priorities
 
 Manila CPO deployments are structured around three priorities: anti-surveillance and movement unpredictability to reduce kidnapping exposure; vehicle security protocols suited to the city's congested road network; and NAIA airport transfer management, which is a high-exposure moment for arriving foreign principals. For the full threat picture, see our [Manila city security overview](/cities/manila/) and our [bodyguard hire in Manila](/bodyguard-hire/manila/) page for engagement structure and pricing.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Manila](/bodyguard-hire/manila/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Manila](/executive-protection/manila/).

@@ -34,7 +34,7 @@ faqs:
     answer: "Single-officer unarmed close protection in Mumbai typically ranges from INR 12,000 to INR 25,000 per day (approximately GBP 115 to GBP 240 in May 2026). Vehicle-based protection with security driver adds INR 4,000 to INR 8,000 per day. Pricing depends on profile, duration, and whether team-based detail is required."
 ---
 
-Mumbai is India's financial capital and one of the most internationally connected business destinations in South Asia. It is also a city whose security environment is shaped both by the 2008 attacks that permanently changed hotel security infrastructure and by the broader ambient picture of a city of 20 million people where most business visitors operate without incident.
+Hiring a bodyguard in Mumbai is usually tied to a specific visit, where a documented terrorism history, street crime, and dense traffic shape the plan. This page covers how close protection hire works in India, what a PSARA-certified officer does across a day of movements, and how quickly cover is arranged. Armed cover requires Arms Act licensing and Maharashtra Police permission, so most hire pairs a licensed officer with a security driver, scaled to the itinerary rather than a fixed contract.
 
 ## The Mumbai threat environment
 
@@ -53,3 +53,5 @@ Armed private close protection in India is restricted under the Arms Act. Most c
 Our Mumbai detail is built around Maharashtra PSARA-licensed operators with specific experience of the BKC, Nariman Point, and South Mumbai corporate environments, and of the post-2008 hotel security protocols at the major international properties. For female executives the brief includes specific transport, after-hours, and accommodation considerations that respond to Mumbai's specific safety picture rather than a generic India template.
 
 For complementary services in Mumbai, see our [Mumbai city page](/cities/mumbai/), [executive protection Mumbai](/blog/executive-protection-mumbai/), and our [bodyguard licence India PSARA guide](/blog/bodyguard-licence-india-psara/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Mumbai](/executive-protection/mumbai/). To check the credentials and vetting behind the officers, see [close protection officers in Mumbai](/close-protection-officers/mumbai/).

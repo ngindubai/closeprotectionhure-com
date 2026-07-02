@@ -37,7 +37,7 @@ faqs:
     answer: "Jakarta's traffic congestion is severe by any global standard and is a genuine security consideration, not merely an operational inconvenience. Slow-moving or stationary vehicles in predictable traffic queues create vulnerability to vehicle-based crime and surveillance. For principals at elevated threat levels, traffic density influences route selection, departure timing, and vehicle specification. FCDO Indonesia travel advice documents petty crime and vehicle crime as risks for foreign nationals, and the combination of Jakarta's traffic environment with the city's crime profile means that transport management is a core CPO deliverable, not a secondary consideration."
 ---
 
-Jakarta is Indonesia's commercial capital and one of South-East Asia's most significant business hubs. It is also one of the region's most demanding close protection environments. The FCDO Indonesia travel advice (updated 2024) rates the terrorism threat in Indonesia as high, reflecting a documented history of Islamist terrorist attacks including the 2002 Bali bombings, the 2009 Jakarta hotel bombings, and the 2016 Thamrin district attack.
+This page is about the people who provide close protection in Jakarta: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Jakarta network is certified under POLRI regulation, passes documented background checks, and is assessed for Indonesia-specific competence. It covers standard team configuration, the usually unarmed model, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Regulatory framework
 
@@ -48,3 +48,5 @@ Indonesia's private security sector is regulated by POLRI under Perkapolri No. 2
 Venue pre-advance with terrorism-aware assessment is the foundation of all Jakarta CPO operations. Traffic management, cultural sensitivity in a Muslim-majority environment, and integration with the security infrastructure of international hotels and corporate campuses are the operational pillars. BNPT threat bulletins are monitored throughout every engagement.
 
 For broader context on Jakarta's security environment, see our [Jakarta city page](/cities/jakarta/) and [bodyguard hire in Jakarta](/bodyguard-hire/jakarta/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Jakarta](/bodyguard-hire/jakarta/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Jakarta](/executive-protection/jakarta/).

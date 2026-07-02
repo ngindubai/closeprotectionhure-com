@@ -35,7 +35,7 @@ faqs:
     answer: "In a Moscow emergency, the CPO's primary responsibilities are: physical principal protection during any incident; communication with the operations controller and the relevant embassy security attache; implementation of the agreed emergency departure plan if evacuation is the appropriate response; documentation of the incident for post-event reporting; and, if law enforcement contact occurs, facilitating but not obstructing the principal's right to communicate with their embassy under the Vienna Convention on Consular Relations. The CPO must also maintain awareness of the specific legal constraints on private security personnel under Russian law to avoid creating additional legal exposure for the principal."
 ---
 
-Moscow close protection in the current environment is a specialist, high-risk function that operates at the intersection of conventional physical security and state-level counter-intelligence awareness. The FCDO advises against all travel to Russia as at 2024; CPO services in Moscow are provided exclusively for organisations and individuals with a documented necessary presence despite that advisory.
+This page is about the people who provide close protection in Moscow: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Moscow network is licensed under Rosgvardiya as a Russian operator, passes documented background checks, and is assessed for local competence. It covers standard team configuration, the constraints on foreign security firms, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Russian regulatory and intelligence environment
 
@@ -46,3 +46,5 @@ Rosgvardia licensing under Federal Law No. 2487-I provides the formal regulatory
 Moscow CPO engagements operate under heightened OPSEC discipline, in close coordination with the relevant embassy security structure, and with an active emergency departure plan maintained throughout. Conventional physical security capability is a prerequisite; the distinguishing capability for a Moscow operator is the ability to navigate the state-level risk environment without creating additional legal or political exposure for the principal.
 
 For the broader threat picture for Moscow, see our [Moscow city page](/cities/moscow/) and [security drivers in Moscow](/security-drivers/moscow/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Moscow](/bodyguard-hire/moscow/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Moscow](/executive-protection/moscow/).

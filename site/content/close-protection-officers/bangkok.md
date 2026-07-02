@@ -35,7 +35,7 @@ faqs:
     answer: "Yes. For principals whose engagements extend from Bangkok to other Southeast Asian destinations (Singapore, Kuala Lumpur, Jakarta, Vietnam), we can arrange continuity-of-protection cover with vetted operators in those markets. The Bangkok-based operations controller maintains oversight throughout a regional itinerary, and the CPO brief is updated for each destination country's regulatory and threat environment. For travel to countries where the FCDO advises against travel, a formal risk assessment and adjusted operational protocol are required."
 ---
 
-Bangkok close protection operations are shaped by a CPO market that is professional and capable but regulated at company level rather than through an individual public licence register. The city's political history and documented mass-casualty attack risk add a threat dimension that most Southeast Asian cities do not share, making pre-engagement threat assessment and political awareness a non-negotiable part of any Bangkok CPO brief.
+This page is about the people who provide close protection in Bangkok: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Bangkok network is registered under the Security Guard Business Act, passes documented background checks, and is assessed for Thailand-specific competence. It covers standard team configuration, the usually unarmed model, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Thai regulatory framework for CPOs
 
@@ -46,3 +46,5 @@ The Private Security Business Act B.E. 2558 (2015) establishes company-level lic
 Bangkok CPO engagements operate at a consistently low visible profile in corporate and hospitality environments. Counter-surveillance awareness, political monitoring, and airport transfer capability are standard operational components. Pre-advance at the principal's venues is built into every multi-day Bangkok engagement.
 
 For related services in Bangkok, see our [Bangkok city page](/cities/bangkok/) and [security drivers in Bangkok](/security-drivers/bangkok/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Bangkok](/bodyguard-hire/bangkok/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Bangkok](/executive-protection/bangkok/).

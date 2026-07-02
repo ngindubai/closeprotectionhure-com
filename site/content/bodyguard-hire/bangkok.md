@@ -35,7 +35,7 @@ faqs:
     answer: "Bangkok's protest cycles, which have periodically closed central areas including the Ratchaprasong intersection and Government House vicinity, present route disruption, tear gas deployment, and occasional confrontational incidents. The 2010 Red Shirt protests resulted in 91 deaths and widespread central Bangkok disruption. During elevated protest periods, CPO operations in Bangkok include daily route pre-planning, hotel venue-selection advice, and real-time monitoring of demonstration locations. Principals are advised not to engage with or photograph protest gatherings."
 ---
 
-Bangkok is a significant regional business hub and major gateway city for South and Southeast Asia, but its political environment, history of mass-casualty events, and periodic protest disruptions make it a city where close protection planning adds measurable value for high-profile or high-risk principals. The Private Security Business Act B.E. 2558 (2015) provides the regulatory framework for private security companies, with Royal Thai Police oversight and company-level licensing as the operating model.
+Hiring a bodyguard in Bangkok is often tied to a specific visit, where periodic political unrest and a residual terrorism threat matter more than everyday violence. This page covers how close protection hire works in Thailand, what a licensed officer does across a day of movements, and how quickly cover is arranged. Firearms are restricted and cover is usually unarmed, so hire pairs a licensed officer with discreet secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## The Thai private security regulatory framework
 
@@ -46,3 +46,5 @@ Thailand regulates private security at company level under the Private Security 
 The FCDO's Thailand travel advice (2024) rates the country as requiring heightened awareness, citing political unrest risk, the history of coup activity, and the deep-south insurgency. In Bangkok specifically, the 2015 Erawan Shrine bombing demonstrated that mass-casualty attacks targeting tourist and business areas are within the operational threat range. Corporate principals engaged in politically sensitive sectors, visiting during periods of elevated protest activity, or conducting high-profile public-facing engagements benefit from a CPO who understands both the current political temperature and Bangkok's specific geography.
 
 For complementary services in Bangkok, see our [Bangkok city page](/cities/bangkok/) and [security drivers in Bangkok](/security-drivers/bangkok/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Bangkok](/executive-protection/bangkok/). To check the credentials and vetting behind the officers, see [close protection officers in Bangkok](/close-protection-officers/bangkok/).

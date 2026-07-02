@@ -33,7 +33,7 @@ faqs:
     answer: "EP day rates in Jakarta for a POLRI-licensed, KTA SATPAM-certified CPO typically range from USD 150 to USD 300 per day; two-person team rates with a security driver run USD 300 to USD 550 per day plus vehicle costs, as at June 2026. Extended engagement retainers for multi-week Jakarta corporate programmes are available at contracted daily rates with a minimum commitment period. Vehicle upgrade to an armoured option adds to the base rate for principals with elevated threat profiles."
 ---
 
-Jakarta executive protection operates in a FCDO very likely terrorism threat environment with a documented history of attacks on international business hotels and Western-associated locations. POLRI licensing under Government Regulation No. 60 of 2017 provides the regulatory framework; extreme traffic congestion and civil unrest monitoring are the additional operational factors that distinguish Jakarta EP from comparable regional markets.
+Executive protection in Jakarta is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against terrorism exposure, periodic civil unrest, and natural-hazard risk: advance work on venues and routes, a written threat assessment, an operations controller, and secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Indonesian POLRI regulatory compliance
 
@@ -44,3 +44,5 @@ Jakarta CPOs hold POLRI KTA SATPAM credentials at the appropriate training level
 Advance work covers hotel and venue terrorism awareness assessment, CGK airport arrival and departure logistics, traffic intelligence for journey management, and civil unrest and demonstration monitoring for the principal's engagement period.
 
 For the broader Jakarta security overview, see our [Jakarta city page](/cities/jakarta/) and our [security drivers in Jakarta](/security-drivers/jakarta/) and [bodyguard hire in Jakarta](/bodyguard-hire/jakarta/) pages.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Jakarta](/bodyguard-hire/jakarta/). For the operators who staff the programme and how they are vetted, see [close protection officers in Jakarta](/close-protection-officers/jakarta/).

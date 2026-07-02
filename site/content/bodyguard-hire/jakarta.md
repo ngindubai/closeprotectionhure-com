@@ -35,7 +35,7 @@ faqs:
     answer: "A vetted close protection officer in Jakarta for a corporate engagement typically ranges from USD 180 to USD 400 per day, depending on qualifications, English proficiency, former military or police background, and the specific requirements of the engagement. Multi-day engagements in the SCBD or Kemang residential areas are structured on a retainer basis. Indonesian market rates for CPO cover reflect the country's cost structure; the premium applies to English-speaking, internationally trained operators with verifiable POLRI licensing."
 ---
 
-Jakarta close protection is defined primarily by the operational challenge of the world's most congested city road network, a political risk environment that requires ongoing monitoring during election and transition periods, and a regional terrorist threat backdrop that the FCDO and OSAC both document as a real awareness factor. The Indonesian private security market under POLRI regulation is large and capable, with former TNI (Indonesian Armed Forces) and POLRI personnel providing strong operational depth.
+Hiring a bodyguard in Jakarta is often tied to a specific visit, where terrorism awareness, periodic civil unrest, and severe traffic shape the plan. This page covers how close protection hire works in Indonesia, what a POLRI-certified operator does across a day of movements, and how quickly cover is arranged. Firearms are strictly controlled and cover is usually unarmed, so hire pairs a licensed officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## The Indonesian regulatory framework
 
@@ -46,3 +46,5 @@ POLRI regulation under Peraturan Kapolri No. 24 Tahun 2007 provides company-leve
 Jakarta CPO engagements are dominated by vehicle-based transfer planning through an extreme congestion environment, SCBD and Menteng district coverage for corporate and diplomatic assignments, Soekarno-Hatta airport transfer operations, and political awareness monitoring during elevated-risk periods.
 
 For the Jakarta city security overview, see our [Jakarta city page](/cities/jakarta/) and [Indonesia country security page](/countries/indonesia/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Jakarta](/executive-protection/jakarta/). To check the credentials and vetting behind the officers, see [close protection officers in Jakarta](/close-protection-officers/jakarta/).
