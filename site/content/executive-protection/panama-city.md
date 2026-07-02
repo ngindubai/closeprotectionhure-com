@@ -37,7 +37,7 @@ faqs:
     answer: "Yes. Multi-country itineraries are managed as a single programme with operator coordination in each country. Operator arrangements in Costa Rica, Panama and Colombia, for example, can be structured under a unified command with consistent communication protocols and a single point of accountability for the client."
 ---
 
-Panama City's position as Central America's primary financial centre makes it a regular destination for senior executives in banking, legal services, shipping and infrastructure. The city's medium risk rating reflects a manageable but real threat picture: organised crime networks with Clan del Golfo affiliate connections operate in border areas, carjacking and armed robbery are documented patterns, civil unrest has disrupted ground transport on more than one occasion, and the Darien province border remains an against-all-travel advisory zone for FCDO.
+Executive protection in Panama City is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing organised crime and Darien region risk: advance work on venues and routes, a written threat assessment, an operations controller, and licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Programme structure
 
@@ -54,3 +54,5 @@ Panama City's executive protection programmes frequently cover principals operat
 Before any Panama City executive protection programme begins, a written threat and vulnerability assessment is produced covering the principal's profile and sector, the itinerary, known crime patterns relevant to each movement, and civil unrest considerations. This drives the protection plan and is updated if itinerary changes occur during the visit.
 
 For individual service components, see [bodyguard hire in Panama City](/bodyguard-hire/panama-city/) and [security drivers in Panama City](/security-drivers/panama-city/). For the full country context, see the [Panama City security overview](/cities/panama-city/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Panama City](/bodyguard-hire/panama-city/). For the operators who staff the programme and how they are vetted, see [close protection officers in Panama City](/close-protection-officers/panama-city/).

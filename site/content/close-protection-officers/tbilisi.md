@@ -33,8 +33,10 @@ faqs:
     answer: "Yes. Our South Caucasus partners can provide CPO coverage for multi-country itineraries covering Georgia, Armenia, and Azerbaijan. The Georgia-Armenia and Georgia-Azerbaijan land crossings are managed as part of the regional brief, with specific documentary and crossing protocols briefed before each cross-border movement."
 ---
 
-Tbilisi CPO operations address a medium-risk operating environment with specific strategic complexities: the absolute South Ossetia and Abkhazia exclusion zones, active political protest dynamics on Rustaveli Avenue, and the intelligence landscape that the Russian-relocation effect has created in the South Caucasus.
+This page is about the people who provide close protection in Tbilisi: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Tbilisi network holds Ministry of Internal Affairs licensing, and is assessed for local competence within a reasonably well-developed sector. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 Ministry of Internal Affairs-licensed operators with South Caucasus experience deliver close protection calibrated to these specific factors and to the growing volume of senior executive and HNWI visitors attracted by Georgia's improving business environment.
 
 For the full Tbilisi security picture, see our [Tbilisi city briefing](/cities/tbilisi/). For principals requiring vetted transport as the primary security measure for Tbilisi and South Caucasus movements, [security drivers in Tbilisi](/security-drivers/tbilisi/) covers the Ministry-licensed chauffeur programme.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Tbilisi](/bodyguard-hire/tbilisi/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Tbilisi](/executive-protection/tbilisi/).

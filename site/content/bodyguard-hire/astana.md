@@ -37,7 +37,7 @@ faqs:
     answer: "Access to Kazakhstani government buildings is subject to security protocols that typically restrict external bodyguards. Our team conducts advance liaison to confirm access permissions and, where entry is restricted, maintains a secure holding position with rapid response capability at the building perimeter."
 ---
 
-Astana is Kazakhstan's planned capital and the administrative and commercial centre of one of Central Asia's largest economies. The city hosts the headquarters of major national energy corporations, international financial institutions, and regular high-level diplomatic summits, making it a significant destination for corporate delegations and government-facing executives.
+Hiring a bodyguard in Astana is typically about counter-intelligence awareness and business-crime risk rather than violent street crime. This page covers how close protection hire works in Kazakhstan, what an MVD/CCSP-licensed operator does across a day of movements, and how quickly cover is arranged. Only Kazakh-licensed personnel may carry weapons, so hire pairs a licensed local operator with secure transport, scaled to the itinerary rather than a fixed contract.
 
 The risk environment is low to moderate by regional standards. Violent crime directed at foreign visitors is uncommon, but the energy sector's prominence means that executives and negotiating teams may attract unwanted attention from commercial intelligence operatives or opportunistic actors. The January 2022 civil unrest, which spread from western Kazakhstan to major cities including Astana, illustrated that the political landscape can shift with limited warning. A professional bodyguard detail allows executives to maintain operational tempo during periods of instability.
 
@@ -46,3 +46,5 @@ Our Astana-based protection officers hold valid Ministry of Internal Affairs lic
 For executives attending energy negotiations, government meetings, or Expo-era international events, we provide single-officer escorts through to multi-person details with dedicated vehicles. All details include advance route reconnaissance, hotel liaison, and airport transfer cover from NQZ.
 
 Explore the full Astana city security profile at [/cities/astana/](/cities/astana/) and review specialist [security driver services in Astana](/security-drivers/astana/) for secure ground transport options.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Astana](/executive-protection/astana/). To check the credentials and vetting behind the officers, see [close protection officers in Astana](/close-protection-officers/astana/).

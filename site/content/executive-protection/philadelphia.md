@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Philadelphia for a CPO with vehicle and operations controller support range from approximately USD 650-1,150 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Philadelphia presents an executive protection environment defined by a moderate risk profile and a regulatory framework under Pennsylvania Act 235 (Lethal Weapons Training Act), Pennsylvania State Police. For senior executives and HNWI principals operating across Center City, Rittenhouse Square, and Old City, a structured EP programme reduces the exposure that uncoordinated travel creates. Current advisory status and local police crime data are the evidential baseline for every pre-travel assessment.
+Executive protection in Philadelphia is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against violent crime in specific zones and protest-linked disruption: advance work on venues and routes, a written threat assessment, an operations controller, and Act 235 certified secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Philadelphia
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Philadelphia must be licensed under Pe
 Philadelphia's position in healthcare, finance, pharmaceuticals, and major convention events creates a specific EP operating context: principals in these sectors face both the ambient threat picture and sector-specific risks identified in the pre-travel assessment. The threat picture (moderate. PPD Crime Statistics 2024 records elevated violent crime concentrated in North Philadelphia and Kensington, with Center City and Rittenhouse Square recording materially lower rates.) informs route planning, advance work, and situational-awareness protocols for every engagement.
 
 For related security services in Philadelphia, see our [Philadelphia city page](/cities/philadelphia/), [security drivers in Philadelphia](/security-drivers/philadelphia/), and [bodyguard hire in Philadelphia](/bodyguard-hire/philadelphia/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Philadelphia](/bodyguard-hire/philadelphia/). For the operators who staff the programme and how they are vetted, see [close protection officers in Philadelphia](/close-protection-officers/philadelphia/).

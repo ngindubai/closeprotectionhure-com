@@ -35,6 +35,8 @@ faqs:
     answer: "Yes. Samarkand is a standard extension of the Tashkent CPO brief and is accessible by high-speed train or short-haul flight. Fergana Valley operations require a separate risk assessment given the elevated regional terrorism and ethnic tension profile; coverage is available through our Uzbekistan partners but is treated as a distinct engagement from Tashkent city operations."
 ---
 
-Tashkent is Central Asia's most populous capital and the primary hub for the region's energy, gas, and infrastructure sectors. The intelligence and surveillance context of Uzbekistan's authoritarian political system, Central Asia's residual terrorism background, and the specific logistics of operations beyond Tashkent city are the primary CPO planning elements. Physical crime risk for visiting executives is low relative to many emerging market peers.
+Hiring a bodyguard in Tashkent is typically about state surveillance and legal and regulatory risk rather than violent street crime. This page covers how close protection hire works in Uzbekistan, what a Ministry of Internal Affairs licensed operator does across a day of movements, and how quickly cover is arranged. The sector is less formalised than in neighbouring Kazakhstan, so hire pairs a vetted local operator with secure transport, scaled to the itinerary rather than a fixed contract.
 
 For the broader Tashkent and Uzbekistan security context, see our [Tashkent city page](/cities/tashkent/). For principals also visiting neighbouring Kazakhstan as part of the Central Asia itinerary, [bodyguard hire in Almaty](/bodyguard-hire/almaty/) covers the full Kazakhstan CPO programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Tashkent](/executive-protection/tashkent/). To check the credentials and vetting behind the officers, see [close protection officers in Tashkent](/close-protection-officers/tashkent/).

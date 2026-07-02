@@ -37,6 +37,8 @@ faqs:
     answer: "Old Town hotels (Rooms Hotel, Stamba, and several boutique properties in Abanotubani) require specific vehicle access advance work given the cobbled street and pedestrian zone restrictions. EP advance confirms the vehicle approach route for each property, identifies any pedestrian-only sections, and maps emergency vehicle access from the hotel to the nearest main road."
 ---
 
-Tbilisi executive protection is shaped primarily by the South Ossetia and Abkhazia ABL exclusion mapping, the political protest monitoring requirement during Georgia's post-election instability period, and the Old Town operational complexity. Ministry of Internal Affairs-licensed operators under the 2010 Law on Private Detective and Security Activity are the regulatory foundation.
+Executive protection in Tbilisi is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against regional instability and intelligence and surveillance risk: advance work on venues and routes, a written risk assessment, an operations controller, and licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 For the full Tbilisi security picture and Georgia travel advisory, see our [Tbilisi city page](/cities/tbilisi/). For principals whose primary need in Georgia is vetted transport, [security drivers in Tbilisi](/security-drivers/tbilisi/) covers the Ministry-licensed chauffeur programme across Georgia and the South Caucasus.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Tbilisi](/bodyguard-hire/tbilisi/). For the operators who staff the programme and how they are vetted, see [close protection officers in Tbilisi](/close-protection-officers/tbilisi/).

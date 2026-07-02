@@ -33,8 +33,10 @@ faqs:
     answer: "Yes. Uzbekistan has significant gas reserves, gold deposits, uranium, and a growing manufacturing sector. International investment in energy and infrastructure is growing rapidly under President Mirziyoyev's liberalisation programme since 2016. CPO demand for Tashkent is increasing as the volume of senior executive and investor visits grows. Energy sector and government contract principals are the primary categories for which CPO is appropriate, given the counter-intelligence dimensions of these sectors in the Uzbek operating environment."
 ---
 
-Tashkent CPO operations address a medium-risk physical environment with a materially elevated institutional risk profile: state surveillance, legal unpredictability, and the intelligence environment created by Uzbekistan's energy and mining sector opening to international investment.
+This page is about the people who provide close protection in Tashkent: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Tashkent network holds Ministry of Internal Affairs licensing, and is assessed for local competence given a less formalised regulatory sector. It covers standard team configuration, extra due-diligence steps, and the credential checks a buyer should insist on before engaging any officer.
 
 Ministry of Internal Affairs-licensed operators with Central Asia commercial experience deliver close protection that covers both the physical and institutional dimensions of the Tashkent operating environment.
 
 For the full Tashkent security picture, see our [Tashkent city briefing](/cities/tashkent/). For Central Asia context and the comparable Almaty operating environment, [close protection officers in Almaty](/close-protection-officers/almaty/) covers the Kazakhstan CPO programme.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Tashkent](/bodyguard-hire/tashkent/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Tashkent](/executive-protection/tashkent/).

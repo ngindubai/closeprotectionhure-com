@@ -35,7 +35,7 @@ faqs:
     answer: "Non-US operators may not carry firearms in Arizona. Unarmed protective services require AZDPS licensing compliance. Clients should verify operator AZDPS licence status before engagement. Clients should confirm the operating structure and licensing status of any proposed CPO arrangement before travel, particularly for cross-border itineraries."
 ---
 
-Phoenix is a moderate-risk environment for close protection operations, drawing on PPD Crime Statistics 2024 and FCDO advises normal precautions for the United States (2026); no specific advisory for Phoenix. US State Department Level 1 (Exercise Normal Precautions) for the United States as of 2026. For HNWI principals and senior executives operating across Downtown Phoenix, Scottsdale, and the Tempe Town Lake area, licensed CPO cover provides a materially different standard of personal protection from uncoordinated or unlicensed alternatives.
+This page is about the people who provide close protection in Phoenix: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Phoenix network holds a current AZDPS licence under ARS Title 32, Chapter 26, and is assessed for local competence. It covers standard team configuration, Arizona's minimal firearms-regulation environment, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The United States licensing framework
 
@@ -50,3 +50,5 @@ A Phoenix CPO detail typically begins with pre-advance work at the principal's a
 The operations controller function maintains a real-time timeline and holds emergency contact protocols for Banner University Medical Center Phoenix (602-747-4000), St. Joseph's Hospital and Medical Center (602-406-3000), and local emergency services (911).
 
 For complementary services, see our [Phoenix city page](/cities/phoenix/) and [bodyguard hire in Phoenix](/bodyguard-hire/phoenix/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Phoenix](/bodyguard-hire/phoenix/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Phoenix](/executive-protection/phoenix/).

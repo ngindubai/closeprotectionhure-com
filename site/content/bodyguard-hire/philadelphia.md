@@ -35,6 +35,8 @@ faqs:
     answer: "Emergency number: 911. Primary facility: Thomas Jefferson University Hospital (215-955-6000). Medical routing to the nearest appropriate hospital is pre-planned, CPOs hold current first-aid certification, and medical evacuation routing is built into the operation order before deployment."
 ---
 
-Philadelphia is a moderate-risk environment for close protection deployments. For HNWI principals and corporate executives visiting Center City, Rittenhouse Square, and Old City, vetted bodyguards licensed under Pennsylvania Act 235 (Lethal Weapons Training Act), Pennsylvania State Police provide a materially different standard of personal protection from unvetted alternatives. The local police crime data informs route planning and counter-surveillance protocols applied on Philadelphia's principal movement corridors.
+Hiring a bodyguard in Philadelphia is usually tied to a specific visit, where violent crime in specific zones and protest activity shape the plan. This page covers how close protection hire works in Pennsylvania, what an Act 235 certified officer does across a day of movements, and how quickly cover is arranged. Armed cover is available under a Pennsylvania LTCF, so hire pairs a certified officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 Detailed city context, including threat analysis and zone-by-zone risk notes, is available on the [Philadelphia city page](/cities/philadelphia/). For transport security, see our [vetted security drivers in Philadelphia](/security-drivers/philadelphia/). For regional coverage, see our [bodyguard hire in New York](/bodyguard-hire/new-york/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Philadelphia](/executive-protection/philadelphia/). To check the credentials and vetting behind the officers, see [close protection officers in Philadelphia](/close-protection-officers/philadelphia/).

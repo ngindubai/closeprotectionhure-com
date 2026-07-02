@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Phoenix for a CPO with vehicle and operations controller support range from approximately USD 620-1,080 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Phoenix presents an executive protection environment defined by a moderate risk profile and a regulatory framework under Arizona Revised Statutes Title 32, Chapter 26, administered by Arizona DPS Licensing Unit. For senior executives and HNWI principals operating across Downtown Phoenix, Scottsdale, and the Tempe Town Lake area, a structured EP programme reduces the exposure that uncoordinated travel creates. FCDO advises normal precautions for the United States (2026); no specific advisory for Phoenix. US State Department Level 1 (Exercise Normal Precautions) for the United States as of 2026.
+Executive protection in Phoenix is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against drug-related disorder and extreme-heat operational factors: advance work on venues and routes, a written risk assessment, an operations controller, and AZDPS-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Phoenix
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Phoenix must be licensed under Arizona
 Phoenix's position in finance, technology, real estate, and major trade shows and sporting events creates a specific EP operating context: principals in these sectors face both the ambient threat picture and sector-specific risks identified in the pre-travel assessment. The threat picture (moderate. PPD Crime Statistics 2024 record elevated property crime and vehicle theft, with hotspots in parts of South Phoenix, Maryvale, and sections west of the I-17 corridor.) informs route planning, advance work, and situational-awareness protocols for every engagement.
 
 For related security services in Phoenix, see our [Phoenix city page](/cities/phoenix/), [security drivers in Phoenix](/security-drivers/phoenix/), and [bodyguard hire in Phoenix](/bodyguard-hire/phoenix/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Phoenix](/bodyguard-hire/phoenix/). For the operators who staff the programme and how they are vetted, see [close protection officers in Phoenix](/close-protection-officers/phoenix/).

@@ -35,7 +35,7 @@ faqs:
     answer: "Pre-advance at Vienna's major conference venues (Hofburg, Vienna International Centre, Austria Centre Vienna) requires coordination with the venue's own security arrangements. The Vienna International Centre operates its own UN security service, and CPO operators must coordinate access credentials for their personnel in advance of the principal's visit. At the Hofburg, Austrian Federal Palace administration security coordinates for high-level state events. At the ACV, conference security management provides the coordination point. Pre-advance at each venue confirms approach routes, parking and vehicle access, reception and handover points, and emergency procedure activation protocols."
 ---
 
-Vienna close protection is distinguished by the city's unique position as a global diplomatic hub, hosting UNOV, IAEA, OSCE, and OPEC in an environment that combines very low ambient crime with a documented active intelligence operations landscape. For diplomatic, international organisation, and senior corporate principals whose work intersects with Vienna's diplomatic functions, CPO cover addresses the state-level threat dimension that the city's general low-crime profile does not capture.
+This page is about the people who provide close protection in Vienna: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Vienna network holds Bewachungsgewerbe licensing and Gewerbeberechtigung authorisation, and is assessed for local competence. It covers standard team configuration, the specific licensing required for the armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Austrian regulatory framework for CPOs
 
@@ -46,3 +46,5 @@ Bewachungsgewerbe licensing under the Gewerbeordnung 1994 and Personenschutz qua
 Vienna CPO engagements focus on the Innere Stadt and Ring corridor for diplomatic and hotel venue work, the Vienna International Centre for UNOV and IAEA engagements, and Vienna International Airport for arrival and departure transfer operations. Counter-surveillance awareness appropriate to an active intelligence environment is a standard operational component for senior diplomatic principal assignments.
 
 For related services in Vienna, see our [Vienna city page](/cities/vienna/) and [security drivers in Vienna](/security-drivers/vienna/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Vienna](/bodyguard-hire/vienna/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Vienna](/executive-protection/vienna/).

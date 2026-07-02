@@ -37,7 +37,7 @@ faqs:
     answer: "The operating company must hold Ministerio de Gobierno registration with the Directorate of Specialised Security Services. Individual CPOs must hold personal registration with annual renewal. Armed operators require weapons authorisations under the same framework. All documentation should be provided before the deployment begins and verified directly with the Ministerio de Gobierno."
 ---
 
-Quito is Ecuador's capital and the operational base for government, international organisations, and regional corporate activity in the northern Andean zone. Close protection officer demand in Quito has increased significantly since 2022, when Ecuador's security environment deteriorated sharply due to the expansion of Colombian cartel-linked criminal organisations into Ecuadorian cities. Kidnapping, armed robbery, and carjacking have all increased. The January 2024 security crisis demonstrated that the threat can escalate suddenly to a level that disrupts normal urban operations.
+This page is about the people who provide close protection in Quito: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Quito network is registered with the Directorate of Specialised Security Services under the Ministerio de Gobierno, and is assessed for local competence. It covers standard team configuration, widely available armed cover, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Ministerio de Gobierno licensing framework
 
@@ -46,3 +46,5 @@ Ecuador's Ministerio de Gobierno's Directorate of Specialised Security Services 
 ## CPO work in Quito
 
 Armed Ministerio de Gobierno-licensed CPO, unpredictable movement patterns, vetted vehicle transport from Mariscal Sucre International Airport, pre-advance in La Mariscal and Gonzalez Suarez, operations controller support, and a written emergency plan with pre-confirmed contacts at Hospital Metropolitano and the British Embassy. For the full Quito threat picture, see our [Quito city page](/cities/quito/) and [bodyguard hire in Quito](/bodyguard-hire/quito/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Quito](/bodyguard-hire/quito/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Quito](/executive-protection/quito/).

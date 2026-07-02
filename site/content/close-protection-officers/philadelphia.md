@@ -35,7 +35,7 @@ faqs:
     answer: "A foreign close protection officer may accompany a principal into Philadelphia as part of an international protective detail but cannot engage in commercial close protection for hire in Pennsylvania without appropriate licensing under the Private Detective Act of 1953. For any commercial detail in Pennsylvania, both the operating company and individual CPOs must hold current Pennsylvania State Police licensing."
 ---
 
-Philadelphia is a major economic and institutional hub on the US East Coast, home to significant concentrations of financial services, healthcare, pharmaceutical, and academic institutions across Center City, University City, and the broader Delaware Valley region. The city's documented violent crime environment, concentrated in specific neighbourhoods of North and West Philadelphia, combined with citywide vehicle theft activity, makes close protection a considered operational requirement for senior executives and high-profile principals visiting the region.
+This page is about the people who provide close protection in Philadelphia: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Philadelphia network holds Act 235 Lethal Weapons Training certification and complies with local licensing provisions, and is assessed for local competence. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Pennsylvania licensing framework
 
@@ -54,3 +54,5 @@ Suburban engagements extending to the Main Line or Delaware County require route
 The operational threat picture for Philadelphia CPO work draws on the Philadelphia Police Department Annual Report 2024, which documents violent crime and vehicle theft patterns by district. Licensing requirements are current under the Pennsylvania Private Detective Act of 1953 (22 P.S. sections 14-44) as at June 2026. Armed carry provisions follow the Pennsylvania Uniform Firearms Act and LTCF conditions. Rates cited are indicative for the Philadelphia market as at June 2026 and should be confirmed at time of enquiry.
 
 For complementary services, see our [Philadelphia city page](/cities/philadelphia/) and [bodyguard hire in Philadelphia](/bodyguard-hire/philadelphia/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Philadelphia](/bodyguard-hire/philadelphia/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Philadelphia](/executive-protection/philadelphia/).

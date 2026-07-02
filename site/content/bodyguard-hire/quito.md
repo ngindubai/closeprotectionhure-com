@@ -33,7 +33,7 @@ faqs:
     answer: "The medical plan for every Quito assignment includes the best available local medical facility for initial stabilisation and, where local capability is limited, evacuation routing to the nearest internationally accredited hospital. Medevac provider contacts are confirmed active before the principal's arrival. Medical evacuation insurance is the baseline requirement."
 ---
 
-Bodyguard hire in Quito operates within Ecuador's licensing framework, with close protection officers drawn from a vetted partner network holding valid national security authorisation.
+Hiring a bodyguard in Quito is usually tied to a specific visit, where kidnapping, express kidnapping, and armed robbery shape the plan more than routine crime. This page covers how close protection hire works in Ecuador, what an operator registered with the Directorate of Specialised Security Services does across a day of movements, and how quickly cover is arranged. Armed security is widely available, so hire pairs a registered officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## The Quito security environment
 
@@ -44,3 +44,5 @@ The current security environment in Quito requires a bodyguard programme calibra
 A Quito bodyguard programme covers airport transfers with inside-terminal collection, accommodation in vetted properties in the primary security zone, in-city movement with pre-planned routes and operations controller tracking, and a documented emergency action plan with medevac provisions.
 
 For the full Quito security picture, see our [Quito city briefing](/cities/quito/). For principals requiring security drivers, [security drivers in Quito](/security-drivers/quito/) covers the Ecuador programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Quito](/executive-protection/quito/). To check the credentials and vetting behind the officers, see [close protection officers in Quito](/close-protection-officers/quito/).

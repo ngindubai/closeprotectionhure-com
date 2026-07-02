@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency procedures for Yerevan deployments must be established before the principal arrives. The close protection plan must specify: police contact protocol (emergency number: confirm locally), nearest medical facility (Nairi Medical Centre), medevac pre-authorisation to Tbilisi or Istanbul, communications backup if primary network fails, and crisis comms protocol for the principal's organisation. Medevac insurance pre-authorisation is a non-negotiable requirement for any Yerevan deployment."
 ---
 
-Yerevan requires a close protection approach calibrated to its medium risk rating and the specific characteristics of Armenian post-conflict geopolitical environment. Fcdo advises a high degree of caution; us state dept level 2, border areas level 3 (2026).
+Hiring a bodyguard in Yerevan is usually tied to a specific visit, where geopolitical border tension and unexploded ordnance risk shape the plan alongside political demonstrations. This page covers how close protection hire works in Armenia, what an Armenian Police licensed officer does across a day of movements, and how quickly cover is arranged. Firearms licensing requires specific authorisation, so hire pairs a licensed officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 For corporate and high-net-worth principals visiting Yerevan, the standard bodyguard hire deployment includes a vetted security driver for all airport and city movements, advance work covering hotel and venue security surveys, and mobile close protection calibrated to the principal's individual threat profile. All close protection officers deployed in Armenia must hold licensing from the Armenian Police. Medical evacuation pre-arrangement to Tbilisi or Istanbul is a mandatory component of any Yerevan protective deployment.
 
 For regional security context, see our [Tbilisi security briefing](/cities/tbilisi/) and our [bodyguard hire services in Baku](/bodyguard-hire/baku/). See also our [Yerevan city security briefing](/cities/yerevan/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Yerevan](/executive-protection/yerevan/). To check the credentials and vetting behind the officers, see [close protection officers in Yerevan](/close-protection-officers/yerevan/).
