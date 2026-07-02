@@ -1,24 +1,29 @@
 {{ define "title" }}{{ if .Params.seo_title }}{{ .Params.seo_title }}{{ else }}{{ .Title }} | {{ .Site.Params.brand }}{{ end }}{{ end }}
 
 {{ define "schema" }}
+{{ $author := .Params.author | default "CloseProtectionHire.com" }}
+{{ $bios := dict
+  "James Calloway, Senior Security Consultant" "Senior Security Consultant specialising in private security regulation, licensing, vetting, and risk frameworks. Writes on compliance and residential security, citing the relevant Acts and regulators by name."
+  "Marcus Webb, Security Operations Adviser" "Security Operations Adviser focused on operational close protection, secure transport, and city-specific travel safety, drawing on FCDO and US State Department reporting and lived operational patterns."
+}}
+{{ $bio := index $bios $author | default "Security consultant writing on executive protection and close-quarter security operations across high-risk regions." }}
+{{ $img := printf "/images/%s" (.Params.hero_image | default "Close-Protection-2560.webp") | absURL }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": {{ .Title | jsonify }},
   "description": {{ .Params.description | default .Title | jsonify }},
+  "image": {{ $img | jsonify }},
+  "mainEntityOfPage": {{ .Permalink | jsonify }},
   "datePublished": "{{ .Date.Format "2006-01-02" }}",
   "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
   "author": {
     "@type": "Person",
-    "name": {{ .Params.author | default "CloseProtectionHire.com" | jsonify }},
-    "description": "Senior security consultant with 15+ years in executive protection and close-quarter security operations across high-risk regions."
+    "name": {{ $author | jsonify }},
+    "description": {{ $bio | jsonify }}
   },
-  "publisher": {
-    "@type": "Organization",
-    "name": "CloseProtectionHire.com",
-    "url": "https://closeprotectionhire.com"
-  }
+  "publisher": { "@id": "https://closeprotectionhire.com/#organization" }
 }
 </script>
 {{ end }}

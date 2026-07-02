@@ -389,6 +389,12 @@ Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** wi
 - **Extension (6.2.5, Sonnet OK later):** remaining cities can follow this rubric under the QA gate, applying the "genuinely specific or leave unset" guardrail.
 - **DEFERRED (6.2.6):** optionally tighten `llms.txt` city one-liners to echo each answer's signature threat/regulator. Left as-is for now (current descriptions are accurate); revisit in a later llms.txt upgrade pass.
 
+### 2026-07-02 — Batch 8: Blog Article schema (Finding F10)
+- **File:** `site/layouts/blog/single.html` schema block. Added `image` (hero, absolute URL, fallback to site default) and `mainEntityOfPage` (permalink). Replaced the single hardcoded author `description` with a per-persona `dict` lookup keyed on `.Params.author` (James Calloway → regulation/licensing bio; Marcus Webb → operational/transport bio, per `AGENTS.md`), with a generic fallback. Changed `publisher` to reference the sitewide Organization `@id` (from Batch 2.2).
+  - *Why:* Article schema lacked an image (needed for article rich results) and applied one consultant's bio to every byline regardless of persona. `sameAs` for authors omitted (no real profiles — consistent with the Organization decision).
+- **Verification:** build clean; confirmed Calloway vs Webb posts each get the correct bio; `image`/`mainEntityOfPage`/`publisher @id` present; all 216 blog JSON-LD blocks parse, 0 errors.
+- **Status:** committed.
+
 ### 2026-07-02 — Plan maintenance
 - Added **Batch 1B (llms.txt)** to the plan per session rule 5, overriding the audit's "skip llms.txt" note.
 - Annotated Batch 1.2 with the city-guard correctness note.
