@@ -35,7 +35,7 @@ faqs:
     answer: "Every Vientiane CPO deployment includes a documented emergency action plan covering medical emergency (naming the receiving facility: Mahosot Hospital in Vientiane or evacuation to Bangkok), vehicle compromise procedures, communications protocols, and the operations controller's emergency activation procedure."
 ---
 
-The capital of laos and the administrative, diplomatic, and development finance centre of a one-party state with significant chinese and multilateral investment presence. Close protection officers in Vientiane are deployed through licensed Laos operators with current ground knowledge, providing a structured CPO programme calibrated to the low-risk environment.
+This page is about the people who provide close protection in Vientiane: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Vientiane network is registered with the Ministry of Public Security, and is assessed for local competence within a less developed regulatory framework than counterpart Southeast Asian systems. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Laos CPO licensing framework
 
@@ -44,3 +44,5 @@ CPO operations in Vientiane are regulated through the Ministry of Public Securit
 ## CPO operations in Vientiane
 
 Licensed CPO cover, vehicle-based movement for all inter-venue transfers, airport collection inside Wattay International Airport (VTE) terminal, operations restricted to the central city, Chanthaboury and Sikhottabong districts for standard corporate assignments, and a written emergency plan with pre-confirmed contacts at the best available medical facilities. For the full Vientiane security picture, see our [Vientiane city page](/cities/vientiane/) and [bodyguard hire in Vientiane](/bodyguard-hire/vientiane/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Vientiane](/bodyguard-hire/vientiane/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Vientiane](/executive-protection/vientiane/).

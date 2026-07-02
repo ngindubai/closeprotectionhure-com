@@ -43,7 +43,7 @@ faqs:
     answer: "Most international flights arrive at Yangon International Airport (RGN). Principals then travel to Naypyidaw either by domestic flight to Naypyidaw Airport (NYT) or by road on the Yangon-Naypyidaw expressway, a journey of approximately 5 hours. Both the expressway route and domestic flight transfers require EP planning and advance logistics coordination."
 ---
 
-Executive protection in Naypyidaw operates in the most restricted and legally complex capital city environment in Southeast Asia. Since the February 2021 SAC coup, the conventional EP market has been largely supplanted by corporate security programmes run through principal organisations directly, supported by vetted local personnel operating within the constraints of military checkpoint procedures, zone access controls, and a layered international sanctions framework.
+Executive protection in Naypyidaw is a programme built for Myanmar's most controlled operating environment, not a single officer. It is the discipline a company applies for essential-presence organisations with a government-liaison function: checkpoint management, detention-risk awareness, an operations controller, and evacuation-readiness planning, integrated with the itinerary. This page is for security managers designing protection around a visit to the purpose-built capital, where restrictive conditions set the framework.
 
 ## The Naypyidaw security environment
 
@@ -60,3 +60,5 @@ EP in Naypyidaw is designed around the specific constraints of the SAC environme
 The medical emergency action plan, with Bangkok as the evacuation destination at approximately 2 hours by air, is the foundational safety net for any Naypyidaw engagement. An embedded medic or first-aid-trained CPO is standard given the limited local medical response capability.
 
 For the full Naypyidaw security picture, see our [Naypyidaw city briefing](/cities/naypyidaw/). For vetted secure transport alongside the EP team, [security drivers in Naypyidaw](/security-drivers/naypyidaw/) covers the Myanmar driver programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Naypyidaw](/bodyguard-hire/naypyidaw/). For the operators who staff the programme and how they are vetted, see [close protection officers in Naypyidaw](/close-protection-officers/naypyidaw/).

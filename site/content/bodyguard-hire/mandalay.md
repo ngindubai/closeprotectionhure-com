@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency numbers: 999 (limited reliability in the current conflict environment) (police), Mandalay General Hospital: +95 2 36110 (ambulance). Primary facility: Mandalay General Hospital (+95 2 36110). Secondary: British Embassy Yangon (nearest embassy to Mandalay) (+95 1 370 863). Medical routing is pre-planned; CPOs hold current first-aid certification."
 ---
 
-Bodyguard hire in Mandalay addresses a critical risk environment: Armed conflict (post-2021 coup civil war), risk of arbitrary detention, and infrastructure disruption. Myanmar Police Force (post-2021 coup framework) is the regulatory baseline for all Mandalay close protection engagements.
+Bodyguard hire in Mandalay addresses a critical risk environment defined by post-2021 coup civil war, arbitrary-detention risk, and infrastructure disruption. This page covers how close protection hire actually works under the Myanmar Police Force's post-coup framework, what an operator with current Myanmar experience provides across a day of movements, and how quickly cover is arranged given an unpredictable regulatory environment. Engagement is calibrated to checkpoint management and evacuation readiness rather than a standard hire process.
 
 Private security company licensing in Myanmar is administered by the Myanmar Police Force under military control following the February 2021 coup. The regulatory environment is significantly disrupted and any security engagement in Myanmar requires extensive pre-deployment legal assessment.
 
 Detailed city context is available on the [Mandalay city page](/cities/mandalay/). For transport security, see [vetted security drivers in Mandalay](/security-drivers/mandalay/). For regional coverage, see [bodyguard hire in Bangkok](/bodyguard-hire/bangkok/). Firearms: armed security arrangements in myanmar post-2021 require careful legal assessment before engagement.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Mandalay](/executive-protection/mandalay/). To check the credentials and vetting behind the officers, see [close protection officers in Mandalay](/close-protection-officers/mandalay/).

@@ -35,7 +35,7 @@ faqs:
     answer: "The medical plan for every Vientiane assignment includes the Mahosot International Clinic for initial stabilisation and medical evacuation to Bangkok's Bumrungrad International Hospital for serious cases. Medevac provider contacts are confirmed active before the principal's arrival. Medical evacuation insurance is the baseline requirement."
 ---
 
-Bodyguard hire in Vientiane operates within Laos's Ministry of Public Security licensing framework, with close protection officers drawn from a vetted partner network holding valid national security authorisation.
+Hiring a bodyguard in Vientiane is typically about the political environment and road safety rather than violent crime, which is low. This page covers how close protection hire works in Laos, what a Ministry of Public Security registered operator provides across a day of movements, and how quickly cover is arranged. Armed private security is not the standard commercial model, so hire pairs an unarmed registered operator with secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## The Vientiane security environment
 
@@ -46,3 +46,5 @@ Vientiane's security environment is assessed as low risk for physical crime. The
 A Vientiane bodyguard programme covers airport transfers with inside-terminal collection at Wattay International Airport, accommodation in vetted properties, in-city movement with pre-planned routes and operations controller tracking, operational security briefings covering photography restrictions and surveillance awareness, and a documented emergency action plan with Bangkok medevac provisions.
 
 For the full Vientiane security picture, see our [Vientiane city briefing](/cities/vientiane/). For principals requiring secure transfers, [secure airport transfers in Vientiane](/secure-airport-transfers/vientiane/) covers the Laos programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Vientiane](/executive-protection/vientiane/). To check the credentials and vetting behind the officers, see [close protection officers in Vientiane](/close-protection-officers/vientiane/).

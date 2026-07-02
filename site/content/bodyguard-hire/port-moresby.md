@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency numbers: 000 (police), Pacific International Hospital: +675 323 4400 (ambulance). Primary facility: Pacific International Hospital (+675 323 4400). Secondary: Port Moresby General Hospital (+675 324 8200). Medical routing is pre-planned; CPOs hold current first-aid certification."
 ---
 
-Bodyguard hire in Port Moresby addresses a high risk environment: Raskol gang activity, carjacking, and kidnap risk. Security (Protection) Act 2004, administered by the PNG Police Force is the regulatory baseline for all Port Moresby close protection engagements.
+Hiring a bodyguard in Port Moresby is usually tied to a specific visit, where raskol gang activity, carjacking, and kidnapping shape the plan alongside civil unrest. This page covers how close protection hire works in Papua New Guinea, what a Security (Protection) Act 2004 licensed operator does across a day of movements, and how quickly cover is arranged. Firearms are common here, so hire pairs a licensed armed officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 Security companies operating in Port Moresby must hold a current licence under the Security (Protection) Act 2004, administered by the PNG Police Force. Licence verification is important given the variability in operator quality in the Port Moresby market.
 
 Detailed city context is available on the [Port Moresby city page](/cities/port-moresby/). For transport security, see [vetted security drivers in Port Moresby](/security-drivers/port-moresby/). For regional coverage, see [bodyguard hire in Brisbane](/bodyguard-hire/brisbane/). Firearms: armed private security is available through licensed png operators.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Port Moresby](/executive-protection/port-moresby/). To check the credentials and vetting behind the officers, see [close protection officers in Port Moresby](/close-protection-officers/port-moresby/).

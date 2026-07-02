@@ -33,7 +33,7 @@ faqs:
     answer: "Commercial flights from Naypyidaw International Airport (NYT) to Bangkok (approximately 2 hours) and Singapore are the primary options. Charter flight capacity is maintained. Overland options to Thailand require specific route assessment. Bangkok's Bumrungrad Hospital is the standard medical evacuation destination. The written evacuation plan for every Naypyidaw assignment documents all three routes with current operator contacts."
 ---
 
-Naypyidaw bodyguard hire operates within Myanmar's post-coup political environment at its most controlled: the military government's purpose-built capital, where the Tatmadaw's direct presence is most concentrated and the operating conditions for foreign nationals are the most restrictive. Essential-presence organisations and businesses with a Naypyidaw government-liaison function operate under a bodyguard framework calibrated to checkpoint management, detention risk, and evacuation readiness.
+Naypyidaw bodyguard hire operates within Myanmar's post-coup political environment at its most controlled, in the military government's purpose-built capital. This page covers how close protection hire actually works here for essential-presence organisations and government-liaison functions, what a bodyguard framework calibrated to checkpoint management, detention risk, and evacuation readiness provides across a day of movements, and how quickly cover is arranged given the most restrictive operating conditions in the country.
 
 ## The Naypyidaw operating environment
 
@@ -44,3 +44,5 @@ Myanmar has been under military junta governance since the February 2021 coup. N
 A Naypyidaw bodyguard programme covers checkpoint-compliant ground movement, documentation management, inside-terminal collection at Naypyidaw International Airport (NYT), accommodation in the ministry or hotel zone, digital security briefing, detention risk protocol, and a written evacuation plan covering commercial and charter flight options to Bangkok or Singapore.
 
 For the full Naypyidaw security picture, see our [Naypyidaw city briefing](/cities/naypyidaw/). For principals maintaining a Yangon presence alongside Naypyidaw work, [bodyguard hire in Yangon](/bodyguard-hire/yangon/) covers the Myanmar commercial capital CPO programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Naypyidaw](/executive-protection/naypyidaw/). To check the credentials and vetting behind the officers, see [close protection officers in Naypyidaw](/close-protection-officers/naypyidaw/).

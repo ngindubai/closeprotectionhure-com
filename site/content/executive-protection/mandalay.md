@@ -35,8 +35,10 @@ faqs:
     answer: "Primary medical facility: Mandalay General Hospital (+95 2 36110). Emergency: 999 (limited reliability in the current conflict environment) (police), Mandalay General Hospital: +95 2 36110 (ambulance). Medical routing is pre-planned as part of every operation order. CPOs hold current first-aid certification and medical evacuation coordination to Bangkok (approximately 2 hours by air) is confirmed before deployment."
 ---
 
-Executive protection in Mandalay addresses a critical risk environment: Armed conflict (post-2021 coup civil war), risk of arbitrary detention, and infrastructure disruption. Myanmar Police Force (post-2021 coup framework) is the regulatory baseline for all Mandalay executive protection engagements.
+Executive protection in Mandalay is a programme calibrated to a critical risk environment, not a single officer. It is the discipline a company applies to protect a travelling executive against post-coup civil war, arbitrary-detention risk, and infrastructure disruption: checkpoint management, an operations controller, evacuation readiness, and secure transport under the post-coup Myanmar Police Force framework, integrated with the itinerary. This page is for security managers designing protection where operator currency matters most.
 
 Private security company licensing in Myanmar is administered by the Myanmar Police Force under military control following the February 2021 coup. The regulatory environment is significantly disrupted and any security engagement in Myanmar requires extensive pre-deployment legal assessment.
 
 For Mandalay city context, see our [Mandalay security briefing](/cities/mandalay/). For transport security, see [security drivers in Mandalay](/security-drivers/mandalay/). For regional context, see [executive protection in Bangkok](/executive-protection/bangkok/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Mandalay](/bodyguard-hire/mandalay/). For the operators who staff the programme and how they are vetted, see [close protection officers in Mandalay](/close-protection-officers/mandalay/).

@@ -33,7 +33,7 @@ faqs:
     answer: "The emergency action plan for every Vientiane EP programme covers: medical emergency (naming the receiving facility and evacuation routing), vehicle compromise (contingency routing and shelter options), political demonstration response (avoidance protocols and contingency routing), and communications procedures. The plan is shared with the principal and their organisation before deployment."
 ---
 
-Executive protection in Vientiane is built around licensed Laos operators with current ground knowledge, providing a structured programme covering the principal's full movement cycle in the city.
+Executive protection in Vientiane is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against political-environment and road-safety risk: advance work on venues and routes, a written risk assessment, an operations controller, and Ministry of Public Security registered secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## The Vientiane EP environment
 
@@ -44,3 +44,5 @@ EP in Vientiane provides a structured security overlay for the principal movemen
 An EP programme in Vientiane covers the full principal movement cycle: advance work at all venues, close escort during movements, accommodation security liaison, daily route variation, a documented emergency action plan, and medevac provider confirmation before arrival.
 
 For the full Vientiane security picture, see our [Vientiane city briefing](/cities/vientiane/). For principals requiring security drivers, [security drivers in Vientiane](/security-drivers/vientiane/) covers the Laos programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Vientiane](/bodyguard-hire/vientiane/). For the operators who staff the programme and how they are vetted, see [close protection officers in Vientiane](/close-protection-officers/vientiane/).

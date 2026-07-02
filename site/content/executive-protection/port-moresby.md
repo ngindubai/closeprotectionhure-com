@@ -35,8 +35,10 @@ faqs:
     answer: "Primary medical facility: Pacific International Hospital (+675 323 4400). Emergency: 000 (police), Pacific International Hospital: +675 323 4400 (ambulance). Medical routing is pre-planned as part of every operation order. CPOs hold current first-aid certification and medical evacuation coordination to Brisbane or Cairns is confirmed before deployment."
 ---
 
-Executive protection in Port Moresby addresses a high risk environment: Raskol gang activity, carjacking, and kidnap risk. Security (Protection) Act 2004, administered by the PNG Police Force is the regulatory baseline for all Port Moresby executive protection engagements.
+Executive protection in Port Moresby is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing raskol gang activity, carjacking, and kidnapping: advance work on venues and routes, a written threat assessment, an operations controller, and PNG Police Force licensed armed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 Security companies operating in Port Moresby must hold a current licence under the Security (Protection) Act 2004, administered by the PNG Police Force. Licence verification is important given the variability in operator quality in the Port Moresby market.
 
 For Port Moresby city context, see our [Port Moresby security briefing](/cities/port-moresby/). For transport security, see [security drivers in Port Moresby](/security-drivers/port-moresby/). For regional context, see [executive protection in Brisbane](/executive-protection/brisbane/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Port Moresby](/bodyguard-hire/port-moresby/). For the operators who staff the programme and how they are vetted, see [close protection officers in Port Moresby](/close-protection-officers/port-moresby/).
