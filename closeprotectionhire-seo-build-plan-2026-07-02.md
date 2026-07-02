@@ -119,6 +119,7 @@ Add at the **top** of `_default/single.html`, before `{{ define "main" }}`:
 ```
 - This gives all six silos Service + FAQ + Breadcrumb structured data they currently lack.
 - **Do NOT add `aggregateRating` or review counts.** YMYL structured-data spam risk.
+- **CORRECTNESS GUARD (added during execution 2026-07-02):** `_default/single.html` also renders utility pages (about, contact, privacy, terms, faq) and guides that have no `city`. Emitting a `Service`/`areaServed` node on those produces nonsense (e.g. `"About in About"`). The Service node is therefore wrapped in `{{ if .Params.city }}…{{ end }}`; FAQPage stays guarded by `{{ with .Params.faqs }}` and BreadcrumbList emits on every page. Verified: `public/about/index.html` has BreadcrumbList only, no Service.
 
 ### 1.3 (Optional, same batch) De-duplicate FAQ markup
 The `faq-accordion.html` partial still emits microdata FAQPage. With JSON-LD now present, you may strip the `itemscope`/`itemprop`/`itemtype` attributes from that partial to avoid a double declaration. **Low priority — skip if it risks touching the accordion's behaviour.** The double declaration is not harmful, just redundant.
@@ -132,6 +133,31 @@ The `faq-accordion.html` partial still emits microdata FAQPage. With JSON-LD now
 
 **Live review links to output after deploy:** one URL per section sample, e.g.
 `/bodyguard-hire/abidjan/`, `/executive-protection/lagos/`, `/close-protection-officers/nairobi/`, `/security-drivers/dubai/`, `/residential-security/mexico-city/`, `/secure-airport-transfers/istanbul/`.
+
+---
+
+# BATCH 1B — llms.txt (DISCOVERABILITY) — **[SONNET]**
+**Added 2026-07-02 per session rule 5. This OVERRIDES the audit's Finding 13 note that llms.txt is safe to skip.**
+> Rationale: Google does not read `llms.txt`, but other AI systems (some ChatGPT, Perplexity, Claude retrieval paths and a growing set of agents) do, and it drives real referral traffic. The site's `robots.txt` already advertises `# LLM map: https://closeprotectionhire.com/llms.txt` in a comment, so the file is *expected but missing* (currently 404). Treat llms.txt as a live, maintained deliverable, upgraded as later batches land.
+
+### 1B.1 Create `site/static/llms.txt` (Sonnet OK)
+- Follow the emerging llms.txt convention: H1 site name, a `>` blockquote one-line summary, then themed `##` sections of Markdown links (`- [Label](https://…): short description`).
+- Sections to include: Core Services (the 7 silos' section hubs), Locations (city hub + a curated set of priority cities, not all 278 — link the hub and let it fan out), Guides, Blog hub, Risk Assessments, Company (about/contact/faq).
+- Keep it curated and honest — llms.txt is a map, not a dump. Link hubs, not every one of 2,400 pages.
+- Absolute URLs. British English. No em dashes. No safety-guarantee language (same QA gate as content).
+
+### 1B.2 Decision questions for this batch
+- **Q(1B-a):** Curated hub-level llms.txt (recommended — link section hubs + ~15 priority cities), or an exhaustive variant that also enumerates every city? *Recommendation: curated hub-level; exhaustive lists read as spam to the same systems we want citations from and go stale fast.*
+- **Q(1B-b):** Do you want a richer `llms-full.txt` companion (full expanded descriptions) later, or is the single `llms.txt` enough for now? *Recommendation: single file now; revisit after Batch 6 answer-blocks exist, since those make ideal llms.txt descriptions.*
+
+### 1B.3 Upgrade hooks (maintenance)
+- After Batch 3 (country dedupe): ensure no retired slug (`/countries/uk/`, `/countries/usa/`) appears in llms.txt.
+- After Batch 6 (answer-first): reuse the direct-answer sentences as the llms.txt link descriptions.
+- Record every llms.txt change in the changelog like any other fix.
+
+### 1B.4 Verify & ship
+- Build check (`llms.txt` is a static file, so confirm it lands at `public/llms.txt`).
+- Confirm it is reachable at the URL the `robots.txt` comment advertises.
 
 ---
 
@@ -284,3 +310,23 @@ Deliverable of this step: a one-page decision memo committed alongside this plan
 | **Batch 6.2** — direct-answer copy pattern + first tranche | Non-boilerplate authoring at scale; templated answers re-create thin content. |
 
 Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** with the build-check + QA gate discipline above.
+
+---
+
+## Changes made and why
+*(Append-only log. Written so entries can be lifted straight into the routine build prompts. Each entry: finding ID · files/lines · what · why · verification.)*
+
+### 2026-07-02 — Batch 1: Repair fallback template (Findings F1, F3, F4, F11)
+- **File:** `site/layouts/_default/single.html`
+  - **Added `{{ define "schema" }}` block (new, top of file, ~48 lines).** Emits three JSON-LD scripts: `Service` (guarded by `{{ if .Params.city }}`), `FAQPage` (guarded by `{{ with .Params.faqs }}`, ranges the `faqs` array), and `BreadcrumbList` (Home → Section → Page, always). All interpolated strings use `| jsonify` to prevent quote-injection build breaks.
+    - *Why:* the 6 service silos (1,638 pages) fell through this template, which had **no** schema block, so they emitted zero structured data (F3). FAQ was microdata-only (F4) and there was no BreadcrumbList anywhere (F11). Service+FAQ+Breadcrumb JSON-LD is what Google uses for entity binding and AI-Overview eligibility.
+    - *Correctness guard added vs. the original plan:* Service node wrapped in `{{ if .Params.city }}` so utility/guide pages (about, contact, guides) don't emit nonsense `"About in About"` Service schema.
+  - **Added `{{/* SERVICE COMPONENTS */}}` section** between `.Content` and the FAQ partial (~26 lines). Ports the `event-security` card-grid pattern: ranges `.Params.components`, renders `title`/`description` per component in a 3-col grid, using the safe backtick `printf` (`printf \`%.1fs\``) for the WOW stagger.
+    - *Why (F1, highest ROI):* every silo page carried 6 sourced intelligence components (~900 words) in front matter that the fallback template **never rendered**. 1,638 pages were shipping ~250 visible words while their best, sourced content was invisible to Google — the exact thin/scaled-content profile the June 2026 spam update targets. Now rendered.
+- **Verification:** `hugo --gc --minify` clean, 2,413 pages, 0 errors (baseline was also 2,413/0). Components confirmed rendering on `bodyguard-hire/abidjan`. JSON-LD validated by parser across 120 random silo pages: 359 blocks, 0 parse errors. Guard confirmed: `about` page has BreadcrumbList only, no Service. Pages without FAQs correctly emit 2 blocks not 3.
+- **Status:** committed to `claude/close-protection-seo-audit-0yjirj` (deploy to `master` is via PR/merge, not direct push). Deferred question resolved by default (user said "continue" after the approval prompt failed to deliver).
+- **Decision 1.3 (resolved — leave as-is):** the redundant FAQ microdata in `partials/faq-accordion.html` was LEFT in place. It is harmless (JSON-LD is the primary signal) and stripping it carried a small risk of disturbing the Bootstrap accordion. Revisit only if a validator flags a double-declaration warning.
+
+### 2026-07-02 — Plan maintenance
+- Added **Batch 1B (llms.txt)** to the plan per session rule 5, overriding the audit's "skip llms.txt" note. Not yet executed.
+- Annotated Batch 1.2 with the city-guard correctness note.

@@ -1,3 +1,52 @@
+{{ define "schema" }}
+{{ if .Params.city }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": {{ (printf "%s in %s" (humanize .Section) (.Params.city | default .Title)) | jsonify }},
+    "serviceType": {{ (humanize .Section) | jsonify }},
+    "description": {{ .Description | default .Title | jsonify }},
+    "provider": {
+        "@type": "Organization",
+        "name": {{ .Site.Params.brand | jsonify }},
+        "url": "https://closeprotectionhire.com/"
+    },
+    "areaServed": {
+        "@type": "City",
+        "name": {{ (.Params.city | default .Title) | jsonify }}
+    }
+}
+</script>
+{{ end }}
+{{ with .Params.faqs }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $i, $f := . }}{{ if $i }},{{ end }}{
+      "@type": "Question",
+      "name": {{ $f.question | jsonify }},
+      "acceptedAnswer": { "@type": "Answer", "text": {{ $f.answer | jsonify }} }
+    }{{ end }}
+  ]
+}
+</script>
+{{ end }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://closeprotectionhire.com/" },
+    {{ with .Section }}{ "@type": "ListItem", "position": 2, "name": {{ (humanize .) | jsonify }}, "item": {{ (printf "https://closeprotectionhire.com/%s/" .) | jsonify }} },{{ end }}
+    { "@type": "ListItem", "position": 3, "name": {{ .Title | jsonify }}, "item": {{ .Permalink | jsonify }} }
+  ]
+}
+</script>
+{{ end }}
+
 {{ define "main" }}
 
 {{ $images := slice "hero.jpg" "Close-Protection-2560.webp" "close-protection-768x347.jpg" "geralt-watch-10184898.jpg" "mhouge-businessman-1477601.jpg" "images.jpg" }}
@@ -35,6 +84,34 @@
             <div class="col-lg-10 offset-lg-1 wow fadeInUp">
                 {{ . }}
             </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+
+{{/* ===== SERVICE COMPONENTS ===== */}}
+{{ with .Params.components }}
+<section class="section-dark bg-dark-2 text-light">
+    <div class="container">
+        <div class="row mb-4">
+            <div class="col-lg-12">
+                <div class="subtitle wow fadeInUp">What this covers</div>
+                <h2 class="wow fadeInUp" data-wow-delay=".2s">Operational detail for {{ $.Params.city | default $.Title }}</h2>
+            </div>
+        </div>
+        <div class="row g-4">
+            {{ range $i, $comp := . }}
+            <div class="col-lg-4 col-md-6 wow fadeInRight" data-wow-delay="{{ printf `%.1fs` (mul (mod $i 3) 0.2) }}">
+                <div class="bg-dark rounded-1 p-40 h-100">
+                    {{ if reflect.IsMap $comp }}
+                    <h3 class="fs-20">{{ $comp.title }}</h3>
+                    <p class="mb-0">{{ $comp.description }}</p>
+                    {{ else }}
+                    <h3 class="fs-20">{{ $comp }}</h3>
+                    {{ end }}
+                </div>
+            </div>
+            {{ end }}
         </div>
     </div>
 </section>
