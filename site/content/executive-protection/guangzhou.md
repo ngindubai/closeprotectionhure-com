@@ -35,8 +35,10 @@ faqs:
     answer: "Primary medical facility: Guangdong Provincial People's Hospital (+86-20-8382-7812). Emergency: 110 (police), 120 (ambulance). Medical routing is pre-planned as part of every operation order. CPOs hold current first-aid certification. Medical evacuation coordination is confirmed before deployment for principals on extended Guangzhou programmes."
 ---
 
-Executive protection in Guangzhou addresses a moderate risk environment: moderate - petty crime at transport hubs; Canton Fair periods carry elevated pic. Guangdong PSB-registered operators cover Tianhe CBD (Zhujiang New Town), Pearl River New Town, and Pa with pre-surveyed routes, operations controller oversight, and pre-planned medical routing to Guangdong Provincial People's Hospital.
+Executive protection in Guangzhou is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against scam operations and mass-event crowding around trade fairs: advance work on venues and routes, a written risk assessment, an operations controller, and PSB-registered secure movement integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 PSB-registered operators under the Regulation on Administration of Security Services (2009), supervised by Guangdong PSB is the regulatory baseline. All security engagements delivered through Guangdong PSB-registered operators; foreign operators require local partnership.
 
 For Guangzhou city context, see our [Guangzhou security briefing](/cities/guangzhou/). For transport security, see [security drivers in Guangzhou](/security-drivers/guangzhou/). For regional context, see [executive protection in Shenzhen](/executive-protection/shenzhen/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Guangzhou](/bodyguard-hire/guangzhou/). For the operators who staff the programme and how they are vetted, see [close protection officers in Guangzhou](/close-protection-officers/guangzhou/).

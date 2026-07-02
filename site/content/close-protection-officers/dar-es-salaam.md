@@ -33,8 +33,10 @@ faqs:
     answer: "Multiple Tanzanian airlines appear on the UK Air Safety List and are banned from EU airspace due to safety concerns. Check the current list at gov.uk before booking any domestic or regional flight. Do not assume a locally booked flight meets international safety standards. For Zanzibar transfers, a domestic flight from Julius Nyerere Airport is available but requires pre-travel verification against the current Air Safety List."
 ---
 
-Dar es Salaam CPO operations address Tanzania's most commercially significant city: express kidnapping prevention, carjacking-aware airport transfers, post-election political environment management, and the Zanzibar extension that is a standard feature of senior executive itineraries in the region.
+This page is about the people who provide close protection in Dar es Salaam: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Dar es Salaam network holds an SILB certificate under Tanzania's Security Industry Act, and is assessed for local competence. It covers standard team configuration, armed escort availability for specific high-risk requirements, and the credential checks a buyer should insist on before engaging any officer.
 
 PSRA-licensed operators under the Private Security Act 2008 are the compliance foundation for all Tanzania CPO engagements. The CPO brief for Dar es Salaam is built around the specific threat patterns that the FCDO documents for the city, not generic East Africa protocols.
 
 For the full Dar es Salaam security picture, see our [Dar es Salaam city briefing](/cities/dar-es-salaam/). For principals requiring vetted transport as the baseline service for Tanzania, [security drivers in Dar es Salaam](/security-drivers/dar-es-salaam/) covers the PSRA-licensed chauffeur programme.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Dar es Salaam](/bodyguard-hire/dar-es-salaam/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Dar es Salaam](/executive-protection/dar-es-salaam/).

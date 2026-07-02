@@ -43,7 +43,7 @@ faqs:
     answer: "Hospital del Carmen, Puerta de Hierro Andares, and Hospital Mexico Americano in Providencia and Zapopan are the recommended private facilities. For cases requiring higher-level care, evacuation to Mexico City (approximately 1 hour) or Miami (approximately 3 hours 30 minutes) provides access to major trauma and specialist centres."
 ---
 
-Executive protection in Guadalajara serves a substantial corporate and technology sector principal community in a city where the Jalisco New Generation Cartel's dominance creates real and documented threats including express kidnapping, carjacking, and business extortion. Programmes built on SVSP-registered operators with Jalisco-specific experience provide armed or low-profile EP calibrated to the principal's threat profile, with Guadalajara's strong private hospital sector as a meaningful medical asset and Mexico City or Miami as evacuation options for critical cases.
+Executive protection in Guadalajara is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing organised crime and express kidnapping: advance work on venues and routes, a written threat assessment, an operations controller, and federally registered secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## The Guadalajara security environment
 
@@ -60,3 +60,5 @@ An EP programme in Guadalajara covers the principal's full visit cycle: airport 
 Medical planning identifies the primary receiving hospital before arrival, with evacuation to Mexico City or Miami as the contingency for cases requiring higher-level care.
 
 For the full Guadalajara security picture, see our [Guadalajara city briefing](/cities/guadalajara/). For vetted secure transport alongside the EP team, [security drivers in Guadalajara](/security-drivers/guadalajara/) covers the Mexico driver programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Guadalajara](/bodyguard-hire/guadalajara/). For the operators who staff the programme and how they are vetted, see [close protection officers in Guadalajara](/close-protection-officers/guadalajara/).

@@ -33,7 +33,7 @@ faqs:
     answer: "Guadalajara has international-standard medical facilities including Hospital Country 2000, Hospital San Javier, and Hospital del Carmen. For specialist care or serious trauma beyond Guadalajara's capacity, Mexico City (approximately 1 hour by air) or the US (Texas, 2.5 hours) are the standard evacuation options. Medical evacuation insurance is the baseline requirement for all Mexico assignments."
 ---
 
-Guadalajara bodyguard hire is calibrated to Jalisco's CJNG (Jalisco New Generation Cartel) operating environment and Mexico's DGSP regulatory framework: licensed operators, airport transfer management for Don Miguel Hidalgo y Costilla International Airport, express kidnapping counter-protocol, and CJNG-aware operational planning for Mexico's second-largest city and technology capital.
+Hiring a bodyguard in Guadalajara is usually tied to a specific visit, where organised crime and express kidnapping shape the plan more than routine crime. This page covers how close protection hire works in Jalisco, what a federally registered (DGSSP/IMER) operator does across a day of movements, and how quickly cover is arranged. Firearms are tightly controlled, so armed hire is available only through federally registered companies, pairing a vetted officer with secure transport, scaled to the itinerary.
 
 ## The Guadalajara security environment
 
@@ -44,3 +44,5 @@ CJNG is headquartered in Jalisco state, of which Guadalajara is the capital. CJN
 All private security companies in Mexico must hold DGSP (Direccion General de Seguridad Privada) licensing from the Ministry of Security and Citizen Protection (SSPC), plus applicable Jalisco state licensing from the Secretaria de Seguridad Publica del Estado de Jalisco. All our Guadalajara partners hold current DGSP and Jalisco state licensing; documentation is provided before deployment.
 
 For the full Guadalajara security picture, see our [Guadalajara city briefing](/cities/guadalajara/). For principals requiring vetted transport, [security drivers in Guadalajara](/security-drivers/guadalajara/) covers the DGSP-licensed driver programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Guadalajara](/executive-protection/guadalajara/). To check the credentials and vetting behind the officers, see [close protection officers in Guadalajara](/close-protection-officers/guadalajara/).

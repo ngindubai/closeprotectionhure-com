@@ -37,7 +37,7 @@ faqs:
     answer: "After-dark movement in Freetown requires enhanced protocols regardless of CPO cover level. FCDO advises that robbery and carjacking risk increases substantially after dark across the city. CPO operations reduce night movement to essential transfers only, with operations controller coordination and pre-confirmed destination contact required for any after-dark journey. The standard protocol is no after-dark movement without specific operational necessity and operations controller authorisation. Source: FCDO Sierra Leone travel advice, 2026."
 ---
 
-Freetown close protection operations are structured around the PSRA licensing framework, the Lungi estuary crossing as the primary operational challenge, and team configurations calibrated for Sierra Leone's high-risk post-conflict environment.
+This page is about the people who provide close protection in Freetown: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Freetown network holds documented registration under Sierra Leone's Private Security Industry Act, and is assessed for local competence. It covers standard team configuration, the restriction on foreign nationals carrying weapons, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Freetown
 
@@ -46,3 +46,5 @@ Sierra Leone's security environment reflects the persistent consequences of the 
 ## Planning framework for Freetown CPO assignments
 
 Pre-deployment planning covers the Lungi crossing protocol (helicopter, ferry, or overland), Freetown movement map (Aberdeen, Hill Station, Lumley corridors), after-dark movement restrictions, medevac to Dakar and Accra, and team configuration. For the full Freetown security picture, see our [Freetown city briefing](/cities/freetown/). For NGO coordination meetings and mining sector events in Freetown, [event security in Freetown](/event-security/freetown/) covers venue assessment and access management within the Aberdeen compound environment.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Freetown](/bodyguard-hire/freetown/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Freetown](/executive-protection/freetown/).

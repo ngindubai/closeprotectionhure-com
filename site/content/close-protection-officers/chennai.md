@@ -35,7 +35,7 @@ faqs:
     answer: "Foreign CPOs may accompany principals as personal attendants but cannot conduct commercial security work in India without PSARA state licensing through a Tamil Nadu-licensed entity. Clients should confirm the operating structure and licensing status of any proposed CPO arrangement before travel, particularly for cross-border itineraries."
 ---
 
-Chennai is a moderate-risk environment for close protection operations, drawing on Tamil Nadu Police Crime Statistics 2024 and FCDO advises normal precautions for India (2026); FCDO advises specific awareness of monsoon season disruption in Tamil Nadu from October to December. US State Department Level 2 (Exercise Increased Caution) for India as of 2026. For HNWI principals and senior executives operating across Anna Salai and Nungambakkam, Adyar and Besant Nagar, and the OMR tech corridor, licensed CPO cover provides a materially different standard of personal protection from uncoordinated or unlicensed alternatives.
+This page is about the people who provide close protection in Chennai: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Chennai network holds a current Tamil Nadu PSARA state licence, and is assessed for local competence. It covers standard team configuration, the unarmed model that PSARA-licensed operators generally work under, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The India licensing framework
 
@@ -50,3 +50,5 @@ A Chennai CPO detail typically begins with pre-advance work at the principal's a
 The operations controller function maintains a real-time timeline and holds emergency contact protocols for Apollo Hospitals Chennai (044-2829-0200), Fortis Malar Hospital Chennai (044-4289-2222), and local emergency services (100).
 
 For complementary services, see our [Chennai city page](/cities/chennai/) and [bodyguard hire in Chennai](/bodyguard-hire/chennai/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Chennai](/bodyguard-hire/chennai/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Chennai](/executive-protection/chennai/).

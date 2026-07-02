@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Houston for a CPO with vehicle and operations controller support range from approximately $550 to $1,050 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Houston presents an executive protection environment defined by property crime and vehicle theft elevated (HPD Crime Report 2025) and a regulatory framework under Texas Occupations Code Ch 1702, Texas DPS. For senior executives and HNWI principals operating across Galleria/Uptown commercial corridor and River Oaks residential district, a structured EP programme reduces the exposure that uncoordinated travel creates. The HPD Crime Report 2025 and current advisory (FCDO normal precautions 2026; US State Dept Level 1) are the evidential baseline for every pre-travel assessment.
+Executive protection in Houston is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against energy-sector-specific targeting and localised violent crime: advance work on venues and routes, a written threat assessment, an operations controller, and DPS-licensed armed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Houston
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Houston must be licensed under Texas P
 Houston's position in energy, petrochemicals, healthcare, and international oilfield services executives creates a specific EP operating context: principals in these sectors face both the ambient threat picture identified in the HPD Crime Report 2025 and sector-specific risks, including competitive intelligence activity and, for some industries, targeted crime against high-value corporate visitors. The pre-travel assessment addresses both layers.
 
 For related security services in Houston, see our [Houston city page](/cities/houston/), [security drivers in Houston](/security-drivers/houston/), and [bodyguard hire in Houston](/bodyguard-hire/houston/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Houston](/bodyguard-hire/houston/). For the operators who staff the programme and how they are vetted, see [close protection officers in Houston](/close-protection-officers/houston/).

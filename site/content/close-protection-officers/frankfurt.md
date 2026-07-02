@@ -35,7 +35,7 @@ faqs:
     answer: "The CPO positions inside Frankfurt Airport Fraport (FRA) arrivals before the principal clears baggage claim. A pre-departure vehicle check is conducted. The FRA-to-city transfer takes 15 to 30 minutes (approximately 12km). For principals with elevated threat profiles, counter-surveillance protocol is applied from the arrivals hall through the transfer to the principal's hotel."
 ---
 
-Close protection officer deployment in Frankfurt is governed by Germany's Trade Regulation Act (Gewerbeordnung) Section 34a framework, with Hessian oversight by HLKA (Hessisches Landeskriminalamt). Our Frankfurt CPO teams cover Frankfurt Airport Fraport (FRA) arrivals and departures, Bankenviertel and Bahnhofsviertel corporate meetings, and European Central Bank and Messe Frankfurt engagements. BfV classifies the abstract terrorism threat in Germany as high, informing all Frankfurt pre-deployment briefings.
+This page is about the people who provide close protection in Frankfurt: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Frankfurt network holds IHK Hessen qualification and Gewerbeamt registration under Section 34a of the Gewerbeordnung, and is assessed for local competence. It covers standard team configuration, the specific authorisation required for the uncommon armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Germany regulatory context
 
@@ -44,3 +44,5 @@ All Frankfurt CPO operators hold current Germany credentials under Gewerbeordnun
 ## Complementary Frankfurt services
 
 For the full Frankfurt security picture, see the [Frankfurt city briefing](/cities/frankfurt/) and [secure airport transfers in Frankfurt](/secure-airport-transfers/frankfurt/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Frankfurt](/bodyguard-hire/frankfurt/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Frankfurt](/executive-protection/frankfurt/).

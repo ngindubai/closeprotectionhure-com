@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Chennai for a CPO with vehicle and operations controller support range from approximately INR 28,000-65,000 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Chennai presents an executive protection environment defined by a moderate risk profile and a regulatory framework under PSARA 2005, Tamil Nadu Police Private Security Agency Licensing Authority. For senior executives and HNWI principals operating across Anna Salai and Nungambakkam, Adyar and Besant Nagar, and the OMR tech corridor, a structured EP programme reduces the exposure that uncoordinated travel creates. FCDO advises normal precautions for India (2026); FCDO advises specific awareness of monsoon season disruption in Tamil Nadu from October to December. US State Department Level 2 (Exercise Increased Caution) for India as of 2026.
+Executive protection in Chennai is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against traffic density, opportunistic theft, and seasonal cyclone risk: advance work on venues and routes, a written risk assessment, an operations controller, and PSARA-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Chennai
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Chennai must be licensed under PSARA 2
 Chennai's position in automotive manufacturing, IT services, finance, and port logistics creates a specific EP operating context: principals in these sectors face both the ambient threat picture and sector-specific risks identified in the pre-travel assessment. The threat picture (moderate. Tamil Nadu Police Crime Statistics 2024 record elevated road traffic incidents and petty theft in crowded market areas; monsoon season from October to December introduces additional movement disruption.) informs route planning, advance work, and situational-awareness protocols for every engagement.
 
 For related security services in Chennai, see our [Chennai city page](/cities/chennai/), [security drivers in Chennai](/security-drivers/chennai/), and [bodyguard hire in Chennai](/bodyguard-hire/chennai/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Chennai](/bodyguard-hire/chennai/). For the operators who staff the programme and how they are vetted, see [close protection officers in Chennai](/close-protection-officers/chennai/).

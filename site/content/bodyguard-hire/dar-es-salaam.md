@@ -35,6 +35,8 @@ faqs:
     answer: "CPO vehicle protocol in Dar es Salaam covers windows-up and doors-locked management in traffic, avoidance of stationary exposure in the Airport Road and Msasani Peninsula after dark, premium vehicle non-use where alternatives are operationally acceptable, and pre-planned alternate routing around documented carjacking corridors. Vehicle security briefings are provided before each movement."
 ---
 
-Dar es Salaam is Tanzania's primary commercial port and business hub, with a significant corporate and extractives-sector visitor base. Express kidnapping, carjacking, and the specific risks around the Julius Nyerere Airport corridor are the primary CPO planning elements. Political volatility around election periods adds a crowd and protest avoidance layer for principals travelling during those windows.
+Hiring a bodyguard in Dar es Salaam is usually tied to a specific visit, where express kidnapping and armed robbery shape the plan more than routine crime. This page covers how close protection hire works in Tanzania, what an SILB-certified officer does across a day of movements, and how quickly cover is arranged. Most corporate cover is unarmed with armed escort available for specific high-risk requirements, so hire pairs a certified officer with secure transport, scaled to the itinerary.
 
 For the full Dar es Salaam security picture including district-level risk assessment and the FCDO advisory, see our [Dar es Salaam city page](/cities/dar-es-salaam/). For principals combining Dar es Salaam with Nairobi or other East African destinations, [bodyguard hire in Nairobi](/bodyguard-hire/nairobi/) covers the full Kenya CPO programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Dar es Salaam](/executive-protection/dar-es-salaam/). To check the credentials and vetting behind the officers, see [close protection officers in Dar es Salaam](/close-protection-officers/dar-es-salaam/).

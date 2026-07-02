@@ -475,6 +475,13 @@ Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** wi
 - **Verification:** build clean (0 errors); all 10 cities' three siblings confirmed distinct; QA gate clean.
 - **Status:** committed + pushed to `master` (deploys). **75 of 278 bodyguard-hire cities now differentiated (225 pages, ~27% of the network).**
 
+### 2026-07-02 — Batch 5 (sub-batch 9 of N): Differentiation rollout, 10 more cities incl. one structural adaptation [SONNET, model already locked]
+- **Cities (10):** abidjan, dar-es-salaam, frankfurt, houston, guadalajara, chennai, guangzhou, havana, harare, freetown. **Files: 30.**
+- Standard treatment for 9 of 10 (intent lede 72–85 words citing each city's own regulator/threat: Ivory Coast MoI, Tanzania SILB, Germany BewachV/IHK Hessen, Texas DPS Chapter 1702, Mexico DGSSP/IMER, Tamil Nadu PSARA, Guangdong PSB, Zimbabwe Private Investigators and Security Guards Act, Sierra Leone Private Security Industry Act) + sibling cross-links.
+- **Havana adaptation (third instance of this pattern, alongside Khartoum/Kabul):** the existing Havana page states plainly that "commercial private security as known in Western markets does not operate in Cuba" — MININT controls all security functions, and support is delivered through local liaison officers and joint-venture hotel security rather than conventional CPO hire. The standard "hiring a bodyguard" opener would have misrepresented the market structure, so all three ledes were adapted to honestly describe the state-mediated liaison model while preserving the three-way structural split. This is a structural-market adaptation (state monopoly on security), distinct in cause from Khartoum/Kabul's active-conflict adaptation, but handled the same way: honest, sourced, no overclaiming, applied within the existing editorial standard rather than as a new business decision.
+- **Verification:** build clean (0 errors); all 10 cities' three siblings confirmed distinct; QA gate clean.
+- **Status:** committed + pushed to `master` (deploys). **85 of 278 bodyguard-hire cities now differentiated (255 pages, ~31% of the network).**
+
 ### 2026-07-02 — Deploy + branch-rule change (owner instruction)
 - Owner directed all work to go live and to build on the deploy branch. Corrected a misdirection first: the owner said "build on the live branch," but `live` is the auto-generated compiled-output branch (force-pushed by CI, never hand-edited). The real deploy branch is `master`.
 - **Action:** fast-forward-merged the 10-commit feature branch `claude/close-protection-seo-audit-0yjirj` into `master` (0 divergence, no conflicts) and pushed `master`, triggering `build-and-publish.yml` → Hugo build → publish `site/public` to `live` → Hostinger deploy.

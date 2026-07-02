@@ -33,7 +33,7 @@ faqs:
     answer: "Harare's private medical facilities (Avenues Clinic, Parirenyatwa Hospital) provide basic care. For serious trauma or specialist medical conditions, the standard evacuation destination is Johannesburg (approximately 1.5 hours by air). Medical evacuation insurance with Johannesburg coverage is the baseline requirement for all Harare assignments."
 ---
 
-Harare bodyguard hire is calibrated to Zimbabwe's economic instability environment and documented crime profile: Zimbabwe-licensed operators, airport transfer management for Robert Gabriel Mugabe International Airport, carjacking and armed robbery protocols, and CPO awareness of the political risk variables that affect Zimbabwe's operating environment under ZANU-PF governance.
+Hiring a bodyguard in Harare is usually tied to a specific visit, where economic instability, political risk, and legal and regulatory risk shape the plan alongside conventional crime. This page covers how close protection hire works in Zimbabwe, what a licensed security company under the Private Investigators and Security Guards Act provides across a day of movements, and how quickly cover is arranged. Foreign nationals cannot carry weapons, so hire pairs a licensed local operator with secure transport, scaled to the itinerary.
 
 ## The Harare security environment
 
@@ -48,3 +48,5 @@ Zimbabwe's private security sector operates under the Private Investigators and 
 A Harare bodyguard programme covers inside-terminal collection at Robert Gabriel Mugabe International Airport (HRE), accommodation in Borrowdale, Avondale, or Mount Pleasant, carjacking counter-protocols for all Harare movements, and an operations controller framework with medevac protocol to Johannesburg (approximately 1.5 hours by air) for serious medical events.
 
 For the full Harare security picture, see our [Harare city briefing](/cities/harare/). For principals requiring vetted transport, [security drivers in Harare](/security-drivers/harare/) covers the ZRP-registered driver programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Harare](/executive-protection/harare/). To check the credentials and vetting behind the officers, see [close protection officers in Harare](/close-protection-officers/harare/).

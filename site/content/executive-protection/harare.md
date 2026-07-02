@@ -43,7 +43,7 @@ faqs:
     answer: "The central business district, the Borrowdale residential and commercial corridor, and the airport approach route are the primary operational zones. Embassies and international organisations are concentrated in Borrowdale and Mount Pleasant. The CBD carries elevated daytime crime risk; the airport corridor requires specific advance work."
 ---
 
-Executive protection in Harare is calibrated to a security environment defined by persistent carjacking risk, post-Mugabe political volatility, and the operational demands of serving mining, corporate, and diplomatic principals in a city with ageing infrastructure and limited local medical capability. Programmes built on Zimbabwe Republic Police-licensed operators provide armed EP capability and integrate a medevac plan to Johannesburg as a non-negotiable element of every engagement.
+Executive protection in Harare is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against economic instability, political risk, and legal and regulatory risk: advance work on venues and routes, a written threat assessment, an operations controller, and licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## The Harare security environment
 
@@ -60,3 +60,5 @@ An EP programme in Harare covers the principal's full movement cycle: airport ar
 The programme integrates daily route variation to counter carjacking risk, confirmed medevac arrangements with Johannesburg as the evacuation destination, and a first-aid-qualified team member as standard. Coordination with the client organisation's own security function and, where applicable, with embassy security advisers is built into the programme from the outset.
 
 For the full Harare security picture, see our [Harare city briefing](/cities/harare/). For vetted secure transport alongside the EP team, [security drivers in Harare](/security-drivers/harare/) covers the Zimbabwe driver programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Harare](/bodyguard-hire/harare/). For the operators who staff the programme and how they are vetted, see [close protection officers in Harare](/close-protection-officers/harare/).

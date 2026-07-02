@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency number: 110 (police), 120 (ambulance). Primary facility: Guangdong Provincial People's Hospital (+86-20-8382-7812). Secondary: Sun Yat-sen Memorial Hospital (+86-20-8133-2222). Medical routing is pre-planned; CPOs hold current first-aid certification. The operation order includes evacuation routing from all principal accommodation."
 ---
 
-Guangzhou presents a moderate risk environment requiring active close protection planning; the primary concern is moderate - petty crime at transport hubs; Canton Fair periods carry elevated pic. Guangdong PSB-registered operators provide close protection across Tianhe CBD (Zhujiang New Town), Pearl River New Town, and Pa.
+Hiring a bodyguard support arrangement in Guangzhou is typically about petty crime, scam operations, and mass-event crowding around the Canton Fair rather than violent crime. This page covers how close protection support works in Guangdong, what a PSB-registered provider offers across a day of movements, and how quickly it can be arranged. Firearms are restricted to state agencies, so support is unarmed and built around crowd and route management, scaled to the visit rather than a fixed contract.
 
 PSB-registered operators under the Regulation on Administration of Security Services (2009), supervised by Guangdong PSB is the regulatory baseline. All security engagements delivered through Guangdong PSB-registered operators; foreign operators require local partnership.
 
 Detailed city context is available on the [Guangzhou city page](/cities/guangzhou/). For transport security, see [vetted security drivers in Guangzhou](/security-drivers/guangzhou/). For regional coverage, see [bodyguard hire in Shenzhen](/bodyguard-hire/shenzhen/). Firearms: unarmed - no private firearms under Chinese law.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Guangzhou](/executive-protection/guangzhou/). To check the credentials and vetting behind the officers, see [close protection officers in Guangzhou](/close-protection-officers/guangzhou/).

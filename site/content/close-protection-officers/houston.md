@@ -35,7 +35,7 @@ faqs:
     answer: "CPO day rates in Houston range from approximately $480 to $900 per day, as at June 2026, depending on individual experience, licensing level, and engagement type. Multi-day corporate programme rates apply a reduced daily rate for three or more consecutive days. Vehicle and operations controller costs are typically quoted separately; a combined EP package rate is available on request."
 ---
 
-Close protection officers operating in Houston are licensed under Texas Private Security Act (Texas Occupations Code Ch 1702), Texas DPS, with the Texas Department of Public Safety maintaining the registration register. For corporate executives, HNWI principals, and event organisers requiring vetted CPOs in Houston, the licensing framework is the starting point for due diligence. The HPD Crime Report 2025 (property crime and vehicle theft elevated (HPD Crime Report 2025)) informs the threat assessment that precedes every CPO deployment.
+This page is about the people who provide close protection in Houston: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Houston network is licensed by Texas DPS under Chapter 1702 of the Occupations Code, with an armed security officer endorsement where armed, and is assessed for local competence. It covers standard team configuration, energy-sector experience, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Licensing and due diligence
 
@@ -46,3 +46,5 @@ Confirming the individual CPO's personal licence and the operating company's reg
 CPO deployments in Houston cover Galleria/Uptown commercial corridor and River Oaks residential district and the principal movement corridors across I-610 loop, I-10 Katy Freeway, and the Hardy Toll Road IAH approach. Venue advance work, operations controller integration, and transport coordination with a vetted security driver are the components that distinguish a professional CPO engagement from a standalone hired presence.
 
 For related security services in Houston, see our [Houston city page](/cities/houston/), [bodyguard hire in Houston](/bodyguard-hire/houston/), and [executive protection in Houston](/executive-protection/houston/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Houston](/bodyguard-hire/houston/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Houston](/executive-protection/houston/).

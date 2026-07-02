@@ -37,7 +37,7 @@ faqs:
     answer: "Journalists and researchers in Cuba operate under specific legal constraints. We provide pre-visit briefings on Cuban press regulations, advice on document and device security, and professional local liaison to reduce friction with state authorities. Operational support is structured to minimise profile while ensuring the visit proceeds effectively."
 ---
 
-Havana is the political, cultural, and commercial capital of Cuba and one of the Caribbean's most distinctive business and travel destinations. As Cuba has cautiously expanded commercial relationships with foreign partners in tourism, energy, and infrastructure, it has attracted an increasing number of executives, investment scouts, and media professionals who require professional security planning for their visits.
+Havana does not offer conventional bodyguard hire; MININT controls all security functions and commercial private security as known in Western markets does not operate in Cuba. This page covers what is actually provided: local liaison officers who manage logistics, airport formalities, and movement planning within Cuban legal and political constraints, plus pre-visit briefings on state surveillance and communications security. Engagement is structured around these state-mediated channels rather than a standard hire arrangement.
 
 Cuba's security environment is unlike that of any other Caribbean destination. MININT controls all security functions, and the framework for supporting foreign visitors operates through state-approved channels. Physical crime targeting foreign visitors is at a moderate level, with petty theft and scams being the primary concerns rather than violent crime. However, the surveillance environment and communications insecurity mean that executives involved in sensitive commercial or diplomatic activities face distinct risks that require specific preparation.
 
@@ -46,3 +46,5 @@ Our Havana support is structured to operate effectively within Cuban legal and p
 For executives attending commercial meetings in Havana's Vedado or Miramar business districts, we provide professional escort and local knowledge that reduces the practical and security risks of operating in an unfamiliar and tightly controlled environment.
 
 Review the full Havana city security profile at [/cities/havana/](/cities/havana/) and explore our [security drivers in Havana](/security-drivers/havana/) for pre-arranged vehicle and transit options.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Havana](/executive-protection/havana/). To check the credentials and vetting behind the officers, see [close protection officers in Havana](/close-protection-officers/havana/).
