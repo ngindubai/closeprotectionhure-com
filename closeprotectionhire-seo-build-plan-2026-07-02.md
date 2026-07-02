@@ -327,6 +327,15 @@ Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** wi
 - **Status:** committed to `claude/close-protection-seo-audit-0yjirj` (deploy to `master` is via PR/merge, not direct push). Deferred question resolved by default (user said "continue" after the approval prompt failed to deliver).
 - **Decision 1.3 (resolved — leave as-is):** the redundant FAQ microdata in `partials/faq-accordion.html` was LEFT in place. It is harmless (JSON-LD is the primary signal) and stripping it carried a small risk of disturbing the Bootstrap accordion. Revisit only if a validator flags a double-declaration warning.
 
+### 2026-07-02 — Batch 1B: llms.txt (session rule 5 — overrides audit Finding 13)
+- **File:** `site/static/llms.txt` (new, ~6 KB, 40 curated links).
+  - Hub-level map (decision 1B-a = curated, not exhaustive): H1 + `>` summary noting sourcing (FCDO/OSAC/ACLED/national licensing), then sections — Core services (7 silo hubs + services overview), Locations (cities hub + 14 priority cities + countries hub), Regulations and guides, Travel safety guides, Risk assessments, Intelligence/blog, Company (about/contact/faq).
+  - Decision 1B-b = single `llms.txt` for now; `llms-full.txt` deferred until Batch 6 answer-blocks exist to feed richer descriptions.
+  - *Why:* other AI systems read llms.txt and it drives referral traffic; the site's `robots.txt` already advertised `# LLM map: …/llms.txt` but the file was a 404. Now live.
+- **Verification:** all 40 links resolve to real rendered pages (parser-checked against `content/` + confirmed `public/*/index.html`); QA clean (no em dashes, no safety-guarantee language); build clean, lands at `public/llms.txt`.
+- **Status:** committed to `claude/close-protection-seo-audit-0yjirj`.
+- **Maintenance hooks live:** after Batch 3 re-check for retired country slugs; after Batch 6 swap link descriptions for the direct-answer sentences.
+
 ### 2026-07-02 — Plan maintenance
-- Added **Batch 1B (llms.txt)** to the plan per session rule 5, overriding the audit's "skip llms.txt" note. Not yet executed.
+- Added **Batch 1B (llms.txt)** to the plan per session rule 5, overriding the audit's "skip llms.txt" note.
 - Annotated Batch 1.2 with the city-guard correctness note.
