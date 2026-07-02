@@ -33,7 +33,7 @@ faqs:
     answer: "The medical plan for every Santo Domingo assignment includes the best available local medical facility for initial stabilisation and, where local capability is limited, evacuation routing to the nearest internationally accredited hospital. Medevac provider contacts are confirmed active before the principal's arrival. Medical evacuation insurance is the baseline requirement."
 ---
 
-Bodyguard hire in Santo Domingo operates within Dominican Republic's licensing framework, with close protection officers drawn from a vetted partner network holding valid national security authorisation.
+Hiring a bodyguard in Santo Domingo is usually tied to a specific visit, where crime, armed robbery, and express kidnapping shape the plan alongside road safety. This page covers how close protection hire works in the Dominican Republic, what a Ministry of Interior and Police licensed officer does across a day of movements, and how quickly cover is arranged. Armed security is widely used for high-value protection, so hire pairs a licensed officer with secure transport, scaled to the itinerary.
 
 ## The Santo Domingo security environment
 
@@ -44,3 +44,5 @@ The current security environment in Santo Domingo requires a bodyguard programme
 A Santo Domingo bodyguard programme covers airport transfers with inside-terminal collection, accommodation in vetted properties in the primary security zone, in-city movement with pre-planned routes and operations controller tracking, and a documented emergency action plan with medevac provisions.
 
 For the full Santo Domingo security picture, see our [Santo Domingo city briefing](/cities/santo-domingo/). For principals requiring security drivers, [security drivers in Santo Domingo](/security-drivers/santo-domingo/) covers the Dominican Republic programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Santo Domingo](/executive-protection/santo-domingo/). To check the credentials and vetting behind the officers, see [close protection officers in Santo Domingo](/close-protection-officers/santo-domingo/).

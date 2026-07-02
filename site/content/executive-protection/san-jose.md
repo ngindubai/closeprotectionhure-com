@@ -37,7 +37,7 @@ faqs:
     answer: "A minimum of five working days allows the pre-arrival advance work and threat assessment to be completed before the principal arrives. For shorter notice assignments, the programme can be compressed, but this reduces the advance work window. SJO arrival logistics can generally be arranged with shorter notice than the full programme."
 ---
 
-Costa Rica's genuine stability is an asset for the executive traveller, and San Jose is meaningfully different from the capital cities of most Central American neighbours. The stable democracy established since 1948, the absence of a standing army, and the consistently favourable regional safety comparison mean that executive protection in San Jose is calibrated differently from programmes in Guatemala City or Tegucigalpa. The operating posture is typically discreet, the threat assessment is specific rather than generic, and the programme is structured around the technology and corporate sector environment where most engagements occur.
+Executive protection in San Jose is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against drug-trafficking spillover and armed-robbery risk: advance work on venues and routes, a written risk assessment, an operations controller, and Ministry of Security licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Proportionate calibration
 
@@ -52,3 +52,5 @@ The Juan Santamaria International Airport (SJO) to Escazu transfer is the highes
 Costa Rica's Ministry of Security framework is the strongest private security regulatory environment in Central America. All operators in our San Jose network hold current Ministry authorisation. For multinational clients whose compliance teams require operator licensing documentation as part of vendor due diligence, Costa Rica's framework is an operational advantage over several neighbouring states where licensing enforcement is less consistent.
 
 For individual service components, see [bodyguard hire in San Jose](/bodyguard-hire/san-jose/) and [security drivers in San Jose](/security-drivers/san-jose/). For the full country context, see the [San Jose security overview](/cities/san-jose/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in San Jose](/bodyguard-hire/san-jose/). For the operators who staff the programme and how they are vetted, see [close protection officers in San Jose](/close-protection-officers/san-jose/).

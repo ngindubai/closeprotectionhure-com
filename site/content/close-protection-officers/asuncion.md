@@ -35,7 +35,7 @@ faqs:
     answer: "Every Asuncion CPO deployment includes a documented emergency action plan covering medical emergency (naming the receiving facility: Hospital Privado Frances or Hospital Santa Clara in Asuncion, or evacuation to Sao Paulo), vehicle compromise procedures, communications protocols, and the operations controller's emergency activation procedure."
 ---
 
-The capital of paraguay and the financial and administrative centre of a regional economy with significant agricultural export, energy (itaipu hydroelectric), and informal trade sectors. Close protection officers in Asuncion are deployed through licensed Paraguay operators with current ground knowledge, providing a structured CPO programme calibrated to the moderate-risk environment.
+This page is about the people who provide close protection in Asuncion: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Asuncion network holds a Ministry of Interior licence, and is assessed for local competence. It covers standard team configuration, individual personnel registration, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Paraguay CPO licensing framework
 
@@ -44,3 +44,5 @@ CPO operations in Asuncion are regulated through the National Police of Paraguay
 ## CPO operations in Asuncion
 
 Licensed CPO cover, vehicle-based movement for all inter-venue transfers, airport collection inside Silvio Pettirossi International Airport (ASU) terminal, operations restricted to the Villa Morra and Carmelitas neighbourhoods for standard corporate assignments, and a written emergency plan with pre-confirmed contacts at the best available medical facilities. For the full Asuncion security picture, see our [Asuncion city page](/cities/asuncion/) and [bodyguard hire in Asuncion](/bodyguard-hire/asuncion/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Asuncion](/bodyguard-hire/asuncion/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Asuncion](/executive-protection/asuncion/).

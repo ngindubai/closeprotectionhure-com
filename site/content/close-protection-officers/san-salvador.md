@@ -37,7 +37,7 @@ faqs:
     answer: "The Bukele government operates a surveillance environment that affects international visitors associated with civil society organisations, media, or political activities perceived as critical of the government. For standard corporate and investor visits to San Salvador, this is a background awareness factor rather than an operational driver. For organisations with political adjacency, operational security for communications and meetings should be considered."
 ---
 
-Close protection officer deployment in San Salvador operates in a significantly improved security environment following the Bukele government's gang suppression programme. San Salvador was previously one of the most challenging Central American capitals for CPO operations; the post-2022 environment has reduced the physical threat level substantially in the Escalon and Zona Rosa districts where international business activity is concentrated. CPO engagement in the current environment is calibrated accordingly: vetted transport and pre-advance are the core functions, with armed cover reserved for principals with specific elevated threat profiles.
+This page is about the people who provide close protection in San Salvador: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our San Salvador network is registered under the Ministerio de Justicia y Seguridad Publica's Ley de Regulacion de Servicios de Seguridad, and is assessed for local competence. It covers standard team configuration, specific armed-guard licensing, and the credential checks a buyer should insist on.
 
 ## The San Salvador PNC registration framework
 
@@ -48,3 +48,5 @@ El Salvador's Policia Nacional Civil (PNC) regulates private security through th
 The dominant CPO function in San Salvador is now route management and accommodation pre-advance in a medium-risk environment, rather than the kidnapping and gang-threat management that characterised the pre-2022 period. The 44km airport transfer remains the most structurally significant movement to plan.
 
 For complementary services in San Salvador, see our [San Salvador city page](/cities/san-salvador/) and [event security in San Salvador](/event-security/san-salvador/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in San Salvador](/bodyguard-hire/san-salvador/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in San Salvador](/executive-protection/san-salvador/).

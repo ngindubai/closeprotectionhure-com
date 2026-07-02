@@ -35,7 +35,7 @@ faqs:
     answer: "A pre-advance in Tegucigalpa is essential because the boundary between the Palmira and Morazan safe corridor and gang-controlled colonias can be a single street. Hotels, restaurants, and meeting venues near that boundary require specific assessment. The Toncontin exit roads also require advance assessment of current conditions before transfer. A pre-advance ensures the EP team has a complete, current picture before the principal is on the ground and eliminates the need for reactive decision-making in unfamiliar territory."
 ---
 
-Tegucigalpa's executive protection environment reflects a sustained gang and narco-trafficking threat that has made Honduras one of the most demanding EP environments in Central America. FCDO Honduras advice (2024) advises a high degree of caution, and the US State Department classifies Honduras as Level 3: Reconsider Travel (2026). For business executives in the agriculture, mining, energy, and finance sectors, documented kidnap targeting makes advance planning, counter-surveillance, and armed EP capability the standard rather than the exception.
+Executive protection in Tegucigalpa is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing gang violence, organised crime, and kidnapping and extortion: advance work on venues and routes, a written threat assessment, an operations controller, and Secretaria de Seguridad authorised secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 ## Interior Ministry and National Police licensing
 
@@ -46,3 +46,5 @@ EP companies must hold Interior Ministry authorisation and individual officers m
 A Tegucigalpa EP programme covers advance work on Toncontin transfer routes and all confirmed venues, two-vehicle formation for all movements, counter-surveillance from airport collection, kidnap-avoidance protocols, and a pre-agreed crisis response and extraction plan including the San Pedro Sula alternative if Toncontin is unavailable.
 
 For the full Tegucigalpa security picture, see the [Tegucigalpa city briefing](/cities/tegucigalpa/) and [close protection officers in Tegucigalpa](/close-protection-officers/tegucigalpa/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Tegucigalpa](/bodyguard-hire/tegucigalpa/). For the operators who staff the programme and how they are vetted, see [close protection officers in Tegucigalpa](/close-protection-officers/tegucigalpa/).

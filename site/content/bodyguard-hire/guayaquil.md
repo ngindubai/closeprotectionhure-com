@@ -35,7 +35,7 @@ faqs:
     answer: "The medical plan for every Guayaquil assignment identifies Clinica Kennedy as the primary local private facility and establishes evacuation routing to Lima or Miami for cases requiring internationally accredited specialist care. The British Consulate in Guayaquil provides consular support. Medevac provider contacts are confirmed active before the principal's arrival. Medical evacuation insurance is the baseline requirement."
 ---
 
-Bodyguard hire in Guayaquil operates within Ecuador's Ministerio de Gobierno licensing framework, with close protection officers drawn from a vetted, licensed partner network holding valid national security authorisation.
+Hiring a bodyguard in Guayaquil is usually tied to a specific visit, where kidnapping, armed robbery and gang violence, and port-related organised crime shape the plan. This page covers how close protection hire works in Ecuador, what an operator registered with the Directorate of Specialised Security Services does across a day of movements, and how quickly cover is arranged. Armed security is widely used, so hire pairs a registered officer with secure transport, scaled to the itinerary.
 
 ## The Guayaquil security environment
 
@@ -46,3 +46,5 @@ Guayaquil is assessed as high risk. The security environment has deteriorated si
 A Guayaquil bodyguard programme covers airport transfers with armed inside-terminal collection at Jose Joaquin de Olmedo International Airport, accommodation in vetted properties in the Urdesa or Kennedy Norte district, in-city movement with unpredictable routes and armed CPO escort, port zone access planning where required, night movement protocols, anti-kidnapping briefings and response protocols, and a documented emergency action plan with Lima or Miami medevac provisions.
 
 For the full Guayaquil security picture, see our [Guayaquil city briefing](/cities/guayaquil/). For comparable Ecuador and regional operating environments, see our [Quito city briefing](/cities/quito/) and [Lima city briefing](/cities/lima/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Guayaquil](/executive-protection/guayaquil/). To check the credentials and vetting behind the officers, see [close protection officers in Guayaquil](/close-protection-officers/guayaquil/).

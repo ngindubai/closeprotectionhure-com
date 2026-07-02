@@ -35,7 +35,7 @@ faqs:
     answer: "A pre-advance in Managua is essential because of the political risk layer unique to Nicaragua's current environment. Advance work covers not only physical venue security and transfer routes but also the political associations and legal status of every planned meeting host and venue. An executive meeting with an organisation designated oppositional by the Ortega government faces specific detention and harassment risk; the advance identifies these exposures before the principal's arrival and proposes alternatives or mitigations."
 ---
 
-Managua's executive protection environment in 2026 is defined by political risk under the Ortega government, distinguishing it from every other Central American capital where criminal threat dominates. FCDO Nicaragua advice (2024) and US State Department Level 3 designation (2026) both identify arbitrary detention, surveillance of foreign nationals, and restriction of civil liberties as the primary risks. Documented cases of executives, NGO workers, religious figures, and private sector leaders being detained or expelled under the government's repression framework make political risk management a core element of any Managua EP programme, not an afterthought.
+Executive protection in Managua is a programme built around political risk rather than gang crime, not a single officer. It is the discipline a company applies to manage the Ortega government's arbitrary-detention risk and surveillance of foreign nationals: advance work on venues and meeting-association planning, a written risk assessment, an operations controller, and Policia Nacional licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a visit, where political exposure is the leading factor.
 
 ## Policia Nacional licensing under Ley No. 896
 
@@ -46,3 +46,5 @@ EP companies must hold Policia Nacional authorisation and individual officers mu
 A Managua EP programme covers a political risk pre-advance assessing all planned venues and meeting hosts, discreet low-profile vehicle arrangements adapted to the surveillance environment, counter-surveillance calibrated for state rather than criminal actors, pre-arranged legal representation contact for detention scenarios, and an extraction plan that accounts for the possibility of immigration delay.
 
 For the full Managua security picture, see the [Managua city briefing](/cities/managua/) and [close protection officers in Managua](/close-protection-officers/managua/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Managua](/bodyguard-hire/managua/). For the operators who staff the programme and how they are vetted, see [close protection officers in Managua](/close-protection-officers/managua/).

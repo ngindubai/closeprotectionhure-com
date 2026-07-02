@@ -35,7 +35,7 @@ faqs:
     answer: "The medical plan for every Asuncion assignment includes Hospital Privado Frances for local private care and medical evacuation to Buenos Aires for serious cases. Medevac provider contacts are confirmed active before the principal's arrival. Medical evacuation insurance is the baseline requirement."
 ---
 
-Bodyguard hire in Asuncion operates within Paraguay's Ministerio del Interior licensing framework, with close protection officers drawn from a vetted partner network holding valid national security authorisation.
+Hiring a bodyguard in Asuncion is usually tied to a specific visit, where drug trafficking, organised crime, and corruption shape the plan alongside armed robbery. This page covers how close protection hire works in Paraguay, what a Ministry of Interior licensed provider does across a day of movements, and how quickly cover is arranged. Armed security is widely used for commercial protection, so hire pairs a licensed officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## The Asuncion security environment
 
@@ -46,3 +46,5 @@ Asuncion's security environment is assessed at moderate risk. The primary threat
 An Asuncion bodyguard programme covers airport transfers with inside-terminal collection at Silvio Pettirossi International Airport, accommodation in vetted properties in Villa Morra or Recoleta, in-city movement with pre-planned routes and operations controller tracking, night movement protocols restricting activity to managed venues, and a documented emergency action plan with Buenos Aires medevac provisions.
 
 For the full Asuncion security picture, see our [Asuncion city briefing](/cities/asuncion/). For comparable South American operating environments, see our [Buenos Aires city briefing](/cities/buenos-aires/) and [Lima city briefing](/cities/lima/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Asuncion](/executive-protection/asuncion/). To check the credentials and vetting behind the officers, see [close protection officers in Asuncion](/close-protection-officers/asuncion/).

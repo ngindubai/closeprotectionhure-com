@@ -35,8 +35,10 @@ faqs:
     answer: "Primary medical facility: Clinica General del Norte (+57-5-360-9000). Emergency: 112 (emergency), 123 (police). Medical routing is pre-planned as part of every operation order. CPOs hold current first-aid certification. Medical evacuation coordination is confirmed before deployment for principals on extended Barranquilla programmes."
 ---
 
-Executive protection in Barranquilla addresses a high risk environment: high - armed robbery, carjacking, and extortion risk; city centre requires close. SVSP-authorised operators cover El Prado, Altos del Prado, and Zona Norte (Via 40 corridor) with pre-surveyed routes, operations controller oversight, and pre-planned medical routing to Clinica General del Norte.
+Executive protection in Barranquilla is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing robbery, carjacking, and kidnap and extortion risk: advance work on venues and routes, a written threat assessment, an operations controller, and SVSP-authorised secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 SVSP-authorised operators under Colombian private security legislation is the regulatory baseline. Superintendencia de Vigilancia y Seguridad Privada (SVSP) authorisation required; armed operators hold SVSP and military authorisation.
 
 For Barranquilla city context, see our [Barranquilla security briefing](/cities/barranquilla/). For transport security, see [security drivers in Barranquilla](/security-drivers/barranquilla/). For regional context, see [executive protection in Bogota](/executive-protection/bogota/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Barranquilla](/bodyguard-hire/barranquilla/). For the operators who staff the programme and how they are vetted, see [close protection officers in Barranquilla](/close-protection-officers/barranquilla/).

@@ -35,7 +35,7 @@ faqs:
     answer: "A pre-advance in San Salvador covers the 44-kilometre Romero airport route, the principal's accommodation, and all confirmed meeting venues. In the current environment, advance work also includes an assessment of the legal and surveillance exposure of planned venues and meetings under the Regimen de Excepcion. This two-dimensional advance - security and legal - is distinctive to El Salvador's current EP environment and requires operators with specific knowledge of the Regimen framework."
 ---
 
-San Salvador's executive protection environment in 2026 reflects a city that has undergone a dramatic security transformation but retains distinct EP planning requirements. Homicide rates fell from 106 per 100,000 in 2015 to approximately 2.4 per 100,000 in 2023 (Salvadoran National Police data), and gang-visible activity has been massively reduced under the Regimen de Excepcion. FCDO classifies El Salvador at a high degree of caution (improved) and the US State Department designates it Level 2 (2026). Residual criminal risk in outer areas and an active state surveillance environment are the two EP planning factors that distinguish San Salvador from a standard medium-risk environment.
+Executive protection in San Salvador is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against a residual gang environment and state surveillance and monitoring: advance work on venues and routes, a written risk assessment, an operations controller, and Ministerio de Justicia registered secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 ## Ministry of Justice and Public Security licensing
 
@@ -46,3 +46,5 @@ EP companies must hold Ministry of Justice and Public Security authorisation and
 A San Salvador EP programme covers pre-advance of the Romero transfer route and all confirmed venues including surveillance exposure assessment, low-profile vehicle formation adapted to the current monitoring environment, counter-surveillance protocols calibrated to avoid attracting state attention, and a crisis response plan that includes a legal representation contact for Regimen-related scenarios.
 
 For the full San Salvador security picture, see the [San Salvador city briefing](/cities/san-salvador/) and [close protection officers in San Salvador](/close-protection-officers/san-salvador/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in San Salvador](/bodyguard-hire/san-salvador/). For the operators who staff the programme and how they are vetted, see [close protection officers in San Salvador](/close-protection-officers/san-salvador/).

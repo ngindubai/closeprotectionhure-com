@@ -541,6 +541,13 @@ Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** wi
 - **Verification:** build clean (0 errors); all 10 cities' three siblings confirmed distinct; QA gate clean.
 - **Status:** committed + pushed to `master` (deploys). **175 of 278 bodyguard-hire cities now differentiated (525 pages, ~63% of the network).**
 
+### 2026-07-02 — Batch 5 (sub-batch 19 of N): Differentiation rollout, 10 more cities [SONNET, model already locked]
+- **Cities (10):** barranquilla, cali, la-paz, asuncion, guayaquil, san-jose, san-salvador, tegucigalpa, managua, santo-domingo. **Files: 30.**
+- Standard treatment for 9 of 10 (intent lede 66–82 words citing each city's own regulator/threat: Colombia SVSP, Bolivia Ministerio de Gobierno, Paraguay MoI, Ecuador Directorate of Specialised Security Services, Costa Rica Ministerio de Seguridad Publica, El Salvador Ministerio de Justicia, Honduras Secretaria de Seguridad, Dominican Republic MoI y Policia) + sibling cross-links.
+- **Managua check:** existing page already frames Managua as political-risk-led rather than gang-crime-led ("defined by political risk rather than the gang-crime pattern... Ortega government's systematic political repression"). This is a genuinely distinct, sourced (FCDO 2024, State Dept Level 3) framing, not a service-availability constraint like Khartoum/Kabul/Havana — standard hire is offered, so the rubric applied directly using the page's own established framing rather than a structural adaptation.
+- **Verification:** build clean (0 errors); all 10 cities' three siblings confirmed distinct; QA gate clean.
+- **Status:** committed + pushed to `master` (deploys). **185 of 278 bodyguard-hire cities now differentiated (555 pages, ~67% of the network — two-thirds complete).**
+
 ### 2026-07-02 — Deploy + branch-rule change (owner instruction)
 - Owner directed all work to go live and to build on the deploy branch. Corrected a misdirection first: the owner said "build on the live branch," but `live` is the auto-generated compiled-output branch (force-pushed by CI, never hand-edited). The real deploy branch is `master`.
 - **Action:** fast-forward-merged the 10-commit feature branch `claude/close-protection-seo-audit-0yjirj` into `master` (0 divergence, no conflicts) and pushed `master`, triggering `build-and-publish.yml` → Hugo build → publish `site/public` to `live` → Hostinger deploy.

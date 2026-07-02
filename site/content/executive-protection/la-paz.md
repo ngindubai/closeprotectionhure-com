@@ -33,7 +33,7 @@ faqs:
     answer: "The emergency action plan for every La Paz EP programme covers: medical emergency (naming the receiving facility and evacuation routing), vehicle compromise (contingency routing and shelter options), political demonstration response (avoidance protocols and contingency routing), and communications procedures. The plan is shared with the principal and their organisation before deployment."
 ---
 
-Executive protection in La Paz is built around licensed Bolivia operators with current ground knowledge, providing a structured programme covering the principal's full movement cycle in the city.
+Executive protection in La Paz is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against civil unrest, road blockades, and altitude-related medical risk: advance work on venues and routes, a written risk assessment, an operations controller, and Ministry of Government licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 ## The La Paz EP environment
 
@@ -44,3 +44,5 @@ EP in La Paz provides a structured security overlay for the principal movement c
 An EP programme in La Paz covers the full principal movement cycle: advance work at all venues, close escort during movements, accommodation security liaison, daily route variation, a documented emergency action plan, and medevac provider confirmation before arrival.
 
 For the full La Paz security picture, see our [La Paz city briefing](/cities/la-paz/). For principals requiring security drivers, [security drivers in La Paz](/security-drivers/la-paz/) covers the Bolivia programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in La Paz](/bodyguard-hire/la-paz/). For the operators who staff the programme and how they are vetted, see [close protection officers in La Paz](/close-protection-officers/la-paz/).

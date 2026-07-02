@@ -35,8 +35,10 @@ faqs:
     answer: "Primary medical facility: Clinica Imbanaco (+57 2 331 7474). Emergency: 112 (police), 123 (ambulance). Medical routing is pre-planned as part of every operation order. CPOs hold current first-aid certification and medical evacuation coordination to Bogota or the United States for specialist care is confirmed before deployment."
 ---
 
-Executive protection in Cali addresses a high risk environment: Gang crime, carjacking, kidnapping, and extortion by criminal organisations. SuperVigilancia (SVSP - Superintendencia de Vigilancia y Seguridad Privada) is the regulatory baseline for all Cali executive protection engagements.
+Executive protection in Cali is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing kidnap, extortion, and organised-crime activity: advance work on venues and routes, a written threat assessment, an operations controller, and SVSP-registered secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 Private security in Colombia is regulated by SuperVigilancia (Superintendencia de Vigilancia y Seguridad Privada). Security companies must hold a current SuperVigilancia licence; armed personnel require individual weapon permits from the National Police. Licence and permit verification is standard before any engagement.
 
 For Cali city context, see our [Cali security briefing](/cities/cali/). For transport security, see [security drivers in Cali](/security-drivers/cali/). For regional context, see [executive protection in Bogota](/executive-protection/bogota/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Cali](/bodyguard-hire/cali/). For the operators who staff the programme and how they are vetted, see [close protection officers in Cali](/close-protection-officers/cali/).

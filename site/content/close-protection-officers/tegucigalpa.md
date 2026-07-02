@@ -37,7 +37,7 @@ faqs:
     answer: "Armed close protection is available in Tegucigalpa through DGSEI-licensed operators. Given the kidnapping risk profile in Honduras, armed cover is more frequently deployed than in lower-risk Central American cities. The configuration is determined by the principal's specific threat assessment."
 ---
 
-Close protection officer deployment in Tegucigalpa addresses Honduras's documented kidnapping and extortion risk within the DGSEI licensing framework. Tegucigalpa is a working business capital -- energy, coffee, development finance, and government affairs all generate regular international executive visits -- but the city's crime and kidnapping environment requires that these visits be supported with professional CPO cover that goes beyond simple driver accompaniment. The Lomas del Guijarro and Palmira district provides the most manageable base, but all movements, including the short airport transfer, require structured planning.
+This page is about the people who provide close protection in Tegucigalpa: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Tegucigalpa network holds authorisation from the Secretaria de Seguridad under the Ley de Seguridad Privada, and is assessed for local competence. It covers standard team configuration, Interior Ministry authorisation requirements, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Tegucigalpa CPO licensing framework
 
@@ -48,3 +48,5 @@ Honduras's DGSEI administers private security licensing under the CNBS framework
 The dominant CPO function in Tegucigalpa is kidnapping risk management: route variation, schedule discretion, hotel pre-advance, and management of all transitions between vehicle and venue are the operational priorities. Intelligence-gathering risk is secondary to the physical threat.
 
 For complementary services in Tegucigalpa, see our [Tegucigalpa city page](/cities/tegucigalpa/) and [event security in Tegucigalpa](/event-security/tegucigalpa/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Tegucigalpa](/bodyguard-hire/tegucigalpa/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Tegucigalpa](/executive-protection/tegucigalpa/).

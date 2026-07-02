@@ -35,7 +35,7 @@ faqs:
     answer: "Every Guayaquil CPO deployment includes a documented emergency action plan covering medical emergency (naming the receiving facility: Hospital Clinica Kennedy or Hospital Luis Vernaza in Guayaquil, or evacuation to Miami), vehicle compromise procedures, communications protocols, and the operations controller's emergency activation procedure."
 ---
 
-Ecuador's largest city and principal commercial centre, handling the majority of ecuador's trade flows including banana and oil exports, with a significant increase in security incidents linked to drug trafficking networks from 2023 onwards. Close protection officers in Guayaquil are deployed through licensed Ecuador operators with current ground knowledge, providing a structured CPO programme calibrated to the high-risk environment.
+This page is about the people who provide close protection in Guayaquil: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Guayaquil network is registered with the Directorate of Specialised Security Services, and is assessed for local competence given a regulatory framework under scrutiny. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Ecuador CPO licensing framework
 
@@ -44,3 +44,5 @@ CPO operations in Guayaquil are regulated through the Ministry of Interior of Ec
 ## CPO operations in Guayaquil
 
 Licensed CPO cover, vehicle-based movement for all inter-venue transfers, airport collection inside Jose Joaquin de Olmedo International Airport (GYE) terminal, operations restricted to the Urdesa and Kennedy Norte districts for standard corporate assignments, and a written emergency plan with pre-confirmed contacts at the best available medical facilities. For the full Guayaquil security picture, see our [Guayaquil city page](/cities/guayaquil/) and [bodyguard hire in Guayaquil](/bodyguard-hire/guayaquil/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Guayaquil](/bodyguard-hire/guayaquil/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Guayaquil](/executive-protection/guayaquil/).

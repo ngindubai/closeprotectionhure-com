@@ -37,7 +37,7 @@ faqs:
     answer: "Santo Domingo hosts international banking and financial services operations, tourism sector corporate offices, energy sector delegations, and UN/INGO regional operations. Senior executives from financial institutions operating in the Dominican Republic, high-profile tourism industry principals, and visiting deal-making delegations are the most frequent principal categories. Political figures and prominent business personalities from the wider Caribbean region also use the city as a conference hub."
 ---
 
-Santo Domingo is the capital and economic centre of the Dominican Republic and one of the largest cities in the Caribbean. It hosts international banks, corporate regional headquarters, UN and INGO operations, and a growing business conference calendar. Close protection officer demand in Santo Domingo addresses a moderate crime environment -- principally armed robbery and the specific express kidnapping risk associated with informal transport -- rather than the terrorism or high-intensity organised crime that characterises higher-risk Latin American cities.
+This page is about the people who provide close protection in Santo Domingo: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Santo Domingo network is licensed by the Ministry of Interior and Police, with separate registration for armed personnel, and is assessed for local competence. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Dominican Republic CPO licensing framework
 
@@ -46,3 +46,5 @@ Cameroon's equivalent in the Caribbean is the Dominican Republic's Ministerio de
 ## CPO operations in Santo Domingo
 
 Ministry of Interior-licensed CPO cover, vehicle-based movement for all inter-venue transfers, airport collection inside Las Americas International Airport terminal, operations restricted to Piantini and Naco for standard corporate assignments, express kidnapping prevention protocols, and a written emergency plan with pre-confirmed contacts at the best available medical facilities. For the full Santo Domingo security picture, see our [Santo Domingo city page](/cities/santo-domingo/) and [bodyguard hire in Santo Domingo](/bodyguard-hire/santo-domingo/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Santo Domingo](/bodyguard-hire/santo-domingo/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Santo Domingo](/executive-protection/santo-domingo/).

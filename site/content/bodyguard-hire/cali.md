@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency numbers: 112 (police), 123 (ambulance). Primary facility: Clinica Imbanaco (+57 2 331 7474). Secondary: Fundacion Valle del Lili (+57 2 331 5000). Medical routing is pre-planned; CPOs hold current first-aid certification."
 ---
 
-Bodyguard hire in Cali addresses a high risk environment: Gang crime, carjacking, kidnapping, and extortion by criminal organisations. SuperVigilancia (SVSP - Superintendencia de Vigilancia y Seguridad Privada) is the regulatory baseline for all Cali close protection engagements.
+Hiring a bodyguard in Cali is usually tied to a specific visit, where kidnap, extortion, and gang and organised-crime activity shape the plan alongside civil unrest. This page covers how close protection hire works in Colombia, what an SVSP-registered operator does across a day of movements, and how quickly cover is arranged. Armed cover must be provided through SVSP-registered operators, so hire pairs a registered officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 Private security in Colombia is regulated by SuperVigilancia (Superintendencia de Vigilancia y Seguridad Privada). Security companies must hold a current SuperVigilancia licence; armed personnel require individual weapon permits from the National Police. Licence and permit verification is standard before any engagement.
 
 Detailed city context is available on the [Cali city page](/cities/cali/). For transport security, see [vetted security drivers in Cali](/security-drivers/cali/). For regional coverage, see [bodyguard hire in Bogota](/bodyguard-hire/bogota/). Firearms: armed security available through supervigilancia-licensed operators; national police weapon permits required for armed personnel.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Cali](/executive-protection/cali/). To check the credentials and vetting behind the officers, see [close protection officers in Cali](/close-protection-officers/cali/).

@@ -35,7 +35,7 @@ faqs:
     answer: "Contact our operations team with your Tegucigalpa travel dates, accommodation, planned activities, and any sector or profile information relevant to a threat assessment. We will conduct a pre-deployment threat assessment, specify the appropriate CPO configuration, and engage an Interior Ministry-authorised Honduran partner company. Advance notice of at least five working days is recommended; given the complexity of the Honduras environment, ten days is preferable for higher-risk engagements."
 ---
 
-Tegucigalpa's close protection environment reflects a sustained gang and narco-trafficking threat that has made Honduras one of the most demanding CP markets in Central America. FCDO Honduras advice (2024) advises a high degree of caution, and the US State Department classifies Honduras as Level 3: Reconsider Travel (2026). For executives in the agriculture, mining, energy, and finance sectors, kidnap risk is a documented and current planning factor. The Toncontin airport transfer, movement outside the Colonia Palmira and Boulevard Morazan corridor, and any activity that creates a predictable pattern are the primary CP planning concerns.
+Hiring a bodyguard in Tegucigalpa is usually tied to a specific visit, where gang violence, organised crime, and kidnapping and extortion shape the plan. This page covers how close protection hire works in Honduras, what a Secretaria de Seguridad authorised officer does across a day of movements, and how quickly cover is arranged. Armed cover requires specific state authorisation, so hire pairs an authorised officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## Interior Ministry and National Police licensing
 
@@ -46,3 +46,5 @@ CPOs must hold Interior Ministry authorisation and National Police credentials u
 A vetted Tegucigalpa CPO team covers: advance assessment of the Toncontin transfer and all confirmed venues, two-CPO formation with dedicated security driver, anti-kidnap counter-surveillance protocols, confinement of all movement to the Palmira and Morazan corridor, emergency response capability with private medical facility contacts, and operations controller oversight throughout.
 
 For a full security picture see our [Tegucigalpa city briefing](/cities/tegucigalpa/) and [executive protection in Tegucigalpa](/executive-protection/tegucigalpa/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Tegucigalpa](/executive-protection/tegucigalpa/). To check the credentials and vetting behind the officers, see [close protection officers in Tegucigalpa](/close-protection-officers/tegucigalpa/).

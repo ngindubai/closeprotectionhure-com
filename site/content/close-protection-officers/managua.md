@@ -37,7 +37,7 @@ faqs:
     answer: "Yes, for principals whose visit has political adjacency. The Ortega government maintains surveillance of international visitors associated with politically sensitive organisations. Communications security measures -- device hygiene, secure meeting venue selection, and awareness of surveillance in hotel meeting rooms -- are relevant operational elements for these categories of principal."
 ---
 
-Close protection officer deployment in Managua addresses two distinct security requirements: the physical security challenge of a high-risk city with robbery and violent crime in less managed areas, and the political surveillance environment that applies to international visitors associated with civil society, NGOs, or organisations perceived as critical of the Ortega government. The Carretera Masaya hotel corridor provides the most manageable physical operating environment, but the political surveillance dimension means that CPO planning in Managua must address communications and operational security as well as physical route management.
+This page is about the people who provide close protection in Managua: who they are, how they are vetted, and what credentials to verify before they deploy in an environment of significant state oversight. Every operator in our Managua network holds National Police licensing under Ley No. 896, and is assessed for local competence in managing political-exposure risk. It covers standard team configuration and the checks a buyer should insist on before engaging any officer.
 
 ## The Managua DGPN licensing framework
 
@@ -48,3 +48,5 @@ Nicaragua's DGPN administers private security licensing under the Ley No. 454. C
 Managua's distinguishing CPO requirement -- relative to most other high-risk cities -- is the need to integrate political security awareness into the operational plan. For agricultural sector and commercial executives, this is a background factor. For NGO, civil society, or politically adjacent principals, it is a primary operational consideration.
 
 For complementary services in Managua, see our [Managua city page](/cities/managua/) and [event security in Managua](/event-security/managua/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Managua](/bodyguard-hire/managua/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Managua](/executive-protection/managua/).

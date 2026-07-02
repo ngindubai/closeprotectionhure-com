@@ -35,7 +35,7 @@ faqs:
     answer: "Medical planning for La Paz covers both altitude-related and conventional emergencies. Clinica del Sur in the Zona Sur district provides the primary local care option. Evacuation routing to Lima or Buenos Aires is confirmed before the principal's arrival. Altitude acclimatisation protocols are standard. Medical evacuation insurance is the baseline requirement."
 ---
 
-Bodyguard hire in La Paz operates within Bolivia's Ministerio de Gobierno licensing framework, with close protection officers drawn from a vetted partner network holding valid national security authorisation.
+Hiring a bodyguard in La Paz is usually tied to a specific visit, where civil unrest, road blockades, and altitude-related medical risk shape the plan alongside crime. This page covers how close protection hire works in Bolivia, what a Ministry of Government licensed provider does across a day of movements, and how quickly cover is arranged. Armed cover is available through licensed providers, so hire pairs a licensed officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## The La Paz security environment
 
@@ -46,3 +46,5 @@ La Paz's security environment is assessed at moderate risk. The primary threats 
 A La Paz bodyguard programme covers airport transfers with inside-terminal collection at El Alto International Airport, vetted transport on the Autopista with blockade monitoring, altitude acclimatisation briefings and medication access, accommodation in vetted properties in the Zona Sur district, in-city movement with pre-planned routes and operations controller tracking, civil unrest contingency protocols, and a documented emergency action plan with Lima or Buenos Aires medevac provisions.
 
 For the full La Paz security picture, see our [La Paz city briefing](/cities/la-paz/). For comparable South American operating environments, see our [Lima city briefing](/cities/lima/) and [Buenos Aires city briefing](/cities/buenos-aires/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in La Paz](/executive-protection/la-paz/). To check the credentials and vetting behind the officers, see [close protection officers in La Paz](/close-protection-officers/la-paz/).

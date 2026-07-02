@@ -35,7 +35,7 @@ faqs:
     answer: "Every La Paz CPO deployment includes a documented emergency action plan covering medical emergency (naming the receiving facility: Clinica Cemes or the Bolivian Air Force medevac to Lima or Santiago), vehicle compromise procedures, communications protocols, and the operations controller's emergency activation procedure."
 ---
 
-The seat of government of bolivia and one of the highest capital cities in the world at approximately 3,640m above sea level, housing the bolivian government ministries, the diplomatic community, and the mining sector corporate offices. Close protection officers in La Paz are deployed through licensed Bolivia operators with current ground knowledge, providing a structured CPO programme calibrated to the moderate-risk environment.
+This page is about the people who provide close protection in La Paz: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our La Paz network holds a Ministry of Government licence, and is assessed for local competence including altitude-operational awareness. It covers standard team configuration, individual personnel registration, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Bolivia CPO licensing framework
 
@@ -44,3 +44,5 @@ CPO operations in La Paz are regulated through the Bolivian National Police and 
 ## CPO operations in La Paz
 
 Licensed CPO cover, vehicle-based movement for all inter-venue transfers, airport collection inside El Alto International Airport (LPB) terminal, operations restricted to Zona Sur including Calacoto, San Miguel, and Achumani districts for standard corporate assignments, and a written emergency plan with pre-confirmed contacts at the best available medical facilities. For the full La Paz security picture, see our [La Paz city page](/cities/la-paz/) and [bodyguard hire in La Paz](/bodyguard-hire/la-paz/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in La Paz](/bodyguard-hire/la-paz/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in La Paz](/executive-protection/la-paz/).

@@ -33,7 +33,7 @@ faqs:
     answer: "The emergency action plan for every Guayaquil EP programme covers: medical emergency (naming the receiving facility and evacuation routing), vehicle compromise (contingency routing and shelter options), political demonstration response (avoidance protocols and contingency routing), and communications procedures. The plan is shared with the principal and their organisation before deployment."
 ---
 
-Executive protection in Guayaquil is built around licensed Ecuador operators with current ground knowledge, providing a structured programme covering the principal's full movement cycle in the city.
+Executive protection in Guayaquil is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing kidnapping, gang violence, and port-related organised crime: advance work on venues and routes, a written threat assessment, an operations controller, and armed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 ## The Guayaquil EP environment
 
@@ -44,3 +44,5 @@ EP in Guayaquil provides a structured security overlay for the principal movemen
 An EP programme in Guayaquil covers the full principal movement cycle: advance work at all venues, close escort during movements, accommodation security liaison, daily route variation, a documented emergency action plan, and medevac provider confirmation before arrival.
 
 For the full Guayaquil security picture, see our [Guayaquil city briefing](/cities/guayaquil/). For principals requiring security drivers, [security drivers in Guayaquil](/security-drivers/guayaquil/) covers the Ecuador programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Guayaquil](/bodyguard-hire/guayaquil/). For the operators who staff the programme and how they are vetted, see [close protection officers in Guayaquil](/close-protection-officers/guayaquil/).

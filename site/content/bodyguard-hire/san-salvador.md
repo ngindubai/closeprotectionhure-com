@@ -35,7 +35,7 @@ faqs:
     answer: "Contact our operations team with your San Salvador travel dates, accommodation, planned activities, and any profile information relevant to a threat assessment. We will conduct a pre-deployment threat assessment appropriate to the current El Salvador environment, specify the CPO configuration, and engage a Ministry of Justice and Public Security-authorised Salvadoran partner. Advance notice of at least five working days is recommended."
 ---
 
-San Salvador's bodyguard hire environment reflects a city that has transformed its security profile dramatically since 2022 but retains distinct CP planning requirements. The Regimen de Excepcion reduced gang-visible activity and drove the homicide rate to approximately 2.4 per 100,000 (Salvadoran National Police, 2023), but introduced an active state surveillance environment that creates compliance risks for foreign executives. FCDO classifies El Salvador at a high degree of caution (2024, improved) and the US State Department designates it Level 2 (2026). For most corporate visits, a single CPO with security driver support and careful route planning is an appropriate baseline.
+Hiring a bodyguard in San Salvador is shaped by a residual gang environment and state surveillance and monitoring rather than the acute gang violence of prior years, plus residual extortion risk. This page covers how close protection hire works in El Salvador, what a Ministerio de Justicia y Seguridad Publica registered officer does across a day of movements, and how quickly cover is arranged. Hire pairs a registered officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## Ministry of Justice and Public Security licensing
 
@@ -46,3 +46,5 @@ CPOs must hold Ministry of Justice and Public Security authorisation under the L
 A vetted San Salvador CPO covers: advance assessment of the Romero airport transfer and all confirmed venues, protective escort during movements within and between Zona Rosa and Escalon, low-profile vehicle and security posture adapted to the surveillance environment, emergency response capability with private medical facility contacts, and operations controller oversight.
 
 For a full security picture see our [San Salvador city briefing](/cities/san-salvador/) and [executive protection in San Salvador](/executive-protection/san-salvador/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in San Salvador](/executive-protection/san-salvador/). To check the credentials and vetting behind the officers, see [close protection officers in San Salvador](/close-protection-officers/san-salvador/).

@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency number: 112 (emergency), 123 (police). Primary facility: Clinica General del Norte (+57-5-360-9000). Secondary: Hospital Universitario Cari (+57-5-379-0100). Medical routing is pre-planned; CPOs hold current first-aid certification. The operation order includes evacuation routing from all principal accommodation."
 ---
 
-Barranquilla presents a high risk environment requiring active close protection planning; the primary concern is high - armed robbery, carjacking, and extortion risk; city centre requires close. SVSP-authorised operators provide close protection across El Prado, Altos del Prado, and Zona Norte (Via 40 corridor).
+Hiring a bodyguard in Barranquilla is usually tied to a specific visit, where robbery, carjacking, and kidnap and extortion shape the plan more than routine crime. This page covers how close protection hire works in Colombia, what an SVSP-authorised officer does across a day of movements, and how quickly cover is arranged. Armed cover is available through SVSP and militarily authorised operators, so hire pairs an authorised officer with secure transport, scaled to the itinerary.
 
 SVSP-authorised operators under Colombian private security legislation is the regulatory baseline. Superintendencia de Vigilancia y Seguridad Privada (SVSP) authorisation required; armed operators hold SVSP and military authorisation.
 
 Detailed city context is available on the [Barranquilla city page](/cities/barranquilla/). For transport security, see [vetted security drivers in Barranquilla](/security-drivers/barranquilla/). For regional coverage, see [bodyguard hire in Bogota](/bodyguard-hire/bogota/). Firearms: armed protection available - SVSP and military-authorised operators.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Barranquilla](/executive-protection/barranquilla/). To check the credentials and vetting behind the officers, see [close protection officers in Barranquilla](/close-protection-officers/barranquilla/).

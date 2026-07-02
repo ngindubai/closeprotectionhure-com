@@ -35,7 +35,7 @@ faqs:
     answer: "Contact our operations team with your Managua travel dates, accommodation, planned activities, and any meeting or association information relevant to a political risk assessment. We will conduct a pre-deployment threat assessment that covers both physical security and political risk, specify the appropriate CPO configuration, and engage a Policia Nacional-authorised Nicaraguan partner company. Advance notice of at least five working days is recommended. Pre-deployment legal representation contact in Nicaragua is established as part of the standard preparation for all Managua engagements."
 ---
 
-Managua's close protection environment is defined by political risk rather than the gang-crime pattern that characterises neighbouring Honduras or Guatemala. The Ortega government's systematic political repression, arbitrary detention of perceived opponents, surveillance of foreign nationals, and expulsion of NGOs documented by FCDO (2024) and the US State Department (Level 3, 2026) create an environment where the primary CP planning question is managing political exposure rather than physical threat. For visiting executives, meeting association risks and state monitoring require as much planning attention as route security and accommodation choices.
+Managua's close protection environment is defined by political risk rather than the gang-crime pattern of neighbouring Honduras or Guatemala. This page covers how close protection hire works given the Ortega government's political repression, arbitrary-detention risk, and surveillance of foreign nationals, what a Policia Nacional licensed officer under Ley No. 896 does across a day of movements, and how quickly cover is arranged. Managing political exposure matters as much as route security here.
 
 ## Policia Nacional licensing under Ley No. 896
 
@@ -46,3 +46,5 @@ CPOs must hold Policia Nacional authorisation under Ley No. 896 (2015). Given th
 A vetted Managua CPO covers: political risk pre-deployment assessment of planned meetings and associations, protective escort during movements within the Carretera Masaya and Metrocentro corridor, low-profile vehicle arrangements adapted to the surveillance environment, pre-agreed legal representation contact for detention scenarios, emergency response with medical facility contacts, and operations controller oversight throughout.
 
 For a full security picture see our [Managua city briefing](/cities/managua/) and [executive protection in Managua](/executive-protection/managua/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Managua](/executive-protection/managua/). To check the credentials and vetting behind the officers, see [close protection officers in Managua](/close-protection-officers/managua/).

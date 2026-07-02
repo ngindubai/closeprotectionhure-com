@@ -33,7 +33,7 @@ faqs:
     answer: "The emergency action plan for every Santo Domingo EP programme covers: medical emergency (naming the receiving facility and evacuation routing), vehicle compromise (contingency routing and shelter options), political demonstration response (avoidance protocols and contingency routing), and communications procedures. The plan is shared with the principal and their organisation before deployment."
 ---
 
-Executive protection in Santo Domingo is built around licensed Dominican Republic operators with current ground knowledge, providing a structured programme covering the principal's full movement cycle in the city.
+Executive protection in Santo Domingo is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against crime, armed robbery, and express-kidnapping risk: advance work on venues and routes, a written risk assessment, an operations controller, and Ministry of Interior and Police licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 ## The Santo Domingo EP environment
 
@@ -44,3 +44,5 @@ EP in Santo Domingo provides a structured security overlay for the principal mov
 An EP programme in Santo Domingo covers the full principal movement cycle: advance work at all venues, close escort during movements, accommodation security liaison, daily route variation, a documented emergency action plan, and medevac provider confirmation before arrival.
 
 For the full Santo Domingo security picture, see our [Santo Domingo city briefing](/cities/santo-domingo/). For principals requiring security drivers, [security drivers in Santo Domingo](/security-drivers/santo-domingo/) covers the Dominican Republic programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Santo Domingo](/bodyguard-hire/santo-domingo/). For the operators who staff the programme and how they are vetted, see [close protection officers in Santo Domingo](/close-protection-officers/santo-domingo/).
