@@ -35,7 +35,7 @@ faqs:
     answer: "The medical plan for every Chittagong assignment includes the best available local private hospital for initial stabilisation and evacuation routing to Dhaka or Bangkok for serious cases. Medevac provider contacts are confirmed active before the principal's arrival. Medical evacuation insurance is the baseline requirement."
 ---
 
-Bodyguard hire in Chittagong operates within Bangladesh's Ministry of Home Affairs licensing framework, with close protection officers drawn from a vetted partner network holding valid national security authorisation.
+Hiring a bodyguard in Chittagong is usually tied to a specific visit, where terrorism awareness and political instability and strike action shape the plan. This page covers how close protection hire works in Bangladesh's port city, what a Ministry of Home Affairs registered officer does across a day of movements, and how quickly cover is arranged. Armed guards require specific Bangladesh Police permissions, so hire pairs a registered officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## The Chittagong security environment
 
@@ -46,3 +46,5 @@ The current security environment in Chittagong requires a bodyguard programme ca
 A Chittagong bodyguard programme covers airport transfers with inside-terminal collection at Shah Amanat International Airport, accommodation in vetted properties in the Agrabad or Nasirabad zones, in-city movement with pre-planned routes and operations controller tracking, hartal contingency planning, and a documented emergency action plan with medevac provisions.
 
 For the full Chittagong security picture, see our [Chittagong city briefing](/cities/chittagong/). For principals requiring secure transfers, [secure airport transfers in Chittagong](/secure-airport-transfers/chittagong/) covers the Bangladesh programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Chittagong](/executive-protection/chittagong/). To check the credentials and vetting behind the officers, see [close protection officers in Chittagong](/close-protection-officers/chittagong/).

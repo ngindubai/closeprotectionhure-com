@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency numbers: 190 (police), 192 (ambulance). Primary facility: Hospital Sao Carlos (+55 85 4005 3700). Secondary: Hospital Geral de Fortaleza (+55 85 3265 8000). Medical routing is pre-planned; CPOs hold current first-aid certification."
 ---
 
-Bodyguard hire in Fortaleza addresses a high risk environment: Gang violence (Ceara has one of Brazil's highest homicide rates), armed robbery, and carjacking. SSPDS-CE (Secretaria da Seguranca Publica e Defesa Social do Ceara) is the regulatory baseline for all Fortaleza close protection engagements.
+Hiring a bodyguard in Fortaleza is usually tied to a specific visit, where a high homicide rate, gang activity, and express kidnapping shape the plan. This page covers how close protection hire works in Ceara, what an operator holding SINARM and Policia Federal registration does across a day of movements, and how quickly cover is arranged. Hire pairs an armed, dual-registered officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 Private security in Fortaleza is regulated by SSPDS-CE (Ceara State Secretariat for Public Security) under Federal Law No. 7102/1983. Armed escorts require Federal Police authorisation. Operator credentials and licensed armed personnel authorisation should be confirmed before engagement.
 
 Detailed city context is available on the [Fortaleza city page](/cities/fortaleza/). For transport security, see [vetted security drivers in Fortaleza](/security-drivers/fortaleza/). For regional coverage, see [bodyguard hire in Recife](/bodyguard-hire/recife/). Firearms: armed escort available through sspds-ce-licensed operators; federal police authorisation required.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Fortaleza](/executive-protection/fortaleza/). To check the credentials and vetting behind the officers, see [close protection officers in Fortaleza](/close-protection-officers/fortaleza/).

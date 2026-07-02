@@ -35,8 +35,10 @@ faqs:
     answer: "Primary medical facility: Cebu Doctors' University Hospital (+63-32-255-5555). Emergency: 117 (police), 911 (emergency). Medical routing is pre-planned as part of every operation order. CPOs hold current first-aid certification. Medical evacuation coordination is confirmed before deployment for principals on extended Cebu programmes."
 ---
 
-Executive protection in Cebu addresses a moderate risk environment: moderate - bag snatching in commercial zones; typhoon risk (June-December); Caus. PNP SOSIA-licensed operators cover Cebu IT Park, Ayala Business Park (Cebu Business Park), and  with pre-surveyed routes, operations controller oversight, and pre-planned medical routing to Cebu Doctors' University Hospital.
+Executive protection in Cebu is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against bag snatching and typhoon-related operational risk: advance work on venues and routes, a written risk assessment, an operations controller, and PNP-authorised secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 PNP SOSIA-licensed operators under Republic Act 5487 (Private Security Agency Law) is the regulatory baseline. PNP SOSIA licensing mandatory; individual guards hold PNP security guard licences; armed details require PNP carry permits.
 
 For Cebu city context, see our [Cebu security briefing](/cities/cebu/). For transport security, see [security drivers in Cebu](/security-drivers/cebu/). For regional context, see [executive protection in Manila](/executive-protection/manila/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Cebu](/bodyguard-hire/cebu/). For the operators who staff the programme and how they are vetted, see [close protection officers in Cebu](/close-protection-officers/cebu/).

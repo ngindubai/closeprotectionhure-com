@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency number: 117 (police), 911 (emergency). Primary facility: Cebu Doctors' University Hospital (+63-32-255-5555). Secondary: Chong Hua Hospital (+63-32-255-8000). Medical routing is pre-planned; CPOs hold current first-aid certification. The operation order includes evacuation routing from all principal accommodation."
 ---
 
-Cebu presents a moderate risk environment requiring active close protection planning; the primary concern is moderate - bag snatching in commercial zones; typhoon risk (June-December); Caus. PNP SOSIA-licensed operators provide close protection across Cebu IT Park, Ayala Business Park (Cebu Business Park), and .
+Hiring a bodyguard in Cebu is typically about bag snatching and typhoon and weather-event risk rather than violent crime, with Mactan Causeway traffic an added consideration. This page covers how close protection hire works in the Philippines, what a SOSIA-supervised, PNP-authorised officer does across a day of movements, and how quickly cover is arranged. Hire pairs a licensed officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 PNP SOSIA-licensed operators under Republic Act 5487 (Private Security Agency Law) is the regulatory baseline. PNP SOSIA licensing mandatory; individual guards hold PNP security guard licences; armed details require PNP carry permits.
 
 Detailed city context is available on the [Cebu city page](/cities/cebu/). For transport security, see [vetted security drivers in Cebu](/security-drivers/cebu/). For regional coverage, see [bodyguard hire in Manila](/bodyguard-hire/manila/). Firearms: armed protection available - PNP carry permit required for armed operatives in public spaces.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Cebu](/executive-protection/cebu/). To check the credentials and vetting behind the officers, see [close protection officers in Cebu](/close-protection-officers/cebu/).

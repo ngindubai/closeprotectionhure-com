@@ -35,6 +35,8 @@ faqs:
     answer: "Surabaya's November to March rainy season brings seasonal flooding risk to parts of the city's road network. CPO operational planning during this period includes: pre-assessment of flooding risk on specific route choices from Juanda Airport, alternative routing for low-elevation road sections, operations controller real-time weather monitoring, and contingency planning if primary hotel or venue access is disrupted. The Waru corridor from Juanda is the route most commonly affected by flooding disruption."
 ---
 
-Surabaya's moderate risk environment means CPO assignments are proportionate and professional rather than intensive. POLRI-licensed operators through Polda Jawa Timur are the required standard for East Java. For most corporate principal assignments in Pakuwon City and Ciputra World, CPO coverage focuses on transport security and airport arrival management.
+This page is about the people who provide close protection in Surabaya: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Surabaya network holds a Polri permit under Law No. 2/2002, and is assessed for local competence. It covers standard team configuration, the specific police process required for the armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 For the full Surabaya security picture, see the [Surabaya city briefing](/cities/surabaya/) for Polda Jawa Timur advisory context. For vetted airport transfers alongside CPO support, [secure airport transfers in Surabaya](/secure-airport-transfers/surabaya/) covers the Juanda International Airport collection protocol.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Surabaya](/bodyguard-hire/surabaya/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Surabaya](/executive-protection/surabaya/).

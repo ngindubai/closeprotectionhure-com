@@ -35,8 +35,10 @@ faqs:
     answer: "Primary medical facility: Dr. Soetomo General Hospital (+62-31-5501-078). Emergency: 110 (police), 118 (ambulance). Medical routing is pre-planned as part of every operation order. CPOs hold current first-aid certification. Medical evacuation coordination is confirmed before deployment for principals on extended Surabaya programmes."
 ---
 
-Executive protection in Surabaya addresses a moderate risk environment: moderate - motorcycle bag snatching in commercial zones; road traffic risk. Polri-permitted operators cover Citraland, Pakuwon City, and Surabaya CBD (Jalan Pemuda) with pre-surveyed routes, operations controller oversight, and pre-planned medical routing to Dr. Soetomo General Hospital.
+Executive protection in Surabaya is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against traffic-related theft and seasonal flood risk: advance work on venues and routes, a written risk assessment, an operations controller, and Polri-permitted secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 Polri-permitted operators under Law No. 2/2002 (Indonesian National Police) is the regulatory baseline. Polri (Indonesian National Police) operating permits required; East Java Provincial Police (Polda Jatim) supervises local compliance.
 
 For Surabaya city context, see our [Surabaya security briefing](/cities/surabaya/). For transport security, see [security drivers in Surabaya](/security-drivers/surabaya/). For regional context, see [executive protection in Jakarta](/executive-protection/jakarta/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Surabaya](/bodyguard-hire/surabaya/). For the operators who staff the programme and how they are vetted, see [close protection officers in Surabaya](/close-protection-officers/surabaya/).

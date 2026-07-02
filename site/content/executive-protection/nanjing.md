@@ -35,8 +35,10 @@ faqs:
     answer: "Primary medical facility: Jiangsu Province Hospital (+86 25 8310 4204). Emergency: 110 (police), 120 (ambulance). Medical routing is pre-planned as part of every operation order. CPOs hold current first-aid certification and medical evacuation coordination to Shanghai or Hong Kong for specialist care is confirmed before deployment."
 ---
 
-Executive protection in Nanjing addresses a low risk environment: National security law exposure, digital monitoring environment, and commercial intelligence sensitivity in Nanjing's advanced manufacturing and semiconductor sectors. Ministry of Public Security (MPS) under MPS Order No. 564 (2010), administered locally by the Nanjing Public Security Bureau is the regulatory baseline for all Nanjing executive protection engagements.
+Executive protection in Nanjing is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against business-intelligence, legal, and digital-surveillance risk: advance work on venues and routes, a written risk assessment, an operations controller, and PSB-registered secure movement integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 Private security in China is regulated by the Ministry of Public Security under the Security Services Management Regulations (MPS Order No. 564, 2010), administered locally by the Nanjing Public Security Bureau (PSB). Foreign operators must partner with PSB-registered companies. Operator licence status should be confirmed before engagement.
 
 For Nanjing city context, see our [Nanjing security briefing](/cities/nanjing/). For transport security, see [security drivers in Nanjing](/security-drivers/nanjing/). For regional context, see [executive protection in Shanghai](/executive-protection/shanghai/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Nanjing](/bodyguard-hire/nanjing/). For the operators who staff the programme and how they are vetted, see [close protection officers in Nanjing](/close-protection-officers/nanjing/).

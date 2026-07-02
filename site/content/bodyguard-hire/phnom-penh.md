@@ -33,7 +33,7 @@ faqs:
     answer: "The medical plan for every Phnom Penh assignment includes the best available local medical facility for initial stabilisation and, where local capability is limited, evacuation routing to the nearest internationally accredited hospital. Medevac provider contacts are confirmed active before the principal's arrival. Medical evacuation insurance is the baseline requirement."
 ---
 
-Bodyguard hire in Phnom Penh operates within Cambodia's licensing framework, with close protection officers drawn from a vetted partner network holding valid national security authorisation.
+Hiring a bodyguard in Phnom Penh is typically about drive-by theft and scams and fraud rather than violent crime, alongside periodic political demonstrations. This page covers how close protection hire works in Cambodia, what a Ministry of Interior registered guard does across a day of movements, and how quickly cover is arranged. Most commercial security is unarmed, so hire pairs a registered officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## The Phnom Penh security environment
 
@@ -44,3 +44,5 @@ The current security environment in Phnom Penh requires a bodyguard programme ca
 A Phnom Penh bodyguard programme covers airport transfers with inside-terminal collection, accommodation in vetted properties in the primary security zone, in-city movement with pre-planned routes and operations controller tracking, and a documented emergency action plan with medevac provisions.
 
 For the full Phnom Penh security picture, see our [Phnom Penh city briefing](/cities/phnom-penh/). For principals requiring security drivers, [security drivers in Phnom Penh](/security-drivers/phnom-penh/) covers the Cambodia programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Phnom Penh](/executive-protection/phnom-penh/). To check the credentials and vetting behind the officers, see [close protection officers in Phnom Penh](/close-protection-officers/phnom-penh/).

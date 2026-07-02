@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency number: 100 (police), 108 (ambulance). Primary facility: Ruby Hall Clinic (+91-20-6645-5000). Secondary: Jehangir Hospital (+91-20-6681-5000). Medical routing is pre-planned; CPOs hold current first-aid certification. The operation order includes evacuation routing from all principal accommodation."
 ---
 
-Pune presents a moderate risk environment requiring active close protection planning; the primary concern is moderate - chain snatching in commercial zones; road traffic risk on NH48. Maharashtra PSARA-licensed operators provide close protection across Koregaon Park, Kalyani Nagar, and Hinjewadi IT Park campuses.
+Hiring a bodyguard in Pune is typically about road traffic risk and snatch theft rather than violent crime, with seasonal flood risk an added factor. This page covers how close protection hire works in Maharashtra, what a PSARA-licensed officer does across a day of movements, and how quickly cover is arranged. Firearms are not routinely carried, so hire is usually unarmed and pairs an officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 Maharashtra PSARA-licensed operators under the Private Security Agencies Regulation Act 2005 is the regulatory baseline. Maharashtra Controlling Authority PSARA licence required; armed protection subject to specific state authority approval and threat assessment.
 
 Detailed city context is available on the [Pune city page](/cities/pune/). For transport security, see [vetted security drivers in Pune](/security-drivers/pune/). For regional coverage, see [bodyguard hire in Mumbai](/bodyguard-hire/mumbai/). Firearms: unarmed standard; armed cover requires Maharashtra PSARA authority approval.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Pune](/executive-protection/pune/). To check the credentials and vetting behind the officers, see [close protection officers in Pune](/close-protection-officers/pune/).

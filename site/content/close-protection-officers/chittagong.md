@@ -35,7 +35,7 @@ faqs:
     answer: "Every Chittagong CPO deployment includes a documented emergency action plan covering medical emergency (naming the receiving facility: Chittagong Medical College Hospital or evacuation to Bangkok), vehicle compromise procedures, communications protocols, and the operations controller's emergency activation procedure."
 ---
 
-Bangladesh's second city and principal port, handling the majority of the country's garment exports and serving as the operational base for international shipping and textile sector delegations. Close protection officers in Chittagong are deployed through licensed Bangladesh operators with current ground knowledge, providing a structured CPO programme calibrated to the high-risk environment.
+This page is about the people who provide close protection in Chittagong: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Chittagong network is registered under Ministry of Home Affairs regulation administered through Bangladesh Police, and is assessed for local competence. It covers standard team configuration, specific permissions required for armed guards, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Bangladesh CPO licensing framework
 
@@ -44,3 +44,5 @@ CPO operations in Chittagong are regulated through Bangladesh Police and the Min
 ## CPO operations in Chittagong
 
 Licensed CPO cover, vehicle-based movement for all inter-venue transfers, airport collection inside Shah Amanat International Airport (CGP) terminal, operations restricted to Agrabad and Nasirabad for standard corporate assignments, and a written emergency plan with pre-confirmed contacts at the best available medical facilities. For the full Chittagong security picture, see our [Chittagong city page](/cities/chittagong/) and [bodyguard hire in Chittagong](/bodyguard-hire/chittagong/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Chittagong](/bodyguard-hire/chittagong/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Chittagong](/executive-protection/chittagong/).

@@ -35,8 +35,10 @@ faqs:
     answer: "Primary medical facility: Hospital de Clinicas de Porto Alegre (+55-51-3359-8000). Emergency: 190 (police), 192 (SAMU ambulance). Medical routing is pre-planned as part of every operation order. CPOs hold current first-aid certification. Medical evacuation coordination is confirmed before deployment for principals on extended Porto Alegre programmes."
 ---
 
-Executive protection in Porto Alegre addresses a high risk environment: high - armed robbery, carjacking, and express kidnapping per SSP-RS 2024; city c. Federal Police-licensed operators cover Moinhos de Vento, Bela Vista, and Auxiliadora districts (nor with pre-surveyed routes, operations controller oversight, and pre-planned medical routing to Hospital de Clinicas de Porto Alegre.
+Executive protection in Porto Alegre is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing armed robbery, carjacking, and express kidnapping: advance work on venues and routes, a written threat assessment, an operations controller, and Federal Police licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 Federal Police-licensed operators under Lei 7.102/1983 is the regulatory baseline. Federal Police (Policia Federal) licence mandatory; SINDESP-RS state union registration; armed operators hold Federal Police firearms authorisation.
 
 For Porto Alegre city context, see our [Porto Alegre security briefing](/cities/porto-alegre/). For transport security, see [security drivers in Porto Alegre](/security-drivers/porto-alegre/). For regional context, see [executive protection in Sao Paulo](/executive-protection/sao-paulo/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Porto Alegre](/bodyguard-hire/porto-alegre/). For the operators who staff the programme and how they are vetted, see [close protection officers in Porto Alegre](/close-protection-officers/porto-alegre/).

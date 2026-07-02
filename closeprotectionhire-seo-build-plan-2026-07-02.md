@@ -565,6 +565,13 @@ Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** wi
 - **Verification:** build clean (0 errors); all 10 cities' three siblings confirmed distinct; QA gate clean; no dead links (existence-check guard held).
 - **Status:** committed + pushed to `master` (deploys). **205 of 278 bodyguard-hire cities now differentiated (~74% of the network).**
 
+### 2026-07-02 — Batch 5 (sub-batch 22 of N): Differentiation rollout, 10 more cities [SONNET, model already locked]
+- **Cities (10):** fortaleza, porto-alegre, recife, pune, phnom-penh, yangon, chittagong, cebu, surabaya, nanjing. **Files: 30.**
+- Standard treatment for 9 of 10 (intent lede 66–82 words citing each city's own regulator/threat: Brazil SINARM/Policia Federal + Ceara SSPDS-CE/Pernambuco SDS-PE state credentials, Maharashtra PSARA, Cambodia MoI, Bangladesh MoHA/Police, Philippines RA 5487/SOSIA, Indonesia Polri/Law 2/2002, China PSB Order 564) + sibling cross-links.
+- **Yangon check:** like Minsk (not Khartoum/Kabul) — existing page already states cover is delivered by "the limited category of organisations with legitimate essential operations," not a full non-offer, so ledes were adapted (not the standard transactional/programme/operators template) to honestly reflect post-coup detention-risk, sanctions-compliance, and SAC-monitoring realities while preserving the three distinct silo angles.
+- **Verification:** build clean (0 errors); all 10 cities' three siblings confirmed distinct; QA gate clean.
+- **Status:** committed + pushed to `master` (deploys). **215 of 278 bodyguard-hire cities now differentiated (~77% of the network).**
+
 ### 2026-07-02 — Deploy + branch-rule change (owner instruction)
 - Owner directed all work to go live and to build on the deploy branch. Corrected a misdirection first: the owner said "build on the live branch," but `live` is the auto-generated compiled-output branch (force-pushed by CI, never hand-edited). The real deploy branch is `master`.
 - **Action:** fast-forward-merged the 10-commit feature branch `claude/close-protection-seo-audit-0yjirj` into `master` (0 divergence, no conflicts) and pushed `master`, triggering `build-and-publish.yml` → Hugo build → publish `site/public` to `live` → Hostinger deploy.

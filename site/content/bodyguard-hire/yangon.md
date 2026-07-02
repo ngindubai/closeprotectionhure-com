@@ -33,8 +33,10 @@ faqs:
     answer: "Any Yangon assignment requires a documented emergency extraction plan: identified overland routes to the Thai border via the Bangkok corridor, contact details for the Bangkok-based regional hub, embassy emergency registration and contact protocols, a trigger framework for when extraction is initiated, and a communications tree that functions if primary communications are compromised."
 ---
 
-Yangon bodyguard hire operates in a fundamentally different framework from the rest of this network: the post-coup security environment requires detention risk assessment as a first-order consideration, sanctions compliance screening for all operators, compound-based security models, and communications security that recognises SAC monitoring of all standard channels.
+Yangon bodyguard hire operates in a fundamentally different framework from the rest of this network. This page covers how close protection hire works under post-coup conditions, where detention-risk assessment, sanctions-compliance screening, and compound-based security are first-order considerations rather than add-ons. CPO operators with current Myanmar post-coup experience support the limited category of organisations with legitimate essential operations, using communications protocols that account for SAC monitoring of standard channels.
 
 CPO operators with current Myanmar post-coup experience support the limited category of organisations with legitimate essential operations in Yangon.
 
 For the full Yangon security picture, see our [Yangon city briefing](/cities/yangon/). For regional staging and the Bangkok corridor that is the standard extraction route, [bodyguard hire in Bangkok](/bodyguard-hire/bangkok/) covers the Thailand CPO programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Yangon](/executive-protection/yangon/). To check the credentials and vetting behind the officers, see [close protection officers in Yangon](/close-protection-officers/yangon/).

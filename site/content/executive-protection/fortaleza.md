@@ -35,8 +35,10 @@ faqs:
     answer: "Primary medical facility: Hospital Sao Carlos (+55 85 4005 3700). Emergency: 190 (police), 192 (ambulance). Medical routing is pre-planned as part of every operation order. CPOs hold current first-aid certification and medical evacuation coordination to Sao Paulo for major trauma or specialist care is confirmed before deployment."
 ---
 
-Executive protection in Fortaleza addresses a high risk environment: Gang violence (Ceara has one of Brazil's highest homicide rates), armed robbery, and carjacking. SSPDS-CE (Secretaria da Seguranca Publica e Defesa Social do Ceara) is the regulatory baseline for all Fortaleza executive protection engagements.
+Executive protection in Fortaleza is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing a high homicide rate, gang activity, and express kidnapping: advance work on venues and routes, a written threat assessment, an operations controller, and dual-registered armed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 Private security in Fortaleza is regulated by SSPDS-CE (Ceara State Secretariat for Public Security) under Federal Law No. 7102/1983. Armed escorts require Federal Police authorisation. Operator credentials and licensed armed personnel authorisation should be confirmed before engagement.
 
 For Fortaleza city context, see our [Fortaleza security briefing](/cities/fortaleza/). For transport security, see [security drivers in Fortaleza](/security-drivers/fortaleza/). For regional context, see [executive protection in Recife](/executive-protection/recife/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Fortaleza](/bodyguard-hire/fortaleza/). For the operators who staff the programme and how they are vetted, see [close protection officers in Fortaleza](/close-protection-officers/fortaleza/).

@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency number: 110 (police), 118 (ambulance). Primary facility: Dr. Soetomo General Hospital (+62-31-5501-078). Secondary: Siloam Hospitals Surabaya (+62-31-5678-999). Medical routing is pre-planned; CPOs hold current first-aid certification. The operation order includes evacuation routing from all principal accommodation."
 ---
 
-Surabaya presents a moderate risk environment requiring active close protection planning; the primary concern is moderate - motorcycle bag snatching in commercial zones; road traffic risk. Polri-permitted operators provide close protection across Citraland, Pakuwon City, and Surabaya CBD (Jalan Pemuda).
+Hiring a bodyguard in Surabaya is typically about traffic-related theft and seasonal flooding rather than violent crime, which is low. This page covers how close protection hire works in Indonesia, what a Polri-permitted operator does across a day of movements, and how quickly cover is arranged. Private security generally operates unarmed, so hire pairs a registered officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 Polri-permitted operators under Law No. 2/2002 (Indonesian National Police) is the regulatory baseline. Polri (Indonesian National Police) operating permits required; East Java Provincial Police (Polda Jatim) supervises local compliance.
 
 Detailed city context is available on the [Surabaya city page](/cities/surabaya/). For transport security, see [vetted security drivers in Surabaya](/security-drivers/surabaya/). For regional coverage, see [bodyguard hire in Jakarta](/bodyguard-hire/jakarta/). Firearms: unarmed standard; armed cover subject to Polri authorisation.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Surabaya](/executive-protection/surabaya/). To check the credentials and vetting behind the officers, see [close protection officers in Surabaya](/close-protection-officers/surabaya/).

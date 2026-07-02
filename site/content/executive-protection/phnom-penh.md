@@ -33,7 +33,7 @@ faqs:
     answer: "The emergency action plan for every Phnom Penh EP programme covers: medical emergency (naming the receiving facility and evacuation routing), vehicle compromise (contingency routing and shelter options), political demonstration response (avoidance protocols and contingency routing), and communications procedures. The plan is shared with the principal and their organisation before deployment."
 ---
 
-Executive protection in Phnom Penh is built around licensed Cambodia operators with current ground knowledge, providing a structured programme covering the principal's full movement cycle in the city.
+Executive protection in Phnom Penh is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against drive-by theft, fraud, and political-demonstration exposure: advance work on venues and routes, a written risk assessment, an operations controller, and Ministry of Interior registered secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 ## The Phnom Penh EP environment
 
@@ -44,3 +44,5 @@ EP in Phnom Penh provides a structured security overlay for the principal moveme
 An EP programme in Phnom Penh covers the full principal movement cycle: advance work at all venues, close escort during movements, accommodation security liaison, daily route variation, a documented emergency action plan, and medevac provider confirmation before arrival.
 
 For the full Phnom Penh security picture, see our [Phnom Penh city briefing](/cities/phnom-penh/). For principals requiring security drivers, [security drivers in Phnom Penh](/security-drivers/phnom-penh/) covers the Cambodia programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Phnom Penh](/bodyguard-hire/phnom-penh/). For the operators who staff the programme and how they are vetted, see [close protection officers in Phnom Penh](/close-protection-officers/phnom-penh/).

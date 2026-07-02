@@ -37,7 +37,7 @@ faqs:
     answer: "For complex surgical or critical care scenarios, medical evacuation to Bangkok is the standard protocol for Phnom Penh assignments. The Royal Phnom Penh Hospital is the best available local facility and is appropriate for stabilisation and many acute conditions, but its capability for complex trauma or surgical cases is materially below what is available in Bangkok. Medevac provider contacts are confirmed active before any assignment begins."
 ---
 
-Phnom Penh is Cambodia's capital and the hub for the country's substantial NGO, UN agency, and development sector presence alongside a growing commercial and investment event calendar. It is a moderate-risk city for international business visitors, with the primary security considerations being petty crime and drive-by theft rather than terrorism or serious political violence. Close protection officer demand in Phnom Penh is concentrated among diplomatic and NGO principals, senior corporate executives visiting in connection with Cambodian investment or infrastructure projects, and high-profile international visitors where the local security environment warrants a professional CPO overlay.
+This page is about the people who provide close protection in Phnom Penh: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Phnom Penh network is registered with Cambodia's Ministry of Interior under the Law on the Management of Private Bodyguards and Security Guards, and is assessed for local competence. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Cambodian CPO licensing environment
 
@@ -46,3 +46,5 @@ Cambodia's Ministry of Interior administers private security licensing under the
 ## CPO operations in Phnom Penh
 
 A Phnom Penh CPO detail covers vehicle-based movement for all inter-venue transfers, pre-advance at accommodation and meeting venues in BKK1 and Daun Penh, low-profile protocols for NGO and diplomatic principals, operations controller support, and a medical emergency plan with pre-confirmed Bangkok medevac capability. For the full Phnom Penh security picture, see our [Phnom Penh city page](/cities/phnom-penh/) and [bodyguard hire in Phnom Penh](/bodyguard-hire/phnom-penh/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Phnom Penh](/bodyguard-hire/phnom-penh/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Phnom Penh](/executive-protection/phnom-penh/).

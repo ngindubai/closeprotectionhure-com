@@ -35,8 +35,10 @@ faqs:
     answer: "Primary medical facility: Hospital Esperanca (+55 81 3216 1300). Emergency: 190 (police), 192 (ambulance). Medical routing is pre-planned as part of every operation order. CPOs hold current first-aid certification and medical evacuation coordination to Sao Paulo or the United States for major trauma is confirmed before deployment."
 ---
 
-Executive protection in Recife addresses a high risk environment: Armed robbery, express kidnapping, carjacking, and gang violence. SESP-PE (Secretaria de Seguranca Publica e Defesa Social de Pernambuco) is the regulatory baseline for all Recife executive protection engagements.
+Executive protection in Recife is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing armed robbery, gang-territory risk, and port-related crime: advance work on venues and routes, a written threat assessment, an operations controller, and dual-registered secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 Private security in Recife is regulated at state level by SESP-PE (Pernambuco State Secretariat for Public Security) under Federal Law No. 7102/1983 and subsequent regulations. Armed escorts require individual weapon authorisation from the Federal Police. Operator credentials and armed escort authorisation should be verified before engagement.
 
 For Recife city context, see our [Recife security briefing](/cities/recife/). For transport security, see [security drivers in Recife](/security-drivers/recife/). For regional context, see [executive protection in Sao Paulo](/executive-protection/sao-paulo/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Recife](/bodyguard-hire/recife/). For the operators who staff the programme and how they are vetted, see [close protection officers in Recife](/close-protection-officers/recife/).

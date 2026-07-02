@@ -33,8 +33,10 @@ faqs:
     answer: "Every Yangon EP assignment requires a documented emergency extraction plan: identified overland routes to the Thai border via the Bangkok corridor, embassy emergency registration and contact protocols, a trigger framework for when extraction is initiated, and a communications tree that functions if primary communications are compromised. The EP team is briefed on extraction trigger criteria and their role in the extraction sequence before deployment."
 ---
 
-Yangon executive protection operates in a fundamentally different framework from the rest of this network: detention risk profiling as the first-order consideration, mandatory sanctions compliance screening for all operators, compound-to-compound movement discipline, and communications security that recognises SAC monitoring of all standard channels.
+Executive protection in Yangon is a programme built for post-coup conditions, not a single officer. It is the discipline a company applies for the limited category of organisations with legitimate essential operations: detention-risk assessment, sanctions-compliance screening, compound-based security, an operations controller, and communications protocols accounting for SAC monitoring, integrated into the itinerary. This page is for security managers designing protection around an essential visit, where the framework differs fundamentally from the rest of the network.
 
 Vetted operators with current Myanmar post-coup EP experience support the limited category of organisations with legitimate essential operations in Yangon.
 
 For the full Yangon security picture, see our [Yangon city briefing](/cities/yangon/). For vetted secure transport alongside the EP team, [security drivers in Yangon](/security-drivers/yangon/) covers the Myanmar driver programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Yangon](/bodyguard-hire/yangon/). For the operators who staff the programme and how they are vetted, see [close protection officers in Yangon](/close-protection-officers/yangon/).

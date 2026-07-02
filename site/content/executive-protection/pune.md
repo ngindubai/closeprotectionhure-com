@@ -35,8 +35,10 @@ faqs:
     answer: "Primary medical facility: Ruby Hall Clinic (+91-20-6645-5000). Emergency: 100 (police), 108 (ambulance). Medical routing is pre-planned as part of every operation order. CPOs hold current first-aid certification. Medical evacuation coordination is confirmed before deployment for principals on extended Pune programmes."
 ---
 
-Executive protection in Pune addresses a moderate risk environment: moderate - chain snatching in commercial zones; road traffic risk on NH48. Maharashtra PSARA-licensed operators cover Koregaon Park, Kalyani Nagar, and Hinjewadi IT Park campuses with pre-surveyed routes, operations controller oversight, and pre-planned medical routing to Ruby Hall Clinic.
+Executive protection in Pune is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against traffic risk and snatch theft, with seasonal flood contingencies: advance work on venues and routes, a written risk assessment, an operations controller, and PSARA-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 Maharashtra PSARA-licensed operators under the Private Security Agencies Regulation Act 2005 is the regulatory baseline. Maharashtra Controlling Authority PSARA licence required; armed protection subject to specific state authority approval and threat assessment.
 
 For Pune city context, see our [Pune security briefing](/cities/pune/). For transport security, see [security drivers in Pune](/security-drivers/pune/). For regional context, see [executive protection in Mumbai](/executive-protection/mumbai/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Pune](/bodyguard-hire/pune/). For the operators who staff the programme and how they are vetted, see [close protection officers in Pune](/close-protection-officers/pune/).

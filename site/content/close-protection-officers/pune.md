@@ -35,6 +35,8 @@ faqs:
     answer: "A single PSARA Maharashtra-licensed CPO in Pune typically ranges from INR 8,000 to INR 18,000 per operational day depending on the specific agency, the CPO's grade and experience, and whether a security-equipped vehicle is included. Rates vary with the specific operational requirement. As at June 2026, the market rate for experienced CPOs for senior executive assignments in Pune is at the higher end of this range."
 ---
 
-Pune's moderate risk environment means CPO assignments are proportionate and professional rather than intensive. PSARA-licensed operators through the Maharashtra licensing authority are the required standard. For technology sector executives, the Hinjawadi campus to city-centre transit is the primary CPO operational focus.
+This page is about the people who provide close protection in Pune: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Pune network holds a Maharashtra state PSARA licence under the Maharashtra Controlling Authority, and is assessed for local competence. It covers standard team configuration, the specific justification required for the armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 For the full Pune security picture, see the [Pune city briefing](/cities/pune/) for Maharashtra Police advisory context. For vetted airport transfers alongside CPO support, [secure airport transfers in Pune](/secure-airport-transfers/pune/) covers the PNQ airport collection protocol.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Pune](/bodyguard-hire/pune/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Pune](/executive-protection/pune/).

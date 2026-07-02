@@ -35,6 +35,8 @@ faqs:
     answer: "The May 2024 floods disrupted Porto Alegre's road network significantly. By 2026, the impact on CPO operations is primarily: ongoing awareness of road surface and access route conditions in lower-elevation areas where recovery infrastructure work may continue; monitoring for any residual changes in neighbourhood security patterns in areas that were heavily affected; and the inclusion of post-flood route verification in the standard pre-advance for Porto Alegre assignments."
 ---
 
-Porto Alegre CPO assignments require Policia Federal-licensed operators and operational protocols calibrated to Rio Grande do Sul's high-crime environment. Express kidnapping counter-protocols, vehicle security disciplines, and airport arrival management are the foundations of every Porto Alegre close protection detail.
+This page is about the people who provide close protection in Porto Alegre: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Porto Alegre network holds Federal Police licensing under Lei 7.102/1983, with firearms authorisation where armed, and is assessed for local competence. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 For the full Porto Alegre security picture, see the [Porto Alegre city briefing](/cities/porto-alegre/) for SESP-RS crime context. For vetted airport transfers as part of a CPO detail, [secure airport transfers in Porto Alegre](/secure-airport-transfers/porto-alegre/) covers the Salgado Filho Airport collection protocol.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Porto Alegre](/bodyguard-hire/porto-alegre/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Porto Alegre](/executive-protection/porto-alegre/).

@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency number: 190 (police), 192 (SAMU ambulance). Primary facility: Hospital de Clinicas de Porto Alegre (+55-51-3359-8000). Secondary: Santa Casa de Misericordia de Porto Alegre (+55-51-3214-8000). Medical routing is pre-planned; CPOs hold current first-aid certification. The operation order includes evacuation routing from all principal accommodation."
 ---
 
-Porto Alegre presents a high risk environment requiring active close protection planning; the primary concern is high - armed robbery, carjacking, and express kidnapping per SSP-RS 2024; city c. Federal Police-licensed operators provide close protection across Moinhos de Vento, Bela Vista, and Auxiliadora districts (nor.
+Hiring a bodyguard in Porto Alegre is usually tied to a specific visit, where armed robbery, carjacking, and express kidnapping (sequestro relampago) shape the plan, with extreme flooding an added seasonal factor. This page covers how close protection hire works in Brazil, what a Federal Police licensed officer does across a day of movements, and how quickly cover is arranged. Hire pairs a licensed officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 Federal Police-licensed operators under Lei 7.102/1983 is the regulatory baseline. Federal Police (Policia Federal) licence mandatory; SINDESP-RS state union registration; armed operators hold Federal Police firearms authorisation.
 
 Detailed city context is available on the [Porto Alegre city page](/cities/porto-alegre/). For transport security, see [vetted security drivers in Porto Alegre](/security-drivers/porto-alegre/). For regional coverage, see [bodyguard hire in Sao Paulo](/bodyguard-hire/sao-paulo/). Firearms: armed protection available - Federal Police-authorised operators.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Porto Alegre](/executive-protection/porto-alegre/). To check the credentials and vetting behind the officers, see [close protection officers in Porto Alegre](/close-protection-officers/porto-alegre/).

@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency numbers: 190 (police), 192 (ambulance). Primary facility: Hospital Esperanca (+55 81 3216 1300). Secondary: Real Hospital Portugues (+55 81 3416 1000). Medical routing is pre-planned; CPOs hold current first-aid certification."
 ---
 
-Bodyguard hire in Recife addresses a high risk environment: Armed robbery, express kidnapping, carjacking, and gang violence. SESP-PE (Secretaria de Seguranca Publica e Defesa Social de Pernambuco) is the regulatory baseline for all Recife close protection engagements.
+Hiring a bodyguard in Recife is usually tied to a specific visit, where armed robbery, gang territory, and port-related industrial crime shape the plan. This page covers how close protection hire works in Pernambuco, what a dual SDS-PE and Policia Federal registered operator does across a day of movements, and how quickly cover is arranged. Armed cover requires SINARM authorisation, so hire pairs a registered officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 Private security in Recife is regulated at state level by SESP-PE (Pernambuco State Secretariat for Public Security) under Federal Law No. 7102/1983 and subsequent regulations. Armed escorts require individual weapon authorisation from the Federal Police. Operator credentials and armed escort authorisation should be verified before engagement.
 
 Detailed city context is available on the [Recife city page](/cities/recife/). For transport security, see [vetted security drivers in Recife](/security-drivers/recife/). For regional coverage, see [bodyguard hire in Sao Paulo](/bodyguard-hire/sao-paulo/). Firearms: armed escort available through sesp-pe-licensed operators; federal police authorisation required for armed personnel.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Recife](/executive-protection/recife/). To check the credentials and vetting behind the officers, see [close protection officers in Recife](/close-protection-officers/recife/).

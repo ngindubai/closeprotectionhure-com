@@ -33,10 +33,12 @@ faqs:
     answer: "Myanmar's military government has documented surveillance capability for mobile communications and social media. CPO assignments in Yangon use managed communications: VPN-protected communications where technically feasible, avoidance of platforms known to be monitored for sensitive operational information, and specific guidance on what should not be communicated digitally about the principal's schedule, contacts, or movements."
 ---
 
-Yangon close protection is calibrated to Myanmar's post-coup operating environment: vetted operators with current ground knowledge managing checkpoints, detention-risk protocols, digital surveillance awareness, and evacuation planning for essential-presence organisations maintaining a Yangon footprint.
+CPO operators in Yangon are drawn from a limited pool with current Myanmar post-coup experience: this page covers what to verify before engaging any of them under junta-controlled conditions, where the pre-coup licensing framework has been effectively replaced. It covers sanctions-compliance screening as a mandatory step, compound-based operational competence, and the extra due-diligence a buyer should insist on given the ambiguous legal environment for security operations.
 
 ## The CPO environment in Yangon
 
 Yangon remains comparatively stable relative to Myanmar's conflict zones but FCDO and the US State Department's highest-level warnings apply to the entire country, including Yangon. CPO operations in this environment require operators who understand the post-coup political landscape, checkpoint compliance requirements, and the specific legal risks that make communications discipline and movement management substantively different from lower-risk Southeast Asian cities.
 
 For the full Yangon security picture, see our [Yangon city briefing](/cities/yangon/). For principals requiring residential security alongside CPO cover, [residential security in Yangon](/residential-security/yangon/) covers the post-coup residential programme.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Yangon](/bodyguard-hire/yangon/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Yangon](/executive-protection/yangon/).

@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency numbers: 110 (police), 120 (ambulance). Primary facility: Jiangsu Province Hospital (+86 25 8310 4204). Secondary: Nanjing Drum Tower Hospital (+86 25 5222 7806). Medical routing is pre-planned; CPOs hold current first-aid certification."
 ---
 
-Bodyguard hire in Nanjing addresses a low risk environment: National security law exposure, digital monitoring environment, and commercial intelligence sensitivity in Nanjing's advanced manufacturing and semiconductor sectors. Ministry of Public Security (MPS) under MPS Order No. 564 (2010), administered locally by the Nanjing Public Security Bureau is the regulatory baseline for all Nanjing close protection engagements.
+Hiring a bodyguard support arrangement in Nanjing is typically about business-intelligence and legal risk and digital surveillance rather than violent crime, which is low. This page covers how close protection support works in China, what a PSB-registered provider offers across a day of movements, and how quickly it can be arranged. Foreign personnel cannot hold commercial security licences, so support is delivered through a licensed Chinese operator, scaled to the visit.
 
 Private security in China is regulated by the Ministry of Public Security under the Security Services Management Regulations (MPS Order No. 564, 2010), administered locally by the Nanjing Public Security Bureau (PSB). Foreign operators must partner with PSB-registered companies. Operator licence status should be confirmed before engagement.
 
 Detailed city context is available on the [Nanjing city page](/cities/nanjing/). For transport security, see [vetted security drivers in Nanjing](/security-drivers/nanjing/). For regional coverage, see [bodyguard hire in Shanghai](/bodyguard-hire/shanghai/). Firearms: unarmed - no private firearms permitted under chinese law.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Nanjing](/executive-protection/nanjing/). To check the credentials and vetting behind the officers, see [close protection officers in Nanjing](/close-protection-officers/nanjing/).
