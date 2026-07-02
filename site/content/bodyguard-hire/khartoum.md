@@ -35,7 +35,7 @@ faqs:
     answer: "Khartoum International Airport has been effectively closed and has sustained damage since the outbreak of fighting in April 2023. Access to Sudan for the limited essential missions that proceed now typically routes via Port Sudan International Airport, subject to current operational conditions and security clearance."
 ---
 
-Khartoum presents an extreme security environment that precludes routine close protection deployment. Active civil war between the Sudanese Armed Forces and the Rapid Support Forces, ongoing since April 2023, has resulted in the collapse of civilian infrastructure across large parts of the city, the effective closure of Khartoum International Airport, and the relocation of most diplomatic missions to Port Sudan. FCDO advises against all travel to Sudan; the US State Department rates Sudan at Level 4.
+Sudan's active civil war means routine bodyguard hire is not available in Khartoum; the FCDO advises against all travel and Khartoum International Airport has effectively closed. This page covers what is actually offered for organisations with unavoidable Sudan interests: remote risk assessment, situation monitoring, and separately assessed Port Sudan operations. Any in-country access is planned individually with confirmed medevac arrangements before it proceeds, not booked as a standard engagement.
 
 For organisations with existing Sudan interests, remote risk assessment and situation monitoring services are available to support duty-of-care obligations. Port Sudan operations can be assessed and planned separately. Essential humanitarian or diplomatic missions to any part of Sudan are assessed individually, beginning with a comprehensive remote threat analysis, and only proceed with confirmed medevac arrangements and client sign-off.
 
@@ -44,3 +44,5 @@ For the full Sudan security picture, see our [Khartoum city briefing](/cities/kh
 ## Planning for Sudan access
 
 No security plan for Sudan should be prepared without full engagement with current FCDO and UN security reporting. Organisations considering operations in Sudan, whether for humanitarian, diplomatic, or commercial purposes, should conduct a structured remote threat assessment before any in-country activity is authorised.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Khartoum](/executive-protection/khartoum/). To check the credentials and vetting behind the officers, see [close protection officers in Khartoum](/close-protection-officers/khartoum/).

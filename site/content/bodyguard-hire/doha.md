@@ -35,7 +35,7 @@ faqs:
     answer: "Qatar's hosting of the FIFA 2022 World Cup involved substantial investment in security infrastructure, personnel training, and coordination frameworks, both for event security and for the broader licensed private security industry. The tournament required the MoI to approve and coordinate a significantly expanded pool of licensed security companies and personnel, which raised the overall market standard for vetted CPO services in Doha. The legacy of that infrastructure investment means that the pool of MoI-licenced, internationally experienced CPO providers available for corporate and HNWI engagements in Doha in 2026 is materially broader and higher quality than it was in 2020."
 ---
 
-Doha is Qatar's capital and the centre of its LNG-anchored economy, hosting QatarEnergy's headquarters, the Qatar Investment Authority, and a concentrated network of international energy and financial sector institutions. While day-to-day crime rates are among the lowest in the world, the energy sector's corporate intelligence environment and the broader Gulf regional dynamics create specific demand for close protection services among senior sector principals and visiting delegations. Private security is regulated under Law No. 8 of 2002, with Ministry of Interior licensing of both companies and personnel as the compliance framework. The post-FIFA 2022 investment in Doha's licensed security industry has expanded and improved the available pool of CPO providers.
+Hiring a bodyguard in Doha is typically about legal compliance and regional security tensions rather than street crime, which is limited. This page covers how close protection hire works in Qatar, what a Ministry of Interior approved operator does across a day of movements, and how quickly cover is arranged. Private cover is unarmed without exception, so hire pairs a vetted officer with discreet secure transport, scaled to the visit rather than a fixed contract.
 
 ## The Law No. 8 of 2002 private security licensing framework
 
@@ -46,3 +46,5 @@ Law No. 8 of 2002 on Private Protective Security Services requires all private s
 The FCDO rates Qatar as a low-risk destination for general business travel, but the energy sector's concentrated deal-making environment, the corporate intelligence risks associated with QatarEnergy and QIA-linked transactions, and the regional Gulf security dynamics maintain a specific CPO demand profile among senior sector principals and visiting delegations operating in Doha.
 
 For complementary services in Doha, see our [Doha city page](/cities/doha/) and [security drivers in Doha](/security-drivers/doha/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Doha](/executive-protection/doha/). To check the credentials and vetting behind the officers, see [close protection officers in Doha](/close-protection-officers/doha/).

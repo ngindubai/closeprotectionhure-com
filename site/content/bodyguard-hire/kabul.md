@@ -37,7 +37,7 @@ faqs:
     answer: "Medical evacuation from Kabul requires a commercial MEDEVAC provider with Afghanistan capability and pre-agreed protocols. Operators must hold contingency plans that do not depend on Western consular assistance, as no such assistance is available. All Kabul deployments should include pre-engaged MEDEVAC coverage as a condition of operation."
 ---
 
-Kabul represents one of the most operationally demanding environments in the world for close protection work. Since the Taliban's return to power in August 2021, the threat landscape has been reshaped by three concurrent dynamics: a governing authority that exercises arbitrary control over all movement and security operations, an active IS-KP insurgency conducting mass-casualty attacks, and the near-total absence of Western diplomatic presence to provide a safety backstop for foreign nationals. Both the FCDO and the US State Department advise against all travel to Afghanistan.
+Afghanistan's post-2021 environment means routine bodyguard hire, in the conventional sense, is not available in Kabul; the FCDO and US State Department advise against all travel. This page covers what engagement actually requires: Taliban-approved local partners, IS-KP threat awareness, and acceptance that no Western consular backstop exists. Any access is planned individually around current authorisation pathways rather than arranged as a standard, on-demand service.
 
 ## The Kabul Security Environment After 2021
 
@@ -56,3 +56,5 @@ For clients whose work requires presence in Afghanistan, our [Kabul city securit
 We do not introduce clients to operators solely on the basis of pre-2021 reputation. The post-2021 environment has produced a new cohort of credible Afghan-led firms alongside operators whose prior credentials no longer reflect current capability. Our vetting process focuses on post-2021 track record, verified Taliban liaison channels, current staffing, equipment, and references from organisations that have operated in Kabul within the last 18 months.
 
 All Kabul engagements begin with a scoping consultation to establish the client's operational requirements, risk tolerance, and contingency planning baseline. We do not deploy protective resources to Kabul without that foundation in place.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Kabul](/executive-protection/kabul/). To check the credentials and vetting behind the officers, see [close protection officers in Kabul](/close-protection-officers/kabul/).

@@ -35,7 +35,7 @@ faqs:
     answer: "An SGSIA-licensed close protection officer in Hong Kong ranges from approximately HKD 3,500 to HKD 8,000 per day per officer as at June 2026 (approximately GBP 345 to GBP 790). Hong Kong CPO rates reflect the high cost of operating in the city and the sophisticated market the service addresses. HNWI residential and family protection engagements are structured on a retainer basis."
 ---
 
-Hong Kong is one of Asia's most significant financial centres and a principal HNWI concentration, with a private banking and family-office sector that rivals Singapore for regional prominence. The security environment for business visitors has changed in one important dimension since 2019: the political and legal context, specifically the National Security Law enacted in June 2020, has introduced intelligence-environment considerations that did not previously apply. The ambient crime rate for business visitors in Central, Wan Chai, and the HNWI residential areas remains low; CPO demand is driven by wealth concentration and, increasingly, by the political intelligence environment for specific principal categories.
+Hiring a bodyguard in Hong Kong is typically about navigating National Security Law exposure and a close surveillance environment rather than conventional crime, which is low. This page covers how close protection hire works under the Security and Guarding Services Ordinance, what a police-licensed officer does across a day of movements, and how quickly cover is arranged. Firearms are effectively prohibited for private security, so hire is unarmed and built around discretion and planning, scaled to the visit rather than a fixed contract.
 
 ## The SGSIA licensing framework
 
@@ -46,3 +46,5 @@ Hong Kong's Security and Guarding Services Industry Authority (SGSIA) administer
 The National Security Law has changed specific elements of the intelligence environment for senior executives in Hong Kong. Communications security awareness, caution around discussions of politically sensitive topics in mixed company, and awareness of which activities may attract legal scrutiny under the NSL are now standard elements of CPO briefing for Hong Kong engagements at the senior executive level.
 
 For complementary services in Hong Kong, see our [Hong Kong city page](/cities/hong-kong/) and [security drivers in Hong Kong](/security-drivers/hong-kong/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Hong Kong](/executive-protection/hong-kong/). To check the credentials and vetting behind the officers, see [close protection officers in Hong Kong](/close-protection-officers/hong-kong/).

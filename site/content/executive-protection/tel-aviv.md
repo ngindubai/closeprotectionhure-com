@@ -33,7 +33,7 @@ faqs:
     answer: "EP day rates in Tel Aviv for a RAAS-licensed, armed, ex-IDF-background CPO typically range from USD 500 to USD 900 per day; full team deployments with operations controller, advance, and vehicle team typically range from USD 1,500 to USD 3,000 per day plus vehicle and communications costs, as at June 2026. The conflict environment premium reflects both the elevated operational requirements and the specialist skill set required. All deployments include a pre-engagement current-environment briefing as a standard component."
 ---
 
-Tel Aviv executive protection operates in an active conflict environment where FCDO advises against all travel to Israel and the US State Department rates the country at Level 4. RAAS licensing under the Ministry of Public Security provides the regulatory framework; armed CPOs with ex-IDF and ISA backgrounds, rocket alert shelter planning, and current-environment intelligence integration are the operational standards for every Tel Aviv EP deployment.
+Executive protection in Tel Aviv is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive under conflict-zone conditions, including rocket attack and regional escalation risk: continuous threat monitoring, an operations controller, shelter planning, and licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Israeli RAAS regulatory framework
 
@@ -44,3 +44,5 @@ Tel Aviv CPOs hold RAAS personal licences with RAAS firearms permits for armed p
 Every deployment begins with a mandatory current-environment briefing. Shelter points are mapped for every location. Rocket alert protocols are briefed to principals before arrival. Armed CPO teams with ex-IDF or ISA backgrounds are the standard; team size scales with threat assessment, from a minimum two-person armed CPO-and-driver team to a full multi-element team with operations controller.
 
 For the broader Tel Aviv security overview, see our [Tel Aviv city page](/cities/tel-aviv/) and our [security drivers in Tel Aviv](/security-drivers/tel-aviv/) and [bodyguard hire in Tel Aviv](/bodyguard-hire/tel-aviv/) pages.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Tel Aviv](/bodyguard-hire/tel-aviv/). For the operators who staff the programme and how they are vetted, see [close protection officers in Tel Aviv](/close-protection-officers/tel-aviv/).

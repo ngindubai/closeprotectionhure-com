@@ -35,7 +35,7 @@ faqs:
     answer: "A CNAPS-licensed close protection officer in Paris ranges from approximately EUR 500 to EUR 1,100 per day per officer as at June 2026, depending on the CPO's qualifications, the threat profile, and the duration. Armed CPO cover in France requires additional police authorisation and is limited to specific circumstances; standard Paris CPO engagements use unarmed officers. Multi-officer configurations and residential security engagements are priced on a retainer basis."
 ---
 
-Paris is a global HNWI destination, a major corporate hub, and one of Europe's most significant luxury goods and hospitality markets. It is also a city with a documented terrorism threat, a history of social unrest disrupting normal business operations, and specific targeted crime against wealthy individuals in its luxury retail and hotel districts. Close protection officer demand in Paris is driven by this combination: it is not routine for most business visitors but is a professional norm for HNWI principals, visiting dignitaries, and senior executives with specific threat indicators.
+Hiring a bodyguard in Paris is usually tied to a specific visit, where terrorism awareness and organised pickpocket activity shape the plan more than violent crime. This page covers how close protection hire works in France, what a CNAPS-certified officer does across a day of movements, and how quickly cover is arranged. Private cover is almost always unarmed, so hire pairs a certified officer with discreet secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## The CNAPS framework
 
@@ -46,3 +46,5 @@ CNAPS (Conseil National des Activites Privees de Securite) is the French state b
 The operational picture for CPO work in Paris combines terrorism awareness, HNWI protection in the luxury districts, social unrest contingency planning, and the discreet profile standard that Paris's high-end hotel and retail environments require. These elements are addressed as integrated planning components, not separate checklist items.
 
 For complementary services in Paris, see our [Paris city page](/cities/paris/) and [security drivers in Paris](/security-drivers/paris/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Paris](/executive-protection/paris/). To check the credentials and vetting behind the officers, see [close protection officers in Paris](/close-protection-officers/paris/).

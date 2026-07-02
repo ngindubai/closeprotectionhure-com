@@ -35,7 +35,7 @@ faqs:
     answer: "A PLRD-licensed close protection officer in Singapore ranges from approximately SGD 600 to SGD 1,300 per day per officer as at June 2026 (approximately GBP 350 to GBP 760). Singapore's professional CPO rates reflect the high cost of living, the rigorous licensing requirements, and the premium market the city serves. HNWI residential and family protection engagements are structured on a retainer basis."
 ---
 
-Singapore is simultaneously one of the world's safest cities and one of its most significant HNWI concentrations, with a wealth management and private banking sector that attracts ultra-high-net-worth clients from across Asia, the Middle East, and beyond. CPO demand in Singapore is defined by this combination: the ambient threat is low, but the principal profiles that come to Singapore for wealth management, private banking, and regional headquarters functions bring with them threat histories from other jurisdictions and specific intelligence-environment considerations that warrant professional close protection regardless of Singapore's own crime statistics.
+Hiring a bodyguard in Singapore is typically about legal compliance, corporate espionage exposure, and executive privacy rather than street crime, which is low. This page covers how close protection hire works under Singapore's Private Security Industry Act, what a PLRD-licensed officer does across a day of meetings and movements, and how quickly cover is arranged. Firearms are prohibited for private security, so hire is unarmed and built around discretion, scaled to the visit rather than a fixed contract.
 
 ## The PLRD framework
 
@@ -46,3 +46,5 @@ Singapore's Police Licensing and Regulatory Department (PLRD) administers the pr
 Singapore CPO work is characterised by: a discreet profile appropriate to the private banking and wealth management environment; legal compliance awareness given the strictness of Singapore's legal system; regional security intelligence awareness (Singapore's ISD actively monitors regional terrorism networks); and the ability to operate in a highly international environment where principals may arrive with security considerations from their home jurisdiction that are not reflected in Singapore's ambient risk.
 
 For complementary services in Singapore, see our [Singapore city page](/cities/singapore/) and [security drivers in Singapore](/security-drivers/singapore/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Singapore](/executive-protection/singapore/). To check the credentials and vetting behind the officers, see [close protection officers in Singapore](/close-protection-officers/singapore/).

@@ -35,7 +35,7 @@ faqs:
     answer: "A licensed close protection officer in New York typically ranges from USD 650 to USD 1,400 per day per officer as at June 2026, depending on qualifications, threat profile, and whether armed cover is required. Multi-officer residential or 24-hour protection engagements are structured on a team retainer basis. New York CPO rates are among the highest in North America, reflecting the cost of living, the licensing requirements, and the high professional standard of the market."
 ---
 
-New York is the most significant corporate, financial, and cultural centre in North America and home to the world's highest concentration of financial services executives, technology company leaders, entertainment figures, and HNWI and UHNWI individuals. It is also a city with a well-developed, professionally regulated close protection industry that operates almost entirely around specific identified threats rather than ambient crime risk. The security environment in Midtown Manhattan and the Upper East Side is genuinely low-crime; CPO demand here is driven by documented individual threats, stalking cases, public figure profiles, and the specific security standards that senior executives from higher-risk markets maintain when travelling.
+Hiring a bodyguard in New York is usually tied to a specific visit, where executive targeting and gun crime shape the plan more than routine street risk. This page covers how close protection hire works in New York State, what a state-licensed officer with a pistol permit does across a day of movements, and how quickly cover is arranged. Most engagements pair a licensed officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## New York State licensing
 
@@ -46,3 +46,5 @@ The NYS Division of Licensing Services regulates close protection work in New Yo
 The primary users of professional CPO services in New York are: HNWI and UHNWI principals who maintain a permanent security detail; financial sector executives who have received credible threats; entertainment and media figures with documented unwanted-attention cases; visiting dignitaries and heads of government for whom the US State Department's Diplomatic Security Service provides a perimeter but not close-in CPO cover; and international executives from high-risk markets who maintain their home-market security standard when travelling.
 
 For complementary services in New York, see our [New York city page](/cities/new-york/) and [security drivers in New York](/security-drivers/new-york/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in New York](/executive-protection/new-york/). To check the credentials and vetting behind the officers, see [close protection officers in New York](/close-protection-officers/new-york/).

@@ -37,7 +37,7 @@ faqs:
     answer: "Armed protection in Kabul requires Taliban authorisation. Operators with established Taliban liaison channels can navigate this process. Whether armed protection is appropriate depends on the principal's profile and the threat assessment: in some scenarios, a lower-profile unarmed arrangement is operationally preferable to an armed team that attracts more attention. This assessment is made before deployment, not on arrival."
 ---
 
-Kabul is, by most measures, the most operationally demanding environment for executive protection in the world. The combination of an active IS-KP insurgency, Taliban governing authority over all security operations, the absence of Western diplomatic presence, and a fundamental shift in the security landscape since August 2021 creates a set of conditions that require a protection programme designed from first principles rather than adapted from a standard high-risk city template.
+Executive protection in Kabul is not a deployable programme in the conventional sense; the FCDO and US State Department advise against all travel to Afghanistan. This page covers what a duty-of-care approach actually requires here: Taliban-approval pathways, IS-KP threat monitoring, and a documented decision framework for whether any Afghanistan-linked travel proceeds at all, given the absence of Western consular support. Planning is individual and pre-authorised, not templated.
 
 ## The Fundamental Shift Since 2021
 
@@ -54,3 +54,5 @@ For the full security environment context, see the [Kabul city security overview
 ## Self-Sufficient Planning as the Operating Principle
 
 The non-negotiable feature of any Kabul executive protection programme is complete self-sufficiency. Medical contingency, extraction planning, legal liaison, crisis communications, and the protection itself must all be organised before the principal arrives in country. The assumption that something can be sorted out on the ground if things go wrong is not an acceptable planning baseline in Kabul.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Kabul](/bodyguard-hire/kabul/). For the operators who staff the programme and how they are vetted, see [close protection officers in Kabul](/close-protection-officers/kabul/).

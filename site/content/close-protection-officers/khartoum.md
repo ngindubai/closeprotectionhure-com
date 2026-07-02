@@ -37,7 +37,7 @@ faqs:
     answer: "Organisations anticipating future Sudan re-engagement should undertake: a contingency CPO assessment covering Port Sudan staging, conflict damage mapping of Khartoum commercial and residential zones, pre-identification of local vetted contact networks for ground intelligence, and a trigger framework defining the security thresholds for re-entry. This planning work is undertaken from regional hubs and requires no in-country presence."
 ---
 
-Khartoum CPO operations are not viable under current conditions. Active SAF-RSF civil conflict since April 2023, FCDO against-all-travel designation, US State Department Level 4 advisory, and the closure of Khartoum International Airport (KRT) collectively mean no commercial close protection operations can be responsibly undertaken in the capital. This page serves organisations with Sudan interests requiring contingency CPO planning and future re-engagement assessment, staged from Nairobi or Addis Ababa.
+This page is about who can realistically support a Sudan-linked security requirement under current conditions: formal private security regulation is not functioning in Khartoum given the civil war between SAF and RSF forces. It covers what remote and Port Sudan-based support looks like, why conventional CPO deployment is not offered inside the active conflict zone, and the extreme due-diligence standard applied to any specialist conflict-environment partner we work with.
 
 ## The Sudan CPO environment in 2026
 
@@ -48,3 +48,5 @@ The conflict that began in April 2023 between the Sudanese Armed Forces and the 
 Organisations with Sudan re-engagement requirements work with our CPO contingency team from Nairobi or Addis Ababa. Planning covers Port Sudan current security conditions, conflict damage mapping of Khartoum commercial zones, vetted local contact identification for ground intelligence, and a trigger framework for re-entry readiness. This work prepares the operational framework in advance so that when conditions permit re-engagement, the planning cycle is already complete.
 
 For the full Sudan security context, see our [Khartoum city briefing](/cities/khartoum/). For organisations managing any Port Sudan-based operations or events during the interim period, [event security in Khartoum](/event-security/khartoum/) covers the contingency planning framework.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Khartoum](/bodyguard-hire/khartoum/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Khartoum](/executive-protection/khartoum/).

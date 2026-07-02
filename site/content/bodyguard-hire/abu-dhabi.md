@@ -35,7 +35,7 @@ faqs:
     answer: "On 17 January 2022, Houthi-attributed drone and missile attacks struck Abu Dhabi, killing three people and damaging infrastructure near Musaffah and at Abu Dhabi International Airport. The UAE MoI and Armed Forces implemented a significant uplift in the city's air defence and security posture in response. For corporate principals in the energy, infrastructure, or defence sectors, the January 2022 incidents shifted Abu Dhabi from a city where CPO cover was largely a discretionary quality measure to one where sector-specific threat awareness is now a professional standard. Threat levels and the specific Houthi-UAE dynamic should be confirmed with an up-to-date assessment at the time of travel."
 ---
 
-Abu Dhabi is the UAE's capital, the seat of its sovereign wealth apparatus, and the centre of the Gulf's energy sector deal-making. While it maintains one of the lowest crime rates of any major global city, the January 2022 Houthi drone attacks, the concentration of strategic energy assets, and the corporate intelligence environment create a specific demand for close protection services among senior executives and visiting delegations. Private security in the UAE is regulated under Federal Law No. 37 of 2006, with Ministry of Interior licensing required for both companies and individual personnel.
+Hiring a bodyguard in Abu Dhabi is typically about discretion and legal-environment navigation, with an added regional dimension from documented Houthi missile and drone activity. This page covers how close protection hire works in the emirate, what a locally licensed operator does across a day of movements, and how quickly cover is arranged. Private armed cover is not available without specific government authorisation, so hire is unarmed and built around planning, scaled to the visit rather than a fixed contract.
 
 ## The UAE Federal Law No. 37 of 2006 licensing framework
 
@@ -46,3 +46,5 @@ All private security companies operating in the UAE must hold a Ministry of Inte
 The FCDO rates the UAE as low risk for general business travel, but the January 2022 Houthi attacks demonstrated that Abu Dhabi is not insulated from the regional security environment. Senior executives in the energy sector, those involved in sovereign wealth fund negotiations, or principals conducting high-profile public engagements in Abu Dhabi operate in an environment where sector-specific threat awareness and a vetted CPO presence represents appropriate professional risk management.
 
 For complementary services in Abu Dhabi, see our [Abu Dhabi city page](/cities/abu-dhabi/) and [security drivers in Abu Dhabi](/security-drivers/abu-dhabi/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Abu Dhabi](/executive-protection/abu-dhabi/). To check the credentials and vetting behind the officers, see [close protection officers in Abu Dhabi](/close-protection-officers/abu-dhabi/).

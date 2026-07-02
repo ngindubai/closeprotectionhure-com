@@ -37,7 +37,7 @@ faqs:
     answer: "Private CPO operators in Israel work within the civilian regulatory framework governed by the Ministry of Public Security and do not have a formal coordination role with the IDF or Shin Bet during standard commercial assignments. However, CPO operators are expected to be familiar with Home Front Command protocols and to follow any instructions issued by Israeli security forces or emergency services during an incident. For principals with diplomatic status or government-adjacent roles, specific coordination protocols may be agreed in advance through the relevant embassy security officer."
 ---
 
-Tel Aviv close protection operates in one of the world's most security-aware civilian environments, against a threat backdrop that the FCDO (2024) characterises as high for terrorism, and within a licensing framework administered by the Ministry of Public Security under the Private Security Services Law 5765-2005. The post-October 2023 environment has materially raised the pre-engagement planning requirement for all corporate visits: every Tel Aviv CPO brief now includes an updated conflict-status assessment, rocket shelter pre-advance at each venue, and Home Front Command alert protocol familiarisation for the principal.
+This page is about the people who provide close protection in Tel Aviv: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Tel Aviv network holds a current licence from the Israel Police Firearms Licensing Bureau where armed, passes documented background checks, and is assessed for conflict-zone-specific competence. It covers standard team configuration, current threat-monitoring practice, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Israeli regulatory and talent pool
 
@@ -46,3 +46,5 @@ Israel's deep integration of former IDF, Shin Bet, and specialist military alumn
 ## Planning a Tel Aviv CPO engagement
 
 A Tel Aviv engagement requires more advance planning than most European or North American cities. The pre-advance must confirm shelter locations at every venue, review current alert levels, and establish communication protocols for the principal in the event of an alert during transit or at a meeting venue. For the threat overview and operational context, see our [Tel Aviv city security page](/cities/tel-aviv/) and the [bodyguard hire in Tel Aviv](/bodyguard-hire/tel-aviv/) page for service and engagement structure.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Tel Aviv](/bodyguard-hire/tel-aviv/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Tel Aviv](/executive-protection/tel-aviv/).

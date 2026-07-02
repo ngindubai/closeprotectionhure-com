@@ -35,7 +35,7 @@ faqs:
     answer: "A licensed CPO in Doha typically ranges from QAR 2,800 to QAR 5,500 per day (approximately USD 770 to USD 1,510) for a single officer, depending on qualifications, experience, operational requirements, and whether advance work and operations controller support are included. Multi-day engagements and team deployments are structured on a retainer basis. Rates as at June 2026 reflect the Qatar market for licensed close protection professionals with Gulf cultural competence and the relevant regulatory compliance framework."
 ---
 
-Doha close protection is characterised by the same paradox as other Gulf premium cities: among the world's lowest ambient crime rates, yet a well-developed CPO market driven by governmental, diplomatic, and UHNWI principal profiles, and a regional threat context that adds a planning layer beyond the conventional crime risk assessment. Qatar's unique geopolitical position as a diplomatic intermediary and military host nation creates a specific regional risk dimension that is addressed in every senior-principal Doha CPO brief.
+This page is about the people who provide close protection in Doha: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Doha network is approved by Qatar's Ministry of Interior, passes documented background checks, and is assessed for local competence. It covers standard team configuration, the unarmed-without-exception model, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Qatar regulatory framework for CPOs
 
@@ -46,3 +46,5 @@ Law No. 3 of 2009 and Ministry of Interior oversight provide the regulatory base
 Doha CPO engagements focus on West Bay and the diplomatic district for corporate and governmental assignments, Pearl-Qatar and the Corniche for HNWI residency coverage, and Hamad International Airport for arrival and departure transfer operations. Gulf cultural protocol awareness and Arabic language capability are operational differentiators in this market.
 
 For related services in Doha, see our [Doha city page](/cities/doha/) and [security drivers in Doha](/security-drivers/doha/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Doha](/bodyguard-hire/doha/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Doha](/executive-protection/doha/).

@@ -35,7 +35,7 @@ faqs:
     answer: "A Ministry of Public Security-licensed close protection officer in Tel Aviv for a corporate engagement typically ranges from USD 400 to USD 800 per day, depending on qualifications, former IDF or Shin Bet background, and the specific operational requirements. Post-October 2023, demand for experienced Tel Aviv CPOs has increased and pricing at the higher end of this range is more common for senior principal assignments. Multi-day engagements are structured on a retainer basis."
 ---
 
-Tel Aviv close protection operates in one of the world's most security-aware civilian environments, under a highly professionalised licensing framework and against a threat backdrop that the FCDO characterises as high for terrorism. Israel's integration of former IDF and Shin Bet personnel into the private security market creates a deep, experienced CPO talent pool. Post-October 2023, the pre-engagement threat assessment for any Tel Aviv visit requires a specific update to reflect the current conflict status and any relevant alert level changes.
+Hiring a bodyguard in Tel Aviv is shaped by conflict-zone conditions, including rocket and missile attack risk and the potential for regional escalation, rather than routine street crime. This page covers how close protection hire works in Israel, what an Israel Police licensed officer does across a day of movements, and how quickly cover is arranged. Armed protection is standard practice and accessible relative to most jurisdictions, so hire pairs a licensed officer with secure transport and current threat monitoring, scaled to the visit.
 
 ## The Israeli regulatory framework
 
@@ -46,3 +46,5 @@ The Private Security Services Law 5765-2005 and Ministry of Public Security lice
 Tel Aviv CPO engagements combine conventional close protection with Israel-specific emergency protocols: rocket shelter awareness and alert system knowledge integrated into pre-advance work at every venue, Ben Gurion airport transfer operations under IAA/Shin Bet security protocols, and the Herzliya Pituah and Sarona Tech business district coverage for technology and financial sector principals.
 
 For the Tel Aviv city security overview, see our [Tel Aviv city page](/cities/tel-aviv/) and [Israel country security page](/countries/israel/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Tel Aviv](/executive-protection/tel-aviv/). To check the credentials and vetting behind the officers, see [close protection officers in Tel Aviv](/close-protection-officers/tel-aviv/).

@@ -37,7 +37,7 @@ faqs:
     answer: "IS-KP attack intelligence is incorporated into every movement plan for Kabul assignments. This covers: documented IS-KP target patterns (crowded public spaces, checkpoints, Western-associated locations); recent attack locations and methods; timing patterns where identifiable; and crowd-size thresholds that trigger movement avoidance. Routes that pass near identified IS-KP target categories are avoided or, where unavoidable, traversed during periods of lowest dwell time. Congregation points, including those at Taliban checkpoints where vehicles queue, are treated as elevated IS-KP risk locations."
 ---
 
-Kabul is the most challenging CPO environment in this service portfolio. FCDO advises against all travel to Afghanistan, and the IS-KP mass-casualty attack threat, the absence of Western consular cover, and the Taliban-controlled security environment make this a fundamentally different operating context from even other critical-risk cities. CPO services in Kabul are available exclusively to organisations whose mandate requires essential presence and which have completed a comprehensive duty-of-care assessment: humanitarian agencies, UN-affiliated organisations, development sector bodies, and formally authorised diplomatic personnel.
+This page is about who can realistically support an Afghanistan-linked security requirement under current conditions: there is no functioning civil private security licensing framework, and any Afghan security company still operating does so under Taliban arrangements. It covers how those relationships are vetted, why conventional CPO deployment is not offered without rebuilt post-2021 authorisation, and the extreme due-diligence standard applied to any specialist partner we work with.
 
 ## The operating model: compound-based, Afghan-led
 
@@ -48,3 +48,5 @@ Western CPO firms largely withdrew from Afghanistan after the 2021 evacuation. E
 Taliban coordination through the local operator, compound-based accommodation and meeting facilities, IS-KP-aware movement planning, operations controller coverage throughout, a dedicated medic with trauma management capability, and a pre-planned emergency exfiltration route confirmed before the assignment begins. None of these elements is optional.
 
 For the broader Kabul security picture see our [Kabul city page](/cities/kabul/) and [security drivers in Kabul](/security-drivers/kabul/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Kabul](/bodyguard-hire/kabul/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Kabul](/executive-protection/kabul/).

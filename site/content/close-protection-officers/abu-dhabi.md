@@ -35,7 +35,7 @@ faqs:
     answer: "A licensed CPO in Abu Dhabi typically ranges from AED 3,000 to AED 6,000 per day for a single officer, depending on qualification level, operational requirements, and whether advance work and operations controller support are included. Multi-day residential or corporate team deployments are structured on a retainer basis. Rates as at June 2026 reflect the UAE market rates for licensed, experienced close protection professionals with the appropriate cultural and governmental familiarity for Abu Dhabi engagements."
 ---
 
-Abu Dhabi close protection officer deployment operates within a paradox characteristic of the Gulf's premium cities: among the world's lowest violent crime rates, combined with a well-developed and professionally managed CPO market driven by principal profile rather than ambient risk. The concentration of governmental activity, diplomatic representation, UHNWI residency, and regional threat context creates consistent CPO demand in a city where the protection requirement is specific and profile-driven rather than a general response to crime.
+This page is about the people who provide close protection in Abu Dhabi: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Abu Dhabi network is licensed under the emirate's own security authority, distinct from Dubai's SIRA, and is assessed for local competence. It covers standard team configuration, the unarmed-without-authorisation model, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Licensing, verification, and the Abu Dhabi CPO market
 
@@ -46,3 +46,5 @@ Abu Dhabi CPO operations require Abu Dhabi Police General Headquarters approval 
 CPO engagements in Abu Dhabi operate at minimum visible profile in all settings. Pre-engagement briefing includes regional threat status, venue pre-advance at the principal's primary locations, and coordination with Al Bateen Executive Airport for private aviation arrivals. Operations controller oversight is maintained throughout the engagement.
 
 For related services in Abu Dhabi, see our [Abu Dhabi city page](/cities/abu-dhabi/) and [security drivers in Abu Dhabi](/security-drivers/abu-dhabi/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Abu Dhabi](/bodyguard-hire/abu-dhabi/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Abu Dhabi](/executive-protection/abu-dhabi/).
