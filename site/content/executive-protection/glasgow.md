@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Glasgow for a CPO with vehicle and operations controller support range from approximately GBP 550-1,000 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Glasgow presents an executive protection environment defined by a low risk profile and a regulatory framework under Private Security Industry Act 2001 (Security Industry Authority, SIA). For senior executives and HNWI principals operating across the City Centre, Merchant City, and the Scottish Event Campus precinct, a structured EP programme reduces the exposure that uncoordinated travel creates. Current advisory status and local police crime data are the evidential baseline for every pre-travel assessment.
+Executive protection in Glasgow is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against alcohol-related violent crime and organised-crime exposure: advance work on venues and routes, a written risk assessment, an operations controller, and SIA-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Glasgow
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Glasgow must be licensed under Private
 Glasgow's position in finance, technology, life sciences, and major conference and events venues creates a specific EP operating context: principals in these sectors face both the ambient threat picture and sector-specific risks identified in the pre-travel assessment. The threat picture (low. Police Scotland Crime Statistics 2024 records elevated alcohol-related violent crime in the East End; City Centre and West End carry lower rates. UK terrorism threat level Substantial (2026).) informs route planning, advance work, and situational-awareness protocols for every engagement.
 
 For related security services in Glasgow, see our [Glasgow city page](/cities/glasgow/), [security drivers in Glasgow](/security-drivers/glasgow/), and [bodyguard hire in Glasgow](/bodyguard-hire/glasgow/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Glasgow](/bodyguard-hire/glasgow/). For the operators who staff the programme and how they are vetted, see [close protection officers in Glasgow](/close-protection-officers/glasgow/).

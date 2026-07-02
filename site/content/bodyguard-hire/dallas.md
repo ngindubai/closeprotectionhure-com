@@ -35,6 +35,8 @@ faqs:
     answer: "Emergency number: 911. Primary facility: Baylor University Medical Center (214-820-0111). Medical routing to the nearest appropriate hospital is pre-planned, CPOs hold current first-aid certification, and medical evacuation routing is built into the operation order before deployment."
 ---
 
-Dallas is a moderate-risk environment for close protection deployments. For HNWI principals and corporate executives visiting Downtown, Uptown, and the Arts District, vetted bodyguards licensed under Texas Occupations Code, Chapter 1702 (Texas DPS Private Security Bureau) provide a materially different standard of personal protection from unvetted alternatives. The local police crime data informs route planning and counter-surveillance protocols applied on Dallas's principal movement corridors.
+Hiring a bodyguard in Dallas is usually tied to a specific visit, where property and vehicle crime and carjacking shape the plan. This page covers how close protection hire works in Texas, what a DPS Private Security Bureau licensed officer holding a Level III or IV licence does across a day of movements, and how quickly cover is arranged. Texas permits open and concealed carry, so armed hire is readily available, pairing a licensed officer with secure transport, scaled to the itinerary.
 
 Detailed city context, including threat analysis and zone-by-zone risk notes, is available on the [Dallas city page](/cities/dallas/). For transport security, see our [vetted security drivers in Dallas](/security-drivers/dallas/). For regional coverage, see our [bodyguard hire in Houston](/bodyguard-hire/houston/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Dallas](/executive-protection/dallas/). To check the credentials and vetting behind the officers, see [close protection officers in Dallas](/close-protection-officers/dallas/).

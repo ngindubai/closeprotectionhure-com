@@ -33,7 +33,7 @@ faqs:
     answer: "The medical plan for every Lahore assignment includes the best available local medical facility for initial stabilisation and, where local capability is limited, evacuation routing to the nearest internationally accredited hospital. Medevac provider contacts are confirmed active before the principal's arrival. Medical evacuation insurance is the baseline requirement."
 ---
 
-Bodyguard hire in Lahore operates within Pakistan's licensing framework, with close protection officers drawn from a vetted partner network holding valid national security authorisation.
+Hiring a bodyguard in Lahore is usually tied to a specific visit, where terrorism and kidnapping risk shape the plan alongside political instability. This page covers how close protection hire works in Punjab, what a Home Department licensed officer does across a day of movements, and how quickly cover is arranged. Armed security is widely used here, so hire pairs a licensed officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## The Lahore security environment
 
@@ -44,3 +44,5 @@ The current security environment in Lahore requires a bodyguard programme calibr
 A Lahore bodyguard programme covers airport transfers with inside-terminal collection, accommodation in vetted properties in the primary security zone, in-city movement with pre-planned routes and operations controller tracking, and a documented emergency action plan with medevac provisions.
 
 For the full Lahore security picture, see our [Lahore city briefing](/cities/lahore/). For principals requiring security drivers, [security drivers in Lahore](/security-drivers/lahore/) covers the Pakistan programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Lahore](/executive-protection/lahore/). To check the credentials and vetting behind the officers, see [close protection officers in Lahore](/close-protection-officers/lahore/).

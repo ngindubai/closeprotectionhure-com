@@ -35,7 +35,7 @@ faqs:
     answer: "A foreign close protection officer may accompany a principal into Dallas as part of an international protective detail, but cannot engage in commercial close protection for hire in Texas without a current DPS licence under Occupations Code Chapter 1702. For any detail where services are being provided commercially in Texas, the operating company and its CPOs must hold appropriate Texas DPS licensing."
 ---
 
-Dallas is a major corporate hub in the South-Central United States, hosting significant concentrations of financial services, energy, technology, and professional services firms across Downtown, Uptown, and the broader Dallas-Fort Worth metroplex. The combination of a high-profile business community, active vehicle theft and carjacking activity along DFW transport corridors, and a well-developed commercial security industry makes close protection a routine operational requirement for senior executives and visiting dignitaries to the region.
+This page is about the people who provide close protection in Dallas: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Dallas network holds a current Texas DPS Private Security Bureau licence (Level III or IV), and is assessed for local competence. It covers standard team configuration, Texas's licence to carry provisions for armed roles, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Texas DPS licensing framework
 
@@ -54,3 +54,5 @@ Operations across the wider metroplex, including DFW Airport, Plano, Irving, and
 The operational threat picture for Dallas CPO work draws on the Dallas Police Department Annual Crime Report 2024, which documents property crime and vehicle theft patterns across city districts. Licensing requirements are current under Texas Occupations Code Chapter 1702 as at June 2026. Armed carry provisions follow Texas Penal Code Chapter 46 and Occupations Code Chapter 1702 Level IV conditions. Rates cited are indicative for the Dallas market as at June 2026 and should be confirmed at time of enquiry.
 
 For complementary services, see our [Dallas city page](/cities/dallas/) and [bodyguard hire in Dallas](/bodyguard-hire/dallas/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Dallas](/bodyguard-hire/dallas/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Dallas](/executive-protection/dallas/).

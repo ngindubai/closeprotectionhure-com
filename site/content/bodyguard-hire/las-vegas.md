@@ -37,7 +37,7 @@ faqs:
     answer: "We provide meet-and-greet, baggage handling, and secure vehicle transfer from Harry Reid International Airport (LAS). Private aviation arrivals at the Henderson Executive Airport are also covered. All transfers include route pre-assessment and contingency planning."
 ---
 
-Las Vegas is one of the world's most heavily visited entertainment and convention destinations, drawing over 40 million visitors annually to its resort corridor and hosting major industry events across technology, automotive, media, and finance. For executives and high-net-worth individuals, the city's combination of large crowds, high-value transactions, and internationally recognised venues creates a specific protection requirement.
+Hiring a bodyguard in Las Vegas is usually tied to a specific visit, where large-venue and mass-gathering risk and street crime around the Strip shape the plan. This page covers how close protection hire works in Nevada, what a Pilb-licensed officer with a firearms permit does across a day of movements, and how quickly cover is arranged. Armed executive protection is available under Nevada's licensing regime, so hire pairs a licensed officer with secure transport, scaled to the itinerary.
 
 The risk environment is moderate. The Strip and convention zone carry elevated petty crime rates, and the 2017 Route 91 Harvest shooting demonstrated the mass-casualty potential of large outdoor events in this market. Our Las Vegas protection details include mandatory large-venue risk assessment and extraction planning for any principal attending a concert, sporting event, or outdoor gathering.
 
@@ -46,3 +46,5 @@ For HNWI visitors attending private gaming events, property negotiations, or soc
 Nevada PILB licensing requirements are strict, and we work exclusively with properly licensed operators. Armed escort is available where threat assessment supports it.
 
 See the full Las Vegas city profile at [/cities/las-vegas/](/cities/las-vegas/) and review [security driver services in Las Vegas](/security-drivers/las-vegas/) for dedicated secure transport.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Las Vegas](/executive-protection/las-vegas/). To check the credentials and vetting behind the officers, see [close protection officers in Las Vegas](/close-protection-officers/las-vegas/).

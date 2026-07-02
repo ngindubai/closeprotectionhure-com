@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Dallas for a CPO with vehicle and operations controller support range from approximately USD 650-1,150 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Dallas presents an executive protection environment defined by a moderate risk profile and a regulatory framework under Texas Occupations Code, Chapter 1702 (Texas DPS Private Security Bureau). For senior executives and HNWI principals operating across Downtown, Uptown, and the Arts District, a structured EP programme reduces the exposure that uncoordinated travel creates. Current advisory status and local police crime data are the evidential baseline for every pre-travel assessment.
+Executive protection in Dallas is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against property, vehicle, and carjacking risk: advance work on venues and routes, a written threat assessment, an operations controller, and Texas DPS licensed armed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Dallas
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Dallas must be licensed under Texas Oc
 Dallas's position in energy, finance, technology, and major convention events creates a specific EP operating context: principals in these sectors face both the ambient threat picture and sector-specific risks identified in the pre-travel assessment. The threat picture (moderate. DPD Crime Report 2024 records elevated property crime and carjacking across the wider metroplex, concentrated away from the Downtown core and Uptown.) informs route planning, advance work, and situational-awareness protocols for every engagement.
 
 For related security services in Dallas, see our [Dallas city page](/cities/dallas/), [security drivers in Dallas](/security-drivers/dallas/), and [bodyguard hire in Dallas](/bodyguard-hire/dallas/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Dallas](/bodyguard-hire/dallas/). For the operators who staff the programme and how they are vetted, see [close protection officers in Dallas](/close-protection-officers/dallas/).

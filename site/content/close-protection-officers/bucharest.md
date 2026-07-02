@@ -35,7 +35,7 @@ faqs:
     answer: "The CPO positions inside Henri Coanda International Airport (OTP) arrivals before the principal clears baggage claim. A pre-departure vehicle check is conducted. The OTP-to-city transfer takes 25 to 40 minutes. For principals with elevated threat profiles, counter-surveillance protocol is applied from the arrivals hall through the transfer to the principal's hotel."
 ---
 
-Close protection officer deployment in Bucharest is governed by Romania's Law 333/2003 on the Guard of Objectives, Goods, Values and Personal Protection framework. Our Bucharest CPO teams cover Henri Coanda International Airport (OTP) arrivals and departures, Floreasca and Pipera corporate park (north) corporate meetings, and Dorobanti and Nordului corridor government and diplomatic engagements. Low-visibility operational profile is the standard for corporate assignments.
+This page is about the people who provide close protection in Bucharest: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Bucharest network is licensed under Law 333/2003 and overseen by the Gendarmerie and Ministry of Interior, and is assessed for local competence. It covers standard team configuration, the specific authorisation required for the non-standard armed option, and the credential checks a buyer should insist on.
 
 ## Romania regulatory context
 
@@ -44,3 +44,5 @@ All Bucharest CPO operators hold current Romania credentials under Law 333/2003 
 ## Complementary Bucharest services
 
 For the full Bucharest security picture, see the [Bucharest city briefing](/cities/bucharest/) and [secure airport transfers in Bucharest](/secure-airport-transfers/bucharest/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Bucharest](/bodyguard-hire/bucharest/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Bucharest](/executive-protection/bucharest/).

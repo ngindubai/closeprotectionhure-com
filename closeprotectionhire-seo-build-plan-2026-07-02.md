@@ -487,6 +487,13 @@ Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** wi
 - Standard treatment throughout (intent lede 70–82 words citing each city's own regulator/threat: Telangana PSARA, Saudi GASC, Uganda UPF/Private Security Organisations Act, Rwanda National Police, South Africa PSIRA/Firearms Control Act, UK SIA, Massachusetts MGL c.147, Georgia OCGA Title 43, New Zealand Ministry of Justice CoA, Guatemala DIGESSP) + sibling cross-links.
 - **Verification:** build clean (0 errors); all 10 cities' three siblings confirmed distinct; QA gate clean.
 - **Status:** committed + pushed to `master` (deploys). **95 of 278 bodyguard-hire cities now differentiated (285 pages, ~34% of the network). 10 consecutive sub-batches, 10 consecutive green production deploys this session.**
+- **Checkpoint:** user confirmed continuing after this sub-batch.
+
+### 2026-07-02 — Batch 5 (sub-batch 11 of N): Differentiation rollout, 10 more cities [SONNET, model already locked]
+- **Cities (10):** kinshasa, lahore, kolkata, bucharest, budapest, glasgow, dallas, las-vegas, izmir, hanoi. **Files: 30.**
+- Standard treatment throughout (intent lede 68–82 words citing each city's own regulator/threat: DRC MoI, Punjab Security Companies Regulation Act, West Bengal PSARA, Romania Law 333/2003/Gendarmerie, Hungary Act CXXXIII/ORFK, UK SIA, Texas DPS Chapter 1702, Nevada Pilb/NRS 648, Turkey Law 5188, Vietnam Decree 96/2016) + sibling cross-links.
+- **Verification:** build clean (0 errors); all 10 cities' three siblings confirmed distinct; QA gate clean.
+- **Status:** committed + pushed to `master` (deploys). **105 of 278 bodyguard-hire cities now differentiated (315 pages, ~38% of the network).**
 
 ### 2026-07-02 — Deploy + branch-rule change (owner instruction)
 - Owner directed all work to go live and to build on the deploy branch. Corrected a misdirection first: the owner said "build on the live branch," but `live` is the auto-generated compiled-output branch (force-pushed by CI, never hand-edited). The real deploy branch is `master`.

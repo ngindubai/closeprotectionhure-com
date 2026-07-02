@@ -35,6 +35,8 @@ faqs:
     answer: "Emergency number: 999. Primary facility: Queen Elizabeth University Hospital (0141-201-1100). Medical routing to the nearest appropriate hospital is pre-planned, CPOs hold current first-aid certification, and medical evacuation routing is built into the operation order before deployment."
 ---
 
-Glasgow is a low-risk environment for close protection deployments. For HNWI principals and corporate executives visiting the City Centre, Merchant City, and the Scottish Event Campus precinct, vetted bodyguards licensed under Private Security Industry Act 2001 (Security Industry Authority, SIA) provide a materially different standard of personal protection from unvetted alternatives. The local police crime data informs route planning and counter-surveillance protocols applied on Glasgow's principal movement corridors.
+Hiring a bodyguard in Glasgow is typically about alcohol-related violent crime and organised-crime awareness rather than terrorism, which sits at UK background level. This page covers how close protection hire works in Scotland, what an SIA-licensed officer does across a day of movements, and how quickly cover is arranged. All close protection here is unarmed by law, so hire pairs a licensed officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 Detailed city context, including threat analysis and zone-by-zone risk notes, is available on the [Glasgow city page](/cities/glasgow/). For transport security, see our [vetted security drivers in Glasgow](/security-drivers/glasgow/). For regional coverage, see our [bodyguard hire in Edinburgh](/bodyguard-hire/edinburgh/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Glasgow](/executive-protection/glasgow/). To check the credentials and vetting behind the officers, see [close protection officers in Glasgow](/close-protection-officers/glasgow/).

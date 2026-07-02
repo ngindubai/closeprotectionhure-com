@@ -37,7 +37,7 @@ faqs:
     answer: "PTI-linked protests and military-civilian confrontations have produced mass demonstrations in Lahore that have turned violent and resulted in deaths. Movement restrictions across major arteries have followed these events. CPO operational planning in Lahore includes the political and protest calendar as an active risk factor, with contingency routing and emergency shelter procedures confirmed before any deployment begins."
 ---
 
-Lahore is Pakistan's cultural capital, the largest city in Punjab, and a major commercial, textile, and banking hub. It attracts corporate visitors, diplomatic missions, and NGO operational teams. Close protection officer demand in Lahore reflects one of South Asia's most demanding security environments: a formally very-high terrorism threat from TTP and sectarian armed groups, a documented kidnapping risk to foreign nationals, periodic mass protests that turn violent, and a political environment characterised by rapid and unpredictable escalation.
+This page is about the people who provide close protection in Lahore: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Lahore network holds a licence from Punjab's Home Department under the Security Companies (Regulation) Act, and is assessed for local competence. It covers standard team configuration, the widely available armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Punjab security licensing framework
 
@@ -46,3 +46,5 @@ Punjab's Home Department administers security company licensing under the Securi
 ## CPO operations in Lahore
 
 Armed CPO cover in Lahore is not an elevated option for high-risk clients: it is the appropriate baseline for any foreign national operating in a principal-protection context in the city. Movement in Gulberg and DHA, pre-advance at accommodation and meeting venues, operations controller support, and a written emergency action plan with contacts at Shaukat Khanum Hospital and Doctors Hospital are the standard deliverables. For the full Lahore risk picture, see our [Lahore city page](/cities/lahore/) and [bodyguard hire in Lahore](/bodyguard-hire/lahore/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Lahore](/bodyguard-hire/lahore/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Lahore](/executive-protection/lahore/).

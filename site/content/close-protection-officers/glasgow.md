@@ -35,7 +35,7 @@ faqs:
     answer: "A foreign close protection officer may accompany a principal into Glasgow as part of an international protective detail, but cannot engage in commercial close protection for hire anywhere in the United Kingdom, including Scotland, without a valid SIA Close Protection licence under PSIA 2001. This requirement applies regardless of where the operating company is based. The SIA licence must be current at the time of any commercial close protection work in the UK."
 ---
 
-Glasgow is Scotland's largest city and its commercial capital, hosting significant concentrations of financial services, professional services, and events industry at the Scottish Event Campus (SEC) and the wider Clyde waterfront. The city's well-established corporate hospitality infrastructure, combined with a documented weekend violent crime profile in specific areas and the UK's Substantial terrorism threat level, makes qualified close protection a considered operational requirement for high-profile principals visiting Scotland.
+This page is about the people who provide close protection in Glasgow: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Glasgow network holds a current SIA licence under the Private Security Industry Act 2001, and is assessed for local competence. It covers standard team configuration, the fully unarmed model UK law requires, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The SIA licensing framework
 
@@ -54,3 +54,5 @@ For principals attending events at the Scottish Event Campus (SEC), pre-advance 
 The operational threat picture for Glasgow CPO work draws on the Police Scotland Strategic Assessment 2024, the UK Home Office national terrorism threat level (Substantial, 2026), and the SIA licensing framework under PSIA 2001. Firearms provisions are current under the Firearms Act 1968 and Firearms (Amendment) Act 1997. Rates cited are indicative for the Glasgow market as at June 2026 and should be confirmed at time of enquiry.
 
 For complementary services, see our [Glasgow city page](/cities/glasgow/) and [bodyguard hire in Glasgow](/bodyguard-hire/glasgow/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Glasgow](/bodyguard-hire/glasgow/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Glasgow](/executive-protection/glasgow/).

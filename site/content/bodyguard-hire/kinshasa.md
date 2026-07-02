@@ -33,8 +33,10 @@ faqs:
     answer: "Eastern DRC is an active conflict environment that is categorically different from Kinshasa. It requires conflict-zone security protocols, not the Kinshasa corporate baseline. Events in eastern DRC can trigger political unrest in Kinshasa, which is monitored as part of the assignment. Any travel to eastern DRC requires a dedicated conflict-zone security assessment entirely separate from the Kinshasa CPO programme."
 ---
 
-Kinshasa bodyguard hire is calibrated to DRC's most demanding corporate security environment: armed escort as the standard baseline, a hard night movement rule, and operations structured around the Gombe-Ngaliema corridor that represents the practical limit of managed security for corporate visits.
+Hiring a bodyguard in Kinshasa is usually tied to a specific visit, where armed robbery, civil unrest, and kidnapping shape the plan for corporate visitors. This page covers how close protection hire works in DRC, what a government-licensed operator does across a day of movements, and how quickly cover is arranged. Armed cover is standard practice for higher-risk principals, so hire pairs a licensed local operator with secure transport, scaled to the itinerary rather than a fixed contract.
 
 DRC-licensed Angolan and Congolese partner operators with documented Kinshasa experience deliver the CPO programme with the current operational knowledge that this environment requires.
 
 For the full Kinshasa security picture, see our [Kinshasa city briefing](/cities/kinshasa/). For the broader Central and West Africa network, [bodyguard hire in Lagos](/bodyguard-hire/lagos/) covers the Nigeria CPO programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Kinshasa](/executive-protection/kinshasa/). To check the credentials and vetting behind the officers, see [close protection officers in Kinshasa](/close-protection-officers/kinshasa/).

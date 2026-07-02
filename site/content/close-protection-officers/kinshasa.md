@@ -33,7 +33,7 @@ faqs:
     answer: "Clinique Ngaliema and Polyclinique Lisungi are the primary private medical resources in Kinshasa. For serious trauma or complex medical conditions, the standard response is medevac to Nairobi (approximately 2 hours by air). The operations controller for all Kinshasa CPO details holds current medevac operator contacts and the Nairobi hospital reception protocol as a standing brief component."
 ---
 
-Kinshasa close protection is calibrated to the DRC's operating environment: Ministry of Interior-licensed operators managing the N'djili Airport corridor, armed robbery counter-protocols for all Kinshasa movements, and medevac-ready emergency planning for a city where international-standard medical care requires evacuation to Nairobi.
+This page is about the people who provide close protection in Kinshasa: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Kinshasa network holds DRC government registration and licensing, and is assessed for local competence given a less consistently enforced regulatory framework. It covers standard team configuration, extra credential-verification steps, and the checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Kinshasa
 
@@ -42,3 +42,5 @@ Kinshasa is sub-Saharan Africa's second-largest city and the entry point for the
 Ministry of Interior-licensed operators from our DRC partner network deliver Kinshasa CPO operations with current ground knowledge and French and Lingala-language capability.
 
 For the full Kinshasa security picture, see our [Kinshasa city briefing](/cities/kinshasa/). For principals requiring residential security alongside CPO cover, [residential security in Kinshasa](/residential-security/kinshasa/) covers the compound security programme.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Kinshasa](/bodyguard-hire/kinshasa/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Kinshasa](/executive-protection/kinshasa/).

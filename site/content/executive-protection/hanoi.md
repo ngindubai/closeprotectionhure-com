@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Hanoi for a CPO with vehicle and operations controller support range from approximately USD 380-720 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Hanoi presents an executive protection environment defined by a moderate risk profile and a regulatory framework under Private Security Decree 96/2016/ND-CP, Ministry of Public Security. For senior executives and HNWI principals operating across Ba Dinh district, Tay Ho (West Lake), and Hoan Kiem daytime, a structured EP programme reduces the exposure that uncoordinated travel creates. FCDO advises normal precautions for Vietnam (2026); FCDO notes road traffic conditions as a specific risk, particularly motorbike density. US State Department Level 1 (Exercise Normal Precautions) for Vietnam as of 2026.
+Executive protection in Hanoi is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against petty theft and dense motorbike-traffic risk: advance work on venues and routes, a written risk assessment, an operations controller, and Ministry of Public Security licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Hanoi
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Hanoi must be licensed under Private S
 Hanoi's position in manufacturing, technology, and diplomatic or government-adjacent corporate operations creates a specific EP operating context: principals in these sectors face both the ambient threat picture and sector-specific risks identified in the pre-travel assessment. The threat picture (moderate. Ministry of Public Security Vietnam 2024 records elevated motorbike bag-snatching in the Old Quarter and tourist-dense areas; road traffic incidents involving foreigners are a consistent risk.) informs route planning, advance work, and situational-awareness protocols for every engagement.
 
 For related security services in Hanoi, see our [Hanoi city page](/cities/hanoi/), [security drivers in Hanoi](/security-drivers/hanoi/), and [bodyguard hire in Hanoi](/bodyguard-hire/hanoi/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Hanoi](/bodyguard-hire/hanoi/). For the operators who staff the programme and how they are vetted, see [close protection officers in Hanoi](/close-protection-officers/hanoi/).

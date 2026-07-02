@@ -33,6 +33,8 @@ faqs:
     answer: "Eastern DRC is a conflict environment that is categorically different from Kinshasa and requires conflict-zone security protocols. Events in eastern DRC -- M23 and FARDC operations, border tensions -- are monitored as a Kinshasa civil unrest risk indicator. Any assignment element involving eastern DRC requires a dedicated conflict-zone security assessment entirely separate from the Kinshasa EP programme. Source: FCDO DRC travel advisory, 2026."
 ---
 
-Kinshasa executive protection operates under the most demanding standard in this network: DRC-licensed operators, armed escort as the standard configuration, the hard night movement ban as an operational constraint, and civil unrest contingency planning that accounts for eastern DRC as a standing risk indicator.
+Executive protection in Kinshasa is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing armed robbery, civil unrest, and kidnapping: advance work on venues and routes, a written threat assessment, an operations controller, and licensed armed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 For the full Kinshasa security picture, see our [Kinshasa city briefing](/cities/kinshasa/). For vetted secure transport alongside the EP team, [security drivers in Kinshasa](/security-drivers/kinshasa/) covers the DRC driver programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Kinshasa](/bodyguard-hire/kinshasa/). For the operators who staff the programme and how they are vetted, see [close protection officers in Kinshasa](/close-protection-officers/kinshasa/).

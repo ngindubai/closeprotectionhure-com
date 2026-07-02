@@ -35,7 +35,7 @@ faqs:
     answer: "The CPO positions inside Budapest Ferenc Liszt International Airport (BUD) arrivals before the principal clears baggage claim. A pre-departure vehicle check is conducted. The BUD-to-city transfer takes 30 to 50 minutes. For principals with elevated threat profiles, counter-surveillance protocol is applied from the arrivals hall through the transfer to the principal's hotel."
 ---
 
-Close protection officer deployment in Budapest is governed by Hungary's Act CXXXIII of 2005 on Security Services and on the Activities of Private Investigators framework. Our Budapest CPO teams cover Budapest Ferenc Liszt International Airport (BUD) arrivals and departures, Lipotvaros (V district) and Ujlipotvaros (XIII district) corporate meetings, and Andrassy ut corridor and Rozsa utca area (XIV district) government and diplomatic engagements. Low-visibility operational profile is the standard for corporate assignments.
+This page is about the people who provide close protection in Budapest: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Budapest network is licensed by the National Police Headquarters (ORFK) under Act CXXXIII of 2005, and is assessed for local competence. It covers standard team configuration, the rarity of the armed option in standard corporate contexts, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Hungary regulatory context
 
@@ -44,3 +44,5 @@ All Budapest CPO operators hold current Hungary credentials under Act CXXXIII of
 ## Complementary Budapest services
 
 For the full Budapest security picture, see the [Budapest city briefing](/cities/budapest/) and [secure airport transfers in Budapest](/secure-airport-transfers/budapest/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Budapest](/bodyguard-hire/budapest/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Budapest](/executive-protection/budapest/).

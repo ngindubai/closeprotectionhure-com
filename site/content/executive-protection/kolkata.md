@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Kolkata for a CPO with vehicle and operations controller support range from approximately INR 30,000-68,000 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Kolkata presents an executive protection environment defined by a moderate risk profile and a regulatory framework under PSARA 2005, West Bengal Police Private Security Agency Licensing Authority. For senior executives and HNWI principals operating across Salt Lake City (Sector V), Park Street, and Alipore, a structured EP programme reduces the exposure that uncoordinated travel creates. FCDO advises normal precautions for India (2026); FCDO advises awareness of political demonstrations and hartals in West Bengal. US State Department Level 2 (Exercise Increased Caution) for India as of 2026.
+Executive protection in Kolkata is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against crowded-area pickpocketing and hartal-related disruption: advance work on venues and routes, a written risk assessment, an operations controller, and PSARA-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Kolkata
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Kolkata must be licensed under PSARA 2
 Kolkata's position in manufacturing, port and logistics, IT services, and financial services creates a specific EP operating context: principals in these sectors face both the ambient threat picture and sector-specific risks identified in the pre-travel assessment. The threat picture (moderate. West Bengal Police Crime Statistics 2024 record elevated theft in crowded public spaces; hartals and political protests can cause sudden road closures.) informs route planning, advance work, and situational-awareness protocols for every engagement.
 
 For related security services in Kolkata, see our [Kolkata city page](/cities/kolkata/), [security drivers in Kolkata](/security-drivers/kolkata/), and [bodyguard hire in Kolkata](/bodyguard-hire/kolkata/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Kolkata](/bodyguard-hire/kolkata/). For the operators who staff the programme and how they are vetted, see [close protection officers in Kolkata](/close-protection-officers/kolkata/).

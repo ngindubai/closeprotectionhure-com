@@ -35,7 +35,7 @@ faqs:
     answer: "Foreign CPOs may accompany corporate principals as part of a bespoke detail but cannot operate commercially as security providers in Vietnam without Vietnamese business registration and MPS licensing; all commercial security services must be provided by a Vietnamese-licensed entity. Clients should confirm the operating structure and licensing status of any proposed CPO arrangement before travel, particularly for cross-border itineraries."
 ---
 
-Hanoi is a moderate-risk environment for close protection operations, drawing on Ministry of Public Security Vietnam Crime Statistics 2024 and FCDO advises normal precautions for Vietnam (2026); FCDO notes road traffic conditions as a specific risk, particularly motorbike density. US State Department Level 1 (Exercise Normal Precautions) for Vietnam as of 2026. For HNWI principals and senior executives operating across Ba Dinh district, Tay Ho (West Lake), and Hoan Kiem daytime, licensed CPO cover provides a materially different standard of personal protection from uncoordinated or unlicensed alternatives.
+This page is about the people who provide close protection support in Hanoi: who they are, how they operate, and what to verify before engaging them. Every provider in our Hanoi network holds a provincial police licence under Decree 96/2016/ND-CP from the Ministry of Public Security, and is assessed for local competence. It covers standard support configuration and the checks a buyer should insist on before engaging any provider.
 
 ## The Vietnam licensing framework
 
@@ -50,3 +50,5 @@ A Hanoi CPO detail typically begins with pre-advance work at the principal's acc
 The operations controller function maintains a real-time timeline and holds emergency contact protocols for Hanoi French Hospital (024-3577-1100), Bach Mai Hospital (024-3869-3731), and local emergency services (113).
 
 For complementary services, see our [Hanoi city page](/cities/hanoi/) and [bodyguard hire in Hanoi](/bodyguard-hire/hanoi/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Hanoi](/bodyguard-hire/hanoi/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Hanoi](/executive-protection/hanoi/).
