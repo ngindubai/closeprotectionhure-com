@@ -2,6 +2,7 @@
 title: "Johannesburg"
 description: "Close protection and executive security in Johannesburg. Anti-hijack armoured transport, PSIRA-registered operators and full executive details for corporate visitors."
 slug: "johannesburg"
+answer: "Close protection in Johannesburg is shaped by carjacking, armed robbery, and cash-in-transit crime, making secure driving and situational awareness the operational core. South Africa requires all operators to hold PSIRA registration, and armed officers need Firearms Control Act competency certificates, so principals should verify both before engaging a protection team."
 h1: "Close Protection in Johannesburg"
 seo_title: "Bodyguard Hire Johannesburg | Close Protection South Africa"
 country: "South Africa"

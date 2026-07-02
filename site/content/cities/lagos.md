@@ -2,6 +2,7 @@
 title: "Lagos"
 description: "Close protection and executive security in Lagos, Nigeria. Armed escort, NSCDC-licensed operators and vetted armoured transport for corporate visitors."
 slug: "lagos"
+answer: "Close protection in Lagos centres on managing armed robbery and express kidnapping during the city's severe traffic congestion, where armoured transport is the working baseline rather than an upgrade. Nigerian law permits armed cover only through NSCDC-registered operators, and foreign operatives cannot carry firearms, so principals should engage vetted local operators with route planning."
 h1: "Close Protection in Lagos"
 seo_title: "Bodyguard Hire Lagos | Close Protection Nigeria"
 country: "Nigeria"

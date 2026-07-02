@@ -2,6 +2,7 @@
 title: "Bangkok"
 description: "Close protection and executive security in Bangkok, Thailand. Political-unrest planning, vetted secure transport and licensed operators for corporate visitors."
 slug: "bangkok"
+answer: "Close protection in Bangkok centres on periodic political unrest and a residual terrorism threat rather than high everyday violence, so awareness and route planning lead. Firearms are restricted and most cover is unarmed, with companies registered under the Security Guard Business Act, so principals should use vetted local operators focused on avoidance and extraction."
 h1: "Close Protection in Bangkok"
 seo_title: "Bodyguard Hire Bangkok | Close Protection Thailand"
 country: "Thailand"

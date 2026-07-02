@@ -2,6 +2,7 @@
 title: "Riyadh"
 description: "Close protection and executive security in Riyadh, Saudi Arabia. The entire Riyadh Province is under FCDO against-essential-travel advisory due to missile and drone attack."
 slug: "riyadh"
+answer: "Close protection in Riyadh balances a regional missile and drone threat with significant cultural and legal considerations, so discretion and compliance are central. Firearms are tightly controlled and armed cover is limited to Ministry of Interior licensed entities with Saudi national preference rules, so principals should plan for unarmed, locally coordinated cover."
 h1: "Close Protection in Riyadh"
 seo_title: "Bodyguard Hire Riyadh | Close Protection Saudi Arabia"
 country: "Saudi Arabia"

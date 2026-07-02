@@ -2,6 +2,7 @@
 title: "Moscow"
 description: "Close protection and security services in Moscow, Russia. State detention risk, terrorism, and surveillance are the primary concerns for foreign corporate visitors in 2026."
 slug: "moscow"
+answer: "Close protection in Moscow is defined less by street crime than by state detention risk, pervasive surveillance, and a difficult operating environment for foreigners. Armed security is licensed only through Rosgvardiya and available solely via Russian operators, with foreign firms heavily restricted, so principals should rely on vetted local cover and careful legal planning."
 h1: "Close Protection in Moscow"
 seo_title: "Close Protection Moscow | Executive Security Russia"
 country: "Russia"

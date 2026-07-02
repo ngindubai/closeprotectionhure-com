@@ -2,6 +2,7 @@
 title: "Manila"
 description: "Close protection and executive security in Manila, Philippines. Kidnap-for-ransom risk, armed robbery, and terrorism in the region require professional security management."
 slug: "manila"
+answer: "Close protection in Manila addresses kidnap for ransom, armed robbery, and heavy traffic congestion that extends exposure during movement, so secure transport is central. Armed cover is standard and available through PNP-licensed agencies regulated by SOSIA, so principals should engage licensed local operators with counter-kidnap protocols and strong route knowledge."
 h1: "Close Protection in Manila"
 seo_title: "Bodyguard Hire Manila | Close Protection Philippines"
 country: "Philippines"

@@ -2,6 +2,7 @@
 title: "Jakarta"
 description: "Close protection and executive security in Jakarta, Indonesia. Terrorism-aware planning, vetted secure transport and licensed operators for corporate visitors."
 slug: "jakarta"
+answer: "Close protection in Jakarta is an intelligence-led task centred on terrorism awareness, periodic civil unrest, and natural-hazard planning amid severe traffic. Firearms are strictly controlled and most cover is unarmed, with security regulated by POLRI, so principals should engage certified local operators focused on avoidance, route planning, and contingency preparation."
 h1: "Close Protection in Jakarta"
 seo_title: "Bodyguard Hire Jakarta | Close Protection Indonesia"
 country: "Indonesia"

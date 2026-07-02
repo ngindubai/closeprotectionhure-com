@@ -2,6 +2,7 @@
 title: "Sao Paulo"
 description: "Close protection and executive security in Sao Paulo, Brazil. Armed robbery, express kidnapping, and carjacking make armoured transport and licensed operators essential."
 slug: "sao-paulo"
+answer: "Close protection in Sao Paulo centres on armed robbery, express kidnapping, and carjacking across a vast urban sprawl, where secure transport is essential. Brazil's Federal Police regulate armed security, and operators certify under Portaria 3233/2012, so principals should engage Federal Police registered firms with vetted drivers and route planning."
 h1: "Close Protection in Sao Paulo"
 seo_title: "Bodyguard Hire Sao Paulo | Close Protection Brazil"
 country: "Brazil"

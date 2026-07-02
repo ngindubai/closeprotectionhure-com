@@ -2,6 +2,7 @@
 title: "Mumbai"
 description: "Close protection and executive security in Mumbai, India. PSARA-licensed operators, terrorism-aware security planning and vetted transport for corporate business travellers."
 slug: "mumbai"
+answer: "Close protection in Mumbai is shaped by a documented terrorism history alongside street crime and dense traffic, so secure transport and venue awareness matter. Armed cover requires Arms Act licensing and Maharashtra Police permissions, with agencies certified under PSARA, so principals should engage properly licensed local operators rather than informal arrangements."
 h1: "Close Protection in Mumbai"
 seo_title: "Bodyguard Hire Mumbai | Close Protection India | [Brand]"
 country: "India"

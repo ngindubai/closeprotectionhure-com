@@ -2,6 +2,7 @@
 title: "London"
 description: "Close protection and executive security in London. SIA-licensed operators, discreet personal protection, and secure transport for corporate travellers and UHNWI principals."
 slug: "london"
+answer: "Close protection in London is a moderate-risk, intelligence-led task focused on terrorism awareness, UHNWI targeting, and counter-surveillance rather than routine street threats. UK cover is almost always unarmed, and every officer must hold a valid SIA close protection licence under the 2001 Act, so verifying licensing and discretion matters most when selecting a provider."
 h1: "Close Protection in London"
 country: "United Kingdom"
 risk_level: "moderate"

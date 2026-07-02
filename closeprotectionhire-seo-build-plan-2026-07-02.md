@@ -379,6 +379,16 @@ Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** wi
 - **Verification:** build clean; confirmed 0 pages render `.direct-answer` yet (correct no-op); CSS present in `public/css/custom.css`.
 - **Status:** committed. The copy itself (6.2) is **[OPUS-REQUIRED]** and is NOT done here — handed off for a model switch.
 
+### 2026-07-02 — Batch 6.2: Direct-answer copy, 15 priority cities (Finding F8, Opus) [OPUS-AUTHORED]
+- **Model:** authored on Opus (`claude-opus-4-8`), user-approved sample gate passed before the bulk pass.
+- **Decisions (user):** city pages first; ~15-city tranche; ran in this Opus session.
+- **RUBRIC (reusable for routine extension — 40–55 words):** (1) open naming service + city; (2) state the single most decision-relevant local fact — the signature threat and/or the named regulator + armed-cover constraint, taken from that page's own sourced `threats`/`regulations`; (3) close with the practical implication for a principal. British English; no em dashes; no safety-guarantee language; nothing fabricated. Each answer must be genuinely city-specific — a name-swapped template fails and must be left unset instead.
+- **Files:** added a top-level `answer:` field to 15 `content/cities/*.md`: london, dubai, lagos, nairobi, johannesburg, mexico-city, bogota, sao-paulo, istanbul, riyadh, mumbai, moscow, bangkok, manila, jakarta. Each cites its own regulator (SIA, SIRA, NSCDC, PSIRA, SEDENA, SVSP, Federal Police/Portaria 3233/2012, Law 5188, MoI, PSARA, Rosgvardiya, Security Guard Business Act, PNP/SOSIA, POLRI) and signature threat.
+- **Verification:** all 15 within 40–55 words; QA gate clean (no em dashes, no banned safety language in the new fields — two pre-existing FAQ hedges in abu-dhabi/bangalore are unrelated and were not touched); build clean; all 15 render `.direct-answer`; non-tranche cities remain a correct no-op (abuja verified).
+- **Status:** committed.
+- **Extension (6.2.5, Sonnet OK later):** remaining cities can follow this rubric under the QA gate, applying the "genuinely specific or leave unset" guardrail.
+- **DEFERRED (6.2.6):** optionally tighten `llms.txt` city one-liners to echo each answer's signature threat/regulator. Left as-is for now (current descriptions are accurate); revisit in a later llms.txt upgrade pass.
+
 ### 2026-07-02 — Plan maintenance
 - Added **Batch 1B (llms.txt)** to the plan per session rule 5, overriding the audit's "skip llms.txt" note.
 - Annotated Batch 1.2 with the city-guard correctness note.
