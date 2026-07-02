@@ -37,7 +37,7 @@ faqs:
     answer: "Kathmandu's risk level is elevated rather than critical. The primary security planning variables are political bandhs, seismic risk, and petty crime in tourist areas; the terrorism threat, while present in Nepal's broader security picture, is not the dominant operational variable for standard corporate CPO assignments in Kathmandu Valley. The security planning requirement is genuine and should not be underestimated, but the threat environment is materially different from that in Karachi, Kabul, or Caracas. The appropriate security configuration for most corporate principals is unarmed CP, bandh contingency, and a seismic emergency protocol."
 ---
 
-Kathmandu is an elevated-risk CPO environment, not a critical-risk one. Nepal's Security Personnel and Private Security Organizations Act 2017 provides a well-structured regulatory framework, and the private security sector is functional and capable. The primary operational variables are political bandhs that can halt transport across the valley at short notice, the residual seismic risk following the 2015 earthquake, and petty crime in tourist areas affecting delegate welfare. The standard CPO configuration for Kathmandu is unarmed close protection through 2017 Act registered Nepali operators, with police liaison coordination for higher-risk assignments and a bandh contingency protocol active throughout the visit.
+This page is about the people who provide close protection in Kathmandu: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Kathmandu network is registered under Nepal's 2017 Security Personnel and Private Security Organizations Act, and is assessed for local competence. It covers standard team configuration, police coordination requirements for armed cover, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The regulatory framework: working through Nepali firms
 
@@ -48,3 +48,5 @@ Nepal's 2017 Act is clear on this point: foreign operators cannot deploy personn
 No other major CPO destination combines the bandh risk with the seismic emergency planning requirement. Both variables require specific preparation that is distinct from the terrorism and kidnap-focused planning that dominates CPO operations in the region's other high-risk cities. The 72-hour pre-arrival bandh monitoring window and the seismic emergency protocol briefing are standard elements of every Kathmandu assignment.
 
 For the broader Kathmandu security picture see our [Kathmandu city page](/cities/kathmandu/) and [security drivers in Kathmandu](/security-drivers/kathmandu/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Kathmandu](/bodyguard-hire/kathmandu/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Kathmandu](/executive-protection/kathmandu/).

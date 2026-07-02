@@ -37,7 +37,7 @@ faqs:
     answer: "Armed close protection is available in Nepal but is tightly controlled under the 2017 Act. Most professional CP in Kathmandu is unarmed. For principals requiring armed protection, the process involves working with a licensed Nepali firm and, in some cases, police liaison. This should be established well in advance of arrival, not on the ground."
 ---
 
-Kathmandu is Nepal's capital and the operational hub for the Himalayan region, hosting a substantial diplomatic community, international NGOs, trekking and expedition organisations, and growing corporate activity. Its risk profile differs significantly from other South Asian capitals: the primary threats are not terrorism or organised crime at the level seen in Karachi or Dhaka, but rather political disruption through bandhs, seismic risk, and the unpredictability that comes from a complex multi-party political environment. The FCDO advises normal precautions for Nepal, though this baseline can change rapidly during periods of political unrest.
+Hiring a bodyguard in Kathmandu is usually tied to a specific visit, where political strikes (bandhs) and earthquake risk shape the plan alongside protest activity. This page covers how close protection hire works in Nepal, what an operator registered under the 2017 Security Personnel Act does across a day of movements, and how quickly cover is arranged. Armed cover requires specific police coordination, so hire pairs a registered officer with secure transport, scaled to the itinerary.
 
 ## Understanding Kathmandu's Specific Risks
 
@@ -54,3 +54,5 @@ For details on the broader security environment and current FCDO advisory status
 ## Planning a Kathmandu Protection Detail
 
 Planning timelines for Kathmandu are shorter than for critical-risk cities: seven to ten days is generally sufficient for a standard executive visit. The key variables are the current political temperature (are bandhs being called or is there active protest activity?), the accommodation and office location quality, and whether any seismic activity has occurred recently that might affect building integrity assessments. All Kathmandu engagements begin with a current-conditions briefing before the protection framework is finalised.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Kathmandu](/executive-protection/kathmandu/). To check the credentials and vetting behind the officers, see [close protection officers in Kathmandu](/close-protection-officers/kathmandu/).

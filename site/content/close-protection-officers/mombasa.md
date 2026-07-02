@@ -33,8 +33,10 @@ faqs:
     answer: "Yes. Mombasa CPO teams provide coverage for coastal resort areas including Diani Beach, the north coast resort strip, and private villa assignments. Each coastal extension requires a specific security assessment given the kidnapping risk profile on the coast road and the isolation of many beach properties. Major coastal resorts operate their own perimeter security but quality varies significantly; independent verification of venue security is appropriate for HNWI or corporate functions."
 ---
 
-Mombasa CPO operations require specific calibration to the Kenya coast's threat profile: Al-Shabaab coastal terrorism history, a kidnapping risk that the Somalia proximity makes more elevated than in Nairobi, and the port sector's Kenya Ports Authority operating environment that requires specific perimeter management protocols.
+This page is about the people who provide close protection in Mombasa: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Mombasa network holds PSIRA registration, with a Kenya Police firearms permit where armed, and is assessed for coastal-Kenya-specific competence. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 PSIRA Kenya-licensed operators with documented coastal Kenya experience deliver close protection that addresses these specific factors, not generic Nairobi-model protocols applied to a different environment.
 
 For the full Mombasa security picture, see our [Mombasa city briefing](/cities/mombasa/). For principals requiring the broader Kenya country risk context, [bodyguard hire in Nairobi](/bodyguard-hire/nairobi/) covers the full Kenya CPO programme from the capital.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Mombasa](/bodyguard-hire/mombasa/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Mombasa](/executive-protection/mombasa/).

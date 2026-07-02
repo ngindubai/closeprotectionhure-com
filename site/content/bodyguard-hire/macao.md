@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency numbers: 999 (police), 999 (ambulance). Primary facility: Hospital Conde de Sao Januario (+853 2857 3333). Secondary: Hospital Kiang Wu (+853 2837 1333). Medical routing is pre-planned; CPOs hold current first-aid certification."
 ---
 
-Bodyguard hire in Macao addresses a low risk environment: Very low street crime; primary security considerations are gaming sector risk (VIP client protection, high-value asset security), and Macao's position within China's national security law jurisdiction. Security Police Force (PSP - Policia de Seguranca Publica) under Law No. 2/2002 is the regulatory baseline for all Macao close protection engagements.
+Hiring a bodyguard in Macao is typically about gaming-sector crime and financial-crime exposure rather than general violent crime, which is low. This page covers how close protection hire works under Macao's Law 2/2002, what a PSP-certified officer does across a day of movements, and how quickly cover is arranged. Hire pairs a certified officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 Private security in Macao is regulated by the PSP (Policia de Seguranca Publica) under Law No. 2/2002. Security companies must hold a PSP licence; gaming venue security operates under casino concession requirements. Operator PSP licence status should be confirmed before any engagement.
 
 Detailed city context is available on the [Macao city page](/cities/macao/). For transport security, see [vetted security drivers in Macao](/security-drivers/macao/). For regional coverage, see [bodyguard hire in Hong Kong](/bodyguard-hire/hong-kong/). Firearms: predominantly unarmed private security; the very low crime environment means armed security is not standard for most executive engagements.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Macao](/executive-protection/macao/). To check the credentials and vetting behind the officers, see [close protection officers in Macao](/close-protection-officers/macao/).

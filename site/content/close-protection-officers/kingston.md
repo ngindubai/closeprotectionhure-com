@@ -37,7 +37,7 @@ faqs:
     answer: "A Kingston CPO handles the hotel environment through pre-advance assessment of the principal's accommodation, liaison with the hotel's in-house security team, management of arrivals and departures at the hotel entrance, and route verification for all vehicle movements to and from the hotel. The New Kingston hotel zone is manageable but not insulated from the city's broader crime environment."
 ---
 
-Close protection officer deployment in Kingston operates within Jamaica's PSRA licensing framework and addresses one of the Caribbean's most demanding urban security environments. Kingston's high violent crime rate, documented kidnapping risk, and the specific targeting of international executives and HNWI require CPO planning that treats all movements as security operations, not routine business travel. The New Kingston commercial district -- where the Jamaica Pegasus, Knutsford Court, and the main business offices are located -- is the most manageable zone, but requires consistent vehicle-based movement management and operations controller oversight.
+This page is about the people who provide close protection in Kingston: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Kingston network holds PSRA licensing under the Private Security Regulation Authority Act, and is assessed for local competence. It covers standard team configuration, Firearms Act licensing for the armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Kingston CPO licensing framework
 
@@ -48,3 +48,5 @@ Jamaica's Private Security Regulation Authority (PSRA) is the regulatory body fo
 Kingston's most significant CPO requirement is physical security: the city's ambient violent crime level, and the specific targeting of perceived high-value individuals for robbery and kidnapping, means that route management, accommodation pre-advance, and vehicle-based movement management are the core functions of a Kingston detail. Intelligence-gathering risk is secondary to the physical threat in this environment.
 
 For complementary services in Kingston, see our [Kingston city page](/cities/kingston/) and [event security in Kingston](/event-security/kingston/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Kingston](/bodyguard-hire/kingston/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Kingston](/executive-protection/kingston/).

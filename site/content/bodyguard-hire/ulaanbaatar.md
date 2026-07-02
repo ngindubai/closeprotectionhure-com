@@ -35,7 +35,7 @@ faqs:
     answer: "The medical plan for every Ulaanbaatar assignment includes local international clinic capacity for initial stabilisation and evacuation routing to Seoul or Beijing for serious cases. Medevac provider contacts are confirmed active before the principal's arrival. Medical evacuation insurance is the baseline requirement."
 ---
 
-Bodyguard hire in Ulaanbaatar operates within Mongolia's Ministry of Justice and Home Affairs licensing framework, with close protection officers drawn from a vetted partner network holding valid national security authorisation.
+Hiring a bodyguard in Ulaanbaatar is typically about extreme weather disruption and alcohol-related violence rather than violent crime targeting foreigners specifically. This page covers how close protection hire works in Mongolia, what a State Registration Authority approved operator does across a day of movements, and how quickly cover is arranged. Most operations use unarmed personnel, so hire pairs a licensed operator with secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## The Ulaanbaatar security environment
 
@@ -46,3 +46,5 @@ Ulaanbaatar's security environment is assessed at moderate risk, driven principa
 An Ulaanbaatar bodyguard programme covers the long airport transfer with inside-terminal collection at Chinggis Khaan International Airport, accommodation in vetted properties in the State Department Store district or Zaisan area, in-city movement with pre-planned routes and operations controller tracking, winter environmental protocols, and a documented emergency action plan with Seoul or Beijing medevac provisions.
 
 For the full Ulaanbaatar security picture, see our [Ulaanbaatar city briefing](/cities/ulaanbaatar/). For principals requiring secure transfers, [secure airport transfers in Ulaanbaatar](/secure-airport-transfers/ulaanbaatar/) covers the Mongolia programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Ulaanbaatar](/executive-protection/ulaanbaatar/). To check the credentials and vetting behind the officers, see [close protection officers in Ulaanbaatar](/close-protection-officers/ulaanbaatar/).

@@ -33,7 +33,7 @@ faqs:
     answer: "The primary bodyguard operating zones for international business visitors in Port of Spain are Westmoorings, St Clair, Maraval, and the Newtown business district. These areas have the most manageable security environment within the wider high-risk city context. East Port of Spain, Laventille, Sea Lots, and Morvant are outside the CPO operational zone and are not included in any principal itinerary."
 ---
 
-Port of Spain bodyguard hire is calibrated to Trinidad and Tobago's high-homicide rate and kidnapping risk: PSISA-licensed operators, Piarco International Airport transfer management, gang crime awareness for the east-west corridor, and anti-kidnapping protocol for a country where the business community has historically been targeted.
+Hiring a bodyguard in Port of Spain is usually tied to a specific visit, where gang violence and homicide shape the plan, with Carnival period risk an added seasonal factor. This page covers how close protection hire works in Trinidad and Tobago, what a Police Service licensed officer does across a day of movements, and how quickly cover is arranged. Armed cover requires Firearms Authority clearance, so hire pairs a licensed officer with secure transport, scaled to the itinerary.
 
 ## The Port of Spain security environment
 
@@ -44,3 +44,5 @@ Trinidad and Tobago has one of the highest homicide rates in the Caribbean, driv
 All private security companies in Trinidad and Tobago must hold licensing under the Private Security Industry Act (PSISA), administered by the Ministry of National Security. All our Port of Spain partners hold current PSISA licensing; documentation is provided before deployment.
 
 For the full Port of Spain security picture, see our [Port of Spain city briefing](/cities/port-of-spain/). For principals requiring vetted transport, [security drivers in Port of Spain](/security-drivers/port-of-spain/) covers the PSISA-licensed driver programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Port of Spain](/executive-protection/port-of-spain/). To check the credentials and vetting behind the officers, see [close protection officers in Port of Spain](/close-protection-officers/port-of-spain/).

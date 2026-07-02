@@ -35,8 +35,10 @@ faqs:
     answer: "Primary medical facility: Hospital Conde de Sao Januario (+853 2857 3333). Emergency: 999 (police), 999 (ambulance). Medical routing is pre-planned as part of every operation order. CPOs hold current first-aid certification and medical evacuation coordination to Hong Kong (approximately 1 hour by ferry) for specialist care is confirmed before deployment."
 ---
 
-Executive protection in Macao addresses a low risk environment: Very low street crime; primary security considerations are gaming sector risk (VIP client protection, high-value asset security), and Macao's position within China's national security law jurisdiction. Security Police Force (PSP - Policia de Seguranca Publica) under Law No. 2/2002 is the regulatory baseline for all Macao executive protection engagements.
+Executive protection in Macao is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against gaming-sector crime and financial-crime exposure: advance work on venues and routes, a written risk assessment, an operations controller, and PSP-certified secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 Private security in Macao is regulated by the PSP (Policia de Seguranca Publica) under Law No. 2/2002. Security companies must hold a PSP licence; gaming venue security operates under casino concession requirements. Operator PSP licence status should be confirmed before any engagement.
 
 For Macao city context, see our [Macao security briefing](/cities/macao/). For transport security, see [security drivers in Macao](/security-drivers/macao/). For regional context, see [executive protection in Hong Kong](/executive-protection/hong-kong/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Macao](/bodyguard-hire/macao/). For the operators who staff the programme and how they are vetted, see [close protection officers in Macao](/close-protection-officers/macao/).

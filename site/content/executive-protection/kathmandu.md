@@ -37,7 +37,7 @@ faqs:
     answer: "Yes. The airport transfer is the first and last component of any Kathmandu executive protection programme. Tribhuvan International Airport has documented issues with unofficial operators targeting arriving international passengers. The programme covers arrival coordination, confirmed driver identity before the principal exits arrivals, and departure planning including contingency for bandh-related disruption to road access."
 ---
 
-Kathmandu's executive protection environment is shaped by risks that are operationally distinctive rather than simply severe. Political instability manifested as bandhs, a high seismic hazard zone, an airport environment with documented targeting of international arrivals, and a political protest culture that can disrupt movement across the city all require specific planning that goes beyond standard high-risk city templates. The FCDO advises normal precautions for Nepal as a baseline, but the operational reality for corporate executives demands a more considered approach.
+Executive protection in Kathmandu is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against political strikes, bandh disruption, and earthquake-risk contingencies: advance work on venues and routes, a written risk assessment, an operations controller, and 2017 Act registered secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Kathmandu's Distinctive Risk Profile
 
@@ -54,3 +54,5 @@ For broader context on Kathmandu's security environment, see the [Kathmandu city
 ## Planning Timelines and Programme Scope
 
 Standard corporate visits to Kathmandu can be planned within seven to ten days for an experienced operator. More complex programmes, those involving sensitive sector activities, extended stays, or combination visits with mountain regions, require additional planning time. All Kathmandu executive protection programmes begin with a current-conditions briefing, as the political temperature and recent seismic activity both affect the specific planning requirements.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Kathmandu](/bodyguard-hire/kathmandu/). For the operators who staff the programme and how they are vetted, see [close protection officers in Kathmandu](/close-protection-officers/kathmandu/).

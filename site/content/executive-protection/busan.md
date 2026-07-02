@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Busan for a CPO with vehicle and operations controller support range from approximately KRW 900,000-1,500,000 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Busan presents an executive protection environment defined by a low risk profile and a regulatory framework under Security Services Industry Act (경비업법), National Police Agency of Korea. For senior executives and HNWI principals operating across Haeundae, Seomyeon, and the BEXCO convention precinct, a structured EP programme reduces the exposure that uncoordinated travel creates. Current advisory status and local police crime data are the evidential baseline for every pre-travel assessment.
+Executive protection in Busan is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against maritime and port-sector targeting and organised-crime proximity: advance work on venues and routes, a written risk assessment, an operations controller, and NPA-registered secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Busan
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Busan must be licensed under Security 
 Busan's position in maritime, shipping, logistics, film/MICE, and port-sector trade creates a specific EP operating context: principals in these sectors face both the ambient threat picture and sector-specific risks identified in the pre-travel assessment. The threat picture (low. NPA Crime Statistics 2024 records low violent crime across the city; minor disorder in older port-adjacent entertainment areas after midnight; persistent geopolitical background risk from North Korea factored into contingency planning.) informs route planning, advance work, and situational-awareness protocols for every engagement.
 
 For related security services in Busan, see our [Busan city page](/cities/busan/), [security drivers in Busan](/security-drivers/busan/), and [bodyguard hire in Busan](/bodyguard-hire/busan/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Busan](/bodyguard-hire/busan/). For the operators who staff the programme and how they are vetted, see [close protection officers in Busan](/close-protection-officers/busan/).

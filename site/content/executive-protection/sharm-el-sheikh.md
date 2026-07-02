@@ -35,8 +35,10 @@ faqs:
     answer: "Primary medical facility: Sharm International Hospital (+20 69 366 0893). Emergency: 122 (police), 123 (ambulance). Medical routing is pre-planned as part of every operation order. CPOs hold current first-aid certification and medical evacuation coordination to Cairo or Israel (approximately 4 hours by road) for serious conditions is confirmed before deployment."
 ---
 
-Executive protection in Sharm el-Sheikh addresses a critical risk environment: FCDO advises against all but essential travel to the whole of the Sinai Peninsula (except the Sharm el-Sheikh resort area); terrorist and extremist attack risk based on the 2015 Metrojet bombing and historical Naama Bay incidents. Egyptian Ministry of Interior under Law No. 116 of 2008 is the regulatory baseline for all Sharm el-Sheikh executive protection engagements.
+Executive protection in Sharm el-Sheikh is a programme built for a critical-risk environment, not a single officer. It is the discipline a company applies to protect a travelling executive despite the wider Sinai Peninsula's advise-against-all-but-essential-travel status: advance work on venues and routes, a written threat assessment, an operations controller, and Ministry of Interior licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a visit, where the need is layered, documented risk management.
 
 Private security in Egypt is regulated by the Ministry of Interior under Law No. 116 of 2008. Security companies must hold a Ministry of Interior licence. Armed security personnel require additional permits. Operator licence verification is standard for any engagement in Sharm el-Sheikh.
 
 For Sharm el-Sheikh city context, see our [Sharm el-Sheikh security briefing](/cities/sharm-el-sheikh/). For transport security, see [security drivers in Sharm el-Sheikh](/security-drivers/sharm-el-sheikh/). For regional context, see [executive protection in Cairo](/executive-protection/cairo/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Sharm el-Sheikh](/bodyguard-hire/sharm-el-sheikh/). For the operators who staff the programme and how they are vetted, see [close protection officers in Sharm el-Sheikh](/close-protection-officers/sharm-el-sheikh/).

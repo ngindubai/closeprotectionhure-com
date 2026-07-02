@@ -35,7 +35,7 @@ faqs:
     answer: "A foreign close protection officer may accompany a principal into Busan as part of an international protective detail, but cannot engage in commercial close protection for hire in South Korea without complying with the Guard Services Act, which requires Korean business registration and NPA-accredited staff certification. For commercial close protection operations in South Korea, the operating structure must meet Guard Services Act requirements."
 ---
 
-Busan is South Korea's second city and its principal port, hosting significant maritime logistics, shipping, and manufacturing industry alongside a growing conference and hospitality sector centred on the BEXCO convention complex in Centum City. The city operates in a geopolitically heightened environment given the Korean Peninsula context, while presenting a low urban crime profile for business visitors. Close protection in Busan is most commonly engaged for senior logistics and shipping executives, conference principals, and visiting dignitaries attending events at BEXCO.
+This page is about the people who provide close protection in Busan: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Busan network is registered with the National Police Agency under the Security Services Industry Act, and is assessed for port-city-specific competence. It covers standard team configuration, strict firearms controls, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Guard Services Act licensing framework
 
@@ -54,3 +54,5 @@ The FCDO's 2026 South Korea travel advisory maintains awareness guidance regardi
 The operational threat picture for Busan CPO work draws on National Police Agency of Korea (NPA) Crime Statistics 2024 and the FCDO South Korea travel advisory, current as at 2026. Licensing requirements are current under the Guard Services Act (경비업법) as at June 2026. Firearms Law provisions apply to any armed detail enquiry. Rates cited are indicative for the Busan market as at June 2026 and should be confirmed at time of enquiry.
 
 For complementary services, see our [Busan city page](/cities/busan/) and [bodyguard hire in Busan](/bodyguard-hire/busan/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Busan](/bodyguard-hire/busan/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Busan](/executive-protection/busan/).

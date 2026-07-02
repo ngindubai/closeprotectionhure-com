@@ -35,6 +35,8 @@ faqs:
     answer: "Emergency number: 112 (police) / 119 (fire/ambulance). Primary facility: Pusan National University Hospital (051-240-7000). Medical routing to the nearest appropriate hospital is pre-planned, CPOs hold current first-aid certification, and medical evacuation routing is built into the operation order before deployment."
 ---
 
-Busan is a low-risk environment for close protection deployments. For HNWI principals and corporate executives visiting Haeundae, Seomyeon, and the BEXCO convention precinct, vetted bodyguards licensed under Security Services Industry Act (경비업법), National Police Agency of Korea provide a materially different standard of personal protection from unvetted alternatives. The local police crime data informs route planning and counter-surveillance protocols applied on Busan's principal movement corridors.
+Hiring a bodyguard in Busan is typically about maritime and port-sector targeting and organised-crime proximity in specific areas rather than violent crime, which is low. This page covers how close protection hire works in South Korea's principal port city, what an NPA-registered officer does across a day of movements, and how quickly cover is arranged. Firearms controls are strict, so hire is unarmed and built around planning, scaled to the itinerary rather than a fixed contract.
 
 Detailed city context, including threat analysis and zone-by-zone risk notes, is available on the [Busan city page](/cities/busan/). For transport security, see our [vetted security drivers in Busan](/security-drivers/busan/). For regional coverage, see our [bodyguard hire in Tokyo](/bodyguard-hire/tokyo/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Busan](/executive-protection/busan/). To check the credentials and vetting behind the officers, see [close protection officers in Busan](/close-protection-officers/busan/).

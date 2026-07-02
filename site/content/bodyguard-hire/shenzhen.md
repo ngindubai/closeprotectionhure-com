@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency number: 110 (police), 120 (ambulance). Primary facility: Shenzhen People's Hospital (+86-755-2553-3018). Secondary: Shenzhen University General Hospital (+86-755-2188-8999). Medical routing is pre-planned; CPOs hold current first-aid certification. The operation order includes evacuation routing from all principal accommodation."
 ---
 
-Shenzhen presents a moderate risk environment requiring active close protection planning; the primary concern is moderate - primarily petty crime in commercial zones; national security legislat. PSB-registered operators provide close protection across Futian CBD, Nanshan technology corridor, and Qianhai financi.
+Hiring a bodyguard support arrangement in Shenzhen is typically about counterfeit-goods and commercial-fraud exposure rather than violent crime. This page covers how close protection support works in Guangdong, what a PSB-registered provider offers across a day of movements, and how quickly it can be arranged. Firearms are restricted to state agencies, so support is unarmed and built around planning, scaled to the visit rather than a fixed contract.
 
 PSB-registered operators under the Regulation on Administration of Security Services (2009) is the regulatory baseline. PSB requires all security to be delivered through registered local entities; foreign operators must partner with PSB-registered companies.
 
 Detailed city context is available on the [Shenzhen city page](/cities/shenzhen/). For transport security, see [vetted security drivers in Shenzhen](/security-drivers/shenzhen/). For regional coverage, see [bodyguard hire in Hong Kong](/bodyguard-hire/hong-kong/). Firearms: unarmed - no private firearms under Chinese law.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Shenzhen](/executive-protection/shenzhen/). To check the credentials and vetting behind the officers, see [close protection officers in Shenzhen](/close-protection-officers/shenzhen/).

@@ -35,7 +35,7 @@ faqs:
     answer: "Every Ulaanbaatar CPO deployment includes a documented emergency action plan covering medical emergency (naming the receiving facility: SOS International Clinic in Ulaanbaatar or evacuation to Seoul or Beijing), vehicle compromise procedures, communications protocols, and the operations controller's emergency activation procedure."
 ---
 
-The capital and only major urban centre of mongolia, home to mining sector corporate offices, international development organisations, diplomatic missions, and the country's entire financial services sector. Close protection officers in Ulaanbaatar are deployed through licensed Mongolia operators with current ground knowledge, providing a structured CPO programme calibrated to the moderate-risk environment.
+This page is about the people who provide close protection in Ulaanbaatar: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Ulaanbaatar network is registered with the State Registration Authority under the Law on Private Security Activities, and is assessed for local competence. It covers standard team configuration, weather-contingency planning, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Mongolia CPO licensing framework
 
@@ -44,3 +44,5 @@ CPO operations in Ulaanbaatar are regulated through the National Police Agency o
 ## CPO operations in Ulaanbaatar
 
 Licensed CPO cover, vehicle-based movement for all inter-venue transfers, airport collection inside Chinggis Khaan International Airport (ULN) terminal, operations restricted to Sukhbaatar and Chingeltei districts for standard corporate assignments, and a written emergency plan with pre-confirmed contacts at the best available medical facilities. For the full Ulaanbaatar security picture, see our [Ulaanbaatar city page](/cities/ulaanbaatar/) and [bodyguard hire in Ulaanbaatar](/bodyguard-hire/ulaanbaatar/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Ulaanbaatar](/bodyguard-hire/ulaanbaatar/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Ulaanbaatar](/executive-protection/ulaanbaatar/).

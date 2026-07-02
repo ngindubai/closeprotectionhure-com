@@ -37,6 +37,8 @@ faqs:
     answer: "Port visits require KPA (Kenya Ports Authority) security liaison and pre-arranged access passes 24 to 48 hours before the visit. EP advance work covers the Changamwe and Miritini industrial approach corridors, port zone vehicle management, and the specific access and egress protocols for the container terminal and bulk cargo berths used by the principal's counterparties."
 ---
 
-Mombasa executive protection combines Kenya Coast al-Shabaab terrorism awareness with the specific island geography routing constraints of Mombasa's ferry and causeway network. Port-sector advance coordination, Diani south coast resort coverage, and PSRA-licensed operators under Kenya's Security Industry Act 2018 are the foundations of the Mombasa EP programme.
+Executive protection in Mombasa is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against terrorism awareness and kidnapping risk on Kenya's coast: advance work on venues and routes, a written threat assessment, an operations controller, and PSIRA-registered secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 For the full Mombasa and Kenya Coast security context, see our [Mombasa city page](/cities/mombasa/). For principals who need vetted transport as the primary security element on the Kenya coast, [security drivers in Mombasa](/security-drivers/mombasa/) covers the PSRA-licensed chauffeur programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Mombasa](/bodyguard-hire/mombasa/). For the operators who staff the programme and how they are vetted, see [close protection officers in Mombasa](/close-protection-officers/mombasa/).

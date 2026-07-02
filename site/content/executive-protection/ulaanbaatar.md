@@ -33,7 +33,7 @@ faqs:
     answer: "The emergency action plan for every Ulaanbaatar EP programme covers: medical emergency (naming the receiving facility and evacuation routing), vehicle compromise (contingency routing and shelter options), political demonstration response (avoidance protocols and contingency routing), and communications procedures. The plan is shared with the principal and their organisation before deployment."
 ---
 
-Executive protection in Ulaanbaatar is built around licensed Mongolia operators with current ground knowledge, providing a structured programme covering the principal's full movement cycle in the city.
+Executive protection in Ulaanbaatar is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against extreme-weather operational disruption and alcohol-related violence risk: advance work on venues and routes, a written risk assessment, an operations controller, and State Registration Authority approved secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 ## The Ulaanbaatar EP environment
 
@@ -44,3 +44,5 @@ EP in Ulaanbaatar provides a structured security overlay for the principal movem
 An EP programme in Ulaanbaatar covers the full principal movement cycle: advance work at all venues, close escort during movements, accommodation security liaison, daily route variation, a documented emergency action plan, and medevac provider confirmation before arrival.
 
 For the full Ulaanbaatar security picture, see our [Ulaanbaatar city briefing](/cities/ulaanbaatar/). For principals requiring security drivers, [security drivers in Ulaanbaatar](/security-drivers/ulaanbaatar/) covers the Mongolia programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Ulaanbaatar](/bodyguard-hire/ulaanbaatar/). For the operators who staff the programme and how they are vetted, see [close protection officers in Ulaanbaatar](/close-protection-officers/ulaanbaatar/).

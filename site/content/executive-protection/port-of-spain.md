@@ -43,7 +43,7 @@ faqs:
     answer: "Miami is the standard medevac destination at approximately 4 hours by air from Piarco. Westshore Medical Private Hospital and Medical Associates Hospital are the recommended local private facilities for acute emergencies that can be managed in Trinidad. Travel insurance covering air evacuation to Miami must be confirmed before the engagement begins."
 ---
 
-Executive protection in Port of Spain serves energy sector executives, diplomatic personnel, and regional corporate principals in a Caribbean city with a well-documented gang violence and carjacking problem operating alongside one of the region's strongest commercial and financial sectors. Programmes built on Licensing Authority-registered operators with TTPS-framework familiarity provide close-protection capability calibrated to a mature but genuinely elevated-risk environment, with Miami at approximately 4 hours as the evacuation standard.
+Executive protection in Port of Spain is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against gang violence and homicide risk, with specific Carnival-period contingency planning: advance work on venues and routes, a written threat assessment, an operations controller, and Police Service licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 ## The Port of Spain security environment
 
@@ -60,3 +60,5 @@ An EP programme in Port of Spain covers the principal's full movement cycle: Pia
 Medical planning identifies Westshore Medical or Medical Associates as the primary receiving facility for acute emergencies, with Miami at approximately 4 hours as the medevac destination for cases requiring higher-level care.
 
 For the full Port of Spain security picture, see our [Port of Spain city briefing](/cities/port-of-spain/). For vetted secure transport alongside the EP team, [security drivers in Port of Spain](/security-drivers/port-of-spain/) covers the Trinidad and Tobago driver programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Port of Spain](/bodyguard-hire/port-of-spain/). For the operators who staff the programme and how they are vetted, see [close protection officers in Port of Spain](/close-protection-officers/port-of-spain/).

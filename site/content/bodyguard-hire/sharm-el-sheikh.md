@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency numbers: 122 (police), 123 (ambulance). Primary facility: Sharm International Hospital (+20 69 366 0893). Secondary: Sharm el-Sheikh International Hospital (+20 69 366 2001). Medical routing is pre-planned; CPOs hold current first-aid certification."
 ---
 
-Bodyguard hire in Sharm el-Sheikh addresses a critical risk environment: FCDO advises against all but essential travel to the whole of the Sinai Peninsula (except the Sharm el-Sheikh resort area); terrorist and extremist attack risk based on the 2015 Metrojet bombing and historical Naama Bay incidents. Egyptian Ministry of Interior under Law No. 116 of 2008 is the regulatory baseline for all Sharm el-Sheikh close protection engagements.
+Hiring a bodyguard in Sharm el-Sheikh addresses a critical risk environment, where the wider Sinai Peninsula carries an FCDO advise-against-all-but-essential-travel rating even though the resort area itself is excluded. This page covers how close protection hire works under Egyptian Ministry of Interior licensing (Law No. 116 of 2008), what a licensed officer does across a day of movements, and how quickly cover is arranged. Armed cover is available under additional permits, so hire pairs a licensed officer with secure transport.
 
 Private security in Egypt is regulated by the Ministry of Interior under Law No. 116 of 2008. Security companies must hold a Ministry of Interior licence. Armed security personnel require additional permits. Operator licence verification is standard for any engagement in Sharm el-Sheikh.
 
 Detailed city context is available on the [Sharm el-Sheikh city page](/cities/sharm-el-sheikh/). For transport security, see [vetted security drivers in Sharm el-Sheikh](/security-drivers/sharm-el-sheikh/). For regional coverage, see [bodyguard hire in Cairo](/bodyguard-hire/cairo/). Firearms: armed security is available through ministry of interior-licensed operators; egyptian military police provide site security at major resort complexes.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Sharm el-Sheikh](/executive-protection/sharm-el-sheikh/). To check the credentials and vetting behind the officers, see [close protection officers in Sharm el-Sheikh](/close-protection-officers/sharm-el-sheikh/).

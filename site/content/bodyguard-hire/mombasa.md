@@ -35,6 +35,8 @@ faqs:
     answer: "Yes. Our Mombasa partners cover the Diani Beach and Tiwi resort corridor as a standard extension of the Mombasa CPO brief. The Likoni Ferry crossing is managed with a pre-positioned vehicle on the south coast, and resort advance work covers property perimeter and the specific access requirements of each resort. Isolated beach property access is assessed as part of the advance."
 ---
 
-Mombasa is Kenya's coastal commercial hub and East Africa's primary deep-water port, with a significant corporate visitor base across shipping, logistics, and extractives sectors. Al-Shabaab terrorism awareness, port zone access management, and the specific routing and ferry logistics of Mombasa Island are the primary CPO planning elements. The south coast resort corridor adds a leisure and HNWI dimension to the Mombasa engagement brief.
+Hiring a bodyguard in Mombasa is usually tied to a specific visit, where terrorism awareness and kidnapping risk shape the plan alongside armed robbery. This page covers how close protection hire works on Kenya's coast, what a PSIRA-registered officer holding a Kenya Police firearms permit does across a day of movements, and how quickly cover is arranged. Hire pairs a registered officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 For the full Mombasa and Kenya Coast security picture, see our [Mombasa city page](/cities/mombasa/). For principals also visiting Nairobi during the same Kenya itinerary, [bodyguard hire in Nairobi](/bodyguard-hire/nairobi/) covers the full Kenya CPO programme including executive protection and security drivers.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Mombasa](/executive-protection/mombasa/). To check the credentials and vetting behind the officers, see [close protection officers in Mombasa](/close-protection-officers/mombasa/).

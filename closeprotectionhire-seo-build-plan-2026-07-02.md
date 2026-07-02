@@ -558,6 +558,13 @@ Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** wi
 - **Verification:** build clean (0 errors); QA gate clean; all ledes confirmed distinct.
 - **Status:** committed + pushed to `master` (deploys). **195 of 278 bodyguard-hire cities now differentiated (555 net new + fix; ~70% of the network).**
 
+### 2026-07-02 — Batch 5 (sub-batch 21 of N): Differentiation rollout, 10 more cities [SONNET, model already locked]
+- **Process change applied:** city selection now uses a true 3-silo intersection (`bodyguard-hire` ∩ `executive-protection` ∩ `close-protection-officers`, 268 cities) instead of the `bodyguard-hire` list alone, per the sub-batch 20 bug fix. No missing-file cases this sub-batch.
+- **Cities (10):** mombasa, kingston, port-of-spain, thessaloniki, ulaanbaatar, kathmandu, shenzhen, sharm-el-sheikh, macao, busan. **Files: 30.**
+- Standard treatment throughout (intent lede 66–83 words citing each city's own regulator/threat: Kenya PSIRA, Jamaica PSRA, Trinidad Police Service, Greece Law 2518/1997, Mongolia State Registration Authority, Nepal 2017 Security Personnel Act, China Guangdong PSB, Egypt MoI Law 116/2008, Macao Law 2/2002/PSP, South Korea NPA). Sharm el-Sheikh treated like Tripoli/Beirut/Minsk (operating with heavy caveats — the resort area is explicitly excluded from the wider Sinai advise-against-all-but-essential-travel zone per the page's own existing text), not a Khartoum/Kabul-style no-go. + sibling cross-links.
+- **Verification:** build clean (0 errors); all 10 cities' three siblings confirmed distinct; QA gate clean; no dead links (existence-check guard held).
+- **Status:** committed + pushed to `master` (deploys). **205 of 278 bodyguard-hire cities now differentiated (~74% of the network).**
+
 ### 2026-07-02 — Deploy + branch-rule change (owner instruction)
 - Owner directed all work to go live and to build on the deploy branch. Corrected a misdirection first: the owner said "build on the live branch," but `live` is the auto-generated compiled-output branch (force-pushed by CI, never hand-edited). The real deploy branch is `master`.
 - **Action:** fast-forward-merged the 10-commit feature branch `claude/close-protection-seo-audit-0yjirj` into `master` (0 divergence, no conflicts) and pushed `master`, triggering `build-and-publish.yml` → Hugo build → publish `site/public` to `live` → Hostinger deploy.

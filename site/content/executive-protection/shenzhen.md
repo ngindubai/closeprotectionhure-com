@@ -35,8 +35,10 @@ faqs:
     answer: "Primary medical facility: Shenzhen People's Hospital (+86-755-2553-3018). Emergency: 110 (police), 120 (ambulance). Medical routing is pre-planned as part of every operation order. CPOs hold current first-aid certification. Medical evacuation coordination is confirmed before deployment for principals on extended Shenzhen programmes."
 ---
 
-Executive protection in Shenzhen addresses a moderate risk environment: moderate - primarily petty crime in commercial zones; national security legislat. PSB-registered operators cover Futian CBD, Nanshan technology corridor, and Qianhai financi with pre-surveyed routes, operations controller oversight, and pre-planned medical routing to Shenzhen People's Hospital.
+Executive protection in Shenzhen is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against counterfeit-goods and commercial-fraud exposure: advance work on venues and routes, a written risk assessment, an operations controller, and PSB-registered secure movement integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 PSB-registered operators under the Regulation on Administration of Security Services (2009) is the regulatory baseline. PSB requires all security to be delivered through registered local entities; foreign operators must partner with PSB-registered companies.
 
 For Shenzhen city context, see our [Shenzhen security briefing](/cities/shenzhen/). For transport security, see [security drivers in Shenzhen](/security-drivers/shenzhen/). For regional context, see [executive protection in Hong Kong](/executive-protection/hong-kong/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Shenzhen](/bodyguard-hire/shenzhen/). For the operators who staff the programme and how they are vetted, see [close protection officers in Shenzhen](/close-protection-officers/shenzhen/).

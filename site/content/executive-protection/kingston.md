@@ -35,7 +35,7 @@ faqs:
     answer: "A pre-advance is the reconnaissance and assessment of all planned venues, routes, and accommodation carried out before the principal arrives. In Kingston, a pre-advance is essential because the line between a safe operating zone (New Kingston, Half Way Tree) and a no-go zone (inner-city communities) can be as little as one street. Hotels, restaurants, and meeting venues near that boundary require specific assessment. The pre-advance identifies risks, proposes mitigations, and ensures the EP team has a complete picture before the principal is on the ground."
 ---
 
-Kingston's executive protection environment reflects Jamaica's high homicide rate, documented gang activity in inner-city areas, and the specific risks facing business visitors who are identifiable by their movement patterns and accommodation choices. FCDO Jamaica advice (2024) advises a high degree of caution and specifically names inner-city areas as against all travel. US State Department designates Jamaica as Level 3: Reconsider Travel (2026). For executives, the Norman Manley causeway transfer, fixed accommodation in New Kingston, and any meeting in the downtown area are the primary risk exposures that a professional EP programme is designed to address.
+Executive protection in Kingston is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing gang violence and kidnapping and extortion risk: advance work on venues and routes, a written threat assessment, an operations controller, and PSRA-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## PSRA licensing and Jamaica compliance
 
@@ -46,3 +46,5 @@ All EP operators must hold PSRA company licences and individual officers must ca
 A Kingston EP programme covers advance work on all venues and routes, counter-surveillance throughout all movements, a minimum two-vehicle formation for city movements, crisis response planning with pre-identified medical facilities, and a pre-agreed extraction plan. The programme is tailored to the principal's risk profile and itinerary.
 
 For the full Kingston security picture, see the [Kingston city briefing](/cities/kingston/) and [close protection officers in Kingston](/close-protection-officers/kingston/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Kingston](/bodyguard-hire/kingston/). For the operators who staff the programme and how they are vetted, see [close protection officers in Kingston](/close-protection-officers/kingston/).
