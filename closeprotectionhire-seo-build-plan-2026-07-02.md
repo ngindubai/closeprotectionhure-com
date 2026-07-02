@@ -336,6 +336,13 @@ Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** wi
 - **Status:** committed to `claude/close-protection-seo-audit-0yjirj`.
 - **Maintenance hooks live:** after Batch 3 re-check for retired country slugs; after Batch 6 swap link descriptions for the direct-answer sentences.
 
+### 2026-07-02 — Batch 2.1: Social cards (Finding F5)
+- **File:** `site/layouts/_default/baseof.html` (head). Added an `$ogImg` fallback chain (`.Params.og_image` → `.Params.hero_image` → `Close-Protection-2560.webp`), resolved to an absolute URL via `absURL`. Added `og:site_name`, `og:locale=en_GB`, an always-present `og:image`, and a full Twitter `summary_large_image` card (title/description/image).
+  - *Why:* 0 content files set `og_image` and there were no Twitter tags, so every share/AI preview rendered a blank card on a referral-driven business.
+- **Verification:** build clean (0 errors). Confirmed absolute `og:image` on silo, homepage, and blog pages; Twitter card present on blog; per-page `hero_image` respected (Almaty uses its own image, not the default).
+- **Status:** committed to `claude/close-protection-seo-audit-0yjirj`.
+- **NOTE:** Batch 2.2 (Organization entity) is intentionally NOT done in this commit — it needs real business facts (address vs service-area, real social profiles for `sameAs`, phone). Held for user decision per session rule 1.
+
 ### 2026-07-02 — Plan maintenance
 - Added **Batch 1B (llms.txt)** to the plan per session rule 5, overriding the audit's "skip llms.txt" note.
 - Annotated Batch 1.2 with the city-guard correctness note.
