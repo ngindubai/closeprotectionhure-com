@@ -26,6 +26,24 @@
     <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
     <meta name="twitter:image" content="{{ $ogImgURL }}">
 
+    {{/* Sitewide Organization entity (service-area business; no postal address by design) */}}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "@id": "https://closeprotectionhire.com/#organization",
+      "name": {{ .Site.Params.brand | jsonify }},
+      "url": "https://closeprotectionhire.com/",
+      "description": {{ .Site.Params.description | jsonify }},
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "email": {{ .Site.Params.contactEmail | jsonify }},
+        "availableLanguage": ["English"]
+      }
+    }
+    </script>
+
     {{/* Schema.org block */}}
     {{ block "schema" . }}{{ end }}
 

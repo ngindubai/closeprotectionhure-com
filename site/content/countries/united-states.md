@@ -2,6 +2,8 @@
 title: "United States"
 description: "Security services in the United States. Executive protection, close protection, and vetted operators for New York and major US cities."
 slug: "united-states"
+aliases:
+  - "/countries/usa/"
 h1: "Security Services in the United States"
 risk_level: "high"
 hero_image: "hero.jpg"

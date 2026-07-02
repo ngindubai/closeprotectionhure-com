@@ -343,6 +343,24 @@ Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** wi
 - **Status:** committed to `claude/close-protection-seo-audit-0yjirj`.
 - **NOTE:** Batch 2.2 (Organization entity) is intentionally NOT done in this commit — it needs real business facts (address vs service-area, real social profiles for `sameAs`, phone). Held for user decision per session rule 1.
 
+### 2026-07-02 — Batch 2.2: Organization entity (Finding F6)
+- **Decisions (user, 2026-07-02):** model as a **service-area business** (no postal address); **omit `sameAs`** (no real profiles yet); **email-only** contactPoint.
+- **File:** `site/layouts/_default/baseof.html` (head) — added a sitewide `Organization` JSON-LD node with a stable `@id` (`https://closeprotectionhire.com/#organization`), `name`, `url`, `description`, and an email `contactPoint`. Present on every page.
+- **Files:** wired every `Service` node's `provider` to reference that `@id` instead of re-declaring a bare name — `_default/single.html`, `cities/single.html`, `services/single.html`, `event-security/single.html`, `countries/single.html`.
+  - *Why:* the provider Organization was a name-only stub on a YMYL site; a single `@id`-referenced entity is the E-E-A-T anchor Google binds Service pages to.
+- **Verification:** build clean; JSON-LD parser-validated across silo/city/country/event/home/about — all valid, Organization `@id` present on every page, Service `provider` resolves to `@id`.
+- **FOLLOW-UPS (noted, not fake-filled):**
+  1. **No logo asset exists** in `static/images/` — `logo` was intentionally omitted rather than pass the hero photo off as a logo. When a real logo is added, append `"logo"` to the Organization node.
+  2. `sameAs` to be added when real social/directory profiles exist.
+  3. Latent hardening: `cities/services/event-security/countries` Service nodes still interpolate `"description": "{{ .Description }}"` without `| jsonify` (pre-existing). Low risk (controlled front matter) but should be `jsonify`-hardened in a later pass.
+
+### 2026-07-02 — Batch 3: Duplicate country pages (Finding F7)
+- **Decision (user):** keep full-word slugs `united-kingdom` / `united-states` (also the richer pages: 6096/5963 vs 5534/5620 bytes).
+- **Deleted:** `content/countries/uk.md`, `content/countries/usa.md`.
+- **Redirects (belt-and-braces):** added Hugo `aliases` to the survivors (`united-kingdom.md` → `/countries/uk/`, `united-states.md` → `/countries/usa/`) which generate meta-refresh stubs, AND server 301s in `static/_redirects` matching the existing `301!` Netlify-style format.
+  - *Why both:* `_redirects` gives a true server 301 if the host honours it, but the deploy targets Hostinger where Netlify-style `_redirects` may not fire; Hugo aliases guarantee a client-side redirect regardless. 0 internal links pointed at the old slugs, so no repointing was needed.
+- **Verification:** build clean; alias stubs confirmed at `public/countries/uk/` and `public/countries/usa/` pointing to the full-word URLs; survivors build; `_redirects` present in `public/`.
+
 ### 2026-07-02 — Plan maintenance
 - Added **Batch 1B (llms.txt)** to the plan per session rule 5, overriding the audit's "skip llms.txt" note.
 - Annotated Batch 1.2 with the city-guard correctness note.

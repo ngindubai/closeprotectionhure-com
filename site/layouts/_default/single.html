@@ -7,11 +7,7 @@
     "name": {{ (printf "%s in %s" (humanize .Section) (.Params.city | default .Title)) | jsonify }},
     "serviceType": {{ (humanize .Section) | jsonify }},
     "description": {{ .Description | default .Title | jsonify }},
-    "provider": {
-        "@type": "Organization",
-        "name": {{ .Site.Params.brand | jsonify }},
-        "url": "https://closeprotectionhire.com/"
-    },
+    "provider": { "@id": "https://closeprotectionhire.com/#organization" },
     "areaServed": {
         "@type": "City",
         "name": {{ (.Params.city | default .Title) | jsonify }}

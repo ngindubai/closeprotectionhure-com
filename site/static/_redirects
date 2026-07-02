@@ -1,2 +1,6 @@
 # Force www to non-www (canonical domain)
 https://www.closeprotectionhire.com/* https://closeprotectionhire.com/:splat 301!
+
+# Country page dedupe (2026-07-02) - full-word slug is canonical
+/countries/uk/    /countries/united-kingdom/    301!
+/countries/usa/   /countries/united-states/     301!

@@ -2,6 +2,8 @@
 title: "United Kingdom"
 description: "Security services in the United Kingdom. Close protection, secure transport, and SIA-licensed operators for London and key UK cities."
 slug: "united-kingdom"
+aliases:
+  - "/countries/uk/"
 h1: "Security Services in the United Kingdom"
 risk_level: "high"
 hero_image: "hero.jpg"
