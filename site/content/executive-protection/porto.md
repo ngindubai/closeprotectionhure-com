@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Porto for a CPO with vehicle and operations controller support range from approximately EUR 550-950 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Porto presents an executive protection environment defined by a low risk profile and a regulatory framework under Law No. 34/2013 on private security activities (PSP Portugal). For senior executives and HNWI principals operating across Boavista, Foz do Douro, and the Exponor convention precinct, a structured EP programme reduces the exposure that uncoordinated travel creates. Current advisory status and local police crime data are the evidential baseline for every pre-travel assessment.
+Executive protection in Porto is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against pickpocketing and nightlife-related disorder exposure: advance work on venues and routes, a written risk assessment, an operations controller, and PSP-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Porto
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Porto must be licensed under Law No. 3
 Porto's position in technology, wine and food trade, finance, and major convention events creates a specific EP operating context: principals in these sectors face both the ambient threat picture and sector-specific risks identified in the pre-travel assessment. The threat picture (low. PSP Crime Statistics 2024 records low violent crime; opportunistic theft in tourist areas; alcohol-related disorder in nightlife precincts after 23:00.) informs route planning, advance work, and situational-awareness protocols for every engagement.
 
 For related security services in Porto, see our [Porto city page](/cities/porto/), [security drivers in Porto](/security-drivers/porto/), and [bodyguard hire in Porto](/bodyguard-hire/porto/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Porto](/bodyguard-hire/porto/). For the operators who staff the programme and how they are vetted, see [close protection officers in Porto](/close-protection-officers/porto/).

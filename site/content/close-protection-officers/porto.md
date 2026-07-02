@@ -35,7 +35,7 @@ faqs:
     answer: "EU-based close protection officers may work in Portugal under EU freedom to provide services provisions, subject to notification requirements. Non-EU CPOs must hold PSP authorisation to work commercially in Portugal. A foreign CPO may accompany a principal into Porto as part of an international detail, but commercial provision of personal protection services without PSP authorisation is a breach of Lei n.o 34/2013."
 ---
 
-Porto is Portugal's second city and the commercial and cultural capital of northern Portugal, hosting a growing financial services and technology sector in the Boavista district alongside luxury tourism and HNWI residential activity in Foz do Douro. The city's generally low crime rate for a western European city of its size, combined with targeted tourist-crime risks in the Ribeira heritage area and traffic risk on Porto's arterial roads, makes close protection a considered rather than routine requirement for most business visitors.
+This page is about the people who provide close protection in Porto: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Porto network holds a current PSP licence under Law No. 34/2013, and is assessed for local competence. It covers standard team configuration, the specific authority required for the rare armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Lei 34/2013 licensing framework
 
@@ -54,3 +54,5 @@ For principals with itineraries extending into the Douro Valley wine country, th
 The operational threat picture for Porto CPO work draws on PSP Crime Statistics 2024 and the ANSR (Autoridade Nacional de Seguranca Rodoviaria) 2024 road safety report. Licensing requirements are current under Lei n.o 34/2013 and Decreto-Lei n.o 35/2004 as at June 2026. EU services freedom provisions are current under Treaty on the Functioning of the European Union Article 56. Rates cited are indicative for the Porto market as at June 2026 and should be confirmed at time of enquiry.
 
 For complementary services, see our [Porto city page](/cities/porto/) and [bodyguard hire in Porto](/bodyguard-hire/porto/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Porto](/bodyguard-hire/porto/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Porto](/executive-protection/porto/).

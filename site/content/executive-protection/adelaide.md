@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Adelaide for a CPO with vehicle and operations controller support range from approximately AUD 800-1,480 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Adelaide presents an executive protection environment defined by a low risk profile and a regulatory framework under Security and Investigation Industry Act 1995 (SA), administered by Consumer and Business Services (CBS) SA. For senior executives and HNWI principals operating across Adelaide CBD (North Terrace, Rundle Street), North Adelaide, and Glenelg, a structured EP programme reduces the exposure that uncoordinated travel creates. FCDO advises normal precautions for Australia (2026); FCDO notes extreme summer heat as a health risk in South Australia from December to February. US State Department Level 1 (Exercise Normal Precautions) for Australia as of 2026.
+Executive protection in Adelaide is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against entertainment-precinct disorder and extreme-heat operational factors: advance work on venues and routes, a written risk assessment, an operations controller, and CBS-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Adelaide
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Adelaide must be licensed under Securi
 Adelaide's position in mining, defence, wine industry, and major events (WOMAD, Adelaide Fringe, LIV Golf) creates a specific EP operating context: principals in these sectors face both the ambient threat picture and sector-specific risks identified in the pre-travel assessment. The threat picture (low. SAPOL Crime Statistics 2024 record low overall crime in the CBD and North Adelaide; Hindley Street after 22:00 on weekends is the primary elevated-risk zone.) informs route planning, advance work, and situational-awareness protocols for every engagement.
 
 For related security services in Adelaide, see our [Adelaide city page](/cities/adelaide/), [security drivers in Adelaide](/security-drivers/adelaide/), and [bodyguard hire in Adelaide](/bodyguard-hire/adelaide/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Adelaide](/bodyguard-hire/adelaide/). For the operators who staff the programme and how they are vetted, see [close protection officers in Adelaide](/close-protection-officers/adelaide/).

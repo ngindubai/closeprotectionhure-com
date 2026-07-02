@@ -35,7 +35,7 @@ faqs:
     answer: "The CPO positions inside Belgrade Nikola Tesla Airport (BEG) arrivals before the principal clears baggage claim. A pre-departure vehicle check is conducted. The BEG-to-city transfer takes 25 to 40 minutes. For principals with elevated threat profiles, counter-surveillance protocol is applied from the arrivals hall through the transfer to the principal's hotel."
 ---
 
-Close protection officer deployment in Belgrade is governed by Serbia's Law on Private Security Activity (Official Gazette of RS No. 104/2013) framework. Our Belgrade CPO teams cover Belgrade Nikola Tesla Airport (BEG) arrivals and departures, Stari Grad and Novi Beograd (New Belgrade) corporate meetings, and Dedinje and Uzicka street corridor government and diplomatic engagements. Low-visibility operational profile is the standard for corporate assignments.
+This page is about the people who provide close protection in Belgrade: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Belgrade network holds an MUP licence under Serbia's Law on Private Security, and is assessed for local competence. It covers standard team configuration, the specific MUP authorisation required for the uncommon armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Serbia regulatory context
 
@@ -44,3 +44,5 @@ All Belgrade CPO operators hold current Serbia credentials under Law on Private 
 ## Complementary Belgrade services
 
 For the full Belgrade security picture, see the [Belgrade city briefing](/cities/belgrade/) and [secure airport transfers in Belgrade](/secure-airport-transfers/belgrade/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Belgrade](/bodyguard-hire/belgrade/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Belgrade](/executive-protection/belgrade/).

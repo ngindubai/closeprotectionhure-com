@@ -35,6 +35,8 @@ faqs:
     answer: "Yes. Naples CPO operations cover the broader Campania region including Capri, the Amalfi Coast, Positano, Ravello, and Pompeii. For Capri, CPO cover includes jetty collection on arrival from the Naples hydrofoil or private tender, villa and hotel coverage, and return transfer coordination. For Amalfi Coast movements, the SS163 road requires specific driver expertise and is planned as part of the CPO route assessment."
 ---
 
-Naples is the gateway to Campania, the Amalfi Coast, and Capri, which together constitute one of Italy's most significant HNWI leisure and event destinations. The city's organised crime background (Camorra) is primarily a commercial due diligence concern rather than a direct personal threat for international visitors. Petty crime, scooter-borne theft, and the specific road management challenge of the Amalfi Coast are the primary operational concerns. GPG licensing from the Prefettura di Napoli governs all CPO operators in the region.
+Hiring a bodyguard in Naples is typically about organised-crime awareness alongside terrorism awareness and petty crime rather than a single dominant threat. This page covers how close protection hire works in Italy, what a GPG-qualified officer does across a day of movements, and how quickly cover is arranged. Armed cover requires Prefettura authorisation under TULPS, so hire pairs a qualified officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 For the Naples city security overview and threat profile, see our [Naples city page](/cities/naples/). For broader southern Italy CPO context, see our [Rome bodyguard hire page](/bodyguard-hire/rome/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Naples](/executive-protection/naples/). To check the credentials and vetting behind the officers, see [close protection officers in Naples](/close-protection-officers/naples/).

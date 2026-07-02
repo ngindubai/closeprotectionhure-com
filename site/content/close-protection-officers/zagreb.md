@@ -37,8 +37,10 @@ faqs:
     answer: "A CPO deployment in Zagreb includes: advance work (threat assessment, venue and hotel surveys, route pre-surveys from ZAG), airport transfer protocol at Franjo Tudman International Airport (ZAG), principal briefing on the Croatia operational environment, vetted transport for all movements, and documented emergency response planning including medevac to Vienna or Ljubljana."
 ---
 
-Zagreb is the capital of Croatia, a low-risk operating environment for close protection deployments. Zagreb is a low-ambient-risk EU capital with Croatia Police statistics (2025) recording low rates of petty crime and negligible serious violence in the city centre. FCDO advises normal precautions for Croatia (2026); US State Dept Level 1 (2026). CPO deployments are driven by the principal's profile and sector; ongoing earthquake reconstruction in the Gornji Grad area adds a logistical consideration to advance route planning.
+This page is about the people who provide close protection in Zagreb: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Zagreb network is certified under Croatia's Private Security Act by the Ministry of the Interior, and is assessed for local competence. It covers standard team configuration, the specific authorisation required for the uncommon armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 CPO deployments in Zagreb serve EU institutional representatives, energy sector executives, infrastructure investors, and regional corporate leadership visiting Croatia. Teams are built around Croatian Ministry of Interior-licensed local operators with internationally trained close protection officers, with Franjo Tudman International Airport (ZAG) protocols and secure principal movement as the core operational components. Emergency response planning includes confirmed medevac capability to Vienna or Ljubljana.
 
 For further context, see the [Zagreb city security briefing](/cities/zagreb/) and the [bodyguard hire service for Zagreb](/bodyguard-hire/zagreb/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Zagreb](/bodyguard-hire/zagreb/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Zagreb](/executive-protection/zagreb/).

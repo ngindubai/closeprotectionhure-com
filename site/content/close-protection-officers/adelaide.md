@@ -35,7 +35,7 @@ faqs:
     answer: "Foreign security operators must hold a South Australia CBS licence for commercial work. Australian citizens and permanent residents from other states must obtain an SA-specific CBS licence even if licensed in another state. Clients should confirm the operating structure and licensing status of any proposed CPO arrangement before travel, particularly for cross-border itineraries."
 ---
 
-Adelaide is a low-risk environment for close protection operations, drawing on SAPOL Crime Statistics 2024 and FCDO advises normal precautions for Australia (2026); FCDO notes extreme summer heat as a health risk in South Australia from December to February. US State Department Level 1 (Exercise Normal Precautions) for Australia as of 2026. For HNWI principals and senior executives operating across Adelaide CBD (North Terrace, Rundle Street), North Adelaide, and Glenelg, licensed CPO cover provides a materially different standard of personal protection from uncoordinated or unlicensed alternatives.
+This page is about the people who provide close protection in Adelaide: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Adelaide network holds a current CBS licence under South Australia's Security and Investigation Industry Act 1995, and is assessed for local competence. It covers standard team configuration, additional licensing required for the armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Australia licensing framework
 
@@ -50,3 +50,5 @@ A Adelaide CPO detail typically begins with pre-advance work at the principal's 
 The operations controller function maintains a real-time timeline and holds emergency contact protocols for Royal Adelaide Hospital (08-7074-0000), Flinders Medical Centre (08-8204-5511), and local emergency services (000).
 
 For complementary services, see our [Adelaide city page](/cities/adelaide/) and [bodyguard hire in Adelaide](/bodyguard-hire/adelaide/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Adelaide](/bodyguard-hire/adelaide/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Adelaide](/executive-protection/adelaide/).

@@ -35,6 +35,8 @@ faqs:
     answer: "Emergency number: 112. Primary facility: Centro Hospitalar Universitario de Sao Joao (225-512-100). Medical routing to the nearest appropriate hospital is pre-planned, CPOs hold current first-aid certification, and medical evacuation routing is built into the operation order before deployment."
 ---
 
-Porto is a low-risk environment for close protection deployments. For HNWI principals and corporate executives visiting Boavista, Foz do Douro, and the Exponor convention precinct, vetted bodyguards licensed under Law No. 34/2013 on private security activities (PSP Portugal) provide a materially different standard of personal protection from unvetted alternatives. The local police crime data informs route planning and counter-surveillance protocols applied on Porto's principal movement corridors.
+Hiring a bodyguard in Porto is typically about pickpocketing and nightlife-related disorder rather than violent crime, which is low. This page covers how close protection hire works in Portugal, what a PSP-licensed officer does across a day of movements, and how quickly cover is arranged. Armed cover is not generally permitted without specific authority, so hire pairs a licensed officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 Detailed city context, including threat analysis and zone-by-zone risk notes, is available on the [Porto city page](/cities/porto/). For transport security, see our [vetted security drivers in Porto](/security-drivers/porto/). For regional coverage, see our [bodyguard hire in Lisbon](/bodyguard-hire/lisbon/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Porto](/executive-protection/porto/). To check the credentials and vetting behind the officers, see [close protection officers in Porto](/close-protection-officers/porto/).
