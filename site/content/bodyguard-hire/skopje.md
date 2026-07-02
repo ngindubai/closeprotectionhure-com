@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency procedures for Skopje deployments must be established before the principal arrives. The close protection plan must specify: police contact protocol (emergency number: confirm locally), nearest medical facility (General Hospital Skopje (8th September)), medevac pre-authorisation to Belgrade or Vienna, communications backup if primary network fails, and crisis comms protocol for the principal's organisation. Medevac insurance pre-authorisation is a non-negotiable requirement for any Skopje deployment."
 ---
 
-Skopje requires a close protection approach calibrated to its low risk rating and the specific characteristics of North Macedonian EU accession and organised crime environment. Fcdo advises a high degree of caution; us state dept level 2 (2026).
+Hiring a bodyguard in Skopje is usually tied to a specific visit, where organised crime and historical ethnic tensions shape the plan alongside political demonstrations. This page covers how close protection hire works in North Macedonia, what a Ministry of Interior authorised operator does across a day of movements, and how quickly cover is arranged. Commercial deployments typically involve unarmed protection, so hire pairs an authorised officer with secure transport, scaled to the itinerary.
 
 For corporate and high-net-worth principals visiting Skopje, the standard bodyguard hire deployment includes a vetted security driver for all airport and city movements, advance work covering hotel and venue security surveys, and mobile close protection calibrated to the principal's individual threat profile. All close protection officers deployed in North Macedonia must hold licensing from the Ministry of Interior of North Macedonia. Medical evacuation pre-arrangement to Belgrade or Vienna is a mandatory component of any Skopje protective deployment.
 
 For regional security context, see our [Tirana security briefing](/cities/tirana/) and our [bodyguard hire services in Sarajevo](/bodyguard-hire/sarajevo/). See also our [Skopje city security briefing](/cities/skopje/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Skopje](/executive-protection/skopje/). To check the credentials and vetting behind the officers, see [close protection officers in Skopje](/close-protection-officers/skopje/).

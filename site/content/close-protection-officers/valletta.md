@@ -37,8 +37,10 @@ faqs:
     answer: "A CPO deployment in Valletta includes: advance work (threat assessment, venue and hotel surveys, route pre-surveys from MLA), airport transfer protocol at Malta International Airport (MLA), principal briefing on the Malta operational environment, vetted transport for all movements, and documented emergency response planning including medevac to Rome or London."
 ---
 
-Valletta is the capital of Malta, a low-risk operating environment for close protection deployments. Valletta is one of Europe's lowest-risk operating environments for close protection. The primary driver for CPO deployment in Malta is the principal's own profile -- senior iGaming executives, financial sector C-suite visiting MFSA-regulated operations, or HNW individuals arriving by private yacht at Grand Harbour -- rather than the national ambient threat level. The FCDO advises normal precautions for Malta (2026); US State Dept Level 1 (2026).
+This page is about the people who provide close protection in Valletta: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Valletta network holds a licence under Malta's Private Guards and Local Wardens Act, with background vetting by the Security Services Authority, and is assessed for local competence. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 CPO deployments in Valletta serve financial services, iGaming, and EU agency principals requiring discreet personal protection in a low-ambient-risk EU environment. Teams are built around Malta Police Force-licensed local operators with internationally trained close protection officers, with Malta International Airport (MLA) protocols and secure principal movement as the core operational components. Emergency response planning includes confirmed medevac capability to Rome or London.
 
 For further context, see the [Valletta city security briefing](/cities/valletta/) and the [bodyguard hire service for Valletta](/bodyguard-hire/valletta/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Valletta](/bodyguard-hire/valletta/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Valletta](/executive-protection/valletta/).

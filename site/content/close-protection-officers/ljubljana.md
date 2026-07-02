@@ -37,8 +37,10 @@ faqs:
     answer: "A CPO deployment in Ljubljana includes: advance work (threat assessment, venue and hotel surveys, route pre-surveys from LJU), airport transfer protocol at Ljubljana Joze Pucnik Airport (LJU), principal briefing on the Slovenia operational environment, vetted transport for all movements, and documented emergency response planning including medevac to Vienna or Milan."
 ---
 
-Ljubljana is the capital of Slovenia, a low-risk operating environment for close protection deployments. Ljubljana is consistently rated one of Europe's safest capitals, with Slovenian Police statistics (2025) recording very low rates of petty theft and negligible serious crime in the city centre. FCDO advises normal precautions for Slovenia (2026); US State Dept Level 1 (2026). CPO deployments in Ljubljana are driven by the principal's individual profile rather than the ambient environment.
+This page is about the people who provide close protection in Ljubljana: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Ljubljana network is registered under Slovenia's Private Security Act (ZZasV-1) by the Ministry of the Interior, and is assessed for local competence. It covers standard team configuration, the uncommon basis for armed cover, and the credential checks a buyer should insist on before engaging any officer.
 
 CPO deployments in Ljubljana serve pharmaceutical sector C-suite, EU institutional delegates, medical congress VIPs, and regional corporate leadership. Teams are built around General Police Directorate of Slovenia-licensed local operators with internationally trained close protection officers, with Ljubljana Joze Pucnik Airport (LJU) protocols and secure principal movement as the core operational components. Emergency response planning includes confirmed medevac capability to Vienna or Milan.
 
 For further context, see the [Ljubljana city security briefing](/cities/ljubljana/) and the [bodyguard hire service for Ljubljana](/bodyguard-hire/ljubljana/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Ljubljana](/bodyguard-hire/ljubljana/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Ljubljana](/executive-protection/ljubljana/).

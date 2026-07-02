@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency procedures for Tirana deployments must be established before the principal arrives. The close protection plan must specify: police contact protocol (emergency number: confirm locally), nearest medical facility (QSUT (Qendra Spitalore Universitare Nene Tereza)), medevac pre-authorisation to Vienna or Rome, communications backup if primary network fails, and crisis comms protocol for the principal's organisation. Medevac insurance pre-authorisation is a non-negotiable requirement for any Tirana deployment."
 ---
 
-Tirana requires a close protection approach calibrated to its medium risk rating and the specific characteristics of Albanian organised crime and EU accession environment. Fcdo advises a high degree of caution; us state dept level 2 (2026).
+Hiring a bodyguard in Tirana is usually tied to a specific visit, where organised crime and the country's blood-feud (gjakmarrja) tradition shape the plan alongside corruption-related rule-of-law risk. This page covers how close protection hire works in Albania, what a DPSH-licensed operative does across a day of movements, and how quickly cover is arranged. Hire pairs a licensed officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 For corporate and high-net-worth principals visiting Tirana, the standard bodyguard hire deployment includes a vetted security driver for all airport and city movements, advance work covering hotel and venue security surveys, and mobile close protection calibrated to the principal's individual threat profile. All close protection officers deployed in Albania must hold licensing from the General Directorate of the State Police (DPSH). Medical evacuation pre-arrangement to Vienna or Rome is a mandatory component of any Tirana protective deployment.
 
 For regional security context, see our [Podgorica security briefing](/cities/podgorica/) and our [bodyguard hire services in Sarajevo](/bodyguard-hire/sarajevo/). See also our [Tirana city security briefing](/cities/tirana/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Tirana](/executive-protection/tirana/). To check the credentials and vetting behind the officers, see [close protection officers in Tirana](/close-protection-officers/tirana/).

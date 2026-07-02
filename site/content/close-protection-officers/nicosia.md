@@ -37,8 +37,10 @@ faqs:
     answer: "A CPO deployment in Nicosia includes: advance work (threat assessment, venue and hotel surveys, route pre-surveys from LCA), airport transfer protocol at Larnaca International Airport (LCA), principal briefing on the Cyprus operational environment, vetted transport for all movements, and documented emergency response planning including medevac to Athens or Tel Aviv."
 ---
 
-Nicosia is the capital of Cyprus, a low-risk operating environment for close protection deployments. Nicosia's principal security consideration is its unique geography as Europe's only divided capital. The UN-administered Green Line buffer zone bisects the city; crossing outside designated points is a criminal offence under Cyprus law. The Republic of Cyprus section -- where all legitimate commercial operations occur -- is a low-risk EU environment. FCDO advises normal precautions for the ROC (2026); US State Dept Level 1 (2026).
+This page is about the people who provide close protection in Nicosia: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Nicosia network is licensed and vetted under Cyprus's Private Security Services Law by the Cyprus Police, and is assessed for local competence. It covers standard team configuration, the uncommon basis for armed cover, and the credential checks a buyer should insist on before engaging any officer.
 
 CPO deployments in Nicosia serve CySEC-regulated financial sector principals, legal sector C-suite, diplomatic mission personnel, and HNW individuals maintaining Cypriot EU residency. Teams are built around Cyprus Police-licensed local operators with internationally trained close protection officers, with Larnaca International Airport (LCA) protocols and secure principal movement as the core operational components. Emergency response planning includes confirmed medevac capability to Athens or Tel Aviv.
 
 For further context, see the [Nicosia city security briefing](/cities/nicosia/) and the [bodyguard hire service for Nicosia](/bodyguard-hire/nicosia/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Nicosia](/bodyguard-hire/nicosia/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Nicosia](/executive-protection/nicosia/).

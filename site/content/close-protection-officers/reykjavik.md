@@ -35,7 +35,7 @@ faqs:
     answer: "The CPO positions inside Keflavik International Airport (KEF) arrivals before the principal clears baggage claim. A pre-departure vehicle check is conducted before the principal exits the terminal. The KEF-to-Reykjavik transfer takes 45 to 60 minutes (approximately 50km), the longest airport-to-city transfer of any major European destination. This extended transfer is incorporated into route planning and counter-surveillance protocol for principals with elevated threat profiles."
 ---
 
-Close protection officer deployment in Reykjavik is governed by Iceland's Act no. 35/2008 on Security Services (as amended), with licensing administered by the National Police Commissioner (Rikislögreglustjórinn). Our Reykjavik CPO teams cover Keflavik International Airport (KEF) arrivals and departures, noting the unusually long 50km transfer to the city centre, Reykjavik City Centre corporate meetings, and Harpa Conference and Concert Hall engagements. Iceland's Global Peace Index 2025 top ranking is reflected in the operational profile, though the KEF transfer distance remains a specific planning consideration.
+This page is about the people who provide close protection in Reykjavik: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Reykjavik network holds a licence under Iceland's Act on Security Services, and is assessed for local competence. It covers standard team configuration, the fully unarmed model given Iceland's restrictive firearms laws, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Iceland regulatory context
 
@@ -44,3 +44,5 @@ All Reykjavik CPO operators hold current Iceland credentials under Act no. 35/20
 ## Complementary Reykjavik services
 
 For the full Reykjavik security picture, see the [Reykjavik city briefing](/cities/reykjavik/) and [secure airport transfers in Reykjavik](/secure-airport-transfers/reykjavik/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Reykjavik](/bodyguard-hire/reykjavik/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Reykjavik](/executive-protection/reykjavik/).

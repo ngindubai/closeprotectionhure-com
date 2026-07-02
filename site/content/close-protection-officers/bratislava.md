@@ -37,8 +37,10 @@ faqs:
     answer: "A CPO deployment in Bratislava includes: advance work (threat assessment, venue and hotel surveys, route pre-surveys from BTS), airport transfer protocol at Milan Rastislav Stefanik Airport (BTS), principal briefing on the Slovakia operational environment, vetted transport for all movements, and documented emergency response planning including medevac to Vienna or Prague."
 ---
 
-Bratislava is the capital of Slovakia, a low-risk operating environment for close protection deployments. Bratislava is a low-ambient-risk EU and NATO capital where Slovak Police statistics (2025) record low rates of petty crime and manageable serious crime levels. FCDO advises normal precautions for Slovakia (2026); US State Dept Level 1 (2026). The May 2024 assassination attempt on Prime Minister Fico is relevant context for events involving Slovak political figures.
+This page is about the people who provide close protection in Bratislava: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Bratislava network holds a ministerial licence under Slovakia's Private Security Act, and is assessed for local competence. It covers standard team configuration, the specific authorisation required for the armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 CPO deployments in Bratislava serve automotive sector C-suite, financial services executives, government-adjacent principals, and international delegates arriving via Vienna Airport. Teams are built around Bureau of Security Service Oversight (USOO), Ministry of Interior-licensed local operators with internationally trained close protection officers, with Milan Rastislav Stefanik Airport (BTS) protocols and secure principal movement as the core operational components. Emergency response planning includes confirmed medevac capability to Vienna or Prague.
 
 For further context, see the [Bratislava city security briefing](/cities/bratislava/) and the [bodyguard hire service for Bratislava](/bodyguard-hire/bratislava/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Bratislava](/bodyguard-hire/bratislava/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Bratislava](/executive-protection/bratislava/).

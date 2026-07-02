@@ -35,7 +35,7 @@ faqs:
     answer: "Bern-Belp Airport (BRN) handles regional and some international routes. Most long-haul travellers use Zurich Airport (ZRH), approximately 90 minutes by road or rail. We provide airport transfers and secure collection from both airports."
 ---
 
-Bern is Switzerland's federal capital and one of Europe's most stable and secure cities. As the seat of the Federal Council and a hub for international organisations, embassies, and multilateral diplomatic activity, Bern attracts a specific category of principal who requires discreet, protocol-aware close protection rather than a high-visibility security presence.
+Hiring a bodyguard in Bern is typically about protest-related corporate targeting and digital-security exposure rather than violent street crime, which is low. This page covers how close protection hire works in Canton Bern, what an operator licensed under the inter-cantonal Concordat does across a day of movements, and how quickly cover is arranged. Private security operates almost exclusively unarmed, so hire pairs an officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 The day-to-day violent crime rate in Bern is exceptionally low, even by Western European standards. The primary concerns for visiting executives and diplomats are reputational: unwanted media attention at sensitive negotiations, surveillance by rival commercial or state-affiliated actors, and the occasional low-level harassment associated with political protests. A well-briefed protection team mitigates these concerns without drawing additional attention to the principal.
 
@@ -44,3 +44,5 @@ Our Bern-based officers operate under Kantonspolizei Bern registration and the C
 For executives attending Swiss federal government meetings, international arbitration, or private finance functions, we configure details to match the formality and discretion expected in this environment. Details typically operate in plain clothes, using low-profile vehicles, with a minimum visible footprint.
 
 Review the full city security profile at [/cities/bern/](/cities/bern/) and see our [security drivers in Bern](/security-drivers/bern/) for coordinated ground transport.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Bern](/executive-protection/bern/). To check the credentials and vetting behind the officers, see [close protection officers in Bern](/close-protection-officers/bern/).

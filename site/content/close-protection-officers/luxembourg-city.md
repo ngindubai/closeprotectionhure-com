@@ -35,7 +35,7 @@ faqs:
     answer: "The CPO positions inside Luxembourg Airport Findel (LUX) arrivals before the principal clears baggage claim. A pre-departure vehicle check is conducted. The LUX-to-city transfer takes 15 to 20 minutes (approximately 6km). For principals with elevated institutional profiles, counter-surveillance protocol is applied from the arrivals hall through the transfer to the principal's hotel or EU institution venue."
 ---
 
-Close protection officer deployment in Luxembourg City is governed by Luxembourg's Law of 12 November 2002 on private security, with licensing administered by the Grand Ducal Police (Police Grand-Ducale). Our Luxembourg City CPO teams cover Luxembourg Airport Findel (LUX) arrivals and departures, Kirchberg Plateau EU institutional venues, and Ville Haute corporate engagements. Despite Luxembourg City's very low ambient risk, the high density of senior EU and diplomatic principals on Kirchberg warrants dedicated professional close protection planning.
+This page is about the people who provide close protection in Luxembourg City: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Luxembourg City network is licensed under the 2002 gardiennage law by the Ministere de l'Interieur, and is assessed for local competence. It covers standard team configuration, the not-standard basis for armed cover, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Luxembourg regulatory context
 
@@ -44,3 +44,5 @@ All Luxembourg City CPO operators hold current Luxembourg credentials under the 
 ## Complementary Luxembourg City services
 
 For the full Luxembourg City security picture, see the [Luxembourg City briefing](/cities/luxembourg-city/) and [secure airport transfers in Luxembourg City](/secure-airport-transfers/luxembourg-city/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Luxembourg City](/bodyguard-hire/luxembourg-city/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Luxembourg City](/executive-protection/luxembourg-city/).
