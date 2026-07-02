@@ -37,7 +37,7 @@ faqs:
     answer: "Foreign close protection personnel may operate in an unarmed advisory capacity alongside Cameroonian licensed operators. Armed security must be provided by MINAT-licensed Cameroonian operators. All commercial security activity requires the operating company to hold MINAT licensing regardless of the nationality of individual CPOs."
 ---
 
-Close protection officer deployment in Yaounde operates within Cameroon's MINAT licensing framework and addresses the city's documented robbery and kidnapping risk for international oil-sector executives, diplomatic personnel, and senior NGO staff. The Bastos diplomatic district and the Hilton Yaounde provide the most manageable operating base, but consistent vehicle-based movement management, a structured airport arrival protocol for the 25km Nsimalen transfer, and operations controller oversight are required for all principals at these levels.
+This page is about the people who provide close protection in Yaounde: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Yaounde network holds MINAT authorisation, with individual guard police registration, and is assessed for local competence. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Yaounde MINAT licensing framework
 
@@ -48,3 +48,5 @@ Cameroon's Ministere de l'Administration Territoriale (MINAT) administers privat
 The dominant CPO function in Yaounde is physical security: robbery and kidnapping management through route planning, hotel pre-advance, and tactical management of all vehicle transitions. The 25km Nsimalen Airport transfer is the most structurally significant movement on any Yaounde engagement.
 
 For complementary services in Yaounde, see our [Yaounde city page](/cities/yaounde/) and [event security in Yaounde](/event-security/yaounde/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Yaounde](/bodyguard-hire/yaounde/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Yaounde](/executive-protection/yaounde/).

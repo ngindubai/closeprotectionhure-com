@@ -35,7 +35,7 @@ faqs:
     answer: "A pre-advance in Yaounde covers the Nsimalen airport transfer route, the principal's Bastos accommodation, and all confirmed meeting venues. It is essential because of the close proximity of Yaounde's workable operating zones to higher-risk outer areas, and because any proposed regional travel element must be flagged and assessed separately at a significantly higher risk tier. The advance also confirms that MINAT-authorised operators are available for the specific deployment dates, given the smaller pool of compliant providers in Cameroon."
 ---
 
-Yaounde's executive protection environment requires planning across two distinct risk layers: the capital city security environment, which is manageable within the Bastos diplomatic district with professional EP; and the broader Cameroon regional context, in which three separate regions carry FCDO Level 4 (do not travel) status and Boko Haram terrorism and Anglophone separatist conflict are active threats. FCDO Cameroon advice (2024) advises a high degree of caution throughout the country, and the US State Department designates Cameroon as Level 3 (2026). Executives whose itineraries remain within Yaounde can be managed with a professional EP programme; those whose visits extend to regional locations require a separate and significantly enhanced security plan.
+Executive protection in Yaounde is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against regional terrorism and Anglophone-conflict spillover risk: advance work on venues and routes, a written threat assessment, an operations controller, and MINAT-authorised secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## MINAT licensing and Cameroon compliance
 
@@ -46,3 +46,5 @@ EP companies must hold MINAT (Ministry of Territorial Administration) authorisat
 A Yaounde EP programme covers pre-advance of the Nsimalen transfer route and all confirmed venues, two-vehicle formation for movements outside the Bastos and Centre Ville corridors, counter-surveillance from airport collection, kidnap-avoidance protocols, and a crisis response plan with Nsimalen extraction as the primary option. Regional itinerary elements require a separate, enhanced security plan.
 
 For the full Yaounde security picture, see the [Yaounde city briefing](/cities/yaounde/) and [close protection officers in Yaounde](/close-protection-officers/yaounde/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Yaounde](/bodyguard-hire/yaounde/). For the operators who staff the programme and how they are vetted, see [close protection officers in Yaounde](/close-protection-officers/yaounde/).

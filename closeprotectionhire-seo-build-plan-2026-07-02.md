@@ -595,6 +595,13 @@ Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** wi
 - **Verification:** build clean (0 errors); all 10 cities' three siblings confirmed distinct (a loose grep pattern for N'Djamena's apostrophe initially over-matched at 5; precise string check confirmed exactly 1, false alarm); QA gate clean.
 - **Status:** committed + pushed to `master` (deploys). **245 of 278 bodyguard-hire cities now differentiated (~88% of the network).**
 
+### 2026-07-02 — Batch 5 (sub-batch 26 of N): Differentiation rollout, 10 more cities [SONNET, model already locked]
+- **Cities (10):** antananarivo, asmara, lilongwe, mbabane, maseru, bujumbura, yaounde, ibadan, kano, port-harcourt. **Files: 30.**
+- **Asmara adaptation (2nd structural-market instance, joining Havana):** existing page states Eritrea "has no independent private security sector" and delivers cover as "a discreet, low-profile, unarmed service" built around counter-surveillance planning — adapted all three ledes to reflect this honestly rather than a standard transactional opener, while preserving the three distinct silo angles.
+- Standard treatment for the other 9 (72–82 words, citing Madagascar national framework, Malawi Police Service, Eswatini national legislation, Lesotho Mounted Police, Burundi MoI, Cameroon MINAT, and 3 distinct NSCDC-Nigeria angles — Ibadan: communal violence/Oyo State; Kano: Boko Haram spillover/NSCDC Kano Command; Port Harcourt: piracy/oil-sector militancy) + sibling cross-links.
+- **Verification:** build clean (0 errors); all 10 cities' three siblings confirmed distinct; QA gate clean.
+- **Status:** committed + pushed to `master` (deploys). **255 of 278 bodyguard-hire cities now differentiated (~92% of the network).**
+
 ### 2026-07-02 — Deploy + branch-rule change (owner instruction)
 - Owner directed all work to go live and to build on the deploy branch. Corrected a misdirection first: the owner said "build on the live branch," but `live` is the auto-generated compiled-output branch (force-pushed by CI, never hand-edited). The real deploy branch is `master`.
 - **Action:** fast-forward-merged the 10-commit feature branch `claude/close-protection-seo-audit-0yjirj` into `master` (0 divergence, no conflicts) and pushed `master`, triggering `build-and-publish.yml` → Hugo build → publish `site/public` to `live` → Hostinger deploy.

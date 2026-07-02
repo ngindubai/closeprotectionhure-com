@@ -37,7 +37,7 @@ faqs:
     answer: "Boat movement to Bonny Island, offshore platforms, or Delta waterway locations requires a separate specific security assessment and armed maritime escort. Piracy and armed robbery on Delta waterways is documented in Nigerian Navy reporting. A standard ground-based CPO detail does not cover waterway movement: it requires specific planning, armed maritime operators, and a separately documented emergency plan for the waterway element of the assignment."
 ---
 
-Port Harcourt is the operational centre for Nigeria's oil and gas industry and the hub for Shell, TotalEnergies, Eni, and NNPCL's Niger Delta operations. Close protection officer demand in Port Harcourt reflects one of West Africa's most demanding security environments: kidnapping rates in Rivers State are among the highest in the region, oil sector personnel are specifically targeted by criminal networks as high-value subjects, and movement outside the GRA security zone requires consistent armed support.
+This page is about the people who provide close protection in Port Harcourt: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Port Harcourt network holds an NSCDC licence, publicly verifiable via the NSCDC register, with individual armed-guard registration, and is assessed for oil-sector-specific competence. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 ## The NSCDC regulatory framework
 
@@ -46,3 +46,5 @@ Nigeria Security and Civil Defence Corps (NSCDC) licensing under the Private Gua
 ## CPO operations in Port Harcourt
 
 Armed NSCDC-licensed CPO, unpredictable movement patterns with randomised routing, inside-terminal airport collection at Port Harcourt International Airport, operations controller support, waterway movement planning when required, and a written emergency plan with pre-confirmed medical and consular contacts. For the full Port Harcourt risk picture, see our [Port Harcourt city page](/cities/port-harcourt/) and [bodyguard hire in Port Harcourt](/bodyguard-hire/port-harcourt/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Port Harcourt](/bodyguard-hire/port-harcourt/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Port Harcourt](/executive-protection/port-harcourt/).

@@ -37,7 +37,7 @@ faqs:
     answer: "Lesotho's history of coup attempts and military intervention (most recently 2014 and 2017) means that political monitoring is a standard brief element for all Maseru CPO assignments. The current environment requires awareness of protest activity and military movement near the royal palace and government quarter. CPO assignments in Maseru include current FCDO and US State Department advisory monitoring and a clear escalation protocol if political deterioration is detected. Source: FCDO Lesotho travel advice, 2026."
 ---
 
-Maseru close protection operations address the LMPS licensing framework, Maseru Bridge border crossing logistics, and the dual requirements of diamond sector highland assignments and development finance visits in a politically monitored environment.
+This page is about the people who provide close protection in Maseru: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Maseru network holds appropriate national licensing, and is assessed for local competence. It covers standard team configuration, coordination with the Lesotho Mounted Police, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Maseru
 
@@ -46,3 +46,5 @@ Lesotho's security environment is shaped by periodic political instability, an e
 ## Planning framework for Maseru CPO assignments
 
 Pre-deployment planning covers the MSU airport transfer or Maseru Bridge road approach from Johannesburg, Maseru city movement map, highland remote site protocol for Letseng, medevac to Johannesburg, altitude risk protocol, and team configuration. For the full Maseru security picture, see our [Maseru city briefing](/cities/maseru/). For development finance coordination meetings or mining sector events in Maseru, [event security in Maseru](/event-security/maseru/) covers venue access and delegate management.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Maseru](/bodyguard-hire/maseru/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Maseru](/executive-protection/maseru/).

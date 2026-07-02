@@ -33,7 +33,7 @@ faqs:
     answer: "The medical plan for every Kano assignment includes the best available local medical facility for initial stabilisation and, where local capability is limited, evacuation routing to the nearest internationally accredited hospital. Medevac provider contacts are confirmed active before the principal's arrival. Medical evacuation insurance is the baseline requirement."
 ---
 
-Bodyguard hire in Kano operates within Nigeria's licensing framework, with close protection officers drawn from a vetted partner network holding valid national security authorisation.
+Hiring a bodyguard in Kano is usually tied to a specific visit, where Boko Haram spillover terrorism and intercommunal violence shape the plan more than routine crime. This page covers how close protection hire works in northern Nigeria, what an NSCDC Kano State Command licensed officer does across a day of movements, and how quickly cover is arranged. Armed CPO is the appropriate standard given the elevated threat, so hire pairs an armed officer with secure transport, scaled to the itinerary.
 
 ## The Kano security environment
 
@@ -44,3 +44,5 @@ The current security environment in Kano requires a bodyguard programme calibrat
 A Kano bodyguard programme covers airport transfers with inside-terminal collection, accommodation in vetted properties in the primary security zone, in-city movement with pre-planned routes and operations controller tracking, and a documented emergency action plan with medevac provisions.
 
 For the full Kano security picture, see our [Kano city briefing](/cities/kano/). For principals requiring security drivers, [security drivers in Kano](/security-drivers/kano/) covers the Nigeria programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Kano](/executive-protection/kano/). To check the credentials and vetting behind the officers, see [close protection officers in Kano](/close-protection-officers/kano/).

@@ -37,7 +37,7 @@ faqs:
     answer: "For most corporate assignments confined to the Mbabane-Manzini corridor, CPO cover is precautionary: the ambient crime risk is low by southern African standards. FCDO advises normal travel precautions for Eswatini; the US State Department rates Eswatini at Level 1. The primary considerations are political monitoring (monarchy context and protest risk) and airport transfer logistics rather than acute street crime risk. Source: FCDO Eswatini travel advice, 2026."
 ---
 
-Mbabane close protection operations address the REPS licensing framework, the MTS and SHO airport transfer corridors, and the specific protocol requirements of operating in an absolute monarchy with active political monitoring.
+This page is about the people who provide close protection in Mbabane: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Mbabane network holds licensing under Eswatini's national security legislation, and is assessed for local competence. It covers standard team configuration, the restriction on foreign nationals carrying weapons, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Mbabane
 
@@ -46,3 +46,5 @@ Eswatini's security environment is shaped by its absolute monarchy structure, th
 ## Planning framework for Mbabane CPO assignments
 
 Pre-deployment planning covers the MTS or SHO airport transfer selection, Mbabane-Manzini corridor movement map, political monitoring briefing, medevac to Johannesburg, and team configuration. For the full Mbabane security picture, see our [Mbabane city briefing](/cities/mbabane/). For corporate events and agricultural sector meetings in Eswatini, [event security in Mbabane](/event-security/mbabane/) covers venue access and delegate coordination.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Mbabane](/bodyguard-hire/mbabane/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Mbabane](/executive-protection/mbabane/).

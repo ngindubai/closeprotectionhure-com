@@ -37,7 +37,7 @@ faqs:
     answer: "Remote site CPO cover for Ambatovy (Toamasina corridor), QMM Fort Dauphin, or highland sites requires a separate route and operational assessment beyond the standard Antananarivo city protocol. Remote assignments use convoy configuration, satellite communication, road condition assessment, and coordination with local Gendarmerie posts. The scope and team configuration for remote site assignments is confirmed with the client and the relevant mine-site security lead before deployment."
 ---
 
-Antananarivo close protection operations address the Ministry of Interior licensing framework, the 14km TNR airport corridor, and the dual demands of mining sector and NGO assignments that define Madagascar's international visitor community.
+This page is about the people who provide close protection in Antananarivo: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Antananarivo network holds national registration, and is assessed for local competence. It covers standard team configuration, the restriction on foreign nationals carrying weapons, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Antananarivo
 
@@ -48,3 +48,5 @@ The mining sector, NGO and development finance community, and a growing vanilla 
 ## Planning framework for Antananarivo CPO assignments
 
 Pre-deployment planning covers the TNR airport transfer protocol, Antananarivo movement map (prioritising Isoraka, Ivandry, Ankorondrano), medevac pathways to Reunion and Johannesburg, and team configuration assessment for the specific client sector. Remote site assessments for mining or project visits outside the capital are scoped separately. For the full Antananarivo security picture, see our [Antananarivo city briefing](/cities/antananarivo/). For organisations managing investor visits or coordination meetings in the capital, [event security in Antananarivo](/event-security/antananarivo/) covers venue assessment and access management.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Antananarivo](/bodyguard-hire/antananarivo/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Antananarivo](/executive-protection/antananarivo/).

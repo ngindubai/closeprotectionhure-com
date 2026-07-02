@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency numbers: 997 (police), Mwaiwathu Private Hospital: +265 1 756 888 (ambulance). Primary facility: Mwaiwathu Private Hospital (+265 1 756 888). Secondary: Lilongwe Central Hospital (+265 1 753 555). Medical routing is pre-planned; CPOs hold current first-aid certification."
 ---
 
-Bodyguard hire in Lilongwe addresses a moderate risk environment: Opportunistic crime, vehicle crime, and road safety risks. Malawi Police Service licensing under the Security Services Act is the regulatory baseline for all Lilongwe close protection engagements.
+Hiring a bodyguard in Lilongwe is usually tied to a specific visit, where carjacking and opportunistic crime shape the plan alongside the political and civil environment. This page covers how close protection hire works in Malawi, what a Malawi Police Service licensed operator does across a day of movements, and how quickly cover is arranged. The regulatory framework is less developed than in southern African capitals, so operator vetting matters; hire pairs a vetted officer with secure transport.
 
 Private security companies in Malawi must hold a licence from the Malawi Police Service. The regulatory market is smaller than in South Africa or Kenya; operator vetting and reference checking are important before engagement.
 
 Detailed city context is available on the [Lilongwe city page](/cities/lilongwe/). For transport security, see [vetted security drivers in Lilongwe](/security-drivers/lilongwe/). For regional coverage, see [bodyguard hire in Lusaka](/bodyguard-hire/lusaka/). Firearms: armed private security is available through malawi police service-licensed operators.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Lilongwe](/executive-protection/lilongwe/). To check the credentials and vetting behind the officers, see [close protection officers in Lilongwe](/close-protection-officers/lilongwe/).

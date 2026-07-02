@@ -35,7 +35,7 @@ faqs:
     answer: "Mining (Bisha mine - gold, copper, zinc under Zijin Mining), development finance institutions, diplomatic missions, and a small number of international NGOs are the primary users. All deployments account for Eritrea's surveillance environment and the absence of an independent private security sector."
 ---
 
-Asmara presents a close protection environment unlike any other in the region. The primary risk is not street crime or armed groups - it is the systematic surveillance of foreign nationals by one of the world's most authoritarian governments. Eritrea has no independent private security sector, and armed security for foreign visitors is not available through commercial operators. Close protection in Asmara is delivered as a discreet, low-profile, unarmed service built around counter-surveillance movement planning and behaviour protocols specific to Eritrea's operating environment.
+Asmara presents a close protection environment unlike any other in the region: the primary risk is not street crime but systematic state surveillance of foreign nationals. This page covers how close protection hire actually works here, since Eritrea has no independent private security sector and armed security is not available through commercial operators. Cover is delivered as a discreet, unarmed, low-profile service built around counter-surveillance movement planning specific to Eritrea's closed operating environment.
 
 FCDO rates Eritrea as a high-risk destination with documented arbitrary detention of foreign nationals. The US State Department rates the country at Level 3. Principals travelling to Asmara for mining-sector, diplomatic, or development-finance purposes receive a pre-travel briefing on communications security, photographic restrictions, and movement protocols before arrival.
 
@@ -44,3 +44,5 @@ For the full Asmara security picture, see our [Asmara city briefing](/cities/asm
 ## What low-profile close protection covers in Asmara
 
 A CPO deployed in Asmara provides discreet airport transfer from ASM, surveillance-aware route planning for all scheduled movements in the Harnet Avenue and Tiravolo corridor, behaviour briefings specific to the Eritrean surveillance environment, and emergency response planning including medevac coordination. All protection is unarmed and civilian-profile.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Asmara](/executive-protection/asmara/). To check the credentials and vetting behind the officers, see [close protection officers in Asmara](/close-protection-officers/asmara/).

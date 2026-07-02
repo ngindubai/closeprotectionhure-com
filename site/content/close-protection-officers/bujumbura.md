@@ -37,7 +37,7 @@ faqs:
     answer: "The operating company must provide its Burundi Ministry of Interior licence number, a list of individually authorised armed operators assigned to the deployment, and firearms authorisation documentation where armed escort is in scope. Burundi does not maintain a publicly accessible online CPO licence registry. Reference verification from prior international NGO or development sector clients operating in Bujumbura is the primary supplementary verification alongside the Ministry licence number. Source: FCDO Burundi travel advice, 2026; US State Dept Burundi Level 3 advisory, 2026."
 ---
 
-Bujumbura close protection operations are built around the Ministry of Interior licensing framework, the 11-kilometre BJM airport vulnerability corridor, and low-profile team configurations calibrated for the NGO and development finance sector that forms the primary international visitor community in Burundi's commercial capital.
+This page is about the people who provide close protection in Bujumbura: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Bujumbura network holds Ministry of Interior licensing, and is assessed for local competence. It covers standard team configuration, government authorisation for the tightly restricted armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Bujumbura
 
@@ -50,3 +50,5 @@ The NGO sector, bilateral development finance programmes, and a growing mining a
 Pre-deployment planning for Bujumbura covers the BJM airport transfer protocol, Rohero district movement map, DRC border zone avoidance confirmation, medical evacuation pathways to Nairobi and Kigali, and team configuration assessment for the specific client sector. The CPO assessment determines whether armed escort is appropriate given the client organisation's operating model and community perception requirements. Low-profile unarmed escort is the standard for most NGO and development finance assignments; armed escort is assessed separately for private sector and extractive sector principals.
 
 For the full Bujumbura security picture, see our [Bujumbura city briefing](/cities/bujumbura/). For organisations managing donor meetings, inter-agency workshops, or investor visits in the capital, [event security in Bujumbura](/event-security/bujumbura/) covers venue assessment and access management within the Rohero compound environment.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Bujumbura](/bodyguard-hire/bujumbura/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Bujumbura](/executive-protection/bujumbura/).

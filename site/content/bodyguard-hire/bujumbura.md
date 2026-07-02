@@ -35,7 +35,7 @@ faqs:
     answer: "Bujumbura International Airport is approximately 11 km from the city centre - a longer transfer than in most comparable cities in the region. This transfer route must be assessed in detail for street crime and robbery exposure, particularly for after-dark arrivals. Pre-deployment planning includes advance route reconnaissance and an alternative route protocol to reduce predictability on this specific leg."
 ---
 
-Bujumbura is the economic capital of Burundi, a country with a high risk profile shaped by the political violence of 2015, the documented abuses of the ruling CNDD-FDD and Imbonerakure, and proximity to the ongoing instability in eastern DRC. For mining-sector executives, NGO personnel, development-finance professionals, and diplomatic staff, a vetted, licensed close protection officer provides the appropriate operational baseline for working in this environment.
+Hiring a bodyguard in Bujumbura is usually tied to a specific visit, where political violence and governance risk shape the plan alongside DRC border tension and demonstration activity. This page covers how close protection hire works in Burundi, what a Ministry of Interior licensed operator does across a day of movements, and how quickly cover is arranged. Foreign nationals may not carry weapons, so armed cover is provided only through government-authorised operators, scaled to the itinerary.
 
 CPOs deployed in Bujumbura are licensed under Burundi's Ministry of Interior framework, experienced in the post-2015 operating environment, and briefed on current FCDO, US State Department, and UN Human Rights Council reporting before each assignment. The standard deployment model pairs a licensed CPO with a security-trained driver familiar with Bujumbura's secure movement corridors and the specific vulnerability of the 11 km airport transfer route.
 
@@ -44,3 +44,5 @@ For the full Bujumbura security picture, see our [Bujumbura city briefing](/citi
 ## What licensed close protection covers in Bujumbura
 
 A CPO team in Bujumbura provides secure airport transfers from BJM with advance route reconnaissance, route intelligence for all scheduled movements within the Rohero district and Kiriri residential area, hotel and compound security coordination, and on-ground accompaniment for business meetings. For mining-sector clients, the team coordinates with corporate security functions and advises on movement windows relative to current intelligence on street crime in the Kamenge, Bwiza, and Buyenzi areas.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Bujumbura](/executive-protection/bujumbura/). To check the credentials and vetting behind the officers, see [close protection officers in Bujumbura](/close-protection-officers/bujumbura/).

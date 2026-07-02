@@ -37,7 +37,7 @@ faqs:
     answer: "The British High Commission is located in Abuja, with a Deputy High Commission in Lagos. For British nationals, these are the primary consular contacts in an emergency. All Ibadan details include these contact numbers in the written emergency protocol, along with medical facility locations and MEDEVAC provider contacts."
 ---
 
-Ibadan is the capital of Oyo State and one of Nigeria's largest cities by population. As a major commercial hub in south-western Nigeria, it attracts executives from the agricultural, manufacturing, financial services, and research sectors. It is also, by international standards, a high-risk environment that demands professional security planning for any foreign business visitor.
+Hiring a bodyguard in Ibadan is usually tied to a specific visit, where armed robbery, kidnapping, and communal violence shape the plan alongside road safety risk. This page covers how close protection hire works in Oyo State, what an NSCDC-registered officer coordinated with state authorities does across a day of movements, and how quickly cover is arranged. Hire pairs a registered officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 The threat picture in Ibadan is shaped by armed robbery, kidnap-for-ransom risk targeted at foreign nationals and wealthy Nigerians, and road security vulnerabilities on the key transit corridors connecting the city to Lagos and Abuja. These are not background statistical risks: they are operational threats that materialise with sufficient regularity to require a professional armed security response rather than informal arrangements.
 
@@ -46,3 +46,5 @@ Our Ibadan partners hold current NSCDC licences under the 2003 Act. Standard det
 Executives arriving via Lagos Murtala Muhammed International Airport (LOS) are picked up with an armed detail from the point of arrival and transferred by road to Ibadan with a full convoy arrangement.
 
 Review the full Ibadan city security profile at [/cities/ibadan/](/cities/ibadan/) and see our [security drivers in Ibadan](/security-drivers/ibadan/) for armoured vehicle and convoy transport options.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Ibadan](/executive-protection/ibadan/). To check the credentials and vetting behind the officers, see [close protection officers in Ibadan](/close-protection-officers/ibadan/).

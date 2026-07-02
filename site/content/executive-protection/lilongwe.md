@@ -35,8 +35,10 @@ faqs:
     answer: "Primary medical facility: Mwaiwathu Private Hospital (+265 1 756 888). Emergency: 997 (police), Mwaiwathu Private Hospital: +265 1 756 888 (ambulance). Medical routing is pre-planned as part of every operation order. CPOs hold current first-aid certification and medical evacuation coordination to Nairobi or Johannesburg is confirmed before deployment."
 ---
 
-Executive protection in Lilongwe addresses a moderate risk environment: Opportunistic crime, vehicle crime, and road safety risks. Malawi Police Service licensing under the Security Services Act is the regulatory baseline for all Lilongwe executive protection engagements.
+Executive protection in Lilongwe is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against carjacking and opportunistic crime within a less developed regulatory market: advance work on venues and routes, a written risk assessment, an operations controller, and Malawi Police Service licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where operator vetting matters most.
 
 Private security companies in Malawi must hold a licence from the Malawi Police Service. The regulatory market is smaller than in South Africa or Kenya; operator vetting and reference checking are important before engagement.
 
 For Lilongwe city context, see our [Lilongwe security briefing](/cities/lilongwe/). For transport security, see [security drivers in Lilongwe](/security-drivers/lilongwe/). For regional context, see [executive protection in Lusaka](/executive-protection/lusaka/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Lilongwe](/bodyguard-hire/lilongwe/). For the operators who staff the programme and how they are vetted, see [close protection officers in Lilongwe](/close-protection-officers/lilongwe/).

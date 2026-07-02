@@ -33,7 +33,7 @@ faqs:
     answer: "The emergency action plan for every Port Harcourt EP programme covers: medical emergency (naming the receiving facility and evacuation routing), vehicle compromise (contingency routing and shelter options), political demonstration response (avoidance protocols and contingency routing), and communications procedures. The plan is shared with the principal and their organisation before deployment."
 ---
 
-Executive protection in Port Harcourt is built around licensed Nigeria operators with current ground knowledge, providing a structured programme covering the principal's full movement cycle in the city.
+Executive protection in Port Harcourt is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing kidnapping, militancy, and waterway piracy: advance work on venues and routes, a written threat assessment, an operations controller, and NSCDC-registered armed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 ## The Port Harcourt EP environment
 
@@ -44,3 +44,5 @@ The threat environment in Port Harcourt warrants a structured EP programme for s
 An EP programme in Port Harcourt covers the full principal movement cycle: advance work at all venues, close escort during movements, accommodation security liaison, daily route variation, a documented emergency action plan, and medevac provider confirmation before arrival.
 
 For the full Port Harcourt security picture, see our [Port Harcourt city briefing](/cities/port-harcourt/). For principals requiring security drivers, [security drivers in Port Harcourt](/security-drivers/port-harcourt/) covers the Nigeria programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Port Harcourt](/bodyguard-hire/port-harcourt/). For the operators who staff the programme and how they are vetted, see [close protection officers in Port Harcourt](/close-protection-officers/port-harcourt/).

@@ -35,7 +35,7 @@ faqs:
     answer: "Contact our operations team with your Yaounde travel dates, accommodation, planned activities, and any information about planned regional travel. We will conduct a pre-deployment threat assessment covering both the Yaounde city environment and any regional elements of your itinerary, specify the appropriate CPO configuration, and engage a MINAT-authorised Cameroonian partner company. If your itinerary includes any regional travel beyond Yaounde, this will be assessed as a separate, enhanced security operation. Advance notice of at least seven working days is recommended."
 ---
 
-Yaounde's close protection requirements reflect a capital city that is manageable for business operations with professional CP support, set within a broader Cameroon security context that includes some of the most severe regional conflict designations in Africa. FCDO Cameroon advice (2024) advises a high degree of caution throughout Cameroon, with Level 4 do not travel designations for the Far North (Boko Haram), North-West, and South-West (Anglophone crisis) regions. The US State Department designates Cameroon at Level 3 (2026) with Level 4 for the same regions. Within Yaounde, the Bastos diplomatic district and Centre Ville provide a workable operating base; the 25-kilometre Nsimalen airport transfer and the proximity of higher-risk outer areas make professional CPO support the appropriate standard for visiting executives.
+Hiring a bodyguard in Yaounde is usually tied to a specific visit, where regional terrorism and the Anglophone conflict spillover shape the plan alongside political demonstrations. This page covers how close protection hire works in Cameroon, what a MINAT-authorised operator does across a day of movements, and how quickly cover is arranged. Armed cover requires specific MINAT authorisation, so hire pairs an authorised officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## MINAT licensing and Cameroon compliance
 
@@ -46,3 +46,5 @@ CPOs must hold MINAT (Ministry of Territorial Administration) authorisation and 
 A vetted Yaounde CPO team covers: advance assessment of the Nsimalen transfer route and all confirmed venues, two-CPO formation with dedicated security driver, anti-robbery protocols within Bastos and Centre Ville, emergency response with medical facility contacts and medevac planning, operations controller oversight, and separate enhanced planning for any regional itinerary element.
 
 For a full security picture see our [Yaounde city briefing](/cities/yaounde/) and [executive protection in Yaounde](/executive-protection/yaounde/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Yaounde](/executive-protection/yaounde/). To check the credentials and vetting behind the officers, see [close protection officers in Yaounde](/close-protection-officers/yaounde/).

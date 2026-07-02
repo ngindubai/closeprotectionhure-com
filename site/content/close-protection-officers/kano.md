@@ -37,7 +37,7 @@ faqs:
     answer: "Kano's trading economy -- leather, textiles, agricultural commodities -- is the primary business driver, alongside development finance organisations, UN agency field staff, INGO programme managers, and infrastructure sector project teams. Senior business visitors to Kano textile and commodity trading operations, and technical visitors to industrial and infrastructure sites, represent the main principal categories requiring CPO cover."
 ---
 
-Kano is northern Nigeria's commercial capital and Pakistan's largest city outside the southwest, generating business travel from trading, commodity, and infrastructure sectors alongside a significant development and humanitarian presence. Close protection officer demand in Kano reflects northern Nigeria's demanding security environment: the FCDO formally advises against all but essential travel to Kano State due to terrorism from Boko Haram and ISWAP, intercommunal violence has caused multiple documented casualties and city-wide disruptions, and the general crime environment requires consistent armed support for any foreign national operating outside the GRA security zone.
+This page is about the people who provide close protection in Kano: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Kano network holds an NSCDC Kano State Command licence, with verifiable licence numbers, and is assessed for local competence given the elevated terrorism and intercommunal-violence risk. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Kano NSCDC licensing framework
 
@@ -46,3 +46,5 @@ NSCDC Kano State Command licensing applies to all commercial security operations
 ## CPO operations in Kano
 
 Armed NSCDC-licensed CPO, strict avoidance of predictable movement patterns, operations restricted to Nassarawa GRA and major hotel zones, terrorism-aware pre-advance at all venues, intercommunal violence calendar management, and a written emergency plan with pre-confirmed contacts at Aminu Kano Teaching Hospital and the British Deputy High Commission Lagos. For the full Kano threat picture, see our [Kano city page](/cities/kano/) and [bodyguard hire in Kano](/bodyguard-hire/kano/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Kano](/bodyguard-hire/kano/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Kano](/executive-protection/kano/).

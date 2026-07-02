@@ -37,7 +37,7 @@ faqs:
     answer: "The US State Department issues a Level 3 Reconsider Travel advisory for Eritrea, citing the authoritarian government, surveillance, arbitrary detention risk for foreign nationals, and border tensions with Ethiopia. This advisory is the US baseline; FCDO maintains its own separate advisory. Both are inputs to the Asmara CPO risk assessment. Source: US State Dept Eritrea Level 3 advisory, 2026."
 ---
 
-Asmara close protection operations are structured around Eritrea's distinctive high-risk environment: pervasive government surveillance, strict operating parameters set by the state security apparatus, border zone exclusions following the Tigray conflict period, and support for mining sector executives conducting government liaison work in the capital.
+This page is about how close protection support actually works in Asmara: there is no independent private security sector, and armed security for foreign visitors is not available through commercial operators. It covers the discreet, low-profile, unarmed service model used instead, the counter-surveillance and behaviour-protocol training operators require, and the extra due-diligence applied given Eritrea's closed operating environment.
 
 ## The CPO environment in Asmara
 
@@ -50,3 +50,5 @@ FCDO advises against all travel within 25 kilometres of the Ethiopia border and 
 Pre-deployment planning for Asmara assignments covers surveillance environment briefing, communications security protocols, government compliance documentation, border zone avoidance confirmation, and medical evacuation routing to Addis Ababa or Nairobi. The Harnet Avenue corridor and the principal government ministry buildings are the core operational zone; movement to the coast or mining sector sites requires separate approval processes before any CPO planning can be extended to those segments.
 
 For the broader Eritrea security context, see our [Asmara city briefing](/cities/asmara/). For principals managing any hosted meetings or receptions in Asmara within the constraints of the government-controlled environment, [event security in Asmara](/event-security/asmara/) covers the specific compliance requirements.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Asmara](/bodyguard-hire/asmara/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Asmara](/executive-protection/asmara/).
