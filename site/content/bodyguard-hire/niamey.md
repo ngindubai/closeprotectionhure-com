@@ -33,7 +33,7 @@ faqs:
     answer: "Medical facilities in Niamey are limited. The National Hospital of Niamey provides the best available public care; private clinics are available. For serious trauma or specialist care, the standard evacuation destination is Abidjan (approximately 2.5 hours by air) or Accra. Medical evacuation insurance with Abidjan coverage is mandatory for all Niamey assignments."
 ---
 
-Niamey bodyguard hire operates in Niger's post-coup environment following the July 2023 overthrow of President Bazoum by the CNSP junta. The withdrawal of French forces and US military presence, termination of counter-terrorism cooperation with western governments, and the deteriorating Sahel security context produce an operating environment that requires professional close protection calibrated to a country at the intersection of the world's most active jihadist theatre.
+Hiring a bodyguard in Niamey operates in Niger's post-coup environment following the CNSP takeover, where jihadist threat and restricted Western services shape the plan. This page covers how close protection hire works here, what an operator with long-standing Niamey presence and current relationships provides across a day of movements, and how quickly cover is arranged. The regulatory environment is in transition, so operator continuity and track record matter more than formal licensing alone.
 
 ## The Niamey security environment
 
@@ -44,3 +44,5 @@ Niger's CNSP junta suspended the constitution and expelled French and US militar
 A Niamey bodyguard programme covers inside-terminal collection at Diori Hamani International Airport (NIM), accommodation in the Plateau, Yantala, or Kouara Kano zones, jihadist threat awareness briefing, anti-kidnapping protocol, avoidance of night movement, and a medevac plan to Abidjan (approximately 2.5 hours by air) or Accra.
 
 For the full Niamey security picture, see our [Niamey city briefing](/cities/niamey/). For principals requiring vetted transport, [security drivers in Niamey](/security-drivers/niamey/) covers the driver programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Niamey](/executive-protection/niamey/). To check the credentials and vetting behind the officers, see [close protection officers in Niamey](/close-protection-officers/niamey/).

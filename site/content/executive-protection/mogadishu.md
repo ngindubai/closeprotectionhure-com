@@ -43,7 +43,7 @@ faqs:
     answer: "The fortified compound model limits principal movement to a defined set of assessed, secured locations, with all inter-location movements in armoured vehicles with advance coordination at every waypoint. It applies in Mogadishu because the unpredictability of Al-Shabaab operations makes any extended time in open public spaces a significant exposure. The model mirrors the operational pattern used by Villa Somalia, the UN compound, and major embassy facilities."
 ---
 
-Executive protection in Mogadishu operates at the top of the global risk scale, serving UN, NGO, diplomatic, and reconstruction sector principals in a city where Al-Shabaab continues to conduct complex attacks, targeted assassinations, and mass-casualty vehicle bombings. Programmes are built around the fortified compound movement model, B6-armoured vehicles, armed CPOs, and a medevac plan to Nairobi as the non-negotiable medical contingency.
+Executive protection in Mogadishu is a programme built around hardened compound accommodation and maximum movement restriction, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing Al-Shabaab terrorism and kidnapping risk: an FGS-licensed operator, an operations controller, and evacuation planning given critically limited medical infrastructure, integrated with the itinerary. This page is for security managers designing protection where the environment sets the terms.
 
 ## The Mogadishu security environment
 
@@ -60,3 +60,5 @@ An EP programme in Mogadishu is structured around the fortified compound movemen
 Medical planning to VSO standard is integrated from the outset: embedded trauma-qualified team member, pre-positioned trauma equipment, and confirmed medevac provider with aircraft availability confirmed before day one.
 
 For the full Mogadishu security picture, see our [Mogadishu city briefing](/cities/mogadishu/). For vetted armoured transport alongside the EP team, [security drivers in Mogadishu](/security-drivers/mogadishu/) covers the Somalia driver programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Mogadishu](/bodyguard-hire/mogadishu/). For the operators who staff the programme and how they are vetted, see [close protection officers in Mogadishu](/close-protection-officers/mogadishu/).

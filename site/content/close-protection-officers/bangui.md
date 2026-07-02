@@ -37,7 +37,7 @@ faqs:
     answer: "Minimum pre-mission planning for a Bangui deployment is 10 to 14 days, covering MINUSCA notification, route reconnaissance, extraction planning, armed group briefing, and logistics confirmation. Short-notice Bangui deployments of under 7 days are not undertaken; the planning cycle is non-negotiable for extreme-risk environments of this nature."
 ---
 
-Bangui close protection operations are classified at extreme risk, reflecting FCDO against-all-but-essential travel advisories and US State Department Level 4 Do Not Travel designation for the Central African Republic. CPO service is provided exclusively for essential diplomatic, humanitarian, and extractive sector operations with mandatory MINUSCA coordination, armoured vehicle transfer, and a pre-agreed extraction plan. This is not a standard corporate travel destination.
+This page is about who can realistically support a Bangui security requirement: the CAR's regulatory framework has been significantly disrupted by ongoing conflict, so operators must be selected for Central Africa conflict-environment experience rather than formal licensing alone. It covers the case-by-case assessment process for essential humanitarian, diplomatic, or corporate engagements, and the extreme due-diligence standard applied given the active-conflict operating environment.
 
 ## The CPO environment in Bangui
 
@@ -50,3 +50,5 @@ Source: FCDO Central African Republic travel advice, 2026; US State Dept CAR Lev
 CPO deployment to Bangui requires a minimum 10-14 day planning cycle. Teams are staged from Nairobi, Douala, or Yaounde depending on the principal's routing. Pre-deployment steps include MINUSCA security cell notification, armed group mapping, route clearance for the M'Poko Airport transfer, PK5 avoidance protocol confirmation, and evacuation hospital pre-registration. No deployment proceeds without a signed extraction plan countersigned by the client's risk authority.
 
 For the broader CAR security context, see our [Bangui city briefing](/cities/bangui/). For organisations managing hosted events under diplomatic or UN auspices in the capital, [event security in Bangui](/event-security/bangui/) covers access control and coordination with MINUSCA.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Bangui](/bodyguard-hire/bangui/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Bangui](/executive-protection/bangui/).

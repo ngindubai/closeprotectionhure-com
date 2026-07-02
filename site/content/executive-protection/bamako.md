@@ -43,7 +43,7 @@ faqs:
     answer: "Yes. Mining sector principals frequently require EP cover for overland or domestic flight movements to mine sites in the Kayes, Sikasso, and other regions. These movements require additional route planning, armed support, and coordination with the client organisation's site security team. The threat profile for overland routes in central and northern Mali is materially higher than for Bamako itself."
 ---
 
-Executive protection in Bamako serves a principal community defined primarily by the mining sector, diplomatic missions, and international organisations operating in one of the Sahel's most complex security environments. The 2020 and 2021 military coups, the expulsion of French Barkhane forces in 2023, and the ongoing JNIM terrorism threat have fundamentally altered the operational landscape, requiring EP programmes built on DGPN-licensed operators with current post-coup access relationships, hotel security assessment as a core discipline, and a medevac plan to Dakar or Abidjan as the foundational contingency.
+Executive protection in Bamako is a programme calibrated to one of West Africa's most demanding operating environments, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing jihadist threat and documented kidnapping risk: advance work, a written threat assessment, an operations controller, and Africa-Corps-aware secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a visit, where operator political independence matters.
 
 ## The Bamako security environment
 
@@ -60,3 +60,5 @@ An EP programme in Bamako addresses the full principal movement cycle: arrival a
 The programme integrates terrorism threat monitoring, route variation as a daily discipline, and a documented medevac plan to Dakar or Abidjan. A trauma-qualified team member is standard given the blast-injury scenario that the JNIM threat profile requires planning for.
 
 For the full Bamako security picture, see our [Bamako city briefing](/cities/bamako/). For vetted secure transport alongside the EP team, [security drivers in Bamako](/security-drivers/bamako/) covers the Mali driver programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Bamako](/bodyguard-hire/bamako/). For the operators who staff the programme and how they are vetted, see [close protection officers in Bamako](/close-protection-officers/bamako/).

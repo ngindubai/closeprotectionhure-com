@@ -35,7 +35,7 @@ faqs:
     answer: "No. FCDO advises against all travel to Chad's border areas with Nigeria, Niger, Libya, and Sudan. CPO deployments in Chad are restricted to N'Djamena and operationally essential in-country locations outside FCDO against-all-travel zones, subject to current threat assessment."
 ---
 
-N'Djamena is the operational base for Chad's oil industry, a large UN and NGO community, and development-finance institutions working across the Sahel. The city's high risk rating reflects the Lake Chad Basin security environment and Chad's ongoing political transition. A vetted, licensed close protection officer provides the appropriate operational baseline for foreign nationals with business, diplomatic, or humanitarian requirements in the city.
+Hiring a bodyguard in N'Djamena is usually tied to a specific visit, where terrorism and Sahel security risk shape the plan alongside political instability. This page covers how close protection hire works in Chad, what a Ministry of Public Security and Immigration licensed operator does across a day of movements, and how quickly cover is arranged. Foreign nationals may not carry weapons, so armed cover is provided only through licensed Chadian operators, scaled to the itinerary.
 
 CPOs deployed in N'Djamena are experienced in Sahel operating conditions, hold valid licences under Chadian law, and are briefed on current FCDO and US State Department advisories before deployment. The standard deployment model pairs a licensed CPO with a security-trained driver familiar with N'Djamena's movement corridors.
 
@@ -44,3 +44,5 @@ For the full N'Djamena security picture, see our [N'Djamena city briefing](/citi
 ## What licensed close protection covers in N'Djamena
 
 A CPO team in N'Djamena provides secure airport transfers from NDJ, advance route intelligence for all scheduled movements within the Avenue Charles de Gaulle and Ambassades corridors, hotel and residence security coordination, and on-ground accompaniment for business meetings. For oil-sector and development-finance clients, the team advises on movement windows relative to current intelligence on street crime and extremist activity in the wider Lake Chad Basin.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in N'Djamena](/executive-protection/ndjamena/). To check the credentials and vetting behind the officers, see [close protection officers in N'Djamena](/close-protection-officers/ndjamena/).

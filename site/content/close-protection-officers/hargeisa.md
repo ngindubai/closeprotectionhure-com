@@ -37,7 +37,7 @@ faqs:
     answer: "Yes. Development finance institutions including bilateral funds and multilateral development partners conduct portfolio monitoring, due diligence, and programme evaluation visits in Hargeisa regularly. CPO cover for these visits follows a low-profile model: no visible armed presence, compound-to-field movement with pre-assessed routes, and coordination with host-organisation security leads. High-profile armed escort is generally counterproductive in the NGO and development sector environment and is not the standard for Hargeisa assignments."
 ---
 
-Hargeisa close protection operations address a distinctive advisory-versus-ground-reality gap: FCDO and US State Department advisories cover Somaliland within their Somalia all-travel designations, but Hargeisa's actual security environment is substantially more stable than those advisories suggest. CPO operations support NGO, development finance, and Berbera port sector principals under the Somaliland Ministry of Interior licensing framework.
+This page is about the people who provide close protection in Hargeisa: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Hargeisa network holds licensing from the Somaliland government, within a framework more developed than the rest of Somalia, and is assessed for local competence. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Hargeisa
 
@@ -50,3 +50,5 @@ Al-Shabaab's operational focus is on southern and central Somalia and cross-bord
 CPO teams in Hargeisa are briefed on the current Somaliland political situation, any Al-Shabaab indicators affecting the north, and the Telesom mobile money sector context before deployment. The Egal Airport transfer, the Maan-Soor hotel corridor, and the Berbera port route are the primary operational planning segments. Medical evacuation from Hargeisa routes to Nairobi (approximately 3 hours by air) or Addis Ababa (approximately 2 hours); evacuation protocol is confirmed before every deployment.
 
 For the full Hargeisa security context, see our [Hargeisa city briefing](/cities/hargeisa/). For principals managing development sector reviews, donor workshops, or port sector meetings in the city, [event security in Hargeisa](/event-security/hargeisa/) covers venue assessment and compound-movement coordination.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Hargeisa](/bodyguard-hire/hargeisa/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Hargeisa](/executive-protection/hargeisa/).

@@ -35,7 +35,7 @@ faqs:
     answer: "Humanitarian and development organisations (UN agencies, ICRC, international NGOs), diplomatic missions, mining and extractive-sector essential visits, and media organisations operating in CAR are the primary users of close protection in Bangui."
 ---
 
-Bangui is one of the most operationally demanding close protection environments in the world. Sustained armed conflict since 2012, the presence of multiple armed groups, and an Africa Corps presence since 2018 place the Central African Republic at the extreme end of the risk spectrum. FCDO advises against all but essential travel to Bangui; the US State Department rates CAR at Level 4. Close protection services in Bangui are available for essential humanitarian, diplomatic, and corporate visits only, assessed on a case-by-case basis drawing on operators with Central Africa conflict-environment experience.
+Bangui is one of the most operationally demanding close protection environments in the world, where sustained armed conflict since 2012 and an Africa Corps presence place CAR at the extreme end of the risk spectrum. This page covers how close protection hire works here: services are available for essential humanitarian, diplomatic, and corporate visits only, assessed case-by-case, drawing on operators with Central Africa conflict-environment experience rather than a standard commercial hire process.
 
 Planning for any Bangui deployment begins with a detailed pre-travel threat assessment, medevac arrangement confirmation, and coordination with MINUSCA and relevant diplomatic security functions. All movement is planned within the PK0-PK5 corridor unless operationally essential requirements dictate otherwise.
 
@@ -44,3 +44,5 @@ For the full Bangui security picture, see our [Bangui city briefing](/cities/ban
 ## What licensed close protection covers in Bangui
 
 For essential visits, a CPO team provides secure transfer from Bangui M'Poko Airport, escorted movement within the PK0-PK5 corridor, liaison with MINUSCA and diplomatic security functions, and continuous monitoring of ground conditions. Medevac coordination and emergency extraction planning are integral to every deployment in this environment.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Bangui](/executive-protection/bangui/). To check the credentials and vetting behind the officers, see [close protection officers in Bangui](/close-protection-officers/bangui/).

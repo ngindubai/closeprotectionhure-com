@@ -35,7 +35,7 @@ faqs:
     answer: "Port logistics, shipping, and free-zone operations (Doraleh Multi-Purpose Port, Djibouti International Free Trade Zone), diplomatic and military liaison, development finance, and energy infrastructure are the primary sectors."
 ---
 
-Djibouti City is one of the most strategically important cities in the Horn of Africa, hosting US Camp Lemonnier, French FFDJ, Chinese PLA Navy, and Japanese JMSDF facilities at the Bab-el-Mandeb strait. For port-logistics executives, maritime-sector principals, and development-finance personnel, the city's medium risk profile requires a proportionate security response that accounts for both street-level risks and the maritime security context shaped by Houthi attacks on Red Sea shipping since November 2023.
+Hiring a bodyguard in Djibouti City is typically about regional maritime instability and border-area caution rather than routine street crime. This page covers how close protection hire works in Djibouti, what a nationally registered operator provides across a day of movements, and how quickly cover is arranged. Foreign nationals may not carry weapons, so armed cover, where warranted, is provided only through licensed Djiboutian operators, scaled to the itinerary rather than a fixed contract.
 
 A vetted, licensed close protection officer provides the appropriate baseline for business travel in Djibouti City, combining advance route intelligence with familiarity with the city's multi-base military environment and the security protocols relevant to port and free-zone operations.
 
@@ -44,3 +44,5 @@ For the full Djibouti City security picture, see our [Djibouti City briefing](/c
 ## What licensed close protection covers in Djibouti City
 
 A CPO in Djibouti City provides secure airport transfers from JIB, advance route planning through the European Quarter and Heron residential corridors, hotel and residence security coordination, and on-ground accompaniment for business meetings at the port and free-zone facilities. For maritime-sector clients, the team includes a briefing on the current Red Sea threat picture and its implications for personnel security in the port environment.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Djibouti City](/executive-protection/djibouti-city/). To check the credentials and vetting behind the officers, see [close protection officers in Djibouti City](/close-protection-officers/djibouti-city/).

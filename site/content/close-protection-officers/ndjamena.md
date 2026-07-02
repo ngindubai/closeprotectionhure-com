@@ -37,7 +37,7 @@ faqs:
     answer: "Movement within N'Djamena itself is typically managed with a vetted driver as the minimum standard for corporate visitors. A dedicated CPO is appropriate for the airport transfer, government-meeting routes near the National Assembly, and any movement south towards the Sudanese border areas, which FCDO rates as extremely high risk. Domestic transfers to Abeche or northern oilfield areas require a full high-threat CPO protocol with prior Ministry of Public Security notification."
 ---
 
-N'Djamena close protection operations are calibrated to Chad's high-risk, Sahel-adjacent profile: Ministry of Public Security-licensed operators managing the Hassan Djamous Airport transfer, political demonstration monitoring in the Ambassades district, and Boko Haram-context Sahel briefings for oil sector, UN, and NGO principals.
+This page is about the people who provide close protection in N'Djamena: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our N'Djamena network holds licensing from the Ministry of Public Security and Immigration, and is assessed for local competence. It covers standard team configuration, the restriction on foreign nationals carrying weapons, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in N'Djamena
 
@@ -50,3 +50,5 @@ FCDO advises against all travel within 30 kilometres of Chad's borders with Nige
 CPO teams in N'Djamena are briefed on the current transitional political calendar, Lake Chad basin threat status, and the medical evacuation protocol before deployment. Pre-arrival planning covers the Hassan Djamous Airport corridor, the Avenue Charles de Gaulle zone, and the specific venues in the principal's itinerary. After-dark movement outside the Ambassades district requires heightened vehicle protocols and is minimised wherever the itinerary permits.
 
 For the full N'Djamena security picture, see our [N'Djamena city briefing](/cities/ndjamena/). For principals managing inter-agency or donor receptions in the capital, [event security in N'Djamena](/event-security/ndjamena/) covers venue assessment and access management.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in N'Djamena](/bodyguard-hire/ndjamena/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in N'Djamena](/executive-protection/ndjamena/).

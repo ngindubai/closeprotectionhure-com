@@ -37,7 +37,7 @@ faqs:
     answer: "UNDSS, the UN Department of Safety and Security, provides security services and guidance for the UN system and some affiliated NGOs in South Sudan. For principals operating both inside the UN system and in the private commercial space, UNDSS guidance provides useful baseline intelligence but does not replace private CPO cover. CPO teams coordinate with UNDSS contacts where the principal's itinerary overlaps with UN-managed security zones or movement restrictions."
 ---
 
-Juba close protection operations are calibrated to South Sudan's high-risk environment: Private Security Companies Act 2021-licensed operators managing the Juba International Airport transfer, carjacking and armed robbery risk across principal movement corridors, UNMISS coordination for UN-adjacent principals, and oil sector executive support across the post-R-ARCSS political landscape.
+This page is about the people who provide close protection in Juba: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Juba network holds registration under South Sudan's 2021 Private Security Companies Act, and is assessed for local competence. It covers standard team configuration, the restriction on foreign nationals carrying firearms, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Juba
 
@@ -50,3 +50,5 @@ FCDO advises against all but essential travel to South Sudan. US State Departmen
 CPO teams in Juba are briefed on current R-ARCSS implementation status, active civil unrest indicators, and the medical evacuation protocol before deployment. The standard medical evacuation routing is Nairobi (approximately 1 hour 45 minutes by air), which has the nearest international-standard medical facilities. Pre-arrival planning covers the JUB Airport transfer, the specific accommodation and office venues in the principal's itinerary, and after-dark movement restrictions.
 
 For the full Juba security picture, see our [Juba city briefing](/cities/juba/). For organisations managing hosted events or donor briefings in the capital, [event security in Juba](/event-security/juba/) covers venue assessment and access control for Juba's international compound environment.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Juba](/bodyguard-hire/juba/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Juba](/executive-protection/juba/).

@@ -43,7 +43,7 @@ faqs:
     answer: "Movements to mine sites in the Agadez Region require significantly different EP planning from operations within Niamey. The route north through Tahoua to the Arlit area traverses regions the UK FCDO rates as advise against all travel. Any overland or domestic flight movement outside Niamey requires a separate threat assessment and dedicated logistical planning."
 ---
 
-Executive protection in Niamey operates in one of the Sahel's most challenging post-coup environments, with a July 2023 military takeover, ongoing JNIM and ISIS-Sahel terrorism pressure from the country's western regions, the suspension of French military cooperation, and a uranium sector in deep political dispute defining the operational context. Programmes built on DSP-registered operators with current CNSP access relationships provide the foundation for serving diplomatic, uranium sector, and NGO principals in the city.
+Executive protection in Niamey is a programme built for Niger's post-coup environment, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing jihadist threat and restricted Western services: continuity of trusted local relationships, a written threat assessment, an operations controller, and secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a visit, where operator track record outweighs formal licensing.
 
 ## The Niamey security environment
 
@@ -60,3 +60,5 @@ An EP programme in Niamey covers arrival at Diori Hamani International Airport, 
 The programme includes daily threat monitoring, route selection from pre-surveyed alternatives, and a medevac plan to Dakar or Abidjan as the foundational medical contingency. A first-aid or trauma-qualified CPO is standard given the limited local emergency medical response.
 
 For the full Niamey security picture, see our [Niamey city briefing](/cities/niamey/). For vetted secure transport alongside the EP team, [security drivers in Niamey](/security-drivers/niamey/) covers the Niger driver programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Niamey](/bodyguard-hire/niamey/). For the operators who staff the programme and how they are vetted, see [close protection officers in Niamey](/close-protection-officers/niamey/).

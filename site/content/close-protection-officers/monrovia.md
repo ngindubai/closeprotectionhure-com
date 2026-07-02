@@ -37,7 +37,7 @@ faqs:
     answer: "FCDO advises avoiding all non-essential movement after dark in Monrovia due to elevated robbery and carjacking risk. CPO cover does not eliminate this risk; the standard protocol is to reduce night movement to essential transfers only, with operations controller coordination required for any after-dark journey. The 60km ROB transfer at night requires specific elevated protocols. After-dark movement in Mamba Point and Sinkor is more manageable than in the outer districts but is still restricted under standard CPO protocols. Source: FCDO Liberia travel advice, 2026."
 ---
 
-Monrovia close protection operations are built around the LNP licensing framework, the 60km ROB airport vulnerability corridor, and team configurations appropriate for Liberia's high-risk post-civil war environment.
+This page is about the people who provide close protection in Monrovia: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Monrovia network holds LNP registration under the Liberia National Police framework, and is assessed for local competence. It covers standard team configuration, the specific authorisation required for the armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Monrovia
 
@@ -46,3 +46,5 @@ Liberia's security environment reflects the lasting structural consequences of t
 ## Planning framework for Monrovia CPO assignments
 
 Pre-deployment planning covers the ROB airport transfer protocol (60km corridor management), Monrovia movement map (Mamba Point and Sinkor safe zones), after-dark movement restrictions, medevac to Abidjan or Accra, and team configuration. Remote site protocols for ArcelorMittal or rubber plantation assignments are scoped separately. For the full Monrovia security picture, see our [Monrovia city briefing](/cities/monrovia/). For NGO coordination events and mining sector meetings in Monrovia, [event security in Monrovia](/event-security/monrovia/) covers venue assessment and access management within the Mamba Point compound environment.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Monrovia](/bodyguard-hire/monrovia/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Monrovia](/executive-protection/monrovia/).

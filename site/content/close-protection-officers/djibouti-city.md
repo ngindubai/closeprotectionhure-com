@@ -37,7 +37,7 @@ faqs:
     answer: "Djibouti City has a French military hospital (Bouffard Hospital) that provides the best available emergency medical care in the country and accepts civilian cases in genuine emergencies. For specialist care, medical evacuation routes to Addis Ababa (approximately 2 hours by air) or Nairobi (approximately 3 hours) are the standard options. CPO deployment planning includes pre-agreed medical evacuation protocols and insurance confirmation before every assignment."
 ---
 
-Djibouti City close protection operations are calibrated to a medium-risk environment shaped by a unique strategic concentration: multiple foreign military bases, Bab-el-Mandeb maritime significance, and a port logistics hub that has seen increased international traffic following the Houthi Red Sea crisis since November 2023. CPO cover focuses on petty crime management in the Plateau du Serpent business zone, airport transfer, and port access protocols for maritime and logistics sector principals.
+This page is about the people who provide close protection in Djibouti City: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Djibouti network is registered under the national regulatory framework, and is assessed for local competence. It covers standard team configuration, the restriction on foreign nationals carrying weapons, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Djibouti City
 
@@ -50,3 +50,5 @@ FCDO maintains a medium-risk advisory for Djibouti City, acknowledging the terro
 CPO teams in Djibouti City are briefed on current military base exclusion zones, the Plateau du Serpent business zone risk picture, Doraleh port access protocols, and the medical evacuation routing before deployment. The Ambouli Airport transfer, the European Quarter hotel-to-office corridor, and any port or free trade zone visits are the primary operational segments. After-dark movement in the Balbala district and peripheral market areas requires heightened situational awareness briefing for the principal.
 
 For the full Djibouti City security picture, see our [Djibouti City briefing](/cities/djibouti-city/). For principals managing hosted meetings, maritime sector events, or logistics conferences in the city, [event security in Djibouti City](/event-security/djibouti-city/) covers venue assessment and access management.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Djibouti City](/bodyguard-hire/djibouti-city/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Djibouti City](/executive-protection/djibouti-city/).

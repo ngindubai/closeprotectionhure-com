@@ -37,7 +37,7 @@ faqs:
     answer: "FCDO advises against all travel throughout Burkina Faso. Regions outside Ouagadougou -- the Sahel, Est, Nord, and Centre-Nord regions -- have experienced the most intense JNIM and IS Sahel Province activity. CPO operations do not extend to areas outside the capital under standard deployment parameters; any essential operational requirement in the regions requires a separate specialist threat assessment and explicit client approval for an extreme residual risk profile. Source: FCDO Burkina Faso travel advice, 2026."
 ---
 
-Ouagadougou close protection represents the most demanding end of the CPO spectrum: FCDO advises against all travel to Burkina Faso, the US State Department rates the country at Level 4, and JNIM and IS Sahel Province active operations create an environment where standard CPO protocols are insufficient.
+There is no routine CPO deployment offered in Ouagadougou under current conditions: the formal licensing framework is functioning in a degraded form, and the FCDO/US State Department rate Burkina Faso at the highest risk category. This page covers what specialist Sahel conflict-environment operators actually provide, why conventional CPO placement is not offered, and the extreme due-diligence standard applied to any case-by-case essential-purpose engagement.
 
 ## The CPO environment in Ouagadougou
 
@@ -46,3 +46,5 @@ Burkina Faso's security environment deteriorated sharply from 2019 onwards follo
 ## Essential operations framework
 
 For organisations with essential operations that cannot be relocated -- UN agencies, diplomatic missions, mining companies with pre-existing infrastructure -- CPO in Ouagadougou is integrated into a broader security framework including host-nation coordination, extraction planning, and real-time threat monitoring. For the full Ouagadougou security picture, see our [Ouagadougou city briefing](/cities/ouagadougou/). For event security at international organisation coordination meetings in Ouagadougou, [event security in Ouagadougou](/event-security/ouagadougou/) covers the specialist access management protocols required in this environment.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Ouagadougou](/bodyguard-hire/ouagadougou/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Ouagadougou](/executive-protection/ouagadougou/).

@@ -33,7 +33,7 @@ faqs:
     answer: "Anti-kidnapping protocol in Bamako covers: varied movement patterns with no predictable routine, no disclosure of the principal's identity or schedule to non-vetted contacts, avoidance of high-risk locations and time windows, immediate response protocol for any suspicious approach, and an operations controller tracking location throughout every movement. This is an operationally active protocol in Bamako's threat environment, not a theoretical precaution."
 ---
 
-Bamako bodyguard hire is one of West Africa's most operationally demanding assignments: jihadist-threat awareness for a city that has experienced multiple major attacks, anti-kidnapping protocol for a country where western nationals face a documented kidnapping risk, military rule context under the CNSP junta, and a security framework calibrated to the Africa Corps (formerly Wagner Group) presence that replaced French Barkhane forces in 2023.
+Bamako bodyguard hire is one of West Africa's most operationally demanding assignments, where jihadist-threat awareness and documented kidnapping risk for Western nationals dominate the plan. This page covers how close protection hire works under the CNSP military junta, what an operator calibrated to the Africa Corps presence provides across a day of movements, and how quickly cover is arranged. Operators with established, politically independent standing under Law No. 2011-026 are the deciding factor.
 
 ## The Bamako security environment
 
@@ -44,3 +44,5 @@ JNIM (Jama'at Nusrat al-Islam wal-Muslimin), the al-Qaeda affiliate in the Sahel
 A Bamako bodyguard programme covers inside-terminal collection at Bamako-Senou International Airport (BKO), accommodation in the Hamdallaye, ACI 2000, or Badalabougou zones, soft-target terrorism assessment for all principal venues, anti-kidnapping protocol, avoidance of night movement, and a medevac plan to Dakar (approximately 2 hours by air) or Abidjan.
 
 For the full Bamako security picture, see our [Bamako city briefing](/cities/bamako/). For principals requiring vetted transport, [security drivers in Bamako](/security-drivers/bamako/) covers the Ministry-licensed driver programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Bamako](/executive-protection/bamako/). To check the credentials and vetting behind the officers, see [close protection officers in Bamako](/close-protection-officers/bamako/).

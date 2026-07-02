@@ -585,6 +585,16 @@ Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** wi
 - **Verification:** build clean (0 errors); all 10 cities' three siblings confirmed distinct; QA gate clean.
 - **Status:** committed + pushed to `master` (deploys). **235 of 278 bodyguard-hire cities now differentiated (~85% of the network).**
 
+### 2026-07-02 — Batch 5 (sub-batch 25 of N): Differentiation rollout, 10 more Sahel/Horn cities incl. two adaptations [SONNET, model already locked]
+- **Cities (10):** bamako, ouagadougou, niamey, ndjamena, bangui, djibouti-city, mogadishu, hargeisa, juba, monrovia. **Files: 30.**
+- **Checked all 5 extreme/critical-rated cities' existing framing before writing:**
+  - **Ouagadougou — full no-go adaptation** (5th instance, joining Khartoum/Kabul/Havana/Port-au-Prince): existing page states plainly "standard commercial close protection deployment is not viable." All three ledes adapted to honestly describe the case-by-case, essential-purpose-only service actually offered.
+  - **Bangui — essential-purposes-only adaptation** (3rd instance, joining Minsk/Yangon): existing page states cover is "available for essential humanitarian, diplomatic, and corporate visits only, assessed on a case-by-case basis" — not a full non-offer. Ledes adapted accordingly while preserving the three distinct silo angles.
+  - **Bamako, Niamey, Mogadishu — standard treatment with severe framing** (like Tripoli/Beirut/Sharm el-Sheikh): existing pages describe demanding-but-offered service (specific protocols, operator requirements), so the standard transactional/programme/operators rubric applied, leaning hard on each city's junta/insurgency/regulatory-disruption context for genuine specificity.
+- Remaining 5 (niger's neighbour ndjamena, djibouti-city, hargeisa, juba, monrovia) used the standard rubric (73–80 words) citing Chad MoPSI, Djibouti national framework, Somaliland government licensing (distinct from unregulated federal Somalia), South Sudan 2021 PSC Act, Liberia LNP.
+- **Verification:** build clean (0 errors); all 10 cities' three siblings confirmed distinct (a loose grep pattern for N'Djamena's apostrophe initially over-matched at 5; precise string check confirmed exactly 1, false alarm); QA gate clean.
+- **Status:** committed + pushed to `master` (deploys). **245 of 278 bodyguard-hire cities now differentiated (~88% of the network).**
+
 ### 2026-07-02 — Deploy + branch-rule change (owner instruction)
 - Owner directed all work to go live and to build on the deploy branch. Corrected a misdirection first: the owner said "build on the live branch," but `live` is the auto-generated compiled-output branch (force-pushed by CI, never hand-edited). The real deploy branch is `master`.
 - **Action:** fast-forward-merged the 10-commit feature branch `claude/close-protection-seo-audit-0yjirj` into `master` (0 divergence, no conflicts) and pushed `master`, triggering `build-and-publish.yml` → Hugo build → publish `site/public` to `live` → Hostinger deploy.

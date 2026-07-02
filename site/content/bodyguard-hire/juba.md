@@ -35,7 +35,7 @@ faqs:
     answer: "Oil and gas (Petronas, Dar Petroleum, China National Petroleum), the UN and international NGO community, development-finance institutions, diplomatic missions, and media organisations are the principal users of close protection in Juba."
 ---
 
-Juba is the operational hub for South Sudan's oil industry, a substantial UN and NGO community anchored by UNMISS, and development-finance organisations working across one of the world's youngest and most fragile states. The city's high risk rating reflects the fragile post-conflict environment, documented armed robbery and carjacking targeting international personnel, and very limited medical infrastructure. A vetted, licensed close protection officer provides the appropriate baseline for foreign nationals with operational requirements in Juba.
+Hiring a bodyguard in Juba is usually tied to a specific visit, where post-conflict instability and intercommunal and political violence shape the plan alongside infrastructure collapse. This page covers how close protection hire works in South Sudan, what an operator licensed under the 2021 Private Security Companies Act provides across a day of movements, and how quickly cover is arranged. Foreign nationals may not carry firearms, so armed cover is delivered only through licensed local operators, scaled to the itinerary.
 
 CPOs deployed in Juba are licensed under the Private Security Companies Act (2021), experienced in the South Sudan operating environment, and briefed on current FCDO, US State Department, and UNMISS security advisories before each assignment. The standard deployment model pairs a licensed CPO with a security-trained driver experienced in Juba's movement corridors and night-movement restrictions.
 
@@ -44,3 +44,5 @@ For the full Juba security picture, see our [Juba city briefing](/cities/juba/) 
 ## What licensed close protection covers in Juba
 
 A CPO team in Juba provides secure airport transfers from JUB, advance route intelligence for all scheduled movements, hotel and compound security coordination in the Juba Town and Tomping areas, and on-ground accompaniment for business meetings. For oil-sector clients, the team liaises with corporate security functions and advises on movement windows relative to current intelligence on armed robbery and carjacking hotspots.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Juba](/executive-protection/juba/). To check the credentials and vetting behind the officers, see [close protection officers in Juba](/close-protection-officers/juba/).

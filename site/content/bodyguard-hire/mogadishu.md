@@ -33,7 +33,7 @@ faqs:
     answer: "FCDO and the US State Department both advise against all travel to Somalia (Level 4: Do Not Travel). Mogadishu visits that occur are essential-presence decisions by humanitarian organisations, diplomatic personnel, and contractors with specific operational requirements. The CPO programme manages risk within this framework; it does not make Mogadishu a low-risk destination under any configuration. Source: FCDO Somalia travel advice, 2025."
 ---
 
-Mogadishu bodyguard hire represents one of the world's most demanding close protection operating environments: Al-Shabaab terrorism with demonstrated large-scale attack capability, kidnapping risk for foreign nationals, militia and clan actor complexity, critically limited medical infrastructure, and a security framework built around hardened compound accommodation and maximum movement restriction.
+Mogadishu bodyguard hire represents one of the world's most demanding close protection operating environments, where Al-Shabaab terrorism and kidnapping risk shape a security model built around hardened compound accommodation and maximum movement restriction. This page covers how close protection hire actually works here, what an FGS-licensed operator with demonstrated Mogadishu experience provides across a day of movements, and how quickly cover is arranged given critically limited medical infrastructure.
 
 ## The Mogadishu security environment
 
@@ -44,3 +44,5 @@ Al-Shabaab (Harakat al-Shabaab al-Mujahideen) retains significant attack capabil
 Mogadishu CPO operations are built around hardened compound accommodation (the Halane compound in the airport complex is the international community's primary residential base), minimum movement outside secured zones, close coordination with the Somalia Police Force (SPF) and international force elements, and a medevac protocol with Nairobi (Erdogan Hospital provides the best local care but for serious trauma Nairobi is the evacuation standard).
 
 For the full Mogadishu security picture, see our [Mogadishu city briefing](/cities/mogadishu/). For principals requiring vetted transport, [security drivers in Mogadishu](/security-drivers/mogadishu/) covers the specialist Somalia driver programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Mogadishu](/executive-protection/mogadishu/). To check the credentials and vetting behind the officers, see [close protection officers in Mogadishu](/close-protection-officers/mogadishu/).

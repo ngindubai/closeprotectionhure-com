@@ -35,7 +35,7 @@ faqs:
     answer: "Hargeisa Group Hospital and Edna Adan Maternity Hospital provide basic care. For serious trauma, medevac to Djibouti City, Nairobi, or Dubai is required. All deployments include pre-confirmed medevac arrangements as a condition of deployment authorisation."
 ---
 
-Hargeisa is the administrative capital of Somaliland, a self-declared state that has maintained functional civil administration since 1991. For NGO and development personnel, telecoms-sector executives, and commercial travellers with Somaliland interests, the city offers a substantially more stable environment than the rest of Somalia - but one that must be approached with full awareness of the FCDO against-all-travel advisory and the duty-of-care and insurance obligations that travelling against that advisory creates.
+Hiring a bodyguard in Hargeisa sits under the same FCDO advise-against-all-travel rating that covers Somalia generally, though Somaliland's own regulatory framework functions more effectively than the rest of the country. This page covers how close protection hire works here, what a licensed Somaliland operator provides across a day of movements, and how quickly cover is arranged given regional Al-Shabaab threat and political-transition risk, scaled to the itinerary.
 
 A vetted, licensed CPO in Hargeisa provides advance route intelligence, secure airport transfers from HGA, hotel and compound security coordination, and the professional security baseline that organisations require to meet their duty-of-care obligations. Medevac planning to Djibouti City, Nairobi, or Dubai is a non-negotiable element of every deployment.
 
@@ -44,3 +44,5 @@ For the full Hargeisa security picture, see our [Hargeisa city briefing](/cities
 ## What licensed close protection covers in Hargeisa
 
 A CPO in Hargeisa provides secure airport transfers from Egal International, route planning for movements in Central Hargeisa and the 26 June and Jigjiga Yar districts, hotel and compound security coordination, and emergency response planning including medevac coordination. The deployment includes a briefing for the principal on the advisory context and conduct protocols appropriate to operating in Somaliland.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Hargeisa](/executive-protection/hargeisa/). To check the credentials and vetting behind the officers, see [close protection officers in Hargeisa](/close-protection-officers/hargeisa/).
