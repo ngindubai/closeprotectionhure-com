@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Los Angeles for a CPO with vehicle and operations controller support range from approximately $700 to $1,300 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Los Angeles presents an executive protection environment defined by vehicle crime and smash-and-grab (LAPD Crime Report 2025) and a regulatory framework under California BSIS, Business and Professions Code. For senior executives and HNWI principals operating across Beverly Hills commercial district, Century City corporate towers, and Bel Air residential, a structured EP programme reduces the exposure that uncoordinated travel creates. The LAPD Crime Report 2025 and current advisory (FCDO normal precautions 2026; US State Dept Level 1) are the evidential baseline for every pre-travel assessment.
+Executive protection in Los Angeles is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against sharply varying neighbourhood risk and traffic-related exposure: advance work on venues and routes, a written risk assessment, an operations controller, and BSIS-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Los Angeles
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Los Angeles must be licensed under Cal
 Los Angeles's position in entertainment, technology, and HNWI residential markets creates a specific EP operating context: principals in these sectors face both the ambient threat picture identified in the LAPD Crime Report 2025 and sector-specific risks, including competitive intelligence activity and, for some industries, targeted crime against high-value corporate visitors. The pre-travel assessment addresses both layers.
 
 For related security services in Los Angeles, see our [Los Angeles city page](/cities/los-angeles/), [security drivers in Los Angeles](/security-drivers/los-angeles/), and [bodyguard hire in Los Angeles](/bodyguard-hire/los-angeles/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Los Angeles](/bodyguard-hire/los-angeles/). For the operators who staff the programme and how they are vetted, see [close protection officers in Los Angeles](/close-protection-officers/los-angeles/).

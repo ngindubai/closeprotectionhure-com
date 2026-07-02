@@ -35,6 +35,8 @@ faqs:
     answer: "Emergency number: 000. Primary facility: Royal Brisbane and Women's Hospital (07-3646-8111). Medical routing to the nearest appropriate hospital is pre-planned, CPOs hold current first-aid certification, and medical evacuation routing is built into the operation order before deployment."
 ---
 
-Brisbane is a low-risk environment for close protection deployments. For HNWI principals and corporate executives visiting the CBD, South Bank, and New Farm, vetted bodyguards licensed under Security Providers Act 1993 (Queensland Police Service Weapons Licensing Branch) provide a materially different standard of personal protection from unvetted alternatives. The local police crime data informs route planning and counter-surveillance protocols applied on Brisbane's principal movement corridors.
+Hiring a bodyguard in Brisbane is typically about opportunistic property crime and alcohol-related disorder in entertainment precincts rather than violent crime. This page covers how close protection hire works in Queensland, what a QPS-licensed officer does across a day of movements, and how quickly cover is arranged. Armed cover requires a specific Queensland Police Service authority, so hire pairs a licensed officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 Detailed city context, including threat analysis and zone-by-zone risk notes, is available on the [Brisbane city page](/cities/brisbane/). For transport security, see our [vetted security drivers in Brisbane](/security-drivers/brisbane/). For regional coverage, see our [bodyguard hire in Sydney](/bodyguard-hire/sydney/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Brisbane](/executive-protection/brisbane/). To check the credentials and vetting behind the officers, see [close protection officers in Brisbane](/close-protection-officers/brisbane/).

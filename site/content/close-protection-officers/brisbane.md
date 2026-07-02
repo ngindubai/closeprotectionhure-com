@@ -35,7 +35,7 @@ faqs:
     answer: "A foreign close protection officer may accompany a principal into Brisbane as part of an international protective detail but cannot engage in commercial close protection for hire in Queensland without a current Queensland security provider licence under the Security Providers Act 1993. For any commercial close protection work in Queensland, both the operating company and individual CPOs must hold appropriate Queensland licensing."
 ---
 
-Brisbane is Queensland's primary commercial and events city, hosting significant concentrations of resources and energy sector firms, professional services, and a growing technology community across the CBD and South Bank. The city's generally low crime environment relative to other major global cities, combined with targeted risks in specific entertainment precincts after hours, makes close protection a considered rather than constant operational requirement for most corporate principals visiting the region.
+This page is about the people who provide close protection in Brisbane: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Brisbane network holds a current QPS licence under the Security Providers Act 1993, and is assessed for local competence. It covers standard team configuration, the specific Weapons Licensing Branch authority required for armed roles, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Queensland licensing framework
 
@@ -54,3 +54,5 @@ For principals with itineraries extending to the Gold Coast or Sunshine Coast, t
 The operational threat picture for Brisbane CPO work draws on Queensland Police Service Crime Statistics 2024. Licensing requirements are current under the Security Providers Act 1993 (Qld) as at June 2026. Armed close protection provisions follow the Queensland Weapons Act 1990 and require specific additional authorisation. Rates cited are indicative for the Brisbane market as at June 2026 and should be confirmed at time of enquiry.
 
 For complementary services, see our [Brisbane city page](/cities/brisbane/) and [bodyguard hire in Brisbane](/bodyguard-hire/brisbane/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Brisbane](/bodyguard-hire/brisbane/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Brisbane](/executive-protection/brisbane/).

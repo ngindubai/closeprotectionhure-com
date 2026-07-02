@@ -35,8 +35,10 @@ faqs:
     answer: "Primary medical facility: West China Hospital, Sichuan University (+86-28-8542-2114). Emergency: 110 (police), 120 (ambulance). Medical routing is pre-planned as part of every operation order. CPOs hold current first-aid certification. Medical evacuation coordination is confirmed before deployment for principals on extended Chengdu programmes."
 ---
 
-Executive protection in Chengdu addresses a low risk environment: low - petty crime in tourist zones; seismic risk relevant for contingency planni. Sichuan PSB-registered operators cover Jinjiang CBD (Tianfu Square, Renmin South Road), Tianfu New  with pre-surveyed routes, operations controller oversight, and pre-planned medical routing to West China Hospital, Sichuan University.
+Executive protection in Chengdu is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against tourist-zone petty crime and seismic-risk contingencies: advance work on venues and routes, a written risk assessment, an operations controller, and PSB-registered secure movement integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 PSB-registered operators under the Regulation on Administration of Security Services (2009), supervised by Sichuan Province PSB is the regulatory baseline. All security delivered through Sichuan PSB-registered operators; seismic contingency planning incorporated into all operation orders.
 
 For Chengdu city context, see our [Chengdu security briefing](/cities/chengdu/). For transport security, see [security drivers in Chengdu](/security-drivers/chengdu/). For regional context, see [executive protection in Beijing](/executive-protection/beijing/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Chengdu](/bodyguard-hire/chengdu/). For the operators who staff the programme and how they are vetted, see [close protection officers in Chengdu](/close-protection-officers/chengdu/).

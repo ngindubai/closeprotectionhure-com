@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency number: 110 (police), 120 (ambulance). Primary facility: West China Hospital, Sichuan University (+86-28-8542-2114). Secondary: Sichuan Provincial People's Hospital (+86-28-8739-3901). Medical routing is pre-planned; CPOs hold current first-aid certification. The operation order includes evacuation routing from all principal accommodation."
 ---
 
-Chengdu presents a low risk environment requiring close protection planning; the primary concern is low - petty crime in tourist zones; seismic risk relevant for contingency planni. Sichuan PSB-registered operators provide close protection across Jinjiang CBD (Tianfu Square, Renmin South Road), Tianfu New .
+Hiring a bodyguard support arrangement in Chengdu is typically about petty crime in tourist zones and seismic-risk awareness rather than violent crime. This page covers how close protection support works in Sichuan, what a PSB-registered provider offers across a day of movements, and how quickly it can be arranged. Firearms are restricted to state agencies, so support is unarmed and built around planning, scaled to the visit rather than a fixed contract.
 
 PSB-registered operators under the Regulation on Administration of Security Services (2009), supervised by Sichuan Province PSB is the regulatory baseline. All security delivered through Sichuan PSB-registered operators; seismic contingency planning incorporated into all operation orders.
 
 Detailed city context is available on the [Chengdu city page](/cities/chengdu/). For transport security, see [vetted security drivers in Chengdu](/security-drivers/chengdu/). For regional coverage, see [bodyguard hire in Beijing](/bodyguard-hire/beijing/). Firearms: unarmed - no private firearms under Chinese law.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Chengdu](/executive-protection/chengdu/). To check the credentials and vetting behind the officers, see [close protection officers in Chengdu](/close-protection-officers/chengdu/).

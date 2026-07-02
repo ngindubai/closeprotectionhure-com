@@ -35,7 +35,7 @@ faqs:
     answer: "The CPO positions inside Lyon-Saint Exupery Airport (LYS) arrivals before the principal clears baggage claim. A pre-departure vehicle check is conducted. The LYS-to-city transfer takes 30 to 45 minutes (approximately 25km). The airport TGV station is assessed for lower-profile movements where appropriate. For principals with elevated threat profiles, counter-surveillance protocol is applied from the arrivals hall through the transfer to the principal's hotel."
 ---
 
-Close protection officer deployment in Lyon is governed by France's Code de la Securite Interieure (Book VI, Law 2011-267), with licensing administered by CNAPS (Conseil National des Activites Privees de Securite). Our Lyon CPO teams cover Lyon-Saint Exupery Airport (LYS) arrivals and departures, Part-Dieu and Presqu'ile corporate meetings, and Confluence and Cite Internationale engagements. France's elevated Vigipirate alert level (2026) is incorporated into all Lyon pre-deployment briefings and awareness postures.
+This page is about the people who provide close protection in Lyon: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Lyon network holds a current CNAPS professional card under French private security law, and is assessed for local competence. It covers standard team configuration, the prefectoral authorisation required for the uncommon armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 ## France regulatory context
 
@@ -44,3 +44,5 @@ All Lyon CPO operators hold current France credentials (carte professionnelle) u
 ## Complementary Lyon services
 
 For the full Lyon security picture, see the [Lyon city briefing](/cities/lyon/) and [secure airport transfers in Lyon](/secure-airport-transfers/lyon/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Lyon](/bodyguard-hire/lyon/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Lyon](/executive-protection/lyon/).

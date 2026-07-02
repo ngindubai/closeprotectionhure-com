@@ -35,7 +35,7 @@ faqs:
     answer: "CPO day rates in Los Angeles range from approximately $600 to $1,100 per day, as at June 2026, depending on individual experience, licensing level, and engagement type. Multi-day corporate programme rates apply a reduced daily rate for three or more consecutive days. Vehicle and operations controller costs are typically quoted separately; a combined EP package rate is available on request."
 ---
 
-Close protection officers operating in Los Angeles are licensed under California Bureau of Security and Investigative Services (BSIS), Business and Professions Code, with the California BSIS maintaining the registration register. For corporate executives, HNWI principals, and event organisers requiring vetted CPOs in Los Angeles, the licensing framework is the starting point for due diligence. The LAPD Crime Report 2025 (vehicle crime and smash-and-grab (LAPD Crime Report 2025)) informs the threat assessment that precedes every CPO deployment.
+This page is about the people who provide close protection in Los Angeles: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Los Angeles network holds a current BSIS Guard Card, with a firearms permit where armed, and is assessed for California-specific competence. It covers standard team configuration, the case-by-case basis for armed deployment, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Licensing and due diligence
 
@@ -46,3 +46,5 @@ Confirming the individual CPO's personal licence and the operating company's reg
 CPO deployments in Los Angeles cover Beverly Hills commercial district, Century City corporate towers, and Bel Air residential and the principal movement corridors across the I-405 San Diego Freeway, the I-10 Santa Monica Freeway, and Sepulveda Boulevard as the primary LAX surface route. Venue advance work, operations controller integration, and transport coordination with a vetted security driver are the components that distinguish a professional CPO engagement from a standalone hired presence.
 
 For related security services in Los Angeles, see our [Los Angeles city page](/cities/los-angeles/), [bodyguard hire in Los Angeles](/bodyguard-hire/los-angeles/), and [executive protection in Los Angeles](/executive-protection/los-angeles/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Los Angeles](/bodyguard-hire/los-angeles/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Los Angeles](/executive-protection/los-angeles/).

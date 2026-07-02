@@ -35,7 +35,7 @@ faqs:
     answer: "The CPO positions inside Helsinki-Vantaa Airport (HEL) arrivals before the principal clears baggage claim. A pre-departure vehicle check is conducted. The HEL-to-city transfer takes 20 to 40 minutes. For principals with elevated threat profiles, counter-surveillance protocol is applied from the arrivals hall through the transfer to the principal's hotel."
 ---
 
-Close protection officer deployment in Helsinki is governed by Finland's Finnish Private Security Services Act (1085/2015) framework. Our Helsinki CPO teams cover Helsinki-Vantaa Airport (HEL) arrivals and departures, Kamppi, Ruoholahti, and Pasila corporate meetings, and Kaivopuisto and Ullanlinna government and diplomatic engagements. Low-visibility operational profile is the standard for corporate assignments.
+This page is about the people who provide close protection in Helsinki: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Helsinki network holds a National Police Board (Poliisihallitus) licence under the Private Security Services Act, and is assessed for local competence. It covers standard team configuration, the not-standard basis for armed cover, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Finland regulatory context
 
@@ -44,3 +44,5 @@ All Helsinki CPO operators hold current Finland credentials under Finnish Privat
 ## Complementary Helsinki services
 
 For the full Helsinki security picture, see the [Helsinki city briefing](/cities/helsinki/) and [secure airport transfers in Helsinki](/secure-airport-transfers/helsinki/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Helsinki](/bodyguard-hire/helsinki/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Helsinki](/executive-protection/helsinki/).

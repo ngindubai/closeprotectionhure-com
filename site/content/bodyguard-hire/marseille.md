@@ -35,7 +35,7 @@ faqs:
     answer: "Yes. Marseille hosts a significant volume of commercial maritime arbitration and litigation given its role as a major port. We provide professional escorts for parties attending proceedings, manage access to legal facilities, and provide a visible deterrent against intimidation by opposing parties or their representatives."
 ---
 
-Marseille is France's second-largest city and its most important port, serving as a hub for Mediterranean shipping, logistics, and a rapidly expanding technology and services sector anchored by the Euroméditerranée regeneration zone. For visiting executives and HNWI, the city offers a dynamic business environment alongside a security profile that rewards professional preparation.
+Hiring a bodyguard in Marseille is usually tied to a specific visit, where organised crime, gang violence, and port-security considerations shape the plan more than routine tourist crime. This page covers how close protection hire works in France, what a CNAPS-licensed officer does across a day of movements, and how quickly cover is arranged. Armed cover is tightly restricted except in specific circumstances, so hire pairs an unarmed officer with secure transport, scaled to the itinerary.
 
 The risk picture in Marseille is uneven. Central and business districts operate at a broadly typical Western European risk level, while the northern arrondissements are associated with France's most active organised crime networks. The vast majority of business travel does not bring executives into contact with these areas, but route planning and local intelligence are essential for any client travelling beyond the immediate city centre or port district.
 
@@ -44,3 +44,5 @@ Our Marseille-based protection officers hold current CNAPS registration, as requ
 Details are typically configured for plain-clothes operation with low-profile vehicles, reflecting the preference of most corporate clients for discretion over a visible security presence. For clients attending large events at the Stade Velodrome or cultural venues, crowd-aware protection with pre-planned extraction routes is standard.
 
 See the full Marseille city security profile at [/cities/marseille/](/cities/marseille/) and review our [security drivers in Marseille](/security-drivers/marseille/) for dedicated ground transport across the Provence region.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Marseille](/executive-protection/marseille/). To check the credentials and vetting behind the officers, see [close protection officers in Marseille](/close-protection-officers/marseille/).

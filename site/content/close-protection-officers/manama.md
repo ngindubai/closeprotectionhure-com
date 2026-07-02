@@ -37,7 +37,7 @@ faqs:
     answer: "There is no regulatory requirement for CPOs in Bahrain to be nationals. Foreign close protection personnel may accompany principals and operate within the Ministry of Interior licensing framework. Commercial security contracting in Bahrain requires the operating company to hold Ministry of Interior licensing regardless of the nationality of individual CPOs."
 ---
 
-Close protection officer cover in Manama operates within Bahrain's Ministry of Interior licensing framework, drawing on a network of vetted operators familiar with the Gulf financial conference environment and the specific intelligence and social dynamics of Manama's corporate security landscape. Bahrain is a working Gulf hub: the Bahrain International Exhibition and Convention Centre, the Formula 1 circuit hospitality infrastructure, and a dense calendar of Islamic finance and investment events all generate regular CPO demand from visiting international executives.
+This page is about the people who provide close protection in Manama: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Manama network holds a licence from the Ministry of Interior's General Directorate of Criminal Investigation and Forensic Science, and is assessed for local competence. It covers standard team configuration, the not-routinely-armed model, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Manama CPO licensing framework
 
@@ -48,3 +48,5 @@ Bahrain's Ministry of Interior licenses both security companies and individual s
 Manama's most significant CPO requirement for most international business visitors is not protection from violent crime -- the city's physical security environment is moderate -- but from the commercial intelligence-gathering and social engineering approaches that occur regularly in high-profile Gulf conference settings. Senior executives attending sovereign wealth fund events, Islamic finance forums, and Vision-linked investment conferences require CPO cover calibrated to this environment, not only to physical threat scenarios.
 
 For complementary services in Manama, see our [Manama city page](/cities/manama/) and [bodyguard hire in Manama](/bodyguard-hire/manama/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Manama](/bodyguard-hire/manama/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Manama](/executive-protection/manama/).

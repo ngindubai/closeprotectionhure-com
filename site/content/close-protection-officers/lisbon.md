@@ -35,7 +35,7 @@ faqs:
     answer: "The CPO positions inside Lisbon Humberto Delgado Airport (LIS) arrivals before the principal clears baggage claim. A pre-departure vehicle check is conducted. The LIS-to-city transfer takes 20 to 30 minutes (approximately 7km). For principals with elevated threat profiles, counter-surveillance protocol is applied from the arrivals hall through the transfer to the principal's hotel."
 ---
 
-Close protection officer deployment in Lisbon is governed by Portugal's Law 34/2013 (Lei de Seguranca Privada) framework, with licensing administered by PSP (Policia de Seguranca Publica). Our Lisbon CPO teams cover Lisbon Humberto Delgado Airport (LIS) arrivals and departures, Parque das Nacoes and Chiado corporate meetings, and Baixa financial-district engagements. Low-visibility operational profile is the standard for corporate assignments.
+This page is about the people who provide close protection in Lisbon: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Lisbon network holds a valid PSP-issued licence under Lei n. 34/2013, and is assessed for local competence. It covers standard team configuration, the specific PSP authorisation required for the non-standard armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Portugal regulatory context
 
@@ -44,3 +44,5 @@ All Lisbon CPO operators hold current Portugal credentials under Law 34/2013 (Le
 ## Complementary Lisbon services
 
 For the full Lisbon security picture, see the [Lisbon city briefing](/cities/lisbon/) and [secure airport transfers in Lisbon](/secure-airport-transfers/lisbon/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Lisbon](/bodyguard-hire/lisbon/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Lisbon](/executive-protection/lisbon/).

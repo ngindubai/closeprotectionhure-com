@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Manchester for a CPO with vehicle and operations controller support range from approximately GBP 500 to GBP 950 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Manchester presents an executive protection environment defined by GMP Crime Report 2025: low corporate-area crime and a regulatory framework under Private Security Industry Act 2001, SIA. For senior executives and HNWI principals operating across Spinningfields legal and financial district, Deansgate hospitality corridor, and Salford Quays media campus, a structured EP programme reduces the exposure that uncoordinated travel creates. The GMP Crime Report 2025 and current advisory (FCDO normal precautions for UK 2026; UK terrorism threat SUBSTANTIAL (MI5 2026)) are the evidential baseline for every pre-travel assessment.
+Executive protection in Manchester is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against terrorism awareness and late-night disorder exposure: advance work on venues and routes, a written risk assessment, an operations controller, and SIA-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Manchester
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Manchester must be licensed under Priv
 Manchester's position in media (ITV, BBC Manchester, MediaCityUK), legal and financial services, and a major events economy creates a specific EP operating context: principals in these sectors face both the ambient threat picture identified in the GMP Crime Report 2025 and sector-specific risks, including competitive intelligence activity and, for some industries, targeted crime against high-value corporate visitors. The pre-travel assessment addresses both layers.
 
 For related security services in Manchester, see our [Manchester city page](/cities/manchester/), [security drivers in Manchester](/security-drivers/manchester/), and [bodyguard hire in Manchester](/bodyguard-hire/manchester/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Manchester](/bodyguard-hire/manchester/). For the operators who staff the programme and how they are vetted, see [close protection officers in Manchester](/close-protection-officers/manchester/).

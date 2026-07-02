@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Brisbane for a CPO with vehicle and operations controller support range from approximately AUD 800-1,300 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Brisbane presents an executive protection environment defined by a low risk profile and a regulatory framework under Security Providers Act 1993 (Queensland Police Service Weapons Licensing Branch). For senior executives and HNWI principals operating across the CBD, South Bank, and New Farm, a structured EP programme reduces the exposure that uncoordinated travel creates. Current advisory status and local police crime data are the evidential baseline for every pre-travel assessment.
+Executive protection in Brisbane is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against opportunistic property crime and entertainment-precinct disorder: advance work on venues and routes, a written risk assessment, an operations controller, and QPS-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Brisbane
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Brisbane must be licensed under Securi
 Brisbane's position in resources, infrastructure, finance, and major convention events creates a specific EP operating context: principals in these sectors face both the ambient threat picture and sector-specific risks identified in the pre-travel assessment. The threat picture (low. QPS Crime Statistics 2024 records low violent crime in the CBD and South Bank; opportunistic property crime and alcohol-related disorder occur in Fortitude Valley after dark.) informs route planning, advance work, and situational-awareness protocols for every engagement.
 
 For related security services in Brisbane, see our [Brisbane city page](/cities/brisbane/), [security drivers in Brisbane](/security-drivers/brisbane/), and [bodyguard hire in Brisbane](/bodyguard-hire/brisbane/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Brisbane](/bodyguard-hire/brisbane/). For the operators who staff the programme and how they are vetted, see [close protection officers in Brisbane](/close-protection-officers/brisbane/).

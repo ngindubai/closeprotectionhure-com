@@ -33,7 +33,7 @@ faqs:
     answer: "The medical plan for every Manama assignment includes the best available local medical facility for initial stabilisation and, where local capability is limited, evacuation routing to the nearest internationally accredited hospital. Medevac provider contacts are confirmed active before the principal's arrival. Medical evacuation insurance is the baseline requirement."
 ---
 
-Bodyguard hire in Manama operates within Bahrain's licensing framework, with close protection officers drawn from a vetted partner network holding valid national security authorisation.
+Hiring a bodyguard in Manama is usually tied to a specific visit, where Gulf-region terrorism threat and political demonstrations shape the plan more than routine crime. This page covers how close protection hire works in Bahrain, what a Ministry of Interior licensed officer does across a day of movements, and how quickly cover is arranged. Private personnel are not routinely armed, so hire pairs a licensed officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## The Manama security environment
 
@@ -44,3 +44,5 @@ The current security environment in Manama requires a bodyguard programme calibr
 A Manama bodyguard programme covers airport transfers with inside-terminal collection, accommodation in vetted properties in the primary security zone, in-city movement with pre-planned routes and operations controller tracking, and a documented emergency action plan with medevac provisions.
 
 For the full Manama security picture, see our [Manama city briefing](/cities/manama/). For principals requiring security drivers, [security drivers in Manama](/security-drivers/manama/) covers the Bahrain programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Manama](/executive-protection/manama/). To check the credentials and vetting behind the officers, see [close protection officers in Manama](/close-protection-officers/manama/).

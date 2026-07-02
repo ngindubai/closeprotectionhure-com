@@ -35,7 +35,7 @@ faqs:
     answer: "A foreign close protection officer may accompany a principal into Calgary as part of an international protective detail but cannot engage in commercial close protection for hire in Alberta without a current Alberta SSIA security worker licence from Service Alberta. For any commercial close protection work in Alberta, both the operating company and individual CPOs must hold appropriate Alberta licensing."
 ---
 
-Calgary is Canada's energy sector capital, hosting the headquarters of a significant proportion of the country's oil and gas, pipeline, and mining companies along the Downtown Core's Stephen Avenue corridor and the surrounding tower district. The concentration of senior executives from these sectors, combined with a well-documented commercial intelligence risk directed at energy firms, makes close protection a specific operational consideration for high-profile principals visiting or based in the city.
+This page is about the people who provide close protection in Calgary: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Calgary network holds a current SSIA licence under Alberta's Security Services and Investigators Act, with a federal PAL where armed, and is assessed for local competence. It covers standard team configuration, energy-sector experience, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Alberta SSIA licensing framework
 
@@ -54,3 +54,5 @@ Winter operations from October through March require additional planning: vehicl
 The operational threat picture for Calgary CPO work draws on Calgary Police Service (CPS) Crime Statistics 2024 and the established commercial intelligence risk profile of the Alberta energy sector. Licensing requirements are current under the Alberta Security Services and Investigators Act (SSIA) as at June 2026. Canadian Firearms Act provisions apply to any armed detail request. Rates cited are indicative for the Calgary market as at June 2026 and should be confirmed at time of enquiry.
 
 For complementary services, see our [Calgary city page](/cities/calgary/) and [bodyguard hire in Calgary](/bodyguard-hire/calgary/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Calgary](/bodyguard-hire/calgary/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Calgary](/executive-protection/calgary/).

@@ -35,6 +35,8 @@ faqs:
     answer: "Emergency number: 911. Primary facility: Foothills Medical Centre (403-944-1110). Medical routing to the nearest appropriate hospital is pre-planned, CPOs hold current first-aid certification, and medical evacuation routing is built into the operation order before deployment."
 ---
 
-Calgary is a low-risk environment for close protection deployments. For HNWI principals and corporate executives visiting the Downtown Core, Beltline, and the energy-sector corporate corridor, vetted bodyguards licensed under Security Services and Investigators Act (Alberta Justice and Solicitor General) provide a materially different standard of personal protection from unvetted alternatives. The local police crime data informs route planning and counter-surveillance protocols applied on Calgary's principal movement corridors.
+Hiring a bodyguard in Calgary is usually tied to a specific visit, where energy-sector targeting and extreme winter conditions shape the plan alongside property crime. This page covers how close protection hire works in Alberta, what an SSIA-licensed officer with a federal firearms licence does across a day of movements, and how quickly cover is arranged. Armed cover is available under federal PAL licensing, so hire pairs a licensed officer with secure transport, scaled to the itinerary.
 
 Detailed city context, including threat analysis and zone-by-zone risk notes, is available on the [Calgary city page](/cities/calgary/). For transport security, see our [vetted security drivers in Calgary](/security-drivers/calgary/). For regional coverage, see our [bodyguard hire in Vancouver](/bodyguard-hire/vancouver/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Calgary](/executive-protection/calgary/). To check the credentials and vetting behind the officers, see [close protection officers in Calgary](/close-protection-officers/calgary/).

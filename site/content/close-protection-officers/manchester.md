@@ -35,7 +35,7 @@ faqs:
     answer: "CPO day rates in Manchester range from approximately GBP 450 to GBP 850 per day, as at June 2026, depending on individual experience, licensing level, and engagement type. Multi-day corporate programme rates apply a reduced daily rate for three or more consecutive days. Vehicle and operations controller costs are typically quoted separately; a combined EP package rate is available on request."
 ---
 
-Close protection officers operating in Manchester are licensed under Private Security Industry Act 2001, Security Industry Authority (SIA), with the Security Industry Authority (SIA) maintaining the registration register. For corporate executives, HNWI principals, and event organisers requiring vetted CPOs in Manchester, the licensing framework is the starting point for due diligence. The GMP Crime Report 2025 (GMP Crime Report 2025: low corporate-area crime) informs the threat assessment that precedes every CPO deployment.
+This page is about the people who provide close protection in Manchester: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Manchester network holds a current SIA Close Protection licence under the Private Security Industry Act 2001, and is assessed for local competence. It covers standard team configuration, the fully unarmed model UK law requires, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Licensing and due diligence
 
@@ -46,3 +46,5 @@ Confirming the individual CPO's personal licence and the operating company's reg
 CPO deployments in Manchester cover Spinningfields legal and financial district, Deansgate hospitality corridor, and Salford Quays media campus and the principal movement corridors across the M60 orbital, the M56 Manchester Airport spur, and the Metrolink tram network. Venue advance work, operations controller integration, and transport coordination with a vetted security driver are the components that distinguish a professional CPO engagement from a standalone hired presence.
 
 For related security services in Manchester, see our [Manchester city page](/cities/manchester/), [bodyguard hire in Manchester](/bodyguard-hire/manchester/), and [executive protection in Manchester](/executive-protection/manchester/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Manchester](/bodyguard-hire/manchester/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Manchester](/executive-protection/manchester/).

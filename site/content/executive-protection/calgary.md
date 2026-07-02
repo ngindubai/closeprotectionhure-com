@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Calgary for a CPO with vehicle and operations controller support range from approximately CAD 700-1,200 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Calgary presents an executive protection environment defined by a low risk profile and a regulatory framework under Security Services and Investigators Act (Alberta Justice and Solicitor General). For senior executives and HNWI principals operating across the Downtown Core, Beltline, and the energy-sector corporate corridor, a structured EP programme reduces the exposure that uncoordinated travel creates. Current advisory status and local police crime data are the evidential baseline for every pre-travel assessment.
+Executive protection in Calgary is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against energy-sector targeting and extreme winter operational risk: advance work on venues and routes, a written threat assessment, an operations controller, and SSIA-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Calgary
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Calgary must be licensed under Securit
 Calgary's position in energy, oil and gas, finance, and major resources-sector corporate events creates a specific EP operating context: principals in these sectors face both the ambient threat picture and sector-specific risks identified in the pre-travel assessment. The threat picture (low. CPS Crime Statistics 2024 records low violent crime in the Downtown Core; elevated property crime citywide; severe winter conditions October through March require adapted vehicle protocols.) informs route planning, advance work, and situational-awareness protocols for every engagement.
 
 For related security services in Calgary, see our [Calgary city page](/cities/calgary/), [security drivers in Calgary](/security-drivers/calgary/), and [bodyguard hire in Calgary](/bodyguard-hire/calgary/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Calgary](/bodyguard-hire/calgary/). For the operators who staff the programme and how they are vetted, see [close protection officers in Calgary](/close-protection-officers/calgary/).
