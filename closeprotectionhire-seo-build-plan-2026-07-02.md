@@ -17,7 +17,7 @@ branch: master   # per CLAUDE.md — master is the ONLY deploy branch. Never mai
 - **[OPUS-REQUIRED]** — judgement under ambiguity or non-boilerplate authoring at scale. Must run on Opus. Do not let Sonnet improvise these.
 
 ## Global guardrails (apply to every batch)
-1. **Branch:** confirm `master` before any edit. Never `main`.
+1. **Branch:** commit directly to `master` (the deploy branch) and confirm `master` before any edit. Never `main`. **Never build on or hand-push to `live`** — `live` is the compiled HTML *output* branch, force-pushed by the deploy workflow (`peaceiris/actions-gh-pages`, `publish_branch: live`) on every push to `master`; source pushed there does not deploy, is wiped on the next deploy, and can break the Hostinger `public_html`. (Owner instruction, 2026-07-02: work directly on `master` rather than a feature branch; the earlier feature-branch `claude/close-protection-seo-audit-0yjirj` history was fast-forward-merged into `master`.)
 2. **Template quote safety:** in any `printf` inside a layout, use backticks — `printf \`%.1fs\` $x` — never escaped inner double-quotes. A ~17s red build = a template parse error (see CLAUDE.md).
 3. **JSON-LD safety:** wrap every interpolated string in schema with `| jsonify` (e.g. `"name": {{ .Title | jsonify }}`). This prevents an unescaped quote in city/description text from breaking the JSON and the build.
 4. **Build check before every commit:** from `site/`, run `hugo --gc --minify`. Expect 200+ pages, 0 errors. A failed or ~17s build must be fixed before commit.
@@ -427,6 +427,12 @@ Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** wi
 - **Verification:** build clean (0 errors); each silo's unique lede phrase renders once per page; all three siblings confirmed distinct across sampled cities (dubai, lagos, riyadh, sao-paulo); sibling cross-links resolve; QA gate clean (no em dashes, no safety-guarantee language) across all 30.
 - **Status:** committed.
 - **REMAINING (Batch 5 sub-batches 2..N):** ~254 more cities × 3 silos (~760 pages) still on the old overlapping ledes. Apply the SAME model + treatment, staged ~10 cities per run, Opus-authored ledes (or Sonnet under the "genuinely specific or leave" guardrail). Priority: finish the remaining 5 answer-block cities (mumbai, moscow, bangkok, manila, jakarta) next, then the wider network.
+
+### 2026-07-02 — Deploy + branch-rule change (owner instruction)
+- Owner directed all work to go live and to build on the deploy branch. Corrected a misdirection first: the owner said "build on the live branch," but `live` is the auto-generated compiled-output branch (force-pushed by CI, never hand-edited). The real deploy branch is `master`.
+- **Action:** fast-forward-merged the 10-commit feature branch `claude/close-protection-seo-audit-0yjirj` into `master` (0 divergence, no conflicts) and pushed `master`, triggering `build-and-publish.yml` → Hugo build → publish `site/public` to `live` → Hostinger deploy.
+- **Rule change (recorded in Global Guardrail 1):** commit directly to `master` from here; never build on/hand-push `live`.
+- CI Hugo version is 0.160.1 (local checks ran on 0.123.7); deploy run monitored for a clean build.
 
 ### 2026-07-02 — Plan maintenance
 - Added **Batch 1B (llms.txt)** to the plan per session rule 5, overriding the audit's "skip llms.txt" note.
