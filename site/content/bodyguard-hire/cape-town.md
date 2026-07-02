@@ -35,7 +35,7 @@ faqs:
     answer: "A PSIRA-graded close protection officer in Cape Town typically ranges from R4,500 to R10,000 per day per officer as at June 2026 (approximately GBP 190 to GBP 420). This range reflects grade, threat profile, and duration. Cape Town rates are comparable with Johannesburg. Armed cover and security driver integration add to this range. Event and conference security configurations are priced on the specific scope of the engagement."
 ---
 
-Cape Town is South Africa's legislative capital, the Western Cape's commercial hub, and one of the most significant tourist and conference destinations on the African continent. Its crime environment is more complex than its reputation in either direction: the V&A Waterfront, Atlantic Seaboard, and CBD have relatively low violent crime rates for the principal business and visitor areas, but the Western Cape as a whole -- particularly the Cape Flats townships -- has some of the highest gang violence and murder statistics in South Africa as published by the South African Police Service. CPO demand in Cape Town reflects this geography: it is specific to the transport corridors, the airport transfer, and principal profiles with specific threat indicators.
+Hiring a bodyguard in Cape Town is usually tied to a specific visit, where carjacking, airport follow-home robbery, and kidnapping shape the plan. This page covers how close protection hire works in South Africa, what a Grade A PSIRA-licensed officer does across a day of movements, and how quickly cover is arranged. Armed cover is legal and common given the crime environment, so hire pairs a licensed officer with a security driver, scaled to the itinerary rather than a fixed contract.
 
 ## The PSIRA framework in the Western Cape
 
@@ -46,3 +46,5 @@ PSIRA (Private Security Industry Regulatory Authority) operates under the Privat
 The key risk vectors that drive CPO engagement in Cape Town are: the N2 airport approach corridor (particularly the sections adjacent to the Cape Flats); night-time movement in parts of the city bowl and lower Observatory; and any movement outside the primary tourist and business areas without a vetted driver. Within the V&A Waterfront, Atlantic Seaboard, and CBD hotel and corporate districts, the ambient environment is manageable for most business visitors without formal CPO cover.
 
 For complementary services in Cape Town, see our [Cape Town city page](/cities/cape-town/) and [security drivers in Cape Town](/security-drivers/cape-town/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Cape Town](/executive-protection/cape-town/). To check the credentials and vetting behind the officers, see [close protection officers in Cape Town](/close-protection-officers/cape-town/).

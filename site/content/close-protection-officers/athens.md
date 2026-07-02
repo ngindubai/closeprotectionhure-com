@@ -35,7 +35,7 @@ faqs:
     answer: "The CPO positions inside Athens International Airport Eleftherios Venizelos (ATH) arrivals before the principal clears baggage claim. A pre-departure vehicle check is conducted. The ATH-to-city transfer takes 35 to 60 minutes. For principals with elevated threat profiles, counter-surveillance protocol is applied from the arrivals hall through the transfer to the principal's hotel."
 ---
 
-Close protection officer deployment in Athens is governed by Greece's Presidential Decree 78/2011 on Security Guards Licensing framework. Our Athens CPO teams cover Athens International Airport Eleftherios Venizelos (ATH) arrivals and departures, Marousi, Kifissia business corridor, and the Syntagma core corporate meetings, and Vassilissis Sofias avenue and Kolonaki government and diplomatic engagements. Low-visibility operational profile is the standard for corporate assignments.
+This page is about the people who provide close protection in Athens: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Athens network holds a Hellenic Police licence under Law 2518/1997, and is assessed for Greece-specific competence. It covers standard team configuration, the licensing that exists for armed cover even though it is not standard practice, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Greece regulatory context
 
@@ -44,3 +44,5 @@ All Athens CPO operators hold current Greece credentials under Presidential Decr
 ## Complementary Athens services
 
 For the full Athens security picture, see the [Athens city briefing](/cities/athens/) and [secure airport transfers in Athens](/secure-airport-transfers/athens/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Athens](/bodyguard-hire/athens/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Athens](/executive-protection/athens/).

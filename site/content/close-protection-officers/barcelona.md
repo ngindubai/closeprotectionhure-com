@@ -35,7 +35,7 @@ faqs:
     answer: "The CPO positions inside Barcelona El Prat Airport (BCN) arrivals before the principal clears baggage claim. A pre-departure vehicle check is conducted. The BCN-to-city transfer takes 30 to 40 minutes (approximately 12km). For principals with elevated threat profiles, counter-surveillance protocol is applied from the arrivals hall through the transfer to the principal's hotel."
 ---
 
-Close protection officer deployment in Barcelona is governed by Spain's Law 5/2014 on Private Security (Ley de Seguridad Privada), with licensing administered by Spain's Ministry of Interior. Our Barcelona CPO teams cover Barcelona El Prat Airport (BCN) arrivals and departures, Eixample and Diagonal Mar corporate meetings, and 22@ Innovation District engagements. The Mossos d'Esquadra crime environment in tourist areas is factored into all Barcelona route-planning and pre-deployment briefings.
+This page is about the people who provide close protection in Barcelona: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Barcelona network holds DGSN licensing under Spain's Ley de Seguridad Privada, and is assessed for local competence. It covers standard team configuration, the Ministry of Interior authorisation required for the less common armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Spain regulatory context
 
@@ -44,3 +44,5 @@ All Barcelona CPO operators hold current Spain credentials under Law 5/2014 on P
 ## Complementary Barcelona services
 
 For the full Barcelona security picture, see the [Barcelona city briefing](/cities/barcelona/) and [secure airport transfers in Barcelona](/secure-airport-transfers/barcelona/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Barcelona](/bodyguard-hire/barcelona/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Barcelona](/executive-protection/barcelona/).

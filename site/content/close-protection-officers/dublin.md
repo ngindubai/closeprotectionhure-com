@@ -35,7 +35,7 @@ faqs:
     answer: "The CPO positions inside Dublin Airport (DUB) arrivals before the principal clears baggage claim. A pre-departure vehicle check is conducted. The DUB-to-city transfer takes 20 to 40 minutes. For principals with elevated threat profiles, counter-surveillance protocol is applied from the arrivals hall through the transfer to the principal's hotel."
 ---
 
-Close protection officer deployment in Dublin is governed by Ireland's Private Security Services Act 2004 (as amended) framework. Our Dublin CPO teams cover Dublin Airport (DUB) arrivals and departures, IFSC Docklands (Silicon Docks) and Sandyford Business District corporate meetings, and Ballsbridge and Merrion Road government and diplomatic engagements. Low-visibility operational profile is the standard for corporate assignments.
+This page is about the people who provide close protection in Dublin: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Dublin network is licensed by the Private Security Authority under the Private Security Services Act 2004, and is assessed for Ireland-specific competence. It covers standard team configuration, the specific authorisation required beyond standard licensing for any armed variation, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Ireland regulatory context
 
@@ -44,3 +44,5 @@ All Dublin CPO operators hold current Ireland credentials under Private Security
 ## Complementary Dublin services
 
 For the full Dublin security picture, see the [Dublin city briefing](/cities/dublin/) and [secure airport transfers in Dublin](/secure-airport-transfers/dublin/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Dublin](/bodyguard-hire/dublin/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Dublin](/executive-protection/dublin/).

@@ -461,6 +461,12 @@ Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** wi
 - **Verification:** build clean (0 errors); all 10 cities' three siblings confirmed distinct; QA gate clean.
 - **Status:** committed + pushed to `master` (deploys). **55 of 278 bodyguard-hire cities now differentiated (165 pages).**
 
+### 2026-07-02 — Batch 5 (sub-batch 7 of N): Differentiation rollout, 10 more cities [SONNET, model already locked]
+- **Cities (10):** cape-town, casablanca, addis-ababa, algiers, amman, ankara, athens, barcelona, berlin, dublin. **Files: 30.**
+- Standard treatment throughout (intent lede 70–82 words citing each city's own regulator/threat: South Africa PSIRA Grade A, Morocco Law 27-06, Ethiopia's limited formal framework/NGO-diplomatic channels, Algeria MoI/Defence, Jordan Public Security Directorate, Turkey Law 5188, Greece Law 2518/1997, Spain DGSN, Germany Bewachungsverordnung/Waffenschein, Ireland PSA) + sibling cross-links.
+- **Verification:** build clean (0 errors); all 10 cities' three siblings confirmed distinct; QA gate clean.
+- **Status:** committed + pushed to `master` (deploys). **65 of 278 bodyguard-hire cities now differentiated (195 pages, ~23% of the network).**
+
 ### 2026-07-02 — Deploy + branch-rule change (owner instruction)
 - Owner directed all work to go live and to build on the deploy branch. Corrected a misdirection first: the owner said "build on the live branch," but `live` is the auto-generated compiled-output branch (force-pushed by CI, never hand-edited). The real deploy branch is `master`.
 - **Action:** fast-forward-merged the 10-commit feature branch `claude/close-protection-seo-audit-0yjirj` into `master` (0 divergence, no conflicts) and pushed `master`, triggering `build-and-publish.yml` → Hugo build → publish `site/public` to `live` → Hostinger deploy.

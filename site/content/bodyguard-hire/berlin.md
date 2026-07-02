@@ -35,7 +35,7 @@ faqs:
     answer: "A Section 34a-qualified close protection officer in Berlin ranges from approximately EUR 450 to EUR 950 per day per officer as at June 2026, depending on qualifications, threat profile, and duration. German CPO rates are competitive within Western Europe. Armed close protection is legally restricted in Germany to specific circumstances and requires additional licensing; standard Berlin CPO engagements use unarmed officers. Multi-officer team configurations are priced on a retainer basis."
 ---
 
-Berlin is Germany's capital, its largest city, and a significant venue for government, technology, start-up, and diplomatic activity. It combines a generally low ambient crime rate for business visitors with a documented terrorism awareness context (the 2016 Breitscheidplatz attack), periodic significant political protest activity, and a maturing private security sector regulated under Germany's Section 34a Gewerbeordnung framework. Close protection demand in Berlin is modest compared with London or Paris but serves a specific market: visiting senior government officials, executives in defence and technology sectors with intelligence-environment considerations, and HNWI visitors who maintain consistent security standards across European visits.
+Hiring a bodyguard in Berlin is typically about terrorism awareness and protest disruption rather than violent crime, which is low. This page covers how close protection hire works in Germany, what a Sachkundeprufung-certified officer does across a day of movements, and how quickly cover is arranged. A Waffenschein for armed cover is rarely granted for private assignments, so hire pairs an unarmed certified officer with secure transport, scaled to the visit rather than a fixed contract.
 
 ## The Section 34a framework
 
@@ -46,3 +46,5 @@ Section 34a of Germany's Gewerbeordnung (Trade Regulation Act) provides the fede
 Berlin CPO work is primarily driven by: visiting government and diplomatic delegations for whom official protocol security does not cover close-in personal protection; defence and technology executives with specific counter-intelligence considerations given Germany's role in NATO and the semiconductor supply chain; and HNWI visiting for the contemporary art market and Berlin's growing high-end cultural sector.
 
 For complementary services in Berlin, see our [Berlin city page](/cities/berlin/) and [security drivers in Berlin](/security-drivers/berlin/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Berlin](/executive-protection/berlin/). To check the credentials and vetting behind the officers, see [close protection officers in Berlin](/close-protection-officers/berlin/).
