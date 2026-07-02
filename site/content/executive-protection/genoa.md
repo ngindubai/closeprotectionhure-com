@@ -37,8 +37,10 @@ faqs:
     answer: "IRCCS Ospedale Policlinico San Martino is Genoa's principal university hospital and the primary medical routing point for all engagements. The emergency number for medical response is 118; 112 covers all emergency services. Medical routing for port-side and vessel-based deployments is confirmed separately for each engagement."
 ---
 
-Genoa is Italy's leading port city and home to major maritime, shipping, and naval construction groups including MSC Mediterranean Shipping, Fincantieri, and Grimaldi Lines. The security environment is low-risk: the FCDO Italy travel advice (2024) records petty theft and vehicle crime as the primary concerns for business travellers, with no elevated targeted-attack risk in Liguria. Executive protection in Genoa is calibrated toward discreet principal management, port-environment access coordination, and careful route planning through the city's distinctive historic lane network.
+Executive protection in Genoa is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against complex urban terrain and port and cruise-terminal risk: advance work on venues and routes, a written risk assessment, an operations controller, and Prefettura di Genova licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 Questura-licensed close protection officers manage principal movement across Porto Antico, the Caruggi quarter, and Stazione Marittima, with pedestrian advance essential in the vehicle-inaccessible medieval lanes. Cristoforo Colombo Airport (GOA) transfers, 6km from the city, are managed with inside-terminal collection and operations-controller tracking. Port-side meetings require advance coordination of Capitaneria di Porto clearances and vessel-access protocols, which are built into the deployment plan for every maritime engagement.
 
 For the broader Genoa security overview, see the [Genoa city page](/cities/genoa/). Clients requiring secure ground transport alongside CPO cover will find details at [security drivers Genoa](/security-drivers/genoa/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Genoa](/bodyguard-hire/genoa/).
