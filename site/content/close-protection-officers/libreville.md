@@ -35,7 +35,7 @@ faqs:
     answer: "Medical evacuation from Libreville typically routes to Nairobi for sub-Saharan African logistics or to Paris for cases requiring European-standard specialist care. Flight time to Nairobi is approximately 4 hours; Paris is approximately 6 hours. CPO deployment planning includes pre-agreed evacuation protocols and confirmation that the client's travel insurance policy covers air ambulance from Gabon."
 ---
 
-Libreville close protection operations are calibrated to Gabon's medium-risk profile in a transitional political environment: Interior Ministry-licensed operators managing the Leon M'ba Airport corridor, oil sector security coordination, and movement planning across the Quartier Louis and La Sabliere commercial districts in the post-CTRI period.
+This page is about the people who provide close protection in Libreville: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Libreville network holds registration with the relevant Gabonese authority, and is assessed for local competence. It covers standard team configuration, the restriction on foreign nationals carrying weapons, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Libreville
 
@@ -48,3 +48,5 @@ Interior Ministry-licensed operators deliver the Libreville CPO programme with c
 CPO teams operating in Libreville assess venue security across the principal's itinerary before arrival, confirm checkpoint status on planned routes, and establish medical evacuation lines as a standard pre-deployment step. The Quartier Louis and Glass business districts form the core operational zone; movement to peripheral neighbourhoods including Owendo port requires specific advance planning and heightened escort protocol.
 
 For the full Libreville security environment, see our [Libreville city briefing](/cities/libreville/). For principals attending conferences or hosted events, [event security in Libreville](/event-security/libreville/) covers venue assessment and crowd management planning.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Libreville](/bodyguard-hire/libreville/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Libreville](/executive-protection/libreville/).

@@ -33,6 +33,8 @@ faqs:
     answer: "Fairview Hospital and a small number of private clinics in Lusaka provide routine private care. For serious medical cases, evacuation to Johannesburg is the standard. Medical evacuation insurance with South Africa coverage is a pre-deployment requirement for all Zambia EP assignments, including the Copperbelt extension."
 ---
 
-Lusaka executive protection is calibrated to Zambia's medium-risk but commercially significant copper sector capital: Zambia Police-registered operators, mining principal risk profiling, Kenneth Kaunda Airport arrival management, and the Copperbelt extension capability that the sector increasingly requires.
+Executive protection in Lusaka is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing armed robbery, carjacking, and break-in risk: advance work on venues and routes, a written threat assessment, an operations controller, and Zambia Police Service registered secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 For the full Lusaka security picture, see our [Lusaka city briefing](/cities/lusaka/). For vetted secure transport alongside the EP team, [security drivers in Lusaka](/security-drivers/lusaka/) covers the Zambia driver programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Lusaka](/bodyguard-hire/lusaka/). For the operators who staff the programme and how they are vetted, see [close protection officers in Lusaka](/close-protection-officers/lusaka/).

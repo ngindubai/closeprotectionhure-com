@@ -33,7 +33,7 @@ faqs:
     answer: "Lusaka Trust Hospital and Levy Mwanawasa University Teaching Hospital provide the best available medical care in Lusaka. For serious trauma or complex medical conditions, the standard evacuation destination is Johannesburg (approximately 2.5 hours by air). Medical evacuation insurance with Johannesburg coverage is the baseline requirement for all Lusaka CPO assignments, and the operations controller holds medevac operator contacts as a standing brief component."
 ---
 
-Lusaka close protection is calibrated to Zambia's medium-risk profile and ZSIRA regulatory framework: licensed operators managing Kenneth Kaunda Airport arrivals, Kabulonga and Woodlands zone operations, and vehicle crime protocols for corporate, diplomatic, and mining sector principals.
+This page is about the people who provide close protection in Lusaka: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Lusaka network holds registration with the Zambia Police Service, and is assessed for local competence within a functioning but less developed regulatory framework. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Lusaka
 
@@ -42,3 +42,5 @@ Lusaka's comparatively stable security environment and well-regulated ZSIRA priv
 ZSIRA-licensed operators from our Zambia partner network deliver Lusaka CPO operations with current local knowledge and the regional southern Africa experience that mining and energy sector visitors require.
 
 For the full Lusaka security picture, see our [Lusaka city briefing](/cities/lusaka/). For principals requiring residential security alongside CPO cover, [residential security in Lusaka](/residential-security/lusaka/) covers the ZSIRA-licensed property programme.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Lusaka](/bodyguard-hire/lusaka/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Lusaka](/executive-protection/lusaka/).

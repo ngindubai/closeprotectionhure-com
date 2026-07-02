@@ -35,7 +35,7 @@ faqs:
     answer: "All CPOs deployed in Brazzaville hold current licences under Congolese private security regulation, have passed background checks appropriate to a high-risk environment, and have verifiable Central Africa operational experience. Operators without demonstrated Francophone Central Africa experience are not deployed in this environment."
 ---
 
-Brazzaville is the commercial and administrative capital of the Republic of Congo, with a high risk profile shaped by recent political violence, persistent street crime targeting foreign nationals, and proximity to instability in the DRC across the Congo River. Oil-sector executives, development-finance personnel, and NGO staff operating in Brazzaville require a close protection response that accounts for both street-level risks and the wider regional security picture.
+Hiring a bodyguard in Brazzaville is usually tied to a specific visit, where political instability and civil unrest shape the plan alongside street crime and infrastructure gaps. This page covers how close protection hire works in the Republic of Congo, what a licensed Congolese operator does across a day of movements, and how quickly cover is arranged. Foreign nationals may not carry weapons, so armed elements are delivered only through appropriately licensed operators, scaled to the itinerary.
 
 CPOs deployed in Brazzaville are experienced in Francophone Central African operating environments, hold valid licences under Congolese law, and are briefed on current FCDO and US State Department advisories before each assignment. The standard deployment model pairs a licensed CPO with a security-trained driver for all city movement.
 
@@ -44,3 +44,5 @@ For the full Brazzaville security picture, see our [Brazzaville city briefing](/
 ## What licensed close protection covers in Brazzaville
 
 A CPO team in Brazzaville provides secure airport transfers from BZV, advance route intelligence for all scheduled movements, hotel and residence security coordination in the Plateau district, and on-ground accompaniment for business meetings. For oil-sector clients, the team liaises with corporate security functions and advises on movement windows relative to current street-level intelligence in Poto-Poto and the port area.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Brazzaville](/executive-protection/brazzaville/). To check the credentials and vetting behind the officers, see [close protection officers in Brazzaville](/close-protection-officers/brazzaville/).

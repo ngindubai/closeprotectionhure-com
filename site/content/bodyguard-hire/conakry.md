@@ -33,7 +33,7 @@ faqs:
     answer: "For most mining and energy sector visits to Conakry, a dedicated bodyguard or at minimum a pre-booked vetted driver with operations controller cover is the appropriate baseline. The combination of armed robbery, junta political demonstrations, airport approach corridor risk, and very limited medical infrastructure makes Conakry one of West Africa's more demanding operating environments. General business-travel precautions are not a sufficient response to the documented threat profile."
 ---
 
-Conakry bodyguard hire operates within Guinea's military-rule environment: Ministry of Interior-licensed operators, airport approach management for a documented high-risk arrival corridor, and CPO awareness of the political demonstrations and civil unrest cycles that Guinea has experienced under the CNRD junta since September 2021.
+Hiring a bodyguard in Conakry is usually tied to a specific visit, where political instability and military rule shape the plan alongside armed robbery and civil unrest. This page covers how close protection hire works in Guinea under current military governance, what an established local operator with a track record provides across a day of movements, and how quickly cover is arranged. The formal licensing framework is limited, so operator selection is a critical step, scaled to the itinerary.
 
 ## The Conakry security environment
 
@@ -48,3 +48,5 @@ Private security in Guinea is regulated by the Ministry of Interior's Direction 
 A Conakry bodyguard programme covers inside-terminal collection at Ahmed Sekou Toure International Airport (CKY), accommodation in Kaloum peninsula, Dixinn, or Ratoma, political demonstration avoidance protocols, and an emergency plan with medevac provisions to Dakar (approximately 1 hour by air) or Abidjan (approximately 1.5 hours).
 
 For the full Conakry security picture, see our [Conakry city briefing](/cities/conakry/). For principals requiring vetted transport, [security drivers in Conakry](/security-drivers/conakry/) covers the Ministry-licensed driver programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Conakry](/executive-protection/conakry/). To check the credentials and vetting behind the officers, see [close protection officers in Conakry](/close-protection-officers/conakry/).

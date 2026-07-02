@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency procedures for Cotonou deployments must be established before the principal arrives. The close protection plan must specify: police contact protocol (emergency number: confirm locally), nearest medical facility (CNHU-HKM Cotonou), medevac pre-authorisation to Lagos or Accra, communications backup if primary network fails, and crisis comms protocol for the principal's organisation. Medevac insurance pre-authorisation is a non-negotiable requirement for any Cotonou deployment."
 ---
 
-Cotonou requires a close protection approach calibrated to its medium risk rating and the specific characteristics of Benin commercial and port environment. Fcdo advises a high degree of caution; us state dept level 2 overall, level 3 north (2026).
+Hiring a bodyguard in Cotonou is usually tied to a specific visit, where terrorism spillover from the north and Gulf of Guinea maritime risk shape the plan alongside political tension and demonstrations. This page covers how close protection hire works in Benin, what a Ministry of Interior licensed operator under Decree No. 2005-344 does across a day of movements, and how quickly cover is arranged. Deployments typically use unarmed guards with armed support for the highest-risk principals.
 
 For corporate and high-net-worth principals visiting Cotonou, the standard bodyguard hire deployment includes a vetted security driver for all airport and city movements, advance work covering hotel and venue security surveys, and mobile close protection calibrated to the principal's individual threat profile. All close protection officers deployed in Benin must hold licensing from the Beninese Ministry of Interior and Public Security. Medical evacuation pre-arrangement to Lagos or Accra is a mandatory component of any Cotonou protective deployment.
 
 For regional security context, see our [Lagos security briefing](/cities/lagos/) and our [bodyguard hire services in Lome](/bodyguard-hire/lome/). See also our [Cotonou city security briefing](/cities/cotonou/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Cotonou](/executive-protection/cotonou/). To check the credentials and vetting behind the officers, see [close protection officers in Cotonou](/close-protection-officers/cotonou/).

@@ -37,7 +37,7 @@ faqs:
     answer: "Yes, with a separate remote site assessment. Swakopmund and the Walvis Bay corridor (Rossing, Husab) require extended CPO protocols beyond the standard Windhoek city assignment. The B2 highway transfer (approximately 4 hours by road), accommodation vetting in Swakopmund, and site-specific access coordination are added to the deployment plan. The Security Officers' Board licence covers Namibia nationally, so the same operator can cover both Windhoek and coastal site elements of an assignment."
 ---
 
-Windhoek close protection operations address the Security Officers' Act licensing framework, the 42km WDH airport corridor, and team configurations suited to mining sector, diplomatic, and corporate assignments in one of southern Africa's more stable capitals.
+This page is about the people who provide close protection in Windhoek: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Windhoek network holds licensing under Namibia's Security Officers' Act, and is assessed for local competence. It covers standard team configuration, the restriction on foreign nationals carrying weapons, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Windhoek
 
@@ -46,3 +46,5 @@ Namibia maintains a stable democratic governance environment and a security prof
 ## Planning framework for Windhoek CPO assignments
 
 Pre-deployment planning covers the WDH airport transfer, Windhoek movement map, remote site assessment for uranium or diamond sector visits, medevac to Mediclinic Windhoek and Johannesburg, and team configuration. For the full Windhoek security picture, see our [Windhoek city briefing](/cities/windhoek/). For mining sector events and investor meetings in Windhoek, [event security in Windhoek](/event-security/windhoek/) covers venue access and delegate management.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Windhoek](/bodyguard-hire/windhoek/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Windhoek](/executive-protection/windhoek/).

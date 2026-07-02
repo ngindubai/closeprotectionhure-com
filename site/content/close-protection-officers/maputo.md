@@ -33,7 +33,7 @@ faqs:
     answer: "Maputo Private Hospital is the primary international-standard medical facility in Maputo. For serious trauma or conditions beyond Maputo's capacity, medical evacuation to Johannesburg (approximately 1 hour by air) is standard. Medical evacuation insurance with Johannesburg coverage is the baseline requirement for all Maputo assignments, and the operations controller holds medevac operator contacts as a standing brief element."
 ---
 
-Maputo close protection is calibrated to Mozambique's energy sector operating standard and high-risk urban environment: Ministry of Interior-licensed operators managing Maputo International Airport arrivals, armed robbery counter-protocols, Sommerschield and Polana zone operations, and medevac-ready emergency planning for the oil and gas sector visitor base.
+This page is about the people who provide close protection in Maputo: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Maputo network holds a Ministry of Interior licence, and is assessed for local competence within a less formally regulated sector than South Africa or Kenya. It covers standard team configuration, extra due-diligence steps, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Maputo
 
@@ -42,3 +42,5 @@ Maputo's CPO market has developed alongside the growth of natural gas investment
 Ministry of Interior-licensed operators from our southern Africa network deliver Maputo CPO operations with current local knowledge and Portuguese-language capability.
 
 For the full Maputo security picture, see our [Maputo city briefing](/cities/maputo/). For principals requiring residential security alongside CPO cover, [residential security in Maputo](/residential-security/maputo/) covers the Ministry-licensed property programme.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Maputo](/bodyguard-hire/maputo/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Maputo](/executive-protection/maputo/).

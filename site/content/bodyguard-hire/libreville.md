@@ -35,7 +35,7 @@ faqs:
     answer: "Yes. French is the working language of Gabon and all CPOs deployed in Libreville are operationally fluent in French. Bilingual English-French operators are available for principals who prefer English as the primary briefing language."
 ---
 
-Libreville is the commercial and diplomatic hub of Gabon, a country navigating a period of political transition following the removal of President Ali Bongo in August 2023. For oil-sector executives, development-finance personnel, and corporate travellers with business interests in Gabon, the city's medium risk profile requires a proportionate response. A vetted close protection officer provides the appropriate baseline for movement in areas outside the Quartier Louis diplomatic corridor, particularly for after-dark engagements or visits to the port district.
+Hiring a bodyguard in Libreville is usually tied to a specific visit, where political volatility shapes the plan alongside street crime and road safety risk. This page covers how close protection hire works in Gabon, what a licensed Gabonese operator does across a day of movements, and how quickly cover is arranged. Foreign nationals may not carry weapons, so armed cover, where warranted, is provided only through licensed Gabonese operators, scaled to the itinerary.
 
 Operators deployed in Libreville combine local knowledge of the post-coup operating environment with the professional standards expected by multinational employers operating under duty-of-care obligations. All CPOs are registered under Gabon's national private security framework and are briefed on current FCDO and US State Department advisories before deployment.
 
@@ -44,3 +44,5 @@ For the full Libreville security picture, see our [Libreville city briefing](/ci
 ## What licensed close protection covers in Libreville
 
 A CPO in Libreville provides advance route planning, secure airport transfers from LBV, hotel and residence security coordination, and on-ground accompaniment for business meetings. For oil-sector clients visiting Perenco, Assala Energy, or TotalEnergies facilities, the team also coordinates with corporate security functions and advises on movement windows relative to current street-level intelligence.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Libreville](/executive-protection/libreville/). To check the credentials and vetting behind the officers, see [close protection officers in Libreville](/close-protection-officers/libreville/).

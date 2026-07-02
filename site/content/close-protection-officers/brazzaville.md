@@ -37,7 +37,7 @@ faqs:
     answer: "FCDO advises against all travel to the Pool region south of Brazzaville due to persistent armed militia activity. CPO service is not offered for Pool region travel under any commercial brief. Principals with humanitarian or diplomatic requirements for Pool region access should engage specialist high-threat operators with specific Republic of Congo armed escort authorisation and coordinate with FCDO and local authorities before any movement. Source: FCDO Republic of Congo travel advice, 2026."
 ---
 
-Brazzaville close protection operations address the Republic of Congo's high-risk profile: Interior Ministry-licensed operators managing the Maya-Maya Airport transfer, the Congo River port crossing to and from Kinshasa, Pool region exclusion protocols, and after-dark movement in the Plateau district for oil sector and diplomatic principals.
+This page is about the people who provide close protection in Brazzaville: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Brazzaville network holds licensing from the relevant Congolese ministry, and is assessed for local competence. It covers standard team configuration, the restriction on foreign nationals carrying weapons, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Brazzaville
 
@@ -50,3 +50,5 @@ FCDO maintained a against-all-but-essential travel advisory for Brazzaville and 
 CPO teams operating in Brazzaville are briefed on the current Pool region situation before deployment, even when the assignment is entirely urban, because principals sometimes seek to extend their itinerary to sites south of the capital. Pre-arrival route planning covers the Maya-Maya Airport corridor, the Plateau-Bacongo movement zones, and the Beach port if a Kinshasa connection is part of the trip.
 
 For the full Brazzaville security picture, see our [Brazzaville city briefing](/cities/brazzaville/). For principals managing hosted events or receptions in the capital, [event security in Brazzaville](/event-security/brazzaville/) covers venue assessment and access control.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Brazzaville](/bodyguard-hire/brazzaville/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Brazzaville](/executive-protection/brazzaville/).

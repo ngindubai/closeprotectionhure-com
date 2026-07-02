@@ -33,6 +33,8 @@ faqs:
     answer: "SOS Clinica (International SOS network) provides the best available private care in Maputo for acute cases. For serious medical cases, evacuation to Johannesburg is the standard response. Medical evacuation insurance covering South Africa is a non-negotiable pre-deployment requirement for all Mozambique EP assignments."
 ---
 
-Maputo executive protection is calibrated to one of southern Africa's most operationally demanding energy sector capitals: Ministry-licensed operators, LNG sector principal risk profiling, airport corridor carjacking management, and the post-2024 political monitoring that Mozambique's contested environment requires.
+Executive protection in Maputo is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing armed robbery, carjacking, and the northern terrorism threat: advance work on venues and routes, a written threat assessment, an operations controller, and Ministry of Interior licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 For the full Maputo security picture, see our [Maputo city briefing](/cities/maputo/). For vetted secure transport alongside the EP team, [security drivers in Maputo](/security-drivers/maputo/) covers the Mozambique driver programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Maputo](/bodyguard-hire/maputo/). For the operators who staff the programme and how they are vetted, see [close protection officers in Maputo](/close-protection-officers/maputo/).

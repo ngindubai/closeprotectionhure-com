@@ -33,8 +33,10 @@ faqs:
     answer: "SOS Clinica (linked to the International SOS network) provides the best available private care in Maputo. For serious medical cases, evacuation to Johannesburg is the standard response. Medical evacuation insurance covering evacuation to South Africa is a non-negotiable requirement for any Mozambique assignment."
 ---
 
-Maputo bodyguard hire serves one of southern Africa's most operationally complex energy sector capitals: armed robbery and carjacking awareness for the airport corridor and city movement, post-election political instability monitoring, and the LNG sector context that makes Mozambique an increasingly important destination for international energy executives.
+Hiring a bodyguard in Maputo is usually tied to a specific visit, where armed robbery and carjacking shape the plan alongside the northern Mozambique terrorism threat and political instability. This page covers how close protection hire works in Mozambique, what a Ministry of Interior licensed operator does across a day of movements, and how quickly cover is arranged. The sector is less formally regulated than South Africa or Kenya, so operator due diligence matters; hire pairs a vetted officer with secure transport.
 
 Ministry of Interior-licensed operators with documented Mozambique experience deliver close protection calibrated to Maputo's specific demands.
 
 For the full Maputo security picture, see our [Maputo city briefing](/cities/maputo/). For the broader southern Africa network, [bodyguard hire in Johannesburg](/bodyguard-hire/johannesburg/) covers the South Africa CPO programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Maputo](/executive-protection/maputo/). To check the credentials and vetting behind the officers, see [close protection officers in Maputo](/close-protection-officers/maputo/).

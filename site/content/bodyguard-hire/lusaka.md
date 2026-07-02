@@ -33,8 +33,10 @@ faqs:
     answer: "Fairview Hospital and a small number of private clinics in Lusaka provide routine private care. For serious medical cases, evacuation to Johannesburg is the standard. Medical evacuation insurance with South Africa coverage is a pre-deployment requirement for all Zambia assignments."
 ---
 
-Lusaka bodyguard hire reflects Zambia's position as a medium-risk but commercially significant destination for the copper and cobalt sector: carjacking awareness at night, Kenneth Kaunda Airport transfer management, and the Copperbelt extension capability that mining sector executives increasingly require.
+Hiring a bodyguard in Lusaka is usually tied to a specific visit, where armed robbery, carjacking, and home and business break-ins shape the plan. This page covers how close protection hire works in Zambia, what a Zambia Police Service registered operator does across a day of movements, and how quickly cover is arranged. Armed cover is available through licensed Zambian operators, so hire pairs a registered officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 Zambia Police-registered operators with southern Africa experience deliver close protection calibrated to Lusaka's specific operating environment and the Copperbelt extension.
 
 For the full Lusaka security picture, see our [Lusaka city briefing](/cities/lusaka/). For the southern Africa regional network, [bodyguard hire in Johannesburg](/bodyguard-hire/johannesburg/) covers the South Africa CPO programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Lusaka](/executive-protection/lusaka/). To check the credentials and vetting behind the officers, see [close protection officers in Lusaka](/close-protection-officers/lusaka/).

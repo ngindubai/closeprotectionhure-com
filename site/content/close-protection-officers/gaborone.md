@@ -37,7 +37,7 @@ faqs:
     answer: "For most professional assignments in Gaborone, CPO cover is precautionary: Botswana maintains a stable security environment with low violent crime rates relative to the southern African region. FCDO advises normal travel precautions; the US State Department rates Botswana at Level 1. CPO is most commonly used for diamond sector executives, diplomatic principals, and HNWI visitors where a professional protective posture is expected regardless of the ambient risk level. Source: FCDO Botswana travel advice, 2026."
 ---
 
-Gaborone close protection operations are built around the Private Security Industry Regulation Act licensing framework, the 15km GBE airport corridor, and team configurations calibrated for diamond sector, diplomatic, and corporate assignments in one of southern Africa's most stable capitals.
+This page is about the people who provide close protection in Gaborone: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Gaborone network holds licensing under the Private Security Industry Regulation Act, and is assessed for local competence. It covers standard team configuration, the restriction on foreign nationals carrying weapons, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Gaborone
 
@@ -46,3 +46,5 @@ Botswana maintains one of Africa's most stable democratic governance structures 
 ## Planning framework for Gaborone CPO assignments
 
 Pre-deployment planning covers the GBE airport transfer, Gaborone movement map (CBD, Fairgrounds, Diamond Technology Park), medevac to Johannesburg, and team configuration. For the full Gaborone security picture, see our [Gaborone city briefing](/cities/gaborone/). For investor events and diamond sector meetings in the capital, [event security in Gaborone](/event-security/gaborone/) covers venue access management and delegate coordination.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Gaborone](/bodyguard-hire/gaborone/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Gaborone](/executive-protection/gaborone/).

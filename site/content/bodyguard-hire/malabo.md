@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency procedures for Malabo deployments must be established before the principal arrives. The close protection plan must specify: police contact protocol (emergency number: confirm locally), nearest medical facility (Clinica La Paz de Malabo), medevac pre-authorisation to Douala or Libreville, communications backup if primary network fails, and crisis comms protocol for the principal's organisation. Medevac insurance pre-authorisation is a non-negotiable requirement for any Malabo deployment."
 ---
 
-Malabo requires a close protection approach calibrated to its high risk rating and the specific characteristics of Equatorial Guinea oil sector environment. Fcdo advises a high degree of caution; us state dept level 2 (2026).
+Hiring a bodyguard in Malabo is usually tied to a specific visit, where authoritarian governance and institutional opacity shape the plan alongside Gulf of Guinea piracy risk affecting maritime approaches. This page covers how close protection hire works in Equatorial Guinea, what a Ministry of National Security authorised operator does across a day of movements, and how quickly cover is arranged. Operators experienced working within this environment are preferable, scaled to the itinerary.
 
 For corporate and high-net-worth principals visiting Malabo, the standard bodyguard hire deployment includes a vetted security driver for all airport and city movements, advance work covering hotel and venue security surveys, and mobile close protection calibrated to the principal's individual threat profile. All close protection officers deployed in Equatorial Guinea must hold licensing from the Equatoguinean Ministry of National Security. Medical evacuation pre-arrangement to Douala or Libreville is a mandatory component of any Malabo protective deployment.
 
 For regional security context, see our [Douala security briefing](/cities/douala/) and our [bodyguard hire services in Libreville](/bodyguard-hire/libreville/). See also our [Malabo city security briefing](/cities/malabo/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Malabo](/executive-protection/malabo/). To check the credentials and vetting behind the officers, see [close protection officers in Malabo](/close-protection-officers/malabo/).

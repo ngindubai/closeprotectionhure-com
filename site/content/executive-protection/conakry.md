@@ -43,7 +43,7 @@ faqs:
     answer: "The Kaloum peninsula houses the central business district and government ministries. Dixinn is the primary diplomatic and international organisation zone. Both areas are connected by the single main peninsula artery, which requires careful timing and route management given Conakry's significant traffic congestion."
 ---
 
-Executive protection in Conakry serves a client base defined primarily by the mining sector, diplomatic missions, and international organisations operating in a post-coup West African capital with high crime rates, limited medical infrastructure, and an unpredictable political environment. Programmes are built around DNSP-licensed local operators with current post-coup access relationships, armed EP capability, and a medevac plan to Dakar or Abidjan as the foundational safety net.
+Executive protection in Conakry is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against political instability under military rule and armed-robbery risk: advance work on venues and routes, a written threat assessment, an operations controller, and an established local operator's secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a visit, where operator track record is the critical selection factor.
 
 ## The Conakry security environment
 
@@ -60,3 +60,5 @@ An EP programme in Conakry is built around the principal's movement profile on t
 The programme incorporates daily route variation to break predictability on the peninsula road, a confirmed medevac provider on retainer, and a first-aid-qualified team member as standard. Driver selection is built into the programme: Conakry drivers with working knowledge of secondary routes and neighbourhood access roads provide movement flexibility when the main artery is compromised.
 
 For the full Conakry security picture, see our [Conakry city briefing](/cities/conakry/). For vetted secure transport alongside the EP team, [security drivers in Conakry](/security-drivers/conakry/) covers the Guinea driver programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Conakry](/bodyguard-hire/conakry/). For the operators who staff the programme and how they are vetted, see [close protection officers in Conakry](/close-protection-officers/conakry/).

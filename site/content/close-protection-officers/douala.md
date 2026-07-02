@@ -37,7 +37,7 @@ faqs:
     answer: "Douala's economy is driven by the seaport (the primary freight gateway for the Central African Economic Community), timber and agri-business, hydrocarbon sector activities, and significant telecommunications and banking investment. International company representatives visiting commodity, oil, and infrastructure operations in the Littoral region are the primary CPO principal categories."
 ---
 
-Douala is Cameroon's economic capital and Central Africa's primary port city, generating international business travel from the oil, timber, agri-business, and infrastructure sectors. Close protection officer cover in Douala addresses an armed robbery and vehicle crime environment, political tensions from the Anglophone armed conflict in Cameroon's western regions, and the specific after-dark risks of the Akwa district. The city is not at the extreme end of the West African risk spectrum, but the absence of a robust regulatory enforcement environment means that operator quality assessment is particularly important.
+This page is about the people who provide close protection in Douala: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Douala network holds MINAT authorisation, with registration and identification documentation, and is assessed for local competence. It covers standard team configuration, armed authorisation for high-risk principals, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The MINAT licensing framework
 
@@ -46,3 +46,5 @@ Cameroon's Ministry of Territorial Administration (MINAT) authorises private sec
 ## CPO operations in Douala
 
 MINAT-licensed CPO cover, vehicle-based movement for all inter-venue transfers, operations restricted to Bonanjo and Bonapriso zones for standard corporate assignments, after-dark protocols, operations controller support, and a written emergency plan with pre-confirmed contacts at Clinique Bastos and the British High Commission Yaounde. For the full Douala security picture, see our [Douala city page](/cities/douala/) and [bodyguard hire in Douala](/bodyguard-hire/douala/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Douala](/bodyguard-hire/douala/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Douala](/executive-protection/douala/).
