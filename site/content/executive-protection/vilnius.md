@@ -35,8 +35,10 @@ faqs:
     answer: "Post-deployment review after each Vilnius visit provides: a record of security incidents or near-misses, performance assessment of suppliers and venues, route assessment for future visits, and recommended adjustments to the protective posture. This creates a continuously improving security baseline for organisations with recurring Vilnius travel requirements and provides corporate governance documentation for duty-of-care audits."
 ---
 
-Executive protection in Vilnius is structured around the low risk rating for Lithuania and the specific operational requirements of Vilnius's principal movement corridors, venues, and emergency response infrastructure. Normal precautions for lithuania (2026); US State Dept Level 1 (Exercise Normal Precautions) for Lithuania (2026).
+Executive protection in Vilnius is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against Belarus-border proximity and hybrid-pressure risk: advance work on venues and routes, a written threat assessment, an operations controller, and Lithuanian Police licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 A professional EP deployment begins with advance work -- threat assessment, hotel and venue surveys, route pre-surveys, and medevac pre-arrangement to Warsaw or Helsinki -- completed before the principal arrives at Vilnius Airport (VNO). The protective posture during the visit covers vetted transport for all movements, dedicated close protection for higher-risk engagements, residential or hotel security, and a documented emergency response plan. Post-deployment review produces a continuously improving security baseline.
 
 For regional EP context, see our [Bodyguard Hire Riga](/bodyguard-hire/riga/) and our [Vilnius city security briefing](/cities/vilnius/). For transport security, see our [security drivers in Vilnius](/security-drivers/vilnius/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Vilnius](/bodyguard-hire/vilnius/). For the operators who staff the programme and how they are vetted, see [close protection officers in Vilnius](/close-protection-officers/vilnius/).

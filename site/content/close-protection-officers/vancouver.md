@@ -35,7 +35,7 @@ faqs:
     answer: "CPO day rates in Vancouver range from approximately CAD 600 to CAD 1,100 per day, as at June 2026, depending on individual experience, licensing level, and engagement type. Multi-day corporate programme rates apply a reduced daily rate for three or more consecutive days. Vehicle and operations controller costs are typically quoted separately; a combined EP package rate is available on request."
 ---
 
-Close protection officers operating in Vancouver are licensed under BC Security Services Act 2007, BC Ministry of Public Safety, Security Programs Division, with the BC Ministry of Public Safety, Security Programs Division maintaining the registration register. For corporate executives, HNWI principals, and event organisers requiring vetted CPOs in Vancouver, the licensing framework is the starting point for due diligence. The VPD Statistical Report 2025 (Downtown Eastside opioid crisis elevated property crime (VPD Statistical Report 2025)) informs the threat assessment that precedes every CPO deployment.
+This page is about the people who provide close protection in Vancouver: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Vancouver network holds a current British Columbia Security Services Act licence, and is assessed for local competence. It covers standard team configuration, the fully unarmed model in effect, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Licensing and due diligence
 
@@ -46,3 +46,5 @@ Confirming the individual CPO's personal licence and the operating company's reg
 CPO deployments in Vancouver cover Coal Harbour waterfront corporate district, Yaletown technology and creative hub, and West End residential and the principal movement corridors across Highway 99 from YVR, the Trans-Canada Highway approach, and the Sea-to-Sky corridor for Whistler transfers. Venue advance work, operations controller integration, and transport coordination with a vetted security driver are the components that distinguish a professional CPO engagement from a standalone hired presence.
 
 For related security services in Vancouver, see our [Vancouver city page](/cities/vancouver/), [bodyguard hire in Vancouver](/bodyguard-hire/vancouver/), and [executive protection in Vancouver](/executive-protection/vancouver/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Vancouver](/bodyguard-hire/vancouver/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Vancouver](/executive-protection/vancouver/).

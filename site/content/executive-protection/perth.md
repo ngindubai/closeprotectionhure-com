@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Perth for a CPO with vehicle and operations controller support range from approximately AUD 800-1,300 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Perth presents an executive protection environment defined by a low risk profile and a regulatory framework under Security Agents Licensing Act 1992 (WA Department of Justice Licensing Enforcement Division). For senior executives and HNWI principals operating across the CBD, Subiaco, and the Perth Convention and Exhibition Centre precinct, a structured EP programme reduces the exposure that uncoordinated travel creates. Current advisory status and local police crime data are the evidential baseline for every pre-travel assessment.
+Executive protection in Perth is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against mining-sector targeting and geographic-isolation logistics: advance work on venues and routes, a written risk assessment, an operations controller, and Security Agents Licensing Act licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Perth
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Perth must be licensed under Security 
 Perth's position in mining, resources, finance, and major resources-sector conference events creates a specific EP operating context: principals in these sectors face both the ambient threat picture and sector-specific risks identified in the pre-travel assessment. The threat picture (low. WAPOL Crime Statistics 2024 records low violent crime citywide; opportunistic property crime in the CBD and Northbridge after dark; geographic isolation requires advance medical evacuation planning.) informs route planning, advance work, and situational-awareness protocols for every engagement.
 
 For related security services in Perth, see our [Perth city page](/cities/perth/), [security drivers in Perth](/security-drivers/perth/), and [bodyguard hire in Perth](/bodyguard-hire/perth/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Perth](/bodyguard-hire/perth/). For the operators who staff the programme and how they are vetted, see [close protection officers in Perth](/close-protection-officers/perth/).

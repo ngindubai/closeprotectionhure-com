@@ -35,6 +35,8 @@ faqs:
     answer: "Emergency number: 000. Primary facility: Royal Perth Hospital (08-9224-2244). Medical routing to the nearest appropriate hospital is pre-planned, CPOs hold current first-aid certification, and medical evacuation routing is built into the operation order before deployment."
 ---
 
-Perth is a low-risk environment for close protection deployments. For HNWI principals and corporate executives visiting the CBD, Subiaco, and the Perth Convention and Exhibition Centre precinct, vetted bodyguards licensed under Security Agents Licensing Act 1992 (WA Department of Justice Licensing Enforcement Division) provide a materially different standard of personal protection from unvetted alternatives. The local police crime data informs route planning and counter-surveillance protocols applied on Perth's principal movement corridors.
+Hiring a bodyguard in Perth is typically about mining-sector targeting and geographic isolation rather than violent street crime, which is low. This page covers how close protection hire works in Western Australia, what a Security Agents Licensing Act licensed officer does across a day of movements, and how quickly cover is arranged. Armed cover requires a WA Police Force firearms licence, so hire pairs a licensed officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 Detailed city context, including threat analysis and zone-by-zone risk notes, is available on the [Perth city page](/cities/perth/). For transport security, see our [vetted security drivers in Perth](/security-drivers/perth/). For regional coverage, see our [bodyguard hire in Sydney](/bodyguard-hire/sydney/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Perth](/executive-protection/perth/). To check the credentials and vetting behind the officers, see [close protection officers in Perth](/close-protection-officers/perth/).

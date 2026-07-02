@@ -37,8 +37,10 @@ faqs:
     answer: "A CPO deployment in Riga includes: advance work (threat assessment, venue and hotel surveys, route pre-surveys from RIX), airport transfer protocol at Riga International Airport (RIX), principal briefing on the Latvia operational environment, vetted transport for all movements, and documented emergency response planning including medevac to Stockholm or Helsinki."
 ---
 
-Riga is the capital of Latvia, a low-risk operating environment for close protection deployments. Riga is a low-ambient-risk EU and NATO capital where the principal security considerations for visiting executives are cyber and information security rather than physical threat. The Latvian State Security Service (SAB) Annual Report (2025) identifies Russian state-sponsored cyber operations and information influence campaigns as the primary strategic threat. FCDO advises normal precautions for Latvia (2026); US State Dept Level 1 (2026).
+This page is about the people who provide close protection in Riga: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Riga network is registered under Latvia's Security Activities Law and licensed by the Security Police, and is assessed for local competence. It covers standard team configuration, the separate specialist permit required for the uncommon armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 CPO deployments in Riga serve NATO-linked officials, EU institutional representatives, Baltic financial sector executives, and technology sector principals. Teams are built around State Police of Latvia-licensed local operators with internationally trained close protection officers, with Riga International Airport (RIX) protocols and secure principal movement as the core operational components. Emergency response planning includes confirmed medevac capability to Stockholm or Helsinki.
 
 For further context, see the [Riga city security briefing](/cities/riga/) and the [bodyguard hire service for Riga](/bodyguard-hire/riga/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Riga](/bodyguard-hire/riga/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Riga](/executive-protection/riga/).

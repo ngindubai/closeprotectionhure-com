@@ -35,7 +35,7 @@ faqs:
     answer: "The CPO positions inside Oslo Airport Gardermoen (OSL) arrivals before the principal clears baggage claim. A pre-departure vehicle check is conducted. The OSL-to-city transfer takes 45 to 60 minutes. For principals with elevated threat profiles, counter-surveillance protocol is applied from the arrivals hall through the transfer to the principal's hotel."
 ---
 
-Close protection officer deployment in Oslo is governed by Norway's Security Services Act (Vaktvirksomhetsloven, 2018) framework. Our Oslo CPO teams cover Oslo Airport Gardermoen (OSL) arrivals and departures, Aker Brygge, Skøyen, and Lysaker corporate meetings, and Bygdoy alle and Frogner government and diplomatic engagements. Low-visibility operational profile is the standard for corporate assignments.
+This page is about the people who provide close protection in Oslo: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Oslo network is licensed by the Norwegian Police under the Security Services Act (Vaktvirksomhetsloven), and is assessed for local competence. It covers standard team configuration, the rare PST-framework authorisation required for armed cover, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Norway regulatory context
 
@@ -44,3 +44,5 @@ All Oslo CPO operators hold current Norway credentials under Security Services A
 ## Complementary Oslo services
 
 For the full Oslo security picture, see the [Oslo city briefing](/cities/oslo/) and [secure airport transfers in Oslo](/secure-airport-transfers/oslo/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Oslo](/bodyguard-hire/oslo/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Oslo](/executive-protection/oslo/).

@@ -37,8 +37,10 @@ faqs:
     answer: "A CPO deployment in Vilnius includes: advance work (threat assessment, venue and hotel surveys, route pre-surveys from VNO), airport transfer protocol at Vilnius Airport (VNO), principal briefing on the Lithuania operational environment, vetted transport for all movements, and documented emergency response planning including medevac to Warsaw or Helsinki."
 ---
 
-Vilnius is the capital of Lithuania, a low-risk operating environment for close protection deployments. Vilnius is a low-ambient-risk EU and NATO capital with a heightened strategic profile since the 2023 NATO Summit and Lithuania's prominent role in supporting Ukraine. Lithuania's State Security Department (VSD) Annual Report (2025) identifies Russian and Belarusian hybrid operations -- including information operations, irregular migration pressure, and cyber attacks -- as ongoing priority concerns. FCDO advises normal precautions for Lithuania (2026); US State Dept Level 1 (2026).
+This page is about the people who provide close protection in Vilnius: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Vilnius network is registered under Lithuania's Law on Security Activities and licensed by the Police Department, and is assessed for local competence. It covers standard team configuration, the additional authorisation required for armed cover, and the credential checks a buyer should insist on before engaging any officer.
 
 CPO deployments in Vilnius serve NATO officials, EU institutional representatives, defence sector executives, and Lithuanian government-adjacent principals. Teams are built around Lithuanian Police Department-licensed local operators with internationally trained close protection officers, with Vilnius Airport (VNO) protocols and secure principal movement as the core operational components. Emergency response planning includes confirmed medevac capability to Warsaw or Helsinki.
 
 For further context, see the [Vilnius city security briefing](/cities/vilnius/) and the [bodyguard hire service for Vilnius](/bodyguard-hire/vilnius/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Vilnius](/bodyguard-hire/vilnius/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Vilnius](/executive-protection/vilnius/).

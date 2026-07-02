@@ -520,6 +520,13 @@ Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** wi
 - Standard treatment throughout (intent lede 68–85 words citing each city's own regulator/threat: Azerbaijan MoIA, Georgia MoIA, Armenia Police/Law on Arms 2014, Kazakhstan MVD/CCSP, Uzbekistan MoIA, Panama Directorate of Private Security Services, Ecuador Directorate of Specialised Security Services, Austria Bewachungsgewerbe, Pennsylvania Act 235, Arizona AZDPS) + sibling cross-links.
 - **Verification:** build clean (0 errors); all 10 cities' three siblings confirmed distinct (panama-city/executive-protection's 3x grep match confirmed benign, same pre-existing-FAQ pattern as caracas/kuwait-city); QA gate clean.
 - **Status:** committed + pushed to `master` (deploys). **145 of 278 bodyguard-hire cities now differentiated (435 pages, ~52% of the network — past the halfway point).**
+- **Checkpoint:** user confirmed continuing after this sub-batch.
+
+### 2026-07-02 — Batch 5 (sub-batch 16 of N): Differentiation rollout, 10 more cities [SONNET, model already locked]
+- **Cities (10):** vancouver, wellington, perth, zurich, muscat, oslo, riga, tallinn, vilnius, sarajevo. **Files: 30.**
+- Standard treatment throughout (intent lede 70–83 words citing each city's own regulator/threat: BC Security Services Act, NZ PSPLA, WA Security Agents Licensing Act, Zurich Sicherheitsunternehmungsgesetz, Oman ROP, Norway Vaktvirksomhetsloven, Latvia Security Activities Law/Security Police, Estonia Security Act/Police and Border Guard Board, Lithuania Law on Security Activities, Bosnia Federation MoI) + sibling cross-links.
+- **Verification:** build clean (0 errors); all 10 cities' three siblings confirmed distinct; QA gate clean.
+- **Status:** committed + pushed to `master` (deploys). **155 of 278 bodyguard-hire cities now differentiated (465 pages, ~56% of the network).**
 
 ### 2026-07-02 — Deploy + branch-rule change (owner instruction)
 - Owner directed all work to go live and to build on the deploy branch. Corrected a misdirection first: the owner said "build on the live branch," but `live` is the auto-generated compiled-output branch (force-pushed by CI, never hand-edited). The real deploy branch is `master`.

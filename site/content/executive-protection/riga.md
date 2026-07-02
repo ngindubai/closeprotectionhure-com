@@ -35,8 +35,10 @@ faqs:
     answer: "Post-deployment review after each Riga visit provides: a record of security incidents or near-misses, performance assessment of suppliers and venues, route assessment for future visits, and recommended adjustments to the protective posture. This creates a continuously improving security baseline for organisations with recurring Riga travel requirements and provides corporate governance documentation for duty-of-care audits."
 ---
 
-Executive protection in Riga is structured around the low risk rating for Latvia and the specific operational requirements of Riga's principal movement corridors, venues, and emergency response infrastructure. Normal precautions for latvia (2026); US State Dept Level 1 (Exercise Normal Precautions) for Latvia (2026).
+Executive protection in Riga is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against cyber and information-operations exposure: advance work on venues and routes, a written risk assessment, an operations controller, and Security Police licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 A professional EP deployment begins with advance work -- threat assessment, hotel and venue surveys, route pre-surveys, and medevac pre-arrangement to Stockholm or Helsinki -- completed before the principal arrives at Riga International Airport (RIX). The protective posture during the visit covers vetted transport for all movements, dedicated close protection for higher-risk engagements, residential or hotel security, and a documented emergency response plan. Post-deployment review produces a continuously improving security baseline.
 
 For regional EP context, see our [Bodyguard Hire Tallinn](/bodyguard-hire/tallinn/) and our [Riga city security briefing](/cities/riga/). For transport security, see our [security drivers in Riga](/security-drivers/riga/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Riga](/bodyguard-hire/riga/). For the operators who staff the programme and how they are vetted, see [close protection officers in Riga](/close-protection-officers/riga/).

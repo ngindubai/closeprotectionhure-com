@@ -35,7 +35,7 @@ faqs:
     answer: "Bahnhofstrasse is one of the world's most significant luxury retail streets and hosts concentrations of high-value watch, jewellery, and private banking institutions. Targeted theft against HNWI individuals displaying or transporting high-value items in this environment is a documented and recurring risk, distinct from the broader Swiss low violent crime profile. HNWI principals visiting Bahnhofstrasse luxury retailers or transporting high-value items through the Paradeplatz area should be briefed on counter-surveillance, route variation, and asset awareness protocols as part of their CPO engagement."
 ---
 
-Zurich is the world's most significant private banking centre and a hub for Swiss pharmaceutical, financial technology, and precision engineering sector activity. Its low violent crime rate is the baseline; the specific CPO demand profile is driven by the HNWI concentration on the Zurichberg, the corporate espionage risk documented by the NDB across multiple sectors, and the targeted theft environment in the Bahnhofstrasse luxury corridor. Switzerland regulates private security at cantonal level under the respective Polizeigesetze, with SZVG industry membership providing the principal quality benchmark in the absence of federal licensing. CPO services in Zurich primarily serve ultra-high-net-worth private banking clients, senior pharmaceutical and technology executives, and visiting delegations involved in significant Swiss-market transactions.
+Hiring a bodyguard in Zurich is typically about HNWI and financial-sector targeting and corporate-intelligence risk rather than violent street crime, which is low. This page covers how close protection hire works under Zurich's cantonal Sicherheitsunternehmungsgesetz, what a cantonally certified officer does across a day of movements, and how quickly cover is arranged. Armed cover requires specific cantonal concessions and is rare, so hire pairs a certified officer with secure transport, scaled to the itinerary.
 
 ## The Swiss cantonal regulatory framework
 
@@ -46,3 +46,5 @@ Switzerland's cantonal regulatory structure means there is no single federal pri
 The NDB's documented assessments of commercial espionage targeting the pharmaceutical, financial technology, and precision engineering sectors, the HNWI concentration in Zurichberg, and the targeted luxury theft environment on Bahnhofstrasse together define the specific circumstances where close protection cover adds measurable professional value for principals operating in Zurich.
 
 For complementary services in Zurich, see our [Zurich city page](/cities/zurich/) and [security drivers in Zurich](/security-drivers/zurich/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Zurich](/executive-protection/zurich/). To check the credentials and vetting behind the officers, see [close protection officers in Zurich](/close-protection-officers/zurich/).

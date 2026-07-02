@@ -35,7 +35,7 @@ faqs:
     answer: "Foreign CPOs must hold a New Zealand PSPLA Close Protection Licence or be covered under a licensed New Zealand operator for any commercial close protection work. Clients should confirm the operating structure and licensing status of any proposed CPO arrangement before travel, particularly for cross-border itineraries."
 ---
 
-Wellington is a low-risk environment for close protection operations, drawing on New Zealand Police Crime Statistics 2024 and FCDO advises normal precautions for New Zealand (2026); FCDO notes seismic risk and advises checking NZ government emergency management guidance. US State Department Level 1 (Exercise Normal Precautions) for New Zealand as of 2026. For HNWI principals and senior executives operating across Wellington CBD (Lambton Quay, The Terrace), Te Aro, and Oriental Bay and Mt Victoria, licensed CPO cover provides a materially different standard of personal protection from uncoordinated or unlicensed alternatives.
+This page is about the people who provide close protection in Wellington: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Wellington network holds a PSPLA Close Protection Licence from New Zealand Police, and is assessed for local competence. It covers standard team configuration, the generally unarmed model, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The New Zealand licensing framework
 
@@ -50,3 +50,5 @@ A Wellington CPO detail typically begins with pre-advance work at the principal'
 The operations controller function maintains a real-time timeline and holds emergency contact protocols for Wellington Hospital (04-385-5999), Bowen Hospital (04-976-0060), and local emergency services (111).
 
 For complementary services, see our [Wellington city page](/cities/wellington/) and [bodyguard hire in Wellington](/bodyguard-hire/wellington/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Wellington](/bodyguard-hire/wellington/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Wellington](/executive-protection/wellington/).

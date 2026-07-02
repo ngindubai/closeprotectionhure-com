@@ -33,8 +33,10 @@ faqs:
     answer: "The Oman legal brief for CPO personnel covers dress standards for public spaces, alcohol prohibition outside licensed hotel venues, photography restrictions at government and military facilities, port photography restrictions, and commercial conduct norms. These apply to CPO personnel as well as principals. A briefed and compliant team avoids the detention and legal exposure that uninformed conduct can create, even unintentionally."
 ---
 
-Muscat CPO operations reflect Oman's position as one of the safer GCC capitals: a genuinely low-risk operating environment for standard business visits, with CPO value concentrated in discretion, legal and cultural protocol compliance, and the specific requirements of HNWI and senior executive principals.
+This page is about the people who provide close protection in Muscat: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Muscat network holds Royal Oman Police registration, and is assessed for local competence; foreign firms must operate through an Omani-licensed partner. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 Royal Oman Police-licensed operators with Gulf region experience deliver close protection calibrated to Muscat's specific legal and operational environment, not generic Middle East protocols that do not distinguish between Oman and its higher-risk neighbours.
 
 For the full Muscat security picture, see our [Muscat city briefing](/cities/muscat/). For principals requiring vetted transport for Muscat airport and city movements, [security drivers in Muscat](/security-drivers/muscat/) covers the ROP-licensed chauffeur programme.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Muscat](/bodyguard-hire/muscat/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Muscat](/executive-protection/muscat/).

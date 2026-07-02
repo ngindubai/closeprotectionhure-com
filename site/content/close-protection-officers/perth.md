@@ -35,7 +35,7 @@ faqs:
     answer: "A foreign close protection officer may accompany a principal into Perth as part of an international protective detail but cannot engage in commercial close protection for hire in Western Australia without a current WA Department of Justice security agent licence under the Security and Related Activities (Control) Act 1996. For any commercial close protection work in WA, the operating company and individual CPOs must hold appropriate WA licensing."
 ---
 
-Perth is Australia's most geographically isolated major city and the operational hub for the country's resources and mining sector. The concentration of senior executives from energy, mining, and commodities firms in St Georges Terrace and the Subiaco business precincts, combined with the city's physical distance from the eastern seaboard, creates a distinct close protection requirement that includes both conventional urban protective work and contingency planning for regional and remote operations.
+This page is about the people who provide close protection in Perth: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Perth network holds a current WA Department of Justice licence under the Security Agents Licensing Act 1992, with a WA Police Force firearms licence where armed, and is assessed for local competence. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Western Australian licensing framework
 
@@ -54,3 +54,5 @@ For regional operations, the operations controller function includes coordinatio
 The operational threat picture for Perth CPO work draws on WA Police Force Crime Statistics 2024 and the geographic isolation characteristics of the Western Australian resources sector. Licensing requirements are current under the Security and Related Activities (Control) Act 1996 (WA) as at June 2026. Armed provisions follow the WA Firearms Act 1973. Rates cited are indicative for the Perth market as at June 2026 and should be confirmed at time of enquiry.
 
 For complementary services, see our [Perth city page](/cities/perth/) and [bodyguard hire in Perth](/bodyguard-hire/perth/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Perth](/bodyguard-hire/perth/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Perth](/executive-protection/perth/).

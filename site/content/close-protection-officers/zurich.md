@@ -35,7 +35,7 @@ faqs:
     answer: "An SIU Personenschutz-certified CPO in Zurich typically ranges from CHF 600 to CHF 1,100 per day for a single officer, depending on qualifications, language capability (German, French, English, and occasionally Italian or Arabic are operationally relevant in Zurich), and the specific operational requirements. WEF Davos engagements carry a premium reflecting the complexity and multi-day nature of Forum operations. Rates as at June 2026 reflect Swiss employment costs, the SIU training investment, and the Zurich market for experienced close protection professionals."
 ---
 
-Zurich close protection is shaped by a very low ambient crime rate, a Swiss financial sector culture that demands exceptional operational discretion, and a UHNWI principal community whose threat profile is more about economic intelligence and wealth-motivated targeting than conventional violence. The WEF Davos connection creates an additional operational dimension that Zurich-based CPO operators are equipped to support, working within the multi-agency WEF security framework for individual delegate protection.
+This page is about the people who provide close protection in Zurich: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Zurich network holds cantonal certification under the Sicherheitsunternehmungsgesetz, and is assessed for local competence. It covers standard team configuration, the specific cantonal concessions required for the rare armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Swiss regulatory framework for CPOs
 
@@ -46,3 +46,5 @@ CES concordat licensing and Kantonspolizei Zurich authorisation provide the regu
 Zurich CPO engagements operate at minimum visible profile throughout. Financial-sector and UHNWI principal coverage, Gold Coast residential close protection, WEF Davos delegate support, and Zurich Airport private aviation transfer operations are the primary operational components. Economic intelligence awareness is integrated into the threat assessment for all financial-sector principal engagements.
 
 For related services in Zurich, see our [Zurich city page](/cities/zurich/) and [security drivers in Zurich](/security-drivers/zurich/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Zurich](/bodyguard-hire/zurich/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Zurich](/executive-protection/zurich/).

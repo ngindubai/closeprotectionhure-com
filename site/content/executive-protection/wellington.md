@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Wellington for a CPO with vehicle and operations controller support range from approximately NZD 860-1,600 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Wellington presents an executive protection environment defined by a low risk profile and a regulatory framework under Private Security Personnel Licensing Act 2010 (PSPLA), New Zealand Police Licensing Centre. For senior executives and HNWI principals operating across Wellington CBD (Lambton Quay, The Terrace), Te Aro, and Oriental Bay and Mt Victoria, a structured EP programme reduces the exposure that uncoordinated travel creates. FCDO advises normal precautions for New Zealand (2026); FCDO notes seismic risk and advises checking NZ government emergency management guidance. US State Department Level 1 (Exercise Normal Precautions) for New Zealand as of 2026.
+Executive protection in Wellington is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against Parliament-area protest activity and seismic-weather contingencies: advance work on venues and routes, a written risk assessment, an operations controller, and PSPLA-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Wellington
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Wellington must be licensed under Priv
 Wellington's position in government, financial services, technology, and public sector consulting creates a specific EP operating context: principals in these sectors face both the ambient threat picture and sector-specific risks identified in the pre-travel assessment. The threat picture (low. New Zealand Police Crime Statistics 2024 record low overall crime; opportunistic vehicle break-ins and property theft are the primary concern in the CBD.) informs route planning, advance work, and situational-awareness protocols for every engagement.
 
 For related security services in Wellington, see our [Wellington city page](/cities/wellington/), [security drivers in Wellington](/security-drivers/wellington/), and [bodyguard hire in Wellington](/bodyguard-hire/wellington/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Wellington](/bodyguard-hire/wellington/). For the operators who staff the programme and how they are vetted, see [close protection officers in Wellington](/close-protection-officers/wellington/).

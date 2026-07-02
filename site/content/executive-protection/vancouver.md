@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Vancouver for a CPO with vehicle and operations controller support range from approximately CAD 700 to CAD 1,300 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Vancouver presents an executive protection environment defined by Downtown Eastside opioid crisis elevated property crime (VPD Statistical Report 2025) and a regulatory framework under BC Security Services Act 2007. For senior executives and HNWI principals operating across Coal Harbour waterfront corporate district, Yaletown technology and creative hub, and West End residential, a structured EP programme reduces the exposure that uncoordinated travel creates. The VPD Statistical Report 2025 and current advisory (FCDO normal precautions Canada 2026; US State Dept Level 1) are the evidential baseline for every pre-travel assessment.
+Executive protection in Vancouver is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against Downtown Eastside crime and property-crime exposure: advance work on venues and routes, a written risk assessment, an operations controller, and Security Services Act licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Vancouver
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Vancouver must be licensed under BC Se
 Vancouver's position in mining, technology, film production, and Pacific Rim trade creates a specific EP operating context: principals in these sectors face both the ambient threat picture identified in the VPD Statistical Report 2025 and sector-specific risks, including competitive intelligence activity and, for some industries, targeted crime against high-value corporate visitors. The pre-travel assessment addresses both layers.
 
 For related security services in Vancouver, see our [Vancouver city page](/cities/vancouver/), [security drivers in Vancouver](/security-drivers/vancouver/), and [bodyguard hire in Vancouver](/bodyguard-hire/vancouver/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Vancouver](/bodyguard-hire/vancouver/). For the operators who staff the programme and how they are vetted, see [close protection officers in Vancouver](/close-protection-officers/vancouver/).
