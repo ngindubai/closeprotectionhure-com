@@ -35,8 +35,10 @@ faqs:
     answer: "Primary medical facility: Wuhan Union Hospital (+86 27 8572 6114). Emergency: 110 (police), 120 (ambulance). Medical routing is pre-planned as part of every operation order. CPOs hold current first-aid certification and medical evacuation coordination to Hong Kong or Singapore for serious conditions is confirmed before deployment."
 ---
 
-Executive protection in Wuhan addresses a low-moderate risk environment: Business intelligence sensitivity in automotive and manufacturing sectors, national security law exposure, digital monitoring environment. Ministry of Public Security (MPS) under MPS Order No. 564 (2010), administered locally by the Wuhan Public Security Bureau is the regulatory baseline for all Wuhan executive protection engagements.
+Executive protection in Wuhan is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against business-intelligence and counter-intelligence risk and digital surveillance: advance work on venues and routes, a written risk assessment, an operations controller, and PSB-registered secure movement integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 Private security in China is regulated by the Ministry of Public Security under the Security Services Management Regulations (MPS Order No. 564, 2010). PSB requires all security to be delivered through registered local entities; foreign operators must partner with PSB-registered companies. Operator licence status should be confirmed before any engagement.
 
 For Wuhan city context, see our [Wuhan security briefing](/cities/wuhan/). For transport security, see [security drivers in Wuhan](/security-drivers/wuhan/). For regional context, see [executive protection in Shanghai](/executive-protection/shanghai/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Wuhan](/bodyguard-hire/wuhan/). For the operators who staff the programme and how they are vetted, see [close protection officers in Wuhan](/close-protection-officers/wuhan/).

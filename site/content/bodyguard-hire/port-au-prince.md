@@ -35,7 +35,7 @@ faqs:
     answer: "Contact our operations team with your specific operational requirement; we will conduct a full pre-deployment assessment before any engagement is confirmed. Given the extreme risk level, we will assess whether the visit is operationally viable and what the minimum security provision must be. Engagements in Port-au-Prince require: confirmed medevac provision, K&R insurance appropriate to the environment, a pre-exercised extraction plan, and advance booking of vetted local network capacity. Minimum lead time is ten working days."
 ---
 
-Port-au-Prince requires the clearest possible statement of the risk: FCDO advises against all travel to Haiti (FCDO Haiti travel advice, 2024), and the US State Department designates Haiti as Level 4: Do Not Travel (2026). BINUH documented in 2024 that gang networks control approximately 85 percent of the Port-au-Prince metropolitan area, with over 2,400 kidnapping incidents recorded in the first half of 2023. Active armed conflict between competing gang networks is ongoing. The appropriate bodyguard provision for Port-au-Prince is not an enhanced version of a standard CP programme; it is a full armed protection package with armoured vehicles, live gang intelligence, medevac cover, and a pre-exercised extraction plan.
+Port-au-Prince requires the clearest possible statement of the risk before discussing hire: gang networks control approximately 85 percent of the metropolitan area, and both FCDO and the US State Department advise against all travel. This page covers what is actually provided, which is not an enhanced version of standard cover but a full armed protection package with armoured vehicles, live gang intelligence, medevac cover, and a pre-exercised extraction plan, arranged only for essential purposes with no functioning national regulatory authority to rely on.
 
 ## No effective regulatory framework
 
@@ -46,3 +46,5 @@ Haiti has no functioning national private security regulatory authority. CPOs ar
 The minimum viable CP package for Port-au-Prince is: four armed CPOs individually vetted by the operator, three-vehicle formation with armoured principal vehicle, live gang-movement intelligence updated before each movement, pre-positioned medevac contract, secured compound accommodation, pre-exercised extraction plan, and K&R insurance. Anything below this standard is not appropriate for this environment.
 
 For a full security picture see our [Port-au-Prince city briefing](/cities/port-au-prince/) and [executive protection in Port-au-Prince](/executive-protection/port-au-prince/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Port-au-Prince](/executive-protection/port-au-prince/). To check the credentials and vetting behind the officers, see [close protection officers in Port-au-Prince](/close-protection-officers/port-au-prince/).

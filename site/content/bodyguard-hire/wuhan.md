@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency numbers: 110 (police), 120 (ambulance). Primary facility: Wuhan Union Hospital (+86 27 8572 6114). Secondary: Tongji Hospital (+86 27 8366 3163). Medical routing is pre-planned; CPOs hold current first-aid certification."
 ---
 
-Bodyguard hire in Wuhan addresses a low-moderate risk environment: Business intelligence sensitivity in automotive and manufacturing sectors, national security law exposure, digital monitoring environment. Ministry of Public Security (MPS) under MPS Order No. 564 (2010), administered locally by the Wuhan Public Security Bureau is the regulatory baseline for all Wuhan close protection engagements.
+Hiring a bodyguard support arrangement in Wuhan is typically about business-intelligence and counter-intelligence risk and digital surveillance rather than violent crime, which is low. This page covers how close protection support works in China, what a PSB-registered provider offers across a day of movements, and how quickly it can be arranged. Firearms are not available to foreign security personnel, so support is unarmed and delivered through a licensed Chinese operator, scaled to the visit.
 
 Private security in China is regulated by the Ministry of Public Security under the Security Services Management Regulations (MPS Order No. 564, 2010). PSB requires all security to be delivered through registered local entities; foreign operators must partner with PSB-registered companies. Operator licence status should be confirmed before any engagement.
 
 Detailed city context is available on the [Wuhan city page](/cities/wuhan/). For transport security, see [vetted security drivers in Wuhan](/security-drivers/wuhan/). For regional coverage, see [bodyguard hire in Shanghai](/bodyguard-hire/shanghai/). Firearms: unarmed - no private firearms permitted under chinese law.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Wuhan](/executive-protection/wuhan/). To check the credentials and vetting behind the officers, see [close protection officers in Wuhan](/close-protection-officers/wuhan/).

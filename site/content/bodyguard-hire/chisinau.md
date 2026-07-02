@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency procedures for Chisinau deployments must be established before the principal arrives. The close protection plan must specify: police contact protocol (emergency number: confirm locally), nearest medical facility (Spitalul Clinic Republican), medevac pre-authorisation to Bucharest, communications backup if primary network fails, and crisis comms protocol for the principal's organisation. Medevac insurance pre-authorisation is a non-negotiable requirement for any Chisinau deployment."
 ---
 
-Chisinau requires a close protection approach calibrated to its medium risk rating and the specific characteristics of Moldovan Transnistria and Russian influence environment. Fcdo advises a high degree of caution; transnistria against all travel; us state dept level 2 (2026).
+Hiring a bodyguard in Chisinau is usually tied to a specific visit, where the Transnistria frozen conflict and Russian hybrid-influence risk shape the plan alongside organised crime. This page covers how close protection hire works in Moldova, what a Ministry of Internal Affairs licensed officer under Law No. 283/2006 does across a day of movements, and how quickly cover is arranged. Armed cover requires specific authorisation, so hire pairs a licensed officer with secure transport, scaled to the itinerary.
 
 For corporate and high-net-worth principals visiting Chisinau, the standard bodyguard hire deployment includes a vetted security driver for all airport and city movements, advance work covering hotel and venue security surveys, and mobile close protection calibrated to the principal's individual threat profile. All close protection officers deployed in Moldova must hold licensing from the Moldovan Ministry of Internal Affairs. Medical evacuation pre-arrangement to Bucharest is a mandatory component of any Chisinau protective deployment.
 
 For regional security context, see our [Kyiv security briefing](/cities/kyiv/) and our [bodyguard hire services in Bucharest](/bodyguard-hire/bucharest/). See also our [Chisinau city security briefing](/cities/chisinau/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Chisinau](/executive-protection/chisinau/). To check the credentials and vetting behind the officers, see [close protection officers in Chisinau](/close-protection-officers/chisinau/).

@@ -37,7 +37,7 @@ faqs:
     answer: "Armed protection is recommended for any movement outside secured compounds in Basra, including city transit. The risk environment is not limited to the oil-field corridors; road movements between the airport, accommodation compounds, and operational facilities carry kidnap and ambush risk. Our threat briefings are updated to reflect current conditions before each movement."
 ---
 
-Basra is Iraq's oil-and-gas capital and the administrative centre of Basra Governorate in the country's south. The city is a major hub for international energy-sector operations, with dozens of multinational corporations maintaining offices, compounds, and operational facilities in the region. It is also one of the most challenging security environments for foreign nationals anywhere in the world.
+Hiring a bodyguard in Basra is usually tied to a specific visit, where armed militia activity and targeted attacks on foreign energy-sector personnel shape the plan alongside kidnapping. This page covers how close protection hire works in Iraq, what a PSCD-licensed officer under Law No. 2 of 2017 does across a day of movements, and how quickly cover is arranged. Armed cover is legally available and necessary for high-risk operations, so hire pairs an armed officer with secure transport, scaled to the itinerary.
 
 The FCDO currently advises against all but essential travel to Basra Governorate. Active threats include kidnap-for-ransom targeting foreign workers, militia activity with sporadic armed incidents, and road security risks on key transit corridors. Foreign nationals employed by energy companies are considered high-value targets by criminal and politically motivated actors alike.
 
@@ -46,3 +46,5 @@ Operating in Basra requires a professional armed close protection detail from ar
 All Basra details include: advance threat briefings, armed escort, hardened or armoured vehicles, MEDEVAC planning, and emergency contact protocols with UK diplomatic representation.
 
 Review the full Basra city security profile at [/cities/basra/](/cities/basra/) and explore our [security drivers in Basra](/security-drivers/basra/) for armoured vehicle and secure transport options.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Basra](/executive-protection/basra/). To check the credentials and vetting behind the officers, see [close protection officers in Basra](/close-protection-officers/basra/).

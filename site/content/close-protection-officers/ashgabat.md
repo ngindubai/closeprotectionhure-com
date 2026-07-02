@@ -35,7 +35,7 @@ faqs:
     answer: "Every Ashgabat CPO deployment includes a documented emergency action plan covering medical emergency (naming the receiving facility: Orta Aziia Hospital or evacuation to Istanbul or Dubai), vehicle compromise procedures, communications protocols, and the operations controller's emergency activation procedure."
 ---
 
-The capital of turkmenistan and the administrative centre of one of the world's largest natural gas producers, with a significant diplomatic community and energy sector corporate presence operating under close state surveillance. Close protection officers in Ashgabat are deployed through licensed Turkmenistan operators with current ground knowledge, providing a structured CPO programme calibrated to the moderate-risk environment.
+This page is about the people who provide close protection in Ashgabat: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Ashgabat network is approved under the Ministry of Internal Affairs framework, and is assessed for local competence given a less-developed and opaque regulatory environment. It covers standard team configuration, heightened operational discretion, and the checks a buyer should insist on before engaging any officer.
 
 ## The Turkmenistan CPO licensing framework
 
@@ -44,3 +44,5 @@ CPO operations in Ashgabat are regulated through the Ministry of National Securi
 ## CPO operations in Ashgabat
 
 Licensed CPO cover, vehicle-based movement for all inter-venue transfers, airport collection inside Ashgabat International Airport (ASB) terminal, operations restricted to the central city and the diplomatic enclave for standard corporate assignments, and a written emergency plan with pre-confirmed contacts at the best available medical facilities. For the full Ashgabat security picture, see our [Ashgabat city page](/cities/ashgabat/) and [bodyguard hire in Ashgabat](/bodyguard-hire/ashgabat/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Ashgabat](/bodyguard-hire/ashgabat/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Ashgabat](/executive-protection/ashgabat/).

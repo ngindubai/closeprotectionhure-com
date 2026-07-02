@@ -572,6 +572,13 @@ Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** wi
 - **Verification:** build clean (0 errors); all 10 cities' three siblings confirmed distinct; QA gate clean.
 - **Status:** committed + pushed to `master` (deploys). **215 of 278 bodyguard-hire cities now differentiated (~77% of the network).**
 
+### 2026-07-02 — Batch 5 (sub-batch 23 of N): Differentiation rollout, 10 more cities incl. one no-go adaptation [SONNET, model already locked]
+- **Cities (10):** bishkek, ashgabat, dushanbe, erbil, basra, male, medina, port-au-prince, wuhan, chisinau. **Files: 30.**
+- Standard treatment for 9 of 10 (intent lede 73–85 words citing each city's own regulator/threat: Kyrgyzstan/Tajikistan/Turkmenistan MoIA, KRG Ministry of Interior (Erbil, distinct from Baghdad federal), Iraq PSCD/Law 2-2017 (Basra), Maldives MoHA, Saudi Council of Ministers Resolution 58 (Medina, with access-restriction framing), China PSB Order 564 (Wuhan), Moldova MoIA/Law 283-2006) + sibling cross-links.
+- **Port-au-Prince adaptation (fourth no-go instance, alongside Khartoum/Kabul/Havana):** existing page states plainly that gang networks control ~85% of the metropolitan area, both FCDO and US State Dept advise against all travel, and "the appropriate bodyguard provision... is not an enhanced version of a standard CP programme." All three ledes adapted to honestly describe the actual extreme-risk offering (full armed protection package, live gang intelligence, medevac, extraction plan) rather than the standard transactional/programme/operators opener, consistent with how Khartoum/Kabul/Havana were handled.
+- **Verification:** build clean (0 errors); all 10 cities' three siblings confirmed distinct; QA gate clean.
+- **Status:** committed + pushed to `master` (deploys). **225 of 278 bodyguard-hire cities now differentiated (~81% of the network).**
+
 ### 2026-07-02 — Deploy + branch-rule change (owner instruction)
 - Owner directed all work to go live and to build on the deploy branch. Corrected a misdirection first: the owner said "build on the live branch," but `live` is the auto-generated compiled-output branch (force-pushed by CI, never hand-edited). The real deploy branch is `master`.
 - **Action:** fast-forward-merged the 10-commit feature branch `claude/close-protection-seo-audit-0yjirj` into `master` (0 divergence, no conflicts) and pushed `master`, triggering `build-and-publish.yml` → Hugo build → publish `site/public` to `live` → Hostinger deploy.

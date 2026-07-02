@@ -35,7 +35,7 @@ faqs:
     answer: "The UK does not have a resident British Embassy in Ashgabat. British nationals should register with the German Embassy, which represents UK interests. The nearest British Embassy is in Ankara. The International Medical Centre Ashgabat provides the best local care; medical evacuation to Istanbul is the standard route for serious cases requiring internationally accredited treatment."
 ---
 
-Bodyguard hire in Ashgabat operates within Turkmenistan's Ministry of Internal Affairs authorisation framework, with close protection arrangements structured through government-approved channels.
+Hiring a bodyguard in Ashgabat is typically about government surveillance and access and visa restrictions rather than violent crime, which is low. This page covers how close protection hire works in Turkmenistan, what an operator approved under the opaque Ministry of Internal Affairs framework provides across a day of movements, and how quickly cover is arranged. Hire pairs an approved operator with secure transport, and all arrangements should be conducted with heightened discretion given the regulatory environment.
 
 ## The Ashgabat security environment
 
@@ -46,3 +46,5 @@ Ashgabat's operating environment is defined primarily by the Turkmenistan govern
 An Ashgabat bodyguard programme covers airport transfers with inside-terminal collection at Ashgabat International Airport, accommodation in vetted approved properties, in-city movement within approved itinerary parameters, operational security briefings covering photography restrictions and communications hygiene, and a documented emergency action plan with Istanbul medevac provisions.
 
 For the full Ashgabat security picture, see our [Ashgabat city briefing](/cities/ashgabat/). For comparable Central Asian operating environments, see our [Tashkent city briefing](/cities/tashkent/) and [Baku city briefing](/cities/baku/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Ashgabat](/executive-protection/ashgabat/). To check the credentials and vetting behind the officers, see [close protection officers in Ashgabat](/close-protection-officers/ashgabat/).

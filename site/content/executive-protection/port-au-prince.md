@@ -35,7 +35,7 @@ faqs:
     answer: "A pre-advance in Port-au-Prince is the difference between entering the city with current gang-movement intelligence and entering blind. Because gang territorial boundaries shift within days, a pre-advance must be conducted by a locally embedded operator within 24 to 48 hours of the principal's planned arrival. It covers: airport operational status, route conditions from the airport to the principal's secured compound, current gang activity in all areas on the planned itinerary, and confirmation that the principal's accommodation meets the minimum secure compound standard. Without a current pre-advance, the engagement should not proceed."
 ---
 
-Port-au-Prince requires the most direct possible assessment: FCDO advises against all travel to Haiti (FCDO Haiti travel advice, 2024), and the US State Department designates Haiti as Level 4: Do Not Travel (2026). BINUH reported in 2024 that gang networks control approximately 85 percent of the Port-au-Prince metropolitan area, with over 2,400 kidnapping incidents recorded in the first half of 2023 alone. Active armed conflict between the G9/G-Pep coalition and rival networks continues. State authority has effectively collapsed across large urban areas. Any executive present in Port-au-Prince requires armed protection, armoured vehicles, live daily gang-movement intelligence, pre-positioned medevac provision, and a fully exercised extraction plan.
+Executive protection in Port-au-Prince is not a deployable programme in the conventional sense; gang networks control most of the metropolitan area and both FCDO and the US State Department advise against all travel. This page covers what a duty-of-care approach actually requires: a full armed protection package with armoured vehicles, live gang intelligence, medevac cover, and a pre-exercised extraction plan, reserved for essential travel with no functioning national regulatory authority to rely on.
 
 ## No effective regulatory framework
 
@@ -46,3 +46,5 @@ Haiti has no functioning national private security regulatory authority. EP oper
 The minimum viable EP standard for Port-au-Prince is: armed personnel in armoured vehicles, three-vehicle formation for all movements, live gang-movement intelligence updated before each movement, medevac contract confirmed before travel, pre-positioned safe room, and two rehearsed extraction options for every principal venue. Everything below this standard is inadequate for this environment.
 
 For the full Port-au-Prince security picture, see the [Port-au-Prince city briefing](/cities/port-au-prince/) and [close protection officers in Port-au-Prince](/close-protection-officers/port-au-prince/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Port-au-Prince](/bodyguard-hire/port-au-prince/). For the operators who staff the programme and how they are vetted, see [close protection officers in Port-au-Prince](/close-protection-officers/port-au-prince/).

@@ -35,7 +35,7 @@ faqs:
     answer: "The medical plan for every Dushanbe assignment includes local private clinic capacity for initial stabilisation and medical evacuation to Tashkent or Istanbul for serious cases. Medevac provider contacts are confirmed active before the principal's arrival. Medical evacuation insurance is the baseline requirement."
 ---
 
-Bodyguard hire in Dushanbe operates within Tajikistan's Ministry of Internal Affairs licensing framework, with close protection officers drawn from a vetted partner network holding valid national security authorisation.
+Hiring a bodyguard in Dushanbe is usually tied to a specific visit, where terrorism and regional spillover and political repression shape the plan alongside petty crime. This page covers how close protection hire works in Tajikistan, what a Ministry of Internal Affairs licensed officer does across a day of movements, and how quickly cover is arranged. Most operations use unarmed personnel with armed cover for elevated-risk profiles, so hire pairs a licensed officer with secure transport, scaled to the itinerary.
 
 ## The Dushanbe security environment
 
@@ -46,3 +46,5 @@ Dushanbe's security environment is assessed at moderate risk. The primary threat
 A Dushanbe bodyguard programme covers airport transfers with inside-terminal collection at Dushanbe International Airport, accommodation in vetted properties in the Hyatt Regency corridor, in-city movement with pre-planned routes and operations controller tracking, border-area exclusion protocols, and a documented emergency action plan with Tashkent or Istanbul medevac provisions.
 
 For the full Dushanbe security picture, see our [Dushanbe city briefing](/cities/dushanbe/). For comparable Central Asian operating environments, see our [Tashkent city briefing](/cities/tashkent/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Dushanbe](/executive-protection/dushanbe/). To check the credentials and vetting behind the officers, see [close protection officers in Dushanbe](/close-protection-officers/dushanbe/).

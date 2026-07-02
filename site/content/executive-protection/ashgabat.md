@@ -33,7 +33,7 @@ faqs:
     answer: "The emergency action plan for every Ashgabat EP programme covers: medical emergency (naming the receiving facility and evacuation routing), vehicle compromise (contingency routing and shelter options), political demonstration response (avoidance protocols and contingency routing), and communications procedures. The plan is shared with the principal and their organisation before deployment."
 ---
 
-Executive protection in Ashgabat is built around licensed Turkmenistan operators with current ground knowledge, providing a structured programme covering the principal's full movement cycle in the city.
+Executive protection in Ashgabat is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against government surveillance and access and visa restrictions: advance work on venues and routes, a written risk assessment, an operations controller, and approved secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where discretion is a leading design factor given the regulatory environment.
 
 ## The Ashgabat EP environment
 
@@ -44,3 +44,5 @@ EP in Ashgabat provides a structured security overlay for the principal movement
 An EP programme in Ashgabat covers the full principal movement cycle: advance work at all venues, close escort during movements, accommodation security liaison, daily route variation, a documented emergency action plan, and medevac provider confirmation before arrival.
 
 For the full Ashgabat security picture, see our [Ashgabat city briefing](/cities/ashgabat/). For principals requiring security drivers, [security drivers in Ashgabat](/security-drivers/ashgabat/) covers the Turkmenistan programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Ashgabat](/bodyguard-hire/ashgabat/). For the operators who staff the programme and how they are vetted, see [close protection officers in Ashgabat](/close-protection-officers/ashgabat/).

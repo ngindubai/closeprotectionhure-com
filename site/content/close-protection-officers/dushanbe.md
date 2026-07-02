@@ -35,7 +35,7 @@ faqs:
     answer: "Every Dushanbe CPO deployment includes a documented emergency action plan covering medical emergency (naming the receiving facility: Sino-Tajik Hospital in Dushanbe or evacuation to Almaty or Istanbul), vehicle compromise procedures, communications protocols, and the operations controller's emergency activation procedure."
 ---
 
-The capital of tajikistan and the administrative centre of a country with close borders to afghanistan and active engagement from international development finance organisations and energy sector investors. Close protection officers in Dushanbe are deployed through licensed Tajikistan operators with current ground knowledge, providing a structured CPO programme calibrated to the moderate-risk environment.
+This page is about the people who provide close protection in Dushanbe: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Dushanbe network holds a Ministry of Internal Affairs licence, and is assessed for local competence within a developing regulatory framework. It covers standard team configuration, armed cover for elevated-risk profiles, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Tajikistan CPO licensing framework
 
@@ -44,3 +44,5 @@ CPO operations in Dushanbe are regulated through the Ministry of Interior of Taj
 ## CPO operations in Dushanbe
 
 Licensed CPO cover, vehicle-based movement for all inter-venue transfers, airport collection inside Dushanbe International Airport (DYU) terminal, operations restricted to the city centre and Ismoil Somoni district for standard corporate assignments, and a written emergency plan with pre-confirmed contacts at the best available medical facilities. For the full Dushanbe security picture, see our [Dushanbe city page](/cities/dushanbe/) and [bodyguard hire in Dushanbe](/bodyguard-hire/dushanbe/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Dushanbe](/bodyguard-hire/dushanbe/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Dushanbe](/executive-protection/dushanbe/).

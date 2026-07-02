@@ -35,7 +35,7 @@ faqs:
     answer: "Every Bishkek CPO deployment includes a documented emergency action plan covering medical emergency (naming the receiving facility: Kyrgyz-Swiss Hospital in Bishkek or evacuation to Almaty or Istanbul), vehicle compromise procedures, communications protocols, and the operations controller's emergency activation procedure."
 ---
 
-The capital of kyrgyzstan and a significant central asian trade and logistics hub, with an active diplomatic community and growing mining and energy sector corporate presence. Close protection officers in Bishkek are deployed through licensed Kyrgyzstan operators with current ground knowledge, providing a structured CPO programme calibrated to the moderate-risk environment.
+This page is about the people who provide close protection in Bishkek: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Bishkek network holds a Ministry of Internal Affairs licence, and is assessed for local competence within a developing regulatory framework. It covers standard team configuration, company registration verification, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Kyrgyzstan CPO licensing framework
 
@@ -44,3 +44,5 @@ CPO operations in Bishkek are regulated through the Ministry of Interior of Kyrg
 ## CPO operations in Bishkek
 
 Licensed CPO cover, vehicle-based movement for all inter-venue transfers, airport collection inside Manas International Airport (FRU) terminal, operations restricted to the central city and the Chuy district for standard corporate assignments, and a written emergency plan with pre-confirmed contacts at the best available medical facilities. For the full Bishkek security picture, see our [Bishkek city page](/cities/bishkek/) and [bodyguard hire in Bishkek](/bodyguard-hire/bishkek/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Bishkek](/bodyguard-hire/bishkek/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Bishkek](/executive-protection/bishkek/).

@@ -33,7 +33,7 @@ faqs:
     answer: "The medical plan for every Erbil assignment includes the best available local medical facility for initial stabilisation and, where local capability is limited, evacuation routing to the nearest internationally accredited hospital. Medevac provider contacts are confirmed active before the principal's arrival. Medical evacuation insurance is the baseline requirement."
 ---
 
-Bodyguard hire in Erbil operates within Iraq's licensing framework, with close protection officers drawn from a vetted partner network holding valid national security authorisation.
+Hiring a bodyguard in Erbil is usually tied to a specific visit, where rocket and drone attacks and cross-border terrorism spill shape the plan alongside kidnapping risk. This page covers how close protection hire works in the Kurdistan Region of Iraq, what a KRG Ministry of Interior licensed officer does across a day of movements, and how quickly cover is arranged. Armed cover is the standard configuration for senior principals here, so hire pairs an armed officer with secure transport, scaled to the itinerary.
 
 ## The Erbil security environment
 
@@ -44,3 +44,5 @@ The current security environment in Erbil requires a bodyguard programme calibra
 A Erbil bodyguard programme covers airport transfers with inside-terminal collection, accommodation in vetted properties in the primary security zone, in-city movement with pre-planned routes and operations controller tracking, and a documented emergency action plan with medevac provisions.
 
 For the full Erbil security picture, see our [Erbil city briefing](/cities/erbil/). For principals requiring security drivers, [security drivers in Erbil](/security-drivers/erbil/) covers the Iraq programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Erbil](/executive-protection/erbil/). To check the credentials and vetting behind the officers, see [close protection officers in Erbil](/close-protection-officers/erbil/).

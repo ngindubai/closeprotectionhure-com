@@ -33,7 +33,7 @@ faqs:
     answer: "The emergency action plan for every Erbil EP programme covers: medical emergency (naming the receiving facility and evacuation routing), vehicle compromise (contingency routing and shelter options), political demonstration response (avoidance protocols and contingency routing), and communications procedures. The plan is shared with the principal and their organisation before deployment."
 ---
 
-Executive protection in Erbil is built around licensed Iraq operators with current ground knowledge, providing a structured programme covering the principal's full movement cycle in the city.
+Executive protection in Erbil is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing rocket and drone attacks and cross-border terrorism spill: advance work on venues and routes, a written threat assessment, an operations controller, and KRG-licensed armed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 ## The Erbil EP environment
 
@@ -44,3 +44,5 @@ The threat environment in Erbil warrants a structured EP programme for senior pr
 An EP programme in Erbil covers the full principal movement cycle: advance work at all venues, close escort during movements, accommodation security liaison, daily route variation, a documented emergency action plan, and medevac provider confirmation before arrival.
 
 For the full Erbil security picture, see our [Erbil city briefing](/cities/erbil/). For principals requiring security drivers, [security drivers in Erbil](/security-drivers/erbil/) covers the Iraq programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Erbil](/bodyguard-hire/erbil/). For the operators who staff the programme and how they are vetted, see [close protection officers in Erbil](/close-protection-officers/erbil/).

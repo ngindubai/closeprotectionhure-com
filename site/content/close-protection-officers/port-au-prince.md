@@ -37,7 +37,7 @@ faqs:
     answer: "Medical evacuation from Port-au-Prince requires a pre-arranged provider. PAP airport is accessible when gang activity does not affect the approach route; when it is not, overland evacuation to the Dominican Republic (Santo Domingo) is the primary alternative. Miami is the primary destination for air medical evacuation. A medevac provider must be on retainer before any Port-au-Prince deployment."
 ---
 
-Close protection officer deployment in Port-au-Prince requires a fundamentally different planning basis from most global CPO assignments. The extreme security environment -- active gang control of metropolitan districts, a kidnapping threat targeting international staff, and severely limited emergency response infrastructure -- means that a Port-au-Prince CPO detail is a complete security operation, not a standard accompaniment service. Armed cover, current gang-zone intelligence, pre-planned evacuation capability, and strict movement management are baseline elements, not enhancements.
+There is no functioning national private security regulatory authority operating consistently in Port-au-Prince as of 2026. This page covers who can realistically support a Haiti-linked requirement under these conditions: operators must be selected through international security firms with verified Haiti experience, given the collapse of any reliable licensing body, and it covers the extreme due-diligence standard applied given the security vacuum and ongoing gang conflict.
 
 ## Port-au-Prince CPO: the framework for essential visits
 
@@ -48,3 +48,5 @@ The FCDO advises against all travel to Haiti. The US State Department classifies
 Petionville is the primary viable zone. The CPO team maintains current familiarity with Hotel Montana, Villa Creole, and the principal international organisation offices in the district. All movement is pre-planned against current gang intelligence. The airport route is the single most vulnerable movement on any Port-au-Prince engagement.
 
 For complementary services in Port-au-Prince, see our [Port-au-Prince city page](/cities/port-au-prince/) and [event security in Port-au-Prince](/event-security/port-au-prince/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Port-au-Prince](/bodyguard-hire/port-au-prince/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Port-au-Prince](/executive-protection/port-au-prince/).

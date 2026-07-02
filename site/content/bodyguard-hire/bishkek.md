@@ -35,7 +35,7 @@ faqs:
     answer: "The medical plan for every Bishkek assignment includes local private hospital capacity for initial stabilisation and medical evacuation to Almaty for serious cases requiring internationally accredited care. Medevac provider contacts are confirmed active before the principal's arrival. Medical evacuation insurance is the baseline requirement."
 ---
 
-Bodyguard hire in Bishkek operates within Kyrgyzstan's Ministry of Internal Affairs licensing framework, with close protection officers drawn from a vetted partner network holding valid national security authorisation.
+Hiring a bodyguard in Bishkek is usually tied to a specific visit, where political instability shapes the plan alongside organised crime and petty crime. This page covers how close protection hire works in Kyrgyzstan, what a Ministry of Internal Affairs licensed operator does across a day of movements, and how quickly cover is arranged. Most standard corporate assignments use unarmed personnel, so hire pairs a licensed officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## The Bishkek security environment
 
@@ -46,3 +46,5 @@ Bishkek's security environment is assessed at moderate risk, driven by Kyrgyzsta
 A Bishkek bodyguard programme covers airport transfers with inside-terminal collection at Manas International Airport, accommodation in vetted properties in the Chui Avenue corridor, in-city movement with pre-planned routes and political monitoring, demonstration contingency protocols, and a documented emergency action plan with Almaty medevac provisions.
 
 For the full Bishkek security picture, see our [Bishkek city briefing](/cities/bishkek/). For comparable Central Asian operating environments, see our [Almaty city briefing](/cities/almaty/) and [Tashkent city briefing](/cities/tashkent/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Bishkek](/executive-protection/bishkek/). To check the credentials and vetting behind the officers, see [close protection officers in Bishkek](/close-protection-officers/bishkek/).

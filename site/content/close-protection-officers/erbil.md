@@ -37,7 +37,7 @@ faqs:
     answer: "A KRG-licensed armed CPO in Erbil typically ranges from USD 400 to USD 900 per day for a single operator. Armoured vehicle hire is additional, typically USD 300 to USD 700 per day. Two-person detail configurations, which are standard for senior principal engagements in the KRI, are costed accordingly. As at June 2026, rates reflect the Kurdistan Region's active security sector and the demand from the oil industry."
 ---
 
-Erbil is the capital of the Kurdistan Region of Iraq and the operational hub for the KRI's oil and gas sector. BP, TotalEnergies, DNO, Genel Energy, and Gulf Keystone Petroleum operate active field programmes, and the city hosts KRG government ministries, diplomatic missions, and a substantial NGO and UN agency presence. Close protection officer demand in Erbil reflects a genuinely elevated threat environment: Iran-aligned militia rocket and drone attacks on international targets are documented and ongoing, ISIL insurgent capability persists near KRI borders, and movement outside the Ankawa-Ainkawa Road corridor requires specific armed support.
+This page is about the people who provide close protection in Erbil: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Erbil network holds a licence from the Kurdistan Regional Government Ministry of Interior, separate from Baghdad's federal framework, and is assessed for local competence. It covers standard team configuration, the armed-as-standard model for senior principals, and the credential checks a buyer should insist on.
 
 ## The KRG licensing framework
 
@@ -46,3 +46,5 @@ The Kurdistan Regional Government Ministry of Interior maintains its own licensi
 ## What CPO work in Erbil requires
 
 Armed KRG-licensed CPO, armoured or reinforced vehicle, operations controller support, rocket-threat shelter-in-place briefings for every venue, and a written emergency plan with pre-confirmed contacts at the German Hospital Erbil and the British Embassy Baghdad. For field-site movements and travel beyond the Ankawa corridor, additional armed escort planning is required. For the full Erbil threat picture, see our [Erbil city page](/cities/erbil/) and [bodyguard hire in Erbil](/bodyguard-hire/erbil/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Erbil](/bodyguard-hire/erbil/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Erbil](/executive-protection/erbil/).
