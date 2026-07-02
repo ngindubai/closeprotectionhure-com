@@ -34,7 +34,7 @@ faqs:
     answer: "Single-officer unarmed close protection in Bogota typically ranges from $250 to $600 USD per day. Vehicle-based protection with security driver adds $150 to $300 USD per day. Armed cover sits at the higher end. As at May 2026, pricing varies with profile, duration, and whether a discreet detail is required."
 ---
 
-Bogota is the commercial and political capital of Colombia, the headquarters of significant Latin American corporate operations, and a city that has been substantially transformed from the security picture that dominated international perception in the 1990s and early 2000s. The threats that matter for business visitors today are specific and operationally manageable, but they remain real and they reward preparation.
+Hiring a bodyguard in Bogota is usually a trip-specific decision, where express kidnapping and organised-crime risk make secure movement the priority. This page covers how close protection hire works in Colombia, what an SVSP-authorised operator does across a day of movements, and how quickly cover is arranged. Armed cover is available through SVSP-registered companies; most engagements pair a vetted officer with a security driver and local route knowledge, scaled to the visit rather than a fixed contract.
 
 ## The Bogota threat environment
 
@@ -51,3 +51,5 @@ Commercial private security in Colombia is regulated by the Superintendencia de 
 Our Bogota detail is built around SuperVigilancia-licensed bilingual operators with specific experience of the corporate sector and of the operational mitigations that paseo millonario requires. The standard pattern is pre-arranged collection at El Dorado, route planning that uses the El Dorado-to-northern-corridor approach into Chico, Usaquen, or Zona G, and vetted ground transport for all subsequent movements.
 
 For complementary services in Bogota, see our [Bogota city page](/cities/bogota/), [security driver Bogota](/blog/security-driver-bogota/), and our [vetting close protection Latin America guide](/blog/vetting-close-protection-latin-america/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Bogota](/executive-protection/bogota/). To check the credentials and vetting behind the officers, see [close protection officers in Bogota](/close-protection-officers/bogota/).

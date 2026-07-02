@@ -35,7 +35,7 @@ faqs:
     answer: "Express kidnapping risk is citywide rather than confined to specific districts; any ATM transaction or unvetted taxi in any part of the city carries exposure. Targeted executive kidnapping risk is highest in the periods immediately before and after arrival at Benito Juarez International or Felipe Angeles International airports, and during vehicle movements between Polanco, Santa Fe, and the southern highway corridors. Airport transfer, hotel arrival and departure, and any unplanned or ad hoc vehicle movement are the highest-risk windows."
 ---
 
-Mexico City is one of Latin America's largest and most consequential business hubs, combining significant commercial opportunity with a kidnapping risk that places it consistently in the top tier of security concerns for corporate travellers. The FCDO and US State Department both carry Mexico-specific security advisories, and OSAC (the Overseas Security Advisory Council) publishes Mexico City-specific crime statistics that quantify the express kidnapping and targeted abduction risk for business visitors.
+This page is about the people who provide close protection in Mexico City: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Mexico City network works through a federally registered company, passes documented background checks, and is assessed for local competence. It covers standard team configuration, armed cover only via SEDENA-permitted companies, and the credential checks a buyer should insist on before engaging any officer.
 
 ## SEGOB licensing and federal compliance
 
@@ -46,3 +46,5 @@ Mexico's federal law governing private security, the Ley Federal de Seguridad Pr
 The operational picture for CPO work in Mexico City is dominated by the vehicle-based threat. Express kidnapping, which can target any individual displaying visible wealth, is addressed by specific CPO protocols around vehicle movements, ATM use, and unsolicited approaches. Targeted executive kidnapping is addressed through information security discipline, vetted driver-only transportation, and counter-surveillance awareness during all ground movements.
 
 For complementary services in Mexico City, see our [Mexico City city page](/cities/mexico-city/) and [bodyguard hire in Mexico City](/bodyguard-hire/mexico-city/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Mexico City](/bodyguard-hire/mexico-city/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Mexico City](/executive-protection/mexico-city/).

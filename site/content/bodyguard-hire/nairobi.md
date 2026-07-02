@@ -34,7 +34,7 @@ faqs:
     answer: "For most standard NGO assignments in Nairobi itself the appropriate baseline is journey management with a vetted driver and pre-travel briefing, rather than a formal close protection detail. CP becomes appropriate for senior leadership visits, principals with documented threat exposure, or itineraries extending to higher-risk regions where the threat profile changes materially."
 ---
 
-Nairobi is the operational headquarters of much of the East and Central African humanitarian sector, a major regional financial hub, and the corporate gateway to Kenya. It is also a city where close protection demand is shaped less by exceptional threat than by a steady, manageable risk picture that rewards prepared movement and punishes improvised movement.
+Hiring a bodyguard in Nairobi is usually tied to a specific trip: a regional headquarters visit, field movement, or travel through higher-risk corridors. This page covers how close protection hire works in Kenya, what a PSIRA-registered officer does across a day of movements, and how quickly cover is arranged. With carjacking and armed robbery among the main risks, hire pairs a licensed officer with a security driver and appropriate vehicle, scaled to the itinerary rather than a fixed contract.
 
 ## The Nairobi threat environment
 
@@ -55,3 +55,5 @@ Kenya's Private Security Regulation Act 2016 created the Private Security Regula
 Our Nairobi detail is built around PSRA-registered local operators with specific experience of the NGO/UN, diplomatic, and corporate sectors. For most assignments the appropriate model is a vetted security driver with operational base check-ins, scaling up to formal close protection where threat profile warrants it. The Karen and Runda residential belts have their own security culture; we work with the existing residential security where the principal stays in those areas rather than duplicating it.
 
 For complementary services in Nairobi, see our [Nairobi city page](/cities/nairobi/), [is Nairobi safe for business travel](/blog/is-nairobi-safe-for-business-travel/), and our [security drivers Nairobi guide](/blog/security-drivers-nairobi/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Nairobi](/executive-protection/nairobi/). To check the credentials and vetting behind the officers, see [close protection officers in Nairobi](/close-protection-officers/nairobi/).

@@ -238,6 +238,28 @@ Deliverable of this step: a one-page decision memo committed alongside this plan
 
 ---
 
+### BATCH 4 DECISION (2026-07-02) — user chose **Option B: differentiate intent**
+
+**Differentiation model (the three silos each own a distinct intent):**
+
+| Silo | Intent | Buyer | Page leads with | Head keyword |
+|---|---|---|---|---|
+| `bodyguard-hire` | **Transactional** — hire cover for a specific trip/period | Traveller / EA needing cover now | How hire works, what an officer does day-to-day, speed of engagement, cost | "bodyguard hire {city}", "hire a bodyguard {city}" |
+| `executive-protection` | **Programme** — organisational, duty-of-care protection | Corporate security manager / EA | Advance work, written threat assessment, ops controller, layered coverage, corporate duty of care | "executive protection {city}", "corporate close protection {city}" |
+| `close-protection-officers` | **Operators** — the people, credentials, standards | Buyer vetting operators | Who the CPOs are, vetting, licensing, team configuration, standards to verify | "close protection officers {city}", "CPO {city}" |
+
+**Per-silo structural recipe (applied per city, kept city-specific):**
+- **bodyguard-hire:** intro frames a short-notice, trip-tied hire; components emphasise engagement, per-visit scaling, officer + driver + vehicle package; FAQs keep how-much / how-fast / what-a-bodyguard-does; cross-link to EP ("for a corporate programme") and CPO ("to check credentials").
+- **executive-protection:** intro frames a corporate programme + duty of care; components emphasise advance work, threat assessment, ops controller, venue/accommodation assessment, incident response; FAQs keep programme / duty-of-care / sectors; cross-link to bodyguard-hire ("for short-term single-principal hire") and CPO ("the operators behind the programme").
+- **close-protection-officers:** intro frames the operators and their credentials; components emphasise vetting, licensing, team size, armed-CPO standards; FAQs keep licence / team-size / vetting; cross-link to bodyguard-hire and EP.
+- **Every intro must carry a city-specific hook** (the city's signature threat + named regulator), or it fails the "name-swap = worse than nothing" guardrail.
+
+**Proof sample authored + signed off:** Lagos × 3 silos (see chat 2026-07-02). Distinct buyer, question, and emphasis confirmed.
+
+**Rollout (Batch 5) — HONEST SCOPE:** this is a ~824-page content programme, not a single batch. It must be staged in approval-gated sub-batches (~10 cities per run = 30 pages), each: author 3 city-specific ledes + reframe components/FAQs + add cross-links → build check → QA gate → preview → approve → commit. Opus authors the rubric and each sub-batch's first sample; Sonnet may extend within a sub-batch only under the "genuinely specific or leave unset" guardrail. Priority order = the 15 answer-block cities first (already have direct-answer copy to align with), then the rest of the network.
+
+---
+
 # BATCH 5 — Execute the cannibalisation rollout (CRITICAL)
 **Model: [SONNET], driven strictly by the Batch 4 memo.**
 - Execute exactly what the memo specifies. If the memo is option A, apply canonical tags; if C, apply redirects + deletions; if B, apply the authored differentiation.
@@ -395,7 +417,19 @@ Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** wi
 - **Verification:** build clean; confirmed Calloway vs Webb posts each get the correct bio; `image`/`mainEntityOfPage`/`publisher @id` present; all 216 blog JSON-LD blocks parse, 0 errors.
 - **Status:** committed.
 
+### 2026-07-02 — Batch 4: Cannibalisation decision (Finding F2) [OPUS-DECIDED]
+- User chose **Option B (differentiate intent)**. Full model recorded in the Batch 4 section above (transactional / programme / operators split, per-silo recipe, rollout scope). Lagos × 3 proof sample authored and signed off.
+
+### 2026-07-02 — Batch 5 (sub-batch 1 of N): Differentiation rollout, 10 priority cities (Finding F2) [OPUS-AUTHORED]
+- **Scope (user):** Lagos reference + first ~10-city sub-batch; treatment = **lede + intent cross-links + FAQ angle** (components left as already-city-specific).
+- **Cities (10):** lagos, dubai, london, nairobi, johannesburg, mexico-city, bogota, sao-paulo, istanbul, riyadh. **Files: 30** (3 silos each).
+- **Change per page:** (1) replaced the opening body lede with an intent-framed, city-specific paragraph (bodyguard-hire = transactional hire; executive-protection = corporate programme/duty of care; close-protection-officers = operators/credentials), each 72–85 words citing the city's own regulator + signature threat; (2) appended an intent-specific cross-link paragraph linking the two sibling silos (also advances Batch 7 internal-linking for these cities).
+- **Verification:** build clean (0 errors); each silo's unique lede phrase renders once per page; all three siblings confirmed distinct across sampled cities (dubai, lagos, riyadh, sao-paulo); sibling cross-links resolve; QA gate clean (no em dashes, no safety-guarantee language) across all 30.
+- **Status:** committed.
+- **REMAINING (Batch 5 sub-batches 2..N):** ~254 more cities × 3 silos (~760 pages) still on the old overlapping ledes. Apply the SAME model + treatment, staged ~10 cities per run, Opus-authored ledes (or Sonnet under the "genuinely specific or leave" guardrail). Priority: finish the remaining 5 answer-block cities (mumbai, moscow, bangkok, manila, jakarta) next, then the wider network.
+
 ### 2026-07-02 — Plan maintenance
 - Added **Batch 1B (llms.txt)** to the plan per session rule 5, overriding the audit's "skip llms.txt" note.
 - Annotated Batch 1.2 with the city-guard correctness note.
 - Expanded **Batch 6.2** into a numbered Opus sub-plan (6.2.1–6.2.6) with scope decisions (Q6.2-a page types, Q6.2-b tranche size), a rubric spec, and a hand-checked-sample gate.
+- Recorded **Batch 4 decision (Option B)** with the full differentiation model, and split **Batch 5** into staged sub-batches.

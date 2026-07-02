@@ -34,7 +34,7 @@ faqs:
     answer: "A standard Riyadh EP engagement through MoI-authorised Saudi partners ranges from SAR 2,500 to SAR 5,500 per day inclusive of security driver. Legal environment and shelter-in-place briefing are included. As at May 2026, pricing depends on team configuration, the specific framework required for any sensitive meeting context, and whether coordination with international team members is included."
 ---
 
-Riyadh executive protection operates at the intersection of three distinct risk dimensions: the regional conflict creating active infrastructure threat, the specific legal environment for foreign nationals, and the standard corporate security requirements of a major business destination. Professional EP in Riyadh addresses all three as integrated components rather than treating physical security as the only relevant element.
+Executive protection in Riyadh is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive amid a regional missile and drone threat and significant cultural and legal considerations: advance work on venues and routes, a written threat assessment, an operations controller, and secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## The EP requirement in Riyadh
 
@@ -51,3 +51,5 @@ Formal commercial EP in Saudi Arabia operates through MoI-authorised Saudi partn
 Our Riyadh EP engagements operate through MoI-authorised Saudi partners, coordinated with any international team the principal already has. Written pre-travel threat assessment, shelter-in-place protocols, legal environment briefing, and operations controller coverage are standard.
 
 For related services, see our [Riyadh city page](/cities/riyadh/), [security drivers Riyadh](/security-drivers/riyadh/), and our [executive protection Saudi Arabia overview](/blog/executive-protection-saudi-arabia/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Riyadh](/bodyguard-hire/riyadh/). For the operators who staff the programme and how they are vetted, see [close protection officers in Riyadh](/close-protection-officers/riyadh/).

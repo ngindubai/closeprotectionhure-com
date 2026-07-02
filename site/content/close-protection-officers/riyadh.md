@@ -35,7 +35,7 @@ faqs:
     answer: "Locally licensed CPO cover in Riyadh ranges from approximately SAR 1,200 to SAR 2,800 per day per officer as at June 2026 (approximately GBP 260 to GBP 610). The specific cost depends on the engagement profile, whether advance coordination with host entities is required, and whether the engagement involves travel outside Riyadh to project sites or other Saudi cities. Longer engagements and multi-officer team configurations are priced on a retainer basis."
 ---
 
-Riyadh is Saudi Arabia's capital and the seat of the Saudi government, royal households, and the country's largest financial and energy institutions. The Vision 2030 programme launched by the Saudi government is drawing an increasing number of senior international executives into extended Riyadh engagements, in sectors ranging from entertainment and tourism to defence, technology, and infrastructure. CPO demand in Riyadh is specific to the principal's profile, the engagement type, and the regional threat context, rather than being driven by high ambient crime.
+This page is about the people who provide close protection in Riyadh: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Riyadh network works through a Ministry of Interior licensed entity, passes documented background checks, and is assessed for local competence. It covers standard team configuration, the usually unarmed model, Saudi national preference in operator composition, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Saudi regulatory framework for private security
 
@@ -46,3 +46,5 @@ Private security in Saudi Arabia is regulated through the Ministry of Interior, 
 The terrorism threat, documented in FCDO and US State Department advisories, is the primary security planning driver for CPO engagements in Riyadh alongside the cultural protocol compliance requirements that distinguish Saudi CPO operations from most other markets. The low ambient crime rate means that routine personal protection for business visitors is rarely warranted; CPO engagement is typically driven by specific threat indicators, the principal's sector, or the high-protocol nature of a particular visit.
 
 For complementary services in Riyadh, see our [Riyadh city page](/cities/riyadh/) and [executive protection in Riyadh](/executive-protection/riyadh/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Riyadh](/bodyguard-hire/riyadh/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Riyadh](/executive-protection/riyadh/).

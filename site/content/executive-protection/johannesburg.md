@@ -34,7 +34,7 @@ faqs:
     answer: "A standard single-officer EP engagement in Johannesburg ranges from R8,000 to R18,000 per day inclusive of security driver and vehicle. Two-officer teams and armed cover sit above this. Multi-day visits benefit from retainer arrangements. As at May 2026, pricing depends on threat profile, team configuration, and whether advance work and operations controller time are included."
 ---
 
-Johannesburg executive protection is defined by two realities that are unusual in the global EP market. First, the threat environment is genuinely acute: PSIRA quarterly statistics and SAPS crime data consistently document elevated violent crime, carjacking, and targeted criminality against business executives and HNWI individuals. Second, the supply side is unusually strong: South Africa has the most developed private security industry in Africa, a verifiable regulatory system through PSIRA, and a deep pool of experienced local operators.
+Executive protection in Johannesburg is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing carjacking, armed robbery, and cash-in-transit crime: advance work on venues and routes, a written threat assessment, an operations controller, and secure driving integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## The EP requirement in Johannesburg
 
@@ -51,3 +51,5 @@ PSIRA Grade A is the relevant close protection grade. Operators must be personal
 Our Johannesburg EP engagements are built around PSIRA Grade A local operators with specific Johannesburg experience. Pre-travel written threat assessment, venue advance work, operations controller coverage, and incident escalation contact with the principal's home-country team are standard components. For HNWI clients, residential security assessment and domestic staff vetting support are available as additional components.
 
 For related services, see our [Johannesburg city page](/cities/johannesburg/), [security drivers Johannesburg](/security-drivers/johannesburg/), and our [executive protection Johannesburg guide](/blog/executive-protection-johannesburg/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Johannesburg](/bodyguard-hire/johannesburg/). For the operators who staff the programme and how they are vetted, see [close protection officers in Johannesburg](/close-protection-officers/johannesburg/).

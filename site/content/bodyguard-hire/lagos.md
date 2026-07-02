@@ -34,7 +34,7 @@ faqs:
     answer: "Each carries a different operational profile. Victoria Island is the closest to the central business district and to the international hotel cluster; Ikoyi is the diplomatic and old-money residential area with strong ambient security; Lekki has grown into a major business and residential expansion with mixed risk profile. Our pre-travel briefing covers the specific implications of accommodation choice for your itinerary."
 ---
 
-Lagos is Nigeria's commercial capital and one of the most consequential business cities in West Africa. It is also a city where corporate close protection is a routine baseline requirement for senior executive visitors, not an unusual measure. Nigeria's documented kidnap risk for foreign executives, the specific corporate-target profile that Lagos generates, and the well-established Nigerian private security industry mean that close protection in Lagos is a normal, planned step rather than an exceptional one.
+Hiring a bodyguard in Lagos is usually a short-notice decision tied to a specific trip: a board visit, an energy-sector site inspection, or a period of heightened personal risk. This page covers how close protection hire works, what an NSCDC-licensed officer does across a day of movements, and how quickly cover is arranged. Most engagements pair a licensed officer with a security driver and armoured vehicle for the visit, scaled to the itinerary rather than a fixed contract.
 
 ## The Lagos threat environment
 
@@ -53,3 +53,5 @@ Our Lagos detail is built around NSCDC-licensed local operators with specific ex
 The LOS-to-Victoria-Island and LOS-to-Ikoyi corridors carry well-documented incident histories that inform our route planning. Movement during peak traffic creates specific vulnerability windows; our standard practice is to plan around those windows rather than be caught in them.
 
 For complementary services in Lagos, see our [Lagos city page](/cities/lagos/), [event security in Lagos](/event-security/lagos/), and our [secure airport transfer Lagos guide](/blog/secure-airport-transfer-lagos/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Lagos](/executive-protection/lagos/). To check the credentials and vetting behind the officers, see [close protection officers in Lagos](/close-protection-officers/lagos/).

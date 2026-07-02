@@ -34,7 +34,7 @@ faqs:
     answer: "Single-officer unarmed close protection in Dubai typically ranges from AED 1,500 to AED 3,500 per day (approximately GBP 325 to GBP 760 in May 2026). Vehicle-based protection with security driver adds AED 1,000 to AED 2,000 per day. Team-based detail for high-profile principals scales from there. Pricing depends on profile, duration, and whether discretion-specific requirements apply."
 ---
 
-Dubai is one of the most consequential business destinations in the world and a city where close protection is shaped less by ambient threat than by specific circumstance. The city's day-to-day security environment is genuinely benign by international comparison: violent crime rates are very low, the regulatory environment for foreign business is mature, and the international hotel and corporate venue security standard is high. The reasons clients hire close protection in Dubai are specific to profile and circumstance, not to general ambient risk.
+Hiring a bodyguard in Dubai is typically about discretion and executive privacy rather than responding to street threats, which are low. This page covers how close protection hire works in the UAE, what a SIRA-certified officer does across a day of meetings and movements, and how quickly cover is arranged. Firearms are prohibited for private security, so hire is unarmed and built around planning, low-profile movement, and local knowledge, scaled to the visit rather than a fixed contract.
 
 ## The Dubai threat environment
 
@@ -59,3 +59,5 @@ Armed private close protection in the UAE is heavily restricted. Civilians canno
 Our Dubai detail emphasises discreet, low-visibility close protection by SIRA-licensed local operators. Officers are trained for the specific business environment: business attire, behaviour appropriate to corporate and family-office venues, and information security awareness. Vehicles are appropriate-spec for the journey, with armoured options available where the threat profile justifies them, though this is the exception in Dubai rather than the norm.
 
 For complementary services in Dubai, see our [Dubai city page](/cities/dubai/), [is Dubai safe 2026 update](/blog/is-dubai-safe-2026/), and our [residential security expats Dubai guide](/blog/residential-security-expats-dubai/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Dubai](/executive-protection/dubai/). To check the credentials and vetting behind the officers, see [close protection officers in Dubai](/close-protection-officers/dubai/).

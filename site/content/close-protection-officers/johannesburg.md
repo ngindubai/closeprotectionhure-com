@@ -35,7 +35,7 @@ faqs:
     answer: "A foreign CPO may accompany a principal as part of an international detail but cannot engage in commercial close protection for hire in South Africa without PSIRA registration. For any formal security detail in South Africa, the operating company and its CPOs must hold current PSIRA registration under the Private Security Industry Regulation Act 2001."
 ---
 
-Johannesburg is the city in sub-Saharan Africa where demand for qualified close protection officers most closely mirrors corporate norms in London or New York. The combination of a well-documented violent crime environment, a sophisticated private security industry, and a corporate culture that treats CPO cover as a standard operating requirement produces a mature and well-regulated CPO market.
+This page is about the people who provide close protection in Johannesburg: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Johannesburg network holds current PSIRA registration, passes documented background checks, and is assessed for South Africa-specific competence. It covers standard team configuration, armed cover under Firearms Control Act competency, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The PSIRA licensing framework
 
@@ -48,3 +48,5 @@ The public PSIRA registry allows clients to verify any registration number. This
 A Johannesburg CPO detail typically involves pre-advance work at accommodation, primary meeting venues, and restaurants before the principal arrives; route selection and timing for all ground movements; and operations controller oversight maintaining the timeline and location throughout. The threat vectors driving these protocols are carjacking, armed robbery, and the lower-frequency but documented risk of targeted kidnapping affecting senior business visitors to the Gauteng region.
 
 For complementary services in Johannesburg, see our [Johannesburg city page](/cities/johannesburg/) and [bodyguard hire in Johannesburg](/bodyguard-hire/johannesburg/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Johannesburg](/bodyguard-hire/johannesburg/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Johannesburg](/executive-protection/johannesburg/).

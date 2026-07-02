@@ -35,7 +35,7 @@ faqs:
     answer: "The overall security environment in Colombia has improved materially since the 2000s. In Bogota specifically, homicide rates have declined significantly and major terrorist incidents have not occurred in the city centre for several years. However, petty crime, vehicle-based robbery, and targeted crime against visible-wealth individuals remain active threats. The FCDO and US State Department maintain Colombia advisories that are differentiated by region, reflecting that the capital has a different risk profile from rural conflict zones."
 ---
 
-Bogota is the political and commercial capital of Colombia and one of the most important business hubs in South America. Colombia's security environment has transformed significantly since the height of cartel and guerrilla violence in the 1990s and 2000s, but the FCDO and US State Department continue to carry Colombia advisories that note residual kidnapping risk and targeted crime against senior executives. CPO demand in Bogota reflects this post-conflict reality: the city is accessible and commercially active, but specific threats to high-profile business visitors remain documented.
+This page is about the people who provide close protection in Bogota: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Bogota network holds credentials through an SVSP-authorised company, passes documented background checks, and is assessed for Colombia-specific competence. It covers standard team configuration, armed cover under SVSP authorisation, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Supervigilancia and the regulatory framework
 
@@ -46,3 +46,5 @@ Colombia's Supervigilancia (Superintendencia de Vigilancia y Seguridad Privada) 
 Vehicle-based robbery and opportunistic targeted crime against foreign visitors are the most common threats CPO cover addresses in Bogota. Executive-level kidnapping risk, while lower than in the peak years, remains a documented consideration for very senior or publicly prominent principals. CPO operational planning in Bogota focuses on vehicle movement discipline, information security around the principal's itinerary, and counter-surveillance during all ground movements.
 
 For complementary services in Bogota, see our [Bogota city page](/cities/bogota/) and [bodyguard hire in Bogota](/bodyguard-hire/bogota/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Bogota](/bodyguard-hire/bogota/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Bogota](/executive-protection/bogota/).

@@ -35,7 +35,7 @@ faqs:
     answer: "NSCDC-licensed CPO cover in Lagos ranges from approximately USD 400 to USD 900 per officer per day for a vetted, locally licensed CPO as at June 2026. A two-person team with security driver is typically USD 700 to USD 1,400 per day. Armed options and armoured vehicle integration are priced separately based on the operational requirement and duration."
 ---
 
-Lagos is the city in West Africa where demand for structured close protection officer deployment most directly reflects a documented threat environment. The FCDO and US State Department advisories on Nigeria both note the specific risks to senior business visitors, and the private security sector in Lagos has developed around them. Qualified CPO cover in Lagos is a calibrated operational response to documented threats, not an extravagance.
+This page is about the people who provide close protection in Lagos: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Lagos network holds current NSCDC registration, passes documented background checks, and is assessed for Lagos-specific competence. It covers standard team configuration, the two-person minimum for higher-risk principals, armed CPO options under NSCDC licensing, and the checks a buyer should insist on before engaging any officer.
 
 ## NSCDC licensing and compliance
 
@@ -48,3 +48,5 @@ The practical verification step is to confirm the NSCDC licence number of the op
 The threat environment shaping CPO work in Lagos involves vehicle-based crime, targeted abduction, and the specific risk of the airport-to-accommodation transfer. Kidnap-for-ransom targeting of senior business executives is documented in NSCDC and security sector incident reporting. The operational response combines qualified CPO cover, NSCDC-licensed security drivers, information control around the principal's movements, and operations controller oversight throughout.
 
 For complementary services in Lagos, see our [Lagos city page](/cities/lagos/) and [security drivers in Lagos](/security-drivers/lagos/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Lagos](/bodyguard-hire/lagos/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Lagos](/executive-protection/lagos/).

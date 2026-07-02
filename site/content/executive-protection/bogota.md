@@ -34,7 +34,7 @@ faqs:
     answer: "A standard single-officer Bogota EP engagement ranges from $500 to $1,200 USD per day inclusive of security driver. As at May 2026, pricing depends on threat profile, team configuration, and whether provincial Colombia legs require separate planning."
 ---
 
-Bogota executive protection reflects a city that has changed significantly from its historical security picture while retaining specific threat patterns that reward professional EP over improvised travel arrangements. The paseo millonario risk is the defining operational element; the El Dorado airport arrival is the highest-exposure point; and northern Bogota's corporate belt is the lower-risk operating environment that most corporate visits stay within.
+Executive protection in Bogota is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing express kidnapping, organised crime, and periodic protest: advance work on venues and routes, a written threat assessment, an operations controller, and secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## The EP requirement in Bogota
 
@@ -51,3 +51,5 @@ SuperVigilancia authorisation under Decree 356/1994 is required for commercial s
 Our Bogota EP engagements are built around SuperVigilancia-licensed bilingual local operators with specific El Dorado protocol training and northern Bogota operational experience. Pre-travel threat assessment, paseo millonario prevention standard, and operations controller coverage are standard.
 
 For related services, see our [Bogota city page](/cities/bogota/), [security drivers Bogota](/security-drivers/bogota/), and our [security driver Bogota guide](/blog/security-driver-bogota/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Bogota](/bodyguard-hire/bogota/). For the operators who staff the programme and how they are vetted, see [close protection officers in Bogota](/close-protection-officers/bogota/).

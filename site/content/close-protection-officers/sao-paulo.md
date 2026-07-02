@@ -35,7 +35,7 @@ faqs:
     answer: "The Guarulhos airport arrival and departure windows are the highest-risk periods for most foreign principals. Night-time vehicle movements in Sao Paulo generally, and specifically on the Ayrton Senna, Bandeirantes, and Imigrantes highways, carry elevated robbery risk. Unplanned or ad hoc vehicle movements, use of unvetted taxis or ride-share applications for senior principals, and any movement displaying obvious wealth indicators (designer luggage, visible jewellery) increase the express kidnap exposure materially."
 ---
 
-Sao Paulo is Brazil's largest city and the financial capital of South America, hosting the B3 stock exchange, the headquarters of most major Brazilian and international corporations, and the country's largest concentration of HNWI individuals. It is also a city with a documented executive crime environment that produces consistent demand for professional close protection officer services among senior corporate and HNWI visitors.
+This page is about the people who provide close protection in Sao Paulo: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Sao Paulo network is certified under Federal Police standards (Portaria 3233/2012), passes documented background checks, and is assessed for local competence. It covers standard team configuration, armed cover through Federal Police registered firms, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Brazilian regulatory framework
 
@@ -46,3 +46,5 @@ Private security in Brazil is governed by Lei 7.102 of 1983, which established t
 The central operational challenge for CPO work in Sao Paulo is the vehicle-based threat environment. Express kidnapping, vehicle robbery, and the specific risk of unvetted transport from Guarulhos airport are the dominant concerns for arriving foreign executives. CPO cover addresses these through vehicle selection, pre-arranged airport protocols, route variation, and operations controller oversight throughout the principal's time in the city.
 
 For complementary services in Sao Paulo, see our [Sao Paulo city page](/cities/sao-paulo/) and [bodyguard hire in Sao Paulo](/bodyguard-hire/sao-paulo/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Sao Paulo](/bodyguard-hire/sao-paulo/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Sao Paulo](/executive-protection/sao-paulo/).

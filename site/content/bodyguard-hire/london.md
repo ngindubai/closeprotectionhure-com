@@ -35,7 +35,7 @@ faqs:
     answer: "London HNWI CPO engagements typically involve a discreet profile: male or female CPOs selected to match the principal's social environment, business or smart-casual attire, and operational behaviour appropriate to the specific venue. Experience of London's HNWI hotel environment (Claridge's, The Connaught, 45 Park Lane, The Berkeley), high-end retail (Bond Street, Sloane Street), and private members' clubs is part of the London CPO operational skill set. The security function is exercised without announcing itself."
 ---
 
-London is one of the world's most significant UHNWI concentrations and a principal business hub for global finance, energy, and professional services. It is also a city with a well-documented terrorism threat (MI5 maintains SEVERE status as of June 2026), a specific UHNWI targeting history, and a mature, highly regulated close protection industry built around the SIA licensing framework. Bodyguard hire in London is an established professional service for a specific and well-defined market: UHNWI principals, visiting dignitaries, senior corporate executives with specific threat indicators, and families with a documented targeting history.
+Hiring a bodyguard in London is often tied to a specific need: a high-profile visit, UHNWI travel, or a period of elevated personal exposure. This page covers how close protection hire works in the UK, what an SIA-licensed officer does across a day of movements, and how quickly cover is arranged. UK cover is almost always unarmed and intelligence-led, so hire pairs a licensed officer with discreet secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## The SIA licensing framework
 
@@ -46,3 +46,5 @@ The Security Industry Authority (SIA) was established under the Private Security
 London's terrorism threat, the UHNWI targeting history in Mayfair, Belgravia, and Kensington, and the corporate espionage environment affecting senior executives in financial services and technology define the demand profile for CPO services. None of these risks prevents normal business operations; they define the specific circumstances where CPO cover is warranted.
 
 For complementary services in London, see our [London city page](/cities/london/) and [security drivers in London](/security-drivers/london/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in London](/executive-protection/london/). To check the credentials and vetting behind the officers, see [close protection officers in London](/close-protection-officers/london/).

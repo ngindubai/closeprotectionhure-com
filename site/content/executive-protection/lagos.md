@@ -34,7 +34,7 @@ faqs:
     answer: "A standard Lagos EP engagement with NSCDC-licensed armed CPO and security driver typically ranges from $1,200 to $2,800 USD per day. Two-officer teams and armoured vehicle hire sit above this. As at May 2026, pricing depends on threat profile, team configuration, and whether kidnap risk management planning and advance work are included."
 ---
 
-Lagos executive protection is shaped by a threat environment that is more acute than most African business cities and by an NSCDC-regulated private security industry that, while less developed than South Africa's, provides qualified local operators for commercial EP work. The operational model for Lagos EP is built around the kidnap risk as the primary planning factor, rather than treating it as one risk among many.
+Executive protection in Lagos is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to a travelling executive in a high-kidnap environment: advance work on venues and routes, a written threat assessment, an operations controller tracking movements, and secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## The EP requirement in Lagos
 
@@ -51,3 +51,5 @@ NSCDC licensing is the regulatory baseline for all commercial security operation
 Our Lagos EP engagements are built around NSCDC-licensed local operators with specific Lagos commercial-sector experience. Written kidnap risk assessment, armed cover standard for appropriate profiles, LOS collection protocol, accommodation and venue assessment, and operations controller coverage are standard components.
 
 For related services, see our [Lagos city page](/cities/lagos/), [security drivers Lagos](/security-drivers/lagos/), and our [secure airport transfer Lagos guide](/blog/secure-airport-transfer-lagos/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Lagos](/bodyguard-hire/lagos/). For the operators who staff the programme and how they are vetted, see [close protection officers in Lagos](/close-protection-officers/lagos/).

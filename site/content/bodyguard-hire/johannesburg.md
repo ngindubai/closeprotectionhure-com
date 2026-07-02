@@ -34,7 +34,7 @@ faqs:
     answer: "The pattern follows the corporate and HNWI footprint: Sandton, Rosebank, Hyde Park, and Houghton for business and accommodation; the embassy belt for diplomatic activity; OR Tambo and Lanseria for arrivals. Movement to and from Eastern and Southern Johannesburg suburbs after dark is where most principals benefit from accompanied transport even if not formal CP."
 ---
 
-Johannesburg is South Africa's commercial capital and one of the most consequential business destinations in Africa. It is also a city where close protection is a routine corporate requirement, not an extravagance. South Africa's documented violent crime rate, the specific risk environment of carjacking and home invasion in the Gauteng area, and the established corporate security culture that follows mean that hiring close protection in Johannesburg is a normal step for senior executive visitors rather than an unusual one.
+Hiring a bodyguard in Johannesburg is usually a trip-specific decision, where carjacking and armed robbery make secure movement the priority. This page covers how close protection hire works in South Africa, what a PSIRA-registered officer does across a day of movements, and how quickly cover is arranged. Hire typically pairs a licensed officer with a trained security driver and appropriate vehicle, with armed cover available under Firearms Control Act competency, scaled to the itinerary rather than a fixed contract.
 
 ## The Johannesburg threat environment
 
@@ -55,3 +55,5 @@ Our Johannesburg detail is built around PSIRA-registered local operators with sp
 Vehicles are appropriate-spec for the journey type. The OR Tambo to Sandton corridor and the Lanseria to Hyde Park corridor have well-documented incident histories that shape route and vehicle decisions. Drivers are PSIRA-registered and trained for the specific Johannesburg threat patterns.
 
 For complementary services in Johannesburg, see our [Johannesburg city page](/cities/johannesburg/), [executive protection in Johannesburg](/blog/executive-protection-johannesburg/), and our [secure airport transfer Johannesburg guide](/blog/secure-airport-transfer-johannesburg/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Johannesburg](/executive-protection/johannesburg/). To check the credentials and vetting behind the officers, see [close protection officers in Johannesburg](/close-protection-officers/johannesburg/).

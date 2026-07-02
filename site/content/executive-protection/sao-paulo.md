@@ -34,7 +34,7 @@ faqs:
     answer: "A standard single-officer Sao Paulo EP engagement ranges from BRL 2,500 to BRL 5,500 per day inclusive of security driver. Armoured vehicle hire adds BRL 2,500 to BRL 6,000 per day. As at May 2026, pricing depends on profile, team configuration, vehicle specification, and whether sector-specific briefing is included."
 ---
 
-Sao Paulo executive protection is built around the armed robbery risk for executive vehicles as its primary operational foundation. The city is the commercial capital of Latin America's largest economy and a major destination for corporate travel; the EP requirement flows from a specific and well-documented threat pattern rather than from generalised instability.
+Executive protection in Sao Paulo is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing armed robbery, express kidnapping, and carjacking across a vast city: advance work on venues and routes, a written threat assessment, an operations controller, and secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## The EP requirement in Sao Paulo
 
@@ -51,3 +51,5 @@ DPF authorisation under Lei No. 7.102/1983 is required for commercial EP in Braz
 Our Sao Paulo EP engagements are built around DPF-authorised bilingual local operators with specific Faria Lima and GRU experience. Pre-travel threat assessment, stop-light and route variation protocols as standard, armoured vehicle options for appropriate profiles, and operations controller coverage throughout.
 
 For related services, see our [Sao Paulo city page](/cities/sao-paulo/), [security drivers Sao Paulo](/security-drivers/sao-paulo/), and our [is Sao Paulo safe assessment](/blog/is-sao-paulo-safe-for-business-travel/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Sao Paulo](/bodyguard-hire/sao-paulo/). For the operators who staff the programme and how they are vetted, see [close protection officers in Sao Paulo](/close-protection-officers/sao-paulo/).

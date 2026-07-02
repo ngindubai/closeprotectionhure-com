@@ -34,7 +34,7 @@ faqs:
     answer: "A standard single-officer CDMX EP engagement ranges from $700 to $1,600 USD per day inclusive of security driver. Two-officer teams, sector-specific briefing, and information security components are costed separately. As at May 2026, pricing depends on threat profile, itinerary complexity, and vehicle specification."
 ---
 
-Mexico City executive protection is built around the express kidnapping risk as its primary operational foundation, with sector-specific threat dimensions layered on top for the principal profiles that require them. The DGSP-regulated private security sector in CDMX provides qualified local operators, and the operational model reflects the city's specific threat pattern rather than a generic Latin American EP template.
+Executive protection in Mexico City is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing express kidnapping and organised-crime exposure: advance work on venues and routes, a written threat assessment, an operations controller, and discreet secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## The EP requirement in Mexico City
 
@@ -51,3 +51,5 @@ DGSP federal authorisation and Mexico City SSC local registration are required f
 Our CDMX EP engagements are built around DGSP-licensed, SSC-registered bilingual local operators with specific MEX airport protocol training and Polanco-Lomas operational experience. Pre-travel threat assessment, sector-specific briefing for relevant profiles, and operations controller coverage are standard.
 
 For related services, see our [Mexico City page](/cities/mexico-city/), [security drivers Mexico City](/security-drivers/mexico-city/), and our [bodyguard hire Mexico City page](/bodyguard-hire/mexico-city/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Mexico City](/bodyguard-hire/mexico-city/). For the operators who staff the programme and how they are vetted, see [close protection officers in Mexico City](/close-protection-officers/mexico-city/).

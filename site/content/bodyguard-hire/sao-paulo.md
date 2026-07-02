@@ -34,7 +34,7 @@ faqs:
     answer: "Single-officer unarmed close protection in Sao Paulo typically ranges from BRL 1,500 to BRL 3,500 per day (approximately GBP 240 to GBP 560 in May 2026). Armed cover sits at the higher end. Vehicle-based protection with security driver adds BRL 600 to BRL 1,200 per day. Pricing depends on profile, duration, and whether team-based detail is required."
 ---
 
-Sao Paulo is Brazil's commercial and financial capital and the largest city in Latin America by population. It is the headquarters of significant multinational regional operations and one of the most consequential business destinations in the Southern Hemisphere. The security environment is shaped less by spectacular threats and more by a baseline level of armed robbery and vehicle crime that rewards operational preparation and punishes improvised movement.
+Hiring a bodyguard in Sao Paulo is usually tied to a specific visit across a vast urban sprawl, where armed robbery and express kidnapping make secure transport essential. This page covers how close protection hire works in Brazil, what a Federal Police registered operator does across a day of movements, and how quickly cover is arranged. Most engagements pair a certified officer with a security driver and route planning, scaled to the itinerary rather than a fixed contract.
 
 ## The Sao Paulo threat environment
 
@@ -51,3 +51,5 @@ Commercial private security in Brazil is regulated federally by the Departamento
 Our Sao Paulo detail is built around DPF-authorised bilingual operators with specific experience of the Faria Lima, Jardins, and Vila Olimpia corporate environments and of the GRU corridor. Vehicles are appropriate-spec for the journey type, with armoured options available where the threat profile justifies them. For most corporate visitor profiles in Sao Paulo, a vetted security driver supported by single-officer CP is the appropriate baseline.
 
 For complementary services in Sao Paulo, see our [Sao Paulo city page](/cities/sao-paulo/), [is Sao Paulo safe for business travel](/blog/is-sao-paulo-safe-for-business-travel/), and our [executive protection service overview](/services/executive-protection/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Sao Paulo](/executive-protection/sao-paulo/). To check the credentials and vetting behind the officers, see [close protection officers in Sao Paulo](/close-protection-officers/sao-paulo/).

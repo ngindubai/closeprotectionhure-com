@@ -34,7 +34,7 @@ faqs:
     answer: "Single-officer unarmed close protection in Istanbul typically ranges from $300 to $700 USD per day. Armed cover sits at the higher end. Vehicle-based protection with security driver adds $150 to $350 USD per day. Pricing depends on profile, duration, whether team-based detail is required, and any specific Bosphorus-crossing or counter-surveillance components."
 ---
 
-Istanbul is Turkey's largest city, home to over 15 million people, and one of the most significant business hubs connecting Europe, the Middle East, and Central Asia. It is also a city whose security environment combines a documented terrorism threat with a complex intelligence environment and a geography that materially shapes operational planning.
+Hiring a bodyguard in Istanbul is often tied to a specific visit, where the priority is terrorism awareness and low-profile movement rather than everyday street crime. This page covers how close protection hire works in Turkey, what a Law 5188 certified officer does across a day of movements, and how quickly cover is arranged. Armed cover is tightly restricted, so hire is usually unarmed and pairs a licensed officer with discreet secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## The Istanbul threat environment
 
@@ -51,3 +51,5 @@ Turkey's private security framework under Law 5188 requires close protection off
 Our Istanbul detail is built around OGG-certified bilingual operators with specific experience of the post-2016 IST airport security model, the Bosphorus geography, and the intelligence environment relevant to corporate visitors. For most corporate visitor profiles in Istanbul the appropriate model is single-officer unarmed CP supported by a vetted security driver, with armed cover reserved for principals with specific threat assessments warranting it.
 
 For complementary services in Istanbul, see our [Istanbul city page](/cities/istanbul/), [close protection Istanbul](/blog/close-protection-istanbul/), and our [private security regulations Turkey guide](/blog/private-security-regulations-turkey/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Istanbul](/executive-protection/istanbul/). To check the credentials and vetting behind the officers, see [close protection officers in Istanbul](/close-protection-officers/istanbul/).

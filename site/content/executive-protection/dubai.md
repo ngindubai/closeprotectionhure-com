@@ -34,7 +34,7 @@ faqs:
     answer: "A standard single-officer SIRA-licensed EP engagement in Dubai ranges from AED 2,500 to AED 5,500 per day inclusive of security driver. HNWI residential and family protection engagements, which involve a different scope, are costed on a retainer basis. As at May 2026, pricing depends on profile, team configuration, and whether information security briefing and advance work are included."
 ---
 
-Dubai executive protection is defined by a paradox: the city has one of the lowest ambient violent crime rates of any major business destination, yet maintains a consistent and sophisticated EP market. The drivers are the HNWI concentration, the regional intelligence environment, and, increasingly, the regional conflict dimension that the 2022 Abu Dhabi attack brought into the planning frame.
+Executive protection in Dubai is a programme, not a single officer. Even in a low street-crime environment, it is the discipline a company applies to protect a travelling executive's privacy, schedule, and legal and cultural compliance: advance work on venues, a written threat assessment, an operations controller, and discreet secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## The EP requirement in Dubai
 
@@ -51,3 +51,5 @@ All commercial EP in Dubai is regulated by SIRA. Operating companies and individ
 Our Dubai EP engagements are built around SIRA-licensed local operators with specific discreet-profile training and DIFC, Downtown, and HNWI-residential operational experience. Pre-travel brief including regional tension update, operations controller coverage, and information security awareness briefing are standard components.
 
 For related services, see our [Dubai city page](/cities/dubai/), [security drivers Dubai](/security-drivers/dubai/), and our [is Dubai safe 2026 assessment](/blog/is-dubai-safe-2026/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Dubai](/bodyguard-hire/dubai/). For the operators who staff the programme and how they are vetted, see [close protection officers in Dubai](/close-protection-officers/dubai/).

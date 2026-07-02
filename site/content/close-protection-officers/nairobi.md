@@ -35,7 +35,7 @@ faqs:
     answer: "No. The majority of business visitors to Nairobi travel without formal CPO cover. CPO engagement is typically warranted for: senior executives or public figures with a specific threat profile, principals operating in areas with elevated exposure to vehicle crime or terrorism targets, NGO and diplomatic personnel operating outside Nairobi's corporate zones, and any principal who has received a specific threat. The FCDO and US State Department advisories provide the baseline threat picture."
 ---
 
-Nairobi is East Africa's principal business hub and the headquarters of numerous international organisations, UN agencies, and NGO operations. It is also a city with a documented terrorism threat from al-Shabaab, a measurable vehicle crime rate in specific corridors, and a growing private security sector that is increasingly regulated under Kenya's 2016 Private Security (Regulation) Act. CPO demand in Nairobi reflects this specific combination: it is highest among diplomatic and NGO personnel, senior corporate executives from international organisations, and principals operating outside the core Westlands and Upperhill zones.
+This page is about the people who provide close protection in Nairobi: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Nairobi network holds current PSIRA registration, with vetting via the Directorate of Criminal Investigations, and is assessed for Kenya-specific competence. It covers standard team configuration, armed cover under the Firearms Act where warranted, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The PSRA licensing framework
 
@@ -46,3 +46,5 @@ Kenya's Private Security Regulatory Authority (PSRA), established under the Priv
 The 2013 Westgate Mall attack (67 killed) and the 2019 DusitD2 hotel complex attack (21 killed) demonstrate that high-profile commercial venues in Nairobi are within al-Shabaab's targeting profile. CPO pre-advance work in Nairobi specifically addresses hotel and venue security: emergency exits, shelter-in-place locations, liaison contacts with hotel security management, and the specific procedures that apply if the venue comes under attack. This is not hypothetical planning; it is a standard CPO competency in the Nairobi market.
 
 For complementary services in Nairobi, see our [Nairobi city page](/cities/nairobi/) and [bodyguard hire in Nairobi](/bodyguard-hire/nairobi/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Nairobi](/bodyguard-hire/nairobi/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Nairobi](/executive-protection/nairobi/).

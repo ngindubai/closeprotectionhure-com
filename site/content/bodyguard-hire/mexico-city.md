@@ -34,7 +34,7 @@ faqs:
     answer: "Single-officer unarmed close protection in CDMX typically ranges from $400 to $900 USD per day. Vehicle-based protection with security driver and CPO adds substantially more, particularly if an armoured-spec vehicle is appropriate to the threat profile. Pricing varies with profile, duration, and whether a discreet detail is required."
 ---
 
-Mexico City is the largest city in North America by population, the headquarters of multinational regional operations across Latin America, and a city where the close protection question is shaped by what the threat picture actually is, rather than by what its international reputation suggests. The cartel violence that drives Mexico's international perception is concentrated in specific border and Pacific-coast states, not in CDMX. The threats that matter for business visitors are different: express kidnapping, vehicle crime, and a small set of sector-specific exposures.
+Hiring a bodyguard in Mexico City is usually tied to a specific visit, where express kidnapping and organised-crime exposure make discreet secure transport the priority. This page covers how close protection hire works, what an operator from a SEDENA-registered company does across a day of movements, and how quickly cover is arranged. Firearms are tightly controlled, so armed hire is available only through federally permitted companies; most engagements pair a vetted officer with a security driver, scaled to the itinerary.
 
 ## The Mexico City threat environment
 
@@ -53,3 +53,5 @@ Commercial private security in Mexico is regulated federally by the Direccion Ge
 Our CDMX detail is built around DGSP-licensed and SSC-registered local operators. The professional standard for executive arrivals at MEX is pre-arranged collection at a specific terminal point by a driver and vehicle registered in advance, with the principal's identity confirmed via a non-printed cue. The drive from MEX into Polanco, Lomas, or Santa Fe is where most of the operational planning concentrates.
 
 For complementary services in CDMX, see our [Mexico City page](/cities/mexico-city/), [is Mexico City safe for business travel](/blog/is-mexico-city-safe-for-business-travel/), and our [Mexico City cartels executive guide](/blog/is-mexico-city-safe-from-cartels-executive-guide/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Mexico City](/executive-protection/mexico-city/). To check the credentials and vetting behind the officers, see [close protection officers in Mexico City](/close-protection-officers/mexico-city/).

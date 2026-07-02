@@ -35,7 +35,7 @@ faqs:
     answer: "A SIRA-licensed CPO in Dubai ranges from AED 2,800 to AED 5,500 per day for a single officer. Family and residential protection engagements involving multiple CPOs or a 24-hour rotation are structured on a retainer basis. Pricing as at June 2026 depends on profile, team configuration, and whether advance work and operations controller support are included."
 ---
 
-Dubai close protection officer deployment is defined by a specific paradox: one of the lowest violent crime rates of any major business city globally, yet a well-developed and active CPO market. The explanation is not the crime rate but the principal profile. The concentration of ultra-high-net-worth individuals, family-office clients, senior executives in sectors with regional intelligence interest, and principals with documented threats produces consistent demand for qualified, discreet close protection in a city where visibility and discretion matter more than most.
+This page is about the people who provide close protection in Dubai: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Dubai network holds current SIRA certification, passes documented background checks, and is assessed for UAE-specific competence. It covers standard team configuration, the discreet unarmed model UAE law requires, and the credential checks a buyer should insist on before engaging any officer.
 
 ## SIRA licensing and compliance
 
@@ -46,3 +46,5 @@ Commercial close protection in Dubai is regulated by the Security Industry Regul
 Dubai CPO engagements operate at a consistently low visible profile. The corporate and HNWI environment requires close protection that is present without being conspicuous. CPOs are selected for discreet-profile capability, appropriate behaviour at DIFC member restaurants and hotel lobbies, and the ability to operate without alerting venue staff or other guests to the security function.
 
 For related services in Dubai, see our [Dubai city page](/cities/dubai/) and [executive protection in Dubai](/executive-protection/dubai/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Dubai](/bodyguard-hire/dubai/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Dubai](/executive-protection/dubai/).

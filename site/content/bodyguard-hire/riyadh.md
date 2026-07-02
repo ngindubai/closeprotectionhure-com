@@ -34,7 +34,7 @@ faqs:
     answer: "Single-officer unarmed close protection in Riyadh typically ranges from SAR 1,500 to SAR 3,000 per day (approximately GBP 320 to GBP 640 in May 2026). Vehicle-based protection with security driver adds SAR 800 to SAR 1,500 per day. Pricing depends on profile, duration, and whether the principal's sector or activities require a specific access framework with Saudi authorities."
 ---
 
-Riyadh in 2026 is one of the most consequential business destinations in the world, reshaped by Vision 2030 into a major hub for infrastructure, finance, energy, and entertainment investment. It is also a city with a specific threat profile that does not match either its day-to-day ambient feel or its international reputation. The reasons clients hire close protection in Riyadh combine ambient profile considerations, regional conflict dimensions, and the specific legal environment for foreign nationals.
+Hiring a bodyguard in Riyadh is typically about discretion, cultural and legal navigation, and executive privacy. This page covers how close protection hire works in Saudi Arabia, what a Ministry of Interior licensed operator does across a day of movements, and how quickly cover is arranged. Firearms are tightly controlled and cover is usually unarmed, so hire pairs a licensed local operator with secure transport and local knowledge, scaled to the visit rather than a fixed contract.
 
 ## The Riyadh threat environment
 
@@ -57,3 +57,5 @@ Commercial private security in Saudi Arabia is authorised through the Ministry o
 Our Riyadh detail operates through MoI-authorised Saudi partners. The standard profile is low-visibility close protection by culturally trained operators, supported by pre-travel briefing covering the current regional threat picture, the specific legal environment for the principal's sector and activities, and the shelter-in-place protocols at the principal's accommodation and meeting venues.
 
 For complementary services in Riyadh, see our [Riyadh city page](/cities/riyadh/), [is Riyadh safe for business travel](/blog/is-riyadh-safe-for-business-travel/), and our [executive protection Saudi Arabia overview](/blog/executive-protection-saudi-arabia/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Riyadh](/executive-protection/riyadh/). To check the credentials and vetting behind the officers, see [close protection officers in Riyadh](/close-protection-officers/riyadh/).

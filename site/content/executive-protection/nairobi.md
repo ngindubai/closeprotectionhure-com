@@ -34,7 +34,7 @@ faqs:
     answer: "A standard single-officer Nairobi EP engagement ranges from $600 to $1,400 USD per day inclusive of security driver. As at May 2026, pricing depends on threat profile, whether NGO-standard JMP documentation is required, and whether the itinerary extends to provincial Kenya where the threat profile changes."
 ---
 
-Nairobi executive protection serves a diverse client base: corporate executives in East Africa's largest business hub, NGO and UN leadership with specific sector security frameworks, government and diplomatic visitors, and HNWI clients with Nairobi residency or extended stays. The EP model adapts to each, but the operational foundation is consistent: PSRA-registered local operators, operations controller oversight, and a pre-travel brief that addresses the documented threat picture honestly.
+Executive protection in Nairobi is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive in an environment of terrorism, kidnapping, and carjacking: advance work on venues and routes, a written threat assessment, an operations controller, and secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## The EP requirement in Nairobi
 
@@ -51,3 +51,5 @@ PSRA registration under Kenya's Private Security Regulation Act 2016 is the regu
 Our Nairobi EP engagements are built around PSRA-registered local operators with specific NGO-sector and corporate-sector experience. Pre-travel threat assessment, JKIA collection protocol, venue advance work, JMP documentation for NGO clients, and operations controller coverage are standard components.
 
 For related services, see our [Nairobi city page](/cities/nairobi/), [security drivers Nairobi](/security-drivers/nairobi/), and our [is Nairobi safe for business travel assessment](/blog/is-nairobi-safe-for-business-travel/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Nairobi](/bodyguard-hire/nairobi/). For the operators who staff the programme and how they are vetted, see [close protection officers in Nairobi](/close-protection-officers/nairobi/).

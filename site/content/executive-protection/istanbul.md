@@ -34,7 +34,7 @@ faqs:
     answer: "A standard single-officer Istanbul EP engagement ranges from $600 to $1,400 USD per day inclusive of security driver. Counter-surveillance awareness and venue advance work components add to this. Two-officer teams for elevated profiles sit above the single-officer baseline. As at May 2026, pricing depends on team configuration, whether cross-Bosphorus movements are included, and the specific threat profile components."
 ---
 
-Istanbul executive protection is shaped by three distinct elements that rarely combine in the same city: a documented and FCDO-rated high terrorism threat, a complex two-continent geography that creates predictable routing constraints, and an active regional intelligence environment that affects specific sector principals. Professional EP in Istanbul addresses all three as integrated components of the same engagement.
+Executive protection in Istanbul is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against terrorism exposure and political instability: advance work on venues and routes, a written threat assessment, an operations controller, and discreet secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## The EP requirement in Istanbul
 
@@ -51,3 +51,5 @@ OGG certification under Law 5188 is the regulatory requirement for EP in Turkey.
 Our Istanbul EP engagements are built around OGG-certified bilingual local operators with specific IST and SAW protocol experience, Bosphorus geography operational knowledge, and counter-surveillance awareness capability for relevant sector principals. Pre-travel threat assessment, venue advance work, and operations controller coverage are standard.
 
 For related services, see our [Istanbul city page](/cities/istanbul/), [security drivers Istanbul](/security-drivers/istanbul/), and our [close protection Istanbul overview](/blog/close-protection-istanbul/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Istanbul](/bodyguard-hire/istanbul/). For the operators who staff the programme and how they are vetted, see [close protection officers in Istanbul](/close-protection-officers/istanbul/).

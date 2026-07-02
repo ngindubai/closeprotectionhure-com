@@ -35,7 +35,7 @@ faqs:
     answer: "A Law 5188-licensed CPO in Istanbul ranges from approximately TRY 8,000 to TRY 18,000 per day per officer as at June 2026. Given Turkish lira volatility, pricing for international clients is often quoted in USD or EUR: approximately USD 250 to USD 560 per officer per day. Two-person configurations with a dedicated security driver are standard for senior executive engagements. Pricing varies with the threat profile, duration, and whether advance event coordination is required."
 ---
 
-Istanbul is Turkey's commercial capital and the city through which a significant share of Turkey's international corporate business flows. It is also a city with a well-documented terrorism threat -- both from Kurdish separatist groups and from Islamist extremist organisations -- that the FCDO and US State Department consistently reflect in their Turkey travel advisories. The combination of high commercial importance and elevated security complexity produces a consistent demand for qualified close protection officer services among senior business and diplomatic visitors.
+This page is about the people who provide close protection in Istanbul: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Istanbul network is certified under Law No. 5188 by the Ministry of Interior, passes documented background checks, and is assessed for Turkey-specific competence. It covers standard team configuration, the usually unarmed model that Turkish law requires, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Law 5188 framework
 
@@ -46,3 +46,5 @@ Turkey's Law 5188 on Private Security Services (Ozel Guvenlik Hizmetlerine Dair 
 Istanbul CPO work is shaped by three principal factors: the terrorism threat that requires venue security pre-advance and mass gathering avoidance; the split-city geography that demands specific cross-Bosphorus movement planning; and the high-profile diplomatic and corporate event calendar that brings senior visitors into complex security environments. CPOs with Istanbul experience navigate all three as standard operational requirements.
 
 For complementary services in Istanbul, see our [Istanbul city page](/cities/istanbul/) and [bodyguard hire in Istanbul](/bodyguard-hire/istanbul/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Istanbul](/bodyguard-hire/istanbul/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Istanbul](/executive-protection/istanbul/).
