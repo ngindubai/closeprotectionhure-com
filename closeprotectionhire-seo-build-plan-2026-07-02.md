@@ -258,10 +258,22 @@ Deliverable of this step: a one-page decision memo committed alongside this plan
 ```
 - Style `.direct-answer` in `site/static/css/custom.css` (append-only — do not edit `style.css`).
 
-### 6.2 Copy pattern + first tranche (Opus)
-- **[OPUS-REQUIRED]** Author the answer-writing *pattern*: a 40–55 word, direct, non-boilerplate answer to the page's core query, distinct per city (references the city's actual risk/regulatory specifics, not a template with the name swapped).
-- Write the first tranche for the top ~40 priority cities. Then Sonnet can extend the pattern city-by-city under the normal QA gate.
-- **Guardrail:** identical answers with only the city name changed re-create the thin-content problem. If it can't be made genuinely specific, leave `answer` unset and let it fall back to the description.
+### 6.2 Copy pattern + first tranche — **[OPUS-REQUIRED]** — sub-plan
+Render path (6.1) is live and is a no-op until `answer:` front matter is populated. This step authors that copy. **Runs on Opus** (rule 2): non-boilerplate authoring at scale, needs a rubric + a hand-checked sample before any bulk pass.
+
+**6.2.1 — Decide scope (DECISION for user, before authoring):**
+- **Q(6.2-a) Which page types get an `answer` first?** Options: (i) city pages only, (ii) the 3 CPO-intent silos only, (iii) city pages + all 6 silos. *Recommendation: city pages first (highest-intent, fewest pages, cleanest win), then extend to silos after Batch 4/5 resolves the cannibalisation model — authoring silo answers before that risks writing copy for pages that may be canonicalised.*
+- **Q(6.2-b) First-tranche size?** ~15 priority cities (matches llms.txt set) vs ~40. *Recommendation: 15 first, review, then scale.*
+
+**6.2.2 — Write the rubric (Opus):** a 40–55 word answer that (a) names the service + city in the first clause, (b) states the single most decision-relevant local fact (a named regulator, a specific threat, a licensing constraint) drawn from the page's own sourced `components`, (c) ends with the practical implication for a principal. British English, no em dashes, no safety-guarantee language.
+
+**6.2.3 — Author + hand-check a 3-page sample (Opus):** write 3, verify each is genuinely city-specific (fails if it reads as a template with the name swapped), confirm QA gate. Get user sign-off on the sample before the tranche.
+
+**6.2.4 — Author the tranche (Opus), add `answer:` to each page's front matter.** Build check + QA gate. Preview, approve, commit, push.
+
+**6.2.5 — Extension (Sonnet OK, later):** once the rubric + sample are locked, Sonnet may extend city-by-city under the normal QA gate, but **must** apply the "genuinely specific or leave unset" guardrail — identical name-swapped answers re-create the thin-content problem and are worse than no answer.
+
+**6.2.6 — Maintenance hook:** after the tranche, update `llms.txt` link descriptions to reuse these answer sentences (per Batch 1B.3).
 
 ---
 
@@ -361,6 +373,13 @@ Everything else (Batches 1, 2, 3, 5-exec, 6.1, 7, 8, 9) is safe on **Sonnet** wi
   - *Why both:* `_redirects` gives a true server 301 if the host honours it, but the deploy targets Hostinger where Netlify-style `_redirects` may not fire; Hugo aliases guarantee a client-side redirect regardless. 0 internal links pointed at the old slugs, so no repointing was needed.
 - **Verification:** build clean; alias stubs confirmed at `public/countries/uk/` and `public/countries/usa/` pointing to the full-word URLs; survivors build; `_redirects` present in `public/`.
 
+### 2026-07-02 — Batch 6.1: Direct-answer render path (Finding F8, template half)
+- **Files:** `site/layouts/_default/single.html` and `site/layouts/cities/single.html` — added a `{{ with .Params.answer }}` block rendering a `.direct-answer` lead box high on the page (after hero/CTA, before main narrative). `site/static/css/custom.css` — appended `.direct-answer` / `.direct-answer-section` styles (append-only; `style.css` untouched).
+  - *Why:* gives the answer-first (AI Overview) copy a prominent, extractable home. Uses `{{ with }}` so it is a **no-op until `answer:` front matter is authored** — safe to ship ahead of the copy.
+- **Verification:** build clean; confirmed 0 pages render `.direct-answer` yet (correct no-op); CSS present in `public/css/custom.css`.
+- **Status:** committed. The copy itself (6.2) is **[OPUS-REQUIRED]** and is NOT done here — handed off for a model switch.
+
 ### 2026-07-02 — Plan maintenance
 - Added **Batch 1B (llms.txt)** to the plan per session rule 5, overriding the audit's "skip llms.txt" note.
 - Annotated Batch 1.2 with the city-guard correctness note.
+- Expanded **Batch 6.2** into a numbered Opus sub-plan (6.2.1–6.2.6) with scope decisions (Q6.2-a page types, Q6.2-b tranche size), a rubric spec, and a hand-checked-sample gate.

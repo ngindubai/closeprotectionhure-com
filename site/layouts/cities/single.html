@@ -81,6 +81,19 @@
     </div>
 </section>
 
+{{/* ===== DIRECT ANSWER (AI Overview / featured-snippet target) ===== */}}
+{{ with .Params.answer }}
+<section class="direct-answer-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 offset-lg-1">
+                <div class="direct-answer">{{ . | markdownify }}</div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+
 {{/* ===== OVERVIEW / MAIN CONTENT ===== */}}
 {{ with .Content }}
 <section class="section-dark bg-dark text-light">
