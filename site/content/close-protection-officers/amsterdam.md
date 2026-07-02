@@ -35,7 +35,7 @@ faqs:
     answer: "Amsterdam's historic canal belt (Grachtengordel) creates operational constraints not found in most European business cities: limited vehicle access to many central locations, pedestrianised bridges and narrow streets, and a topography that requires route planning on foot rather than entirely by vehicle. CPOs operating in Amsterdam's canal district are comfortable with foot-based close protection through the pedestrianised areas, vehicle-based cover for approaches and departures from the accessible perimeter, and the specific emergency response considerations (canal rescue awareness) relevant to operating near water in a city where canal incidents are documented."
 ---
 
-Amsterdam close protection operations are shaped by a genuinely capable and regulated Dutch security market, a corporate geography that creates specific pedestrian and vehicle operational challenges, and an organised crime dimension in the Netherlands that is more developed than most Northern European equivalents. For principals with relevant threat profiles, professional CPO cover in Amsterdam delivers value beyond the general low-risk ambient environment.
+This page is about the people who provide close protection in Amsterdam: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Amsterdam network holds Wpbr registration and the relevant security certification, and is assessed for Netherlands-specific competence. It covers standard team configuration, the Ministry of Justice authorisation required for the less common armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Dutch regulatory framework for CPOs
 
@@ -46,3 +46,5 @@ Wpbr licensing provides the regulatory baseline for Amsterdam CPO operations, wi
 Amsterdam CPO engagements balance Zuidas corporate district operations (vehicle-accessible, formal setting) with canal belt and city centre assignments (primarily pedestrian, informal environment). Counter-surveillance awareness, Schiphol transfer capability, and organised crime threat awareness are standard operational components for this market.
 
 For related services in Amsterdam, see our [Amsterdam city page](/cities/amsterdam/) and [security drivers in Amsterdam](/security-drivers/amsterdam/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Amsterdam](/bodyguard-hire/amsterdam/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Amsterdam](/executive-protection/amsterdam/).

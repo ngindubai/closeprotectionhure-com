@@ -35,7 +35,7 @@ faqs:
     answer: "For principals whose itineraries extend from Kuala Lumpur to Singapore, Bangkok, Jakarta, or other ASEAN destinations, we can arrange continuity-of-protection cover with vetted operators in those markets. The operations controller based in Kuala Lumpur maintains oversight through the regional itinerary, and the CPO brief is updated for each destination's regulatory and threat environment. The Kuala Lumpur-Singapore corridor by road or Causeway is a frequently covered transfer route; operations on this route include border crossing protocol and the specific road security awareness relevant to the Johor Bahru border area."
 ---
 
-Kuala Lumpur close protection operations are distinguished by the specific operational challenge of the city's traffic environment, a company-level regulatory framework under the Private Agencies Act 1971, and a regional threat context that includes both political protest awareness and the broader ASEAN security landscape. For corporate and HNWI principals with specific threat profiles, professional CPO cover in Kuala Lumpur provides material operational value beyond what vetted driver services alone can offer.
+This page is about the people who provide close protection in Kuala Lumpur: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Kuala Lumpur network is registered with the Security Services Industry Authority under the Private Agencies Act, and is assessed for Malaysia-specific competence. It covers standard team configuration, the usually unarmed model, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Malaysian regulatory framework for CPOs
 
@@ -46,3 +46,5 @@ PALB licensing under the Private Agencies Act 1971 is the regulatory baseline. T
 KL CPO engagements are characterised by substantial vehicle-based route planning through a congested road network, pre-advance at KLCC and Bukit Bintang venues, political awareness during protest periods, and language-capable officers for engagements with Malaysian government or corporate counterparts.
 
 For related services in Kuala Lumpur, see our [Kuala Lumpur city page](/cities/kuala-lumpur/) and [security drivers in Kuala Lumpur](/security-drivers/kuala-lumpur/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Kuala Lumpur](/bodyguard-hire/kuala-lumpur/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Kuala Lumpur](/executive-protection/kuala-lumpur/).

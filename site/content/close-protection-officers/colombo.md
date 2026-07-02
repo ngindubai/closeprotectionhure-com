@@ -33,8 +33,10 @@ faqs:
     answer: "Yes. Colombo CPO teams can provide coverage for project site visits in the Western Province and for travel to the Colombo Port City and Hambantota port development zones. Travel to the Northern and Eastern Provinces requires a specific route and threat assessment, as these former conflict areas have a materially different security profile from the capital."
 ---
 
-Colombo CPO operations are shaped by two defining events: the 2019 Easter Sunday bombings, which established that IS-affiliated groups had the capability to target international visitors in the city's hotel zones, and the 2022 political crisis, which demonstrated that rapid civil unrest can affect the capital with limited warning.
+This page is about the people who provide close protection in Colombo: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Colombo network is registered under Sri Lanka's regulatory framework, passes police vetting, and is assessed for local competence. It covers standard team configuration, the specific police authorisation required for armed cover, and the credential checks a buyer should insist on before engaging any officer.
 
 Sri Lanka Police-licensed operators with direct Colombo experience deliver close protection calibrated to the post-2019 hotel security environment and the monitoring requirements of a politically fragile capital. Venue advance work, political intelligence monitoring, and contingency planning for unrest scenarios are the baseline elements of every Colombo CPO engagement.
 
 For the full Colombo security picture, see our [Colombo city briefing](/cities/colombo/). For principals combining Colombo with other South Asian destinations, [close protection officers in Dhaka](/close-protection-officers/dhaka/) covers the Bangladesh CPO programme.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Colombo](/bodyguard-hire/colombo/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Colombo](/executive-protection/colombo/).

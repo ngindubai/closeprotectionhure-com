@@ -35,7 +35,7 @@ faqs:
     answer: "Madrid is the regular location for large-scale national political demonstrations, including anti-government protests, pro-independence gatherings, and union action. The city centre and the Puerta del Sol area have hosted demonstrations that have involved crowd management responses from the Policia Nacional. During periods of elevated political activity, CPO operations in Madrid include daily route pre-planning, venue selection advice to avoid demonstration corridors, and real-time monitoring of crowd gathering locations. Principals are advised to avoid photographing or engaging with demonstration groups."
 ---
 
-Madrid is Spain's capital, its financial centre, and a principal hub for European corporate activity. It operates under a medium-risk assessment shaped by the CNI's sustained Nivel 4 (Alto) terrorism threat rating, a documented history of major public demonstrations, and the specific HNWI and corporate targeting environment in the Salamanca district. Private close protection in Spain requires the Escolta Privado habilitación under Ley 5/2014 de Seguridad Privada, with Ministry of Interior licensing of both companies and individual CPOs as the regulatory standard. CPO services in Madrid serve senior executives, HNWI principals in Salamanca, and visiting corporate and diplomatic delegations.
+Hiring a bodyguard in Madrid is usually tied to a specific visit, where terrorism awareness and protest activity shape the plan more than routine street crime. This page covers how close protection hire works in Spain, what an operator holding the Habilitacion de Vigilante de Seguridad does across a day of movements, and how quickly cover is arranged. Armed cover requires specific Ministerio del Interior authorisation, so hire pairs a licensed officer with secure transport, scaled to the itinerary.
 
 ## The Ley 5/2014 Escolta Privado licensing framework
 
@@ -46,3 +46,5 @@ Ley 5/2014 de Seguridad Privada established Escolta Privado as a distinct, regul
 The CNI's sustained Nivel 4 terrorism threat rating, the history of domestic extremist activity, and the periodic disruption associated with large-scale political demonstrations define the planning parameters for CPO operations in Madrid. These factors, combined with the documented HNWI targeting environment in Salamanca, establish the specific circumstances where close protection cover adds professional risk-reduction value for principals operating in the city.
 
 For complementary services in Madrid, see our [Madrid city page](/cities/madrid/) and [security drivers in Madrid](/security-drivers/madrid/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Madrid](/executive-protection/madrid/). To check the credentials and vetting behind the officers, see [close protection officers in Madrid](/close-protection-officers/madrid/).

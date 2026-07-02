@@ -37,6 +37,8 @@ faqs:
     answer: "Short-notice deployment in Colombo is achievable in most cases. Our NSC-licensed Sri Lanka partners maintain operational readiness for corporate and HNWI EP engagements. 24 hours' notice is preferred for advance coordination with hotel security and venue management; 48 hours is preferred for complex island itineraries."
 ---
 
-Colombo executive protection manages a medium-risk capital with a high terrorism threat specifically concentrated at the international hotel layer. Post-2019 hotel security protocols, political protest awareness, and the broad island coverage requirement for HNWI principals distinguish the Sri Lanka EP programme from simpler regional peers. NSC-licensed operators under the PSBRA 2009 are the compliance foundation.
+Executive protection in Colombo is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing terrorism awareness and political instability: advance work on venues and routes, a written threat assessment, an operations controller, and secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 For the full Colombo security picture and FCDO Sri Lanka advisory context, see our [Colombo city page](/cities/colombo/). Principals whose primary security need in Sri Lanka is vetted transport should review [security drivers in Colombo](/security-drivers/colombo/) for the NSC-licensed chauffeur programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Colombo](/bodyguard-hire/colombo/). For the operators who staff the programme and how they are vetted, see [close protection officers in Colombo](/close-protection-officers/colombo/).

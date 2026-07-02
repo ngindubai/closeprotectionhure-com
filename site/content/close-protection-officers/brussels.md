@@ -35,7 +35,7 @@ faqs:
     answer: "The CPO positions inside Brussels Airport (BRU) arrivals before the principal clears baggage claim. A pre-departure vehicle check is conducted. The BRU-to-city transfer takes 25 to 35 minutes (approximately 14km). For principals with elevated threat profiles, particularly those with EU institutional or diplomatic connections, counter-surveillance protocol is applied from the arrivals hall through the transfer to the principal's hotel."
 ---
 
-Close protection officer deployment in Brussels is governed by Belgium's Law of 2 October 2017 on private and special security, with licensing administered by SPF Interieur/FOD Binnenlandse Zaken. Our Brussels CPO teams cover Brussels Airport (BRU) arrivals and departures, EU Quarter and Schuman institutional meetings, and Ixelles and Sablon corporate engagements. The OCAM threat level 2 (moderate) environment is factored into all Brussels pre-deployment briefings.
+This page is about the people who provide close protection in Brussels: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Brussels network holds a licence from the FPS Interior under Belgium's 1990 private security act, and is assessed for local competence. It covers standard team configuration, the ministerial permit required for the non-standard armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Belgium regulatory context
 
@@ -44,3 +44,5 @@ All Brussels CPO operators hold current Belgium credentials under the Law of 2 O
 ## Complementary Brussels services
 
 For the full Brussels security picture, see the [Brussels city briefing](/cities/brussels/) and [secure airport transfers in Brussels](/secure-airport-transfers/brussels/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Brussels](/bodyguard-hire/brussels/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Brussels](/executive-protection/brussels/).

@@ -35,7 +35,7 @@ faqs:
     answer: "Malaysia's technology, commodity, and natural resources sectors have been identified by regional security analysts as targets for foreign state-linked commercial intelligence operations. Executives involved in M&A activity, technology transfer negotiations, or commodity trading based in KL should include counter-surveillance and device security protocols in their pre-travel briefing. The ASIS International Malaysia chapter and the Royal Malaysia Police Commercial Crime Investigation Department have both documented the corporate espionage environment facing international business visitors."
 ---
 
-Kuala Lumpur is a significant regional business hub for South-East Asia and a gateway for corporate engagement with Malaysia's technology, commodity, and financial sectors. The city operates under a medium-risk assessment, with the FCDO rating Malaysia as requiring normal precautions for Kuala Lumpur itself while separately advising against certain eastern Sabah travel. Private security is regulated under the Private Security Industry Act 2007 (Act 661), with Ministry of Home Affairs registration as the primary compliance framework. CPO services in Kuala Lumpur serve corporate delegations, HNWI principals, and sector-specific executives with identified threat profiles.
+Hiring a bodyguard in Kuala Lumpur is typically about executive discretion and business-fraud exposure rather than violent crime, which is low. This page covers how close protection hire works under Malaysia's Private Agencies Act, what an SSIA-registered officer does across a day of movements, and how quickly cover is arranged. Most private security is unarmed, so hire pairs a registered officer with secure transport, scaled to the visit rather than a fixed contract.
 
 ## The Private Security Industry Act 2007 licensing framework
 
@@ -46,3 +46,5 @@ Malaysia regulates private security at company level through the Ministry of Hom
 The FCDO's 2024 Malaysia travel advice rates Kuala Lumpur as requiring normal precautions, distinguishing the city clearly from the higher-risk Sabah eastern coastal zone. Corporate espionage activity in technology and commodity sectors, business crime targeting wealthy visitors, and the general environment of a major regional hub define the circumstances where CPO cover adds measurable value for specific principals in Kuala Lumpur.
 
 For complementary services in Kuala Lumpur, see our [Kuala Lumpur city page](/cities/kuala-lumpur/) and [security drivers in Kuala Lumpur](/security-drivers/kuala-lumpur/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Kuala Lumpur](/executive-protection/kuala-lumpur/). To check the credentials and vetting behind the officers, see [close protection officers in Kuala Lumpur](/close-protection-officers/kuala-lumpur/).

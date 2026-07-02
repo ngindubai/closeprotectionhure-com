@@ -35,6 +35,8 @@ faqs:
     answer: "Yes. Our Sri Lanka partners provide CPO and security driver coverage across the island, including the Colombo to Kandy corridor, the southern coast (Galle, Mirissa), the cultural triangle (Sigiriya), and the hill stations. Multi-day Sri Lanka itineraries are common for HNWI principals, and the coverage brief is adjusted for each region's specific operational requirements."
 ---
 
-Colombo is Sri Lanka's commercial capital and the primary entry point for corporate and HNWI visitors. The post-2019 Easter Sunday bombing security baseline has elevated venue screening across the hotel zone, and terrorism-aware CPO protocols are appropriate for all principal visits. The city's broader risk profile is medium and manageable, with well-maintained hotel and commercial infrastructure in the Galle Face and Fort districts.
+Hiring a bodyguard in Colombo is usually tied to a specific visit, where terrorism awareness and political instability shape the plan more than routine crime. This page covers how close protection hire works in Sri Lanka, what a police-licensed officer does across a day of movements, and how quickly cover is arranged. Armed cover requires specific police authorisation, so hire pairs a vetted officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 For the broader Colombo security picture including the 2022 protest environment and district-level risk assessment, see our [Colombo city page](/cities/colombo/). For principals requiring a full executive protection programme across Sri Lanka, [executive protection in Colombo](/executive-protection/colombo/) covers the complete NSC-licensed personal security detail.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Colombo](/executive-protection/colombo/). To check the credentials and vetting behind the officers, see [close protection officers in Colombo](/close-protection-officers/colombo/).

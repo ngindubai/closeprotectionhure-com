@@ -35,7 +35,7 @@ faqs:
     answer: "The Dutch organised crime environment is predominantly centred on the drug trade and is not typically directed at corporate visitors, but Amsterdam has experienced a documented series of targeted liquidaties (organised crime killings) in public spaces, including incidents in or near the city centre. The HNWI and corporate sector has experienced targeted approaches from criminal networks with financial and commercial motivations. Principals in sectors with documented criminal interest, including logistics, port operations, and financial services, should include an Amsterdam-specific risk assessment as part of their pre-travel preparation."
 ---
 
-Amsterdam is a principal European financial hub and a city with a documented medium-level threat environment, combining the NCTV's Substantial terrorism threat rating with an organised crime landscape that has produced targeted incidents in public spaces. The Netherlands regulates private security under the WPBR 1997, with police-granted operating permits and mandatory Bibob screening forming the compliance framework. Bodyguard hire in Amsterdam serves a specific market: HNWI principals in the canal belt, visiting corporate delegations at Zuidas, and senior executives in sectors with a documented exposure to organised crime or corporate espionage activity.
+Hiring a bodyguard in Amsterdam is usually tied to a specific visit, where organised crime and politically motivated violence shape the plan more than routine street crime. This page covers how close protection hire works in the Netherlands, what a Wpbr-registered officer does across a day of movements, and how quickly cover is arranged. Armed cover is less common in the Dutch market and requires Ministry of Justice authorisation, so hire pairs a certified officer with secure transport, scaled to the itinerary.
 
 ## The WPBR private security licensing framework
 
@@ -46,3 +46,5 @@ The Wet particuliere beveiligingsorganisaties en recherchebureaus (WPBR, 1997) r
 The NCTV's 2024 Substantial (level 4) terrorism threat rating and the documented organised crime environment in Amsterdam together define the threat parameters relevant to CPO planning. Neither threat prevents normal business operations; they define the specific circumstances where CPO cover adds measurable risk reduction value for principals in exposed sectors or with an elevated public profile.
 
 For complementary services in Amsterdam, see our [Amsterdam city page](/cities/amsterdam/) and [security drivers in Amsterdam](/security-drivers/amsterdam/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Amsterdam](/executive-protection/amsterdam/). To check the credentials and vetting behind the officers, see [close protection officers in Amsterdam](/close-protection-officers/amsterdam/).

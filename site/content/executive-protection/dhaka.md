@@ -37,6 +37,8 @@ faqs:
     answer: "The Gulshan 1 and 2, Banani, and Baridhara districts provide the most manageable operating environment for visiting executives. Hotels with post-2016 hardened vehicle access screening are specifically preferred for senior executive and HNWI principals. The Radisson Blu, InterContinental, and Pan Pacific Sonargaon are the primary international-standard options."
 ---
 
-Dhaka executive protection operates in one of South Asia's most operationally complex capitals: terrorism specifically targeting international business venues, hartal political strikes requiring protocol adjustments, extreme congestion affecting all transfer timing, and a development-era EP regulatory environment. Ministry of Home Affairs-licensed operators are the foundation.
+Executive protection in Dhaka is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against terrorism awareness and civil unrest: advance work on venues and routes, a written threat assessment, an operations controller, and secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 For the full Dhaka security picture including the 2016 Holey Artisan context and Bangladesh threat assessment, see our [Dhaka city page](/cities/dhaka/). Principals whose primary need is vetted transport in Bangladesh should review [security drivers in Dhaka](/security-drivers/dhaka/) for the Ministry-licensed chauffeur programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Dhaka](/bodyguard-hire/dhaka/). For the operators who staff the programme and how they are vetted, see [close protection officers in Dhaka](/close-protection-officers/dhaka/).

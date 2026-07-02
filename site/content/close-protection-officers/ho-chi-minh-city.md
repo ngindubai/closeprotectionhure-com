@@ -33,8 +33,10 @@ faqs:
     answer: "FV Hospital (Nguyen Van Linh, District 7) and Hanh Phuc International Hospital provide international-standard emergency care and are the primary facilities used by the expatriate community. Emergency ambulance response times vary significantly by district and traffic conditions. The CPO brief identifies the nearest of these facilities from each principal location before movements begin each day."
 ---
 
-Ho Chi Minh City presents a relatively manageable security environment compared to most cities in this network, but the absence of the protective infrastructure standard in Singapore or Hong Kong makes professional CPO management the appropriate baseline for HNWI clients and senior executives.
+This page is about the people who provide close protection support in Ho Chi Minh City: who they are, how they operate, and what to verify before engaging them. Every provider in our network operates under Ministry of Public Security licensing through a Vietnamese partner, since foreign officers cannot operate independently, and is assessed for local competence. It covers standard support configuration and the checks a buyer should insist on before engaging any provider.
 
 Ministry of Public Security-licensed operators deliver close protection calibrated to HCMC's specific threat profile: motorbike-snatch pedestrian protocols, information security awareness for the Vietnamese digital surveillance environment, and the emergency medical and legal response gap that vetted transport alone does not address.
 
 For the full Ho Chi Minh City security picture, see our [Ho Chi Minh City briefing](/cities/ho-chi-minh-city/). For principals whose primary requirement is vetted transport for HCMC movements, [security drivers in Ho Chi Minh City](/security-drivers/ho-chi-minh-city/) covers the Ministry-licensed chauffeur programme.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Ho Chi Minh City](/bodyguard-hire/ho-chi-minh-city/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Ho Chi Minh City](/executive-protection/ho-chi-minh-city/).

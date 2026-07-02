@@ -35,7 +35,7 @@ faqs:
     answer: "Madrid's CPO market draws from former Guardia Civil (including the Grupo Especial de Operaciones, the GEO elite counterterrorism unit), Policia Nacional (including UPR and GEO-equivalent units), and Spanish Armed Forces (including BRIPAC and Mando de Operaciones Especiales). Former Guardia Civil and Policia Nacional personnel bring law enforcement investigative and surveillance training alongside their close protection qualifications. Former military personnel bring high-risk operational experience. This depth of background makes the Madrid CPO pool strong for high-risk principal assignments and diplomatic-level engagements."
 ---
 
-Madrid close protection is defined by a clear regulatory framework (Ley 5/2014 and the escolta privado licence category), a professionally capable CPO pool with strong former Guardia Civil and military representation, and a moderate threat environment that warrants CPO assessment for specific principal profiles rather than as a universal precaution. The Spanish licensing system's TIP verification mechanism provides a client-accessible due diligence tool that makes the Madrid market more transparent than many equivalent European markets.
+This page is about the people who provide close protection in Madrid: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Madrid network holds the Habilitacion de Vigilante de Seguridad and Ministerio del Interior registration, and is assessed for Spain-specific competence. It covers standard team configuration, the specific authorisation required for armed cover, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Spanish regulatory framework for CPOs
 
@@ -46,3 +46,5 @@ Ley 5/2014 creates two relevant licence categories: the general vigilante de seg
 Madrid CPO engagements cover the Paseo de la Castellana corporate corridor, Barajas airport transfer operations, political awareness during demonstration periods, and cultural and hospitality venues in the Salamanca and Gran Via areas. Former Guardia Civil and Spanish Armed Forces representation in the CPO pool provides strong operational depth for high-risk or diplomatic-level assignments.
 
 For related services in Madrid, see our [Madrid city page](/cities/madrid/) and [security drivers in Madrid](/security-drivers/madrid/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Madrid](/bodyguard-hire/madrid/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Madrid](/executive-protection/madrid/).

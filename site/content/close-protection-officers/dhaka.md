@@ -33,8 +33,10 @@ faqs:
     answer: "Most major international NGOs and UN agencies maintain their own Dhaka security protocols. For independent corporate or NGO staff visiting outside their organisation's security infrastructure, the equivalent baseline is vetted transport for all movements, Gulshan zone accommodation, a current hartal monitoring brief, and a communication protocol for check-ins during any period of restricted movement."
 ---
 
-Dhaka CPO operations address the demands of one of South Asia's most complex security environments: terrorism risk calibrated to the 2016 Gulshan attack template, hartal contingency planning, and the traffic conditions that affect emergency response across the entire city.
+This page is about the people who provide close protection in Dhaka: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Dhaka network is licensed by the Ministry of Home Affairs, passes documented background checks, and is assessed for Bangladesh-specific competence. It covers standard team configuration, the usually unarmed model, and the credential checks a buyer should insist on before engaging any officer.
 
 Ministry of Home Affairs-licensed operators with direct Dhaka experience deliver close protection built around the post-Holey-Artisan-Bakery reality: venue advance work that verifies security upgrade compliance, accommodation discipline in the Gulshan corridor, and standing hartal protocols that anticipate disruption rather than reacting to it.
 
 For the full Dhaka security picture, see our [Dhaka city briefing](/cities/dhaka/). For principals requiring vetted transport as the primary security measure for a standard corporate visit, [security drivers in Dhaka](/security-drivers/dhaka/) covers the Ministry-licensed chauffeur programme.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Dhaka](/bodyguard-hire/dhaka/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Dhaka](/executive-protection/dhaka/).
