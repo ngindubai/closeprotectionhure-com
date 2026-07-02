@@ -37,7 +37,7 @@ faqs:
     answer: "Armed close protection is available in Guatemala City through UESSP-licensed operators. Given the kidnapping risk profile, armed cover is more frequently deployed for senior executives and HNWI than in lower-risk regional cities. The configuration is determined by the principal's specific threat assessment."
 ---
 
-Close protection officer deployment in Guatemala City addresses one of Central America's most significant kidnapping and violent crime environments. Guatemala City is a working commercial capital -- coffee, palm oil, sugar, cardamom, mining, and development finance all bring international executives -- but Zone 10 (Zona Viva) and Zone 14 provide the practical perimeter within which manageable CPO operations are conducted. Outside these zones, including on the airport transfer through Zone 9, threat levels increase materially, requiring consistent operational discipline.
+This page is about the people who provide close protection in Guatemala City: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Guatemala City network is overseen by DIGESSP under the Ley de Empresas Privadas de Seguridad, and is assessed for local competence given documented police reliability concerns. It covers standard team configuration, specific armed operator authorisation, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The Guatemala City Gobernacion licensing framework
 
@@ -48,3 +48,5 @@ The Ministerio de Gobernacion's UESSP (Unidad de Supervision de Entidades de Seg
 The dominant CPO function in Guatemala City is kidnapping risk management: route variation, schedule discretion, tactical management of all vehicle transitions, and hotel pre-advance. Physical security drives the operational model.
 
 For complementary services in Guatemala City, see our [Guatemala City city page](/cities/guatemala-city/) and [event security in Guatemala City](/event-security/guatemala-city/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Guatemala City](/bodyguard-hire/guatemala-city/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Guatemala City](/executive-protection/guatemala-city/).

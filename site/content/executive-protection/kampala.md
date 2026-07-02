@@ -37,6 +37,8 @@ faqs:
     answer: "Yes. Our Uganda partners provide EP coverage beyond Kampala, including Entebbe city, Jinja, and longer itineraries to western Uganda national parks (Kibale, Bwindi) for HNWI conservation visits. Each location has a specific advance risk assessment included in the engagement brief."
 ---
 
-Kampala executive protection addresses one of East Africa's more operationally demanding capitals: ADF terrorism in the city centre, boda boda snatching requiring specific vehicle and pedestrian protocols, limited medical infrastructure, and the extended Entebbe expressway transfer. UPF-licensed operators under the Private Security Organisations Act are the compliance foundation for all Uganda EP deployments.
+Executive protection in Kampala is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against terrorism awareness and DRC spill-over risk: advance work on venues and routes, a written threat assessment, an operations controller, and UPF-endorsed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 For the full Kampala security picture including the 2021 bombing analysis and FCDO Uganda advisory, see our [Kampala city page](/cities/kampala/). Principals requiring vetted transport alongside their EP detail should review [security drivers in Kampala](/security-drivers/kampala/) for the UPF-licensed chauffeur programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Kampala](/bodyguard-hire/kampala/). For the operators who staff the programme and how they are vetted, see [close protection officers in Kampala](/close-protection-officers/kampala/).

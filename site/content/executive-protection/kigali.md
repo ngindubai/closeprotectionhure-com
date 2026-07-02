@@ -33,6 +33,8 @@ faqs:
     answer: "The M23 conflict and DRC-Rwanda tensions as of 2025-2026 are monitored as a standing political risk indicator for Kigali. Any deterioration that triggers demonstration or protest activity in Kigali is factored into route and venue planning. Direct physical risk to Kigali operations has remained low. Any assignment element involving travel to the DRC border or eastern DRC requires a dedicated conflict-zone security assessment. Source: FCDO Rwanda travel advisory, 2026."
 ---
 
-Kigali executive protection is calibrated to East Africa's summit capital: Rwanda National Police-licensed operators, conference circuit principal security at the Convention Centre, political environment discretion protocols, and low conventional crime with targeted political surveillance awareness.
+Executive protection in Kigali is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against political-environment and regional-instability exposure: advance work on venues and routes, a written risk assessment, an operations controller, and Rwanda National Police licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 For the full Kigali security picture, see our [Kigali city briefing](/cities/kigali/). For vetted secure transport alongside the EP team, [security drivers in Kigali](/security-drivers/kigali/) covers the Rwanda driver programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Kigali](/bodyguard-hire/kigali/). For the operators who staff the programme and how they are vetted, see [close protection officers in Kigali](/close-protection-officers/kigali/).

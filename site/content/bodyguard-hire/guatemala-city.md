@@ -35,7 +35,7 @@ faqs:
     answer: "Contact our operations team with your Guatemala City travel dates, accommodation, planned activities, and sector or profile information relevant to a threat assessment. We will conduct a pre-deployment threat assessment, recommend the appropriate CPO configuration including armoured vehicle provision and K&R coordination, and engage a DIGESSP-licensed Guatemalan partner. Advance notice of at least five working days is recommended; ten days is preferable for higher-risk or complex itinerary engagements."
 ---
 
-Guatemala City's close protection environment reflects a persistent intersection of gang activity, cartel influence, and documented kidnap risk that has made professional CP the standard practice for the local and visiting business community. FCDO Guatemala travel advice (2024) advises a high degree of caution with specific zona warnings, and the US State Department designates Guatemala as Level 3 (2026). Kidnap for ransom targeting executives in agriculture, mining, energy, and finance is a current and documented threat. A vetted, DIGESSP-licensed CP team with armoured vehicle provision is the appropriate baseline for most executive engagements in this environment.
+Hiring a bodyguard in Guatemala City is usually tied to a specific visit, where kidnapping, gang violence, and cartel activity shape the plan, with corruption affecting police reliability. This page covers how close protection hire works in Guatemala, what a DIGESSP-authorised operator does across a day of movements, and how quickly cover is arranged. Armed cover requires specific Ministry of Interior authorisation, so hire pairs an authorised officer with secure transport, scaled to the itinerary.
 
 ## DIGESSP licensing and Guatemala compliance
 
@@ -46,3 +46,5 @@ CPOs must hold DIGESSP company licences and individual DIGESSP credentials under
 A vetted Guatemala City CPO team covers: advance assessment of La Aurora transfer routes and all confirmed venues, two-CPO formation with armoured vehicle recommendation, kidnap-avoidance counter-surveillance, zona-system route planning, K&R insurance coordination, emergency response with private medical facility contacts, and operations controller oversight throughout.
 
 For a full security picture see our [Guatemala City city briefing](/cities/guatemala-city/) and [executive protection in Guatemala City](/executive-protection/guatemala-city/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Guatemala City](/executive-protection/guatemala-city/). To check the credentials and vetting behind the officers, see [close protection officers in Guatemala City](/close-protection-officers/guatemala-city/).

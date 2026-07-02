@@ -33,7 +33,7 @@ faqs:
     answer: "King Faisal Hospital in Kigali provides the best available medical care in Rwanda and is the primary resource for non-trauma incidents. For serious trauma or complex medical conditions, Nairobi (1.5 hours by air) is the standard evacuation destination. All Kigali CPO assignments include a written medevac protocol with Nairobi operator contacts and the emergency contact chain."
 ---
 
-Kigali close protection is calibrated to Rwanda's low street-crime profile and its specific political environment: Rwanda National Police-compliant CPOs delivering conference delegation support, diplomatic visit management, and a political environment briefing component for principals with relevant exposure.
+This page is about the people who provide close protection in Kigali: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Kigali network holds Rwanda National Police licensing, and is assessed for local competence given the strictly enforced regulatory environment. It covers standard team configuration, government vetting requirements, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The CPO environment in Kigali
 
@@ -42,3 +42,5 @@ Kigali's security environment is the most benign of any major East African capit
 Rwanda National Police-compliant operators from our East Africa network deliver the Kigali CPO programme with current local knowledge and conference circuit familiarity.
 
 For the full Kigali security picture, see our [Kigali city briefing](/cities/kigali/). For principals requiring residential security alongside CPO cover, [residential security in Kigali](/residential-security/kigali/) covers the Rwanda National Police-compliant property programme.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Kigali](/bodyguard-hire/kigali/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Kigali](/executive-protection/kigali/).

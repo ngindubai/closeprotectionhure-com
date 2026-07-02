@@ -35,7 +35,7 @@ faqs:
     answer: "Foreign CPOs may accompany principals as personal attendants but cannot conduct commercial security work in India without PSARA state licensing through a Telangana-licensed entity. Clients should confirm the operating structure and licensing status of any proposed CPO arrangement before travel, particularly for cross-border itineraries."
 ---
 
-Hyderabad is a moderate-risk environment for close protection operations, drawing on Telangana Police Crime Statistics 2024 and FCDO advises normal precautions for India (2026); FCDO advises awareness of communal tensions in Hyderabad Old City during festival periods. US State Department Level 2 (Exercise Increased Caution) for India as of 2026. For HNWI principals and senior executives operating across HITEC City and Madhapur, Banjara Hills and Jubilee Hills, and Gachibowli, licensed CPO cover provides a materially different standard of personal protection from uncoordinated or unlicensed alternatives.
+This page is about the people who provide close protection in Hyderabad: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Hyderabad network holds a current Telangana PSARA state licence, and is assessed for local competence. It covers standard team configuration, the unarmed model most licensed operators work under, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The India licensing framework
 
@@ -50,3 +50,5 @@ A Hyderabad CPO detail typically begins with pre-advance work at the principal's
 The operations controller function maintains a real-time timeline and holds emergency contact protocols for Apollo Hospitals Hyderabad (040-2360-7777), Yashoda Hospitals Hyderabad (040-4567-4567), and local emergency services (100).
 
 For complementary services, see our [Hyderabad city page](/cities/hyderabad/) and [bodyguard hire in Hyderabad](/bodyguard-hire/hyderabad/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Hyderabad](/bodyguard-hire/hyderabad/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Hyderabad](/executive-protection/hyderabad/).

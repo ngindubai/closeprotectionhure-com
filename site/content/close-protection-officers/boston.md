@@ -35,7 +35,7 @@ faqs:
     answer: "CPO day rates in Boston range from approximately $450 to $850 per day, as at June 2026, depending on individual experience, licensing level, and engagement type. Multi-day corporate programme rates apply a reduced daily rate for three or more consecutive days. Vehicle and operations controller costs are typically quoted separately; a combined EP package rate is available on request."
 ---
 
-Close protection officers operating in Boston are licensed under Massachusetts Private Detective and Watch, Guard or Patrol Agency Licensing Act (MGL c.147, ss.22-30), Massachusetts Department of Public Safety, with the Massachusetts Department of Public Safety maintaining the registration register. For corporate executives, HNWI principals, and event organisers requiring vetted CPOs in Boston, the licensing framework is the starting point for due diligence. The BPD Crime Report 2025 (very low) informs the threat assessment that precedes every CPO deployment.
+This page is about the people who provide close protection in Boston: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Boston network is licensed under the Massachusetts Private Detective and Watch, Guard or Patrol Agency Licensing Act, and is assessed for local competence. It covers standard team configuration, state-specific licensing for the armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Licensing and due diligence
 
@@ -46,3 +46,5 @@ Confirming the individual CPO's personal licence and the operating company's reg
 CPO deployments in Boston cover Financial District, Back Bay, and Seaport innovation hub and the principal movement corridors across Route 93 and the Ted Williams Tunnel from Logan. Venue advance work, operations controller integration, and transport coordination with a vetted security driver are the components that distinguish a professional CPO engagement from a standalone hired presence.
 
 For related security services in Boston, see our [Boston city page](/cities/boston/), [bodyguard hire in Boston](/bodyguard-hire/boston/), and [executive protection in Boston](/executive-protection/boston/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Boston](/bodyguard-hire/boston/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Boston](/executive-protection/boston/).

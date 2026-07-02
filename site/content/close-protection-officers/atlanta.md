@@ -35,7 +35,7 @@ faqs:
     answer: "CPO day rates in Atlanta range from approximately $500 to $900 per day, as at June 2026, depending on individual experience, licensing level, and engagement type. Multi-day corporate programme rates apply a reduced daily rate for three or more consecutive days. Vehicle and operations controller costs are typically quoted separately; a combined EP package rate is available on request."
 ---
 
-Close protection officers operating in Atlanta are licensed under Private Detective and Security Agencies Act (OCGA Title 43, Ch 38), Georgia Secretary of State, with the Georgia Secretary of State maintaining the registration register. For corporate executives, HNWI principals, and event organisers requiring vetted CPOs in Atlanta, the licensing framework is the starting point for due diligence. The APD Crime Report 2025 (carjacking citywide (APD Crime Report 2025)) informs the threat assessment that precedes every CPO deployment.
+This page is about the people who provide close protection in Atlanta: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Atlanta network is licensed under OCGA Title 43 Chapter 38 with a Georgia Weapons Carry Licence where armed, and is assessed for local competence. It covers standard team configuration, Georgia's licensing regime, and the credential checks a buyer should insist on before engaging any officer.
 
 ## Licensing and due diligence
 
@@ -46,3 +46,5 @@ Confirming the individual CPO's personal licence and the operating company's reg
 CPO deployments in Atlanta cover Buckhead business corridor and Midtown high-rises and the principal movement corridors across I-285 perimeter and I-75/I-85 downtown connector. Venue advance work, operations controller integration, and transport coordination with a vetted security driver are the components that distinguish a professional CPO engagement from a standalone hired presence.
 
 For related security services in Atlanta, see our [Atlanta city page](/cities/atlanta/), [bodyguard hire in Atlanta](/bodyguard-hire/atlanta/), and [executive protection in Atlanta](/executive-protection/atlanta/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Atlanta](/bodyguard-hire/atlanta/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Atlanta](/executive-protection/atlanta/).

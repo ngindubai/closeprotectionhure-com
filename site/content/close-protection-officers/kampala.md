@@ -33,8 +33,10 @@ faqs:
     answer: "Both are East African capitals with high risk ratings. Kampala has a higher political violence and terrorism risk profile, partly driven by Uganda's ADF and AMISOM exposure. Nairobi has a larger and more developed private security market. Both require professional CPO management for senior executive and HNWI principals. A Kampala CPO with East Africa operational experience will have the contextual knowledge to manage both environments across a regional itinerary."
 ---
 
-Kampala CPO operations address Uganda's capital city in its role as a growing East African business hub: ADF-aware soft-target planning, Entebbe Airport transfer management for one of East Africa's longer airport-to-city corridors, and boda boda crime discipline for a city where motorcycle crime is the dominant operational street risk.
+This page is about the people who provide close protection in Kampala: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Kampala network holds a UPF-endorsed licence under the Private Security Organisations Act, and is assessed for local competence. It covers standard team configuration, armed cover availability, and the credential checks a buyer should insist on before engaging any officer.
 
 UPF-registered operators with direct Kampala experience deliver close protection calibrated to the post-2021 security posture and the specific challenges of Uganda's oil sector and growing investment visitor base.
 
 For the full Kampala security picture, see our [Kampala city briefing](/cities/kampala/). For principals requiring vetted transport as the baseline for Kampala city movements, [security drivers in Kampala](/security-drivers/kampala/) covers the UPF-licensed chauffeur programme.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Kampala](/bodyguard-hire/kampala/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Kampala](/executive-protection/kampala/).

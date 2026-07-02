@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Boston for a CPO with vehicle and operations controller support range from approximately $550 to $1,000 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Boston presents an executive protection environment defined by very low and a regulatory framework under MGL c.147, ss.22-30. For senior executives and HNWI principals operating across Financial District, Back Bay, and Seaport innovation hub, a structured EP programme reduces the exposure that uncoordinated travel creates. The BPD Crime Report 2025 and current advisory (FCDO normal precautions 2026; US State Dept Level 1) are the evidential baseline for every pre-travel assessment.
+Executive protection in Boston is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against localised crime outside the corporate footprint and event-security considerations: advance work on venues and routes, a written risk assessment, an operations controller, and Massachusetts-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 ## Licensing and due diligence in Boston
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Boston must be licensed under Massachu
 Boston's position in biotech, higher education, and financial services sectors creates a specific EP operating context: principals in these sectors face both the ambient threat picture identified in the BPD Crime Report 2025 and sector-specific risks, including competitive intelligence activity and, for some industries, targeted crime against high-value corporate visitors. The pre-travel assessment addresses both layers.
 
 For related security services in Boston, see our [Boston city page](/cities/boston/), [security drivers in Boston](/security-drivers/boston/), and [bodyguard hire in Boston](/bodyguard-hire/boston/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Boston](/bodyguard-hire/boston/). For the operators who staff the programme and how they are vetted, see [close protection officers in Boston](/close-protection-officers/boston/).

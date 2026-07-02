@@ -33,7 +33,7 @@ faqs:
     answer: "EP day rates in Auckland for a CoA PPO-licensed, vetted CPO typically range from NZD 600 to NZD 900 per day; two-person team rates with a security driver run NZD 1,100 to NZD 1,600 per day plus vehicle costs, as at June 2026. Auckland rates reflect New Zealand's higher labour costs under the Minimum Wage Act and the New Zealand Employment Relations Act. Multi-day engagement retainers for extended Auckland visits are available at contracted daily rates."
 ---
 
-Auckland executive protection serves a corporate and HNWI principal base in New Zealand's lowest-risk major urban environment: NZSIS LOW terrorism threat assessment, manageable ambient crime, and a compact CBD that simplifies operational planning. New Zealand Private Security Personnel and Private Investigators Act 2010 licensing with CoA credentialing provides the regulatory standard for Auckland CPOs.
+Executive protection in Auckland is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against general crime and protest-activity exposure: advance work on venues and routes, a written risk assessment, an operations controller, and Certificate of Approval holder secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## New Zealand CoA licensing framework
 
@@ -44,3 +44,5 @@ Auckland CPOs hold Personal Protection Officer CoA credentials from the New Zeal
 EP engagements are calibrated to the LOW ambient threat: advance work covers AKL airport transfer logistics, CBD and Viaduct Harbour venue assessments, and maritime transfer logistics for Waiheke Island and Hauraki Gulf itinerary components. HNWI principals with specific threat indicators receive full threat-assessment-based advance work regardless of the ambient level.
 
 For the broader Auckland security overview, see our [Auckland city page](/cities/auckland/) and our [security drivers in Auckland](/security-drivers/auckland/) and [bodyguard hire in Auckland](/bodyguard-hire/auckland/) pages.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Auckland](/bodyguard-hire/auckland/). For the operators who staff the programme and how they are vetted, see [close protection officers in Auckland](/close-protection-officers/auckland/).

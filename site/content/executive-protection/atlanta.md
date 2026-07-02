@@ -35,7 +35,7 @@ faqs:
     answer: "EP day rates in Atlanta for a CPO with vehicle and operations controller support range from approximately $600 to $1,100 per day, as at June 2026. The rate varies with team size, vehicle specification, advance-work requirements, and engagement duration. Multi-day corporate programme pricing applies a reduced daily rate for commitments of three or more consecutive days."
 ---
 
-Atlanta presents an executive protection environment defined by carjacking citywide (APD Crime Report 2025) and a regulatory framework under OCGA Title 43, Ch 38. For senior executives and HNWI principals operating across Buckhead business corridor and Midtown high-rises, a structured EP programme reduces the exposure that uncoordinated travel creates. The APD Crime Report 2025 and current advisory (FCDO normal precautions 2026; US State Dept Level 1) are the evidential baseline for every pre-travel assessment.
+Executive protection in Atlanta is a programme, not a single officer. It is the discipline a company applies to protect a travelling executive against carjacking, auto theft, and corporate-area crime variation: advance work on venues and routes, a written threat assessment, an operations controller, and Georgia-licensed armed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 ## Licensing and due diligence in Atlanta
 
@@ -46,3 +46,5 @@ All close protection officers deployed in Atlanta must be licensed under Private
 Atlanta's position in CNN, Delta Air Lines, Coca-Cola, and a concentration of Fortune 500 regional headquarters creates a specific EP operating context: principals in these sectors face both the ambient threat picture identified in the APD Crime Report 2025 and sector-specific risks, including competitive intelligence activity and, for some industries, targeted crime against high-value corporate visitors. The pre-travel assessment addresses both layers.
 
 For related security services in Atlanta, see our [Atlanta city page](/cities/atlanta/), [security drivers in Atlanta](/security-drivers/atlanta/), and [bodyguard hire in Atlanta](/bodyguard-hire/atlanta/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Atlanta](/bodyguard-hire/atlanta/). For the operators who staff the programme and how they are vetted, see [close protection officers in Atlanta](/close-protection-officers/atlanta/).

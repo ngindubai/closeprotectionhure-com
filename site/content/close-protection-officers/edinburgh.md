@@ -35,7 +35,7 @@ faqs:
     answer: "The CPO positions inside Edinburgh Airport (EDI) arrivals before the principal clears baggage claim. A pre-departure vehicle check is conducted. The EDI-to-city transfer takes 20 to 30 minutes (approximately 8km). Transfer times increase significantly during Edinburgh Festival in August. For principals with elevated threat profiles, counter-surveillance protocol is applied from the arrivals hall through the transfer to the principal's hotel."
 ---
 
-Close protection officer deployment in Edinburgh is governed by the UK's Private Security Industry Act 2001, with licensing administered by the Security Industry Authority (SIA). All Edinburgh CPO operators hold a current SIA Close Protection licence. Our Edinburgh CPO teams cover Edinburgh Airport (EDI) arrivals and departures, New Town and Lothian Road financial-district meetings, and Scottish Parliament and Edinburgh Park engagements. The UK's SUBSTANTIAL terrorism threat level (MI5, 2026) and the Edinburgh Festival's one-million-plus visitor footprint in August are both incorporated into pre-deployment briefings.
+This page is about the people who provide close protection in Edinburgh: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Edinburgh network holds a current SIA Close Protection licence under the Private Security Industry Act 2001, and is assessed for local competence. It covers standard team configuration, the specific police authorisation required for the non-standard armed option, and the credential checks a buyer should insist on before engaging any officer.
 
 ## UK regulatory context
 
@@ -44,3 +44,5 @@ All Edinburgh CPO operators hold current SIA Close Protection licences under the
 ## Complementary Edinburgh services
 
 For the full Edinburgh security picture, see the [Edinburgh city briefing](/cities/edinburgh/) and [secure airport transfers in Edinburgh](/secure-airport-transfers/edinburgh/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Edinburgh](/bodyguard-hire/edinburgh/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Edinburgh](/executive-protection/edinburgh/).

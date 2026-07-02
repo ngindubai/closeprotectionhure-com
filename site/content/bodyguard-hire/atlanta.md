@@ -35,6 +35,8 @@ faqs:
     answer: "Emergency number: 911. Primary facilities: Emory University Hospital (404-712-2000) and Grady Memorial Hospital (404-616-1000), the regional Level 1 trauma centre. Medical routing is pre-planned, CPOs hold current first-aid certification, and medical evacuation routing is built into the operation order before deployment."
 ---
 
-Atlanta is a moderate-risk environment where APD Crime Report 2025 records elevated carjacking and auto theft citywide, alongside localised violent crime in certain Downtown areas at night and parts of the Old Fourth Ward. Vehicle security discipline and carjacking-aware route planning are the defining operational features of any Atlanta engagement, applying from the ATL airport arrival onwards. All close protection in Georgia is provided by operators licensed by the Secretary of State under OCGA Title 43, Chapter 38.
+Hiring a bodyguard in Atlanta is usually tied to a specific visit, where carjacking, auto theft, and corporate-area crime variation shape the plan. This page covers how close protection hire works in Georgia, what an OCGA Title 43 licensed officer with a Georgia Weapons Carry Licence does across a day of movements, and how quickly cover is arranged. Georgia has permissive firearms laws, so armed hire is readily available, pairing a licensed officer with secure transport, scaled to the itinerary.
 
 Detailed city context, including threat analysis and zone-by-zone risk notes, is available on the [Atlanta city page](/cities/atlanta/). For transport security, see our [vetted security drivers in Atlanta](/security-drivers/atlanta/). For regional coverage, see our [bodyguard hire in Houston](/bodyguard-hire/houston/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Atlanta](/executive-protection/atlanta/). To check the credentials and vetting behind the officers, see [close protection officers in Atlanta](/close-protection-officers/atlanta/).

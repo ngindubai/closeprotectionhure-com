@@ -35,6 +35,8 @@ faqs:
     answer: "Aga Khan Hospital Kampala and Case Hospital provide the best available local care. For cases requiring specialist treatment, medical evacuation to Nairobi (one hour by air from EBB) is the standard route. All Kampala engagements carry a documented medical protocol. Pre-arranged medical evacuation insurance is strongly advisable for all Uganda-based principals."
 ---
 
-Kampala is Uganda's capital and the primary hub for East Africa development sector, infrastructure, and commercial operations. ADF terrorism, boda boda-borne theft, and limited medical capacity are the three defining CPO planning elements. Operating within the Nakasero and Kololo hotel and commercial corridor provides the most manageable base for visiting principals.
+Hiring a bodyguard in Kampala is usually tied to a specific visit, where terrorism awareness and DRC spill-over risk shape the plan alongside routine civil unrest. This page covers how close protection hire works in Uganda, what a UPF-endorsed officer does across a day of movements, and how quickly cover is arranged. Armed cover is available through UPF-registered operators, so hire pairs a registered officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 For the full Kampala security picture including district-level risk and the FCDO advisory on Uganda, see our [Kampala city page](/cities/kampala/). For principals requiring integrated security across East Africa, [bodyguard hire in Nairobi](/bodyguard-hire/nairobi/) covers the full Kenya CPO programme including Nairobi, Mombasa, and the wider Kenya region.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Kampala](/executive-protection/kampala/). To check the credentials and vetting behind the officers, see [close protection officers in Kampala](/close-protection-officers/kampala/).

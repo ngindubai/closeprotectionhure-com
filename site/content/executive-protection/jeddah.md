@@ -33,7 +33,7 @@ faqs:
     answer: "The emergency action plan for every Jeddah EP programme covers: medical emergency (naming the receiving facility and evacuation routing), vehicle compromise (contingency routing and shelter options), political demonstration response (avoidance protocols and contingency routing), and communications procedures. The plan is shared with the principal and their organisation before deployment."
 ---
 
-Executive protection in Jeddah is built around licensed Saudi Arabia operators with current ground knowledge, providing a structured programme covering the principal's full movement cycle in the city.
+Executive protection in Jeddah is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing regional Houthi missile and drone activity and terrorism awareness: advance work on venues and routes, a written threat assessment, an operations controller, and GASC-licensed secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management.
 
 ## The Jeddah EP environment
 
@@ -44,3 +44,5 @@ The threat environment in Jeddah warrants a structured EP programme for senior p
 An EP programme in Jeddah covers the full principal movement cycle: advance work at all venues, close escort during movements, accommodation security liaison, daily route variation, a documented emergency action plan, and medevac provider confirmation before arrival.
 
 For the full Jeddah security picture, see our [Jeddah city briefing](/cities/jeddah/). For principals requiring security drivers, [security drivers in Jeddah](/security-drivers/jeddah/) covers the Saudi Arabia programme.
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Jeddah](/bodyguard-hire/jeddah/). For the operators who staff the programme and how they are vetted, see [close protection officers in Jeddah](/close-protection-officers/jeddah/).

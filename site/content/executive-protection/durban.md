@@ -35,8 +35,10 @@ faqs:
     answer: "Primary medical facility: Netcare St Augustine's Hospital (+27-31-268-5000). Emergency: 10111 (SAPS), 10177 (ambulance), 112 (emergency). Medical routing is pre-planned as part of every operation order. CPOs hold current first-aid certification. Medical evacuation coordination is confirmed before deployment for principals on extended Durban programmes."
 ---
 
-Executive protection in Durban addresses a high risk environment: high - armed robbery, carjacking, and violent crime per SAPS 2023/24; CBD and So. PSIRA-registered operators cover Umhlanga Rocks, La Lucia Ridge Office Estate, and Ballito Es with pre-surveyed routes, operations controller oversight, and pre-planned medical routing to Netcare St Augustine's Hospital.
+Executive protection in Durban is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing armed robbery, hijacking, and port-sector crime: advance work on venues and routes, a written threat assessment, an operations controller, and PSIRA-registered secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a C-suite visit, where the need is layered, documented risk management rather than ad-hoc cover.
 
 PSIRA-registered operators under the Private Security Industry Regulation Act 2001 is the regulatory baseline. PSIRA registration mandatory for all operators and individuals; firearms competency licensing under SAPS for armed details.
 
 For Durban city context, see our [Durban security briefing](/cities/durban/). For transport security, see [security drivers in Durban](/security-drivers/durban/). For regional context, see [executive protection in Johannesburg](/executive-protection/johannesburg/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Durban](/bodyguard-hire/durban/). For the operators who staff the programme and how they are vetted, see [close protection officers in Durban](/close-protection-officers/durban/).

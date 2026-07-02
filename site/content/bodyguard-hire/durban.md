@@ -35,8 +35,10 @@ faqs:
     answer: "Emergency number: 10111 (SAPS), 10177 (ambulance), 112 (emergency). Primary facility: Netcare St Augustine's Hospital (+27-31-268-5000). Secondary: Entabeni Hospital (+27-31-204-1300). Medical routing is pre-planned; CPOs hold current first-aid certification. The operation order includes evacuation routing from all principal accommodation."
 ---
 
-Durban presents a high risk environment requiring active close protection planning; the primary concern is high - armed robbery, carjacking, and violent crime per SAPS 2023/24; CBD and So. PSIRA-registered operators provide close protection across Umhlanga Rocks, La Lucia Ridge Office Estate, and Ballito Es.
+Hiring a bodyguard in Durban is usually tied to a specific visit, where armed robbery, hijacking, and port-sector crime shape the plan for corporate and freight-linked visitors. This page covers how close protection hire works in South Africa, what a PSIRA-registered officer does across a day of movements, and how quickly cover is arranged. Armed cover is available where the threat assessment warrants it, so hire pairs a registered officer with secure transport, scaled to the itinerary.
 
 PSIRA-registered operators under the Private Security Industry Regulation Act 2001 is the regulatory baseline. PSIRA registration mandatory for all operators and individuals; firearms competency licensing under SAPS for armed details.
 
 Detailed city context is available on the [Durban city page](/cities/durban/). For transport security, see [vetted security drivers in Durban](/security-drivers/durban/). For regional coverage, see [bodyguard hire in Johannesburg](/bodyguard-hire/johannesburg/). Firearms: armed protection available - licensed under SAPS firearms competency and PSIRA.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Durban](/executive-protection/durban/). To check the credentials and vetting behind the officers, see [close protection officers in Durban](/close-protection-officers/durban/).

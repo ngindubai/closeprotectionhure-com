@@ -37,7 +37,7 @@ faqs:
     answer: "For straightforward business visits to Auckland, three to five working days provides adequate time for credential verification, threat assessment, transport arrangement, and a light pre-advance of principal venues. For HNWI visits involving waterfront or maritime elements, residential estate stays, or complex multi-venue event coverage, two weeks or more is preferable to allow thorough advance work. During major events such as the America's Cup or Rugby World Cup fixtures, early booking is essential as qualified CPO capacity in Auckland is limited and is absorbed rapidly in the lead-up to large events."
 ---
 
-Auckland is New Zealand's commercial capital and the principal entry point for international business and HNWI travel to the country. It offers one of the most benign security environments of any major Asia-Pacific city: the FCDO New Zealand travel advice notes no specific terrorism threat and describes New Zealand as a low-crime destination by international standards.
+This page is about the people who provide close protection in Auckland: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Auckland network holds a Certificate of Approval from the Ministry of Justice under the Private Security Personnel and Private Investigators Act 2010, and is assessed for local competence. It covers standard team configuration, the unarmed model since the 2019 firearms law tightening, and the credential checks a buyer should insist on.
 
 ## Regulatory framework
 
@@ -48,3 +48,5 @@ New Zealand's private security sector is governed by the Private Security Person
 In Auckland, CPO cover is calibrated to principal-specific risk rather than ambient environmental threat. HNWI principals attending major maritime events such as the America's Cup, executives visiting for commercial transactions, and family-office clients at private estates represent the core demand base. Discreet, low-profile cover, maritime-capable teams for waterfront operations, and residential security surveys for estate visits are the primary deliverables.
 
 For a broader view of the Auckland operating environment, see our [Auckland city page](/cities/auckland/) and [bodyguard hire in Auckland](/bodyguard-hire/auckland/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Auckland](/bodyguard-hire/auckland/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Auckland](/executive-protection/auckland/).

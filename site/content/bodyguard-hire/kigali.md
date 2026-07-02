@@ -33,8 +33,10 @@ faqs:
     answer: "Rwanda's political environment creates specific risks for journalists covering sensitive topics and individuals with connections to political opposition or Rwandan diaspora groups. CPO operations for these profiles include communications discipline, public statement guidance, device hygiene, and specific awareness of RIB monitoring activity. These elements are in addition to conventional close protection."
 ---
 
-Kigali bodyguard hire reflects Rwanda's distinctive security profile: low conventional crime rates, a politically controlled environment with specific implications for certain visitor profiles, and the conference capital role that brings major international events with complex state-security coordination requirements.
+Hiring a bodyguard in Kigali is typically about political-environment awareness and regional instability rather than routine crime, which is low. This page covers how close protection hire works in Rwanda, what a Rwanda National Police licensed officer does across a day of movements, and how quickly cover is arranged. Armed cover is available through licensed channels, so hire pairs a licensed officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 Rwanda National Police-licensed operators with documented Rwanda government liaison experience deliver close protection calibrated to Kigali's specific combination of low ambient risk and elevated political and event-security complexity.
 
 For the full Kigali security picture, see our [Kigali city briefing](/cities/kigali/). For the wider East Africa network, [bodyguard hire in Nairobi](/bodyguard-hire/nairobi/) covers the Kenya CPO programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Kigali](/executive-protection/kigali/). To check the credentials and vetting behind the officers, see [close protection officers in Kigali](/close-protection-officers/kigali/).

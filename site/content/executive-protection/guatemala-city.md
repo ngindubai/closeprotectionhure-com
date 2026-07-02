@@ -35,7 +35,7 @@ faqs:
     answer: "A pre-advance in Guatemala City is essential because the boundary between the Zona 10 safe corridor and gang-active zonas can be one street, and because La Aurora airport exit roads pass through or adjacent to elevated-risk areas. The advance covers: airport transfer routes, the principal's hotel, all meeting venues, and an assessment of any kidnap-relevant factors specific to the principal's profile or sector. Advance findings determine whether venues are accepted, substituted, or whether the itinerary requires modification."
 ---
 
-Guatemala City's executive protection environment reflects a persistent intersection of urban gang networks, cartel influence, and documented kidnap risk that has made EP a standard operating practice for the local business community. FCDO Guatemala travel advice (2024) advises a high degree of caution with specific zona warnings, and the US State Department designates Guatemala as Level 3: Reconsider Travel (2026). For visiting executives in the agriculture, mining, finance, and energy sectors, the kidnap threat is a real and documented factor that warrants professional EP planning before any Guatemala City itinerary is finalised.
+Executive protection in Guatemala City is a programme, not a single officer. It is the discipline a company applies when it owes a duty of care to an executive facing kidnapping, gang violence, and cartel-linked risk amid documented police reliability concerns: advance work on venues and routes, a written threat assessment, an operations controller, and DIGESSP-authorised secure transport integrated with the corporate itinerary. This page is for security managers designing protection around a visit, where the need is layered, documented risk management.
 
 ## DIGESSP licensing and Guatemala compliance
 
@@ -46,3 +46,5 @@ EP companies must hold DIGESSP company licences and individual officers must car
 A Guatemala City EP programme covers advance work on La Aurora transfer routes and all confirmed venues, minimum two-vehicle formation with armoured vehicle recommendation, kidnap-avoidance counter-surveillance protocols, K&R insurance coordination, and a crisis response and extraction plan with a specific kidnap response protocol.
 
 For the full Guatemala City security picture, see the [Guatemala City city briefing](/cities/guatemala-city/) and [close protection officers in Guatemala City](/close-protection-officers/guatemala-city/).
+
+For short-term, single-principal cover tied to one visit, see [bodyguard hire in Guatemala City](/bodyguard-hire/guatemala-city/). For the operators who staff the programme and how they are vetted, see [close protection officers in Guatemala City](/close-protection-officers/guatemala-city/).

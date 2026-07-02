@@ -33,7 +33,7 @@ faqs:
     answer: "The medical plan for every Jeddah assignment includes the best available local medical facility for initial stabilisation and, where local capability is limited, evacuation routing to the nearest internationally accredited hospital. Medevac provider contacts are confirmed active before the principal's arrival. Medical evacuation insurance is the baseline requirement."
 ---
 
-Bodyguard hire in Jeddah operates within Saudi Arabia's licensing framework, with close protection officers drawn from a vetted partner network holding valid national security authorisation.
+Hiring a bodyguard in Jeddah is usually tied to a specific visit, where regional Houthi missile and drone activity and terrorism awareness shape the plan. This page covers how close protection hire works in Saudi Arabia, what a GASC-licensed officer does across a day of movements, and how quickly cover is arranged. Armed cover is available for high-risk contexts including industrial sites, so hire pairs a GASC-licensed officer with secure transport, scaled to the itinerary rather than a fixed contract.
 
 ## The Jeddah security environment
 
@@ -44,3 +44,5 @@ The current security environment in Jeddah requires a bodyguard programme calibr
 A Jeddah bodyguard programme covers airport transfers with inside-terminal collection, accommodation in vetted properties in the primary security zone, in-city movement with pre-planned routes and operations controller tracking, and a documented emergency action plan with medevac provisions.
 
 For the full Jeddah security picture, see our [Jeddah city briefing](/cities/jeddah/). For principals requiring security drivers, [security drivers in Jeddah](/security-drivers/jeddah/) covers the Saudi Arabia programme.
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Jeddah](/executive-protection/jeddah/). To check the credentials and vetting behind the officers, see [close protection officers in Jeddah](/close-protection-officers/jeddah/).

@@ -37,7 +37,7 @@ faqs:
     answer: "Saudi Arabia's legal framework creates specific risks for international visitors: alcohol possession is a criminal offence, photography of individuals without consent and of government and military facilities is prohibited, and dress codes are enforced. A CPO briefed on Jeddah's current legal environment actively prevents inadvertent violations as part of the principal management function. This is a practical operational requirement in the Saudi context, not a theoretical compliance consideration."
 ---
 
-Jeddah is Saudi Arabia's commercial capital and the Kingdom's gateway for international business associated with Vision 2030 investment, the Red Sea and NEOM development corridors, and the long-established oil, petrochemical, and maritime sectors. Close protection officer demand in Jeddah is driven by a combination of high-value deal activity, energy sector site visits, and the city's status as a Gulf HNWI residential hub. The operational context for CPO work in Jeddah is defined by three specific factors: the formal terrorism threat, the cross-border Houthi missile and drone attack risk, and Saudi Arabia's strict legal code.
+This page is about the people who provide close protection in Jeddah: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Jeddah network holds GASC licensing from the Ministry of Interior, and is assessed for local competence. It covers standard team configuration, armed authorisation for high-risk contexts including industrial sites, and the credential checks a buyer should insist on before engaging any officer.
 
 ## The GASC regulatory framework
 
@@ -46,3 +46,5 @@ Saudi Arabia's General Authority for Security Companies (GASC) is the Ministry o
 ## What CPO work in Jeddah covers
 
 Pre-advance at accommodation and meeting venues in Al Hamra and Al Naeem, Saudi civil defence system awareness for Houthi threat protocols, compliance management as part of principal handling, operations controller support throughout, and emergency contacts pre-confirmed with the British Consulate General and the nearest appropriate medical facility. For the full Jeddah threat picture, see our [Jeddah city page](/cities/jeddah/) and [bodyguard hire in Jeddah](/bodyguard-hire/jeddah/).
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Jeddah](/bodyguard-hire/jeddah/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Jeddah](/executive-protection/jeddah/).

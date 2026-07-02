@@ -35,7 +35,7 @@ faqs:
     answer: "Under clear conditions, Auckland Airport to the CBD via the SH20 and SH1 is 25 to 35 minutes. During morning peak (07:00 to 09:00) and evening peak (16:30 to 18:30), Auckland's motorway network frequently extends this to 50 to 70 minutes on the SH1 Southern Motorway approach to the CBD. Auckland consistently reports the highest traffic congestion in New Zealand by Transport Agency and TomTom data. Transfer timing is assessed against the principal's landing time and real-time NZTA (Transport Agency) traffic data before the driver departs."
 ---
 
-Auckland close protection operates in one of the world's safest cities for ambient crime, with a well-regulated PSPPIA 2010 licensing framework that provides individually verifiable CoA certification. CPO demand in Auckland is driven by external principal threat profiles, major international events, and the specific HNWI principal community that New Zealand attracts from across the Pacific and Asia.
+Hiring a bodyguard in Auckland is typically about general crime and protest-activity awareness rather than violent crime, which is low. This page covers how close protection hire works in New Zealand, what a Ministry of Justice Certificate of Approval holder does across a day of movements, and how quickly cover is arranged. Commercial close protection is unarmed following the post-Christchurch tightening of firearms law, so hire pairs a certified officer with secure transport, scaled to the itinerary.
 
 ## The New Zealand regulatory framework
 
@@ -46,3 +46,5 @@ The Private Security Personnel and Private Investigators Act 2010 (PSPPIA) provi
 Auckland CPO engagements focus on CBD and Viaduct Harbour corporate work, Parnell and Remuera HNWI residential coverage, Auckland Airport transfer operations, and major events security during international conferences and sports events. Low-profile operations appropriate to New Zealand's informal social culture are the standard for all corporate and HNWI principal assignments.
 
 For the Auckland city security overview, see our [Auckland city page](/cities/auckland/) and [bodyguard hire services overview](/bodyguard-hire/).
+
+Hiring for a wider corporate programme rather than a single trip? See [executive protection in Auckland](/executive-protection/auckland/). To check the credentials and vetting behind the officers, see [close protection officers in Auckland](/close-protection-officers/auckland/).

@@ -35,6 +35,8 @@ faqs:
     answer: "A single PSIRA Grade A CPO in Durban typically ranges from R4,500 to R9,000 per day depending on grade, threat profile, and whether armed cover is required. Armed cover with SAPS-issued firearms competency adds to the base rate. Security driver integration is standard for most Durban CPO assignments. As at June 2026, rates vary with specific operational requirement."
 ---
 
-Durban's PSIRA-regulated CPO market is professional and well-developed, reflecting KwaZulu-Natal's high-crime environment and the significant demand from corporate, HNWI, and natural resources sector principals visiting the city. Grade A PSIRA registration, verified through the public registry, is the minimum appropriate standard.
+This page is about the people who provide close protection in Durban: who they are, how they are vetted, and what credentials to verify before they deploy. Every operator in our Durban network holds mandatory PSIRA registration, with firearms authorisation under the Firearms Control Act where the threat assessment warrants it, and is assessed for local competence. It covers standard team configuration and the credential checks a buyer should insist on before engaging any officer.
 
 For the full Durban security picture, see the [Durban city briefing](/cities/durban/) for SAPS KwaZulu-Natal crime context. For King Shaka Airport transfers as part of a CPO detail, [secure airport transfers in Durban](/secure-airport-transfers/durban/) covers the N2 corridor collection protocol.
+
+To arrange short-term cover for a specific trip, see [bodyguard hire in Durban](/bodyguard-hire/durban/). For organisational, duty-of-care protection around a corporate visit, see [executive protection in Durban](/executive-protection/durban/).
