@@ -1,5 +1,6 @@
 ---
 title: "Istanbul"
+featured: true
 description: "Close protection and executive security in Istanbul, Turkey. Terrorism awareness, vetted secure transport and licensed operators for corporate visitors."
 slug: "istanbul"
 answer: "Close protection in Istanbul is an intelligence-led task centred on terrorism awareness and political instability rather than everyday street crime. Turkey regulates private security under Law No. 5188, with armed cover tightly restricted and personnel certified by the Ministry of Interior, so cover is usually unarmed and built around planning and local knowledge."

@@ -1,5 +1,6 @@
 ---
 title: "Dubai"
+featured: true
 description: "Close protection and executive security in Dubai, UAE. Discreet SIRA-licensed protection, secure transport and profile management for executives and HNWIs."
 slug: "dubai"
 answer: "Close protection in Dubai operates in a low street-crime environment, so the priority is discretion, legal and cultural navigation, and executive privacy rather than confrontation. Firearms are prohibited for private security under UAE law, and all operators require SIRA certification, so cover is unarmed and built around avoidance, planning, and vetted local knowledge."

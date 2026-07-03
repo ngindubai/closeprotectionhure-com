@@ -52,8 +52,10 @@
 </section>
 {{ end }}
 
-{{/* ===== FEATURED ITEMS ===== */}}
+{{/* ===== FEATURED ITEMS (Batch D2, 2026-07-03: prefer explicitly featured pages) ===== */}}
+{{ $featured := where $allPages "Params.featured" true }}
 {{ $popular := first 4 $allPages }}
+{{ if gt (len $featured) 0 }}{{ $popular = first 4 $featured }}{{ end }}
 {{ if gt (len $popular) 0 }}
 <section class="section-dark bg-dark-2 text-light">
     <div class="container">

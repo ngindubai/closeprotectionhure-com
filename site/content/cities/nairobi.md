@@ -1,5 +1,6 @@
 ---
 title: "Nairobi"
+featured: true
 description: "Close protection and executive security in Nairobi, Kenya. Al-Shabaab terrorism awareness, vetted secure transport and PSIRA-licensed operators for corporate visitors."
 slug: "nairobi"
 answer: "Close protection in Nairobi addresses a terrorism threat alongside carjacking, armed robbery, and kidnapping, so secure transport and route discipline are central. Kenya's Firearms Act permits armed cover only through PSIRA-registered firms, with operator vetting via the Directorate of Criminal Investigations, so principals should confirm registration and use vetted local drivers."

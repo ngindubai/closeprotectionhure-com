@@ -1,5 +1,6 @@
 ---
 title: "Bogota"
+featured: true
 description: "Close protection and executive security in Bogota, Colombia. Express-kidnap planning, vetted armoured transport and SVSP-licensed operators for corporate visitors."
 slug: "bogota"
 answer: "Close protection in Bogota manages express kidnapping, armed robbery, and organised-crime risk, with political protest a periodic disruptor. Colombia's SVSP authority regulates armed private security, available through registered companies with documented vetting, so principals should confirm SVSP authorisation and use operators with current credentials and strong local area knowledge."

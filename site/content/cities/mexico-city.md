@@ -1,5 +1,6 @@
 ---
 title: "Mexico City"
+featured: true
 description: "Close protection and executive security in Mexico City. Express-kidnap planning, armoured transport and licensed operators for corporate visitors to CDMX."
 slug: "mexico-city"
 answer: "Close protection in Mexico City focuses on express kidnapping, armed robbery, and organised-crime exposure, where discreet secure transport and counter-surveillance matter most. Armed cover is available only through federally registered companies holding SEDENA permits, and firearms are tightly controlled, so principals should engage vetted operators with local route and area knowledge."
