@@ -1255,3 +1255,49 @@ p.lead {
 .related-links .related-list li::before { content: "\203A"; position: absolute; left: 0; color: #c8a45e; font-weight: 700; }
 .related-links .related-list a { color: #e7edf6; text-decoration: none; border-bottom: 1px solid rgba(200,164,94,.35); transition: color .15s, border-color .15s; }
 .related-links .related-list a:hover { color: #c8a45e; border-color: #c8a45e; }
+
+/* ===== Batch A1: gold primary CTAs (Design build plan, 2026-07-03) ===== */
+a.btn-main:not(.btn-line),
+a.btn-main:not(.btn-line):active,
+a.btn-main:not(.btn-line):focus,
+a.btn-main:not(.btn-line):visited,
+.btn-main:not(.btn-line),
+input[type=button].btn-main {
+  background: #c8a45e;
+  color: #0a1628;
+}
+a.btn-main:not(.btn-line):hover,
+a.btn-main:not(.btn-line):focus {
+  background: #b8934a;
+  color: #0a1628;
+}
+a.btn-main.btn-line {
+  background: none;
+  color: #c8a45e;
+  border-color: #c8a45e;
+}
+a.btn-main.btn-line:hover,
+a.btn-main.btn-line:focus {
+  background: #c8a45e;
+  color: #0a1628;
+  border-color: #c8a45e;
+}
+
+/* ===== Batch A4: hide stray "scroll to top" float-text overlay (Design build plan, 2026-07-03) ===== */
+.float-text,
+.float-text-right {
+  display: none;
+}
+
+/* ===== Batch A5: motion-safety - no blank sections on reduced-motion / no-JS (Design build plan, 2026-07-03) ===== */
+@media (prefers-reduced-motion: reduce) {
+  .wow {
+    visibility: visible !important;
+    animation: none !important;
+    opacity: 1 !important;
+  }
+}
+.no-js .wow {
+  visibility: visible !important;
+  opacity: 1 !important;
+}
