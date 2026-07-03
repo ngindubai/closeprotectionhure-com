@@ -72,6 +72,16 @@
     </div>
 </section>
 
+{{/* ===== CTA BAR (Batch B1, 2026-07-03) ===== */}}
+{{ if or .Params.cta_text .Params.city (eq .Section "guides") }}
+<section class="section-dark bg-color text-light pt-40 pb-30 relative overflow-hidden">
+    <div class="container"><div class="row g-4 align-items-center">
+        <div class="col-md-9"><h4 class="mb-0 wow fadeInRight">{{ if .Params.cta_text }}{{ .Params.cta_text }}{{ else if .Params.city }}Planning travel to {{ .Params.city }}? Speak with a security consultant.{{ else }}Planning travel? Speak with a security consultant before you go.{{ end }}</h4></div>
+        <div class="col-md-3 text-md-end"><a class="btn-main fx-slide btn-line wow fadeInLeft" href="#quote-form"><span>Request Consultation</span></a></div>
+    </div></div>
+</section>
+{{ end }}
+
 {{/* ===== DIRECT ANSWER (AI Overview / featured-snippet target) ===== */}}
 {{ with .Params.answer }}
 <section class="direct-answer-section">

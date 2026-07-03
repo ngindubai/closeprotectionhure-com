@@ -40,27 +40,6 @@
                     <input type="hidden" name="_captcha" value="false">
                     <input type="hidden" name="_template" value="table">
                     <input type="hidden" name="_next" value="https://closeprotectionhire.com/?enquiry=sent">
-                    <div class="mb-3">
-                        <label for="hf-service" class="form-label text-light">Service required <span class="text-color">*</span></label>
-                        <select id="hf-service" name="service_type" class="form-control" required>
-                            <option value="">Select service</option>
-                            <option value="bodyguard-hire">Bodyguard Hire</option>
-                            <option value="executive-protection">Executive Protection</option>
-                            <option value="security-drivers">Security Drivers</option>
-                            <option value="event-security">Event Security</option>
-                            <option value="residential-security">Residential Security</option>
-                            <option value="risk-assessment">Risk Assessment</option>
-                        </select>
-                    </div>
-                    <div class="mb-3">
-                        <label for="hf-location" class="form-label text-light">City <span class="text-color">*</span></label>
-                        <select id="hf-location" name="location" class="form-control" required>
-                            <option value="">Select city</option>
-                            {{ range sort (where .Site.RegularPages "Section" "cities") ".Title" }}
-                            <option value="{{ .Params.slug | default .File.BaseFileName }}">{{ .Title }}</option>
-                            {{ end }}
-                        </select>
-                    </div>
                     <div class="row g-2 mb-3">
                         <div class="col-6">
                             <label for="hf-name" class="form-label text-light">Name <span class="text-color">*</span></label>
@@ -72,8 +51,8 @@
                         </div>
                     </div>
                     <div class="mb-3">
-                        <label for="hf-message" class="form-label text-light">Requirements</label>
-                        <textarea id="hf-message" name="message" class="form-control" rows="3" placeholder="Dates, principals, specific requirements..."></textarea>
+                        <label for="hf-message" class="form-label text-light">Destination &amp; requirements <span class="text-color">*</span></label>
+                        <textarea id="hf-message" name="message" class="form-control" rows="3" placeholder="Destination city, dates, principals, specific requirements..." required></textarea>
                     </div>
                     <div style="display:none;" aria-hidden="true">
                         <input type="text" name="_honey" tabindex="-1" autocomplete="off">

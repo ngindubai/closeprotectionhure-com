@@ -1301,3 +1301,40 @@ a.btn-main.btn-line:focus {
   visibility: visible !important;
   opacity: 1 !important;
 }
+
+/* ===== Batch B2: form trust strip above submit (Design build plan, 2026-07-03) ===== */
+.form-trust-strip {
+  color: #c8a45e;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  margin: 0 0 0.75rem;
+}
+
+/* ===== Batch B6: sticky mobile CTA bar (Design build plan, 2026-07-03) ===== */
+.mobile-sticky-cta {
+  display: none;
+}
+@media (max-width: 767px) {
+  .mobile-sticky-cta {
+    display: block;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1050;
+    padding: 8px 12px;
+    background: rgba(10, 22, 40, 0.96);
+    backdrop-filter: blur(6px);
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+  }
+  .mobile-sticky-cta a.btn-main {
+    display: block;
+    width: 100%;
+    min-height: 44px;
+    line-height: 28px;
+  }
+  body {
+    padding-bottom: 60px;
+  }
+}

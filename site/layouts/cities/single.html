@@ -52,20 +52,23 @@
             </div>
         </div>
     </div>
-    {{ if or .Params.threats .Params.zones .Params.emergency_contacts }}
-    <div class="inner-hero-jumpbar">
-        <div class="container">
-            <nav class="inner-hero-jumpnav" aria-label="On this page">
-                {{ if .Params.threats }}<a href="#threat-profile">Threat Profile</a>{{ end }}
-                {{ if .Params.regulations }}<a href="#regulations">Regulations</a>{{ end }}
-                {{ if .Params.zones }}<a href="#zones">Zone Intelligence</a>{{ end }}
-                {{ if .Params.emergency_contacts }}<a href="#emergency">Emergency Contacts</a>{{ end }}
-                {{ if .Params.warnings }}<a href="#warnings">Advisories</a>{{ end }}
-            </nav>
-        </div>
-    </div>
-    {{ end }}
 </section>
+
+{{/* ===== STICKY PAGE NAV (Batch B3, 2026-07-03): sits outside the overflow-hidden hero so it can persist while scrolling ===== */}}
+{{ if or .Params.threats .Params.zones .Params.emergency_contacts }}
+<div class="city-sticky-nav">
+    <div class="container">
+        <nav class="inner-hero-jumpnav" aria-label="On this page">
+            {{ if .Params.threats }}<a href="#threat-profile">Threat Profile</a>{{ end }}
+            {{ if .Params.regulations }}<a href="#regulations">Regulations</a>{{ end }}
+            {{ if .Params.zones }}<a href="#zones">Zone Intelligence</a>{{ end }}
+            {{ if .Params.emergency_contacts }}<a href="#emergency">Emergency Contacts</a>{{ end }}
+            {{ if .Params.warnings }}<a href="#warnings">Advisories</a>{{ end }}
+        </nav>
+        <a class="btn-main fx-slide btn-small city-sticky-cta" href="#quote-form"><span>Request Consultation</span></a>
+    </div>
+</div>
+{{ end }}
 
 {{/* ===== CTA BAR ===== */}}
 <section class="section-dark bg-color text-light pt-40 pb-30 relative overflow-hidden">
@@ -249,6 +252,18 @@
     </div>
 </section>
 {{ end }}
+
+{{/* ===== MID-PAGE CTA (Batch B3, 2026-07-03) ===== */}}
+<section class="section-dark bg-color text-light pt-40 pb-40 relative overflow-hidden">
+    <div class="container">
+        <div class="row justify-content-center text-center">
+            <div class="col-lg-8">
+                <h3 class="wow fadeInUp mb-3">Deploying to {{ .Title }}? Get a vetted close protection detail.</h3>
+                <a class="btn-main fx-slide wow fadeInUp" data-wow-delay=".2s" href="#quote-form"><span>Request Consultation</span></a>
+            </div>
+        </div>
+    </div>
+</section>
 
 {{/* ===== EMERGENCY CONTACTS ===== */}}
 {{ with .Params.emergency_contacts }}

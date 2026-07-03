@@ -61,14 +61,6 @@
     flex-wrap: wrap;
     gap: 0.75rem;
 }
-.inner-hero-jumpbar {
-    position: relative;
-    z-index: 2;
-    width: 100%;
-    border-top: 1px solid rgba(255,255,255,0.12);
-    background: rgba(10,22,40,0.6);
-    backdrop-filter: blur(6px);
-}
 .inner-hero-jumpnav {
     display: flex;
     flex-wrap: wrap;
@@ -87,8 +79,35 @@
 .inner-hero-jumpnav a:hover {
     color: var(--accent, #c8a45e);
 }
+
+/* ===== Sticky page nav (Batch B3, 2026-07-03): standalone, sits after the hero so it can persist ===== */
+.city-sticky-nav {
+    position: sticky;
+    top: 0;
+    z-index: 40;
+    width: 100%;
+    background: rgba(10,22,40,0.94);
+    backdrop-filter: blur(6px);
+    border-bottom: 1px solid rgba(255,255,255,0.12);
+}
+.city-sticky-nav .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+}
+.city-sticky-nav .inner-hero-jumpnav {
+    flex: 1 1 auto;
+    min-width: 0;
+}
+.city-sticky-nav .city-sticky-cta {
+    flex-shrink: 0;
+}
 @media (max-width: 768px) {
     .inner-hero-enhanced { min-height: 60vh; }
     .inner-hero-jumpnav { gap: 1rem; overflow-x: auto; flex-wrap: nowrap; }
     .inner-hero-jumpnav a { white-space: nowrap; }
+    .city-sticky-nav .container { flex-wrap: wrap; padding-top: 0.6rem; padding-bottom: 0.6rem; }
+    .city-sticky-nav .inner-hero-jumpnav { order: 2; width: 100%; }
+    .city-sticky-nav .city-sticky-cta { order: 1; width: 100%; text-align: center; }
 }
