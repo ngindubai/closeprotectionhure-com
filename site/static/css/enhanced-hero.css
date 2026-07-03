@@ -21,8 +21,8 @@
     position: absolute;
     inset: 0;
     z-index: 1;
-    background: linear-gradient(180deg, rgba(10,22,40,0.55) 0%, rgba(10,22,40,0.35) 40%, rgba(10,22,40,0.92) 100%),
-                linear-gradient(90deg, rgba(10,22,40,0.85) 0%, rgba(10,22,40,0.25) 60%, rgba(10,22,40,0) 100%);
+    background: linear-gradient(180deg, rgba(10,22,40,0.62) 0%, rgba(10,22,40,0.55) 40%, rgba(10,22,40,0.94) 100%),
+                linear-gradient(90deg, rgba(10,22,40,0.90) 0%, rgba(10,22,40,0.45) 60%, rgba(10,22,40,0) 100%);
 }
 .inner-hero-enhanced .inner-hero-content {
     position: relative;
@@ -30,6 +30,9 @@
     width: 100%;
     padding-bottom: 3rem;
     padding-top: 6rem;
+}
+.inner-hero-enhanced .inner-hero-content .col-lg-9 {
+    max-width: 650px;
 }
 .inner-hero-title {
     font-size: clamp(2rem, 4vw, 3.4rem);
