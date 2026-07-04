@@ -36,6 +36,12 @@ SILOS = [
     "event-security",
     "risk-assessments",
     "guides",
+    "bodyguard-hire",
+    "executive-protection",
+    "close-protection-officers",
+    "security-drivers",
+    "residential-security",
+    "secure-airport-transfers",
 ]
 
 # Banned AI-tell vocabulary (universal across pet-transport and security domains)

@@ -26,7 +26,7 @@ components:
     description: "Venezuela's economic collapse means USD cash is the functional currency. Logistics support covers secure cash handling, fuel sourcing, and contingency planning for infrastructure failures that routinely affect movement."
 faqs:
   - question: "Is it safe to travel to Caracas for business?"
-    answer: "Both the FCDO and US State Department advise against all but essential travel to Venezuela. If travel is operationally necessary, professional close protection significantly reduces exposure to the kidnap, carjacking, and colectivo threats documented in Caracas. No security arrangement eliminates risk; the goal is to reduce it to a level consistent with your operational requirements."
+    answer: "Both the FCDO and US State Department advise against all but essential travel to Venezuela. If travel is operationally necessary, professional close protection significantly reduces exposure to the kidnap, carjacking, and colectivo threats documented in Caracas. No security arrangement removes risk entirely; the goal is to reduce it to a level consistent with your operational requirements."
   - question: "What is SENAS and why does it matter?"
     answer: "SENAS, the Servicio Nacional Autónomo de Seguridad Privada, is Venezuela's private security regulator. Security companies operating legally in Caracas must hold SENAS registration. Venezuela's economic conditions have complicated regulatory enforcement, making independent verification of operator credentials essential before engagement."
   - question: "Are armed bodyguards available in Caracas?"

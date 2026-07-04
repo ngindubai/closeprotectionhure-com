@@ -30,7 +30,7 @@ faqs:
   - question: "Are there specific areas of Havana where vehicle security is a greater concern?"
     answer: "Central Havana (Centro Habana) and some parts of Old Havana carry elevated petty crime risk at street level, particularly at night. The Vedado and Miramar diplomatic and business districts are lower-risk for vehicle movements. Our drivers use pre-assessed routes and timing to manage exposure in higher-risk areas."
   - question: "Can your drivers assist with access to restricted areas or official venues?"
-    answer: "Some official venues and diplomatic areas in Havana have vehicle access restrictions. Our drivers are familiar with the access protocols for principal business destinations and can manage coordination with venue or government security to facilitate entry. Where vehicle access is not possible, safe alternative arrangements are made."
+    answer: "Some official venues and diplomatic areas in Havana have vehicle access restrictions. Our drivers are familiar with the access protocols for principal business destinations and can manage coordination with venue or government security to arrange entry. Where vehicle access is not possible, safe alternative arrangements are made."
   - question: "How should business visitors approach communications security in vehicles in Cuba?"
     answer: "Business visitors should assume that vehicle environments, like hotel rooms and meeting spaces, may be monitored in Cuba. We advise clients not to conduct sensitive conversations in vehicles unless specifically swept and cleared, and to manage commercially sensitive communications using devices and methods appropriate to the Cuban environment."
   - question: "What is the airport transfer arrangement from Jose Marti International?"

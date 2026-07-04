@@ -1,13 +1,15 @@
 {{ define "title" }}{{ .Site.Params.brand }} | Close Protection and Executive Security{{ end }}
 
 {{ define "schema" }}
+{{/* Organization entity is emitted once, canonically, in baseof.html (with @id #organization).
+     The homepage adds a WebSite entity instead of a duplicate Organization. */}}
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "{{ .Site.Params.brand }}",
-    "description": "{{ .Site.Params.description }}",
-    "url": "{{ .Site.BaseURL }}"
+    "@type": "WebSite",
+    "name": {{ .Site.Params.brand | jsonify }},
+    "url": {{ .Site.BaseURL | jsonify }},
+    "publisher": { "@id": "https://closeprotectionhire.com/#organization" }
 }
 </script>
 {{ end }}
@@ -18,7 +20,7 @@
 <section class="hero-split section-dark text-light no-top no-bottom">
     <div class="hero-split-inner">
         <div class="hero-split-left">
-            <img src="/images/hero.jpg" alt="Close protection detail" class="hero-split-img" loading="eager">
+            <img src="/images/hero.jpg" alt="Close protection detail" class="hero-split-img" loading="eager" fetchpriority="high" decoding="async">
             <div class="hero-split-dim"></div>
             <div class="hero-split-text">
                 <p class="hero-kicker">Global Close Protection &amp; Executive Security</p>

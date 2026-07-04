@@ -23,8 +23,8 @@ faqs:
     answer: "Yes. Enquiries are handled through encrypted channels. Client details are not shared with operators without explicit consent. We do not send marketing after an enquiry closes. NDA templates are available for clients who require formal confidentiality agreements before sharing information."
   - question: "What happens if something goes wrong?"
     answer: "We take incident reports seriously. If an operator performs below standard or an incident occurs, contact us immediately. We investigate every report and any confirmed performance failure results in a tier review. Operators who fail to meet standards are removed from the network."
-  - question: "Do you cover countries outside your 15 primary cities?"
-    answer: "Yes, in many cases. Our primary network covers 15 cities in high-priority countries. For destinations outside this list, we can often identify vetted local operators or advise on available resources. Contact us with your destination."
+  - question: "Do you cover destinations outside your primary cities?"
+    answer: "Yes, in many cases. Our network covers 270+ cities across high-priority countries. For destinations outside this list, we can often identify vetted local operators or advise on available resources. Contact us with your destination."
   - question: "What is a risk assessment?"
     answer: "A risk assessment is a documented analysis of the threats you face in a specific location, prepared for your specific profile and itinerary. It covers crime patterns, terrorism indicators, political stability, transport risks, and recommended countermeasures. It is the first step before any deployment."
 ---

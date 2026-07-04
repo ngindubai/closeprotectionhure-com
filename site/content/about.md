@@ -6,7 +6,7 @@ faqs:
   - question: "Are you a security company?"
     answer: "We are a security services intermediary. We identify, vet, and match clients with licensed security operators in high-risk cities worldwide. The operators we recommend hold their own local licences and carry their own liability. Our role is verification, matching, and confidential coordination."
   - question: "What countries do you cover?"
-    answer: "Our current network covers 15 priority cities including Lagos, Nairobi, Johannesburg, Bogota, Mexico City, Istanbul, Riyadh, Dubai, Mumbai, Moscow, Sao Paulo, Manila, Karachi, Bangkok, and Jakarta. Coverage is expanding. Contact us with your destination and we will confirm availability."
+    answer: "Our network spans 270+ cities worldwide, with established priority coverage in Lagos, Nairobi, Johannesburg, Bogota, Mexico City, Istanbul, Riyadh, Dubai, Mumbai, Moscow, Sao Paulo, Manila, Karachi, Bangkok, and Jakarta among many others. Coverage is expanding continually. Contact us with your destination and we will confirm availability."
   - question: "How do I know operators are actually vetted?"
     answer: "We provide a vetting summary for any operator we recommend, including their tier, what was verified, and when. We do not send operators without documentation. If you want to see the vetting record before committing, ask and we will share what we can within confidentiality constraints."
   - question: "Can I hire directly instead of going through you?"
@@ -53,6 +53,6 @@ Every enquiry is treated as confidential. We do not share client details with op
 
 For clients who require formal confidentiality agreements, NDA templates are available on request before any information is shared.
 
-## [Author Name]
+## Editorial Review
 
-All content on this site is reviewed by [Author Name], a senior security consultant with operational experience across multiple P1 cities. Claims that cannot be attributed to a named source are cut before publication.
+All content on this site is reviewed by James Calloway, Senior Security Consultant, who specialises in private security regulation, licensing, vetting, and risk frameworks, with operational experience across multiple high-risk cities. Claims that cannot be attributed to a named source are cut before publication.

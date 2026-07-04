@@ -52,7 +52,7 @@
                 valid = false;
             }
 
-            var honeypot = form.querySelector('[name="website"]');
+            var honeypot = form.querySelector('[name="_honey"]');
             if (honeypot && honeypot.value) return;
 
             if (!valid) return;
@@ -65,7 +65,7 @@
             }
 
             var data = new FormData(form);
-            data.delete('website');
+            data.delete('_honey');
 
             // ===== CRM fire-and-forget (parallel with FormSubmit) =====
             var cpQs = new URLSearchParams(window.location.search);

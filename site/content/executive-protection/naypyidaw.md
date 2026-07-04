@@ -55,7 +55,7 @@ Sanctions imposed by the US, UK, and EU on the SAC and related entities mean tha
 
 ## What executive protection covers in Naypyidaw
 
-EP in Naypyidaw is designed around the specific constraints of the SAC environment: advance coordination for all government zone meetings, confirmed checkpoint protocols for vehicle movements, zone-specific access documentation, and medevac arrangements to Bangkok or Singapore as the primary emergency contingency. The programme encompasses arrival from Yangon, transit logistics including domestic flight or expressway transfer, accommodation in the diplomatic hotel zone, and all movements to government ministry and UN compound engagements.
+EP in Naypyidaw is designed around the specific constraints of the SAC environment: advance coordination for all government zone meetings, confirmed checkpoint protocols for vehicle movements, zone-specific access documentation, and medevac arrangements to Bangkok or Singapore as the primary emergency contingency. The programme covers arrival from Yangon, transit logistics including domestic flight or expressway transfer, accommodation in the diplomatic hotel zone, and all movements to government ministry and UN compound engagements.
 
 The medical emergency action plan, with Bangkok as the evacuation destination at approximately 2 hours by air, is the foundational safety net for any Naypyidaw engagement. An embedded medic or first-aid-trained CPO is standard given the limited local medical response capability.
 

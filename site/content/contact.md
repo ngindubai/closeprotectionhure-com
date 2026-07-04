@@ -12,7 +12,7 @@ faqs:
   - question: "Do you handle personal travel as well as corporate?"
     answer: "Yes. We work with corporate clients, private individuals, media organisations, NGOs, and anyone else with a legitimate security requirement in a high-risk environment. We do not ask why you are travelling."
   - question: "What if I need security in a city not on your main list?"
-    answer: "Contact us with your destination. Our network covers more than 15 cities. For destinations outside our primary coverage, we can often identify vetted local operators or advise on the closest alternative."
+    answer: "Contact us with your destination. Our network covers more than 270 cities. For destinations outside our primary coverage, we can often identify vetted local operators or advise on the closest alternative."
 ---
 
 ## Confidential from the first contact

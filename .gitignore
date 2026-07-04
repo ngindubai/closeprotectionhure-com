@@ -20,3 +20,6 @@ Thumbs.db
 
 # Editor
 .vscode/settings.json
+
+# Stale legacy static build output (never the live source; deploy builds from site/)
+build/

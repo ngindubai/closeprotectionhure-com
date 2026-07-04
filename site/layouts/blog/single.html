@@ -35,7 +35,7 @@
 {{/* ===== INNER HERO ===== */}}
 <section class="inner-hero text-light">
   <div class="inner-hero-bg">
-    <img src="/images/{{ $heroImg }}" alt="{{ .Title }}" loading="eager">
+    <img src="/images/{{ $heroImg }}" alt="{{ .Title }}" loading="eager" fetchpriority="high" decoding="async">
   </div>
   <div class="inner-hero-vignette"></div>
   <div class="inner-hero-content">

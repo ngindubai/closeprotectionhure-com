@@ -1,16 +1,16 @@
-{{ define "title" }}Close Protection {{ .Title }} | Security Intelligence &amp; Threat Guide | {{ .Site.Params.brand }}{{ end }}
+{{ define "title" }}{{ with .Params.seo_title }}{{ . }}{{ else }}Close Protection in {{ .Title }} | {{ .Site.Params.brand }}{{ end }}{{ end }}
 
 {{ define "schema" }}
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "Service",
-    "name": "Close Protection in {{ .Title }}",
-    "description": "{{ .Description }}",
+    "name": {{ (printf "Close Protection in %s" .Title) | jsonify }},
+    "description": {{ (.Description | default .Title) | jsonify }},
     "provider": { "@id": "https://closeprotectionhire.com/#organization" },
     "areaServed": {
         "@type": "City",
-        "name": "{{ .Title }}"
+        "name": {{ .Title | jsonify }}
     }
 }
 </script>
@@ -28,7 +28,7 @@
 {{/* ===== ENHANCED INNER HERO ===== */}}
 <section class="inner-hero inner-hero-enhanced text-light">
     <div class="inner-hero-bg">
-        <img src="/images/{{ $heroImg }}" alt="Close protection in {{ .Title }}" loading="eager">
+        <img src="/images/{{ $heroImg }}" alt="Close protection in {{ .Title }}" loading="eager" fetchpriority="high" decoding="async">
     </div>
     <div class="inner-hero-scrim"></div>
     <div class="inner-hero-content">

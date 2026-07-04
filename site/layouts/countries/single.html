@@ -1,16 +1,16 @@
-{{ define "title" }}Security Services in {{ .Title }} | {{ .Site.Params.brand }}{{ end }}
+{{ define "title" }}{{ with .Params.seo_title }}{{ . }}{{ else }}Security Services in {{ .Title }} | {{ .Site.Params.brand }}{{ end }}{{ end }}
 
 {{ define "schema" }}
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "Service",
-    "name": "Security Services in {{ .Title }}",
-    "description": "{{ .Description }}",
+    "name": {{ (printf "Security Services in %s" .Title) | jsonify }},
+    "description": {{ (.Description | default .Title) | jsonify }},
     "provider": { "@id": "https://closeprotectionhire.com/#organization" },
     "areaServed": {
         "@type": "Country",
-        "name": "{{ .Title }}"
+        "name": {{ .Title | jsonify }}
     }
 }
 </script>
@@ -26,7 +26,7 @@
 {{/* ===== INNER HERO ===== */}}
 <section class="inner-hero text-light">
     <div class="inner-hero-bg">
-        <img src="/images/{{ $heroImg }}" alt="Security services in {{ .Title }}" loading="eager">
+        <img src="/images/{{ $heroImg }}" alt="Security services in {{ .Title }}" loading="eager" fetchpriority="high" decoding="async">
     </div>
     <div class="inner-hero-vignette"></div>
     <div class="inner-hero-content">

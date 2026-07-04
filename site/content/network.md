@@ -1,6 +1,6 @@
 ---
 title: "Our Global Operator Network"
-description: "How we build and maintain a network of vetted security operators across 15 high-risk cities. Vetting tiers, coverage areas, and the standards operators must meet."
+description: "How we build and maintain a network of vetted security operators across 270+ cities. Vetting tiers, coverage areas, and the standards operators must meet."
 slug: "network"
 faqs:
   - question: "How many operators are in the network?"
@@ -17,7 +17,7 @@ faqs:
 
 ## Network structure
 
-Our network covers 15 primary cities across Africa, Latin America, the Middle East, South and Southeast Asia, and Eastern Europe. Each city has at least one Silver-tier operator on the active roster.
+Our network spans 270+ cities across Africa, Latin America, the Middle East, South and Southeast Asia, and Eastern Europe. Priority cities carry at least one Silver-tier operator on the active roster, with additional coverage sourced on request.
 
 The cities are Lagos, Nairobi, Johannesburg, Bogota, Mexico City, Istanbul, Riyadh, Dubai, Mumbai, Moscow, Sao Paulo, Manila, Karachi, Bangkok, and Jakarta.
 
