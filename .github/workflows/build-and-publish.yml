@@ -22,6 +22,9 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: SEO / content QA gate
+        run: python3 scripts/qa_audit.py
+
       - name: Set up Hugo
         uses: peaceiris/actions-hugo@v3
         with:
