@@ -82,9 +82,11 @@
                 cpFd2.get('message') || ''
             ].filter(Boolean).join('\n');
             try {
-                fetch('https://logistics-crm-tcu4.onrender.com/api/public/leads', {
+                // Same-origin proxy (public_html/api/lead.php) attaches the CRM
+                // key server-side. No key is ever exposed to the browser.
+                fetch('/api/lead.php', {
                     method: 'POST',
-                    headers: { 'Content-Type': 'application/json', 'x-api-key': 'uRc1IHymlMUnYfAB9i79iA3NUARQKFJdRCdo+4VDY/A=' },
+                    headers: { 'Content-Type': 'application/json' },
                     keepalive: true,
                     body: JSON.stringify({
                         company: 'close-protection',
