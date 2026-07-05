@@ -1,0 +1,44 @@
+---
+title: "Secure Airport Transfers in Bologna, Italy"
+description: "Secure airport transfers from BLQ Guglielmo Marconi Airport to Bologna hotels and BolognaFiere, with vetted drivers and name-board collection."
+slug: "bologna"
+h1: "Secure Airport Transfers in Bologna, Italy"
+seo_title: "Secure Airport Transfers Bologna | BLQ Airport"
+service: "secure-airport-transfers"
+city: "Bologna"
+country: "Italy"
+risk_level: "low"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-06-30"
+cta_text: "Arrange your Bologna airport transfer"
+components:
+  - title: "BLQ Route and Journey Times"
+    description: "Guglielmo Marconi Airport (IATA: BLQ) sits roughly 6km northwest of the historic centre, and the standard road transfer runs 15 to 20 minutes under normal conditions. That figure moves during BolognaFiere trade-fair weeks, when the surrounding road network, including approaches feeding the A1 and A14, carries far more traffic than usual; we build extra time into the schedule rather than treat delays as an exception on those dates. Some clients arrive by high-speed rail instead, connecting through Bologna Centrale on the Milan-Florence corridor, and our drivers meet these arrivals with the same protocol used at the airport. Live departure-board monitoring lets a driver adjust for a delayed inbound flight without the principal needing to make contact on landing."
+  - title: "Vehicle and Driver Standards"
+    description: "Drivers assigned to Bologna transfers hold a valid Italian professional driver licence under Legislative Decree 285/1992 (Codice della Strada) and undergo background screening via the Casellario Giudiziale, Italy's Ministry of Justice criminal records register. Where the transfer sits alongside a personal protection element, that dimension falls under Legislative Decree 153/2009 and the TULPS, administered locally through the Prefettura di Bologna and Questura di Bologna. Vehicles are dark-livery executive saloons, maintained to current Italian roadworthiness standards (revisione periodica), and carry commercial passenger insurance plus a first-aid kit meeting Italian minimums. Oversized or specialist luggage should be flagged at booking so the right vehicle is assigned."
+  - title: "Arrival Hall Protocols"
+    description: "FCDO Italy guidance flags pickpocketing and unlicensed operators approaching travellers in arrivals areas as a recurring pattern across Italian airports, and BLQ is no exception during peak periods. Our drivers position inside the terminal at the agreed meeting point, hold a clearly printed name board, and do not approach the principal first; the principal identifies the driver, not the other way round. Anyone else offering a transfer in the arrivals hall should be declined without exception. Once contact is confirmed, luggage is taken over immediately and the principal is walked directly to the pre-positioned vehicle rather than left waiting kerbside."
+  - title: "Route Security Assessment"
+    description: "The short BLQ-to-city route carries a low security risk profile consistent with FCDO Italy assessments for the region generally. The documented vehicle-crime pattern for this area concerns motorway service stations on the A1 and A14 corridors well beyond the immediate airport approach, not the local transfer itself, so that risk applies more to longer intercity legs than to a straightforward airport pickup. Drivers still run counter-surveillance awareness as standard practice on every job. During BolognaFiere weeks, an alternative approach route is held in reserve in case the primary road is backed up, and the choice between them is made on the morning of transfer using current traffic feeds."
+  - title: "Hotel and Venue Drop-off"
+    description: "Grand Hotel Majestic gia Baglioni, on Via dell'Indipendenza close to Piazza Maggiore, sits inside the ZTL (zona a traffico limitato), the camera-enforced restricted zone covering much of the historic centre; drivers hold current knowledge of authorised access points and coordinate with hotel staff in advance rather than discover a closure on arrival. Hotels in the quieter Santo Stefano and San Vitale districts offer a more direct vehicle approach with less exposure to the densest arcaded streets. For clients heading straight to BolognaFiere rather than a city-centre hotel, drop-off is coordinated with the venue's own vehicle access points, which vary by event and by hall in use during peak fair periods."
+  - title: "Emergency and Medical Protocols"
+    description: "IRCCS Policlinico di Sant'Orsola, Via Massarenti 9, is Bologna's principal trauma hospital and the default routing point in any medical contingency during a transfer. Italy's unified emergency number is 112, covering Polizia di Stato (113), Vigili del Fuoco (115), and Emergenza Sanitaria (118). The British Embassy in Rome (+39 06 4220 0001) provides consular assistance for UK nationals; the US Embassy Rome (+39 06 46741) covers US nationals. If a medical event occurs mid-transfer, the driver diverts to the nearest appropriate facility and notifies the principal's pre-briefed emergency contact immediately."
+faqs:
+  - question: "How far is BLQ airport from Bologna city centre?"
+    answer: "Guglielmo Marconi Airport (BLQ) is approximately 6km northwest of the historic centre. The standard road transfer takes 15 to 20 minutes under normal conditions, extending during BolognaFiere trade-fair weeks when surrounding roads carry heavier traffic."
+  - question: "What happens if my flight into BLQ is delayed?"
+    answer: "Drivers monitor live departure boards for the inbound flight and adjust the collection time accordingly. There is no need for the principal to contact the transfer team on landing; the driver will already be positioned to meet the revised arrival time."
+  - question: "What are the main security concerns at BLQ arrivals?"
+    answer: "FCDO Italy guidance identifies pickpocketing and unsolicited approaches from unlicensed operators as a recurring pattern in Italian airport arrivals halls generally. Name-board collection inside the terminal, with the driver never approaching the principal first, removes the need to engage with that environment at all."
+  - question: "Does Bologna's ZTL restricted traffic zone affect airport drop-offs at hotels?"
+    answer: "Yes, for hotels inside the historic centre such as Grand Hotel Majestic gia Baglioni, which sits within the ZTL. Drivers hold current knowledge of authorised access points and coordinate with the hotel in advance. Hotels in Santo Stefano or San Vitale, outside the densest ZTL area, generally allow a more direct approach."
+  - question: "Which hospital would a driver use in a medical emergency during transfer?"
+    answer: "IRCCS Policlinico di Sant'Orsola on Via Massarenti is Bologna's principal trauma hospital and the default routing point. Italy's unified emergency number 112 connects to ambulance dispatch (Emergenza Sanitaria, also reachable on 118) and all other emergency services."
+---
+
+Getting the airport transfer right in Bologna matters more than its short distance suggests. BLQ sits only 6km from the historic centre, but that proximity is exactly why the arrivals hall sees the volume of pickpocketing and unlicensed-operator approaches that FCDO Italy guidance flags for Italian airports generally: high footfall, tight geography, and travellers who haven't yet adjusted to their surroundings. A name-board collection inside the terminal, where the driver waits for the principal rather than the reverse, closes that gap before it opens. Wider context on the city's risk profile is available on the [Bologna city page](/cities/bologna/).
+
+The route itself is short and, on its own, low-risk; the vehicle-crime pattern documented for this part of Italy concerns motorway service stations well out on the A1 and A14 corridors, not the local BLQ approach. What actually changes the picture is the calendar. During BolognaFiere weeks, whether it's EIMA, Cersaie, or the Motor Show filling the halls, the roads around the venue and the airport approach both see real congestion, and a transfer planned without that in mind will run late. Clients travelling for one of these events should also see [event security in Bologna](/event-security/bologna/), which covers the venue side of the same visit.
+
+Drop-off inside the historic centre brings its own local wrinkle: the ZTL restricted traffic zone, camera-enforced and unforgiving of an unauthorised entry. Drivers coordinate hotel access in advance rather than find out about a closure at the kerb. For principals whose visit extends beyond the transfer into a personal protection detail, our [close protection officers in Bologna](/close-protection-officers/bologna/) team can pick up coverage directly from the vehicle with no gap in continuity between arrival and the rest of the itinerary.
