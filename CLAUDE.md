@@ -49,6 +49,40 @@ The homepage `index.html` locations grid used `data-wow-delay="{{ printf \"%.1fs
 
 ---
 
+## 🧭 CANONICAL BUILD CONSTANTS & RULES (single source of truth — 05 Jul 2026)
+
+> Everything below is authoritative. The build routine and every generated page must obey it and must never contradict it. Added after the July SEO/design/technical audits (see `docs/seo-upgrade-log.md`).
+
+### Canonical facts (never contradict; use these exact figures)
+- **Coverage claim:** "270+ cities" and "35+ countries". Do NOT write "15 cities", "90+ cities", "40 countries", or invent a different figure anywhere (content, meta, llms.txt, schema). The homepage stat counters are 35 / 270 / 5 / 24.
+- **Service categories:** 5 (bodyguard hire, executive protection, security drivers, event security, residential security). Security-plan turnaround: 24 hours.
+- **Contact email:** `info@closeprotectionhire.com` (also the FormSubmit endpoint). Never reintroduce a personal `@outlook.com` address.
+- **Canonical host:** `https://closeprotectionhire.com/` — non-www, HTTPS. Enforced by `site/static/.htaccess`. All internal links are root-relative (`/section/slug/`).
+- **Lead form:** posts to FormSubmit (email) AND to the same-origin CRM proxy `/api/lead.php` (`site/static/api/lead.php`), which holds the CRM key server-side. NEVER put an API key in client JS. The honeypot field is `_honey`.
+
+### Canonical SEO rules (every page)
+- **`seo_title`** front-matter field is REQUIRED on every city/service/country page, ≤ 70 chars, unique. The template renders it (it no longer hard-codes titles). If the H1 needs to be longer, that is fine; `seo_title` governs the `<title>`.
+- **`description`** 120–175 chars, unique, primary keyword in it.
+- **FAQ floor:** city pages ≥ 4, blog posts ≥ 5. Provided via the `faqs:` front-matter array (also feeds FAQPage schema).
+- **Internal links:** ≥ 2 per page, descriptive anchor text (never "click here"), root-relative, and **existence-checked** — only link to a page you have confirmed exists in `site/content/` (the sub-batch 20 dead-link incident). City pages should link to their sibling service pages and country hub.
+- **Primary keyword** appears in title, H1, first paragraph, and one FAQ question.
+
+### Schema requirements (templates emit these; content must feed them)
+- One canonical `Organization` (@id `https://closeprotectionhire.com/#organization`) in `baseof.html`; homepage adds a `WebSite`. Do not add a second Organization.
+- City/service/country templates emit `Service` + `BreadcrumbList`, and `FAQPage` when `faqs:` present, all via `jsonify` (safe against quotes). Blog emits `Article` with author. Content authors must supply `description`, `faqs`, and (cities) `city`/`country` for schema to populate.
+
+### Banned vocabulary (single source of truth = `scripts/qa_audit.py`)
+House + AI-tell **words** (zero tolerance in new content): delve, tapestry, vibrant, crucial, meticulous, embark, robust, seamless, groundbreaking, leverage, synergy, transformative, paramount, multifaceted, myriad, cornerstone, reimagine, empower, catalyst, invaluable, bustling, nestled, realm, furthermore, moreover, paradigm, holistic, utilize, facilitate, nuanced, illuminate, encompasses, catalyze, proactive, ubiquitous, quintessential, plethora. Also **comprehensive**, **additionally**, **elevate**, **unlock**, **underscore**, **foster** are banned for NEW content (kept out of the blocking gate only because legacy pages still use them — see backlog; do not add them to new pages).
+Banned **phrases:** in today's digital age, it is worth noting, it is important to note, plays a crucial role, plays a vital role, serves as a testament, a testament to, in the realm of, harness the power of, embark on a journey, without further ado, ever-changing landscape, ever-evolving, in this day and age, in today's fast-paced world, when it comes to, navigate the complexities, at the end of the day, rest assured, look no further, dive into, cutting-edge, game-changer, in conclusion, whether you are a.
+
+### YMYL safety-guarantee patterns (auto-fail; security vertical)
+Never assert: "guarantee safety/protection", "100% safe", "completely/absolutely safe", "ensure(s) safety", "risk-free", "eliminate(s) (all) risk", "will keep you safe", "will protect you from", "foolproof", "bulletproof security". Use "reduce risk", "trained professionals", "appropriate baseline". A negated disclaimer ("no arrangement removes risk entirely") is allowed and preferred.
+
+### Style
+British English (travelling, behaviour, organisation, kerb). **No em dashes** anywhere (content or layout string values). Named, dated sources for every factual claim (FCDO, US State Dept / OSAC, ACLED, national licensing bodies). City/service pages carry NO author byline; blog posts carry James Calloway or Marcus Webb.
+
+---
+
 ## Site Overview
 **CloseProtectionHire.com** — a UK-English, programmatic SEO lead-generation site for security services (bodyguard hire, executive protection, security drivers, event security, residential security) across 90+ cities globally. Audience: corporate travellers, executives, event organisers, HNWIs. Goal: capture enquiries via organic search. This is a **YMYL** site — Google holds it to higher E-E-A-T standards.
 

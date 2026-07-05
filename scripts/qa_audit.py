@@ -52,7 +52,7 @@ BANNED_WORDS = {
     "reimagine", "empower", "catalyst", "invaluable", "bustling", "nestled", "realm",
     "furthermore", "moreover", "paradigm", "holistic", "utilize", "facilitate",
     "nuanced", "illuminate", "encompasses", "catalyze", "proactive",
-    "ubiquitous", "quintessential",
+    "ubiquitous", "quintessential", "plethora",
 }
 
 # YMYL safety-guarantee patterns specific to the security industry
@@ -74,14 +74,29 @@ SAFETY_GUARANTEE_PATTERNS = [
 BANNED_PHRASES = [
     "in today's digital age",
     "it is worth noting",
+    "it is important to note",
     "plays a crucial role",
+    "plays a vital role",
     "serves as a testament",
+    "a testament to",
     "in the realm of",
     "harness the power of",
     "embark on a journey",
     "without further ado",
     "ever-changing landscape",
+    "ever-evolving",
     "in this day and age",
+    "in today's fast-paced world",
+    "when it comes to",
+    "navigate the complexities",
+    "at the end of the day",
+    "rest assured",
+    "look no further",
+    "dive into",
+    "cutting-edge",
+    "game-changer",
+    "in conclusion",
+    "whether you are a",
 ]
 
 # Required YAML front-matter fields (varies by silo, checked per-page)
