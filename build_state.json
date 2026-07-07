@@ -125,43 +125,43 @@
         "remaining": "RS/ES/CPO/SAT still to cover 10 batch28 cities"
       },
       "residential-security": {
-        "status": "BATCH36-DONE",
-        "date": "2026-06-28",
-        "pages": 268,
-        "covered": "all 268 live cities (batch27 added in batch36)",
-        "remaining": "10 batch28 cities not yet covered"
+        "status": "BATCH38-DONE",
+        "date": "2026-07-07",
+        "pages": 278,
+        "covered": "all 278 pre-batch29 live cities (batch28 gap closed in batch38)",
+        "remaining": "10 batch29 cities not yet covered"
       },
       "event-security": {
-        "status": "BATCH36-DONE",
-        "date": "2026-06-28",
-        "pages": 268,
-        "covered": "all 268 live cities (batch27 added in batch36)",
-        "remaining": "10 batch28 cities not yet covered"
+        "status": "BATCH38-DONE",
+        "date": "2026-07-07",
+        "pages": 278,
+        "covered": "all 278 pre-batch29 live cities (batch28 gap closed in batch38)",
+        "remaining": "10 batch29 cities not yet covered"
       },
       "close-protection-officers": {
-        "status": "BATCH36-DONE",
-        "date": "2026-06-28",
-        "pages": 268,
-        "covered": "all 268 live cities (batch27 added in batch36)",
-        "remaining": "10 batch28 cities not yet covered"
+        "status": "BATCH38-DONE",
+        "date": "2026-07-07",
+        "pages": 278,
+        "covered": "all 278 pre-batch29 live cities (batch28 gap closed in batch38)",
+        "remaining": "10 batch29 cities not yet covered"
       },
       "secure-airport-transfers": {
-        "status": "BATCH37-DONE",
-        "date": "2026-06-28",
-        "pages": 268,
-        "covered": "all 268 original live cities (batch27 gap closed in batch37)",
-        "remaining": "10 batch28 cities not yet covered"
+        "status": "BATCH38-DONE",
+        "date": "2026-07-07",
+        "pages": 278,
+        "covered": "all 278 pre-batch29 live cities (batch28 gap closed in batch38)",
+        "remaining": "10 batch29 cities not yet covered"
       }
     },
     "expansion_order": "For each service in the services list, build that service across the next 10 live cities not yet covered for it (read cities from site/content/cities/, skip any service-city slug already on disk). Rotate which service is extended each block so the matrix fills evenly: bodyguard-hire batch, then security-drivers batch, then executive-protection, residential-security, event-security, close-protection-officers, secure-airport-transfers, then back to bodyguard-hire for the next 10 cities. One 10-page block per run.",
-    "current_coverage_note": "Batch37 (28 Jun 2026): SAT x batch27 (closes SAT gap, all 268 original cities now covered by all 7 services), city hub batch28 (10 new cities: Bologna/Genoa/Malaga/Zaragoza/Rennes/Bordeaux/Eindhoven/Utrecht/Ghent/Nantes), BH/SD/EP x batch28 (30 pages). BH/SD/EP cover 278 cities; RS/ES/CPO/SAT still at 268. Cities live: 278. Total pages: 2275.",
+    "current_coverage_note": "Batch38 (07 Jul 2026): RS/ES/CPO/SAT x batch28 cities (Bologna/Genoa/Malaga/Zaragoza/Rennes/Bordeaux/Eindhoven/Utrecht/Ghent/Nantes, 40 pages) closes the batch28 gap -- all 7 services now cover all 278 pre-batch29 cities. City expansion batch29: 10 new city pages (Palma de Mallorca, Montpellier, Lille, Strasbourg, Dusseldorf, Stuttgart, Leipzig, Bremen, Liege, Antwerp), researched live via web search. Cities live: 288. Total pages: 2425. None of the 7 services yet cover the 10 batch29 cities -- next runs should extend the matrix to them.",
     "cities_covered_bh": 278,
     "cities_covered_sd": 278,
     "cities_covered_ep": 278,
-    "cities_covered_rs": 268,
-    "cities_covered_es": 268,
-    "cities_covered_cpo": 268,
-    "cities_covered_sat": 268,
+    "cities_covered_rs": 278,
+    "cities_covered_es": 278,
+    "cities_covered_cpo": 278,
+    "cities_covered_sat": 278,
     "batch27_cities": [
       "florence",
       "turin",
@@ -273,9 +273,22 @@
   },
   "city_expansion": {
     "_goal": "Grow the city universe to 260+. Each city unlocks 7 new service-city matrix pages, so cities are high-value additions. Build the next 5-10 cities per block from the P4 city queue (next-tier business-travel and high-net-worth destinations: regional capitals, financial centres, and resource/energy hubs not yet covered).",
-    "live": 278,
-    "target": 290,
+    "live": 288,
+    "target": 300,
     "next_p4_queue": [
+      "Cordoba",
+      "Nuremberg",
+      "Hannover",
+      "Rouen",
+      "Charleroi",
+      "Namur",
+      "Wroclaw",
+      "Gdansk",
+      "Katowice",
+      "Aarhus"
+    ],
+    "_note_p4_queue": "Next 10 cities for batch30. Batch29 (Palma de Mallorca/Montpellier/Lille/Strasbourg/Dusseldorf/Stuttgart/Leipzig/Bremen/Liege/Antwerp) complete -- verify each of these 10 is still free via ls site/content/cities/ before building, since queue lists are drafted ahead of build order.",
+    "_batch29_completed": [
       "Palma de Mallorca",
       "Montpellier",
       "Lille",
@@ -287,7 +300,6 @@
       "Liege",
       "Antwerp"
     ],
-    "_note_p4_queue": "Next 10 cities for batch29. Batch28 (Bologna/Genoa/Malaga/Zaragoza/Rennes/Bordeaux/Eindhoven/Utrecht/Ghent/Nantes) complete.",
     "_batch28_completed": [
       "Bologna",
       "Genoa",

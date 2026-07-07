@@ -1,0 +1,42 @@
+---
+title: "Event Security in Zaragoza"
+description: "Event security for Feria de Zaragoza exhibitions, PLAZA logistics events and Stellantis plant visits. Licensed via Spain's SES and TIP framework."
+slug: "zaragoza"
+h1: "Event Security in Zaragoza"
+city: "Zaragoza"
+country: "Spain"
+risk_level: "low"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-07-03"
+cta_text: "Arrange event security for your Zaragoza fair or corporate visit"
+components:
+  - title: "Venue Security at Feria de Zaragoza and PLAZA"
+    description: "Feria de Zaragoza, the city's trade-exhibition complex on the eastern side of town, hosts multi-day sector exhibitions that bring exhibitor, buyer, and press credentials through a layout of several halls; our advance survey maps every hall entrance, loading area, and the fastest vehicle route between them before a single delegate arrives. PLAZA, the Plataforma Logistica de Zaragoza and one of Europe's largest logistics platforms, hosts investor and trade events in a working industrial environment rather than a conventional conference venue, which changes the access-control picture to one built around site security and controlled vehicle movements."
+  - title: "Automotive and Logistics Sector Event Security"
+    description: "The Stellantis (formerly Opel) plant at Figueruelas, around 40km northwest of the city, generates industrial-visit events for corporate and government delegations, typically combining a factory-floor tour with a briefing session. These visits sit inside an existing industrial-site security regime, so our role is to coordinate delegate movement and close protection within that framework rather than to establish an independent perimeter. PLAZA's investor and trade events carry a similar logistics-sector profile, with delegates moving between warehousing, distribution, and meeting facilities across a large site."
+  - title: "Delegate Movement and Transport Links"
+    description: "Most delegates travelling to Zaragoza arrive via the Delicias AVE high-speed rail station rather than by air, with journeys of around 80 minutes from Madrid and 90 minutes from Barcelona; platform-to-vehicle escort is standard for principals on these routes. Zaragoza Airport (ZAZ) is about 9km from the centre for the smaller share of delegates flying direct, a 15 to 20 minute transfer. The AP-2 and A-2 motorways connect the city to the Figueruelas plant and onward to Madrid and Barcelona by road, used for delegations travelling in convoy."
+  - title: "Close Protection for Keynote Speakers and VIP Delegates"
+    description: "Industrial executives, logistics-sector principals, and government figures visiting Feria de Zaragoza, PLAZA, or the Figueruelas plant typically receive a two-officer detail: one on advance and liaison, one providing close cover during site visits and public sessions. A 72-hour brief precedes arrival and is updated on the morning of the visit. Officers carry current first aid certification and hold direct contact details for Hospital Universitario Miguel Servet and the relevant Spanish emergency services."
+  - title: "Crowd Management and Perimeter Security"
+    description: "Feria de Zaragoza's exhibition halls can see substantial visitor volumes during major sector fairs, and our perimeter plan separates an outer, generally accessible zone from a credential-checked inner zone at each hall. In the Casco Historico around the Basilica del Pilar and El Tubo tapas district, where hospitality and dining events for delegates often take place, planning is lighter and focused on discreet static cover rather than crowd control, reflecting the area's role as a dining and hotel district rather than a mass-attendance venue."
+  - title: "Security Briefings and Pre-Event Intelligence"
+    description: "Every engagement in Zaragoza opens with a briefing 72 hours ahead of the first arrival, covering the FCDO travel advisory position for Spain, any relevant public order notices, and confirmed hospital and consular contacts. Emergency numbers briefed to the team: 112 general emergency, 091 Policia Nacional, 062 Guardia Civil. Hospital Universitario Miguel Servet (+34 976 765 500) is the principal medical reference for the city. Zaragoza has no separate British consulate, so the British Embassy Madrid (+34 91 714 6300) is the consular contact of record; the US Embassy Madrid (+34 91 587 2200) covers US nationals."
+faqs:
+  - question: "What licensing framework applies to event security in Zaragoza?"
+    answer: "Spain's Ley de Seguridad Privada 5/2014 governs private security nationally, including Zaragoza. Operating companies register with the Secretaria de Estado de Seguridad, and individual officers hold a Tarjeta de Identidad Profesional (TIP) from the Direccion General de la Policia. Clients booking event security should confirm both the company's SES registration and the TIP of any officer assigned to their event."
+  - question: "What are the main venues for events and conferences in Zaragoza?"
+    answer: "Feria de Zaragoza is the city's principal trade-exhibition complex, hosting multi-day sector fairs on the eastern side of the city. PLAZA, one of Europe's largest logistics platforms, hosts investor and trade events tied to the logistics sector. The Stellantis plant at Figueruelas, around 40km northwest, generates industrial-visit events for corporate and government delegations."
+  - question: "How do most delegates travel to Zaragoza, and how are transfers handled?"
+    answer: "Most delegates arrive via the Delicias AVE high-speed rail station, roughly 80 minutes from Madrid and 90 minutes from Barcelona, where we provide platform-to-vehicle escort. Zaragoza Airport (ZAZ) is about 9km from the centre for those flying direct, a 15 to 20 minute transfer. The AP-2 and A-2 motorways link the city to Madrid, Barcelona, and the Figueruelas plant for road travel."
+  - question: "What is the current threat level for events in Zaragoza?"
+    answer: "Spain carries a low overall FCDO risk rating, and Zaragoza does not present any raised concern beyond the ordinary petty-crime picture found in most Spanish cities, mainly around transit hubs and busy hospitality areas such as El Tubo. There is no city-specific terrorism designation. Security cover is scaled to the event and the visibility of attending principals rather than treated as uniformly high risk."
+  - question: "Can you provide close protection for executives visiting the Figueruelas industrial plant?"
+    answer: "Yes. Visits to the Stellantis plant at Figueruelas combine a factory-floor tour with briefing sessions and typically sit within the plant's own industrial-site security regime. Our teams coordinate delegate movement and close protection within that existing framework, handling transport between Zaragoza and the plant via the AP-2 and A-2, alongside a detail for the visit itself."
+---
+
+Zaragoza's event security work is built around trade fairs and industry rather than tourism. Feria de Zaragoza runs multi-day sector exhibitions across a multi-hall site on the city's eastern edge, PLAZA, one of Europe's largest logistics platforms, hosts investor and trade events in a working industrial setting, and the Stellantis plant at Figueruelas, some 40km northwest, draws corporate and government delegations for factory visits. None of these are conventional hotel-conference bookings, so the access-control and delegate-movement planning differs from venue to venue rather than following a single template.
+
+Licensing follows the same Spanish national framework as elsewhere in the country: Ley de Seguridad Privada 5/2014, with companies registered through the Secretaria de Estado de Seguridad and individual escoltas privados holding a Tarjeta de Identidad Profesional. Most delegates reach Zaragoza by AVE high-speed rail into Delicias station, roughly 80 minutes from Madrid or 90 from Barcelona, rather than by air, and platform-to-vehicle escort is the standard arrival protocol for principals on those routes. Zaragoza Airport (ZAZ), about 9km out, serves the smaller share flying direct.
+
+The city's own risk profile is unremarkable: Spain carries a low FCDO rating overall, and Zaragoza adds no city-specific concern beyond ordinary petty crime near transit hubs. For the wider risk context, see the [Zaragoza city page](/cities/zaragoza/). For ground transport for a delegation moving between the city, PLAZA, and Figueruelas, see [security drivers in Zaragoza](/security-drivers/zaragoza/).
