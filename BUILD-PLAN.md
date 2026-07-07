@@ -43,7 +43,7 @@
 - [x] Block 3: executive-protection x 10 priority cities
 - [x] Block 4: residential-security x 10 priority cities
 - [x] Block 5: event-security -- all 10 priority cities covered
-- [ ] **FULL MATRIX EXPANSION: see GROWTH MODE below.** Only the 10 priority cities are seeded. Extend all services across all live cities.
+- [x] **FULL MATRIX EXPANSION: see GROWTH MODE below.** Complete as of Batch38 (30 Jun 2026) -- all 7 services now cover all 278 live cities. New headroom requires city expansion (Track 2).
 
 ## Phase 3D -- P3 City Expansion Batch 3 (6 cities)
 - [x] Dakar, Tunis, Algiers, Port of Spain, Panama City, San Jose (Costa Rica)
@@ -57,7 +57,7 @@
 ## Phase 3G -- P3 City Expansion Batch 6 (5 cities)
 - [x] **Deployed 05 Jun 2026:** Naypyidaw, Bamako, Niamey, Mogadishu, Tripoli
 
-**98 city pages live. ~355 non-index content pages. 108 blog, 38 countries, 24 guides, 18 risk-assessments, 18 event-security, 5 service overview pages + 5 service x city silos (priority-10 seed only).**
+**98 city pages live. ~355 non-index content pages. 108 blog, 38 countries, 24 guides, 18 risk-assessments, 18 event-security, 5 service overview pages + 5 service x city silos (priority-10 seed only).** (Historical snapshot -- see Session Log below for current totals: 278 cities live, 2,315 total pages as of Batch38, 30 Jun 2026.)
 
 ---
 
@@ -116,6 +116,7 @@ Switched to batch builds of up to 4 blocks per run, 2 runs/day, to fit the 15-ru
 | 27 Jun 2026 | Batch35 (5 blocks) | 50 | Block 1: ES x 10 batch26 cities. Block 2: CPO x same 10. Block 3: SAT x same 10. All 7 services now cover all 258 pre-batch27 cities. Block 4: 10 new city pages batch27 (Florence/Italy, Turin/Italy, Seville/Spain, Toulouse/France, Rotterdam/Netherlands, The Hague/Netherlands, Nice/France, Verona/Italy, Bilbao/Spain, Palermo/Italy). Cities live: 268. Block 5: BH x batch27 cities. BH now covers 268 cities. QA: 0 errors across all 50 pages. Total: 2,175 pages live. |
 | 28 Jun 2026 | Batch36 (5 blocks) | 50 | Block 1: SD x 10 batch27 cities (Florence, Turin, Seville, Toulouse, Rotterdam, The Hague, Nice, Verona, Bilbao, Palermo). Block 2: EP x same 10. Block 3: RS x same 10. Block 4: ES x same 10. Block 5: CPO x same 10. BH/SD/EP/RS/ES/CPO now cover all 268 live cities. SAT still at 258 (batch27 gap: 10 pages, next run). QA: 0 errors across all 50 pages. Total: 2,225 pages live. |
 | 28 Jun 2026 | Batch37 (5 blocks) | 50 | Block 1: SAT x 10 batch27 cities -- closes SAT gap, all 268 original cities now covered by all 7 services. Block 2: City hub expansion batch28 (Bologna/Italy, Genoa/Italy, Malaga/Spain, Zaragoza/Spain, Rennes/France, Bordeaux/France, Eindhoven/Netherlands, Utrecht/Netherlands, Ghent/Belgium, Nantes/France). Cities live: 278. Block 3: BH x batch28 (10 pages). Block 4: SD x batch28 (10 pages). Block 5: EP x batch28 (10 pages). RS/ES/CPO/SAT still at 268 (batch28 gap). QA: 0 errors across 739 pages audited. Total: 2,275 pages live. |
+| 30 Jun 2026 | Batch38 (4 blocks) | 40 | Block 1: residential-security x batch28 cities (Bologna, Genoa, Malaga, Zaragoza, Rennes, Bordeaux, Eindhoven, Utrecht, Ghent, Nantes). Block 2: event-security x same 10. Block 3: close-protection-officers x same 10. Block 4: secure-airport-transfers x same 10. This closes the batch28 gap: all 7 services now cover all 278 live cities, completing the service x city matrix for the current city set. QA: 0 errors, 0 warnings across all 40 new pages (site-wide: 0 errors, 162 pre-existing advisory warnings unrelated to this batch). Total: 2,315 pages live. Next: city expansion batch29 (Palma de Mallorca, Montpellier, Lille, Strasbourg, Dusseldorf, Stuttgart, Leipzig, Bremen, Liege, Antwerp) to reopen matrix headroom. |
 
 ---
 
