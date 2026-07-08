@@ -1,0 +1,42 @@
+---
+title: "Event Security in Antwerp"
+description: "Event security for Antwerp's diamond trade fairs, Port of Antwerp-Bruges petrochemical conferences and corporate functions, under Belgium's 2017 licensing law."
+slug: "antwerp"
+h1: "Event Security in Antwerp"
+city: "Antwerp"
+country: "Belgium"
+risk_level: "low-medium"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-07-06"
+cta_text: "Speak to us about securing your Antwerp diamond or port event"
+components:
+  - title: "Venue Security at the Antwerp World Diamond Centre"
+    description: "The Antwerp World Diamond Centre runs its own access controls separately from the wider city, and any event held inside the Diamond District requires advance arrangement with the host firm before an external security team can even reach the door. Our planning treats that district as a semi-closed environment: badge and escort requirements are confirmed with the host in writing days ahead, and our officers work inside those rules rather than around them. Corporate functions tied to the diamond trade, whether a sector reception or a supplier meeting, sit inside this same framework."
+  - title: "Port and Petrochemical Sector Event Security"
+    description: "Port of Antwerp-Bruges is one of Europe's largest petrochemical clusters, and industry conferences tied to it draw operators, regulators and suppliers who often need discreet cover rather than a visible detail. Site-visit events at port-adjacent facilities carry their own access regimes, so our role is coordinating delegate movement and protection within an existing industrial security perimeter, not building a separate one. FCDO guidance on Belgium (2026) notes that organised crime connected to port cocaine trafficking overwhelmingly affects those working in the trade rather than event attendees or visiting delegations, a distinction we brief clearly to nervous principals."
+  - title: "Delegate Movement and Transport Links"
+    description: "Antwerp has its own airport (ANR) for smaller charter and regional flights, though the majority of international delegates route through Brussels Airport (BRU) and transfer by road or rail, a journey of roughly 45 minutes. Antwerpen-Centraal station, a short walk from many corporate venues, sees ordinary petty theft around its concourse, so platform-to-vehicle handovers are standard for any principal arriving by train. Vehicle routing between the Diamond District, the port area and city-centre hotels is planned in advance to avoid known congestion points."
+  - title: "Close Protection for Keynote Speakers and VIP Delegates"
+    description: "Diamond-trade principals and petrochemical-sector executives attending Antwerp events typically travel with a two-officer detail, sized up depending on the visibility of the individual and the venue. One officer manages advance liaison with venue and host-firm security, the other provides close cover for the visit itself. Briefings are refreshed the morning of arrival and cover current OCAM/CUTA guidance alongside any venue-specific access rules."
+  - title: "Crowd Management and Perimeter Security"
+    description: "Most Antwerp event venues are ticketed and credential-checked rather than open to the public, so perimeter work centres on layered access control at entrances rather than crowd control in the open street. Belgium's national threat level, set by OCAM/CUTA, has held at level 3 through early 2026, and reinforced patrols around the city's Jewish quarter are a fixture our teams factor into route planning near that area. Where an event draws external visitors, such as a diamond-sector open evening, an outer welcome zone is separated from the credential-checked inner area."
+  - title: "Security Briefings and Pre-Event Intelligence"
+    description: "Every Antwerp booking opens with a briefing that sets out the current OCAM/CUTA national threat level, any Diamond District access conditions agreed with the host firm, and confirmed emergency contacts. The numbers briefed to the team are 112 for general emergencies and 101 for police, 100 for ambulance and fire. UZA hospital (+32 3 821 30 00) is the medical reference point, the British Embassy in Brussels (+32 2 287 62 11) covers UK nationals, and the US Embassy in Brussels (+32 2 811 4000) covers US nationals, since Antwerp has no resident embassy of its own."
+faqs:
+  - question: "What licence must event security providers hold in Antwerp?"
+    answer: "Belgium's Loi du 2 octobre 2017 governs private security nationally. Firms need an agrement from the SPF Interieur, and individual officers must carry the corresponding identification badge. Firearms are tightly controlled under this framework, so event details in Antwerp are unarmed by default."
+  - question: "Do diamond-trade events in the Diamond District need special access arrangements?"
+    answer: "Yes. The Antwerp World Diamond Centre manages its own access controls independently of the city's general security posture, and any external security team needs advance arrangement with the host firm before it can operate inside the district. We confirm badge and escort requirements in writing before the event date rather than assuming standard city access applies."
+  - question: "Is the port-linked crime picture in Antwerp a concern for event attendees?"
+    answer: "FCDO guidance on Belgium (2026) is specific on this point: organised crime tied to cocaine trafficking through the port affects those working in the trade, not event delegates or visiting executives. Our briefings distinguish this clearly so principals attending a petrochemical or logistics conference understand the actual exposure rather than an inflated one."
+  - question: "How do most delegates reach Antwerp for events?"
+    answer: "Antwerp Airport (ANR) handles smaller and regional flights, but most international delegates fly into Brussels Airport (BRU) and transfer by road or rail in around 45 minutes. Antwerpen-Centraal station is a short walk from many venues, and we provide platform-to-vehicle escort there given the petty theft reported around its concourse."
+  - question: "What is Belgium's current national threat level, and does it affect Antwerp events?"
+    answer: "OCAM/CUTA, Belgium's coordination body for threat analysis, has held the national level at 3 through early 2026, with reinforced patrols noted around Antwerp's Jewish quarter. Most Antwerp event venues are credential-checked rather than open-access, which limits the practical impact, but route planning around affected areas is built into every advance survey."
+---
+
+Antwerp's event work rarely looks like a standard conference booking. Much of it runs through the diamond trade, where the World Diamond Centre operates its own access rules independently of the city around it, and through the petrochemical and logistics conferences generated by Port of Antwerp-Bruges, one of Europe's largest chemical clusters. A smaller share is ordinary corporate hospitality in the city centre. Each of these settings demands a different access plan, so no two Antwerp bookings look quite alike.
+
+Belgium's private security law, the Loi du 2 octobre 2017, applies here as everywhere else in the country: firms hold an agrement from the SPF Interieur and officers carry a personal badge, with firearms tightly restricted, so cover is unarmed. Most international delegates arrive via Brussels Airport and transfer to Antwerp by road or rail in under an hour; those coming by train through Antwerpen-Centraal receive platform-to-vehicle escort given the petty theft reported around that concourse. For the city's broader risk picture, including the Diamond District's separate access regime, see the [Antwerp city page](/cities/antwerp/).
+
+FCDO guidance on Belgium (2026) draws a clear line between port-linked organised crime, which affects those working in the trade, and the exposure faced by event attendees, which is closer to ordinary European city risk. Belgium's OCAM/CUTA national threat level has sat at 3 through early 2026, with reinforced patrols near the Jewish quarter factored into our route planning. Corporate clients running events across the Belgian-Dutch corridor often pair Antwerp with a Rotterdam leg; see [event security in Rotterdam](/event-security/rotterdam/) or, for delegations also stopping in the capital, [event security in Brussels](/event-security/brussels/) or [event security in Ghent](/event-security/ghent/).

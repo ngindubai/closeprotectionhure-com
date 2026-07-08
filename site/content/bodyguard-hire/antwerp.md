@@ -1,0 +1,44 @@
+---
+title: "Bodyguard Hire in Antwerp, Belgium"
+description: "Vetted bodyguard hire in Antwerp for diamond trade, port, and petrochemical visitors. SPF Interieur-badged CPOs cover the Diamond District and industrial sites."
+slug: "antwerp"
+h1: "Bodyguard Hire in Antwerp, Belgium"
+seo_title: "Bodyguard Hire Antwerp | Close Protection Belgium"
+service: "bodyguard-hire"
+city: "Antwerp"
+country: "Belgium"
+risk_level: "low-medium"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-07-06"
+cta_text: "Arrange close protection for your Antwerp visit"
+components:
+  - title: "Licensing Framework"
+    description: "Belgian private security operates under the Loi du 2 octobre 2017 reglementant la securite privee et particuliere. Firms must hold an agrement issued by the SPF Interieur (Federal Public Service Interior), and every individual close protection officer carries an SPF Interieur badge that clients can ask to see before a detail begins. Firearms are tightly controlled by the Belgian Ministry of Interior, and authorisation for armed private officers is rare. As a result, the overwhelming majority of Antwerp assignments, including diamond trade and port-sector work, proceed unarmed with officers trained in advance planning, route control, and de-escalation instead."
+  - title: "Threat Environment"
+    description: "FCDO travel guidance for Belgium (2026) attributes most organised criminal activity in Antwerp to cocaine trafficking through the port, a pattern that overwhelmingly affects those involved in the trade rather than corporate visitors or tourists. For the general population, the more relevant risk is petty theft and pickpocketing concentrated around Antwerpen-Centraal station, De Keyserlei, and Pelikaanstraat. Belgium's national terrorism threat level, set by OCAM/CUTA, has sat at level 3 of 4 ("serious") through early 2026, and reinforced patrols are visible around the city's Jewish quarter as a result. None of this amounts to a routine threat to visiting executives, but it does justify a proportionate advance and route brief."
+  - title: "Key Operational Areas"
+    description: "The Antwerp World Diamond Centre anchors the Diamond District, one of the most tightly access-controlled commercial zones in the city; the Antwerp Local Police maintain a dedicated diamond department, a legacy of the sector's long history of high-value security incidents, including the widely reported 2003 heist. CPOs supporting diamond trade clients coordinate directly with venue security rather than attempting independent access. The Port of Antwerp-Bruges petrochemical cluster, the largest integrated chemical cluster in Europe, generates a separate stream of executive visits requiring site-specific inductions, PPE compliance, and vehicle-staged movement between gates that can be kilometres apart."
+  - title: "Close Protection Services"
+    description: "Typical Antwerp details fall into two categories. Diamond-sector engagements involve short, high-value movements between the Diamond District, secure vaults, and hotel accommodation, where discretion and a low profile matter more than visible presence. Petrochemical and port engagements instead involve longer transfers, multi-gate site access, and coordination with in-house industrial security teams. Both categories share a requirement for confirmed collection points, briefed drivers, and contingency routing around Antwerpen-Centraal and De Keyserlei during peak footfall."
+  - title: "Airport and Transit Cover"
+    description: "Antwerp Airport (ANR) sits close to the city centre and handles a limited number of routes; many executives instead fly into Brussels Airport (BRU), roughly 45km southeast, and complete the journey by road or rail. CPO teams meet principals inside the terminal at either airport, confirm baggage and customs clearance, and run a briefed transfer rather than a walk-up taxi. Antwerpen-Centraal station, itself an architectural landmark, is a common secondary arrival point for clients travelling onward from Brussels or the Netherlands and receives the same collection protocol."
+  - title: "Communications and Contingency"
+    description: "Every detail runs on Belgium's emergency baseline: 112 for general emergencies, 101 for police, and 100 for ambulance and fire. UZA (Universitair Ziekenhuis Antwerpen) is the reference hospital, reachable at +32 3 821 30 00. Consular contact for British nationals runs through the British Embassy in Brussels (+32 2 287 62 11), and US nationals are covered by the US Embassy in Brussels (+32 2 811 4000); Antwerp itself has no dedicated embassy of either country."
+faqs:
+  - question: "What licensing applies to bodyguards in Antwerp?"
+    answer: "Antwerp bodyguards operate under Belgium's Loi du 2 octobre 2017 reglementant la securite privee et particuliere. Firms need an SPF Interieur agrement and individual officers carry an SPF Interieur-issued badge. Firearms authorisation is rarely granted for private security work, so almost all Antwerp details, whether covering diamond trade or petrochemical visits, are staffed unarmed."
+  - question: "Is the Diamond District safe for visiting buyers and jewellers?"
+    answer: "The Diamond District is one of Antwerp's most tightly controlled commercial areas, policed in part by a dedicated Antwerp Local Police diamond department. The area's history includes serious high-value crime, notably the 2003 heist, which is why access is now restricted and monitored. Trained close protection officers coordinate with venue security rather than treating the district as an open public space, which reduces exposure for visiting principals."
+  - question: "How does Belgium's national threat level affect an Antwerp detail?"
+    answer: "OCAM/CUTA, the Belgian federal threat assessment body, has held the national terrorism threat level at 3 of 4 through early 2026, with reinforced patrols around Antwerp's Jewish quarter. This level does not indicate a specific threat to corporate visitors, but it shapes route planning and briefing around areas where a visible police presence and crowd density both increase."
+  - question: "Which airport should I use for an Antwerp visit?"
+    answer: "Antwerp Airport (ANR) is closest to the city but has limited route coverage. Most international executives fly into Brussels Airport (BRU), around 45km away, and transfer by briefed road or rail. Both options receive the same in-terminal collection protocol from the CPO team."
+  - question: "What areas of Antwerp warrant extra caution?"
+    answer: "The immediate surrounds of Antwerpen-Centraal station and the Borgerhout district see more petty crime and theft than the city average, according to patterns reflected in FCDO guidance. Zurenborg and Berchem are generally quieter residential areas favoured for accommodation. None of this represents a serious threat on its own, but it informs where a detail schedules downtime versus close-protection coverage."
+---
+
+The Antwerp World Diamond Centre still processes a significant share of the world's rough and polished diamond trade, and that concentration of value is why the surrounding Diamond District remains one of the most tightly access-controlled commercial zones in Belgium, with its own dedicated Antwerp Local Police unit. A short distance away, the Port of Antwerp-Bruges forms the largest integrated petrochemical cluster in Europe, drawing a steady flow of executives, engineers, and investors whose itineraries look nothing like a diamond buyer's. Bodyguard hire in Antwerp therefore has to flex between two very different operating environments: discreet, low-profile movement through a jewellery quarter, and site-controlled, multi-gate access across an industrial waterfront that can stretch for kilometres.
+
+Belgian law channels both of those environments through the same licensing regime. The Loi du 2 octobre 2017 requires firms to hold an SPF Interieur agrement and individual officers to carry an SPF Interieur badge, and firearms authorisation for private security is rare enough that unarmed deployment is the practical default across the city. FCDO guidance on Belgium (2026) links most organised crime in Antwerp to port-based cocaine trafficking, a risk that sits almost entirely within the trade itself rather than touching corporate visitors; the more everyday concern is pickpocketing around Antwerpen-Centraal station and De Keyserlei, alongside a national terrorism threat level that OCAM/CUTA has held at 3 of 4 with reinforced patrols near the Jewish quarter.
+
+For the wider security picture across the city, see the [Antwerp city page](/cities/antwerp/). Clients coordinating protection across the Benelux corridor may also find it useful to compare arrangements on the [Brussels bodyguard hire page](/bodyguard-hire/brussels/), given how often Antwerp engagements route through the capital's airport.
