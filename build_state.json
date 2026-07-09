@@ -139,29 +139,29 @@
         "remaining": "none"
       },
       "close-protection-officers": {
-        "status": "BATCH38-DONE",
-        "date": "2026-07-07",
-        "pages": 278,
-        "covered": "all 278 pre-batch29 live cities (batch28 gap closed in batch38)",
-        "remaining": "10 batch29 cities not yet covered (next run)"
+        "status": "BATCH40-DONE",
+        "date": "2026-07-09",
+        "pages": 288,
+        "covered": "all 288 live cities (batch29 gap closed in batch40)",
+        "remaining": "none"
       },
       "secure-airport-transfers": {
-        "status": "BATCH38-DONE",
-        "date": "2026-07-07",
-        "pages": 278,
-        "covered": "all 278 pre-batch29 live cities (batch28 gap closed in batch38)",
-        "remaining": "10 batch29 cities not yet covered (next run)"
+        "status": "BATCH40-DONE",
+        "date": "2026-07-09",
+        "pages": 288,
+        "covered": "all 288 live cities (batch29 gap closed in batch40)",
+        "remaining": "none"
       }
     },
     "expansion_order": "For each service in the services list, build that service across the next 10 live cities not yet covered for it (read cities from site/content/cities/, skip any service-city slug already on disk). Rotate which service is extended each block so the matrix fills evenly: bodyguard-hire batch, then security-drivers batch, then executive-protection, residential-security, event-security, close-protection-officers, secure-airport-transfers, then back to bodyguard-hire for the next 10 cities. One 10-page block per run.",
-    "current_coverage_note": "Batch39 (08 Jul 2026): BH/SD/EP/RS/ES x batch29 cities (Antwerp/Bremen/Dusseldorf/Leipzig/Liege/Lille/Montpellier/Palma de Mallorca/Strasbourg/Stuttgart, 50 pages) closes the batch29 gap for 5 of 7 services -- BH/SD/EP/RS/ES now cover all 288 live cities. CPO/SAT still to cover the 10 batch29 cities (20 pages, next run). Cities live: 288. Total pages: 2475.",
+    "current_coverage_note": "Batch40 (09 Jul 2026): CPO/SAT x batch29 cities (Antwerp/Bremen/Dusseldorf/Leipzig/Liege/Lille/Montpellier/Palma de Mallorca/Strasbourg/Stuttgart, 20 pages), drawn from the real, previously-researched facts already on each city's page and its batch39 BH/SD siblings (no fresh web research needed). Closes the batch29 gap for the final 2 of 7 services -- ALL 7 services (BH/SD/EP/RS/ES/CPO/SAT) now cover all 288 live cities. The 7-service x 288-city matrix is complete: 2016 service-city deep pages. City expansion (batch30: Cordoba/Nuremberg/Hannover/Rouen/Charleroi/Namur/Wroclaw/Gdansk/Katowice/Aarhus) and blog batch9 were not attempted this run -- both require fresh sourced research (new-city licensing/threat/FCDO data, or blog-specific regulatory sourcing) that this run's time budget did not allow doing to full quality; shipping 20 fully gated pages rather than a larger batch with weaker sourcing. Cities live: 288. Total pages: 2495.",
     "cities_covered_bh": 288,
     "cities_covered_sd": 288,
     "cities_covered_ep": 288,
     "cities_covered_rs": 288,
     "cities_covered_es": 288,
-    "cities_covered_cpo": 278,
-    "cities_covered_sat": 278,
+    "cities_covered_cpo": 288,
+    "cities_covered_sat": 288,
     "batch29_cities": [
       "antwerp",
       "bremen",
@@ -517,19 +517,19 @@
     "4. blog: when the next matrix/city/country block is already committed, build the next 5-article blog batch from the keyword matrix (non-cannibalising angles)."
   ],
   "pages": {
-    "total_live": 2475,
-    "_count_note": "2425 prior + 50 new (batch39: BH/SD/EP/RS/ES x batch29 cities [50]). BH/SD/EP/RS/ES cover all 288 cities; CPO/SAT cover 278.",
-    "last_updated": "2026-07-08"
+    "total_live": 2495,
+    "_count_note": "2475 prior + 20 new (batch40: CPO/SAT x batch29 cities [20]). All 7 services now cover all 288 cities -- the service x city matrix is complete.",
+    "last_updated": "2026-07-09"
   },
   "engine_alignment": {
-    "1_combinatorial_generators": "DONE",
+    "1_combinatorial_generators": "DONE. 7-service x 288-city matrix complete (batch40).",
     "2_structured_data_layer": "DONE",
     "3_bulk_blog_factory": "IN PROGRESS - 108 articles live, target 600",
     "4_internal_link_graph": "DONE (floor). Re-run scripts/rebuild_link_graph.py after each matrix batch so new service-city pages are linked from their city and service-silo parents.",
-    "5_qa_seo_quality_gate": "GREEN. 0 errors across all 50 batch39 pages (0 warnings on the new files; pre-existing advisory warnings elsewhere in the tree untouched).",
+    "5_qa_seo_quality_gate": "GREEN. 0 errors across all 20 batch40 pages (0 warnings on the new files; pre-existing advisory warnings elsewhere in the tree untouched).",
     "6_incremental_deploy_pipeline": "DONE",
     "7_operating_system": "DONE"
   },
   "cannibalisation_rule": "Do not blog on topics already covered by service x city deep pages. The deep pages ARE the definitive content for {service}/{city}. Blog covers angles the deep pages do not.",
-  "next_stage": "BATCH39 COMPLETE (08 Jul 2026): BH/SD/EP/RS/ES x batch29 cities (Antwerp/Bremen/Dusseldorf/Leipzig/Liege/Lille/Montpellier/Palma de Mallorca/Strasbourg/Stuttgart = 50 pages) closes the batch29 gap for 5 of 7 services. Cities live: 288. Total: 2475 pages. Next: CPO/SAT x batch29 cities (20 pages, completes the 7-service matrix for all 288 cities) + city expansion batch30 (next_p4_queue: Cordoba, Nuremberg, Hannover, Rouen, Charleroi, Namur, Wroclaw, Gdansk, Katowice, Aarhus) + blog batch9."
+  "next_stage": "BATCH40 COMPLETE (09 Jul 2026): CPO/SAT x batch29 cities (Antwerp/Bremen/Dusseldorf/Leipzig/Liege/Lille/Montpellier/Palma de Mallorca/Strasbourg/Stuttgart = 20 pages) closes the batch29 gap for the final 2 of 7 services. All 7 services (BH/SD/EP/RS/ES/CPO/SAT) now cover all 288 live cities -- the full service x city matrix (2016 pages) is complete. Cities live: 288. Total: 2495 pages. Next: city expansion batch30 (next_p4_queue: Cordoba, Nuremberg, Hannover, Rouen, Charleroi, Namur, Wroclaw, Gdansk, Katowice, Aarhus -- needs fresh sourced research per city before build) + blog batch9 (is-lagos-safe-for-business-travel, close-protection-female-executives-middle-east, private-security-regulations-brazil, security-driver-nairobi-vs-taxi, executive-protection-bogota) + country hub expansion (Spain/Belgium/Poland/Denmark all have live cities but no country hub yet -- worth prioritising in the next country_expansion block)."
 }
