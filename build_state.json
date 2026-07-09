@@ -507,8 +507,10 @@
   },
   "country_expansion": {
     "_goal": "Grow country hubs from 38 to ~120 so every city has a parent country hub and the site captures country-level close-protection queries. Build the next 5 country hubs per block for any country that has live cities but no hub yet.",
-    "live": 38,
-    "target": 120
+    "live": 43,
+    "target": 120,
+    "_batch41_completed": ["Spain", "Belgium", "Poland", "Netherlands", "Denmark"],
+    "_note_batch41": "09 Jul 2026: closed the gap for the 5 countries with the most uncovered live cities (Spain 10, Netherlands 5, Belgium 4, Poland 2, Denmark 1 -- 22 cities newly given a parent hub). Remaining gap countries (live cities, no hub) still to build: Italy (rome, milan, naples, florence, turin, verona, bologna, genoa, palermo -- 9 cities), Portugal (lisbon, porto -- 2), Czech Republic (prague), Hungary (budapest), Romania (bucharest), Greece (athens, thessaloniki), Finland (helsinki), Sweden (stockholm), Norway (oslo), Ireland (dublin), and others accumulated across P3/P4 city batches. Italy is the next highest-value block (9 cities)."
   },
   "build_order": [
     "1. service_city_matrix: default every run. Extend the next service across its next 10 uncovered cities. This is the priority growth track.",
@@ -517,19 +519,19 @@
     "4. blog: when the next matrix/city/country block is already committed, build the next 5-article blog batch from the keyword matrix (non-cannibalising angles)."
   ],
   "pages": {
-    "total_live": 2495,
-    "_count_note": "2475 prior + 20 new (batch40: CPO/SAT x batch29 cities [20]). All 7 services now cover all 288 cities -- the service x city matrix is complete.",
+    "total_live": 2500,
+    "_count_note": "2495 prior + 5 new (batch41: Spain/Belgium/Poland/Netherlands/Denmark country hubs). All 7 services now cover all 288 cities -- the service x city matrix is complete. Country hubs now at 43.",
     "last_updated": "2026-07-09"
   },
   "engine_alignment": {
     "1_combinatorial_generators": "DONE. 7-service x 288-city matrix complete (batch40).",
     "2_structured_data_layer": "DONE",
     "3_bulk_blog_factory": "IN PROGRESS - 108 articles live, target 600",
-    "4_internal_link_graph": "DONE (floor). Re-run scripts/rebuild_link_graph.py after each matrix batch so new service-city pages are linked from their city and service-silo parents.",
-    "5_qa_seo_quality_gate": "GREEN. 0 errors across all 20 batch40 pages (0 warnings on the new files; pre-existing advisory warnings elsewhere in the tree untouched).",
+    "4_internal_link_graph": "DONE (floor). Re-run scripts/rebuild_link_graph.py after each matrix batch so new service-city pages are linked from their city and service-silo parents. New country hubs (batch41) link out to their city and service-silo parents but have not yet had inbound links added from those city pages back to the hub -- fold into the next link-graph rebuild pass.",
+    "5_qa_seo_quality_gate": "GREEN. 0 errors, 0 warnings across all 5 batch41 country hub pages (2500 pages audited site-wide, 0 errors, 172 pre-existing advisory warnings untouched).",
     "6_incremental_deploy_pipeline": "DONE",
     "7_operating_system": "DONE"
   },
   "cannibalisation_rule": "Do not blog on topics already covered by service x city deep pages. The deep pages ARE the definitive content for {service}/{city}. Blog covers angles the deep pages do not.",
-  "next_stage": "BATCH40 COMPLETE (09 Jul 2026): CPO/SAT x batch29 cities (Antwerp/Bremen/Dusseldorf/Leipzig/Liege/Lille/Montpellier/Palma de Mallorca/Strasbourg/Stuttgart = 20 pages) closes the batch29 gap for the final 2 of 7 services. All 7 services (BH/SD/EP/RS/ES/CPO/SAT) now cover all 288 live cities -- the full service x city matrix (2016 pages) is complete. Cities live: 288. Total: 2495 pages. Next: city expansion batch30 (next_p4_queue: Cordoba, Nuremberg, Hannover, Rouen, Charleroi, Namur, Wroclaw, Gdansk, Katowice, Aarhus -- needs fresh sourced research per city before build) + blog batch9 (is-lagos-safe-for-business-travel, close-protection-female-executives-middle-east, private-security-regulations-brazil, security-driver-nairobi-vs-taxi, executive-protection-bogota) + country hub expansion (Spain/Belgium/Poland/Denmark all have live cities but no country hub yet -- worth prioritising in the next country_expansion block)."
+  "next_stage": "BATCH41 COMPLETE (09 Jul 2026): with the 7-service x 288-city matrix already complete (batch40), moved to build_order step 3 (country_expansion): built country hubs for Spain, Belgium, Poland, Netherlands, Denmark (5 pages), each with a full regulations block, cities array linking every live city in that country, FAQs, and existence-checked internal links. Country hubs live: 43 (was 38). Total: 2500 pages. Next: country_expansion continues with Italy (9 uncovered cities: rome, milan, naples, florence, turin, verona, bologna, genoa, palermo -- highest-value remaining block), then Portugal/Czech Republic/Hungary/Romania/Greece/Nordics/Ireland. Then: city expansion batch30 (next_p4_queue: Cordoba, Nuremberg, Hannover, Rouen, Charleroi, Namur, Wroclaw, Gdansk, Katowice, Aarhus -- needs fresh sourced research per city before build) + blog batch9 (is-lagos-safe-for-business-travel, close-protection-female-executives-middle-east, private-security-regulations-brazil, security-driver-nairobi-vs-taxi, executive-protection-bogota)."
 }
