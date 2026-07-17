@@ -1,10 +1,13 @@
 ---
 title: "Philippines"
-description: "Security services in the Philippines. Close protection, event security, and risk assessments for Manila from vetted, PNP-licensed operators."
+seo_title: "Security Services in the Philippines | Close Protection Hire"
+description: "Security services in the Philippines. Close protection, event security, and risk assessments for Manila and Cebu from vetted, PNP SOSIA-licensed operators."
 slug: "philippines"
 h1: "Security Services in the Philippines"
 risk_level: "high"
 hero_image: "hero.jpg"
+reviewed_by: "Marcus Webb, Security Operations Adviser"
+last_reviewed: "2026-07-17"
 regulations:
   firearms: "Licensed security agencies can be authorised for armed security. The Philippines has a large armed security industry, with many operators ex-PNP or AFP (Armed Forces Philippines). Regulation under Philippine National Police framework."
   licensing: "Private Security Agency Act governs the industry. PNP-SOSIA (Security and Safety Industry Association) oversees licensing. Companies must be PNP-licensed. Individual operatives hold PNP-issued licenses."
@@ -14,6 +17,10 @@ cities:
     slug: "manila"
     risk_level: "high"
     summary: "Capital and primary business hub. Terrorism from Abu Sayyaf/IS-Philippines, armed hold-ups, zone risk between BGC/Makati and higher-risk areas. Strict drug laws apply."
+  - name: "Cebu"
+    slug: "cebu"
+    risk_level: "moderate"
+    summary: "The Philippines' second business centre, built around the Cebu IT Park and Ayala Business Park corridors. A meaningfully calmer environment than Metro Manila, with close protection typically arranged for higher-profile visits rather than as a routine default."
 faqs:
   - question: "Is BGC (Bonifacio Global City) actually safe in Manila?"
     answer: "BGC has significantly better security infrastructure than central Manila or port areas. It is a planned business district with private security, CCTV, and better lighting. Relative to Tondo or parts of Pasay, BGC is a different operating environment. It is still within Metro Manila and absolute security cannot be assumed. Staying within BGC for business and evening movements is a sound risk reduction decision."
@@ -39,4 +46,4 @@ Abu Sayyaf and IS-Philippines affiliates have conducted attacks including kidnap
 
 The Philippines has one of the more permissive firearms licensing environments in the region, which directly shapes the security industry. Many professional operators are PNP or AFP alumni with weapons experience. Armed security is available and legally structured. For corporate visitors, the appropriate level of security response depends on the specific profile, activity, and travel pattern being assessed.
 
-Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across Philippines. For a detailed local assessment, see our [Manila city briefing](/cities/manila/).
+Our vetted operators provide [close protection and executive protection](/services/executive-protection/) and [security driver services](/services/security-drivers/) across the Philippines, including Cebu's calmer corporate corridors around Cebu IT Park and Ayala Business Park. For a detailed local assessment, see our [Manila city briefing](/cities/manila/) or the [Cebu city briefing](/cities/cebu/).
