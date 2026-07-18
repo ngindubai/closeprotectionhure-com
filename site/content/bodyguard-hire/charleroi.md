@@ -1,0 +1,46 @@
+---
+title: "Bodyguard Hire in Charleroi, Belgium"
+description: "Close protection for Charleroi's Brussels South airport gateway and Gosselies aerospace hub. SPF Interieur-badged CPOs with CPO qualification under Belgian law."
+slug: "charleroi"
+h1: "Bodyguard Hire in Charleroi, Belgium"
+seo_title: "Bodyguard Hire Charleroi | Close Protection Belgium"
+service: "bodyguard-hire"
+city: "Charleroi"
+country: "Belgium"
+risk_level: "medium"
+hero_image: "Close-Protection-2560.webp"
+date: "2026-07-15"
+cta_text: "Arrange a close protection detail for Charleroi"
+components:
+  - title: "Licensing Framework"
+    description: "Belgian private security operates under the Act of 2 October 2017 regulating private and special security. Firms need agrement from FPS Interior (SPF Interieur), and individual operatives carry a Ministry-issued ID badge. Close protection work specifically requires the separate CPO qualification recognised under the same law, distinct from the general security agent card. Armed private security needs a specific ministerial permit under the Weapons Act of 8 June 2006, not granted as standard practice, so unarmed protection paired with Belgian Federal Police coordination is the operating model. Foreign providers need Belgian licensing directly, or must work through a Belgian-licensed partner."
+  - title: "Threat Environment"
+    description: "Charleroi is a former coal and steel industrial basin, and its reputation as one of Belgium's higher-crime cities reflects that history alongside elevated regional unemployment: Wallonia's ILO unemployment rate stood at 7.8 percent in 2025 against a Belgian national rate of 6.2 percent, per Statbel. Local zone-level reporting citing Belgian Federal Police figures found vehicle theft, theft-from-vehicles and residential burglary broadly stable across the Charleroi police zone through 2022 and 2023, with the reporting's own conclusion that the city was neither notably worse nor better than prior years. Belgium's OCAM/CUTA threat coordination unit held the national terrorism threat level at 3 of 4 through early 2026, citing heightened risk connected to regional Middle East escalations, with reinforced patrols confirmed at several national locations; FCDO guidance for Belgium reflects this and advises avoiding all demonstrations."
+  - title: "Key Operational Areas"
+    description: "Brussels South Charleroi Airport, 7km north of the centre, is Ryanair's continental base and Belgium's second-busiest airport, handling a record 10.5 million passengers in 2024, which brings routine congestion around the terminal and access roads at peak periods rather than any security concern in itself. The Gosselies district tells a different story: Sonaca, a major aerospace-structures employer, sits alongside the A6K digital-innovation and training hub, built with European Recovery and Resilience Plan funding and set to grow from around 1,000 to 10,000 learners a year from autumn 2026, representing genuine economic redevelopment away from the city's coal and steel past. The city centre, postal code 6000, accounts for a significant share of vehicle-related theft recorded across the wider police zone according to Federal Police-sourced reporting."
+  - title: "Close Protection Services"
+    description: "Airport-adjacent details built around Brussels South Charleroi handle the standard mix of terminal collection and briefed transfer, with allowance for peak-period congestion given the airport's 10.5 million annual passengers. Gosselies visits, whether to Sonaca or the A6K hub, run more like a standard corporate site visit, with formal access protocols. In the city centre itself, standard vigilance around parked vehicles and personal property in busier commercial streets is the practical baseline, reflecting the Federal Police data on vehicle-related theft in that postcode rather than any specific incident."
+  - title: "Airport and Transit Cover"
+    description: "Brussels South Charleroi Airport (BSCA) is the primary gateway, 7km north of the city centre, and handled a record 10.5 million passengers in 2024. CPO teams meet principals inside the terminal and account for peak-period congestion around the access roads, particularly during Ryanair's busier scheduling windows, before running a briefed transfer into the city or onward to Gosselies."
+  - title: "Communications and Contingency"
+    description: "Belgium's emergency numbers apply here: 112 general, 101 police (Police Federale), and 100 for ambulance and fire. Grand Hopital de Charleroi (GHdC) is reachable at +32 71 10 90 11. Charleroi has no dedicated British embassy; the British Embassy in Brussels, +32 2 287 62 11, is the consular point of contact."
+faqs:
+  - question: "What licence do bodyguards need to work in Charleroi?"
+    answer: "Belgian close protection operates under the Act of 2 October 2017 regulating private and special security. Firms need FPS Interior (SPF Interieur) agrement, and individual officers need the specific CPO qualification recognised under the same law, on top of the general security agent card. Armed work requires a rarely granted ministerial permit under the Weapons Act of 8 June 2006, so protection in Charleroi runs unarmed as standard."
+  - question: "Is Charleroi more dangerous than other Belgian cities?"
+    answer: "Charleroi carries a reputation as one of Belgium's higher-crime cities, tied to its history as a coal and steel industrial basin and Wallonia's elevated regional unemployment rate of 7.8 percent in 2025 against a national 6.2 percent, per Statbel. Local reporting citing Federal Police figures found crime broadly stable through 2022 and 2023, neither notably worse nor better than prior years, which argues for standard vigilance rather than any exceptional response."
+  - question: "How busy is Brussels South Charleroi Airport?"
+    answer: "It handled a record 10.5 million passengers in 2024, making it Belgium's second-busiest airport and Ryanair's continental base. That volume brings routine terminal and access-road congestion at peak periods, which a CPO team plans around when scheduling a collection or transfer."
+  - question: "What is happening in Charleroi's Gosselies district?"
+    answer: "Gosselies is home to Sonaca, a major aerospace-structures employer, alongside the A6K digital-innovation and training hub, built with European Recovery and Resilience Plan funding and expected to grow from around 1,000 to 10,000 learners a year from autumn 2026. It represents active economic redevelopment away from Charleroi's coal and steel past and carries a different, more formally access-controlled security profile from the wider city."
+  - question: "Are there specific areas of Charleroi to be cautious in?"
+    answer: "Federal Police-sourced reporting identifies the city centre, postal code 6000, as accounting for a significant share of vehicle-related theft recorded across the wider police zone. Standard vigilance around parked vehicles and personal property in busier commercial streets is the practical response, rather than avoiding the area outright."
+---
+
+Brussels South Charleroi Airport handled a record 10.5 million passengers in 2024, making it Belgium's second-busiest airport and Ryanair's continental base, just 7km north of the city centre. That's the entry point for most Charleroi visits, and it sets the tone for a lot of the close protection work here: airport-adjacent transfers, terminal collection, and route planning around the congestion that volume of traffic naturally brings.
+
+Charleroi's reputation as one of Belgium's higher-crime cities is real but needs context. It traces back to the city's history as a coal and steel industrial basin, and Wallonia's regional unemployment rate of 7.8 percent in 2025, against a national rate of 6.2 percent per Statbel, hasn't helped that image. Local reporting citing Belgian Federal Police figures actually found crime broadly stable through 2022 and 2023, neither worse nor better than prior years. The city centre, postcode 6000, does account for a significant share of vehicle-related theft across the wider police zone, which is a straightforward, practical thing to plan around rather than a reason for alarm.
+
+There's a genuine growth story too, in Gosselies: Sonaca's aerospace-structures work sits alongside the newer A6K digital-innovation hub, funded through the European Recovery and Resilience Plan and set to scale from around 1,000 to 10,000 learners a year from autumn 2026. Belgium's national terrorism threat level, set by OCAM/CUTA, has held at 3 of 4 through early 2026, tied to regional Middle East escalations rather than anything Charleroi-specific, and licensing runs through the same Act of 2 October 2017 and CPO qualification used across Belgium, with armed deployment rare under the Weapons Act of 8 June 2006.
+
+For the fuller city risk profile, see the [Charleroi city page](/cities/charleroi/). Visitors routing through the capital either side of a Charleroi trip can compare coverage on the [Brussels bodyguard hire page](/bodyguard-hire/brussels/) and the [Antwerp bodyguard hire page](/bodyguard-hire/antwerp/). For a standalone airport-transfer or site-visit driver without a full protection detail, our [security drivers](/services/security-drivers/) service covers the same ground.

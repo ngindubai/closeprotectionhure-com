@@ -104,64 +104,76 @@
     ],
     "blocks": {
       "bodyguard-hire": {
-        "status": "BATCH39-DONE",
-        "date": "2026-07-08",
-        "pages": 288,
-        "covered": "all 288 live cities (batch29 gap closed in batch39)",
+        "status": "BATCH49-DONE",
+        "date": "2026-07-18",
+        "pages": 298,
+        "covered": "all 298 live cities (batch47 gap closed in batch49)",
         "remaining": "none"
       },
       "security-drivers": {
-        "status": "BATCH39-DONE",
-        "date": "2026-07-08",
-        "pages": 288,
-        "covered": "all 288 live cities (batch29 gap closed in batch39)",
+        "status": "BATCH49-DONE",
+        "date": "2026-07-18",
+        "pages": 298,
+        "covered": "all 298 live cities (batch47 gap closed in batch49)",
         "remaining": "none"
       },
       "executive-protection": {
-        "status": "BATCH39-DONE",
-        "date": "2026-07-08",
-        "pages": 288,
-        "covered": "all 288 live cities (batch29 gap closed in batch39)",
+        "status": "BATCH49-DONE",
+        "date": "2026-07-18",
+        "pages": 298,
+        "covered": "all 298 live cities (batch47 gap closed in batch49)",
         "remaining": "none"
       },
       "residential-security": {
-        "status": "BATCH39-DONE",
-        "date": "2026-07-08",
-        "pages": 288,
-        "covered": "all 288 live cities (batch29 gap closed in batch39)",
+        "status": "BATCH49-DONE",
+        "date": "2026-07-18",
+        "pages": 298,
+        "covered": "all 298 live cities (batch47 gap closed in batch49)",
         "remaining": "none"
       },
       "event-security": {
-        "status": "BATCH39-DONE",
-        "date": "2026-07-08",
-        "pages": 288,
-        "covered": "all 288 live cities (batch29 gap closed in batch39)",
+        "status": "BATCH49-DONE",
+        "date": "2026-07-18",
+        "pages": 298,
+        "covered": "all 298 live cities (batch47 gap closed in batch49)",
         "remaining": "none"
       },
       "close-protection-officers": {
         "status": "BATCH40-DONE",
         "date": "2026-07-09",
         "pages": 288,
-        "covered": "all 288 live cities (batch29 gap closed in batch40)",
-        "remaining": "none"
+        "covered": "288 of 298 live cities",
+        "remaining": "batch47 cities: cordoba, nuremberg, hannover, rouen, charleroi, namur, wroclaw, gdansk, katowice, aarhus (10 pages)"
       },
       "secure-airport-transfers": {
         "status": "BATCH40-DONE",
         "date": "2026-07-09",
         "pages": 288,
-        "covered": "all 288 live cities (batch29 gap closed in batch40)",
-        "remaining": "none"
+        "covered": "288 of 298 live cities",
+        "remaining": "batch47 cities: cordoba, nuremberg, hannover, rouen, charleroi, namur, wroclaw, gdansk, katowice, aarhus (10 pages)"
       }
     },
     "expansion_order": "For each service in the services list, build that service across the next 10 live cities not yet covered for it (read cities from site/content/cities/, skip any service-city slug already on disk). Rotate which service is extended each block so the matrix fills evenly: bodyguard-hire batch, then security-drivers batch, then executive-protection, residential-security, event-security, close-protection-officers, secure-airport-transfers, then back to bodyguard-hire for the next 10 cities. One 10-page block per run.",
-    "current_coverage_note": "Batch40 (09 Jul 2026): CPO/SAT x batch29 cities (Antwerp/Bremen/Dusseldorf/Leipzig/Liege/Lille/Montpellier/Palma de Mallorca/Strasbourg/Stuttgart, 20 pages), drawn from the real, previously-researched facts already on each city's page and its batch39 BH/SD siblings (no fresh web research needed). Closes the batch29 gap for the final 2 of 7 services -- ALL 7 services (BH/SD/EP/RS/ES/CPO/SAT) now cover all 288 live cities. The 7-service x 288-city matrix is complete: 2016 service-city deep pages. City expansion (batch30: Cordoba/Nuremberg/Hannover/Rouen/Charleroi/Namur/Wroclaw/Gdansk/Katowice/Aarhus) and blog batch9 were not attempted this run -- both require fresh sourced research (new-city licensing/threat/FCDO data, or blog-specific regulatory sourcing) that this run's time budget did not allow doing to full quality; shipping 20 fully gated pages rather than a larger batch with weaker sourcing. Cities live: 288. Total pages: 2495.",
-    "cities_covered_bh": 288,
-    "cities_covered_sd": 288,
-    "cities_covered_ep": 288,
-    "cities_covered_rs": 288,
-    "cities_covered_es": 288,
+    "current_coverage_note": "Batch49 (18 Jul 2026): bodyguard-hire/security-drivers/executive-protection/residential-security/event-security x batch47 cities (Cordoba/Nuremberg/Hannover/Rouen/Charleroi/Namur/Wroclaw/Gdansk/Katowice/Aarhus, 50 pages), drawn from the real, previously-researched facts already on each city's page (no fresh web research needed). 5 of 7 services now cover all 298 live cities. close-protection-officers and secure-airport-transfers still need the same 10 cities (20 pages) to close the matrix fully -- next matrix run. Cities live: 298. Total pages: 2586.",
+    "cities_covered_bh": 298,
+    "cities_covered_sd": 298,
+    "cities_covered_ep": 298,
+    "cities_covered_rs": 298,
+    "cities_covered_es": 298,
     "cities_covered_cpo": 288,
     "cities_covered_sat": 288,
+    "batch47_cities": [
+      "cordoba",
+      "nuremberg",
+      "hannover",
+      "rouen",
+      "charleroi",
+      "namur",
+      "wroclaw",
+      "gdansk",
+      "katowice",
+      "aarhus"
+    ],
     "batch29_cities": [
       "antwerp",
       "bremen",
@@ -532,19 +544,19 @@
     "4. blog: when the next matrix/city/country block is already committed, build the next 5-article blog batch from the keyword matrix (non-cannibalising angles)."
   ],
   "pages": {
-    "total_live": 2536,
-    "_count_note": "2521 prior + 10 new city pages (batch47: Cordoba/Nuremberg/Hannover/Rouen/Charleroi/Namur/Wroclaw/Gdansk/Katowice/Aarhus) + 5 new country hub pages (batch48: Bangladesh/Cameroon/Malaysia/Sri Lanka/Jordan). Six existing country hubs (Spain, Germany, France, Belgium, Poland, Denmark) were edited in place to add the new cities and, for Germany and France, to fix significant pre-existing staleness in their cities arrays -- none counted as new pages. Cities live: 298. Country hubs now at 69. None of the 10 batch47 cities are yet in the service x city matrix (70-page gap for the next matrix run).",
+    "total_live": 2586,
+    "_count_note": "2536 prior + 50 new service-city matrix pages (batch49: bodyguard-hire/security-drivers/executive-protection/residential-security/event-security x the 10 batch47 cities -- Cordoba/Nuremberg/Hannover/Rouen/Charleroi/Namur/Wroclaw/Gdansk/Katowice/Aarhus). Cities live: 298 (unchanged). Country hubs: 69 (unchanged). close-protection-officers and secure-airport-transfers still need the same 10 cities (20 pages) to close the matrix fully -- next matrix run.",
     "last_updated": "2026-07-18"
   },
   "engine_alignment": {
-    "1_combinatorial_generators": "DONE for the original 288-city matrix (batch40). The 10 cities added in batch47 are NOT yet in the matrix -- 70 service-city pages (7 services x 10 cities) are the next combinatorial gap.",
+    "1_combinatorial_generators": "5 of 7 services (BH/SD/EP/RS/ES) now cover the full 298-city matrix as of batch49. close-protection-officers and secure-airport-transfers still need the 10 batch47 cities -- 20 service-city pages are the next combinatorial gap.",
     "2_structured_data_layer": "DONE",
     "3_bulk_blog_factory": "IN PROGRESS - 108 articles live, target 600",
-    "4_internal_link_graph": "DONE (floor). Re-run scripts/rebuild_link_graph.py after each matrix batch so new service-city pages are linked from their city and service-silo parents. Country hubs (batch41-48) link out to their city and service-silo parents but have not yet had inbound links added from those city pages back to the hub -- fold into the next link-graph rebuild pass.",
-    "5_qa_seo_quality_gate": "GREEN. 0 errors, 0 warnings on the batch47/48 pages and the 6 existing-hub edits (2536 pages audited site-wide, 0 errors, 172 pre-existing advisory warnings untouched; hugo --gc --minify: 2572 pages built, 0 errors, 0 warnings).",
+    "4_internal_link_graph": "DONE (floor). scripts/rebuild_link_graph.py re-run after batch49 (diagnostic only, no blocking issues; event-security silo count now 298, confirming the 10 new pages registered). Country hubs (batch41-48) link out to their city and service-silo parents but have not yet had inbound links added from those city pages back to the hub -- fold into the next link-graph rebuild pass.",
+    "5_qa_seo_quality_gate": "GREEN. 0 errors, 0 warnings on the 50 batch49 pages (2586 pages audited site-wide, 0 errors, 172 pre-existing advisory warnings untouched, none introduced by batch49; check_titles.py: 0 long/missing/duplicate; check_descriptions.py: 0 new out-of-range descriptions, the 6 flagged are pre-existing). Hugo is not installed in this execution environment so a build sanity check could not be run this session.",
     "6_incremental_deploy_pipeline": "DONE",
     "7_operating_system": "DONE"
   },
   "cannibalisation_rule": "Do not blog on topics already covered by service x city deep pages. The deep pages ARE the definitive content for {service}/{city}. Blog covers angles the deep pages do not.",
-  "next_stage": "BATCH47-48 COMPLETE (18 Jul 2026): built city_expansion batch30 (Cordoba/Spain, Nuremberg/Germany, Hannover/Germany, Rouen/France, Charleroi/Belgium, Namur/Belgium, Wroclaw/Poland, Gdansk/Poland, Katowice/Poland, Aarhus/Denmark -- 10 new city pages, cities live 298 of target 300) and country_expansion batch48 (Bangladesh, Cameroon, Malaysia, Sri Lanka, Jordan -- 5 new country hubs covering 6 cities, country hubs live 69). Also corrected significant staleness found in the Germany and France country hubs (cities arrays were missing most of their live sibling cities) and updated Spain/Belgium/Poland/Denmark hubs for the day's new cities, as a same-run correction not counted as new pages. QA: 0 errors, 0 warnings (2536 pages audited; hugo --gc --minify: 2572 pages built, 0 errors). Next: (1) city_expansion is 2 cities short of its 300 target -- decide whether to raise the target or draft 2 final cities, then build; (2) the 10 batch47 cities need service x city matrix coverage, 70 pages (7 services x 10 cities), the next combinatorial_generators gap; (3) country_expansion continues -- dozens of single-city gap countries remain (Malta/valletta, Cuba/havana, Uzbekistan/tashkent, Georgia/tbilisi, Oman/muscat among others), next block should group by relevance since size no longer differentiates; (4) blog batch9 (is-lagos-safe-for-business-travel, close-protection-female-executives-middle-east, private-security-regulations-brazil, security-driver-nairobi-vs-taxi, executive-protection-bogota) still queued and not yet attempted across several runs."
+  "next_stage": "BATCH49 COMPLETE (18 Jul 2026): built service_city_matrix batch49, extending 5 of 7 services (bodyguard-hire, security-drivers, executive-protection, residential-security, event-security) across the 10 batch47 cities (Cordoba/Spain, Nuremberg/Germany, Hannover/Germany, Rouen/France, Charleroi/Belgium, Namur/Belgium, Wroclaw/Poland, Gdansk/Poland, Katowice/Poland, Aarhus/Denmark) -- 50 new service-city pages, drawn from the real sourced facts already on each city's page rather than fresh web research. QA: 0 errors, 0 warnings (2586 pages audited; check_titles.py and check_descriptions.py both clean against this batch). Next: (1) close-protection-officers and secure-airport-transfers still need the same 10 cities (20 pages) to close the matrix fully -- the immediate next matrix block; (2) city_expansion is 2 cities short of its 300 target -- decide whether to raise the target or draft 2 final cities; (3) country_expansion continues -- dozens of single-city gap countries remain (Malta/valletta, Cuba/havana, Uzbekistan/tashkent, Georgia/tbilisi, Oman/muscat among others), next block should group by relevance since size no longer differentiates; (4) blog batch9 (is-lagos-safe-for-business-travel, close-protection-female-executives-middle-east, private-security-regulations-brazil, security-driver-nairobi-vs-taxi, executive-protection-bogota) still queued and not yet attempted across several runs."
 }
