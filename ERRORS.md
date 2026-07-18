@@ -45,6 +45,12 @@
 **Cause:** Pre-tracker authoring. They are real, sourced articles; just not part of the numbered batch system.
 **Action:** Leave them in place. They count toward live page totals but not toward batch indexing. Worth folding into Stage 2L QA audit to confirm they pass the same gate as numbered batches.
 
+## 2026-07-18 — Several existing city pages use `detail:` instead of `answer:` in faqs, silently breaking the FAQ accordion
+**Symptom:** `site/layouts/partials/faq-accordion.html` renders `{{ $faq.answer | markdownify }}` inside each accordion body. Any city page whose `faqs:` array uses `detail:` instead of `answer:` for the answer text will render an empty accordion body and an empty FAQPage `text` property, even though the question renders fine.
+**Cause:** At least five city pages built on 2026-07-03 (`antwerp.md`, `bremen.md`, `dusseldorf.md`, `leipzig.md`, `stuttgart.md`) use `detail:` under each faqs entry instead of `answer:`. Found while reading these files as reference templates for the Germany/Belgium country-hub updates in batch48 (18 Jul 2026); not fixed in that run since it was out of scope for a city_expansion/country_expansion batch and CLAUDE.md's "edit only what is asked" rule applies.
+**Fix (not yet applied):** In each affected file, rename `detail:` to `answer:` under every `faqs:` entry. A quick way to find every instance sitewide: `grep -rl "^\s*detail:" site/content/cities/*.md | xargs grep -B1 "^\s*detail:" | grep -B1 detail | grep -A1 question` (or simpler: search for `faqs:` blocks followed by `- question:` / `detail:` pairs rather than `- question:` / `answer:` pairs).
+**Prevention:** When authoring or reviewing new city pages, confirm faqs entries use `question`/`answer` keys (matching `faq-accordion.html`), not `question`/`detail`. Worth a dedicated small QA batch to fix the known affected files and grep the rest of `site/content/cities/` for the same mistake before the next FAQ-schema-focused audit.
+
 ## 2026-06-01 — GSC canonical tag conflicts from old surge.sh deployment
 **Symptom:** 168 pages showing "Alternate page with proper canonical tag" in Google Search Console. Screenshots showed user-declared canonical = `https://closeprotectionhire.surge.sh/blog/...`
 **Cause:** The old Surge.sh site (closeprotectionhire.surge.sh) remained live after migration to Hostinger. It had 131+ blog posts and 9 guides that were not migrated. Google found both the surge.sh version (with surge.sh canonical) and the new site's equivalent pages, treating the surge.sh version as the authoritative canonical.

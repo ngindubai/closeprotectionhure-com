@@ -18,6 +18,18 @@ cities:
     slug: "krakow"
     risk_level: "low"
     summary: "Poland's second city and a major business-travel and tourism destination. A calmer security profile than Warsaw, with demand concentrated around corporate visits and event security rather than any state-level threat backdrop."
+  - name: "Wroclaw"
+    slug: "wroclaw"
+    risk_level: "low"
+    summary: "Poland's leading business-services and BPO hub outside Krakow, hosting 234 modern business-service centres including Google, HP, Nokia, and UBS operations, per a May 2025 KPMG Poland report."
+  - name: "Gdansk"
+    slug: "gdansk"
+    risk_level: "low"
+    summary: "The Baltic seaport city where the Solidarity movement began in 1980. A calm, low-risk destination with a genuine institutional and diplomatic visitor profile around the European Solidarity Centre."
+  - name: "Katowice"
+    slug: "katowice"
+    risk_level: "low"
+    summary: "Historic capital of Upper Silesia's coal-mining region, now in active transition toward financial services and IT, anchored by the Katowice Special Economic Zone and the COP24-hosting International Congress Centre."
 faqs:
   - question: "Why does Poland carry a medium country rating when its cities are rated low?"
     answer: "Poland's low city-level ratings reflect genuinely low street crime and a stable domestic security environment. The medium country rating reflects a different factor: Poland's position as NATO's principal logistics hub for Ukraine support and the documented hybrid-threat and espionage activity that comes with it, which is a strategic-level consideration rather than a street-crime one."
@@ -31,7 +43,7 @@ faqs:
     answer: "The Poland-Belarus border has seen an engineered migration crisis and periodic incidents involving Belarusian forces, and it carries access restrictions as a result. This is a genuinely separate operational picture from Warsaw or Krakow city travel and only affects itineraries that specifically involve the border zone."
 ---
 
-Poland's corporate security market splits along an unusual line for a European country: genuinely low street-level crime in both Warsaw and Krakow, sitting alongside a strategic security picture shaped by Poland's role as NATO's main logistics corridor into Ukraine.
+Poland's corporate security market splits along an unusual line for a European country: genuinely low street-level crime in Warsaw, Krakow, Wroclaw, Gdansk, and Katowice alike, sitting alongside a strategic security picture shaped by Poland's role as NATO's main logistics corridor into Ukraine. The network's coverage now spans Poland's main business-services hub (Wroclaw), its historic Baltic port and Solidarity-movement birthplace (Gdansk), and its Upper Silesian financial and former coal-industry capital (Katowice), alongside the Warsaw and Krakow coverage already established.
 
 ## The Act of 22 August 1997: still the governing statute
 
@@ -49,4 +61,4 @@ The Poland-Belarus border adds a second, geographically separate consideration: 
 
 Source: ABW public statements on counter-intelligence operations (2025). Act of 22 August 1997 on the Protection of Persons and Property (Dziennik Ustaw, consolidated text). FCDO Travel Advice: Poland (2026).
 
-Licensed operators across Poland provide [bodyguard hire](/services/bodyguard-hire/) and [executive protection](/services/executive-protection/) for corporate, defence-sector and NATO-adjacent principals. See our [Warsaw close protection guide](/cities/warsaw/) for the full threat and regulatory briefing.
+Licensed operators across Poland provide [bodyguard hire](/services/bodyguard-hire/) and [executive protection](/services/executive-protection/) for corporate, defence-sector and NATO-adjacent principals. See our [Warsaw close protection guide](/cities/warsaw/) for the full threat and regulatory briefing, or our [Wroclaw](/cities/wroclaw/), [Gdansk](/cities/gdansk/), and [Katowice](/cities/katowice/) city briefings for regional detail.

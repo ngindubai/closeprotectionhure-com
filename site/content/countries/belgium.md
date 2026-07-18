@@ -26,6 +26,14 @@ cities:
     slug: "ghent"
     risk_level: "low"
     summary: "A port, steel and pharmaceutical centre with a comparatively calm security environment, serving Brussels-airport transfer routes and seasonal demand around the Gentse Feesten."
+  - name: "Charleroi"
+    slug: "charleroi"
+    risk_level: "medium"
+    summary: "A post-industrial city in active economic redevelopment around aerospace (Sonaca) and the A6K digital hub, home to Brussels South Charleroi Airport, Belgium's second-busiest by passenger volume."
+  - name: "Namur"
+    slug: "namur"
+    risk_level: "low"
+    summary: "Wallonia's official political capital, seat of the Parliament and Government of Wallonia, with a calmer security profile than Charleroi or Liege."
 faqs:
   - question: "Why is Brussels rated differently from the rest of Belgium?"
     answer: "Brussels hosts the EU institutions and NATO headquarters, which keeps it under a persistently higher situational threat level than the rest of the country. OCAM, Belgium's threat coordination unit, sets a national baseline but applies elevated levels around EU buildings and major transport hubs, a posture that has held since the 2016 Zaventem and Maalbeek bombings."
@@ -53,8 +61,8 @@ Belgium's Weapons Act of 8 June 2006 puts armed private security behind a specif
 
 ## Brussels versus the rest of the country
 
-OCAM, Belgium's federal threat coordination body, sets a national threat level but layers higher situational levels onto EU institutions and major transport hubs in Brussels specifically. That posture dates to the March 2016 Zaventem airport and Maalbeek metro bombings, which killed 32 people and remain the reference point for Belgian counter-terrorism planning. Away from that institutional core, Antwerp's risk is driven more by its status as a major port and diamond-trade centre than by any comparable terrorism concern, and Liege and Ghent sit lower again.
+OCAM, Belgium's federal threat coordination body, sets a national threat level but layers higher situational levels onto EU institutions and major transport hubs in Brussels specifically. That posture dates to the March 2016 Zaventem airport and Maalbeek metro bombings, which killed 32 people and remain the reference point for Belgian counter-terrorism planning. Away from that institutional core, Antwerp's risk is driven more by its status as a major port and diamond-trade centre than by any comparable terrorism concern, and Liege and Ghent sit lower again. Charleroi, Wallonia's other significant urban centre, carries a distinct post-industrial risk profile shaped by economic decline rather than any national security factor, though its ongoing redevelopment around aerospace and digital-sector investment, and its role hosting Brussels South Charleroi Airport, Belgium's second-busiest, is changing that picture. Namur, the region's official political capital since 1986, sits apart from both patterns as a genuinely calmer administrative and university city.
 
 Source: Belgian Federal Police annual report (2025). OCAM national threat level assessments (2025). Act of 2 October 2017 regulating private and special security (Moniteur belge).
 
-Vetted, FPS Interior-licensed operators across Belgium provide [executive protection](/services/executive-protection/) and [event security](/services/event-security/) for EU institutional, corporate and diplomatic clients. See our [Brussels security briefing](/cities/brussels/) or the [Antwerp close protection guide](/cities/antwerp/) for city-specific detail.
+Vetted, FPS Interior-licensed operators across Belgium provide [executive protection](/services/executive-protection/) and [event security](/services/event-security/) for EU institutional, corporate and diplomatic clients. See our [Brussels security briefing](/cities/brussels/), the [Antwerp close protection guide](/cities/antwerp/), or our [Charleroi](/cities/charleroi/) and [Namur](/cities/namur/) city briefings for Wallonia-specific detail.

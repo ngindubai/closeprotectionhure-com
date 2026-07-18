@@ -50,6 +50,10 @@ cities:
     slug: "tenerife"
     risk_level: "low"
     summary: "A second Canary Islands base covering the super-yacht and resort economy, with security demand concentrated around the southern resort corridor and Tenerife South airport."
+  - name: "Cordoba"
+    slug: "cordoba"
+    risk_level: "low"
+    summary: "An Andalusian cultural and agricultural centre with a rail-first transport model, given its negligible airport, and a distinctive planning factor in AEMET-recorded record summer heat rather than crime."
 faqs:
   - question: "Do close protection officers in Spain need a specific qualification beyond a standard security licence?"
     answer: "Yes. A standard Habilitacion de Vigilante de Seguridad covers general private security work, but close protection is a separate, additional qualification: Escolta Privado. Anyone providing bodyguard services in Spain without it is operating illegally, regardless of general security experience."
