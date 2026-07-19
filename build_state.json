@@ -139,18 +139,18 @@
         "remaining": "none"
       },
       "close-protection-officers": {
-        "status": "BATCH40-DONE",
-        "date": "2026-07-09",
-        "pages": 288,
-        "covered": "288 of 298 live cities",
-        "remaining": "batch47 cities: cordoba, nuremberg, hannover, rouen, charleroi, namur, wroclaw, gdansk, katowice, aarhus (10 pages)"
+        "status": "BATCH50-DONE",
+        "date": "2026-07-19",
+        "pages": 298,
+        "covered": "all 298 live cities (batch47 gap closed in batch50)",
+        "remaining": "none"
       },
       "secure-airport-transfers": {
-        "status": "BATCH40-DONE",
-        "date": "2026-07-09",
-        "pages": 288,
-        "covered": "288 of 298 live cities",
-        "remaining": "batch47 cities: cordoba, nuremberg, hannover, rouen, charleroi, namur, wroclaw, gdansk, katowice, aarhus (10 pages)"
+        "status": "BATCH50-DONE",
+        "date": "2026-07-19",
+        "pages": 298,
+        "covered": "all 298 live cities (batch47 gap closed in batch50)",
+        "remaining": "none"
       }
     },
     "expansion_order": "For each service in the services list, build that service across the next 10 live cities not yet covered for it (read cities from site/content/cities/, skip any service-city slug already on disk). Rotate which service is extended each block so the matrix fills evenly: bodyguard-hire batch, then security-drivers batch, then executive-protection, residential-security, event-security, close-protection-officers, secure-airport-transfers, then back to bodyguard-hire for the next 10 cities. One 10-page block per run.",
@@ -160,8 +160,8 @@
     "cities_covered_ep": 298,
     "cities_covered_rs": 298,
     "cities_covered_es": 298,
-    "cities_covered_cpo": 288,
-    "cities_covered_sat": 288,
+    "cities_covered_cpo": 298,
+    "cities_covered_sat": 298,
     "batch47_cities": [
       "cordoba",
       "nuremberg",
@@ -544,19 +544,19 @@
     "4. blog: when the next matrix/city/country block is already committed, build the next 5-article blog batch from the keyword matrix (non-cannibalising angles)."
   ],
   "pages": {
-    "total_live": 2586,
-    "_count_note": "2536 prior + 50 new service-city matrix pages (batch49: bodyguard-hire/security-drivers/executive-protection/residential-security/event-security x the 10 batch47 cities -- Cordoba/Nuremberg/Hannover/Rouen/Charleroi/Namur/Wroclaw/Gdansk/Katowice/Aarhus). Cities live: 298 (unchanged). Country hubs: 69 (unchanged). close-protection-officers and secure-airport-transfers still need the same 10 cities (20 pages) to close the matrix fully -- next matrix run.",
-    "last_updated": "2026-07-18"
+    "total_live": 2606,
+    "_count_note": "2586 prior + 20 new service-city matrix pages (batch50: close-protection-officers/secure-airport-transfers x the 10 batch47 cities -- Cordoba/Nuremberg/Hannover/Rouen/Charleroi/Namur/Wroclaw/Gdansk/Katowice/Aarhus). This closes the full 7-service x 298-city matrix. Cities live: 298 (unchanged). Country hubs: 69 (unchanged).",
+    "last_updated": "2026-07-19"
   },
   "engine_alignment": {
-    "1_combinatorial_generators": "5 of 7 services (BH/SD/EP/RS/ES) now cover the full 298-city matrix as of batch49. close-protection-officers and secure-airport-transfers still need the 10 batch47 cities -- 20 service-city pages are the next combinatorial gap.",
+    "1_combinatorial_generators": "COMPLETE as of batch50: all 7 services (bodyguard-hire, security-drivers, executive-protection, residential-security, event-security, close-protection-officers, secure-airport-transfers) now cover the full 298-city matrix, 2,086 service-city deep pages. Next growth lever is city_expansion (grow the city count, which then feeds a fresh matrix gap) or a raised per-service target.",
     "2_structured_data_layer": "DONE",
     "3_bulk_blog_factory": "IN PROGRESS - 108 articles live, target 600",
-    "4_internal_link_graph": "DONE (floor). scripts/rebuild_link_graph.py re-run after batch49 (diagnostic only, no blocking issues; event-security silo count now 298, confirming the 10 new pages registered). Country hubs (batch41-48) link out to their city and service-silo parents but have not yet had inbound links added from those city pages back to the hub -- fold into the next link-graph rebuild pass.",
-    "5_qa_seo_quality_gate": "GREEN. 0 errors, 0 warnings on the 50 batch49 pages (2586 pages audited site-wide, 0 errors, 172 pre-existing advisory warnings untouched, none introduced by batch49; check_titles.py: 0 long/missing/duplicate; check_descriptions.py: 0 new out-of-range descriptions, the 6 flagged are pre-existing). Hugo is not installed in this execution environment so a build sanity check could not be run this session.",
+    "4_internal_link_graph": "DONE (floor). Not re-run this session (scripts/rebuild_link_graph.py) -- recommend re-running after this batch to confirm close-protection-officers and secure-airport-transfers silo counts both register at 298. Country hubs (batch41-48) link out to their city and service-silo parents but have not yet had inbound links added from those city pages back to the hub -- fold into the next link-graph rebuild pass.",
+    "5_qa_seo_quality_gate": "GREEN. 0 errors, 0 new warnings on the 20 batch50 pages (2606 pages audited site-wide, 0 errors, 172 pre-existing advisory warnings untouched, none introduced by batch50; check_titles.py: 0 long/missing/duplicate; check_descriptions.py: 0 new out-of-range descriptions, the 6 flagged are pre-existing). Hugo is not installed in this execution environment so a build sanity check could not be run this session.",
     "6_incremental_deploy_pipeline": "DONE",
     "7_operating_system": "DONE"
   },
   "cannibalisation_rule": "Do not blog on topics already covered by service x city deep pages. The deep pages ARE the definitive content for {service}/{city}. Blog covers angles the deep pages do not.",
-  "next_stage": "BATCH49 COMPLETE (18 Jul 2026): built service_city_matrix batch49, extending 5 of 7 services (bodyguard-hire, security-drivers, executive-protection, residential-security, event-security) across the 10 batch47 cities (Cordoba/Spain, Nuremberg/Germany, Hannover/Germany, Rouen/France, Charleroi/Belgium, Namur/Belgium, Wroclaw/Poland, Gdansk/Poland, Katowice/Poland, Aarhus/Denmark) -- 50 new service-city pages, drawn from the real sourced facts already on each city's page rather than fresh web research. QA: 0 errors, 0 warnings (2586 pages audited; check_titles.py and check_descriptions.py both clean against this batch). Next: (1) close-protection-officers and secure-airport-transfers still need the same 10 cities (20 pages) to close the matrix fully -- the immediate next matrix block; (2) city_expansion is 2 cities short of its 300 target -- decide whether to raise the target or draft 2 final cities; (3) country_expansion continues -- dozens of single-city gap countries remain (Malta/valletta, Cuba/havana, Uzbekistan/tashkent, Georgia/tbilisi, Oman/muscat among others), next block should group by relevance since size no longer differentiates; (4) blog batch9 (is-lagos-safe-for-business-travel, close-protection-female-executives-middle-east, private-security-regulations-brazil, security-driver-nairobi-vs-taxi, executive-protection-bogota) still queued and not yet attempted across several runs."
+  "next_stage": "BATCH50 COMPLETE (19 Jul 2026): built service_city_matrix batch50, extending the two remaining services (close-protection-officers, secure-airport-transfers) across the 10 batch47 cities (Cordoba/Spain, Nuremberg/Germany, Hannover/Germany, Rouen/France, Charleroi/Belgium, Namur/Belgium, Wroclaw/Poland, Gdansk/Poland, Katowice/Poland, Aarhus/Denmark) -- 20 new service-city pages, drawn from the real sourced facts already on each city's page and its batch39/batch49 bodyguard-hire/security-drivers siblings, no fresh web research needed. This closes the full 7-service x 298-city matrix (2,086 service-city pages). QA: 0 errors, 0 new warnings (2606 pages audited; check_titles.py and check_descriptions.py both clean against this batch). NOTE (session process deviation, read before next run): this batch was built and pushed to the session's designated branch (claude/modest-cannon-zpzdvk), not directly to master, because the GitHub-integration harness for this particular session type binds commits to a per-session branch and explicitly disallows pushing elsewhere without user confirmation -- a real constraint at the platform layer, distinct from the master-only deploy rule in CLAUDE.md, which still governs where master ends up. The batch needs a merge (PR or fast-forward) into master before it goes live; it is not yet deployed. Next, once merged: (1) city_expansion is 2 cities short of its 300 target -- decide whether to raise the target or draft 2 final cities; (2) country_expansion continues -- dozens of single-city gap countries remain (Malta/valletta, Cuba/havana, Uzbekistan/tashkent, Georgia/tbilisi, Oman/muscat among others), next block should group by relevance since size no longer differentiates; (3) blog batch9 (is-lagos-safe-for-business-travel, close-protection-female-executives-middle-east, private-security-regulations-brazil, security-driver-nairobi-vs-taxi, executive-protection-bogota) still queued and not yet attempted across several runs."
 }
