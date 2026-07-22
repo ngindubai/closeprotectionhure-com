@@ -14,6 +14,10 @@ cities:
     slug: "sydney"
     risk_level: "medium"
     summary: "Australia's primary commercial city and the hub for international corporate travel. ASIO national terrorism threat PROBABLE. The April 2024 Bondi Junction stabbing (6 killed) and December 2025 Bondi Beach attack (15 killed) have materially elevated venue security and crowd management demand."
+  - name: "Canberra"
+    slug: "canberra"
+    risk_level: "low"
+    summary: "Australia's purpose-built federal capital, seat of Parliament House, the High Court and over 100 foreign missions concentrated in Yarralumla. Security licensing runs under its own ACT Security Industry Act 2003, administered by Access Canberra and separate from the NSW regime that governs the surrounding state. No history of Sydney's mass-casualty attacks; most demand is government and diplomatic-adjacent rather than corporate or retail."
 faqs:
   - question: "What happened at Bondi Beach in December 2025?"
     answer: "A mass casualty knife attack at Bondi Beach in December 2025 killed 15 people and injured dozens more. The attack occurred at a high-footfall public beach in Sydney's most prominent tourist and residential area. It significantly elevated corporate and public awareness of venue security requirements in Australia. Demand for event security and close protection services in Sydney increased measurably in the months following."

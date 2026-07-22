@@ -14,6 +14,10 @@ cities:
     slug: "johannesburg"
     risk_level: "critical"
     summary: "Africa's financial capital. Critical crime, carjacking, follow-from-airport robbery, and kidnapping. PSIRA-regulated market with extensive armed private security."
+  - name: "Pretoria"
+    slug: "pretoria"
+    risk_level: "high"
+    summary: "South Africa's administrative capital and diplomatic hub, seat of the Union Buildings and home to the continent's largest concentration of foreign embassies. SAPS data names Tshwane, Pretoria's metro, jointly with Johannesburg as a national leader in armed robbery and kidnapping, so the same PSIRA-registered, anti-hijack security standard applies."
 faqs:
   - question: "Is Cape Town safer than Johannesburg?"
     answer: "Cape Town has specific areas of very high crime (Cape Flats townships, gang territory) but the commercial and tourist areas carry lower risk than central Johannesburg. Corporate travel to the V&A Waterfront area, Camps Bay, and Century City is generally manageable with a vetted driver and basic security awareness."
