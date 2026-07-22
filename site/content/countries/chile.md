@@ -14,6 +14,10 @@ cities:
     slug: "santiago"
     risk_level: "medium"
     summary: "Chile's capital and principal commercial city. Airport taxi fraud costing victims up to GBP 10,000 per incident is documented by FCDO. Tyre puncture vehicle crime targets rental car users on major roads. Violent protests occur on predictable annual dates including 11 September, 29 March, and 1 May, and regularly on Fridays in specific protest corridors."
+  - name: "Valparaiso"
+    slug: "valparaiso"
+    risk_level: "moderate"
+    summary: "Seat of Chile's National Congress since 1990 and one of the country's principal Pacific ports, built up steep UNESCO-listed hillside cerros. FCDO documents muggings occurring in Valparaiso as well as Santiago, at times in daylight, and the city carries a genuine, historically documented seismic risk (major earthquakes in 1906 and 1985). No major airport; visitors route overland from Santiago's Arturo Merino Benitez International Airport, roughly 1.5 to 2 hours by road."
 faqs:
   - question: "How does the airport taxi fraud operate in Santiago?"
     answer: "FCDO has documented taxi fraud at Arturo Merino Benitez International Airport where victims are charged inflated fares that in some cases have reached GBP 10,000 per incident. The methodology involves the use of rigged meters or high-pressure negotiation of inflated fixed fares from individuals posing as official taxi services. Pre-arranged airport pickups with a verified operator are the only reliable counter-measure. Official taxis at the airport are available but the fraudulent operators deliberately operate in close proximity to them. If in doubt, return to the arrivals hall and contact the person meeting you."

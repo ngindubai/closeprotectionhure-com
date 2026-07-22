@@ -14,6 +14,10 @@ cities:
     slug: "bangkok"
     risk_level: "medium"
     summary: "Major business and events hub. Drug/drink spiking (FCDO-cited), road safety (WHO ranked), political instability, and tourism crime require professional management."
+  - name: "Chiang Mai"
+    slug: "chiang-mai"
+    risk_level: "low"
+    summary: "Northern Thailand's largest city and a major digital-nomad, remote-work and regional business hub. Low crime and no political-unrest history; the genuine planning factors are burning-season air quality (February-April) and Thailand's high national road-accident rate."
 faqs:
   - question: "How serious is the drink spiking problem in Bangkok?"
     answer: "FCDO specifically warns about drink spiking (GHB and other substances) in Bangkok tourist and entertainment areas. Incidents involving drugged drinks have led to sexual assault and robbery. The recommendation is not to accept drinks from strangers, not to leave drinks unattended, and to treat any unexplained illness as a medical emergency immediately."
