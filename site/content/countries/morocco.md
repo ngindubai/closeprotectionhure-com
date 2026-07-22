@@ -14,6 +14,10 @@ cities:
     slug: "casablanca"
     risk_level: "high"
     summary: "Morocco's commercial capital and primary business hub. Motorcycle drive-by theft is frequent across central districts. Methanol deaths from counterfeit alcohol sold in informal settings are documented. Moroccan authorities regularly disrupt planned terrorist attacks. DGST intelligence capability is considered one of the more effective counter-terrorism services in the Maghreb."
+  - name: "Rabat"
+    slug: "rabat"
+    risk_level: "low-moderate"
+    summary: "Morocco's administrative capital, seat of government, and the King's primary residence, hosting the country's largest diplomatic quarter in Souissi. Street-level crime is generally lower than in Casablanca; the distinct planning factor is government and embassy access around parliament, the royal palace, and foreign missions. Rabat-Sale Airport (RBA) serves the city directly, while many international visitors still route via Casablanca Mohammed V International Airport (CMN)."
 faqs:
   - question: "What was the 2018 Imlil murders case?"
     answer: "In December 2018, two Scandinavian students were murdered near the village of Imlil in the Atlas Mountains, close to Marrakech. The perpetrators, convicted and executed, had pledged allegiance to Daesh and filmed the killings. The case established that Daesh-inspired attacks on foreign tourists can occur in Morocco outside the traditional urban threat environment. It informed subsequent threat assessments for mountain trekking and rural tourism in Morocco. The Moroccan authorities responded with significantly increased security presence in the Atlas region."

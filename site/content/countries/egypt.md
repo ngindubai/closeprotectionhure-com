@@ -14,6 +14,10 @@ cities:
     slug: "cairo"
     risk_level: "high"
     summary: "Egypt's capital and primary commercial city. FCDO documented shooting in Alexandria in 2024 killed an Israeli-Canadian national. A 2023 Alexandria attack killed two Israeli tourists. Detention risk exists for social media criticism of the Egyptian government. Egypt imposes the death penalty or life imprisonment for drug offences: specific briefing is required for all travellers."
+  - name: "Alexandria"
+    slug: "alexandria"
+    risk_level: "moderate"
+    summary: "Egypt's second-largest city and principal Mediterranean port, home to six refineries and three petrochemical complexes. Calmer than Cairo day-to-day, but the site of two shootings targeting individuals with Israeli association, in May 2023 and October 2024. No operating British Consulate currently: consular support routes through the Embassy in Cairo, roughly 220km away by the desert road."
 faqs:
   - question: "What were the Alexandria shootings and what do they indicate?"
     answer: "In May 2023, a gunman at a police station checkpoint in Alexandria shot and killed two Israeli tourists and wounded four others. In October 2024, a separate shooting in Alexandria killed an Israeli-Canadian national. Both incidents occurred in a city that is not normally considered a primary terror target within Egypt. The attacks have been attributed to individuals with Islamist motivation targeting foreign nationals perceived as Israeli or Western. They indicate that Alexandria, despite its tourist economy, carries a specific attack risk for foreign nationals that differs from the broader tourism environment."

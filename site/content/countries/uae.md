@@ -14,6 +14,10 @@ cities:
     slug: "dubai"
     risk_level: "medium"
     summary: "Global business hub. Currently FCDO advises against non-essential travel due to regional tensions (April 2026). Domestic security excellent. Legal compliance essential."
+  - name: "Sharjah"
+    slug: "sharjah"
+    risk_level: "low"
+    summary: "UNESCO Cultural Capital of the Arab World and a manufacturing and logistics hub next to Dubai. The only emirate with a total alcohol ban; licensed separately from Dubai's SIRA under the Ministry of Interior's PSBD."
 faqs:
   - question: "What is the current FCDO advisory for the UAE?"
     answer: "FCDO currently advises against all but essential travel to the UAE, reflecting regional tensions as of April 2026. This is the current advisory position and should be checked against the live FCDO page before any travel decision. The advisory reflects regional factors rather than deterioration of domestic security inside the UAE."

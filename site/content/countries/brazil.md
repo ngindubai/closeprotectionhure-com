@@ -14,6 +14,10 @@ cities:
     slug: "sao-paulo"
     risk_level: "high"
     summary: "Latin America's largest city and financial capital. Critical crime including express kidnapping, armed robbery, and carjacking. Armoured vehicles standard for HNW clients."
+  - name: "Brasilia"
+    slug: "brasilia"
+    risk_level: "moderate"
+    summary: "Brazil's purpose-built federal capital and diplomatic centre. Plano Piloto crime is comparatively low, though satellite cities such as Ceilandia carry elevated after-dark risk, per OSAC."
 faqs:
   - question: "Is Rio de Janeiro or Sao Paulo more dangerous?"
     answer: "Both carry high to critical crime ratings. Rio de Janeiro has specific risks from militia-controlled areas and favela violence. Sao Paulo has higher absolute volumes of express kidnapping and armed robbery due to its size. Both require professional security management. A city-specific assessment is required for each."

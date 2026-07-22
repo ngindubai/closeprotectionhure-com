@@ -14,6 +14,10 @@ cities:
     slug: "moscow"
     risk_level: "critical"
     summary: "FCDO advises against all travel. Terrorism (IS Crocus City Hall 2024), Ukraine conflict drone attacks, detention risk for foreign nationals, and sanctions-related financial barriers."
+  - name: "Saint Petersburg"
+    slug: "saint-petersburg"
+    risk_level: "critical"
+    summary: "FCDO advises against all travel, as for Moscow. No British or US consular presence since both consulates general closed in 2018. Terrorism (2017 metro bombing), detention risk, no direct Western flights to Pulkovo, and Western bank cards do not work."
 faqs:
   - question: "Does CloseProtectionHire.com provide security services in Russia?"
     answer: "We do not deploy operators inside Russia under current conditions. The legal, financial, and operational constraints make responsible security service provision not viable. Our Russia assessment covers advance planning and threat awareness for essential travellers. We will advise directly if a specific travel plan carries risks we cannot adequately address."
