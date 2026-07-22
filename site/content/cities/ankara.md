@@ -6,7 +6,7 @@ h1: "Close Protection in Ankara, Turkey"
 seo_title: "Bodyguard Hire Ankara | Diplomatic Security Turkey"
 country: "Turkey"
 risk_level: "medium"
-hero_image: "city-ankara-hero.jpg"
+hero_image: "Close-Protection-2560.webp"
 threats:
   - type: "Terrorism"
     detail: "Ankara has experienced serious terrorist attacks. The 2016 car bombing targeting military buses killed 28 people, a second 2016 car bomb at a central bus station killed 37, and the December 2016 assassination of the Russian ambassador Andrei Karlov at an art gallery demonstrated the capital's exposure to politically motivated violence. The FCDO assesses that terrorists are very likely to try to carry out attacks in Turkey."

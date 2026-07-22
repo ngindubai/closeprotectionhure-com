@@ -6,7 +6,7 @@ h1: "Close Protection in Zurich, Switzerland"
 seo_title: "Bodyguard Hire Zurich | Close Protection Switzerland"
 country: "Switzerland"
 risk_level: "low"
-hero_image: "city-zurich-hero.jpg"
+hero_image: "Close-Protection-2560.webp"
 threats:
   - type: "Terrorism"
     detail: "Switzerland maintains a high terrorism threat rating from the FCDO. The NDB actively monitors extremist and Islamist networks domestically and in the European context. No major attacks have occurred in Zurich, but the elevated European threat environment is a planning consideration for high-profile events and principal movements."

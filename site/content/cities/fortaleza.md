@@ -82,4 +82,4 @@ SSPDS-CE statistics and national Brazilian crime data consistently identify Fort
 
 Policia Federal Portaria 387/2006 and SSPDS-CE registration govern private security in Ceara. Both sets of credentials should be verified for any security engagement.
 
-For security services in Fortaleza, see our [bodyguard hire services](/services/bodyguard-hire/) and [secure airport transfers](/services/secure-airport-transfers/).
+For security services in Fortaleza, see our [bodyguard hire services](/services/bodyguard-hire/) and [secure airport transfers](/secure-airport-transfers/).

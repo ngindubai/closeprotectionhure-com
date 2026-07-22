@@ -2,7 +2,7 @@
 title: "Istanbul Security Assessment"
 description: "Pre-travel risk assessment for Istanbul, Turkey. Multi-group terrorism threat, earthquake risk, and civil unrest analysis from FCDO sources, April 2026."
 slug: "istanbul"
-hero_image: "city-istanbul-hero.jpg"
+hero_image: "city-istanbul-hero.webp"
 parallax_image: "city-istanbul-street.jpg"
 cta_text: "Travelling to Istanbul? Get a risk assessment that covers terrorism and geophysical risk."
 city: "Istanbul"

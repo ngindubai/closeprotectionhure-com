@@ -2,7 +2,7 @@
 title: "Bogota Security Assessment"
 description: "Pre-travel risk assessment for Bogota, Colombia. Express kidnapping, scopolamine drugging, street crime, and ELN terrorism analysis from FCDO and OSAC sources."
 slug: "bogota"
-hero_image: "city-bogota-hero.jpg"
+hero_image: "city-bogota-hero.webp"
 parallax_image: "city-bogota-street.jpg"
 cta_text: "Travelling to Bogota? Request a confidential security assessment."
 city: "Bogota"

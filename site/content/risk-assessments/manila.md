@@ -2,7 +2,7 @@
 title: "Manila Security Assessment"
 description: "Pre-travel risk assessment for Manila, Philippines. Abu Sayyaf kidnapping, IS-Philippines terrorism, armed hold-ups, and BGC vs high-risk areas assessed."
 slug: "manila"
-hero_image: "city-manila-hero.jpg"
+hero_image: "city-manila-hero.webp"
 parallax_image: "city-manila-street.jpg"
 cta_text: "Travelling to Manila? Request a security assessment."
 city: "Manila"

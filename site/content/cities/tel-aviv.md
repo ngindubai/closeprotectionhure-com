@@ -5,7 +5,7 @@ slug: "tel-aviv"
 h1: "Close Protection in Tel Aviv"
 country: "Israel"
 risk_level: "critical"
-hero_image: "city-tel-aviv-hero.webp"
+hero_image: "Close-Protection-2560.webp"
 parallax_image: "city-tel-aviv-street.jpg"
 seo_title: "Bodyguard Hire Tel Aviv | Armed Close Protection Israel"
 threats:

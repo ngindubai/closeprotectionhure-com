@@ -43,6 +43,32 @@ The homepage `index.html` locations grid used `data-wow-delay="{{ printf \"%.1fs
 
 ---
 
+## ⚠ CRITICAL: LINK & IMAGE INTEGRITY — SEMRUSH 4xx / BROKEN-IMAGE INCIDENT (22 Jul 2026)
+
+**Every internal link and every `hero_image`/`og_image` value must point at something that actually exists, with the exact path and file extension. Run `scripts/check_links_images.py` before every commit; it must print `OK ... no broken internal links or images`.**
+
+### The incident this rule prevents (22 July 2026)
+A Semrush Site Audit (project `closeprotectionhire.com`, id `29594198`) returned 72 errors. Two error classes were self-inflicted and had shipped to the live site:
+
+1. **Broken internal links (23 links → 10 pages returning 4xx).** City pages linked to service URLs that do not exist, because the site has BOTH a top-level silo and a `services/` silo and the author guessed the wrong one. The wrong→right mappings were:
+   - `/services/secure-airport-transfers/` → `/secure-airport-transfers/` (top-level, not under `services/`)
+   - `/services/risk-assessments/` → `/risk-assessments/` (top-level, not under `services/`)
+   - `/bodyguard-hire/risk-assessment/` → `/risk-assessments/` (there is no page in the `bodyguard-hire/` silo; that silo holds city pages only)
+   - `/bodyguard-hire/executive-protection/` → `/services/executive-protection/`
+   - `/countries/united-arab-emirates/` → `/countries/uae/` (the country page slug is `uae`)
+2. **Broken internal images (37 image requests).** `hero_image` front-matter named files that were not in `site/static/images/`. Two sub-causes: (a) **extension mismatch** - front matter said `city-mumbai-hero.jpg` but the file is `city-mumbai-hero.webp` (also istanbul, bogota, manila); (b) **name mismatch** - `city-saopaulo-hero.jpg` vs the real `city-sao-paulo-hero.jpg`, and `city-mexicocity-hero.jpg` vs `city-mexico-city-hero.jpg`; (c) **no photo exists at all** for 11 cities (ankara, bangalore, casablanca, delhi, dhaka, geneva, kinshasa, kuala-lumpur, mombasa, tel-aviv, zurich) - those now fall back to the generic `Close-Protection-2560.webp`.
+
+### Hard rules that follow
+- **Before every commit, run `python3 scripts/check_links_images.py` from the repo root.** It builds the set of real page URLs from `site/content/` and the real files in `site/static/images/`, then flags any internal link or image value that does not resolve. A block with broken links or images does not ship. This is now part of the Engine 5 gate alongside `qa_audit.py`.
+- **Know the silo layout before you link.** The five canonical service pages live at `/services/<service>/`. `secure-airport-transfers` and `risk-assessments` are TOP-LEVEL sections (`/secure-airport-transfers/`, `/risk-assessments/`), NOT under `services/`. The silos `bodyguard-hire/`, `security-drivers/`, `executive-protection/`, `residential-security/`, `close-protection-officers/`, `secure-airport-transfers/` contain CITY pages only (`/<silo>/<city>/`), never a service-name page. Country slugs are short (`uae`, not `united-arab-emirates`) - check `site/content/countries/`.
+- **`hero_image` must name a file that exists in `site/static/images/`, exact extension included.** `.jpg` and `.webp` are not interchangeable; check the real file. If no city photo exists, use `Close-Protection-2560.webp` (the documented fallback) rather than an invented filename. The checker catches this.
+- **Do not trust a stale audit.** Semrush crawls the LIVE site on a schedule; a page dated in the future or added since the last crawl can show as 4xx even though it now exists (that is why `/cities/chiang-mai/` appeared as a false 4xx). Verify against `site/content/` and the checker before "fixing" a link that is already correct.
+
+### How to pull a fresh Semrush audit
+Use the Semrush MCP (`site_audit` toolkit): `snapshots` → latest `snapshot_id` → `info` (error/warning/notice counts) → `meta_issues` (issue-id → title map) → `issue_details` (per-issue affected URLs). Project id for this site is `29594198`. Site health was 88 at the July 2026 audit. Standing follow-ups still open after that audit (documented, not yet fixed): **unminified CSS** (`/css/style.css` + `/css/custom.css` ship un-minified because `hugo --gc --minify` does not touch `static/`; the correct fix is to route them through Hugo Pipes `resources.Get | minify | fingerprint`, which needs a local Hugo build to verify - do NOT hand-minify `style.css`, it is DO-NOT-EDIT); **crawl depth > 3 clicks** and **one-internal-link pages** (Stage 2J internal-link-graph work); **HSTS header** (optional, add to `site/static/.htaccess`).
+
+---
+
 ## 🔧 BUILD CONFIG NOTE — buildFuture (02 June 2026)
 
 `site/hugo.toml` sets `buildFuture = true`. This is load-bearing: the deploy workflow runs `hugo --gc --minify` with no `--buildFuture` flag, so without this config setting, any page whose `date` is in the future relative to the build moment (UTC) is SILENTLY excluded from output and 404s on the live site. This caused the travel-safety-guides 404 incident (15 guides dated `2026-06-02` were dropped from builds running on `2026-06-01` UTC). Do not remove `buildFuture = true`. When authoring new content, also prefer a safely-past `date` (e.g. a few days back) as belt-and-braces.
@@ -61,10 +87,10 @@ The homepage `index.html` locations grid used `data-wow-delay="{{ printf \"%.1fs
 - **Lead form:** posts to FormSubmit (email) AND to the same-origin CRM proxy `/api/lead.php` (`site/static/api/lead.php`), which holds the CRM key server-side. NEVER put an API key in client JS. The honeypot field is `_honey`.
 
 ### Canonical SEO rules (every page)
-- **`seo_title`** front-matter field is REQUIRED on every city/service/country page, ≤ 70 chars, unique. The template renders it (it no longer hard-codes titles). If the H1 needs to be longer, that is fine; `seo_title` governs the `<title>`.
+- **`seo_title`** front-matter field is REQUIRED on every city/service/country page AND every silo page (`bodyguard-hire/`, `security-drivers/`, `secure-airport-transfers/`, `close-protection-officers/`, `executive-protection/`, `residential-security/`, `guides/`), ≤ 70 chars, unique. As of 22 Jul 2026 the **default title block in `baseof.html` honours `seo_title`** (`{{ with .Params.seo_title }}{{ . }}{{ else }}{{ .Title }} | brand{{ end }}`), so silo pages that fall through to `_default/single.html`/`list.html` now use it too - previously they rendered `.Title | brand`, which overflowed to 80-95 chars and triggered 68 "title too long" warnings. If a page has no `seo_title` it falls back to `.Title | brand`; keep that fallback under 70 chars or add a `seo_title`. Two pages must never share a `<title>` (the `/event-security/` list vs `/services/event-security/` duplicate-title error) - give each a distinct `seo_title`.
 - **`description`** 120–175 chars, unique, primary keyword in it.
 - **FAQ floor:** city pages ≥ 4, blog posts ≥ 5. Provided via the `faqs:` front-matter array (also feeds FAQPage schema).
-- **Internal links:** ≥ 2 per page, descriptive anchor text (never "click here"), root-relative, and **existence-checked** — only link to a page you have confirmed exists in `site/content/` (the sub-batch 20 dead-link incident). City pages should link to their sibling service pages and country hub.
+- **Internal links:** ≥ 2 per page, descriptive anchor text (never "click here"), root-relative, and **existence-checked** — only link to a page you have confirmed exists in `site/content/` (the sub-batch 20 dead-link incident and the 22 Jul 2026 Semrush 4xx incident). City pages should link to their sibling service pages and country hub. **`scripts/check_links_images.py` is the automated enforcement — run it before every commit.**
 - **Primary keyword** appears in title, H1, first paragraph, and one FAQ question.
 
 ### Schema requirements (templates emit these; content must feed them)
@@ -158,6 +184,7 @@ Routing rules live in [AGENTS.md](AGENTS.md). Don't load all 14 souls; load the 
 |---|---|---|
 | `scripts/generate_blog_batch*.py` | 3 | Bulk blog factory tracker manifests |
 | `scripts/qa_audit.py` | 5 | QA + SEO quality gate (banned vocab, YMYL safety-guarantee patterns, em-dash, front matter, FAQ floor, internal-link floor) |
+| `scripts/check_links_images.py` | 5 | Link + image existence gate (every internal link resolves to a real page; every `hero_image`/`og_image` file exists in `static/images/`). Added after the 22 Jul 2026 Semrush 4xx / broken-image incident. Must print `OK` before commit. |
 | `scripts/check_titles.py` | 5 | Title length + uniqueness (cannibalisation detection) |
 | `scripts/check_descriptions.py` | 5 | Description length floor/ceiling |
 | `scripts/rebuild_link_graph.py` | 4 | Internal link graph diagnostic (under-linked pages, orphans, top inbound targets) |
@@ -175,7 +202,7 @@ This is the only acceptable cadence. Skipping a step is a process failure, regar
 4. **Read** `DESIGN-PLAN.md` (if a layout is involved) → confirm design tokens and components you'll reuse.
 5. **Pick a batch of up to 4 defensible blocks.** A block = one service × ten cities, or one blog batch of five, or one layout fix. Floor is 1 block, ceiling is 4 per run. Each block is small and individually defensible — pet-transport's 411 articles were built five at a time, never 411 at a time. Quality first: if you cannot do 4 cleanly, do as many as you can do well (minimum 1) and note the shortfall.
 6. **Build** each block in the batch, generating new pages from the existing Hugo templates only. Hugo's `_default/single.html` fallback covers new sections without their own layout file — use that fallback rather than inventing layouts.
-7. **Run the quality gate on every block** (mirror the audit logic inline if the scripts are not runnable in the current environment). Banned vocabulary, YMYL safety-guarantee patterns, em dashes, front matter completeness, FAQ count, internal-link count. **A block with QA failures does not ship; build the rest of the batch without it.**
+7. **Run the quality gate on every block** (mirror the audit logic inline if the scripts are not runnable in the current environment). Banned vocabulary, YMYL safety-guarantee patterns, em dashes, front matter completeness, FAQ count, internal-link count, AND **`python3 scripts/check_links_images.py` (must print `OK` - no broken internal links or images)**. **A block with QA failures does not ship; build the rest of the batch without it.**
 8. **HTML preview, await approval.** Never commit before explicit approval. "approve" / "approve batch N" / "ship it" — those are the green lights. Silence is not approval.
 9. **Update** `BUILD-PLAN.md`, `build_state.json`, and `bodyguard-cascading-build-plan.html` to reflect what was completed, ONCE for the whole batch. Add a session log entry to `BUILD-PLAN.md`.
 10. **Commit the whole batch ONCE** with a descriptive message and push to `master` (NEVER `main`). One commit, one push, one deploy per run, so concurrent deploys never clobber each other.

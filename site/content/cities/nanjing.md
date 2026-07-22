@@ -78,4 +78,4 @@ Nanjing's physical security risk for business visitors is low. The risks that re
 
 PSB-compliant vetted transport and a pre-travel business intelligence briefing are the appropriate baseline for executive movement in Nanjing.
 
-For executive security in Nanjing, see our [close protection services](/services/executive-protection/) and [secure airport transfers](/services/secure-airport-transfers/).
+For executive security in Nanjing, see our [close protection services](/services/executive-protection/) and [secure airport transfers](/secure-airport-transfers/).

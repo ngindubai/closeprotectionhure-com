@@ -6,7 +6,7 @@ h1: "Close Protection in Kinshasa, DR Congo"
 seo_title: "Bodyguard Hire Kinshasa | Close Protection DRC"
 country: "Democratic Republic of Congo"
 risk_level: "high"
-hero_image: "city-kinshasa-hero.jpg"
+hero_image: "Close-Protection-2560.webp"
 threats:
   - type: "Armed Robbery"
     detail: "Armed robbery targeting vehicles and pedestrians is a serious and frequent risk in Kinshasa. Incidents occur across the city, including in areas frequented by expatriates and international visitors. Night movement is significantly more dangerous than daytime. Traffic congestion creates vulnerability windows during ground movements."

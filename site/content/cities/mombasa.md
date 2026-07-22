@@ -6,7 +6,7 @@ h1: "Close Protection in Mombasa, Kenya"
 seo_title: "Bodyguard Hire Mombasa | Close Protection Kenya Coast"
 country: "Kenya"
 risk_level: "high"
-hero_image: "city-mombasa-hero.jpg"
+hero_image: "Close-Protection-2560.webp"
 threats:
   - type: "Terrorism"
     detail: "Mombasa and the Kenya coast carry an elevated terrorism threat from Al-Shabaab and affiliated groups. Multiple attacks have occurred in Mombasa and the surrounding coast region, including the 2014 Likoni church attacks and attacks on police posts. The FCDO advises against all travel to within 60km of the Kenya-Somali border and specifically highlights the coast region as elevated risk."

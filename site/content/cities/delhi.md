@@ -6,7 +6,7 @@ h1: "Close Protection in Delhi"
 country: "India"
 risk_level: "moderate"
 seo_title: "Bodyguard Hire Delhi | Close Protection India | [Brand]"
-hero_image: "city-delhi-hero.webp"
+hero_image: "Close-Protection-2560.webp"
 parallax_image: "city-delhi-street.jpg"
 threats:
   - type: "Terrorism"

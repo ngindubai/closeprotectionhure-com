@@ -2,7 +2,7 @@
 title: "Sao Paulo Security Assessment"
 description: "Pre-travel risk assessment for Sao Paulo, Brazil. Express kidnapping, dating app crime, armed robbery, and armoured vehicle use assessed from FCDO and OSAC data."
 slug: "sao-paulo"
-hero_image: "city-saopaulo-hero.jpg"
+hero_image: "city-sao-paulo-hero.jpg"
 parallax_image: "city-saopaulo-street.jpg"
 cta_text: "Travelling to Sao Paulo? Get an assessment before departure."
 city: "Sao Paulo"

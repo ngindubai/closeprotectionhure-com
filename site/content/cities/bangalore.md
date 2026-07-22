@@ -6,7 +6,7 @@ h1: "Close Protection in Bangalore"
 country: "India"
 risk_level: "low-moderate"
 seo_title: "Bodyguard Hire Bangalore | Close Protection Karnataka | [Brand]"
-hero_image: "city-bangalore-hero.webp"
+hero_image: "Close-Protection-2560.webp"
 parallax_image: "city-bangalore-street.jpg"
 threats:
   - type: "Terrorism (National Level)"

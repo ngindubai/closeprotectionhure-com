@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Params.brand }}{{ end }}</title>
+    <title>{{ block "title" . }}{{ with .Params.seo_title }}{{ . }}{{ else }}{{ .Title }} | {{ .Site.Params.brand }}{{ end }}{{ end }}</title>
 
     {{/* SEO meta */}}
     {{ with .Description }}<meta name="description" content="{{ . }}">{{ end }}

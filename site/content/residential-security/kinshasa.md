@@ -8,7 +8,7 @@ service: "residential-security"
 city: "Kinshasa"
 country: "Democratic Republic of Congo"
 risk_level: "high"
-hero_image: "city-kinshasa-hero.jpg"
+hero_image: "Close-Protection-2560.webp"
 date: "2026-06-08"
 cta_text: "Posted to Kinshasa for mining, NGO or corporate work? Request a Ministry-licensed compound security assessment."
 components:

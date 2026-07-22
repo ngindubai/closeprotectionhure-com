@@ -5,7 +5,7 @@ slug: "casablanca"
 h1: "Close Protection in Casablanca"
 country: "Morocco"
 risk_level: "low"
-hero_image: "city-casablanca-hero.webp"
+hero_image: "Close-Protection-2560.webp"
 parallax_image: "city-casablanca-street.jpg"
 seo_title: "Bodyguard Hire Casablanca | Close Protection Morocco"
 threats:

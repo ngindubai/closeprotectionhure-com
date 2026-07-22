@@ -84,4 +84,4 @@ Malawi does not carry the gang crime profile of Johannesburg or Nairobi, but opp
 
 Vetted transport for all in-city and inter-city movement is the baseline requirement. Airport transfers, out-of-town business visits, and movement during and after dark should all use pre-arranged, vetted security drivers.
 
-For security services in Lilongwe, see our [executive protection services](/services/executive-protection/) and [secure airport transfers](/services/secure-airport-transfers/).
+For security services in Lilongwe, see our [executive protection services](/services/executive-protection/) and [secure airport transfers](/secure-airport-transfers/).

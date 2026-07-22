@@ -1,5 +1,6 @@
 ---
 title: "Event Security"
+seo_title: "Event Security by City | Vetted Event Protection Teams"
 description: "Corporate event security in high-risk cities. Vetted operators for conferences, private functions, and multi-day summits across Africa, the Middle East, Asia, Europe, and the Americas."
 hero_image: "service-event-security-hero.jpg"
 ---

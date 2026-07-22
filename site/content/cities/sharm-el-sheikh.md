@@ -85,4 +85,4 @@ FCDO advises against all travel to most of the Sinai Peninsula and against all b
 
 Any business engagement in Sharm el-Sheikh must be treated as essential-travel-only, with resort-zone movement discipline, air travel to and from the city, and a full pre-travel security assessment.
 
-For security assessment and services in Sharm el-Sheikh, see our [risk assessment services](/services/risk-assessments/) and [executive protection services](/services/executive-protection/).
+For security assessment and services in Sharm el-Sheikh, see our [risk assessment services](/risk-assessments/) and [executive protection services](/services/executive-protection/).

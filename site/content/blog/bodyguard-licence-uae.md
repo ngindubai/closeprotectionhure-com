@@ -76,4 +76,4 @@ Before any engagement:
 3. Confirm the operator understands the no-firearms rule and operates within it
 4. Confirm the operator holds UAE residence visa documentation (not a tourist visa)
 
-For operators and further information relevant to Dubai and Abu Dhabi, see our [Dubai bodyguard hire page](/cities/dubai/) and the [UAE country hub](/countries/united-arab-emirates/).
+For operators and further information relevant to Dubai and Abu Dhabi, see our [Dubai bodyguard hire page](/cities/dubai/) and the [UAE country hub](/countries/uae/).

@@ -6,7 +6,7 @@ h1: "Close Protection in Dhaka, Bangladesh"
 seo_title: "Bodyguard Hire Dhaka | Close Protection Bangladesh"
 country: "Bangladesh"
 risk_level: "high"
-hero_image: "city-dhaka-hero.jpg"
+hero_image: "Close-Protection-2560.webp"
 threats:
   - type: "Terrorism"
     detail: "The July 2016 Holey Artisan Bakery attack in Dhaka's Gulshan district killed 22 people, including 9 Italians, 7 Japanese, and 1 American, and demonstrated that IS-affiliated groups have both intent and capability to target foreign nationals in Bangladesh. The FCDO maintains a high terrorism threat rating for Bangladesh. Security at venues frequented by foreigners in Gulshan has been significantly upgraded since 2016, but the underlying threat has not been removed."

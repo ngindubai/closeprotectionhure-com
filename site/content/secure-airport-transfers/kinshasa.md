@@ -8,7 +8,7 @@ service: "secure-airport-transfers"
 city: "Kinshasa"
 country: "Democratic Republic of Congo"
 risk_level: "high"
-hero_image: "city-kinshasa-hero.jpg"
+hero_image: "Close-Protection-2560.webp"
 date: "2026-06-08"
 cta_text: "Arriving at N'djili? Pre-arrange your Ministry of Interior-licensed Kinshasa transfer before you land."
 components:

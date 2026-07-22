@@ -6,7 +6,7 @@ h1: "Close Protection in Geneva, Switzerland"
 seo_title: "Bodyguard Hire Geneva | Diplomatic Security Switzerland"
 country: "Switzerland"
 risk_level: "low"
-hero_image: "city-geneva-hero.jpg"
+hero_image: "Close-Protection-2560.webp"
 threats:
   - type: "Terrorism"
     detail: "Switzerland maintains a high terrorism threat rating from the FCDO. The NDB (Switzerland's intelligence service) actively monitors the domestic threat, which reflects the broader European environment. Geneva's concentration of international organisations creates symbolic target potential that is actively managed by Swiss security services."

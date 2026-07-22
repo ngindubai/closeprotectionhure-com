@@ -1,5 +1,6 @@
 ---
 title: "Event Security"
+seo_title: "Event Security Services | Close Protection Hire"
 description: "Security planning and on-ground teams for corporate events, conferences, and private functions in high-risk cities, from venue assessment to VIP protection."
 slug: "event-security"
 hero_image: "service-event-security-hero.jpg"

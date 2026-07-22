@@ -6,7 +6,7 @@ h1: "Close Protection in Kuala Lumpur, Malaysia"
 seo_title: "Bodyguard Hire Kuala Lumpur | Close Protection Malaysia"
 country: "Malaysia"
 risk_level: "low"
-hero_image: "city-kuala-lumpur-hero.jpg"
+hero_image: "Close-Protection-2560.webp"
 threats:
   - type: "Terrorism"
     detail: "Malaysia faces an elevated terrorism threat, primarily from individuals linked to IS and groups operating across the southern Philippines and Indonesia. The FCDO maintains a high terrorism threat rating for Malaysia. There have been no major attacks in KL in recent years, but regional attacks in Southeast Asia and the documented presence of IS-affiliated networks in Malaysia confirm the environment remains elevated."

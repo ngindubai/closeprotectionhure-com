@@ -8,7 +8,7 @@ service: "close-protection-officers"
 city: "Kinshasa"
 country: "Democratic Republic of Congo"
 risk_level: "high"
-hero_image: "city-kinshasa-hero.jpg"
+hero_image: "Close-Protection-2560.webp"
 date: "2026-06-08"
 cta_text: "Visiting Kinshasa for mining, NGO or corporate work? Request a Ministry-licensed CPO briefing before your itinerary is confirmed."
 components:

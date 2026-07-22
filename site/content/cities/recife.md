@@ -84,4 +84,4 @@ SDS-PE crime statistics consistently place the greater Recife metropolitan area 
 
 Policia Federal Portaria 387/2006 and SDS-PE registration govern private security in Pernambuco. Both federal and state credentials should be verified for any security engagement in Recife.
 
-For security services in Recife, see our [bodyguard hire services](/services/bodyguard-hire/) and [secure airport transfers](/services/secure-airport-transfers/).
+For security services in Recife, see our [bodyguard hire services](/services/bodyguard-hire/) and [secure airport transfers](/secure-airport-transfers/).

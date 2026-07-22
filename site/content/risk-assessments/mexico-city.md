@@ -2,7 +2,7 @@
 title: "Mexico City Security Assessment"
 description: "Pre-travel risk assessment for Mexico City. Express kidnapping, cartel proximity risk, unlicensed taxi robbery, and drink spiking threats analysed from FCDO sources."
 slug: "mexico-city"
-hero_image: "city-mexicocity-hero.jpg"
+hero_image: "city-mexico-city-hero.jpg"
 parallax_image: "city-mexicocity-street.jpg"
 cta_text: "Planning travel to Mexico City? Get an assessment first."
 city: "Mexico City"

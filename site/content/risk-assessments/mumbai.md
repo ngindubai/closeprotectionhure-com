@@ -2,7 +2,7 @@
 title: "Mumbai Security Assessment"
 description: "Pre-travel risk assessment for Mumbai, India. Terrorism, road risk, sexual assault warnings, and assessment of the threat environment from FCDO and OSAC."
 slug: "mumbai"
-hero_image: "city-mumbai-hero.jpg"
+hero_image: "city-mumbai-hero.webp"
 parallax_image: "city-mumbai-street.jpg"
 cta_text: "Travelling to Mumbai? Get a current security assessment."
 city: "Mumbai"

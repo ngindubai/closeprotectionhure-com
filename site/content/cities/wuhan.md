@@ -79,4 +79,4 @@ Wuhan's risks for international business visitors are China-specific rather than
 
 PSB-compliant vetted drivers and operations controller oversight are the appropriate baseline for executive movement in Wuhan. Business intelligence briefing before any visit to the automotive or advanced manufacturing zones is a standard precaution.
 
-For executive security in Wuhan, see our [close protection officers](/services/executive-protection/) and [secure airport transfers](/services/secure-airport-transfers/).
+For executive security in Wuhan, see our [close protection officers](/services/executive-protection/) and [secure airport transfers](/secure-airport-transfers/).

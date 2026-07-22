@@ -80,4 +80,4 @@ FCDO advises against all but essential travel to the whole of Myanmar. The advis
 
 Any engagement in Mandalay under current conditions must be treated as a conflict-environment operation, not standard business travel. Legal risk assessment, communications contingency planning, medical evacuation planning, and continuous security monitoring are all baseline requirements.
 
-For security assessment services for Myanmar operations, see our [executive protection services](/services/executive-protection/) and [risk assessments](/services/risk-assessments/).
+For security assessment services for Myanmar operations, see our [executive protection services](/services/executive-protection/) and [risk assessments](/risk-assessments/).
