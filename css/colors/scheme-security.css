@@ -1,0 +1,14 @@
+/* Security & Bodyguard — Custom CyberGuard Color Scheme
+   Dark, professional: charcoal, navy, slate. Not military.
+   Confidence without aggression. Competence, discretion.
+*/
+* {
+  --primary-color: #6b8299;
+  --primary-color-rgb: 107, 130, 153;
+  --secondary-color: #4f6a82;
+  --primary-gradient: 45deg, var(--primary-color), var(--secondary-color);
+  --bg-dark-1: #0f1419;
+  --bg-dark-2: #1a2332;
+  --bg-dark-3: #1e293b;  
+  --bg-dark-1-rgb: 15, 20, 25;
+}
