@@ -14,6 +14,10 @@ cities:
     slug: "jakarta"
     risk_level: "medium"
     summary: "Indonesia's commercial capital. Jemaah Islamiyah/IS-affiliated terrorism (historical but ongoing capability). Drug laws (death penalty for trafficking). Traffic and transport risks."
+  - name: "Medan"
+    slug: "medan"
+    risk_level: "moderate"
+    summary: "North Sumatra's capital and Indonesia's largest city outside Java. Palm oil and agribusiness hub distinct from Jakarta's finance sector. Mount Sinabung volcanic exclusion zone (Karo Regency), gateway to Lake Toba."
 faqs:
   - question: "Is Jemaah Islamiyah still active in Indonesia?"
     answer: "JI has been significantly degraded by Indonesian counter-terrorism operations since the 2002 Bali bombings. However, the organisation has not been eliminated. IS-affiliated groups remain present. The 2021 Makassar cathedral attack and 2022 Bandung attack demonstrate ongoing capability. Indonesia's counter-terrorism capability (Densus 88) is among the region's best."
